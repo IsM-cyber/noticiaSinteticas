@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-08-17T21:52:33.051150+00:00",
-  "article_count": 135,
-  "fetch_errors": [],
+  "generated_at": "2026-08-17T22:31:01.707207+00:00",
+  "article_count": 65,
+  "fetch_errors": [
+    "Necochea Digital: 403 Client Error: Forbidden for url: https://necocheadigital.com/"
+  ],
   "stories": [
     {
       "title": "Puerto Quequén profundiza su apoyo al sector productivo con la recuperación de caminos rurales",
-      "score": 1.89,
+      "score": 1.791,
       "sources_count": 3,
       "first_seen": "2026-08-17T01:33:34+00:00",
       "articles": [
@@ -33,437 +35,444 @@
       ]
     },
     {
-      "title": "Se completó la fecha 13 del fútbol local con todos triunfos para la zona A",
-      "score": 1.123,
+      "title": "Milei: \"Los enemigos de la libertad existen y no descansan\"",
+      "score": 1.224,
       "sources_count": 1,
-      "first_seen": "2026-08-17T21:04:44+00:00",
+      "first_seen": "2026-08-17T21:47:27+00:00",
       "articles": [
         {
-          "portal": "TSN Necochea",
-          "title": "Se completó la fecha 13 del fútbol local con todos triunfos para la zona A",
-          "url": "https://tsnnecochea.com.ar/deportes/se-completo-la-fecha-13-del-futbol-local-con-todos-triunfos-para-la-zona-a-234617/",
-          "published_at": "2026-08-17T21:04:44+00:00",
-          "category": "futbol"
+          "portal": "Ecos Diarios",
+          "title": "Milei: \"Los enemigos de la libertad existen y no descansan\"",
+          "url": "https://elecos.com.ar/milei-los-enemigos-de-la-libertad-existen-y-no-descansan",
+          "published_at": "2026-08-17T21:47:27+00:00",
+          "category": "nacionales"
         }
       ]
     },
     {
-      "title": "Rojas llamó a construir una Necochea unida y sostuvo que \"debemos seguir creciendo con los valores que nos inculcó San Martín\"",
-      "score": 1.1,
+      "title": "Andrea Salvini fue reelecta como presidenta de la Junta Ejecutiva",
+      "score": 1.021,
       "sources_count": 1,
-      "first_seen": "2026-08-17T21:52:33.051150+00:00",
+      "first_seen": "2026-08-17T19:36:45+00:00",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Rojas llamó a construir una Necochea unida y sostuvo que \"debemos seguir creciendo con los valores que nos inculcó San Martín\"",
-          "url": "https://necocheadigital.com/nota/119319/rojas-llamo-a-construir-una-necochea-unida-y-sostuvo-que-debemos-seguir-creciendo-con-los-valores-que-nos-inculco-san-martin/",
-          "published_at": null,
-          "category": null
+          "portal": "Ecos Diarios",
+          "title": "Andrea Salvini fue reelecta como presidenta de la Junta Ejecutiva",
+          "url": "https://elecos.com.ar/andrea-salvini-fue-reelecta-como-presidenta-de-la-junta-ejecutiva",
+          "published_at": "2026-08-17T19:36:45+00:00",
+          "category": "14"
         }
       ]
     },
     {
-      "title": "Milei reapareció tras varios días de silencio: defendió la libertad y advirtió sobre \"enemigos internos y externos\"",
-      "score": 1.1,
+      "title": "Tres partidos cerraron la fecha trece del Torneo Sergio Portugal",
+      "score": 0.984,
       "sources_count": 1,
-      "first_seen": "2026-08-17T21:52:33.051150+00:00",
+      "first_seen": "2026-08-17T19:10:30+00:00",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Milei reapareció tras varios días de silencio: defendió la libertad y advirtió sobre \"enemigos internos y externos\"",
-          "url": "https://necocheadigital.com/nota/119320/milei-reaparecio-tras-varios-dias-de-silencio-defendio-la-libertad-y-advirtio-sobre-enemigos-internos-y-externos/",
-          "published_at": null,
-          "category": null
+          "portal": "Ecos Diarios",
+          "title": "Tres partidos cerraron la fecha trece del Torneo Sergio Portugal",
+          "url": "https://elecos.com.ar/se-cierra-la-fecha-trece-del-torneo-sergio-portugal-con-tres-partidos",
+          "published_at": "2026-08-17T19:10:30+00:00",
+          "category": "11"
         }
       ]
     },
     {
-      "title": "Los medios nacionales destacaron a Necochea por estar entre los municipios con menor presión impositiva de la Provincia",
-      "score": 1.1,
+      "title": "LA MUNICIPALIDAD DE NECOCHEA HOMENAJEÒ AL GRAL. SAN MARTÌN EN EL 176º ANIVERSARIO DE SU PARTIDA.",
+      "score": 0.926,
       "sources_count": 1,
-      "first_seen": "2026-08-17T21:52:33.051150+00:00",
+      "first_seen": "2026-08-17T21:35:19+00:00",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Los medios nacionales destacaron a Necochea por estar entre los municipios con menor presión impositiva de la Provincia",
-          "url": "https://necocheadigital.com/nota/119316/los-medios-nacionales-destacaron-a-necochea-por-estar-entre-los-municipios-con-menor-presion-impositiva-de-la-provincia/",
-          "published_at": null,
-          "category": null
+          "portal": "Necochea Libre",
+          "title": "LA MUNICIPALIDAD DE NECOCHEA HOMENAJEÒ AL GRAL. SAN MARTÌN EN EL 176º ANIVERSARIO DE SU PARTIDA.",
+          "url": "https://necochealibre.com.ar/la-municipalidad-de-necochea-homenajeo-al-gral-san-martin-en-el-176o-de-su-partida/",
+          "published_at": "2026-08-17T21:35:19+00:00",
+          "category": "Locales"
         }
       ]
     },
     {
-      "title": "Puerto Quequén fortalece su respaldo al campo con aportes para recuperar caminos rurales afectados por las lluvias",
-      "score": 1.1,
+      "title": "Azul Hankel y Melanie Vucerich son campeonas provinciales de Tercera",
+      "score": 0.911,
       "sources_count": 1,
-      "first_seen": "2026-08-17T21:52:33.051150+00:00",
+      "first_seen": "2026-08-17T18:15:14+00:00",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Puerto Quequén fortalece su respaldo al campo con aportes para recuperar caminos rurales afectados por las lluvias",
-          "url": "https://necocheadigital.com/nota/119317/puerto-quequen-fortalece-su-respaldo-al-campo-con-aportes-para-recuperar-caminos-rurales-afectados-por-las-lluvias/",
-          "published_at": null,
-          "category": null
+          "portal": "Ecos Diarios",
+          "title": "Azul Hankel y Melanie Vucerich son campeonas provinciales de Tercera",
+          "url": "https://elecos.com.ar/azul-hankel-y-melanie-vucerich-son-campeonas-provinciales-de-tercera",
+          "published_at": "2026-08-17T18:15:14+00:00",
+          "category": "11"
         }
       ]
     },
     {
-      "title": "La familia de Germán Appella convoca a acompañar el pedido de justicia en una jornada clave del juicio",
-      "score": 1.1,
+      "title": "Villa Díaz Vélez se afianza en la cima y Estación Quequén sigue mandando",
+      "score": 0.901,
       "sources_count": 1,
-      "first_seen": "2026-08-17T21:52:33.051150+00:00",
+      "first_seen": "2026-08-17T21:16:21+00:00",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "La familia de Germán Appella convoca a acompañar el pedido de justicia en una jornada clave del juicio",
-          "url": "https://necocheadigital.com/nota/119318/la-familia-de-german-appella-convoca-a-acompanar-el-pedido-de-justicia-en-una-jornada-clave-del-juicio/",
-          "published_at": null,
-          "category": null
+          "portal": "Diario NQ",
+          "title": "Villa Díaz Vélez se afianza en la cima y Estación Quequén sigue mandando",
+          "url": "https://diarionq.com.ar/villa-diaz-velez-se-afianza-en-la-cima-y-estacion-quequen-sigue-mandando/",
+          "published_at": "2026-08-17T21:16:21+00:00",
+          "category": "Destacadas"
         }
       ]
     },
     {
-      "title": "104 proyectos se presentaron en la 34° Feria Regional de Educación, Arte y Ciencia",
-      "score": 1.1,
+      "title": "Moria Casán cumplió 80 años",
+      "score": 0.853,
       "sources_count": 1,
-      "first_seen": "2026-08-17T21:52:33.051150+00:00",
+      "first_seen": "2026-08-17T17:27:52+00:00",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "104 proyectos se presentaron en la 34° Feria Regional de Educación, Arte y Ciencia",
-          "url": "https://necocheadigital.com/nota/119313/104-proyectos-se-presentaron-en-la-34-deg-feria-regional-de-educacion-arte-y-ciencia/",
-          "published_at": null,
-          "category": null
+          "portal": "Ecos Diarios",
+          "title": "Moria Casán cumplió 80 años",
+          "url": "https://elecos.com.ar/moria-casan-cumplio-80-anos",
+          "published_at": "2026-08-17T17:27:52+00:00",
+          "category": "104"
         }
       ]
     },
     {
-      "title": "Los municipales aceptaron la propuesta salarial y acordaron aumentos del 3% hasta octubre y del 8% en enero",
-      "score": 1.1,
+      "title": "En el aniversario del fallecimiento de San Martín, Rojas pidió “trabajar unidos”",
+      "score": 0.787,
       "sources_count": 1,
-      "first_seen": "2026-08-17T21:52:33.051150+00:00",
+      "first_seen": "2026-08-17T16:29:24+00:00",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Los municipales aceptaron la propuesta salarial y acordaron aumentos del 3% hasta octubre y del 8% en enero",
-          "url": "https://necocheadigital.com/nota/119312/los-municipales-aceptaron-la-propuesta-salarial-y-acordaron-aumentos-del-3-hasta-octubre-y-del-8-en-enero/",
-          "published_at": null,
-          "category": null
+          "portal": "Ecos Diarios",
+          "title": "En el aniversario del fallecimiento de San Martín, Rojas pidió “trabajar unidos”",
+          "url": "https://elecos.com.ar/en-el-aniversario-de-san-martin-rojas-pidio-trabajar-unidos",
+          "published_at": "2026-08-17T16:29:24+00:00",
+          "category": "14"
         }
       ]
     },
     {
-      "title": "El nuevo grupo electrógeno del Hospital Irurzun ya respondió ante un corte de luz",
-      "score": 1.1,
+      "title": "Taekwon-Do ITF: Master Class a cargo del Gran Maestro Ebel Barat",
+      "score": 0.75,
       "sources_count": 1,
-      "first_seen": "2026-08-17T21:52:33.051150+00:00",
+      "first_seen": "2026-08-17T19:03:52+00:00",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "El nuevo grupo electrógeno del Hospital Irurzun ya respondió ante un corte de luz",
-          "url": "https://necocheadigital.com/nota/119307/el-nuevo-grupo-electrogeno-del-hospital-irurzun-ya-respondio-ante-un-corte-de-luz/",
-          "published_at": null,
-          "category": null
+          "portal": "Diario NQ",
+          "title": "Taekwon-Do ITF: Master Class a cargo del Gran Maestro Ebel Barat",
+          "url": "https://diarionq.com.ar/taekwon-do-itf-master-class-a-cargo-del-gran-maestro-ebel-barat/",
+          "published_at": "2026-08-17T19:03:52+00:00",
+          "category": "Deportes"
         }
       ]
     },
     {
-      "title": "El Polideportivo Municipal se prepara para una jornada a puro combate con Hombres de Honor 16 y Kimura Pro 2",
-      "score": 1.1,
+      "title": "Guillermo Vilas cumple 74 años: el marplatense que le enseñó al país a querer el tenis",
+      "score": 0.742,
       "sources_count": 1,
-      "first_seen": "2026-08-17T21:52:33.051150+00:00",
+      "first_seen": "2026-08-17T15:47:15+00:00",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "El Polideportivo Municipal se prepara para una jornada a puro combate con Hombres de Honor 16 y Kimura Pro 2",
-          "url": "https://necocheadigital.com/nota/119306/el-polideportivo-municipal-se-prepara-para-una-jornada-a-puro-combate-con-hombres-de-honor-16-y-kimura-pro-2/",
-          "published_at": null,
-          "category": null
+          "portal": "Ecos Diarios",
+          "title": "Guillermo Vilas cumple 74 años: el marplatense que le enseñó al país a querer el tenis",
+          "url": "https://elecos.com.ar/guillermo-vilas-cumple-74-anos-el-marplatense-que-le-enseno-al-pais-a-querer-el-tenis",
+          "published_at": "2026-08-17T15:47:15+00:00",
+          "category": "deportes-nacional"
         }
       ]
     },
     {
-      "title": "El municipio organizará el festejo por el del Día del Niño el domingo 23",
-      "score": 1.1,
+      "title": "Tras el 17 de agosto, cuáles son los próximos feriados de este 2026",
+      "score": 0.719,
       "sources_count": 1,
-      "first_seen": "2026-08-17T21:52:33.051150+00:00",
+      "first_seen": "2026-08-17T15:24:52+00:00",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "El municipio organizará el festejo por el del Día del Niño el domingo 23",
-          "url": "https://necocheadigital.com/nota/119314/el-municipio-organizara-el-festejo-por-el-del-dia-del-nino-el-domingo-23/",
-          "published_at": null,
-          "category": null
+          "portal": "Ecos Diarios",
+          "title": "Tras el 17 de agosto, cuáles son los próximos feriados de este 2026",
+          "url": "https://elecos.com.ar/tras-el-17-de-agosto-cuales-son-los-proximos-feriados-de-este-2026",
+          "published_at": "2026-08-17T15:24:52+00:00",
+          "category": "nacionales"
         }
       ]
     },
     {
-      "title": "La colectividad árabe invita a vivir una tarde de danzas y a acompañar arreglos de su sede",
-      "score": 1.1,
+      "title": "El Polaco: “La cumbia sigue haciendo feliz a la gente”",
+      "score": 0.71,
       "sources_count": 1,
-      "first_seen": "2026-08-17T21:52:33.051150+00:00",
+      "first_seen": "2026-08-17T15:15:58+00:00",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "La colectividad árabe invita a vivir una tarde de danzas y a acompañar arreglos de su sede",
-          "url": "https://necocheadigital.com/nota/119304/la-colectividad-arabe-invita-a-vivir-una-tarde-de-danzas-y-a-acompanar-arreglos-de-su-sede/",
-          "published_at": null,
-          "category": null
+          "portal": "Ecos Diarios",
+          "title": "El Polaco: “La cumbia sigue haciendo feliz a la gente”",
+          "url": "https://elecos.com.ar/el-polaco-la-cumbia-sigue-haciendo-feliz-a-la-gente",
+          "published_at": "2026-08-17T15:15:58+00:00",
+          "category": "104"
         }
       ]
     },
     {
-      "title": "El “Gigante” de Huracán estrena piso flotante y nueva iluminación",
-      "score": 1.1,
+      "title": "Meta enfrenta un juicio histórico que podría quebrar a la empresa",
+      "score": 0.71,
       "sources_count": 1,
-      "first_seen": "2026-08-17T21:52:33.051150+00:00",
+      "first_seen": "2026-08-17T18:24:20+00:00",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "El “Gigante” de Huracán estrena piso flotante y nueva iluminación",
-          "url": "https://necocheadigital.com/nota/119302/el-gigante-de-huracan-estrena-piso-flotante-y-nueva-iluminacion/",
-          "published_at": null,
-          "category": null
+          "portal": "Informate Necochea",
+          "title": "Meta enfrenta un juicio histórico que podría quebrar a la empresa",
+          "url": "https://informatenecochea.com/noticia/meta-enfrenta-un-juicio-historico-que-podria-quebrar-a-la-empresa",
+          "published_at": "2026-08-17T18:24:20+00:00",
+          "category": "Nacional"
         }
       ]
     },
     {
-      "title": "Controlaron un incendio en calle 63 y evitaron que las llamas alcanzaran viviendas",
-      "score": 1.1,
+      "title": "Resumen: En el homenaje a San Martín, Rojas aprovechó para marcar la agenda local y llamar a la unidad",
+      "score": 0.7,
       "sources_count": 1,
-      "first_seen": "2026-08-17T21:52:33.051150+00:00",
+      "first_seen": "2026-08-17T18:14:18+00:00",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Controlaron un incendio en calle 63 y evitaron que las llamas alcanzaran viviendas",
-          "url": "https://necocheadigital.com/nota/119305/controlaron-un-incendio-en-calle-63-y-evitaron-que-las-llamas-alcanzaran-viviendas/",
-          "published_at": null,
-          "category": null
+          "portal": "Informate Necochea",
+          "title": "Resumen: En el homenaje a San Martín, Rojas aprovechó para marcar la agenda local y llamar a la unidad",
+          "url": "https://informatenecochea.com/noticia/resumen-en-el-homenaje-a-san-martin-rojas-aprovecho-para-marcar-la-agenda-local-y-llamar-a-la-unidad",
+          "published_at": "2026-08-17T18:14:18+00:00",
+          "category": "Local"
         }
       ]
     },
     {
-      "title": "El “Súper Niño” pone en alerta al campo y complica aún más la salida de la cosecha de maíz",
-      "score": 1.1,
+      "title": "Detuvieron en Quequén a un hombre acusado de participar de un robo",
+      "score": 0.638,
       "sources_count": 1,
-      "first_seen": "2026-08-17T21:52:33.051150+00:00",
+      "first_seen": "2026-08-17T13:58:37+00:00",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "El “Súper Niño” pone en alerta al campo y complica aún más la salida de la cosecha de maíz",
-          "url": "https://necocheadigital.com/nota/119301/el-super-nino-pone-en-alerta-al-campo-y-complica-aun-mas-la-salida-de-la-cosecha-de-maiz/",
-          "published_at": null,
-          "category": null
+          "portal": "Ecos Diarios",
+          "title": "Detuvieron en Quequén a un hombre acusado de participar de un robo",
+          "url": "https://elecos.com.ar/detuvieron-en-quequen-a-un-hombre-acusado-de-participar-de-un-robo",
+          "published_at": "2026-08-17T13:58:37+00:00",
+          "category": "13"
         }
       ]
     },
     {
-      "title": "Necochea recibe a más de 20 equipos para un gran encuentro de Newcon durante el fin de semana largo",
-      "score": 1.1,
+      "title": "Apagón en La Plata: el incendio de una central eléctrica dejó miles de vecinos sin luz",
+      "score": 0.616,
       "sources_count": 1,
-      "first_seen": "2026-08-17T21:52:33.051150+00:00",
+      "first_seen": "2026-08-17T13:33:27+00:00",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Necochea recibe a más de 20 equipos para un gran encuentro de Newcon durante el fin de semana largo",
-          "url": "https://necocheadigital.com/nota/119303/necochea-recibe-a-mas-de-20-equipos-para-un-gran-encuentro-de-newcon-durante-el-fin-de-semana-largo/",
-          "published_at": null,
-          "category": null
+          "portal": "Ecos Diarios",
+          "title": "Apagón en La Plata: el incendio de una central eléctrica dejó miles de vecinos sin luz",
+          "url": "https://elecos.com.ar/apagon-en-la-plata-el-incendio-de-una-central-electrica-dejo-miles-de-vecinos-sin-luz",
+          "published_at": "2026-08-17T13:33:27+00:00",
+          "category": "nacionales"
         }
       ]
     },
     {
-      "title": "Este lunes será el acto en homenaje al General San Martín",
-      "score": 1.1,
+      "title": "Se estrenó en Necochea el videoclip de “Máximas de San Martín”",
+      "score": 0.613,
       "sources_count": 1,
-      "first_seen": "2026-08-17T21:52:33.051150+00:00",
+      "first_seen": "2026-08-17T13:29:24+00:00",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Este lunes será el acto en homenaje al General San Martín",
-          "url": "https://necocheadigital.com/nota/119300/este-lunes-sera-el-acto-en-homenaje-al-general-san-martin/",
-          "published_at": null,
-          "category": null
+          "portal": "Ecos Diarios",
+          "title": "Se estrenó en Necochea el videoclip de “Máximas de San Martín”",
+          "url": "https://elecos.com.ar/se-estreno-en-necochea-el-videoclip-de-maximas-de-san-martin",
+          "published_at": "2026-08-17T13:29:24+00:00",
+          "category": "104"
         }
       ]
     },
     {
-      "title": "Necochea será sede este fin de semana del tercer Torneo Provincial de Pádel FEJUBA",
-      "score": 1.1,
+      "title": "Hombres de Honor 16 y Kimura Pro 2 convocaron a más de mil personas en el Polideportivo",
+      "score": 0.469,
       "sources_count": 1,
-      "first_seen": "2026-08-17T21:52:33.051150+00:00",
+      "first_seen": "2026-08-17T13:25:19+00:00",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Necochea será sede este fin de semana del tercer Torneo Provincial de Pádel FEJUBA",
-          "url": "https://necocheadigital.com/nota/119299/necochea-sera-sede-este-fin-de-semana-del-tercer-torneo-provincial-de-padel-fejuba/",
-          "published_at": null,
-          "category": null
+          "portal": "Diario NQ",
+          "title": "Hombres de Honor 16 y Kimura Pro 2 convocaron a más de mil personas en el Polideportivo",
+          "url": "https://diarionq.com.ar/hombres-de-honor-16-y-kimura-pro-2-convocaron-a-mas-de-mil-personas-en-el-polideportivo/",
+          "published_at": "2026-08-17T13:25:19+00:00",
+          "category": "Deportes"
         }
       ]
     },
     {
-      "title": "Aprehendieron a dos jóvenes y esclarecieron una serie de robos en vehículos",
-      "score": 1.1,
+      "title": "Lunes fresco y mayormente nublado: la máxima llegará a 11°C",
+      "score": 0.466,
       "sources_count": 1,
-      "first_seen": "2026-08-17T21:52:33.051150+00:00",
+      "first_seen": "2026-08-17T13:21:50+00:00",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Aprehendieron a dos jóvenes y esclarecieron una serie de robos en vehículos",
-          "url": "https://necocheadigital.com/nota/119309/aprehendieron-a-dos-jovenes-y-esclarecieron-una-serie-de-robos-en-vehiculos/",
-          "published_at": null,
-          "category": null
+          "portal": "Diario NQ",
+          "title": "Lunes fresco y mayormente nublado: la máxima llegará a 11°C",
+          "url": "https://diarionq.com.ar/lunes-fresco-y-mayormente-nublado-la-maxima-llegara-a-11c/",
+          "published_at": "2026-08-17T13:21:50+00:00",
+          "category": "Destacadas"
         }
       ]
     },
     {
-      "title": "Otra vez la Ruta 88: Choque y vuelco de un vehículo frente al Parque Industrial de Mar del Plata",
-      "score": 1.1,
+      "title": "Sábado 17 de agosto de 1996",
+      "score": 0.263,
       "sources_count": 1,
-      "first_seen": "2026-08-17T21:52:33.051150+00:00",
+      "first_seen": "2026-08-17T03:20:00+00:00",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Otra vez la Ruta 88: Choque y vuelco de un vehículo frente al Parque Industrial de Mar del Plata",
-          "url": "https://necocheadigital.com/nota/119310/otra-vez-la-ruta-88-choque-y-vuelco-de-un-vehiculo-frente-al-parque-industrial-de-mar-del-plata/",
-          "published_at": null,
-          "category": null
+          "portal": "Ecos Diarios",
+          "title": "Sábado 17 de agosto de 1996",
+          "url": "https://elecos.com.ar/sabado-17-de-agosto-de-1996",
+          "published_at": "2026-08-17T03:20:00+00:00",
+          "category": "20"
         }
       ]
     },
     {
-      "title": "Hallaron sin vida a un jubilado y descubrieron un arsenal en su vivienda",
-      "score": 1.1,
+      "title": "Lunes 17 de agosto de 2026",
+      "score": 0.263,
       "sources_count": 1,
-      "first_seen": "2026-08-17T21:52:33.051150+00:00",
+      "first_seen": "2026-08-17T03:20:00+00:00",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Hallaron sin vida a un jubilado y descubrieron un arsenal en su vivienda",
-          "url": "https://necocheadigital.com/nota/119295/hallaron-sin-vida-a-un-jubilado-y-descubrieron-un-arsenal-en-su-vivienda/",
-          "published_at": null,
-          "category": null
+          "portal": "Ecos Diarios",
+          "title": "Lunes 17 de agosto de 2026",
+          "url": "https://elecos.com.ar/lunes-17-de-agosto-de-2026-1",
+          "published_at": "2026-08-17T03:20:00+00:00",
+          "category": "clasificados"
+        },
+        {
+          "portal": "Ecos Diarios",
+          "title": "Lunes 17 de agosto de 2026",
+          "url": "https://elecos.com.ar/lunes-17-de-agosto-de-2026",
+          "published_at": "2026-08-17T03:20:00+00:00",
+          "category": "95"
         }
       ]
     },
     {
-      "title": "Aprea minimizó su consumo de alcohol antes de atropellar y matar a Germán Appella",
-      "score": 1.1,
+      "title": "Pádel: gran cosecha necochense rumbo a las finales del 3er Provincial de FEJUBA",
+      "score": 0.261,
       "sources_count": 1,
-      "first_seen": "2026-08-17T21:52:33.051150+00:00",
+      "first_seen": "2026-08-17T03:15:04+00:00",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Aprea minimizó su consumo de alcohol antes de atropellar y matar a Germán Appella",
-          "url": "https://necocheadigital.com/nota/119287/aprea-minimizo-su-consumo-de-alcohol-antes-de-atropellar-y-matar-a-german-appella/",
-          "published_at": null,
-          "category": null
+          "portal": "Ecos Diarios",
+          "title": "Pádel: gran cosecha necochense rumbo a las finales del 3er Provincial de FEJUBA",
+          "url": "https://elecos.com.ar/padel-gran-cosecha-necochense-rumbo-a-las-finales-del-3er-provincial-de-fejuba",
+          "published_at": "2026-08-17T03:15:04+00:00",
+          "category": "11"
         }
       ]
     },
     {
-      "title": "Robo a mano armada en una estación de servicio de Quequén",
-      "score": 1.1,
+      "title": "River cortó la mala racha y le ganó 2 a 0 a Argentinos en el Monumental",
+      "score": 0.255,
       "sources_count": 1,
-      "first_seen": "2026-08-17T21:52:33.051150+00:00",
+      "first_seen": "2026-08-17T02:58:25+00:00",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Robo a mano armada en una estación de servicio de Quequén",
-          "url": "https://necocheadigital.com/nota/119296/robo-a-mano-armada-en-una-estacion-de-servicio-de-quequen/",
-          "published_at": null,
-          "category": null
+          "portal": "Ecos Diarios",
+          "title": "River cortó la mala racha y le ganó 2 a 0 a Argentinos en el Monumental",
+          "url": "https://elecos.com.ar/river-corto-la-mala-racha-y-le-gano-2-a-0-a-argentinos-en-el-monumental",
+          "published_at": "2026-08-17T02:58:25+00:00",
+          "category": "deportes-nacional"
         }
       ]
     },
     {
-      "title": "Detuvieron al acusado de robarle una moto a una mujer",
-      "score": 1.1,
+      "title": "Laura Bulesevich: “Nunca hay que dejar de soñar y tener proyectos”",
+      "score": 0.249,
       "sources_count": 1,
-      "first_seen": "2026-08-17T21:52:33.051150+00:00",
+      "first_seen": "2026-08-17T02:40:20+00:00",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Detuvieron al acusado de robarle una moto a una mujer",
-          "url": "https://necocheadigital.com/nota/119288/detuvieron-al-acusado-de-robarle-una-moto-a-una-mujer/",
-          "published_at": null,
-          "category": null
+          "portal": "Ecos Diarios",
+          "title": "Laura Bulesevich: “Nunca hay que dejar de soñar y tener proyectos”",
+          "url": "https://elecos.com.ar/laura-bulesevich-nunca-hay-que-dejar-de-sonar-y-tener-proyectos",
+          "published_at": "2026-08-17T02:40:20+00:00",
+          "category": "14"
         }
       ]
     },
     {
-      "title": "La intervención del COM permitió evitar un nuevo ilícito en la ciudad",
-      "score": 1.1,
+      "title": "Homenaje a José de San Martín en Lobería",
+      "score": 0.159,
       "sources_count": 1,
-      "first_seen": "2026-08-17T21:52:33.051150+00:00",
+      "first_seen": "2026-08-16T21:16:57+00:00",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "La intervención del COM permitió evitar un nuevo ilícito en la ciudad",
-          "url": "https://necocheadigital.com/nota/119281/la-intervencion-del-com-permitio-evitar-un-nuevo-ilicito-en-la-ciudad/",
-          "published_at": null,
-          "category": null
+          "portal": "Ecos Diarios",
+          "title": "Homenaje a José de San Martín en Lobería",
+          "url": "https://elecos.com.ar/homenaje-a-jose-de-san-martin-en-loberia",
+          "published_at": "2026-08-16T21:16:57+00:00",
+          "category": "108"
         }
       ]
     },
     {
-      "title": "A un año de la inauguración del tomógrafo, el Hospital Ferreyra cuenta con una herramienta clave para la salud pública",
-      "score": 1.1,
+      "title": "Mundial de Hockey 2026: Argentina arrasa 3-0 a Japón en su debut",
+      "score": 0.157,
       "sources_count": 1,
-      "first_seen": "2026-08-17T21:52:33.051150+00:00",
+      "first_seen": "2026-08-17T00:18:02+00:00",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "A un año de la inauguración del tomógrafo, el Hospital Ferreyra cuenta con una herramienta clave para la salud pública",
-          "url": "https://necocheadigital.com/nota/119291/a-un-ano-de-la-inauguracion-del-tomografo-el-hospital-ferreyra-cuenta-con-una-herramienta-clave-para-la-salud-publica/",
-          "published_at": null,
-          "category": null
+          "portal": "Necochea News",
+          "title": "Mundial de Hockey 2026: Argentina arrasa 3-0 a Japón en su debut",
+          "url": "https://necocheanews.com.ar/mundial-de-hockey-2026-argentina-arrasa-3-0-a-japon-en-su-debut/",
+          "published_at": "2026-08-17T00:18:02+00:00",
+          "category": "DEPORTES"
         }
       ]
     },
     {
-      "title": "Un estudio desarrollado por La Libertad Avanza ubicó a Necochea como uno de los municipios con menor presión tributaria de la Provincia",
-      "score": 1.1,
+      "title": "EE.UU. mantiene su neutralidad en el conflicto de Malvinas, según Peter Lamelas",
+      "score": 0.156,
       "sources_count": 1,
-      "first_seen": "2026-08-17T21:52:33.051150+00:00",
+      "first_seen": "2026-08-17T00:15:13+00:00",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Un estudio desarrollado por La Libertad Avanza ubicó a Necochea como uno de los municipios con menor presión tributaria de la Provincia",
-          "url": "https://necocheadigital.com/nota/119308/un-estudio-desarrollado-por-la-libertad-avanza-ubico-a-necochea-como-uno-de-los-municipios-con-menor-presion-tributaria-de-la-provincia/",
-          "published_at": null,
-          "category": null
+          "portal": "Necochea News",
+          "title": "EE.UU. mantiene su neutralidad en el conflicto de Malvinas, según Peter Lamelas",
+          "url": "https://necocheanews.com.ar/ee-uu-mantiene-su-neutralidad-en-el-conflicto-de-malvinas-segun-peter-lamelas/",
+          "published_at": "2026-08-17T00:15:13+00:00",
+          "category": "INTERNACIONALES"
         }
       ]
     },
     {
-      "title": "La Sub 15 de Necochea cayó ante Tandil y quedó segunda en la Zona 2",
-      "score": 1.1,
+      "title": "River vuelve a la victoria con el debut de Almada: 2-0 sobre Argentinos Juniors en el Monumental",
+      "score": 0.156,
       "sources_count": 1,
-      "first_seen": "2026-08-17T21:52:33.051150+00:00",
+      "first_seen": "2026-08-17T00:13:17+00:00",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "La Sub 15 de Necochea cayó ante Tandil y quedó segunda en la Zona 2",
-          "url": "https://necocheadigital.com/nota/119298/la-sub-15-de-necochea-cayo-ante-tandil-y-quedo-segunda-en-la-zona-2/",
-          "published_at": null,
-          "category": null
+          "portal": "Necochea News",
+          "title": "River vuelve a la victoria con el debut de Almada: 2-0 sobre Argentinos Juniors en el Monumental",
+          "url": "https://necocheanews.com.ar/river-vuelve-a-la-victoria-con-el-debut-de-almada-2-0-sobre-argentinos-juniors-en-el-monumental/",
+          "published_at": "2026-08-17T00:13:17+00:00",
+          "category": "DEPORTES"
         }
       ]
     },
     {
-      "title": "Llevan a cabo tareas de entoscado de calles y servicios públicos en distintos puntos de Juan N. Fernández",
-      "score": 1.1,
+      "title": "\"Las huellas de Toviggino dentro de la mansión de Pilar: fotos, autos y gastos millonarios que encienden la causa\"",
+      "score": 0.097,
       "sources_count": 1,
-      "first_seen": "2026-08-17T21:52:33.051150+00:00",
+      "first_seen": "2026-08-16T18:32:12+00:00",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Llevan a cabo tareas de entoscado de calles y servicios públicos en distintos puntos de Juan N. Fernández",
-          "url": "https://necocheadigital.com/nota/119290/llevan-a-cabo-tareas-de-entoscado-de-calles-y-servicios-publicos-en-distintos-puntos-de-juan-n-fernandez/",
-          "published_at": null,
-          "category": null
+          "portal": "Informate Necochea",
+          "title": "\"Las huellas de Toviggino dentro de la mansión de Pilar: fotos, autos y gastos millonarios que encienden la causa\"",
+          "url": "https://informatenecochea.com/noticia/las-huellas-de-toviggino-dentro-de-la-mansion-de-pilar-fotos-autos-y-gastos-millonarios-que-encienden-la-causa",
+          "published_at": "2026-08-16T18:32:12+00:00",
+          "category": "Nacional"
         }
       ]
     }
