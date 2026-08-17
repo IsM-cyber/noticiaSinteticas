@@ -1,0 +1,33 @@
+name: scrape
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # cada 30 minutos
+  workflow_dispatch:          # botón "Run workflow" en GitHub para correr a mano
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependencias
+        run: pip install -r scraper/requirements.txt
+
+      - name: Correr el robot
+        run: python -m scraper.main
+
+      - name: Committear el resultado
+        run: |
+          git config user.name "noticias-sinteticas-bot"
+          git config user.email "bot@localhost"
+          git add data/news.json
+          git diff --cached --quiet || git commit -m "chore: actualizar ranking $(date -u +%Y-%m-%dT%H:%M)"
+          git push
