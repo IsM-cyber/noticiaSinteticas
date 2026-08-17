@@ -9,11 +9,17 @@ export type Article = {
   category: string | null;
 };
 
+export type Summary = {
+  paragraphs: string[];
+  generated: string | null;
+};
+
 export type Story = {
   title: string;
   score: number;
   sources_count: number;
   first_seen: string;
+  summary?: Summary;
   articles: Article[];
 };
 

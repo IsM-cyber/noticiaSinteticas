@@ -28,7 +28,7 @@ MAX_ITEMS_PER_SOURCE = 40
 RSC_CHUNK_RE = re.compile(r'self\.__next_f\.push\(\[1,"(.*?)"\]\)</script>', re.S)
 RSC_ITEM_RE = re.compile(
     r'\{"id":\d+,"titulo":"((?:[^"\\]|\\.)*)","slug":"((?:[^"\\]|\\.)*)"'
-    r',"copete":"(?:[^"\\]|\\.)*","imagen_url":"(?:[^"\\]|\\.)*","video_url":(?:[^,]*),'
+    r',"copete":"((?:[^"\\]|\\.)*)","imagen_url":"(?:[^"\\]|\\.)*","video_url":(?:[^,]*),'
     r'"es_video":\d+,"es_destacada":\d+,"fecha_publicacion":"([\dT:.Z-]+)",'
     r'"seccion_nombre":"((?:[^"\\]|\\.)*)"',
     re.S,
@@ -80,8 +80,20 @@ def _fetch_rss(source: dict) -> list[dict]:
             "url": link,
             "published_at": published,
             "category": category,
+            "body": _body_from_feed(entry),
         })
     return out
+
+
+def _body_from_feed(entry) -> str | None:
+    """Texto de la nota desde el propio feed (content > summary > description)."""
+    if entry.get("content") and entry["content"][0].get("value"):
+        return entry["content"][0]["value"]
+    if entry.get("summary"):
+        return entry["summary"]
+    if entry.get("description"):
+        return entry["description"]
+    return None
 
 
 def _fetch_html(source: dict) -> list[dict]:
@@ -133,10 +145,11 @@ def _fetch_rsc(source: dict) -> list[dict]:
     for m in RSC_ITEM_RE.finditer(decoded):
         title = _clean(m.group(1))
         slug = _clean(m.group(2))
+        copete = _clean(m.group(3))
         if not title or not slug:
             continue
         try:
-            published = _iso(dt.datetime.fromisoformat(m.group(3).replace("Z", "+00:00")))
+            published = _iso(dt.datetime.fromisoformat(m.group(4).replace("Z", "+00:00")))
         except ValueError:
             published = None
         out.append({
@@ -144,9 +157,27 @@ def _fetch_rsc(source: dict) -> list[dict]:
             "title": title,
             "url": source["article_url_template"].format(slug=slug),
             "published_at": published,
-            "category": m.group(4) or None,
+            "category": m.group(5) or None,
+            "body": copete or None,
         })
     return out
+
+
+def fetch_body(source: dict, url: str) -> str | None:
+    """Baja el texto de una nota (para fuentes HTML). Devuelve texto plano o None."""
+    if source["type"] != "html":
+        return None
+    resp = requests.get(url, headers=HEADERS, timeout=20)
+    resp.raise_for_status()
+    soup = BeautifulSoup(resp.text, "html.parser")
+    selector = source.get("body_selector")
+    if not selector:
+        return None
+    element = soup.select_one(selector)
+    if element is None:
+        return None
+    text = element.get_text("\n", strip=True)
+    return text or None
 
 
 def fetch_all() -> tuple[list[dict], list[str]]:

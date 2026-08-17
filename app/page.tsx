@@ -45,16 +45,24 @@ export default function Home() {
                 <div className="card-head">
                   <span className="rank">#{i + 1}</span>
                   <span className="resonance" title="Puntaje de resonancia">
-                    🔥 {story.sources_count} {story.sources_count === 1 ? "fuente" : "fuentes"}
+                    ⟡ {story.sources_count} {story.sources_count === 1 ? "fuente" : "fuentes"}
                   </span>
                   <span className="when">{timeAgo(story.first_seen)}</span>
                 </div>
                 <h2>{story.title}</h2>
+                {story.summary && story.summary.paragraphs.length > 0 && (
+                  <div className="summary">
+                    <span className="summary-label">Resumen sintético</span>
+                    {story.summary.paragraphs.map((paragraph, j) => (
+                      <p key={j}>{paragraph}</p>
+                    ))}
+                  </div>
+                )}
                 <ul className="sources">
                   {story.articles.map((article, j) => (
                     <li key={article.url + j}>
                       <a href={article.url} target="_blank" rel="noopener noreferrer">
-                        Ver en {article.portal}
+                        Fuente: {article.portal}
                       </a>
                       {article.category && (
                         <span className="category">{article.category}</span>
