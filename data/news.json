@@ -1,478 +1,455 @@
 {
-  "generated_at": "2026-08-17T22:31:01.707207+00:00",
-  "article_count": 65,
-  "fetch_errors": [
-    "Necochea Digital: 403 Client Error: Forbidden for url: https://necocheadigital.com/"
-  ],
+  "generated_at": "2026-08-17T23:28:26.285574+00:00",
+  "article_count": 175,
+  "fetch_errors": [],
   "stories": [
     {
-      "title": "Puerto Quequén profundiza su apoyo al sector productivo con la recuperación de caminos rurales",
-      "score": 1.791,
-      "sources_count": 3,
-      "first_seen": "2026-08-17T01:33:34+00:00",
-      "articles": [
-        {
-          "portal": "Ecos Diarios",
-          "title": "Puerto Quequén profundiza su apoyo al sector productivo con la recuperación de caminos rurales",
-          "url": "https://elecos.com.ar/puerto-quequen-recupero-caminos-rurales-anegados-en-la-ruta-228-para-que-la-actividad-no-se-detenga",
-          "published_at": "2026-08-17T02:47:53+00:00",
-          "category": "ecos-puerto"
-        },
-        {
-          "portal": "Necochea News",
-          "title": "Puerto Quequén profundiza su apoyo al sector productivo con la recuperación de caminos rurales",
-          "url": "https://necocheanews.com.ar/puerto-quequen-profundiza-su-apoyo-al-sector-productivo-con-la-recuperacion-de-caminos-rurales/",
-          "published_at": "2026-08-17T10:19:14+00:00",
-          "category": "LOCALES"
-        },
-        {
-          "portal": "Diario NQ",
-          "title": "Puerto Quequén profundiza su apoyo al sector productivo con la recuperación de caminos rurales",
-          "url": "https://diarionq.com.ar/puerto-quequen-profundiza-su-apoyo-al-sector-productivo-con-la-recuperacion-de-caminos-rurales/",
-          "published_at": "2026-08-17T01:33:34+00:00",
-          "category": "Destacadas"
-        }
-      ]
-    },
-    {
-      "title": "Milei: \"Los enemigos de la libertad existen y no descansan\"",
-      "score": 1.224,
+      "title": "Centro de Jubilados Barrio Sur y el objetivo de “contener al adulto mayor”",
+      "score": 1.266,
       "sources_count": 1,
-      "first_seen": "2026-08-17T21:47:27+00:00",
+      "first_seen": "2026-08-17T23:09:32+00:00",
       "articles": [
         {
           "portal": "Ecos Diarios",
-          "title": "Milei: \"Los enemigos de la libertad existen y no descansan\"",
-          "url": "https://elecos.com.ar/milei-los-enemigos-de-la-libertad-existen-y-no-descansan",
-          "published_at": "2026-08-17T21:47:27+00:00",
-          "category": "nacionales"
-        }
-      ]
-    },
-    {
-      "title": "Andrea Salvini fue reelecta como presidenta de la Junta Ejecutiva",
-      "score": 1.021,
-      "sources_count": 1,
-      "first_seen": "2026-08-17T19:36:45+00:00",
-      "articles": [
-        {
-          "portal": "Ecos Diarios",
-          "title": "Andrea Salvini fue reelecta como presidenta de la Junta Ejecutiva",
-          "url": "https://elecos.com.ar/andrea-salvini-fue-reelecta-como-presidenta-de-la-junta-ejecutiva",
-          "published_at": "2026-08-17T19:36:45+00:00",
+          "title": "Centro de Jubilados Barrio Sur y el objetivo de “contener al adulto mayor”",
+          "url": "https://elecos.com.ar/centro-de-jubilados-barrio-sur-y-el-objetivo-de-contener-al-adulto-mayor",
+          "published_at": "2026-08-17T23:09:32+00:00",
           "category": "14"
         }
       ]
     },
     {
-      "title": "Tres partidos cerraron la fecha trece del Torneo Sergio Portugal",
-      "score": 0.984,
+      "title": "Circulaban a alta velocidad con una camioneta y los denunciaron",
+      "score": 1.264,
       "sources_count": 1,
-      "first_seen": "2026-08-17T19:10:30+00:00",
+      "first_seen": "2026-08-17T23:08:29+00:00",
       "articles": [
         {
           "portal": "Ecos Diarios",
-          "title": "Tres partidos cerraron la fecha trece del Torneo Sergio Portugal",
-          "url": "https://elecos.com.ar/se-cierra-la-fecha-trece-del-torneo-sergio-portugal-con-tres-partidos",
-          "published_at": "2026-08-17T19:10:30+00:00",
-          "category": "11"
-        }
-      ]
-    },
-    {
-      "title": "LA MUNICIPALIDAD DE NECOCHEA HOMENAJEÒ AL GRAL. SAN MARTÌN EN EL 176º ANIVERSARIO DE SU PARTIDA.",
-      "score": 0.926,
-      "sources_count": 1,
-      "first_seen": "2026-08-17T21:35:19+00:00",
-      "articles": [
-        {
-          "portal": "Necochea Libre",
-          "title": "LA MUNICIPALIDAD DE NECOCHEA HOMENAJEÒ AL GRAL. SAN MARTÌN EN EL 176º ANIVERSARIO DE SU PARTIDA.",
-          "url": "https://necochealibre.com.ar/la-municipalidad-de-necochea-homenajeo-al-gral-san-martin-en-el-176o-de-su-partida/",
-          "published_at": "2026-08-17T21:35:19+00:00",
-          "category": "Locales"
-        }
-      ]
-    },
-    {
-      "title": "Azul Hankel y Melanie Vucerich son campeonas provinciales de Tercera",
-      "score": 0.911,
-      "sources_count": 1,
-      "first_seen": "2026-08-17T18:15:14+00:00",
-      "articles": [
-        {
-          "portal": "Ecos Diarios",
-          "title": "Azul Hankel y Melanie Vucerich son campeonas provinciales de Tercera",
-          "url": "https://elecos.com.ar/azul-hankel-y-melanie-vucerich-son-campeonas-provinciales-de-tercera",
-          "published_at": "2026-08-17T18:15:14+00:00",
-          "category": "11"
-        }
-      ]
-    },
-    {
-      "title": "Villa Díaz Vélez se afianza en la cima y Estación Quequén sigue mandando",
-      "score": 0.901,
-      "sources_count": 1,
-      "first_seen": "2026-08-17T21:16:21+00:00",
-      "articles": [
-        {
-          "portal": "Diario NQ",
-          "title": "Villa Díaz Vélez se afianza en la cima y Estación Quequén sigue mandando",
-          "url": "https://diarionq.com.ar/villa-diaz-velez-se-afianza-en-la-cima-y-estacion-quequen-sigue-mandando/",
-          "published_at": "2026-08-17T21:16:21+00:00",
-          "category": "Destacadas"
-        }
-      ]
-    },
-    {
-      "title": "Moria Casán cumplió 80 años",
-      "score": 0.853,
-      "sources_count": 1,
-      "first_seen": "2026-08-17T17:27:52+00:00",
-      "articles": [
-        {
-          "portal": "Ecos Diarios",
-          "title": "Moria Casán cumplió 80 años",
-          "url": "https://elecos.com.ar/moria-casan-cumplio-80-anos",
-          "published_at": "2026-08-17T17:27:52+00:00",
-          "category": "104"
-        }
-      ]
-    },
-    {
-      "title": "En el aniversario del fallecimiento de San Martín, Rojas pidió “trabajar unidos”",
-      "score": 0.787,
-      "sources_count": 1,
-      "first_seen": "2026-08-17T16:29:24+00:00",
-      "articles": [
-        {
-          "portal": "Ecos Diarios",
-          "title": "En el aniversario del fallecimiento de San Martín, Rojas pidió “trabajar unidos”",
-          "url": "https://elecos.com.ar/en-el-aniversario-de-san-martin-rojas-pidio-trabajar-unidos",
-          "published_at": "2026-08-17T16:29:24+00:00",
-          "category": "14"
-        }
-      ]
-    },
-    {
-      "title": "Taekwon-Do ITF: Master Class a cargo del Gran Maestro Ebel Barat",
-      "score": 0.75,
-      "sources_count": 1,
-      "first_seen": "2026-08-17T19:03:52+00:00",
-      "articles": [
-        {
-          "portal": "Diario NQ",
-          "title": "Taekwon-Do ITF: Master Class a cargo del Gran Maestro Ebel Barat",
-          "url": "https://diarionq.com.ar/taekwon-do-itf-master-class-a-cargo-del-gran-maestro-ebel-barat/",
-          "published_at": "2026-08-17T19:03:52+00:00",
-          "category": "Deportes"
-        }
-      ]
-    },
-    {
-      "title": "Guillermo Vilas cumple 74 años: el marplatense que le enseñó al país a querer el tenis",
-      "score": 0.742,
-      "sources_count": 1,
-      "first_seen": "2026-08-17T15:47:15+00:00",
-      "articles": [
-        {
-          "portal": "Ecos Diarios",
-          "title": "Guillermo Vilas cumple 74 años: el marplatense que le enseñó al país a querer el tenis",
-          "url": "https://elecos.com.ar/guillermo-vilas-cumple-74-anos-el-marplatense-que-le-enseno-al-pais-a-querer-el-tenis",
-          "published_at": "2026-08-17T15:47:15+00:00",
-          "category": "deportes-nacional"
-        }
-      ]
-    },
-    {
-      "title": "Tras el 17 de agosto, cuáles son los próximos feriados de este 2026",
-      "score": 0.719,
-      "sources_count": 1,
-      "first_seen": "2026-08-17T15:24:52+00:00",
-      "articles": [
-        {
-          "portal": "Ecos Diarios",
-          "title": "Tras el 17 de agosto, cuáles son los próximos feriados de este 2026",
-          "url": "https://elecos.com.ar/tras-el-17-de-agosto-cuales-son-los-proximos-feriados-de-este-2026",
-          "published_at": "2026-08-17T15:24:52+00:00",
-          "category": "nacionales"
-        }
-      ]
-    },
-    {
-      "title": "El Polaco: “La cumbia sigue haciendo feliz a la gente”",
-      "score": 0.71,
-      "sources_count": 1,
-      "first_seen": "2026-08-17T15:15:58+00:00",
-      "articles": [
-        {
-          "portal": "Ecos Diarios",
-          "title": "El Polaco: “La cumbia sigue haciendo feliz a la gente”",
-          "url": "https://elecos.com.ar/el-polaco-la-cumbia-sigue-haciendo-feliz-a-la-gente",
-          "published_at": "2026-08-17T15:15:58+00:00",
-          "category": "104"
-        }
-      ]
-    },
-    {
-      "title": "Meta enfrenta un juicio histórico que podría quebrar a la empresa",
-      "score": 0.71,
-      "sources_count": 1,
-      "first_seen": "2026-08-17T18:24:20+00:00",
-      "articles": [
-        {
-          "portal": "Informate Necochea",
-          "title": "Meta enfrenta un juicio histórico que podría quebrar a la empresa",
-          "url": "https://informatenecochea.com/noticia/meta-enfrenta-un-juicio-historico-que-podria-quebrar-a-la-empresa",
-          "published_at": "2026-08-17T18:24:20+00:00",
-          "category": "Nacional"
-        }
-      ]
-    },
-    {
-      "title": "Resumen: En el homenaje a San Martín, Rojas aprovechó para marcar la agenda local y llamar a la unidad",
-      "score": 0.7,
-      "sources_count": 1,
-      "first_seen": "2026-08-17T18:14:18+00:00",
-      "articles": [
-        {
-          "portal": "Informate Necochea",
-          "title": "Resumen: En el homenaje a San Martín, Rojas aprovechó para marcar la agenda local y llamar a la unidad",
-          "url": "https://informatenecochea.com/noticia/resumen-en-el-homenaje-a-san-martin-rojas-aprovecho-para-marcar-la-agenda-local-y-llamar-a-la-unidad",
-          "published_at": "2026-08-17T18:14:18+00:00",
-          "category": "Local"
-        }
-      ]
-    },
-    {
-      "title": "Detuvieron en Quequén a un hombre acusado de participar de un robo",
-      "score": 0.638,
-      "sources_count": 1,
-      "first_seen": "2026-08-17T13:58:37+00:00",
-      "articles": [
-        {
-          "portal": "Ecos Diarios",
-          "title": "Detuvieron en Quequén a un hombre acusado de participar de un robo",
-          "url": "https://elecos.com.ar/detuvieron-en-quequen-a-un-hombre-acusado-de-participar-de-un-robo",
-          "published_at": "2026-08-17T13:58:37+00:00",
+          "title": "Circulaban a alta velocidad con una camioneta y los denunciaron",
+          "url": "https://elecos.com.ar/circulaban-a-alta-velocidad-con-una-camioneta-y-los-denunciaron",
+          "published_at": "2026-08-17T23:08:29+00:00",
           "category": "13"
         }
       ]
     },
     {
-      "title": "Apagón en La Plata: el incendio de una central eléctrica dejó miles de vecinos sin luz",
-      "score": 0.616,
+      "title": "Gran viaje de adultos mayores de San Cayetano hacia Tandil",
+      "score": 1.211,
       "sources_count": 1,
-      "first_seen": "2026-08-17T13:33:27+00:00",
+      "first_seen": "2026-08-17T22:37:26+00:00",
       "articles": [
         {
           "portal": "Ecos Diarios",
-          "title": "Apagón en La Plata: el incendio de una central eléctrica dejó miles de vecinos sin luz",
-          "url": "https://elecos.com.ar/apagon-en-la-plata-el-incendio-de-una-central-electrica-dejo-miles-de-vecinos-sin-luz",
-          "published_at": "2026-08-17T13:33:27+00:00",
-          "category": "nacionales"
-        }
-      ]
-    },
-    {
-      "title": "Se estrenó en Necochea el videoclip de “Máximas de San Martín”",
-      "score": 0.613,
-      "sources_count": 1,
-      "first_seen": "2026-08-17T13:29:24+00:00",
-      "articles": [
-        {
-          "portal": "Ecos Diarios",
-          "title": "Se estrenó en Necochea el videoclip de “Máximas de San Martín”",
-          "url": "https://elecos.com.ar/se-estreno-en-necochea-el-videoclip-de-maximas-de-san-martin",
-          "published_at": "2026-08-17T13:29:24+00:00",
-          "category": "104"
-        }
-      ]
-    },
-    {
-      "title": "Hombres de Honor 16 y Kimura Pro 2 convocaron a más de mil personas en el Polideportivo",
-      "score": 0.469,
-      "sources_count": 1,
-      "first_seen": "2026-08-17T13:25:19+00:00",
-      "articles": [
-        {
-          "portal": "Diario NQ",
-          "title": "Hombres de Honor 16 y Kimura Pro 2 convocaron a más de mil personas en el Polideportivo",
-          "url": "https://diarionq.com.ar/hombres-de-honor-16-y-kimura-pro-2-convocaron-a-mas-de-mil-personas-en-el-polideportivo/",
-          "published_at": "2026-08-17T13:25:19+00:00",
-          "category": "Deportes"
-        }
-      ]
-    },
-    {
-      "title": "Lunes fresco y mayormente nublado: la máxima llegará a 11°C",
-      "score": 0.466,
-      "sources_count": 1,
-      "first_seen": "2026-08-17T13:21:50+00:00",
-      "articles": [
-        {
-          "portal": "Diario NQ",
-          "title": "Lunes fresco y mayormente nublado: la máxima llegará a 11°C",
-          "url": "https://diarionq.com.ar/lunes-fresco-y-mayormente-nublado-la-maxima-llegara-a-11c/",
-          "published_at": "2026-08-17T13:21:50+00:00",
-          "category": "Destacadas"
-        }
-      ]
-    },
-    {
-      "title": "Sábado 17 de agosto de 1996",
-      "score": 0.263,
-      "sources_count": 1,
-      "first_seen": "2026-08-17T03:20:00+00:00",
-      "articles": [
-        {
-          "portal": "Ecos Diarios",
-          "title": "Sábado 17 de agosto de 1996",
-          "url": "https://elecos.com.ar/sabado-17-de-agosto-de-1996",
-          "published_at": "2026-08-17T03:20:00+00:00",
-          "category": "20"
-        }
-      ]
-    },
-    {
-      "title": "Lunes 17 de agosto de 2026",
-      "score": 0.263,
-      "sources_count": 1,
-      "first_seen": "2026-08-17T03:20:00+00:00",
-      "articles": [
-        {
-          "portal": "Ecos Diarios",
-          "title": "Lunes 17 de agosto de 2026",
-          "url": "https://elecos.com.ar/lunes-17-de-agosto-de-2026-1",
-          "published_at": "2026-08-17T03:20:00+00:00",
-          "category": "clasificados"
-        },
-        {
-          "portal": "Ecos Diarios",
-          "title": "Lunes 17 de agosto de 2026",
-          "url": "https://elecos.com.ar/lunes-17-de-agosto-de-2026",
-          "published_at": "2026-08-17T03:20:00+00:00",
-          "category": "95"
-        }
-      ]
-    },
-    {
-      "title": "Pádel: gran cosecha necochense rumbo a las finales del 3er Provincial de FEJUBA",
-      "score": 0.261,
-      "sources_count": 1,
-      "first_seen": "2026-08-17T03:15:04+00:00",
-      "articles": [
-        {
-          "portal": "Ecos Diarios",
-          "title": "Pádel: gran cosecha necochense rumbo a las finales del 3er Provincial de FEJUBA",
-          "url": "https://elecos.com.ar/padel-gran-cosecha-necochense-rumbo-a-las-finales-del-3er-provincial-de-fejuba",
-          "published_at": "2026-08-17T03:15:04+00:00",
-          "category": "11"
-        }
-      ]
-    },
-    {
-      "title": "River cortó la mala racha y le ganó 2 a 0 a Argentinos en el Monumental",
-      "score": 0.255,
-      "sources_count": 1,
-      "first_seen": "2026-08-17T02:58:25+00:00",
-      "articles": [
-        {
-          "portal": "Ecos Diarios",
-          "title": "River cortó la mala racha y le ganó 2 a 0 a Argentinos en el Monumental",
-          "url": "https://elecos.com.ar/river-corto-la-mala-racha-y-le-gano-2-a-0-a-argentinos-en-el-monumental",
-          "published_at": "2026-08-17T02:58:25+00:00",
-          "category": "deportes-nacional"
-        }
-      ]
-    },
-    {
-      "title": "Laura Bulesevich: “Nunca hay que dejar de soñar y tener proyectos”",
-      "score": 0.249,
-      "sources_count": 1,
-      "first_seen": "2026-08-17T02:40:20+00:00",
-      "articles": [
-        {
-          "portal": "Ecos Diarios",
-          "title": "Laura Bulesevich: “Nunca hay que dejar de soñar y tener proyectos”",
-          "url": "https://elecos.com.ar/laura-bulesevich-nunca-hay-que-dejar-de-sonar-y-tener-proyectos",
-          "published_at": "2026-08-17T02:40:20+00:00",
-          "category": "14"
-        }
-      ]
-    },
-    {
-      "title": "Homenaje a José de San Martín en Lobería",
-      "score": 0.159,
-      "sources_count": 1,
-      "first_seen": "2026-08-16T21:16:57+00:00",
-      "articles": [
-        {
-          "portal": "Ecos Diarios",
-          "title": "Homenaje a José de San Martín en Lobería",
-          "url": "https://elecos.com.ar/homenaje-a-jose-de-san-martin-en-loberia",
-          "published_at": "2026-08-16T21:16:57+00:00",
+          "title": "Gran viaje de adultos mayores de San Cayetano hacia Tandil",
+          "url": "https://elecos.com.ar/gran-viaje-de-adultos-mayores-de-san-cayetano-hacia-tandil",
+          "published_at": "2026-08-17T22:37:26+00:00",
           "category": "108"
         }
       ]
     },
     {
-      "title": "Mundial de Hockey 2026: Argentina arrasa 3-0 a Japón en su debut",
-      "score": 0.157,
+      "title": "Puerto Quequén aportó fondos para arreglar los caminos rurales inundados por las intensas lluvias",
+      "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-17T00:18:02+00:00",
+      "first_seen": "2026-08-17T23:28:26.285574+00:00",
       "articles": [
         {
-          "portal": "Necochea News",
-          "title": "Mundial de Hockey 2026: Argentina arrasa 3-0 a Japón en su debut",
-          "url": "https://necocheanews.com.ar/mundial-de-hockey-2026-argentina-arrasa-3-0-a-japon-en-su-debut/",
-          "published_at": "2026-08-17T00:18:02+00:00",
-          "category": "DEPORTES"
+          "portal": "Diario Necochea",
+          "title": "Puerto Quequén aportó fondos para arreglar los caminos rurales inundados por las intensas lluvias",
+          "url": "https://diarionecochea.com/2026/08/17/puerto-quequen-aporto-fondos-para-arreglar-los-caminos-rurales-inundados-por-las-intensas-lluvias/",
+          "published_at": null,
+          "category": null
         }
       ]
     },
     {
-      "title": "EE.UU. mantiene su neutralidad en el conflicto de Malvinas, según Peter Lamelas",
-      "score": 0.156,
+      "title": "Cómo estará el clima este lunes en Necochea y Quequén",
+      "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-17T00:15:13+00:00",
+      "first_seen": "2026-08-17T23:28:26.285574+00:00",
       "articles": [
         {
-          "portal": "Necochea News",
-          "title": "EE.UU. mantiene su neutralidad en el conflicto de Malvinas, según Peter Lamelas",
-          "url": "https://necocheanews.com.ar/ee-uu-mantiene-su-neutralidad-en-el-conflicto-de-malvinas-segun-peter-lamelas/",
-          "published_at": "2026-08-17T00:15:13+00:00",
-          "category": "INTERNACIONALES"
+          "portal": "Diario Necochea",
+          "title": "Cómo estará el clima este lunes en Necochea y Quequén",
+          "url": "https://diarionecochea.com/2026/08/17/como-estara-el-clima-este-lunes-en-necochea-y-quequen-149/",
+          "published_at": null,
+          "category": null
         }
       ]
     },
     {
-      "title": "River vuelve a la victoria con el debut de Almada: 2-0 sobre Argentinos Juniors en el Monumental",
-      "score": 0.156,
+      "title": "A 6 años del incendio del Auditórium del Casino, la causa quedó archivada",
+      "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-17T00:13:17+00:00",
+      "first_seen": "2026-08-17T23:28:26.285574+00:00",
       "articles": [
         {
-          "portal": "Necochea News",
-          "title": "River vuelve a la victoria con el debut de Almada: 2-0 sobre Argentinos Juniors en el Monumental",
-          "url": "https://necocheanews.com.ar/river-vuelve-a-la-victoria-con-el-debut-de-almada-2-0-sobre-argentinos-juniors-en-el-monumental/",
-          "published_at": "2026-08-17T00:13:17+00:00",
-          "category": "DEPORTES"
+          "portal": "Diario Necochea",
+          "title": "A 6 años del incendio del Auditórium del Casino, la causa quedó archivada",
+          "url": "https://diarionecochea.com/2026/08/16/a-6-anos-del-ultimo-incendio-del-casino-la-causa-quedo-archivada/",
+          "published_at": null,
+          "category": null
         }
       ]
     },
     {
-      "title": "\"Las huellas de Toviggino dentro de la mansión de Pilar: fotos, autos y gastos millonarios que encienden la causa\"",
-      "score": 0.097,
+      "title": "Otro necochense forma parte de “Moria”: Pacha Rosso interpreta a Alberto Olmedo",
+      "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-16T18:32:12+00:00",
+      "first_seen": "2026-08-17T23:28:26.285574+00:00",
       "articles": [
         {
-          "portal": "Informate Necochea",
-          "title": "\"Las huellas de Toviggino dentro de la mansión de Pilar: fotos, autos y gastos millonarios que encienden la causa\"",
-          "url": "https://informatenecochea.com/noticia/las-huellas-de-toviggino-dentro-de-la-mansion-de-pilar-fotos-autos-y-gastos-millonarios-que-encienden-la-causa",
-          "published_at": "2026-08-16T18:32:12+00:00",
-          "category": "Nacional"
+          "portal": "Diario Necochea",
+          "title": "Otro necochense forma parte de “Moria”: Pacha Rosso interpreta a Alberto Olmedo",
+          "url": "https://diarionecochea.com/2026/08/15/otro-necochense-forma-parte-de-moria-pacha-rosso-interpreta-a-alberto-olmedo/",
+          "published_at": null,
+          "category": null
+        }
+      ]
+    },
+    {
+      "title": "El bailarín necochense Alan Orellana llegó a Netflix con su participación en la serie de Moria Casán",
+      "score": 1.2,
+      "sources_count": 1,
+      "first_seen": "2026-08-17T23:28:26.285574+00:00",
+      "articles": [
+        {
+          "portal": "Diario Necochea",
+          "title": "El bailarín necochense Alan Orellana llegó a Netflix con su participación en la serie de Moria Casán",
+          "url": "https://diarionecochea.com/2026/08/15/el-bailarin-necochense-alan-orellana-llego-a-netflix-con-su-participacion-en-la-serie-de-moria-casan/",
+          "published_at": null,
+          "category": null
+        }
+      ]
+    },
+    {
+      "title": "El centro registró un notable aumento de familias gracias a promociones bancarias",
+      "score": 1.2,
+      "sources_count": 1,
+      "first_seen": "2026-08-17T23:28:26.285574+00:00",
+      "articles": [
+        {
+          "portal": "Diario Necochea",
+          "title": "El centro registró un notable aumento de familias gracias a promociones bancarias",
+          "url": "https://diarionecochea.com/2026/08/15/el-centro-registro-un-notable-aumento-de-familias-gracias-a-promociones-bancarias/",
+          "published_at": null,
+          "category": null
+        }
+      ]
+    },
+    {
+      "title": "Incendio del Auditórium: $58 millones del seguro y pedidos de informes sobre su destino",
+      "score": 1.2,
+      "sources_count": 1,
+      "first_seen": "2026-08-17T23:28:26.285574+00:00",
+      "articles": [
+        {
+          "portal": "Diario Necochea",
+          "title": "Incendio del Auditórium: $58 millones del seguro y pedidos de informes sobre su destino",
+          "url": "https://diarionecochea.com/2026/08/17/incendio-del-auditorium-58-millones-del-seguro-y-pedidos-de-informes-sobre-su-destino/",
+          "published_at": null,
+          "category": null
+        }
+      ]
+    },
+    {
+      "title": "La IA podría consumir el equivalente a casi dos ríos Quequén de agua por año",
+      "score": 1.2,
+      "sources_count": 1,
+      "first_seen": "2026-08-17T23:28:26.285574+00:00",
+      "articles": [
+        {
+          "portal": "Diario Necochea",
+          "title": "La IA podría consumir el equivalente a casi dos ríos Quequén de agua por año",
+          "url": "https://diarionecochea.com/2026/08/17/la-ia-podria-consumir-el-equivalente-a-dos-rios-quequen-de-agua-por-ano/",
+          "published_at": null,
+          "category": null
+        }
+      ]
+    },
+    {
+      "title": "Rompió el ingreso a una vivienda y atacó a una menor con un cuchillo",
+      "score": 1.2,
+      "sources_count": 1,
+      "first_seen": "2026-08-17T23:28:26.285574+00:00",
+      "articles": [
+        {
+          "portal": "Diario Necochea",
+          "title": "Rompió el ingreso a una vivienda y atacó a una menor con un cuchillo",
+          "url": "https://diarionecochea.com/2026/08/17/rompio-el-ingreso-a-una-vivienda-y-ataco-a-una-menor-con-un-cuchillo/",
+          "published_at": null,
+          "category": null
+        }
+      ]
+    },
+    {
+      "title": "Mar del Plata: un hombre murió aplastado contra una pared por una camioneta fuera de control",
+      "score": 1.2,
+      "sources_count": 1,
+      "first_seen": "2026-08-17T23:28:26.285574+00:00",
+      "articles": [
+        {
+          "portal": "Diario Necochea",
+          "title": "Mar del Plata: un hombre murió aplastado contra una pared por una camioneta fuera de control",
+          "url": "https://diarionecochea.com/2026/08/16/mar-del-plata-un-hombre-murio-aplastado-contra-una-pared-por-una-camioneta-fuera-de-control/",
+          "published_at": null,
+          "category": null
+        }
+      ]
+    },
+    {
+      "title": "Detuvieron al sospechoso que tenía en vilo al barrio Banco Provincia",
+      "score": 1.2,
+      "sources_count": 1,
+      "first_seen": "2026-08-17T23:28:26.285574+00:00",
+      "articles": [
+        {
+          "portal": "Diario Necochea",
+          "title": "Detuvieron al sospechoso que tenía en vilo al barrio Banco Provincia",
+          "url": "https://diarionecochea.com/2026/08/15/detuvieron-al-sospechoso-que-tenia-en-vilo-al-barrio-banco-provincia/",
+          "published_at": null,
+          "category": null
+        }
+      ]
+    },
+    {
+      "title": "Se conoció la identidad del joven que murió de un tiro en la cabeza en Quequén",
+      "score": 1.2,
+      "sources_count": 1,
+      "first_seen": "2026-08-17T23:28:26.285574+00:00",
+      "articles": [
+        {
+          "portal": "Diario Necochea",
+          "title": "Se conoció la identidad del joven que murió de un tiro en la cabeza en Quequén",
+          "url": "https://diarionecochea.com/2026/08/15/se-conocio-la-identidad-del-joven-que-murio-de-un-tiro-en-la-cabeza-en-quequen/",
+          "published_at": null,
+          "category": null
+        }
+      ]
+    },
+    {
+      "title": "Un joven fue hallado con un disparo en la cabeza y murió minutos después",
+      "score": 1.2,
+      "sources_count": 1,
+      "first_seen": "2026-08-17T23:28:26.285574+00:00",
+      "articles": [
+        {
+          "portal": "Diario Necochea",
+          "title": "Un joven fue hallado con un disparo en la cabeza y murió minutos después",
+          "url": "https://diarionecochea.com/2026/08/15/un-joven-fue-hallado-herido-de-bala-y-murio-minutos-despues/",
+          "published_at": null,
+          "category": null
+        }
+      ]
+    },
+    {
+      "title": "El Gobierno nacional invierte más de 3,4 billones en atención a discapacidad",
+      "score": 1.2,
+      "sources_count": 1,
+      "first_seen": "2026-08-17T23:28:26.285574+00:00",
+      "articles": [
+        {
+          "portal": "Diario Necochea",
+          "title": "El Gobierno nacional invierte más de 3,4 billones en atención a discapacidad",
+          "url": "https://diarionecochea.com/2026/08/11/el-gobierno-nacional-invierte-mas-de-34-billones-en-atencion-a-discapacidad/",
+          "published_at": null,
+          "category": null
+        }
+      ]
+    },
+    {
+      "title": "Conmoción en Córdoba: murió un niño de 3 años tras el ataque de un pitbull",
+      "score": 1.2,
+      "sources_count": 1,
+      "first_seen": "2026-08-17T23:28:26.285574+00:00",
+      "articles": [
+        {
+          "portal": "Diario Necochea",
+          "title": "Conmoción en Córdoba: murió un niño de 3 años tras el ataque de un pitbull",
+          "url": "https://diarionecochea.com/2026/08/11/conmocion-en-cordoba-murio-un-nino-de-3-anos-tras-el-ataque-de-un-pitbull/",
+          "published_at": null,
+          "category": null
+        }
+      ]
+    },
+    {
+      "title": "Es oficial: los extranjeros no residentes deberán pagar por la atención en hospitales nacionales",
+      "score": 1.2,
+      "sources_count": 1,
+      "first_seen": "2026-08-17T23:28:26.285574+00:00",
+      "articles": [
+        {
+          "portal": "Diario Necochea",
+          "title": "Es oficial: los extranjeros no residentes deberán pagar por la atención en hospitales nacionales",
+          "url": "https://diarionecochea.com/2026/08/11/es-oficial-los-extranjeros-no-residentes-deberan-pagar-por-la-atencion-en-hospitales-nacionales/",
+          "published_at": null,
+          "category": null
+        }
+      ]
+    },
+    {
+      "title": "Una niña de 3 años murió al caer una camioneta al lago Nahuel Huapi",
+      "score": 1.2,
+      "sources_count": 1,
+      "first_seen": "2026-08-17T23:28:26.285574+00:00",
+      "articles": [
+        {
+          "portal": "Diario Necochea",
+          "title": "Una niña de 3 años murió al caer una camioneta al lago Nahuel Huapi",
+          "url": "https://diarionecochea.com/2026/08/10/una-nina-de-3-anos-murio-al-caer-una-camioneta-al-lago-nahuel-huapi/",
+          "published_at": null,
+          "category": null
+        }
+      ]
+    },
+    {
+      "title": "Facundo Moyano: su defensa pidió levantar las restricciones tras la declaración de Candela Arizaga",
+      "score": 1.2,
+      "sources_count": 1,
+      "first_seen": "2026-08-17T23:28:26.285574+00:00",
+      "articles": [
+        {
+          "portal": "Diario Necochea",
+          "title": "Facundo Moyano: su defensa pidió levantar las restricciones tras la declaración de Candela Arizaga",
+          "url": "https://diarionecochea.com/2026/08/07/facundo-moyano-su-defensa-pidio-levantar-las-restricciones-tras-la-declaracion-de-candela-arizaga/",
+          "published_at": null,
+          "category": null
+        }
+      ]
+    },
+    {
+      "title": "Tensión en el Congreso: la Policía reprimió a manifestantes con balas de goma, agua y gas lacrimógeno",
+      "score": 1.2,
+      "sources_count": 1,
+      "first_seen": "2026-08-17T23:28:26.285574+00:00",
+      "articles": [
+        {
+          "portal": "Diario Necochea",
+          "title": "Tensión en el Congreso: la Policía reprimió a manifestantes con balas de goma, agua y gas lacrimógeno",
+          "url": "https://diarionecochea.com/2026/08/06/tension-en-el-congreso-la-policia-reprimio-a-manifestantes-con-balas-de-goma-agua-y-gas-lacrimogeno/",
+          "published_at": null,
+          "category": null
+        }
+      ]
+    },
+    {
+      "title": "El Senado debate la Ley de Propiedad Privada: los cambios en alquileres y desalojos",
+      "score": 1.2,
+      "sources_count": 1,
+      "first_seen": "2026-08-17T23:28:26.285574+00:00",
+      "articles": [
+        {
+          "portal": "Diario Necochea",
+          "title": "El Senado debate la Ley de Propiedad Privada: los cambios en alquileres y desalojos",
+          "url": "https://diarionecochea.com/2026/08/06/el-senado-trato-la-ley-de-propiedad-privada-para-agilizar-los-desalojos-por-intrusion-y-falta-de-pago/",
+          "published_at": null,
+          "category": null
+        }
+      ]
+    },
+    {
+      "title": "“Hipócrita y arrogante”: China acusó a EE.UU. de bloquear un acuerdo argentino con Huawei",
+      "score": 1.2,
+      "sources_count": 1,
+      "first_seen": "2026-08-17T23:28:26.285574+00:00",
+      "articles": [
+        {
+          "portal": "Diario Necochea",
+          "title": "“Hipócrita y arrogante”: China acusó a EE.UU. de bloquear un acuerdo argentino con Huawei",
+          "url": "https://diarionecochea.com/2026/08/06/hipocrita-y-arrogante-china-acuso-a-estados-unidos-de-bloquear-el-acuerdo-de-una-cooperativa-argentina-con-huawei/",
+          "published_at": null,
+          "category": null
+        }
+      ]
+    },
+    {
+      "title": "El Gobierno acordó con los prácticos y suspendió el decreto que desató el paro portuario",
+      "score": 1.2,
+      "sources_count": 1,
+      "first_seen": "2026-08-17T23:28:26.285574+00:00",
+      "articles": [
+        {
+          "portal": "Diario Necochea",
+          "title": "El Gobierno acordó con los prácticos y suspendió el decreto que desató el paro portuario",
+          "url": "https://diarionecochea.com/2026/08/06/el-gobierno-acordo-con-los-practicos-y-suspendio-el-decreto-que-desato-el-paro-portuario/",
+          "published_at": null,
+          "category": null
+        }
+      ]
+    },
+    {
+      "title": "Un surfista marplatense murió tras sufrir una emergencia mientras hacía surf en Chile",
+      "score": 1.2,
+      "sources_count": 1,
+      "first_seen": "2026-08-17T23:28:26.285574+00:00",
+      "articles": [
+        {
+          "portal": "Diario Necochea",
+          "title": "Un surfista marplatense murió tras sufrir una emergencia mientras hacía surf en Chile",
+          "url": "https://diarionecochea.com/2026/08/13/un-surfista-marplatense-murio-tras-sufrir-una-emergencia-mientras-hacia-surf-en-chile/",
+          "published_at": null,
+          "category": null
+        }
+      ]
+    },
+    {
+      "title": "San Cayetano abrió hasta el 31 de agosto la inscripción para aspirantes a auxiliares escolares",
+      "score": 1.2,
+      "sources_count": 1,
+      "first_seen": "2026-08-17T23:28:26.285574+00:00",
+      "articles": [
+        {
+          "portal": "Diario Necochea",
+          "title": "San Cayetano abrió hasta el 31 de agosto la inscripción para aspirantes a auxiliares escolares",
+          "url": "https://diarionecochea.com/2026/08/05/san-cayetano-abrio-hasta-el-31-de-agosto-la-inscripcion-para-aspirantes-a-auxiliares-escolares/",
+          "published_at": null,
+          "category": null
+        }
+      ]
+    },
+    {
+      "title": "San Cayetano tendrá asueto administrativo y feriado optativo este viernes por la Fiesta Patronal",
+      "score": 1.2,
+      "sources_count": 1,
+      "first_seen": "2026-08-17T23:28:26.285574+00:00",
+      "articles": [
+        {
+          "portal": "Diario Necochea",
+          "title": "San Cayetano tendrá asueto administrativo y feriado optativo este viernes por la Fiesta Patronal",
+          "url": "https://diarionecochea.com/2026/08/05/san-cayetano-tendra-asueto-administrativo-y-feriado-optativo-este-viernes-por-la-fiesta-patronal/",
+          "published_at": null,
+          "category": null
+        }
+      ]
+    },
+    {
+      "title": "Cierre de vacaciones de invierno con show de malabares en el Polideportivo de San Cayetano",
+      "score": 1.2,
+      "sources_count": 1,
+      "first_seen": "2026-08-17T23:28:26.285574+00:00",
+      "articles": [
+        {
+          "portal": "Diario Necochea",
+          "title": "Cierre de vacaciones de invierno con show de malabares en el Polideportivo de San Cayetano",
+          "url": "https://diarionecochea.com/2026/08/04/cierre-de-vacaciones-de-invierno-con-show-de-malabares-en-el-polideportivo-de-san-cayetano/",
+          "published_at": null,
+          "category": null
+        }
+      ]
+    },
+    {
+      "title": "Taller de lactancia materna en San Cayetano con expertos este jueves",
+      "score": 1.2,
+      "sources_count": 1,
+      "first_seen": "2026-08-17T23:28:26.285574+00:00",
+      "articles": [
+        {
+          "portal": "Diario Necochea",
+          "title": "Taller de lactancia materna en San Cayetano con expertos este jueves",
+          "url": "https://diarionecochea.com/2026/08/04/taller-de-lactancia-materna-en-san-cayetano-con-expertos-este-jueves/",
+          "published_at": null,
+          "category": null
         }
       ]
     }
