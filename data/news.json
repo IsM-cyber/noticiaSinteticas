@@ -1,50 +1,57 @@
 {
-  "generated_at": "2026-08-17T23:51:54.185374+00:00",
+  "generated_at": "2026-08-18T01:39:45.795778+00:00",
   "article_count": 175,
   "fetch_errors": [],
   "stories": [
     {
-      "title": "La danza árabe reunió a la comunidad en el Teatro Municipal",
-      "score": 1.263,
+      "title": "Martes 18 de agosto de 2026",
+      "score": 1.3,
       "sources_count": 1,
-      "first_seen": "2026-08-17T23:31:07+00:00",
+      "first_seen": "2026-08-18T03:20:00+00:00",
       "articles": [
         {
           "portal": "Ecos Diarios",
-          "title": "La danza árabe reunió a la comunidad en el Teatro Municipal",
-          "url": "https://elecos.com.ar/la-danza-arabe-reunio-a-la-comunidad-en-el-teatro-municipal",
-          "published_at": "2026-08-17T23:31:07+00:00",
-          "category": "14"
+          "title": "Martes 18 de agosto de 2026",
+          "url": "https://elecos.com.ar/martes-18-de-agosto-de-2026-1",
+          "published_at": "2026-08-18T03:20:00+00:00",
+          "category": "clasificados"
+        },
+        {
+          "portal": "Ecos Diarios",
+          "title": "Martes 18 de agosto de 2026",
+          "url": "https://elecos.com.ar/martes-18-de-agosto-de-2026",
+          "published_at": "2026-08-18T03:20:00+00:00",
+          "category": "95"
         }
       ]
     },
     {
-      "title": "Centro de Jubilados Barrio Sur y el objetivo de “contener al adulto mayor”",
-      "score": 1.226,
+      "title": "Domingo 18 de agosto de 1996",
+      "score": 1.3,
       "sources_count": 1,
-      "first_seen": "2026-08-17T23:09:32+00:00",
+      "first_seen": "2026-08-18T03:20:00+00:00",
       "articles": [
         {
           "portal": "Ecos Diarios",
-          "title": "Centro de Jubilados Barrio Sur y el objetivo de “contener al adulto mayor”",
-          "url": "https://elecos.com.ar/centro-de-jubilados-barrio-sur-y-el-objetivo-de-contener-al-adulto-mayor",
-          "published_at": "2026-08-17T23:09:32+00:00",
-          "category": "14"
+          "title": "Domingo 18 de agosto de 1996",
+          "url": "https://elecos.com.ar/domingo-18-de-agosto-de-1996",
+          "published_at": "2026-08-18T03:20:00+00:00",
+          "category": "20"
         }
       ]
     },
     {
-      "title": "Circulaban a alta velocidad con una camioneta y los denunciaron",
-      "score": 1.224,
+      "title": "Efemérides: San Martín abre una semana marcada por la historia",
+      "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-17T23:08:29+00:00",
+      "first_seen": "2026-08-18T01:39:45.795778+00:00",
       "articles": [
         {
-          "portal": "Ecos Diarios",
-          "title": "Circulaban a alta velocidad con una camioneta y los denunciaron",
-          "url": "https://elecos.com.ar/circulaban-a-alta-velocidad-con-una-camioneta-y-los-denunciaron",
-          "published_at": "2026-08-17T23:08:29+00:00",
-          "category": "13"
+          "portal": "Diario Necochea",
+          "title": "Efemérides: San Martín abre una semana marcada por la historia",
+          "url": "https://diarionecochea.com/2026/08/17/efemerides-san-martin-abre-una-semana-marcada-por-la-historia/",
+          "published_at": null,
+          "category": null
         }
       ]
     },
@@ -52,7 +59,7 @@
       "title": "Puerto Quequén aportó fondos para arreglar los caminos rurales inundados por las intensas lluvias",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-17T23:51:54.185374+00:00",
+      "first_seen": "2026-08-18T01:39:45.795778+00:00",
       "articles": [
         {
           "portal": "Diario Necochea",
@@ -64,25 +71,10 @@
       ]
     },
     {
-      "title": "Cómo estará el clima este lunes en Necochea y Quequén",
-      "score": 1.2,
-      "sources_count": 1,
-      "first_seen": "2026-08-17T23:51:54.185374+00:00",
-      "articles": [
-        {
-          "portal": "Diario Necochea",
-          "title": "Cómo estará el clima este lunes en Necochea y Quequén",
-          "url": "https://diarionecochea.com/2026/08/17/como-estara-el-clima-este-lunes-en-necochea-y-quequen-149/",
-          "published_at": null,
-          "category": null
-        }
-      ]
-    },
-    {
       "title": "A 6 años del incendio del Auditórium del Casino, la causa quedó archivada",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-17T23:51:54.185374+00:00",
+      "first_seen": "2026-08-18T01:39:45.795778+00:00",
       "articles": [
         {
           "portal": "Diario Necochea",
@@ -97,7 +89,7 @@
       "title": "Otro necochense forma parte de “Moria”: Pacha Rosso interpreta a Alberto Olmedo",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-17T23:51:54.185374+00:00",
+      "first_seen": "2026-08-18T01:39:45.795778+00:00",
       "articles": [
         {
           "portal": "Diario Necochea",
@@ -112,7 +104,7 @@
       "title": "El bailarín necochense Alan Orellana llegó a Netflix con su participación en la serie de Moria Casán",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-17T23:51:54.185374+00:00",
+      "first_seen": "2026-08-18T01:39:45.795778+00:00",
       "articles": [
         {
           "portal": "Diario Necochea",
@@ -127,7 +119,7 @@
       "title": "El centro registró un notable aumento de familias gracias a promociones bancarias",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-17T23:51:54.185374+00:00",
+      "first_seen": "2026-08-18T01:39:45.795778+00:00",
       "articles": [
         {
           "portal": "Diario Necochea",
@@ -139,10 +131,25 @@
       ]
     },
     {
+      "title": "30 leones y tigres serán trasladados desde Luján a santuarios de Sudáfrica y Estados Unidos",
+      "score": 1.2,
+      "sources_count": 1,
+      "first_seen": "2026-08-18T01:39:45.795778+00:00",
+      "articles": [
+        {
+          "portal": "Diario Necochea",
+          "title": "30 leones y tigres serán trasladados desde Luján a santuarios de Sudáfrica y Estados Unidos",
+          "url": "https://diarionecochea.com/2026/08/17/30-leones-y-tigres-seran-trasladados-desde-lujan-a-santuarios-de-sudafrica-y-estados-unidos/",
+          "published_at": null,
+          "category": null
+        }
+      ]
+    },
+    {
       "title": "Un detenido en Quequén por el robo de un televisor, una consola Xbox y otros objetos",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-17T23:51:54.185374+00:00",
+      "first_seen": "2026-08-18T01:39:45.795778+00:00",
       "articles": [
         {
           "portal": "Diario Necochea",
@@ -157,7 +164,7 @@
       "title": "Incendio del Auditórium: $58 millones del seguro y pedidos de informes sobre su destino",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-17T23:51:54.185374+00:00",
+      "first_seen": "2026-08-18T01:39:45.795778+00:00",
       "articles": [
         {
           "portal": "Diario Necochea",
@@ -172,7 +179,7 @@
       "title": "La IA podría consumir el equivalente a casi dos ríos Quequén de agua por año",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-17T23:51:54.185374+00:00",
+      "first_seen": "2026-08-18T01:39:45.795778+00:00",
       "articles": [
         {
           "portal": "Diario Necochea",
@@ -187,7 +194,7 @@
       "title": "Caen los sospechosos de un asalto a mano armada a un playero en Quequén",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-17T23:51:54.185374+00:00",
+      "first_seen": "2026-08-18T01:39:45.795778+00:00",
       "articles": [
         {
           "portal": "Diario Necochea",
@@ -202,7 +209,7 @@
       "title": "Rompió el ingreso a una vivienda y atacó a una menor con un cuchillo",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-17T23:51:54.185374+00:00",
+      "first_seen": "2026-08-18T01:39:45.795778+00:00",
       "articles": [
         {
           "portal": "Diario Necochea",
@@ -217,7 +224,7 @@
       "title": "Mar del Plata: un hombre murió aplastado contra una pared por una camioneta fuera de control",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-17T23:51:54.185374+00:00",
+      "first_seen": "2026-08-18T01:39:45.795778+00:00",
       "articles": [
         {
           "portal": "Diario Necochea",
@@ -232,7 +239,7 @@
       "title": "Detuvieron al sospechoso que tenía en vilo al barrio Banco Provincia",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-17T23:51:54.185374+00:00",
+      "first_seen": "2026-08-18T01:39:45.795778+00:00",
       "articles": [
         {
           "portal": "Diario Necochea",
@@ -247,7 +254,7 @@
       "title": "Fin de semana largo de San Martín: 1,07 millones de turistas viajaron y el gasto real bajó 6,3%",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-17T23:51:54.185374+00:00",
+      "first_seen": "2026-08-18T01:39:45.795778+00:00",
       "articles": [
         {
           "portal": "Diario Necochea",
@@ -262,7 +269,7 @@
       "title": "El Gobierno nacional invierte más de 3,4 billones en atención a discapacidad",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-17T23:51:54.185374+00:00",
+      "first_seen": "2026-08-18T01:39:45.795778+00:00",
       "articles": [
         {
           "portal": "Diario Necochea",
@@ -277,7 +284,7 @@
       "title": "Conmoción en Córdoba: murió un niño de 3 años tras el ataque de un pitbull",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-17T23:51:54.185374+00:00",
+      "first_seen": "2026-08-18T01:39:45.795778+00:00",
       "articles": [
         {
           "portal": "Diario Necochea",
@@ -292,7 +299,7 @@
       "title": "Es oficial: los extranjeros no residentes deberán pagar por la atención en hospitales nacionales",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-17T23:51:54.185374+00:00",
+      "first_seen": "2026-08-18T01:39:45.795778+00:00",
       "articles": [
         {
           "portal": "Diario Necochea",
@@ -307,7 +314,7 @@
       "title": "Una niña de 3 años murió al caer una camioneta al lago Nahuel Huapi",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-17T23:51:54.185374+00:00",
+      "first_seen": "2026-08-18T01:39:45.795778+00:00",
       "articles": [
         {
           "portal": "Diario Necochea",
@@ -322,7 +329,7 @@
       "title": "Facundo Moyano: su defensa pidió levantar las restricciones tras la declaración de Candela Arizaga",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-17T23:51:54.185374+00:00",
+      "first_seen": "2026-08-18T01:39:45.795778+00:00",
       "articles": [
         {
           "portal": "Diario Necochea",
@@ -337,7 +344,7 @@
       "title": "Tensión en el Congreso: la Policía reprimió a manifestantes con balas de goma, agua y gas lacrimógeno",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-17T23:51:54.185374+00:00",
+      "first_seen": "2026-08-18T01:39:45.795778+00:00",
       "articles": [
         {
           "portal": "Diario Necochea",
@@ -352,7 +359,7 @@
       "title": "El Senado debate la Ley de Propiedad Privada: los cambios en alquileres y desalojos",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-17T23:51:54.185374+00:00",
+      "first_seen": "2026-08-18T01:39:45.795778+00:00",
       "articles": [
         {
           "portal": "Diario Necochea",
@@ -364,25 +371,10 @@
       ]
     },
     {
-      "title": "“Hipócrita y arrogante”: China acusó a EE.UU. de bloquear un acuerdo argentino con Huawei",
-      "score": 1.2,
-      "sources_count": 1,
-      "first_seen": "2026-08-17T23:51:54.185374+00:00",
-      "articles": [
-        {
-          "portal": "Diario Necochea",
-          "title": "“Hipócrita y arrogante”: China acusó a EE.UU. de bloquear un acuerdo argentino con Huawei",
-          "url": "https://diarionecochea.com/2026/08/06/hipocrita-y-arrogante-china-acuso-a-estados-unidos-de-bloquear-el-acuerdo-de-una-cooperativa-argentina-con-huawei/",
-          "published_at": null,
-          "category": null
-        }
-      ]
-    },
-    {
       "title": "Un surfista marplatense murió tras sufrir una emergencia mientras hacía surf en Chile",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-17T23:51:54.185374+00:00",
+      "first_seen": "2026-08-18T01:39:45.795778+00:00",
       "articles": [
         {
           "portal": "Diario Necochea",
@@ -397,7 +389,7 @@
       "title": "San Cayetano abrió hasta el 31 de agosto la inscripción para aspirantes a auxiliares escolares",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-17T23:51:54.185374+00:00",
+      "first_seen": "2026-08-18T01:39:45.795778+00:00",
       "articles": [
         {
           "portal": "Diario Necochea",
@@ -412,7 +404,7 @@
       "title": "San Cayetano tendrá asueto administrativo y feriado optativo este viernes por la Fiesta Patronal",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-17T23:51:54.185374+00:00",
+      "first_seen": "2026-08-18T01:39:45.795778+00:00",
       "articles": [
         {
           "portal": "Diario Necochea",
@@ -427,7 +419,7 @@
       "title": "Cierre de vacaciones de invierno con show de malabares en el Polideportivo de San Cayetano",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-17T23:51:54.185374+00:00",
+      "first_seen": "2026-08-18T01:39:45.795778+00:00",
       "articles": [
         {
           "portal": "Diario Necochea",
@@ -442,12 +434,27 @@
       "title": "Taller de lactancia materna en San Cayetano con expertos este jueves",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-17T23:51:54.185374+00:00",
+      "first_seen": "2026-08-18T01:39:45.795778+00:00",
       "articles": [
         {
           "portal": "Diario Necochea",
           "title": "Taller de lactancia materna en San Cayetano con expertos este jueves",
           "url": "https://diarionecochea.com/2026/08/04/taller-de-lactancia-materna-en-san-cayetano-con-expertos-este-jueves/",
+          "published_at": null,
+          "category": null
+        }
+      ]
+    },
+    {
+      "title": "“Morite” y “te rompo la cabeza”: imputaron a un cuidador por maltratar a dos adultas mayores",
+      "score": 1.2,
+      "sources_count": 1,
+      "first_seen": "2026-08-18T01:39:45.795778+00:00",
+      "articles": [
+        {
+          "portal": "Diario Necochea",
+          "title": "“Morite” y “te rompo la cabeza”: imputaron a un cuidador por maltratar a dos adultas mayores",
+          "url": "https://diarionecochea.com/2026/07/29/morite-y-te-rompo-la-cabeza-imputaron-a-un-cuidador-por-maltratar-a-dos-adultas-mayores/",
           "published_at": null,
           "category": null
         }
