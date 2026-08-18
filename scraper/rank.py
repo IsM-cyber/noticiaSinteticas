@@ -64,6 +64,7 @@ def rank(stories: list[dict], now: dt.datetime | None = None) -> list[dict]:
             (a.get("image") for a in articles if a.get("image")), None
         )
         ranked.append({
+            "key": story["key"],
             "title": best["title"],
             "score": round(score, 3),
             "sources_count": n_sources,

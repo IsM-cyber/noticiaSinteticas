@@ -16,6 +16,7 @@ export type Summary = {
 };
 
 export type Story = {
+  key: string;
   title: string;
   score: number;
   sources_count: number;
