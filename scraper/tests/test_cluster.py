@@ -60,3 +60,14 @@ def test_sin_fecha_no_rompe_la_agrupacion():
     ]
     stories = cluster(arts)
     assert len(stories) == 1
+
+
+def test_efemerides_no_son_noticias():
+    arts = [
+        _art("Ecos Diarios", "Martes 18 de agosto de 2026", 1),
+        _art("Ecos Diarios", "Domingo 18 de agosto de 1996", 2),
+        _art("TSN Necochea", "Una cola de dos cuadras por un empleo en Necochea", 1),
+    ]
+    stories = cluster(arts)
+    assert len(stories) == 1
+    assert "cola dos cuadras" in stories[0]["key"]

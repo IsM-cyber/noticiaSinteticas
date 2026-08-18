@@ -7,7 +7,7 @@ export const SITE_NAME_PARTS = ["noticia", "Sinteticas"];
 export const SITE_NAME = SITE_NAME_PARTS.join("");
 
 export const SITE_TAGLINE =
-  "«Todo lo que está en una pantalla es mentira, la realidad es inabarcable»";
+  "Todo lo que está en una pantalla es mentira, la realidad es inabarcable.";
 
 // descripción para buscadores y compartir
 export const SITE_DESCRIPTION =
