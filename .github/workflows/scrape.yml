@@ -2,8 +2,13 @@ name: scrape
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # cada 30 minutos
-  workflow_dispatch:          # botón "Run workflow" en GitHub para correr a mano
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+# si un run tarda más de 30 min, no dejar que se pisen dos a la vez
+concurrency:
+  group: scrape
+  cancel-in-progress: false
 
 permissions:
   contents: write

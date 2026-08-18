@@ -67,6 +67,13 @@ def run() -> dict:
     top = rank(stories, now=now)
     _attach_summaries(top, now)
 
+    # todas las noticias publicadas tienen que tener resumen:
+    # las que no lograron texto se eliminan del ranking
+    before = len(top)
+    top = [s for s in top if s["summary"]["paragraphs"]]
+    if len(top) != before:
+        print(f"→ {before - len(top)} noticia(s) sin texto posible: eliminadas del ranking")
+
     payload = {
         "generated_at": now.isoformat(),
         "article_count": len(articles),
