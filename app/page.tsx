@@ -3,8 +3,8 @@ import { SITE_NAME_PARTS, SITE_TAGLINE } from "@/lib/site";
 
 export const dynamic = "force-dynamic";
 
-export default function Home() {
-  const data = loadNews();
+export default async function Home() {
+  const data = await loadNews();
   const stories = data.stories;
 
   return (

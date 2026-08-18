@@ -30,19 +30,35 @@ export type NewsData = {
   stories: Story[];
 };
 
-/** Lee data/news.json (commiteado por el robot). */
-export function loadNews(): NewsData {
-  const file = path.join(process.cwd(), "data", "news.json");
+/**
+ * El robot commitea data/news.json en GitHub cada 30 minutos.
+ * El sitio lo lee DESDE GITHUB en cada visita → siempre fresco, sin redeploy.
+ * Si GitHub no responde, usa la copia local (útil en desarrollo).
+ */
+const DATA_URL =
+  "https://raw.githubusercontent.com/IsM-cyber/noticiaSinteticas/main/data/news.json";
+
+export async function loadNews(): Promise<NewsData> {
   try {
-    const raw = fs.readFileSync(file, "utf-8");
-    return JSON.parse(raw) as NewsData;
-  } catch {
-    return {
-      generated_at: new Date().toISOString(),
-      article_count: 0,
-      fetch_errors: ["data/news.json no existe: corré `python -m scraper.main`."],
-      stories: [],
-    };
+    const res = await fetch(DATA_URL, { cache: "no-store" });
+    if (res.ok) {
+      return (await res.json()) as NewsData;
+    }
+    throw new Error(`GitHub respondió HTTP ${res.status}`);
+  } catch (err) {
+    console.warn("loadNews: no se pudo leer de GitHub, usando copia local:", err);
+    const file = path.join(process.cwd(), "data", "news.json");
+    try {
+      const raw = fs.readFileSync(file, "utf-8");
+      return JSON.parse(raw) as NewsData;
+    } catch {
+      return {
+        generated_at: new Date().toISOString(),
+        article_count: 0,
+        fetch_errors: ["No se pudo leer data/news.json."],
+        stories: [],
+      };
+    }
   }
 }
 

@@ -6,8 +6,8 @@ export const dynamic = "force-dynamic";
 const FX = (s: string) =>
   s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 
-export function GET() {
-  const data = loadNews();
+export async function GET() {
+  const data = await loadNews();
   const items = data.stories.slice(0, 20)
     .map(
       (story) => `    <item>
