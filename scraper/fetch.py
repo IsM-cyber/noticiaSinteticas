@@ -14,6 +14,7 @@ from __future__ import annotations
 
 import datetime as dt
 import re
+import time
 
 import feedparser
 import requests
@@ -24,6 +25,24 @@ from .config import SOURCES, USER_AGENT
 HEADERS = {"User-Agent": USER_AGENT}
 
 MAX_ITEMS_PER_SOURCE = 40
+RETRY_ATTEMPTS = 2
+RETRY_BACKOFF_S = 2.0
+POLITE_SLEEP_S = 0.4
+
+
+def _get(url: str) -> requests.Response:
+    """GET con reintento automático ante bloqueos (403/429/5xx)."""
+    for attempt in range(RETRY_ATTEMPTS):
+        try:
+            resp = requests.get(url, headers=HEADERS, timeout=25)
+            if resp.status_code in (403, 429) or resp.status_code >= 500:
+                raise requests.HTTPError(f"HTTP {resp.status_code}", response=resp)
+            return resp
+        except Exception:
+            if attempt == RETRY_ATTEMPTS - 1:
+                raise
+            time.sleep(RETRY_BACKOFF_S)
+    raise RuntimeError("sin reintentos disponibles")  # no debería pasar
 
 RSC_CHUNK_RE = re.compile(r'self\.__next_f\.push\(\[1,"(.*?)"\]\)</script>', re.S)
 RSC_ITEM_RE = re.compile(
@@ -116,7 +135,7 @@ def _body_from_feed(entry) -> str | None:
 
 
 def _fetch_html(source: dict) -> list[dict]:
-    resp = requests.get(source["url"], headers=HEADERS, timeout=25)
+    resp = _get(source["url"])
     resp.raise_for_status()
     soup = BeautifulSoup(resp.text, "html.parser")
     out = []
@@ -157,7 +176,7 @@ def _decode_rsc(html_text: str) -> str:
 
 
 def _fetch_rsc(source: dict) -> list[dict]:
-    resp = requests.get(source["url"], headers=HEADERS, timeout=25)
+    resp = _get(source["url"])
     resp.raise_for_status()
     decoded = _decode_rsc(resp.text)
     out = []
@@ -199,9 +218,10 @@ def fetch_body(source: dict, url: str) -> tuple[str | None, str | None]:
     Devuelve (texto, imagen). Usa el selector propio de la fuente si lo tiene;
     si no (o si falla), prueba selectores genéricos de cuerpo (WordPress).
     """
-    resp = requests.get(url, headers=HEADERS, timeout=20)
+    resp = _get(url)
     resp.raise_for_status()
     soup = BeautifulSoup(resp.text, "html.parser")
+    time.sleep(POLITE_SLEEP_S)  # cortesía: no martillar al portal
     selectors = [source["body_selector"]] if source.get("body_selector") else []
     selectors += GENERIC_BODY_SELECTORS
     text = None
