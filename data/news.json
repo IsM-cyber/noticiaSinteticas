@@ -1,45 +1,15 @@
 {
-  "generated_at": "2026-08-18T05:04:13.269459+00:00",
-  "article_count": 175,
-  "fetch_errors": [],
+  "generated_at": "2026-08-18T05:56:39.992806+00:00",
+  "article_count": 115,
+  "fetch_errors": [
+    "Necochea Digital: 403 Client Error: Forbidden for url: https://necocheadigital.com/"
+  ],
   "stories": [
-    {
-      "title": "Cómo estará el tiempo este martes en Necochea y Quequén",
-      "score": 2.623,
-      "sources_count": 2,
-      "first_seen": "2026-08-18T01:49:00+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/03/clima-invierno-2022-2-1.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Cómo estará el tiempo este martes en Necochea y Quequén",
-          "url": "https://tsnnecochea.com.ar/locales/como-estara-el-tiempo-este-martes-en-necochea-y-quequen-12-234626/",
-          "published_at": "2026-08-18T04:30:05+00:00",
-          "category": "humedad",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/03/clima-invierno-2022-2-1.webp"
-        },
-        {
-          "portal": "Noticias de Necochea",
-          "title": "Martes frío y sin lluvias en Necochea y Quequén: cómo estará el tiempo este 18 de agosto",
-          "url": "https://nden.com.ar/nota/37768/martes-frio-y-sin-lluvias-en-necochea-y-quequen-como-estara-el-tiempo-este-18-de-agosto",
-          "published_at": "2026-08-18T01:49:00+00:00",
-          "category": null,
-          "image": "http://nden.com.ar/uploads/noticias/5/2026/08/b042e312c7a30553f9c3d79eb70a09422afbbe3b.jpg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Locales | humedad | Tiempo Cómo estará el tiempo este martes en Necochea y Quequén Datos aportados por el Servicio Meteorológico Nacional Por Redacción TSN 18/08/2026 · 01:30 AM Agregar TSN Necochea en El pronóstico del Servicio Meteorológico Nacional para este martes 18 de agosto en Necochea indica una temperatura máxima de 10°C y una mínima de 6° C, con vientos del sudeste a 22km/h . Por la madrugada, la temperatura será de 7° C. El viento es del cuadrante Sudeste a una velocidad que puede llegar a 12 km/h, con el cielo parcialmente nublado.",
-          "En la mañana la temperatura será de 6° C, e l viento soplará del cuadrante Sudeste a una velocidad que puede llegar a 12 km/h, con el cielo algo nublado. Para la tarde se espera una temperatura máxima de alrededor de 10 grados, el viento soplará del sector sudeste a una velocidad que pueden llegar a los 22 kilómetros con el cielo algo nublado."
-        ],
-        "generated": "2026-08-18T05:04:29.244788+00:00"
-      }
-    },
     {
       "title": "Efemérides: San Martín abre una semana marcada por la historia",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-18T05:04:13.269459+00:00",
+      "first_seen": "2026-08-18T05:56:39.992806+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/efemerides-del-lobo-nacho-san-martin-abre-una-semana-marcada-por-la-historia.webp",
       "articles": [
         {
@@ -56,14 +26,14 @@
           "La semana destaca la creación de la Asociación de Fútbol en 1930 y la inauguración del Museo Histórico Regional en 1971, además de conmemoraciones nacionales e internacionales vinculadas a la historia. La semana del 17 al 23 de agosto se presenta como un período cargado de significativas efemérides que abarcan desde la historia local de Necochea hasta hechos trascendentales de la Argentina y el mundo.",
           "Este lapso conmemora eventos fundamentales en diversas áreas como la política, el deporte, la cultura, los derechos humanos y la ciencia."
         ],
-        "generated": "2026-08-18T05:04:30.245231+00:00"
+        "generated": "2026-08-18T05:57:12.549864+00:00"
       }
     },
     {
       "title": "Puerto Quequén aportó fondos para arreglar los caminos rurales inundados por las intensas lluvias",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-18T05:04:13.269459+00:00",
+      "first_seen": "2026-08-18T05:56:39.992806+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/puerto-quequen-aporto-fondos-para-arreglar-los-caminos-rurales-inundados-por-las-intensas.webp",
       "articles": [
         {
@@ -80,14 +50,14 @@
           "Los productores no lograban trasladar su cosecha, por lo que maquinarias de una empresa local retiraron el barro profundo y colocaron tosca para devolverle el tránsito seguro a los vehículos pesados. Bajo la presidencia del Dr. Mariano Carrillo, el Consorcio de Gestión de Puerto Quequén realizó un importante aporte económico para avanzar en la recuperación de caminos rurales afectados por las intensas lluvias.",
           "Productores de la zona destacaron y agradecieron el acompañamiento, fundamental para poder culminar la cosecha, avanzar con la siembra y garantizar la continuidad de las distintas labores agropecuarias. Noticia relacionadas Efemérides: San Martín abre una semana marcada por la historia 17 de agosto de 2026 A 6 años del incendio del Auditórium del Casino, la causa quedó archivada 17 de agosto de 2026 En el marco de una decisión del Directorio del Consorcio de Gestión de Puerto Quequén, encabezado por su presidente, Dr."
         ],
-        "generated": "2026-08-18T05:04:31.285822+00:00"
+        "generated": "2026-08-18T05:57:13.617082+00:00"
       }
     },
     {
       "title": "A 6 años del incendio del Auditórium del Casino, la causa quedó archivada",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-18T05:04:13.269459+00:00",
+      "first_seen": "2026-08-18T05:56:39.992806+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/incendio-casino-destacada.jpg",
       "articles": [
         {
@@ -104,14 +74,14 @@
           "Las pericias iniciales marcaron la posibilidad de un ataque intencional, pero nunca determinaron al responsable. La causa quedó archivada y, apenas tres días después del incendio, el Municipio ya impulsaba un proyecto con inversión privada y venta de parte del Casino. Este domingo 16 de agosto se cumplen 6 años del incendio que destruyó el Teatro Auditórium del Complejo Casino de Necochea, un caso que continúa impune.",
           "A pesar de los indicios sobre una posible intencionalidad en el inicio de las llamas, la investigación judicial nunca logró identificar a los responsables. Según confirmó Diario Necochea , el expediente, tramitado bajo la causa 4387-20, se encuentra archivado desde 2023 por falta de pruebas contundentes contra algún sospechoso."
         ],
-        "generated": "2026-08-18T05:04:32.477495+00:00"
+        "generated": "2026-08-18T05:57:14.830414+00:00"
       }
     },
     {
       "title": "Otro necochense forma parte de “Moria”: Pacha Rosso interpreta a Alberto Olmedo",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-18T05:04:13.269459+00:00",
+      "first_seen": "2026-08-18T05:56:39.992806+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/otro-necochense-forma-parte-de-moria-pacha-rosso-interpreta-a-alberto-olmedo.webp",
       "articles": [
         {
@@ -128,14 +98,14 @@
           "Rosso comenzó su carrera en nuestra ciudad y desarrolló una trayectoria de más de cuatro décadas entre teatro y televisión, con trabajos junto a reconocidos artistas del espectáculo argentino. La presencia de artistas de Necochea en una producción de Netflix generó interés en la ciudad a partir de la participación de Alan Orellana en “Moria” como bailarín en la serie inspirada en la vida de Moria Casán que acaba de estrenarse en la plataforma.",
           "Mientras tanto, Rosso tiene un papel actoral e interpreta a Alberto Olmedo, sumando así dos representantes de la escena artística local a una ficción de alcance internacional."
         ],
-        "generated": "2026-08-18T05:04:33.438336+00:00"
+        "generated": "2026-08-18T05:57:15.953498+00:00"
       }
     },
     {
       "title": "El bailarín necochense Alan Orellana llegó a Netflix con su participación en la serie de Moria Casán",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-18T05:04:13.269459+00:00",
+      "first_seen": "2026-08-18T05:56:39.992806+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/el-bailarin-necochense-alan-orellana-llego-a-netflix-con-su-participacion-en-la-serie-de-m.webp",
       "articles": [
         {
@@ -152,14 +122,14 @@
           "La producción se estrenó el 14 de agosto y recorre distintas etapas de la vida de la artista, con un elenco que recrea figuras destacadas del espectáculo argentino. El bailarín necochense Alan Orellana dio un nuevo paso en su carrera artística y forma parte de “Moria”, la serie de Netflix inspirada en la vida de Moria Casán, que se estrenó este viernes 14 de agosto.",
           "Noticia relacionadas Efemérides: San Martín abre una semana marcada por la historia 17 de agosto de 2026 Puerto Quequén aportó fondos para arreglar los caminos rurales inundados por las intensas lluvias 17 de agosto de 2026 Orellana viene desarrollando su trayectoria en el mundo de la danza desde hace varios años y tuvo sus primeros reconocimientos en competencias junto al Staff Dance Necochea. En 2018 fue elegido entre los mejores bailarines de una competencia nacional y al año siguiente volvió a recibir esa distinción en el Torneo Provincial de las Sierras."
         ],
-        "generated": "2026-08-18T05:04:34.414261+00:00"
+        "generated": "2026-08-18T05:57:17.268142+00:00"
       }
     },
     {
       "title": "El centro registró un notable aumento de familias gracias a promociones bancarias",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-18T05:04:13.269459+00:00",
+      "first_seen": "2026-08-18T05:56:39.992806+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/el-centro-registro-un-notable-aumento-de-familias-gracias-a-promociones-bancarias.webp",
       "articles": [
         {
@@ -176,14 +146,14 @@
           "El sábado por la tarde, el centro de Necochea registró un aumento notable en la presencia de familias y consumidores que aprovecharon promociones bancarias para realizar compras, especialmente en locales con productos diferenciados y en rubros como juguetes y tecnología. El centro de Necochea experimentó un notable incremento en la afluencia de familias y consumidores durante la tarde del sábado, impulsado principalmente por promociones bancarias que incentivaron las compras en diversos locales.",
           "Este aumento en la actividad comercial se dio en un contexto previo al Día del Niño, cuando la expectativa de los comerciantes era que el fin de semana fuera clave para mejorar las ventas."
         ],
-        "generated": "2026-08-18T05:04:35.431844+00:00"
+        "generated": "2026-08-18T05:57:19.988617+00:00"
       }
     },
     {
       "title": "30 leones y tigres serán trasladados desde Luján a santuarios de Sudáfrica y Estados Unidos",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-18T05:04:13.269459+00:00",
+      "first_seen": "2026-08-18T05:56:39.992806+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/30-grandes-felinos-del-ex-zoologico-de-lujan-seran-trasladados-a-santuarios-de-sudafrica-y-estados-unidos-1786989406888.jpg",
       "articles": [
         {
@@ -200,14 +170,14 @@
           "El operativo, coordinado por el Gobierno nacional y Four Paws International, comenzará con dos grupos de 15 ejemplares que serán llevados por vía aérea a reservas especializadas. El Gobierno nacional y la organización internacional Four Paws International llevan adelante el traslado de 30 leones y tigres que permanecían en el ex Zoológico de Luján hacia dos santuarios especializados de Sudáfrica y Estados Unidos.",
           "El operativo contempla dos contingentes de 15 animales cada uno. Noticia relacionadas Fin de semana largo de San Martín: 1,07 millones de turistas viajaron y el gasto real bajó 6,3% 17 de agosto de 2026 La IA podría consumir el equivalente a casi dos ríos Quequén de agua por año 17 de agosto de 2026 Quince felinos serán enviados al LIONSROCK Big Cat Sanctuary, perteneciente a Four Paws y ubicado en Sudáfrica."
         ],
-        "generated": "2026-08-18T05:04:36.400966+00:00"
+        "generated": "2026-08-18T05:57:20.939792+00:00"
       }
     },
     {
       "title": "Un detenido en Quequén por el robo de un televisor, una consola Xbox y otros objetos",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-18T05:04:13.269459+00:00",
+      "first_seen": "2026-08-18T05:56:39.992806+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/detienen-hombre-39-anos-robo-tv-xbox-quequen-br226-1.jpg",
       "articles": [
         {
@@ -224,14 +194,14 @@
           "La Justicia autorizó el procedimiento después de que la Policía estableciera quiénes serían los responsables, y durante el operativo secuestraron elementos que quedaron incorporados a la investigación. Un hombre de 39 años fue detenido en las últimas horas en la localidad de Quequén , acusado de participar en un robo ocurrido días atrás en esa ciudad.",
           "Noticia relacionadas Incendio del Auditórium: $58 millones del seguro y pedidos de informes sobre su destino 17 de agosto de 2026 Caen los sospechosos de un asalto a mano armada a un playero en Quequén 17 de agosto de 2026 La investigación se inició el 6 de agosto, luego de que un vecino denunciara el faltante de un televisor de 42 pulgadas, una consola Xbox, controles, una mochila con herramientas y un bolso con indumentaria deportiva, entre otros elementos. De acuerdo con la denuncia, poco antes del hecho dos personas se habían presentado en el domicilio ofreciendo una lata de pintura."
         ],
-        "generated": "2026-08-18T05:04:37.357991+00:00"
+        "generated": "2026-08-18T05:57:21.867920+00:00"
       }
     },
     {
       "title": "Incendio del Auditórium: $58 millones del seguro y pedidos de informes sobre su destino",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-18T05:04:13.269459+00:00",
+      "first_seen": "2026-08-18T05:56:39.992806+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/incendio-casino-destacada-1.jpg",
       "articles": [
         {
@@ -248,14 +218,14 @@
           "A seis años del incendio que destruyó el Auditórium, una revisión de los pagos realizados por el seguro y de las decisiones tomadas después del siniestro abre nuevas preguntas sobre el destino de los fondos. El incendio que destruyó el Teatro Auditórium del Complejo Casino hace seis años dejó no solo un daño material irreparable, sino también una serie de interrogantes en torno al manejo de los fondos provenientes del seguro contratado para cubrir el siniestro.",
           "A pesar de que la póliza estaba vigente y la aseguradora realizó los pagos correspondientes, el destino del dinero recibido por la Municipalidad generó dudas y pedidos de informes por parte del Concejo Deliberante."
         ],
-        "generated": "2026-08-18T05:04:38.322183+00:00"
+        "generated": "2026-08-18T05:57:22.872769+00:00"
       }
     },
     {
       "title": "La IA podría consumir el equivalente a casi dos ríos Quequén de agua por año",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-18T05:04:13.269459+00:00",
+      "first_seen": "2026-08-18T05:56:39.992806+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/05/clima-rio.webp",
       "articles": [
         {
@@ -272,14 +242,14 @@
           "Un estudio proyectó un consumo mundial de entre 380 y 600 millones de metros cúbicos de agua en 2027, un volumen equivalente a entre 1,07 y 1,68 veces el agua que transporta el río Quequén Grande durante un año. Para el año 2027, el funcionamiento global de la inteligencia artificial podría llegar a consumir entre 380 y 600 millones de metros cúbicos de agua.",
           "Según proyecciones científicas, este volumen equivale a entre 1,07 y 1,68 veces todo el caudal que transporta el río Quequén Grande durante un año completo. Noticia relacionadas 30 leones y tigres serán trasladados desde Luján a santuarios de Sudáfrica y Estados Unidos 17 de agosto de 2026 Un rayo destruyó una torre de guardavidas en EE.UU.: una alerta para nuestras playas 14 de agosto de 2026 La cifra sobre el impacto tecnológico proviene del trabajo de los investigadores Pengfei Li, Jianyi Yang, Mohammad A."
         ],
-        "generated": "2026-08-18T05:04:39.328802+00:00"
+        "generated": "2026-08-18T05:57:23.841841+00:00"
       }
     },
     {
       "title": "Caen los sospechosos de un asalto a mano armada a un playero en Quequén",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-18T05:04:13.269459+00:00",
+      "first_seen": "2026-08-18T05:56:39.992806+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/gto-detencion-asalto-playero.jpg",
       "articles": [
         {
@@ -296,14 +266,14 @@
           "Los asaltantes encañonaron al empleado el 13 de agosto en calle 519, escaparon a pie con dinero y luego las cámaras permitieron identificar las casas donde incautaron un revólver y vestimenta. Un robo agravado por el uso de un arma de fuego, ocurrido días atrás en una estación de servicio de Quequén , fue esclarecido tras una investigación llevada adelante por personal del Gabinete Técnico Operativo de la Comisaría Segunda.",
           "Noticia relacionadas Un detenido en Quequén por el robo de un televisor, una consola Xbox y otros objetos 17 de agosto de 2026 Incendio del Auditórium: $58 millones del seguro y pedidos de informes sobre su destino 17 de agosto de 2026 El hecho había ocurrido durante la madrugada del 13 de agosto, cuando un playero se encontraba trabajando en una estación de servicio ubicada en calle 519 al 3500 ."
         ],
-        "generated": "2026-08-18T05:04:40.311020+00:00"
+        "generated": "2026-08-18T05:57:24.906899+00:00"
       }
     },
     {
       "title": "Rompió el ingreso a una vivienda y atacó a una menor con un cuchillo",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-18T05:04:13.269459+00:00",
+      "first_seen": "2026-08-18T05:56:39.992806+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/detenido-dano-amenazas-resistencia-autoridad-omxhz-1.jpg",
       "articles": [
         {
@@ -320,14 +290,14 @@
           "Los uniformados lo atraparon a pocos metros en San Cayetano, la fiscalía le imputó varios delitos y la jueza Aida Lhez ordenó que permanezca encarcelado en la comisaría de Necochea. Un hombre fue detenido y trasladado a Necochea tras amenazar de muerte con un cuchillo a una menor de edad, dañar una vivienda y enfrentarse a los efectivos policiales en San Cayetano.",
           "El hecho ocurrió en horas de la tarde y culminó con la intervención de la Justicia, que ratificó su detención formal tras evaluar la gravedad de los delitos. Noticia relacionadas Un detenido en Quequén por el robo de un televisor, una consola Xbox y otros objetos 17 de agosto de 2026 Incendio del Auditórium: $58 millones del seguro y pedidos de informes sobre su destino 17 de agosto de 2026 El episodio comenzó cuando el personal de la Estación de Policía Comunal de San Cayetano recibió un llamado telefónico que alertaba sobre una confrontación entre varias personas."
         ],
-        "generated": "2026-08-18T05:04:41.274129+00:00"
+        "generated": "2026-08-18T05:57:25.951879+00:00"
       }
     },
     {
       "title": "Mar del Plata: un hombre murió aplastado contra una pared por una camioneta fuera de control",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-18T05:04:13.269459+00:00",
+      "first_seen": "2026-08-18T05:56:39.992806+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/tenia-36-anos-y-era-correntino-el-hombre-fallecido-en-el-choque-1786895477687.jpg",
       "articles": [
         {
@@ -344,14 +314,14 @@
           "Maximiliano Vandecaveye murió tras quedar aplastado contra una pared por una Toyota RAV4 que perdió el control en Cerrito y Magallanes. El siniestro dejó cuatro heridos. Maximiliano Vandecaveye, de 36 años y oriundo de Corrientes, murió tras ser embestido por una Toyota RAV4 en la calle Cerrito, en Mar del Plata .",
           "El hombre se encontraba junto a un amigo, Héctor Fernández, de 38 años, frente al almacén ubicado en Cerrito al 400. Noticia relacionadas Un detenido en Quequén por el robo de un televisor, una consola Xbox y otros objetos 17 de agosto de 2026 Incendio del Auditórium: $58 millones del seguro y pedidos de informes sobre su destino 17 de agosto de 2026 Según la autopsia realizada por la Policía Científica, Vandecaveye sufrió lesiones graves en los riñones y una hemorragia interna provocada por el aplastamiento contra una pared."
         ],
-        "generated": "2026-08-18T05:04:42.287733+00:00"
+        "generated": "2026-08-18T05:57:26.938264+00:00"
       }
     },
     {
       "title": "Detuvieron al sospechoso que tenía en vilo al barrio Banco Provincia",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-18T05:04:13.269459+00:00",
+      "first_seen": "2026-08-18T05:56:39.992806+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/detienen-sospechoso-robo-agravado-barrio-banco-pro-5hxtc-1.jpg",
       "articles": [
         {
@@ -368,14 +338,14 @@
           "La investigación fue llevada por personal de la Comisaría Primera. Se analizaron registros de cámaras de seguridad y redes sociales. Tras una investigación llevada adelante por personal del Grupo Tecnico Operativo de la Comisaría Primera de Necochea, se logró detener al presunto autor de un robo agravado por el uso de armas , ocurrido días atrás en el barrio Banco Provincia .",
           "Noticia relacionadas Un detenido en Quequén por el robo de un televisor, una consola Xbox y otros objetos 17 de agosto de 2026 Incendio del Auditórium: $58 millones del seguro y pedidos de informes sobre su destino 17 de agosto de 2026 Como informó Diario Necochea , el hecho se registró el pasado 8 de agosto, cuando una vecina fue sorprendida por delincuentes que ingresaron a su vivienda luego de forzar el portón y una de las ventanas. Del interior sustrajeron alrededor de diez cuchillos de colección y un teléfono celular."
         ],
-        "generated": "2026-08-18T05:04:43.287338+00:00"
+        "generated": "2026-08-18T05:57:29.153965+00:00"
       }
     },
     {
       "title": "Fin de semana largo de San Martín: 1,07 millones de turistas viajaron y el gasto real bajó 6,3%",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-18T05:04:13.269459+00:00",
+      "first_seen": "2026-08-18T05:56:39.992806+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/fin-de-semana-largo-de-san-martin-1-07-millones-de-turistas-viajaron-y-el-gasto-real-bajo-6-3.jpg",
       "articles": [
         {
@@ -392,14 +362,14 @@
           "Más de 1,07 millones de turistas recorrieron el país durante el feriado de San Martín, con un impacto económico de $245.907 millones, aunque el consumo real cayó frente a 2023. Más de 1,07 millones de turistas se movilizaron por distintos puntos del país durante el fin de semana largo por el Paso a la Inmortalidad del General José de San Martín y generaron un impacto económico directo de $245.907 millones.",
           "Noticia relacionadas 30 leones y tigres serán trasladados desde Luján a santuarios de Sudáfrica y Estados Unidos 17 de agosto de 2026 El Gobierno nacional invierte más de 3,4 billones en atención a discapacidad 11 de agosto de 2026 En total viajaron 1.074.171 personas, un 24,2% más que las 865.177 registradas en el fin de semana largo comparable de 2023, aunque el movimiento estuvo acompañado por un menor nivel de consumo."
         ],
-        "generated": "2026-08-18T05:04:44.272257+00:00"
+        "generated": "2026-08-18T05:57:30.146255+00:00"
       }
     },
     {
       "title": "El Gobierno nacional invierte más de 3,4 billones en atención a discapacidad",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-18T05:04:13.269459+00:00",
+      "first_seen": "2026-08-18T05:56:39.992806+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/el-gobierno-nacional-invierte-mas-de-3-4-billones-en-atencion-a-discapacidad.webp",
       "articles": [
         {
@@ -416,14 +386,14 @@
           "El Ministro de Salud, Mario Lugones, encabezó la reunión con autoridades sanitarias. Se presentaron herramientas para monitorear la vacunación y mejorar la planificación. En una nueva reunión del Consejo Federal de Salud, las autoridades sanitarias del país abordaron los principales temas de la agenda conjunta.",
           "La cartera sanitaria nacional compartió las inversiones realizadas en materia de discapacidad y acordó con las jurisdicciones realizar un encuentro federal para coordinar acciones conjuntas. También se presentaron las acciones implementadas para contar con información oportuna y mejorar la planificación y la toma de decisiones."
         ],
-        "generated": "2026-08-18T05:04:45.334952+00:00"
+        "generated": "2026-08-18T05:57:31.188749+00:00"
       }
     },
     {
       "title": "Conmoción en Córdoba: murió un niño de 3 años tras el ataque de un pitbull",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-18T05:04:13.269459+00:00",
+      "first_seen": "2026-08-18T05:56:39.992806+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/conmocion-en-cordoba-murio-un-nino-de-3-anos-tras-el-ataque-de-un-pitbull-y-su-madre-dio-un-crudo-testimonio.jpg",
       "articles": [
         {
@@ -440,14 +410,14 @@
           "Salvador murió tras sufrir graves heridas durante el ataque de un perro en Córdoba. La investigación continúa mientras la normativa provincial y municipal establece obligaciones para la tenencia de animales potencialmente peligrosos. La muerte de Salvador, un niño de tres años, provocó conmoción en la ciudad de Córdoba luego de que fuera atacado por un perro en el barrio Villa La Lonja, al sur de la capital provincial.",
           "El episodio ocurrió el 9 de agosto de 2026 y el menor sufrió heridas graves en el rostro y el cuello. Fue trasladado de urgencia a la Clínica Vélez Sarsfield, donde murió poco después de ingresar."
         ],
-        "generated": "2026-08-18T05:04:46.355277+00:00"
+        "generated": "2026-08-18T05:57:32.306445+00:00"
       }
     },
     {
       "title": "Es oficial: los extranjeros no residentes deberán pagar por la atención en hospitales nacionales",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-18T05:04:13.269459+00:00",
+      "first_seen": "2026-08-18T05:56:39.992806+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/es-oficial-los-extranjeros-no-residentes-deberan-pagar-por-la-atencion-en-hospitales-nacio.webp",
       "articles": [
         {
@@ -464,14 +434,14 @@
           "El Gobierno reglamentó este martes el pago de la atención sanitaria para extranjeros que no cuenten con residencia permanente en los establecimientos administrados por el Estado nacional. La medida fue establecida mediante la Resolución 1066/2026, firmada por el ministro de. La normativa formaliza lo dispuesto por el DNU 366/2025, que introdujo modificaciones en la Ley de Migraciones.",
           "Según la nueva reglamentación, fuera de las situaciones de emergencia, los extranjeros que no tengan residencia permanente deberán contar con un seguro de salud o pagar previamente la atención recibida en los establecimientos sanitarios administrados por el Estado nacional. La resolución entrará en vigencia a partir del miércoles 12 de agosto."
         ],
-        "generated": "2026-08-18T05:04:47.342166+00:00"
+        "generated": "2026-08-18T05:57:33.240883+00:00"
       }
     },
     {
       "title": "Una niña de 3 años murió al caer una camioneta al lago Nahuel Huapi",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-18T05:04:13.269459+00:00",
+      "first_seen": "2026-08-18T05:56:39.992806+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/una-nina-de-3-anos-murio-al-caer-una-camioneta-al-lago-nahuel-huapi.webp",
       "articles": [
         {
@@ -488,15 +458,15 @@
           "La niña de 3 años murió tras la caída de la camioneta en la que viajaba junto a su madre, en el barrio Villa Don Orione, a la altura del kilómetro 15 de la avenida Bustillo. La familia de Fidelina reconstruyó las circunstancias del accidente ocurrido el sábado en el barrio Villa Don Orione, a la altura del kilómetro 15 de la avenida Bustillo, sobre el lago Nahuel Huapi.",
           "Noticia relacionadas 30 leones y tigres serán trasladados desde Luján a santuarios de Sudáfrica y Estados Unidos 17 de agosto de 2026 Fin de semana largo de San Martín: 1,07 millones de turistas viajaron y el gasto real bajó 6,3% 17 de agosto de 2026 Según relataron sus padres, Eugenia y Agustín, habían decidido salir de su vivienda después del mediodía para aprovechar las nevadas de los últimos días e ir al cerro Catedral. Las condiciones del camino de acceso a la propiedad dificultaron la salida."
         ],
-        "generated": "2026-08-18T05:04:48.323216+00:00"
+        "generated": "2026-08-18T05:57:34.298654+00:00"
       }
     },
     {
       "title": "Facundo Moyano: su defensa pidió levantar las restricciones tras la declaración de Candela Arizaga",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-18T05:04:13.269459+00:00",
-      "image": null,
+      "first_seen": "2026-08-18T05:56:39.992806+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/facundo-moyano-su-defensa-pidio-levantar-las-restricciones-tras-la-declaracion-de-candela-arizaga-quien-nego-haber-sufrido-violencia.jpg",
       "articles": [
         {
           "portal": "Diario Necochea",
@@ -506,14 +476,21 @@
           "category": null,
           "image": null
         }
-      ]
+      ],
+      "summary": {
+        "paragraphs": [
+          "La defensa de Facundo Moyano solicitó el levantamiento de las restricciones tras la ampliación de la declaración de Candela Arizaga, quien negó haber sufrido violencia y manifestó su intención de retomar el contacto con el exdiputado, mientras la causa sigue. La defensa de Facundo Moyano pidió que se levanten las medidas restrictivas dispuestas contra el exdiputado, quien continúa imputado por lesiones leves y privación ilegítima de la libertad en contexto de violencia de género.",
+          "El planteo fue presentado luego de que Candela Arizaga, de 23 años, ampliara su declaración y negara haber sufrido violencia."
+        ],
+        "generated": "2026-08-18T05:57:36.617558+00:00"
+      }
     },
     {
       "title": "Tensión en el Congreso: la Policía reprimió a manifestantes con balas de goma, agua y gas lacrimógeno",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-18T05:04:13.269459+00:00",
-      "image": null,
+      "first_seen": "2026-08-18T05:56:39.992806+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/tension-en-el-congreso-la-policia-reprimio-a-manifestantes-con-balas-de-goma-agua-y-gas-lacrimogeno-1786057014962.jpg",
       "articles": [
         {
           "portal": "Diario Necochea",
@@ -523,14 +500,21 @@
           "category": null,
           "image": null
         }
-      ]
+      ],
+      "summary": {
+        "paragraphs": [
+          "Miles de personas protestaron frente al Congreso bajo la lluvia contra la iniciativa libertaria mientras se debatía un proyecto de ley que generó fuertes rechazos. Una intensa jornada de protestas se vivió frente al Congreso de la Nación, donde miles de personas se congregaron para manifestar su rechazo a un proyecto de ley impulsado por el Gobierno. La iniciativa, que buscaba modificar normativas sobre la propiedad privada y la protección de consumidores, generó un fuerte malestar en diversos sectores sociales.",
+          "La tensión fue en aumento a lo largo del día, hasta que la manifestación pacífica derivó en enfrentamientos con la Policía, que utilizó balas de goma, agua y gas lacrimógeno para dispersar a los manifestantes. Este episodio refleja la profunda división y el debate político que atraviesa el país en torno a las reformas propuestas."
+        ],
+        "generated": "2026-08-18T05:57:38.377328+00:00"
+      }
     },
     {
       "title": "El Senado debate la Ley de Propiedad Privada: los cambios en alquileres y desalojos",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-18T05:04:13.269459+00:00",
-      "image": null,
+      "first_seen": "2026-08-18T05:56:39.992806+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/ley-de-propiedad-privada-las-claves-del-proyecto-que-debatio-el-senado.webp",
       "articles": [
         {
           "portal": "Diario Necochea",
@@ -540,14 +524,21 @@
           "category": null,
           "image": null
         }
-      ]
+      ],
+      "summary": {
+        "paragraphs": [
+          "El proyecto del Poder Ejecutivo mantuvo la intimación de 10 días para viviendas, incorporó notificaciones por correo electrónico y sumó cambios en las expropiaciones para exigir el pago antes de transferir el dominio. El Senado abordó recientemente un proyecto de ley que busca agilizar los procesos de desalojo y modificar aspectos clave relacionados con la propiedad privada y los contratos de alquiler.",
+          "Esta iniciativa, impulsada por el Poder Ejecutivo, propone cambios en los plazos y procedimientos para la restitución de inmuebles, así como en las notificaciones y en las condiciones para las expropiaciones. La reforma genera opiniones divididas, con especialistas que destacan beneficios para propietarios e inquilinos cumplidores, mientras que organizaciones de inquilinos expresan su rechazo y preocupación por la reducción de tiempos para defenderse."
+        ],
+        "generated": "2026-08-18T05:57:41.359271+00:00"
+      }
     },
     {
       "title": "Un surfista marplatense murió tras sufrir una emergencia mientras hacía surf en Chile",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-18T05:04:13.269459+00:00",
-      "image": null,
+      "first_seen": "2026-08-18T05:56:39.992806+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/surfista-marplatense-murio-ahogado-en-chile-1786660862869.jpg",
       "articles": [
         {
           "portal": "Diario Necochea",
@@ -557,14 +548,21 @@
           "category": null,
           "image": null
         }
-      ]
+      ],
+      "summary": {
+        "paragraphs": [
+          "Gonzalo Balado, de 40 años, murió tras sufrir una emergencia mientras hacía surf en Rapa Nui. El marplatense vivía desde hacía años en la isla junto a su pareja. Gonzalo Balado, conocido entre sus allegados como “El Che” o “Gonchi”, era un surfista aficionado a las grandes olas y formaba parte de la comunidad local vinculada a esa actividad.",
+          "También trabajaba en gastronomía junto a su pareja, con quien tenía un pequeño restaurante. Noticia relacionadas San Cayetano abrió hasta el 31 de agosto la inscripción para aspirantes a auxiliares escolares 5 de agosto de 2026 San Cayetano tendrá asueto administrativo y feriado optativo este viernes por la Fiesta Patronal 5 de agosto de 2026 El episodio ocurrió el martes 11 de agosto, alrededor de las 16.30, cuando Balado estaba en el mar acompañado por otras dos personas."
+        ],
+        "generated": "2026-08-18T05:57:42.967005+00:00"
+      }
     },
     {
       "title": "San Cayetano abrió hasta el 31 de agosto la inscripción para aspirantes a auxiliares escolares",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-18T05:04:13.269459+00:00",
-      "image": null,
+      "first_seen": "2026-08-18T05:56:39.992806+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/san-cayetano-abrio-hasta-el-31-de-agosto-la-inscripcion-para-aspirantes-a-auxiliares-escol.webp",
       "articles": [
         {
           "portal": "Diario Necochea",
@@ -574,14 +572,21 @@
           "category": null,
           "image": null
         }
-      ]
+      ],
+      "summary": {
+        "paragraphs": [
+          "Los interesados deben completar el formulario en la página de ABC, donde podrán crear una cuenta nueva o ingresar con los datos utilizados en años anteriores. Consejo Escolar comunica que hasta el 31 de agosto se encontrará abierta la inscripción a los listados a aspirantes a auxiliares. Noticia relacionadas Un surfista marplatense murió tras sufrir una emergencia mientras hacía surf en Chile 13 de agosto de 2026 Alumnos y docentes de la Escuela 501 recorrieron la ciudad por el Día de la Educación Especial 11 de agosto de 2026 Para ello deben ingresar en página del ABC (https://abc.gob.ar/) y crear un usuario.",
+          "Aquellos que ya lo tengan ingresan con usuario y contraseña creados en años anteriores. Una vez allí ingresan en el apartado de instrucciones y completan los datos solicitados."
+        ],
+        "generated": "2026-08-18T05:57:43.966299+00:00"
+      }
     },
     {
       "title": "San Cayetano tendrá asueto administrativo y feriado optativo este viernes por la Fiesta Patronal",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-18T05:04:13.269459+00:00",
-      "image": null,
+      "first_seen": "2026-08-18T05:56:39.992806+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/7-agosto-feriado-administracion-publica-banco-san-yzbkd-1.jpg",
       "articles": [
         {
           "portal": "Diario Necochea",
@@ -591,14 +596,21 @@
           "category": null,
           "image": null
         }
-      ]
+      ],
+      "summary": {
+        "paragraphs": [
+          "La medida alcanzará al Banco Provincia , la industria, el comercio y otras actividades, mientras Educación suspendió las clases y los servicios públicos esenciales mantendrán sus horarios habituales.",
+          "A través del Decreto Nº 967/2026 se declaró jornada no laborable para la Administración Pública y Banco de la Provincia de Buenos Aires, y feriado optativo para la industria, el comercio y restantes actividades que se desarrollen el próximo viernes 7 de agosto, con motivo de celebrarse la Fiesta Patronal del Partido de San Cayetano."
+        ],
+        "generated": "2026-08-18T05:57:44.961641+00:00"
+      }
     },
     {
       "title": "Cierre de vacaciones de invierno con show de malabares en el Polideportivo de San Cayetano",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-18T05:04:13.269459+00:00",
-      "image": null,
+      "first_seen": "2026-08-18T05:56:39.992806+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/cierre-vacaciones-invierno-polideportivo-municipal-irzwi-1.jpg",
       "articles": [
         {
           "portal": "Diario Necochea",
@@ -616,14 +628,21 @@
           "category": null,
           "image": null
         }
-      ]
+      ],
+      "summary": {
+        "paragraphs": [
+          "El Polideportivo Municipal se transformó en un espacio de juego y encuentro. La propuesta deportiva y recreativa incluyó dinámicas y estaciones creativas. Luego de dos semanas repletas de actividades, talleres y entretenimientos para todas las edades, las vacaciones de invierno finalizaron con un evento realizado en el Polideportivo Municipal.",
+          "La jornada de cierre fue el resultado de un trabajo conjunto entre las áreas de Cultura, Deportes y el Programa Envión, que se unieron para ofrecer una despedida inolvidable a los niños y sus familias. Noticia relacionadas Un surfista marplatense murió tras sufrir una emergencia mientras hacía surf en Chile 13 de agosto de 2026 San Cayetano abrió hasta el 31 de agosto la inscripción para aspirantes a auxiliares escolares 5 de agosto de 2026 Desde temprano, el Polideportivo se convirtió en un gran espacio de juego y encuentro."
+        ],
+        "generated": "2026-08-18T05:57:46.834052+00:00"
+      }
     },
     {
       "title": "Taller de lactancia materna en San Cayetano con expertos este jueves",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-18T05:04:13.269459+00:00",
-      "image": null,
+      "first_seen": "2026-08-18T05:56:39.992806+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/taller-lactancia-materna-san-cayetano-expertos-est-5zmo1-1.jpg",
       "articles": [
         {
           "portal": "Diario Necochea",
@@ -633,14 +652,21 @@
           "category": null,
           "image": null
         }
-      ]
+      ],
+      "summary": {
+        "paragraphs": [
+          "Verónica Diez estará acompañada por la puericultora Natalia Escalada y la Dra. Abordarán temas como los primeros días del recién nacido. En el marco de la Semana de la Lactancia Materna, la Municipalidad de San Cayetano invita a toda la comunidad a participar de un taller informativo e interactivo destinado a las familias que acompañan la etapa de lactancia. Noticia relacionadas Un surfista marplatense murió tras sufrir una emergencia mientras hacía surf en Chile 13 de agosto de 2026 Jorge Messi y su proyecto en Rosario: capacitación en trasplantes para 100 niños sin cobertura médica 13 de agosto de 2026 La actividad tendrá lugar este jueves 6 de agosto, a las 16:00 horas, en el Espacio Cultural.",
+          "La jornada estará a cargo de la Lic. Verónica Diez, quien contará con la participación especial de la puericultora Natalia Escalada y la Dra. Sara Laborde como profesionales invitadas."
+        ],
+        "generated": "2026-08-18T05:57:47.773830+00:00"
+      }
     },
     {
       "title": "Fuerza Patria pide que los fondos del Casino se utilicen para arreglar las calles de tierra",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-18T05:04:13.269459+00:00",
-      "image": null,
+      "first_seen": "2026-08-18T05:56:39.992806+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/fuerza-patria-pide-usar-fondos-del-casino-para-arreglar-las-calles-de-tierra-1786663900866.jpg",
       "articles": [
         {
           "portal": "Diario Necochea",
@@ -650,14 +676,21 @@
           "category": null,
           "image": null
         }
-      ]
+      ],
+      "summary": {
+        "paragraphs": [
+          "Fuerza Patria presentó un proyecto para destinar fondos de la venta del Casino a calles de tierra de Necochea, Quequén y el interior del distrito. El bloque de concejales de Fuerza Patria presentó el 12 de agosto de 2026 un proyecto de resolución para que el Ejecutivo municipal utilice fondos provenientes de la venta del Complejo Casino en el arreglo inmediato de las calles de tierra de Necochea, Quequén y el interior del distrito.",
+          "La iniciativa fue presentada por Silvia Blanco y Martín Divero, presidente del bloque."
+        ],
+        "generated": "2026-08-18T05:57:48.723736+00:00"
+      }
     },
     {
       "title": "Radicales de San Cayetano participan en Convención Provincial de la UCR en La Plata",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-18T05:04:13.269459+00:00",
-      "image": null,
+      "first_seen": "2026-08-18T05:56:39.992806+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/radicales-san-cayetano-participan-convencion-provi-lfm34-1.jpg",
       "articles": [
         {
           "portal": "Diario Necochea",
@@ -667,7 +700,38 @@
           "category": null,
           "image": null
         }
-      ]
+      ],
+      "summary": {
+        "paragraphs": [
+          "La Convención Provincial reunió a dirigentes y legisladores. Emiliano Balbín asumió como presidente del Comité Provincia .",
+          "La Unión Cívica Radical de San Cayetano tuvo representación en la Convención Provincial de la UCR de la Provincia de Buenos Aires, desarrollada el sábado 8 de agosto en el Club Atenas de la ciudad de La Plata. Noticia relacionadas Fuerza Patria pide que los fondos del Casino se utilicen para arreglar las calles de tierra 14 de agosto de 2026 El Senado aprobó la media sanción del proyecto sobre propiedad privada y la definición quedó en manos de Diputados 7 de agosto de 2026 El encuentro reunió a dirigentes, convencionales, legisladores, intendentes, concejales y representantes de los distintos distritos bonaerenses, en una jornada que marcó el inicio de una nueva etapa institucional para el radicalismo provincial."
+        ],
+        "generated": "2026-08-18T05:57:49.655915+00:00"
+      }
+    },
+    {
+      "title": "El Senado aprobó la media sanción del proyecto sobre propiedad privada y la definición quedó en manos de Diputados",
+      "score": 1.2,
+      "sources_count": 1,
+      "first_seen": "2026-08-18T05:56:39.992806+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/el-senado-aprobo-la-media-sancion-del-proyecto-sobre-propiedad-privada-y-la-definicion-quedo-en-manos-de-diputados-1786106967309.jpg",
+      "articles": [
+        {
+          "portal": "Diario Necochea",
+          "title": "El Senado aprobó la media sanción del proyecto sobre propiedad privada y la definición quedó en manos de Diputados",
+          "url": "https://diarionecochea.com/2026/08/07/el-senado-aprobo-la-media-sancion-del-proyecto-sobre-propiedad-privada-y-la-definicion-quedo-en-manos-de-diputados/",
+          "published_at": null,
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La iniciativa impulsada por el oficialismo fue aprobada por 37 votos contra 33 tras más de diez horas de debate, aunque llegó al recinto con cambios luego del retiro de dos capítulos centrales. El Senado otorgó durante la madrugada la media sanción al proyecto de ley sobre inviolabilidad de la propiedad privada impulsado por el gobierno de Javier Milei, que ahora deberá ser tratado por la Cámara de Diputados.",
+          "La aprobación en general fue por 37 votos a favor y 33 en contra, al término de una sesión que se extendió durante más de diez horas y concluyó cerca de las 2 de la madrugada. Antes de la votación, en las inmediaciones del Congreso se registró una represión contra manifestantes que rechazaban la iniciativa."
+        ],
+        "generated": "2026-08-18T05:57:50.652517+00:00"
+      }
     }
   ]
 }
