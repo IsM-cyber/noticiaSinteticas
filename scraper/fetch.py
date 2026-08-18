@@ -28,7 +28,7 @@ MAX_ITEMS_PER_SOURCE = 40
 RSC_CHUNK_RE = re.compile(r'self\.__next_f\.push\(\[1,"(.*?)"\]\)</script>', re.S)
 RSC_ITEM_RE = re.compile(
     r'\{"id":\d+,"titulo":"((?:[^"\\]|\\.)*)","slug":"((?:[^"\\]|\\.)*)"'
-    r',"copete":"((?:[^"\\]|\\.)*)","imagen_url":"(?:[^"\\]|\\.)*","video_url":(?:[^,]*),'
+    r',"copete":"((?:[^"\\]|\\.)*)","imagen_url":"((?:[^"\\]|\\.)*)","video_url":(?:[^,]*),'
     r'"es_video":\d+,"es_destacada":\d+,"fecha_publicacion":"([\dT:.Z-]+)",'
     r'"seccion_nombre":"((?:[^"\\]|\\.)*)"',
     re.S,
@@ -81,8 +81,27 @@ def _fetch_rss(source: dict) -> list[dict]:
             "published_at": published,
             "category": category,
             "body": _body_from_feed(entry),
+            "image": _image_from_entry(entry),
         })
     return out
+
+
+def _image_from_entry(entry) -> str | None:
+    """Imagen de la nota desde el propio feed (media_content > enclosure > <img>)."""
+    for media in entry.get("media_content") or []:
+        url = media.get("url")
+        if url and (media.get("medium") or media.get("type") or "").startswith("image"):
+            return url
+    for enc in entry.get("enclosures") or []:
+        if (enc.get("type") or "").startswith("image") and enc.get("href"):
+            return enc["href"]
+    content = ""
+    if entry.get("content") and entry["content"][0].get("value"):
+        content = entry["content"][0]["value"]
+    elif entry.get("summary"):
+        content = entry["summary"]
+    match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', content)
+    return match.group(1) if match else None
 
 
 def _body_from_feed(entry) -> str | None:
@@ -146,10 +165,11 @@ def _fetch_rsc(source: dict) -> list[dict]:
         title = _clean(m.group(1))
         slug = _clean(m.group(2))
         copete = _clean(m.group(3))
+        image = _clean(m.group(4))
         if not title or not slug:
             continue
         try:
-            published = _iso(dt.datetime.fromisoformat(m.group(4).replace("Z", "+00:00")))
+            published = _iso(dt.datetime.fromisoformat(m.group(5).replace("Z", "+00:00")))
         except ValueError:
             published = None
         out.append({
@@ -157,8 +177,9 @@ def _fetch_rsc(source: dict) -> list[dict]:
             "title": title,
             "url": source["article_url_template"].format(slug=slug),
             "published_at": published,
-            "category": m.group(5) or None,
+            "category": m.group(6) or None,
             "body": copete or None,
+            "image": image or None,
         })
     return out
 
@@ -172,25 +193,33 @@ GENERIC_BODY_SELECTORS = [
 ]
 
 
-def fetch_body(source: dict, url: str) -> str | None:
-    """Baja el texto de una nota desde su página. Devuelve texto plano o None.
+def fetch_body(source: dict, url: str) -> tuple[str | None, str | None]:
+    """Baja el texto y la imagen principal (og:image) de una nota.
 
-    Usa el selector propio de la fuente si lo tiene; si no (o si falla),
-    prueba selectores genéricos de cuerpo (WordPress y afines).
+    Devuelve (texto, imagen). Usa el selector propio de la fuente si lo tiene;
+    si no (o si falla), prueba selectores genéricos de cuerpo (WordPress).
     """
     resp = requests.get(url, headers=HEADERS, timeout=20)
     resp.raise_for_status()
     soup = BeautifulSoup(resp.text, "html.parser")
     selectors = [source["body_selector"]] if source.get("body_selector") else []
     selectors += GENERIC_BODY_SELECTORS
+    text = None
     for selector in selectors:
         element = soup.select_one(selector)
         if element is None:
             continue
-        text = element.get_text("\n", strip=True)
-        if len(text) >= 100:  # que sea el cuerpo grande, no un fragmento
-            return text
-    return None
+        candidate = element.get_text("\n", strip=True)
+        if len(candidate) >= 100:  # que sea el cuerpo grande, no un fragmento
+            text = candidate
+            break
+    image = None
+    og = soup.find("meta", attrs={"property": "og:image"}) or soup.find(
+        "meta", attrs={"name": "og:image"}
+    )
+    if og and og.get("content"):
+        image = og["content"]
+    return text, image
 
 
 def fetch_all() -> tuple[list[dict], list[str]]:

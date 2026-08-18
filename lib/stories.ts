@@ -7,6 +7,7 @@ export type Article = {
   url: string;
   published_at: string | null;
   category: string | null;
+  image?: string | null;
 };
 
 export type Summary = {
@@ -19,6 +20,7 @@ export type Story = {
   score: number;
   sources_count: number;
   first_seen: string;
+  image?: string | null;
   summary?: Summary;
   articles: Article[];
 };

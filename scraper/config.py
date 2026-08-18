@@ -82,5 +82,5 @@ CLUSTER_WINDOW_HOURS = 36     # ventana para considerar dos artículos "la misma
 JACCARD_THRESHOLD = 0.6       # solapamiento mínimo de tokens para agrupar
 FRESHNESS_HALFLIFE_HOURS = 12 # a las 12 h una noticia pierde la mitad del puntaje de frescura
 MAX_STORIES = 30              # cuántas noticias salen en el ranking
-MAX_SUMMARIES = 12            # a cuántas noticias del top se les escribe resumen
+MAX_SUMMARIES = 20            # a cuántas noticias del top se les escribe resumen
 USER_AGENT = "NoticiasSinteticas/1.0 (agregador local de noticias de Necochea; contacto: propietario del sitio)"

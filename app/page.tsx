@@ -49,6 +49,14 @@ export default async function Home() {
                   <span className="when">{timeAgo(story.first_seen)}</span>
                 </div>
                 <h2>{story.title}</h2>
+                {story.image && (
+                  <img
+                    className="thumb"
+                    src={story.image}
+                    alt=""
+                    loading="lazy"
+                  />
+                )}
                 {story.summary && story.summary.paragraphs.length > 0 && (
                   <div className="summary">
                     <span className="summary-label">Resumen sintético</span>

@@ -20,27 +20,35 @@ SOURCE_BY_NAME = {source["name"]: source for source in SOURCES}
 
 
 def _attach_summaries(top: list[dict], now: dt.datetime) -> None:
-    """Escribe el resumen automático de las primeras noticias (sin IA)."""
+    """Escribe el resumen automático de las primeras noticias (sin IA)
+    y la primera imagen disponible de cada noticia."""
     for story in top[:MAX_SUMMARIES]:
         bodies: list[dict] = []
+        story_image = None
         for article in story["articles"]:
             source = SOURCE_BY_NAME.get(article["portal"])
             if source is None:
                 continue
             text = article.get("body")
+            image = article.get("image")
             if not text:
                 try:
-                    text = fetch_body(source, article["url"])
-                    print(f"  [body] {article['portal']}: bajado")
+                    text, fetched_image = fetch_body(source, article["url"])
+                    image = image or fetched_image
+                    if text:
+                        print(f"  [body] {article['portal']}: bajado")
                 except Exception as exc:
                     print(f"  [body] {article['portal']}: {exc}")
                     text = None
+            if story_image is None:
+                story_image = image
             if text and len(str(text).strip()) > 20:
                 bodies.append({
                     "portal": article["portal"],
                     "title": article.get("title"),
                     "text": text,
                 })
+        story["image"] = story_image
         if bodies:
             story["summary"] = build_summary(bodies)
             print(f"  [resumen] {story['title'][:50]}… → {len(story['summary']['paragraphs'])} párrafos")

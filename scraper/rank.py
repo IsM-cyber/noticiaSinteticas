@@ -60,6 +60,9 @@ def rank(stories: list[dict], now: dt.datetime | None = None) -> list[dict]:
 
         # el titular de la noticia sale del portal con más preponderancia
         best = max(articles, key=lambda a: WEIGHTS.get(a["portal"], 1.0))
+        story_image = next(
+            (a.get("image") for a in articles if a.get("image")), None
+        )
         ranked.append({
             "title": best["title"],
             "score": round(score, 3),
@@ -69,6 +72,7 @@ def rank(stories: list[dict], now: dt.datetime | None = None) -> list[dict]:
                  for a in articles if (_parse_dt(a.get("published_at")) or _parse_dt(a.get("first_seen")))),
                 default=now,
             ).isoformat(),
+            "image": story_image,
             "articles": [
                 {
                     "portal": a["portal"],
@@ -76,6 +80,7 @@ def rank(stories: list[dict], now: dt.datetime | None = None) -> list[dict]:
                     "url": a.get("url"),
                     "published_at": a.get("published_at"),
                     "category": a.get("category"),
+                    "image": a.get("image"),
                 }
                 for a in sorted(articles, key=lambda x: WEIGHTS.get(x["portal"], 1.0), reverse=True)
             ],
