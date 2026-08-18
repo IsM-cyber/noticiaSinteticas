@@ -163,21 +163,34 @@ def _fetch_rsc(source: dict) -> list[dict]:
     return out
 
 
+# selectores genéricos de cuerpo para portales WordPress (feed sin texto)
+GENERIC_BODY_SELECTORS = [
+    "div.entry-content",
+    "div.post-content",
+    "div.the-content",
+    "article",
+]
+
+
 def fetch_body(source: dict, url: str) -> str | None:
-    """Baja el texto de una nota (para fuentes HTML). Devuelve texto plano o None."""
-    if source["type"] != "html":
-        return None
+    """Baja el texto de una nota desde su página. Devuelve texto plano o None.
+
+    Usa el selector propio de la fuente si lo tiene; si no (o si falla),
+    prueba selectores genéricos de cuerpo (WordPress y afines).
+    """
     resp = requests.get(url, headers=HEADERS, timeout=20)
     resp.raise_for_status()
     soup = BeautifulSoup(resp.text, "html.parser")
-    selector = source.get("body_selector")
-    if not selector:
-        return None
-    element = soup.select_one(selector)
-    if element is None:
-        return None
-    text = element.get_text("\n", strip=True)
-    return text or None
+    selectors = [source["body_selector"]] if source.get("body_selector") else []
+    selectors += GENERIC_BODY_SELECTORS
+    for selector in selectors:
+        element = soup.select_one(selector)
+        if element is None:
+            continue
+        text = element.get_text("\n", strip=True)
+        if len(text) >= 100:  # que sea el cuerpo grande, no un fragmento
+            return text
+    return None
 
 
 def fetch_all() -> tuple[list[dict], list[str]]:

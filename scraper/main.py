@@ -28,7 +28,7 @@ def _attach_summaries(top: list[dict], now: dt.datetime) -> None:
             if source is None:
                 continue
             text = article.get("body")
-            if not text and source["type"] == "html":
+            if not text:
                 try:
                     text = fetch_body(source, article["url"])
                     print(f"  [body] {article['portal']}: bajado")
