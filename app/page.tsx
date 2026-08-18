@@ -1,5 +1,5 @@
 import { loadNews, timeAgo } from "@/lib/stories";
-import { SITE_NAME_PARTS, SITE_TAGLINE } from "@/lib/site";
+import { SITE_NAME_PARTS, SITE_TAGLINE, SITE_FOOTNOTE } from "@/lib/site";
 
 export const dynamic = "force-dynamic";
 
@@ -84,7 +84,7 @@ export default async function Home() {
       )}
 
       <footer className="foot">
-        <p className="motto">{SITE_TAGLINE}</p>
+        <p className="motto">{SITE_FOOTNOTE}</p>
         <a href="/rss.xml">Feed RSS</a>
         <span aria-hidden>·</span>
         <span>Fuentes: Ecos Diarios, Diario Necochea, Necochea Digital, TSN Necochea,
