@@ -1,4 +1,5 @@
 import { loadNews, timeAgo } from "@/lib/stories";
+import { SITE_NAME_PARTS, SITE_TAGLINE } from "@/lib/site";
 
 export const dynamic = "force-dynamic";
 
@@ -10,12 +11,10 @@ export default function Home() {
     <main className="wrap">
       <header className="hero">
         <h1>
-          Noticias <span>Sintéticas</span>
+          {SITE_NAME_PARTS[0]}
+          <span>{SITE_NAME_PARTS[1]}</span>
         </h1>
-        <p>
-          Las noticias de Necochea y Quequén con mayor resonancia — la misma
-          noticia publicada por varios portales locales, ordenada por relevancia.
-        </p>
+        <p>{SITE_TAGLINE}</p>
         <div className="meta">
           <span>Actualizado {timeAgo(data.generated_at)}</span>
           <span aria-hidden>·</span>

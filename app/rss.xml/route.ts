@@ -1,4 +1,5 @@
 import { loadNews } from "@/lib/stories";
+import { SITE_NAME, SITE_DESCRIPTION, SITE_URL } from "@/lib/site";
 
 export const dynamic = "force-dynamic";
 
@@ -24,9 +25,9 @@ export function GET() {
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Noticias Sintéticas — Necochea</title>
-    <link>https://noticias-sinteticas.vercel.app</link>
-    <description>Las noticias de Necochea y Quequén con mayor resonancia</description>
+    <title>${SITE_NAME} — Necochea</title>
+    <link>${SITE_URL}</link>
+    <description>${SITE_DESCRIPTION}</description>
     <language>es-ar</language>
 ${items}
   </channel>
