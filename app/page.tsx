@@ -84,6 +84,7 @@ export default async function Home() {
       )}
 
       <footer className="foot">
+        <p className="motto">{SITE_TAGLINE}</p>
         <a href="/rss.xml">Feed RSS</a>
         <span aria-hidden>·</span>
         <span>Fuentes: Ecos Diarios, Diario Necochea, Necochea Digital, TSN Necochea,

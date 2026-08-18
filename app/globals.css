@@ -153,5 +153,13 @@ body::before {
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
+  align-items: baseline;
+}
+.foot .motto {
+  width: 100%;
+  margin: 0 0 6px;
+  font-style: italic;
+  color: var(--violet);
+  font-size: 0.9rem;
 }
 .foot a { color: var(--cyan); }
