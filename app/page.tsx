@@ -1,5 +1,6 @@
 import { loadNews, timeAgo } from "@/lib/stories";
 import { SITE_NAME_PARTS, SITE_TAGLINE, SITE_FOOTNOTE } from "@/lib/site";
+import Comments from "@/components/Comments";
 
 export const dynamic = "force-dynamic";
 
@@ -77,6 +78,7 @@ export default async function Home() {
                     </li>
                   ))}
                 </ul>
+                <Comments storyKey={story.key || story.title} />
               </article>
             </li>
           ))}
