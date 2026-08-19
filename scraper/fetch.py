@@ -29,6 +29,60 @@ RETRY_ATTEMPTS = 2
 RETRY_BACKOFF_S = 2.0
 POLITE_SLEEP_S = 0.4
 
+JINA_PREFIX = "https://r.jina.ai/"   # lector gratuito que trae páginas por su propia IP
+JINA_RETRY_SLEEP = 45.0              # r.jina.ai limita por frecuencia → esperar y reintentar
+JINA_BODY_BUDGET = 8                 # máximo de cuerpos vía JINA por corrida (servicio gratis)
+JINA_POLITE_SLEEP = 4.0
+
+_jina_budget_used = 0
+
+
+def _jina(url: str) -> str:
+    """Trae una página vía r.jina.ai (texto/markdown). Reintenta si el
+    servicio devuelve 403 (límite de frecuencia)."""
+    for attempt in range(2):
+        resp = requests.get(JINA_PREFIX + url, headers=HEADERS, timeout=40)
+        if resp.status_code == 200:
+            return resp.text
+        if attempt == 0 and resp.status_code in (403, 429, 500, 502, 503):
+            time.sleep(JINA_RETRY_SLEEP)
+            continue
+        resp.raise_for_status()
+    raise RuntimeError("jina: sin respuestas útiles")
+
+
+def _jina_body(text: str) -> str | None:
+    """Saca el contenido útil del markdown de JINA."""
+    marker = "Markdown Content:"
+    idx = text.find(marker)
+    body = text[idx + len(marker):] if idx != -1 else text
+    body = re.sub(r"\s+", " ", body).strip()
+    return body if len(body) >= 100 else None
+
+
+def _jina_listing(source: dict, url: str) -> list[dict]:
+    """Extrae (título, link) de las notas desde el markdown de JINA."""
+    text = _jina(url)
+    hint = source.get("link_hint", "/nota/")
+    out: list[dict] = []
+    for m in re.finditer(r"\[([^\]]{10,200})\]\((https?://[^)]+)\)", text):
+        title = _clean(m.group(1))
+        link = m.group(2)
+        if not title or hint not in link:
+            continue
+        out.append({
+            "portal": source["name"],
+            "title": title,
+            "url": link,
+            "published_at": None,
+            "category": None,
+            "body": None,
+            "image": None,
+        })
+        if len(out) >= MAX_ITEMS_PER_SOURCE:
+            break
+    return out
+
 
 def _get(url: str) -> requests.Response:
     """GET con reintento automático ante bloqueos (403/429/5xx)."""
@@ -135,9 +189,17 @@ def _body_from_feed(entry) -> str | None:
 
 
 def _fetch_html(source: dict) -> list[dict]:
-    resp = _get(source["url"])
-    resp.raise_for_status()
-    soup = BeautifulSoup(resp.text, "html.parser")
+    try:
+        resp = _get(source["url"])
+        resp.raise_for_status()
+        soup = BeautifulSoup(resp.text, "html.parser")
+    except Exception:
+        if source.get("jina_fallback"):
+            items = _jina_listing(source, source["url"])
+            if items:
+                print(f"  [jina] {source['name']}: {len(items)} artículos vía r.jina.ai")
+                return items
+        raise
     out = []
     for article_el in soup.select(source["article_selector"])[:MAX_ITEMS_PER_SOURCE]:
         title_el = article_el.select_one(source["title_selector"])
@@ -218,7 +280,19 @@ def fetch_body(source: dict, url: str) -> tuple[str | None, str | None]:
     Devuelve (texto, imagen). Usa el selector propio de la fuente si lo tiene;
     si no (o si falla), prueba selectores genéricos de cuerpo (WordPress).
     """
-    resp = _get(url)
+    try:
+        resp = _get(url)
+    except Exception:
+        global _jina_budget_used
+        if source.get("jina_fallback") and _jina_budget_used < JINA_BODY_BUDGET:
+            time.sleep(JINA_POLITE_SLEEP)
+            jina_text = _jina(url)
+            jina_body = _jina_body(jina_text)
+            _jina_budget_used += 1
+            if jina_body:
+                print(f"  [body jina] {source['portal']}: bajado")
+                return jina_body, None
+        raise
     resp.raise_for_status()
     soup = BeautifulSoup(resp.text, "html.parser")
     time.sleep(POLITE_SLEEP_S)  # cortesía: no martillar al portal

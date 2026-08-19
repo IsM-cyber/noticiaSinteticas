@@ -37,6 +37,8 @@ SOURCES = [
         "link_selector": "a[href*='/nota/']",
         "url_base": "https://necocheadigital.com",
         "body_selector": "div.wysiwyg",
+        "jina_fallback": True,      # si el portal bloquea por IP, leer vía r.jina.ai
+        "link_hint": "/nota/",
     },
     {
         "name": "TSN Necochea",
