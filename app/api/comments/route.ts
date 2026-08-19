@@ -1,10 +1,16 @@
 import { NextRequest, NextResponse } from "next/server";
 import {
   supabaseAdmin,
+  ADMIN_EMAIL,
   SUPABASE_CONFIGURED,
 } from "@/lib/comments";
 
 export const dynamic = "force-dynamic";
+
+/** Los comentarios del editor se muestran como "Editor" — su email nunca sale del servidor. */
+function publicAuthor(author: string): string {
+  return author.toLowerCase() === ADMIN_EMAIL.toLowerCase() ? "Editor" : author;
+}
 
 /** GET /api/comments?story=CLAVE — comentarios aprobados de una noticia */
 export async function GET(req: NextRequest) {
@@ -22,7 +28,9 @@ export async function GET(req: NextRequest) {
     .order("created_at", { ascending: true });
 
   if (error) return NextResponse.json({ error: error.message }, { status: 500 });
-  return NextResponse.json({ comments: data });
+  return NextResponse.json({
+    comments: (data ?? []).map((c) => ({ ...c, author: publicAuthor(c.author) })),
+  });
 }
 
 /** POST /api/comments — crear comentario (requiere sesión activa) */
