@@ -7,9 +7,16 @@ import {
 
 export const dynamic = "force-dynamic";
 
-/** Los comentarios del editor se muestran como "Editor" — su email nunca sale del servidor. */
+/**
+ * Nombre público de un comentario:
+ * - el editor se muestra como "Editor" (su email jamás sale del servidor)
+ * - los demás: "ab*****@gmail.com" (ofuscado, nunca el email completo)
+ */
 function publicAuthor(author: string): string {
-  return author.toLowerCase() === ADMIN_EMAIL.toLowerCase() ? "Editor" : author;
+  if (author.toLowerCase() === ADMIN_EMAIL.toLowerCase()) return "Editor";
+  const [name, domain] = author.split("@");
+  if (!domain) return author;
+  return `${name.slice(0, 2)}*****@${domain}`;
 }
 
 /** GET /api/comments?story=CLAVE — comentarios aprobados de una noticia */
