@@ -56,6 +56,7 @@ export default function AdminPage() {
   const login = async () => {
     const { error } = await supabaseBrowser().auth.signInWithOtp({
       email: prompt("Email del editor:") ?? "",
+      options: { emailRedirectTo: window.location.origin + "/admin" },
     });
     setMessage(error ? `⚠️ ${error.message}` : "Revisá tu email para entrar.");
   };
