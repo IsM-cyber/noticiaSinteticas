@@ -13,7 +13,7 @@ async function requireAdmin(req: NextRequest) {
   const token = req.headers.get("authorization")?.replace("Bearer ", "");
   if (!token) return null;
   const { data } = await supabaseAdmin().auth.getUser(token);
-  if (!data.user || data.user.email !== ADMIN_EMAIL) return null;
+  if (!data.user || data.user.email?.toLowerCase() !== ADMIN_EMAIL.toLowerCase()) return null;
   return data.user;
 }
 
