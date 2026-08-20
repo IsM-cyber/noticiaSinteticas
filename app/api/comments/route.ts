@@ -53,16 +53,32 @@ export async function POST(req: NextRequest) {
     return NextResponse.json({ error: "sesión inválida" }, { status: 401 });
   }
 
-  const { story, body } = await req.json();
+  const { story, body, author } = await req.json();
   if (!story || !body || typeof body !== "string" || body.trim().length < 1 ||
       body.trim().length > 1000) {
     return NextResponse.json({ error: "comentario inválido" }, { status: 400 });
   }
 
+  // nombre visible: el usuario elige uno ("Tu nombre"); si no, email enmascarado
+  let visibleName = typeof author === "string" ? author.trim().slice(0, 30) : "";
+  visibleName = visibleName.replace(/[\u0000-\u001f\u007f]/g, "").trim();
+  if (visibleName.includes("@")) { // por si pegan un email como nombre: se enmascara
+    const [n, d] = visibleName.split("@");
+    visibleName = d ? `${n.slice(0, 2)}*****@${d}` : n;
+  }
+
+  const rawEmail = user.user.email ?? "";
+  const isEditor = rawEmail.toLowerCase() === ADMIN_EMAIL.toLowerCase();
+  const masked = (() => {
+    const [n, d] = rawEmail.split("@");
+    return d ? `${n.slice(0, 2)}*****@${d}` : "anónimo";
+  })();
+  const safeAuthor = isEditor ? "Editor" : visibleName || masked;
+
   const { error } = await supabaseAdmin().from("comments").insert({
     story_key: story,
     user_id: user.user.id,
-    author: user.user.email ?? "anónimo",
+    author: safeAuthor,
     body: body.trim(),
     status: "pending",
   });

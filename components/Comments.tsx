@@ -23,6 +23,7 @@ export default function Comments({ storyKey }: { storyKey: string }) {
   const [body, setBody] = useState("");
   const [authEmail, setAuthEmail] = useState("");
   const [authPass, setAuthPass] = useState("");
+  const [nickname, setNickname] = useState("");
   const [authMode, setAuthMode] = useState<"login" | "signup">("login");
   const [notice, setNotice] = useState("");
   const [loading, setLoading] = useState(false);
@@ -57,6 +58,12 @@ export default function Comments({ storyKey }: { storyKey: string }) {
         });
       }
     });
+    // nombre visible elegido por el usuario (persiste en su navegador)
+    try {
+      setNickname(localStorage.getItem("ns_nick") ?? "");
+    } catch {
+      /* sin localStorage, sin drama */
+    }
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
@@ -100,7 +107,7 @@ export default function Comments({ storyKey }: { storyKey: string }) {
       const res = await fetch("/api/comments", {
         method: "POST",
         headers: { "Content-Type": "application/json", Authorization: `Bearer ${session.token}` },
-        body: JSON.stringify({ story: storyKey, body }),
+        body: JSON.stringify({ story: storyKey, body, author: nickname }),
       });
       const data = await res.json();
       setNotice(data.message ?? data.error ?? "Error");
@@ -184,6 +191,20 @@ export default function Comments({ storyKey }: { storyKey: string }) {
             Logueado como {maskAuthor(session.email)}{" "}
             <button onClick={logout} className="comments-link">salir</button>
           </p>
+          <input
+            type="text"
+            maxLength={30}
+            placeholder="Tu nombre (lo ven los demás)"
+            value={nickname}
+            onChange={(e) => {
+              setNickname(e.target.value);
+              try {
+                localStorage.setItem("ns_nick", e.target.value);
+              } catch {
+                /* sin localStorage, sin drama */
+              }
+            }}
+          />
           <textarea
             rows={3}
             placeholder="Escribí tu comentario… (máx. 1000 caracteres)"
