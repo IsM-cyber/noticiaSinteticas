@@ -15,6 +15,8 @@ type CommentItem = {
 };
 
 export default function Comments({ storyKey }: { storyKey: string }) {
+  const [open, setOpen] = useState(false);
+  const [loaded, setLoaded] = useState(false);
   const [comments, setComments] = useState<CommentItem[]>([]);
   const [enabled, setEnabled] = useState(COMMENTS_CONFIGURED);
   const [session, setSession] = useState<{ email: string; token: string } | null>(null);
@@ -46,7 +48,7 @@ export default function Comments({ storyKey }: { storyKey: string }) {
       setEnabled(false);
       return;
     }
-    load();
+    // la sesión es local y barata; la lista de comentarios se baja recién al abrir
     supabaseBrowser().auth.getSession().then(({ data }) => {
       if (data.session) {
         setSession({
@@ -55,9 +57,18 @@ export default function Comments({ storyKey }: { storyKey: string }) {
         });
       }
     });
-  }, [load]);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
 
   if (!enabled) return null;
+
+  const toggle = async () => {
+    if (!open && !loaded) {
+      setLoaded(true);
+      await load();
+    }
+    setOpen((o) => !o);
+  };
 
   const submitAuth = async (mode: "login" | "signup") => {
     setLoading(true);
@@ -114,9 +125,19 @@ export default function Comments({ storyKey }: { storyKey: string }) {
   };
 
   return (
-    <section className="comments">
-      <h3>Comentarios</h3>
-      {comments.length === 0 && <p className="comments-empty">Todavía no hay comentarios. ¡Animate!</p>}
+    <div className="comments-wrap">
+      <button className="comments-toggle" onClick={toggle}>
+        💬 Comentarios{comments.length > 0 ? ` (${comments.length})` : ""}
+      </button>
+      {open && (
+        <section className="comments">
+          <div className="comments-head">
+            <h3>Comentarios</h3>
+            <button className="comments-link" onClick={() => setOpen(false)}>
+              ocultar ✕
+            </button>
+          </div>
+          {comments.length === 0 && <p className="comments-empty">Todavía no hay comentarios. ¡Animate!</p>}
       <ul className="comments-list">
         {comments.map((c) => (
           <li key={c.id}>
@@ -178,6 +199,8 @@ export default function Comments({ storyKey }: { storyKey: string }) {
         </div>
       )}
       {notice && <p className="comments-notice">{notice}</p>}
-    </section>
+        </section>
+      )}
+    </div>
   );
 }

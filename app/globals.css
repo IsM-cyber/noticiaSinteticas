@@ -211,6 +211,33 @@ body::before {
 .comments-hint { color: var(--muted); font-size: 0.78rem; margin: 4px 0 0; }
 .comments-notice { color: var(--violet); font-size: 0.85rem; margin: 8px 0 0; }
 .comments-link { background: none; border: none; color: var(--cyan); cursor: pointer; font-size: 0.8rem; }
+
+/* Botón desplegable de comentarios */
+.comments-wrap { margin-top: 14px; }
+.comments-toggle {
+  width: 100%;
+  padding: 8px 12px;
+  background: rgba(0, 229, 255, 0.05);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  color: var(--cyan);
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+  text-align: left;
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+.comments-toggle:hover {
+  border-color: var(--cyan);
+  box-shadow: 0 0 12px rgba(0, 229, 255, 0.15);
+}
+.comments-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 8px;
+}
+.comments-head h3 { margin: 0; }
 .foot {
   margin-top: 40px;
   padding-top: 16px;
