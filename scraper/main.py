@@ -9,6 +9,7 @@ from pathlib import Path
 
 from .cluster import cluster
 from .config import MAX_SUMMARIES, SOURCES
+from .continuity import inherit_keys
 from .fetch import fetch_all, fetch_body
 from .rank import rank
 from .summarize import build_summary
@@ -56,6 +57,15 @@ def _attach_summaries(top: list[dict], now: dt.datetime) -> None:
             story["summary"] = {"paragraphs": [], "generated": None}
 
 
+def _load_previous_stories() -> list[dict]:
+    """Las noticias de la corrida anterior (para heredar claves/comentarios)."""
+    try:
+        payload = json.loads(OUTPUT_PATH.read_text(encoding="utf-8"))
+    except (FileNotFoundError, json.JSONDecodeError):
+        return []
+    return payload.get("stories", [])
+
+
 def run() -> dict:
     now = dt.datetime.now(dt.timezone.utc)
 
@@ -73,6 +83,9 @@ def run() -> dict:
     top = [s for s in top if s["summary"]["paragraphs"]]
     if len(top) != before:
         print(f"→ {before - len(top)} noticia(s) sin texto posible: eliminadas del ranking")
+
+    # heredar claves del ranking anterior (los comentarios sobreviven a los cambios de titular)
+    top = inherit_keys(top, _load_previous_stories())
 
     payload = {
         "generated_at": now.isoformat(),
