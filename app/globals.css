@@ -238,6 +238,17 @@ body::before {
   margin-bottom: 8px;
 }
 .comments-head h3 { margin: 0; }
+
+/* Panel de moderación */
+.admin-section {
+  margin: 18px 0 8px;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--violet);
+}
+.admin-item { border-color: rgba(255, 77, 94, 0.25); }
+.admin-ban { background: rgba(255, 77, 94, 0.15); border-color: rgba(255, 77, 94, 0.5); }
 .foot {
   margin-top: 40px;
   padding-top: 16px;

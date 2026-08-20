@@ -111,7 +111,10 @@ export default function Comments({ storyKey }: { storyKey: string }) {
       });
       const data = await res.json();
       setNotice(data.message ?? data.error ?? "Error");
-      if (res.ok) setBody("");
+      if (res.ok) {
+        setBody("");
+        load(); // publicación instantánea: el comentario aparece ya
+      }
     } catch {
       setNotice("Error de red. Probá de nuevo.");
     }
@@ -182,7 +185,7 @@ export default function Comments({ storyKey }: { storyKey: string }) {
             </button>
           </div>
           <p className="comments-hint">
-            La primera vez tocá «Crear cuenta». Los comentarios se publican cuando el editor los aprueba.
+            La primera vez tocá «Crear cuenta». Los comentarios se publican al instante. Si ves algo raro, reportalo con ⚑.
           </p>
         </div>
       ) : (

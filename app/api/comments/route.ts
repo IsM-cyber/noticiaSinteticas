@@ -53,6 +53,20 @@ export async function POST(req: NextRequest) {
     return NextResponse.json({ error: "sesión inválida" }, { status: 401 });
   }
 
+  // ¿usuario bloqueado por el editor?
+  const rawEmail = user.user.email ?? "";
+  const { data: bannedByUser } = await supabaseAdmin()
+    .from("banned_users")
+    .select("user_id")
+    .eq("user_id", user.user.id)
+    .maybeSingle();
+  const { data: bannedByEmail } = rawEmail
+    ? await supabaseAdmin().from("banned_users").select("user_id").eq("email", rawEmail).maybeSingle()
+    : { data: null };
+  if (bannedByUser || bannedByEmail) {
+    return NextResponse.json({ error: "Tu cuenta fue bloqueada por el editor." }, { status: 403 });
+  }
+
   const { story, body, author } = await req.json();
   if (!story || !body || typeof body !== "string" || body.trim().length < 1 ||
       body.trim().length > 1000) {
@@ -67,7 +81,6 @@ export async function POST(req: NextRequest) {
     visibleName = d ? `${n.slice(0, 2)}*****@${d}` : n;
   }
 
-  const rawEmail = user.user.email ?? "";
   const isEditor = rawEmail.toLowerCase() === ADMIN_EMAIL.toLowerCase();
   const masked = (() => {
     const [n, d] = rawEmail.split("@");
@@ -80,9 +93,9 @@ export async function POST(req: NextRequest) {
     user_id: user.user.id,
     author: safeAuthor,
     body: body.trim(),
-    status: "pending",
+    status: "approved",
   });
 
   if (error) return NextResponse.json({ error: error.message }, { status: 500 });
-  return NextResponse.json({ ok: true, message: "Comentario enviado. Se publica cuando el editor lo apruebe." }, { status: 201 });
+  return NextResponse.json({ ok: true, message: "Comentario publicado " }, { status: 201 });
 }

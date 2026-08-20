@@ -3,18 +3,28 @@
 import { useCallback, useEffect, useState } from "react";
 import { COMMENTS_CONFIGURED, supabaseBrowser } from "@/lib/comments-client";
 
-type AdminItem = {
+type ReportedItem = {
   id: number;
   story_key: string;
+  user_id: string;
   author: string;
   body: string;
-  status: string;
+  report_count: number;
+  reported_at: string | null;
+  created_at: string;
+};
+
+type BannedItem = {
+  user_id: string;
+  email: string | null;
+  reason: string | null;
   created_at: string;
 };
 
 export default function AdminPage() {
   const [session, setSession] = useState<{ email: string; token: string } | null>(null);
-  const [items, setItems] = useState<AdminItem[]>([]);
+  const [reported, setReported] = useState<ReportedItem[]>([]);
+  const [banned, setBanned] = useState<BannedItem[]>([]);
   const [message, setMessage] = useState("");
   const [loading, setLoading] = useState(false);
 
@@ -27,7 +37,8 @@ export default function AdminPage() {
       return;
     }
     const data = await res.json();
-    setItems(data.comments ?? []);
+    setReported(data.reported ?? []);
+    setBanned(data.banned ?? []);
   }, []);
 
   useEffect(() => {
@@ -41,15 +52,26 @@ export default function AdminPage() {
     });
   }, [load]);
 
-  const moderate = async (id: number, status: string) => {
+  const act = async (body: object) => {
     if (!session) return;
     setLoading(true);
     await fetch("/api/admin/comments", {
       method: "PATCH",
       headers: { "Content-Type": "application/json", Authorization: `Bearer ${session.token}` },
-      body: JSON.stringify({ id, status }),
+      body: JSON.stringify(body),
     });
-    setItems((prev) => prev.filter((c) => c.id !== id));
+    await load(session.token);
+    setLoading(false);
+  };
+
+  const unban = async (userId: string) => {
+    if (!session) return;
+    setLoading(true);
+    await fetch(`/api/admin/comments?user_id=${encodeURIComponent(userId)}`, {
+      method: "DELETE",
+      headers: { Authorization: `Bearer ${session.token}` },
+    });
+    await load(session.token);
     setLoading(false);
   };
 
@@ -67,7 +89,7 @@ export default function AdminPage() {
         <h1>
           Moderación <span>de comentarios</span>
         </h1>
-        <p>Panel privado del editor — aprobá o rechazá los comentarios pendientes.</p>
+        <p>Los comentarios se publican solos. Acá gestionás reportes y bloqueos.</p>
       </header>
 
       {!session && (
@@ -80,22 +102,57 @@ export default function AdminPage() {
       {session && (
         <>
           <p className="comments-hint">
-            Logueado como {session.email} · {items.length} pendientes
+            Logueado como {session.email} · {reported.length} reportados · {banned.length} bloqueados
           </p>
-          {items.length === 0 && <p className="comments-empty">Sin comentarios pendientes. ¡Todo al día!</p>}
+
+          <h2 className="admin-section">⚠️ Reportados ({reported.length})</h2>
+          {reported.length === 0 && (
+            <p className="comments-empty">Sin reportes. ¡Todo al día!</p>
+          )}
           <ul className="comments-list">
-            {items.map((c) => (
-              <li key={c.id}>
+            {reported.map((c) => (
+              <li key={c.id} className="admin-item">
                 <div className="comments-meta">
                   <strong>{c.author}</strong>
-                  <span>{new Date(c.created_at).toLocaleString("es-AR")}</span>
-                  <span className="category">{c.status}</span>
+                  <span>⚑ {c.report_count} reporte(s)</span>
+                  <span>{c.reported_at ? new Date(c.reported_at).toLocaleString("es-AR") : ""}</span>
                 </div>
                 <p>{c.body}</p>
                 <p className="comments-hint">Noticia: {c.story_key.slice(0, 70)}…</p>
                 <div className="comments-buttons">
-                  <button onClick={() => moderate(c.id, "approved")} disabled={loading}>✓ Aprobar</button>
-                  <button onClick={() => moderate(c.id, "rejected")} disabled={loading}>✗ Rechazar</button>
+                  <button
+                    className="admin-ban"
+                    onClick={() => {
+                      if (confirm("¿Bloquear a este usuario? Sus futuros comentarios serán rechazados.")) {
+                        act({ action: "ban", id: c.id });
+                      }
+                    }}
+                    disabled={loading}
+                  >
+                    🚫 Bloquear usuario
+                  </button>
+                  <button onClick={() => act({ action: "clear", id: c.id })} disabled={loading}>
+                    Descartar reportes
+                  </button>
+                </div>
+              </li>
+            ))}
+          </ul>
+
+          <h2 className="admin-section">🚫 Bloqueados ({banned.length})</h2>
+          {banned.length === 0 && <p className="comments-empty">Nadie bloqueado por ahora.</p>}
+          <ul className="comments-list">
+            {banned.map((b) => (
+              <li key={b.user_id} className="admin-item">
+                <div className="comments-meta">
+                  <strong>{b.email || b.user_id}</strong>
+                  <span>{b.created_at ? new Date(b.created_at).toLocaleString("es-AR") : ""}</span>
+                </div>
+                <p className="comments-hint">{b.reason || "—"}</p>
+                <div className="comments-buttons">
+                  <button onClick={() => unban(b.user_id)} disabled={loading}>
+                    Desbloquear
+                  </button>
                 </div>
               </li>
             ))}
