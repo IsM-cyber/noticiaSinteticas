@@ -1,8 +1,41 @@
 {
-  "generated_at": "2026-08-21T19:52:24.496094+00:00",
+  "generated_at": "2026-08-21T20:32:27.701004+00:00",
   "article_count": 175,
   "fetch_errors": [],
   "stories": [
+    {
+      "key": "detectan secuestran necochea camioneta pedido secuestro activo",
+      "title": "Detectan una camioneta con pedido de secuestro activo",
+      "score": 2.875,
+      "sources_count": 2,
+      "first_seen": "2026-08-21T18:06:43+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-21-at-10.30.58.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Detectan una camioneta con pedido de secuestro activo",
+          "url": "https://tsnnecochea.com.ar/locales/detectan-una-camioneta-con-pedido-de-secuestro-activo-234967/",
+          "published_at": "2026-08-21T18:06:43+00:00",
+          "category": "Camioenta secuestrada",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-21-at-10.30.58.webp"
+        },
+        {
+          "portal": "Necochea Digital",
+          "title": "Detectan y secuestran en Necochea una camioneta con pedido de secuestro activo",
+          "url": "https://necocheadigital.com/nota/119362/detectan-y-secuestran-en-necochea-una-camioneta-con-pedido-de-secuestro-activo/",
+          "published_at": null,
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Locales | Camioenta secuestrada | Comando de Patrullas Detectan una camioneta con pedido de secuestro activo Aprehendieron al conductor y secuestraron le rodado Por Redacción TSN 21/08/2026 · 03:06 PM Agregar TSN Necochea en Durante un operativo de prevención, personal de la Comando de Patrullas Necochea intervino ante la presencia de un vehículo que registraba un pedido de secuestro activo. El procedimiento se inició a raíz de un requerimiento policial en la zona de Avenida 75 y calle 30.",
+          "Al arribar al lugar, los efectivos identificaron una camioneta Ford Ranger y, tras realizar la correspondiente consulta informática, constataron que sobre el rodado pesaba un pedido de secuestro vigente, solicitado por la Justicia. Ante esta situación, se procedió a la aprehensión del conductor y al secuestro preventivo del vehículo, trasladándose a la dependencia policial correspondiente."
+        ],
+        "generated": "2026-08-21T20:32:47.781293+00:00"
+      }
+    },
     {
       "key": "instituto municipal danza amplia oferta educativa nueva tecnicatura",
       "title": "El Instituto Municipal de Danza amplía su oferta educativa con una nueva Tecnicatura",
@@ -33,25 +66,17 @@
           "El stand del Instituto Superior Municipal de Necochea volvió a ser una de las novedades de la tradicional Expo Educativa , destinada a estudiantes que están finalizando sus estudios secundarios. En esta 23° edición, la institución municipal presentó la preinscripción a una nueva propuesta académica: la Tecnicatura Intérprete Bailarín en Danza Contemporánea. La directora del Instituto, Patria Aloe , recordó que “el ISMN ya cuenta con la Tecnicatura Intérprete Bailarín en Danza Clásica, pero en esta oportunidad estamos abriendo la preinscripción para la Tecnicatura Intérprete Bailarín en Danza Contemporánea”.",
           "En ese sentido, explicó que la formación básica tiene un ingreso entre los 8 y 12 años, aunque también es posible incorporarse mediante un examen de ingreso por nivel. “Cada estudiante puede demostrar su trayectoria ya realizada en cualquier danza y entonces poder sumarse en esta tecnicatura”, señaló."
         ],
-        "generated": "2026-08-21T19:52:47.700980+00:00"
+        "generated": "2026-08-21T20:32:49.597440+00:00"
       }
     },
     {
       "key": "necochea vuelve sede olimpiadas matematicas nandu",
-      "title": "Necochea vuelve a ser sede de las Olimpíadas Matemáticas Ñandú",
-      "score": 2.625,
+      "title": "Necochea vuelve a ser sede de las Olimpiadas Matemáticas Ñandú",
+      "score": 1.265,
       "sources_count": 2,
       "first_seen": "2026-08-20T16:17:12+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/08/20260818120414_15-08-foto-olimpiadas-matematicas.jpg",
+      "image": "https://diarionq.com.ar/wp-content/uploads/2026/08/20-08-FOTO-Olimpiadas-Matematicas-Nandu2.jpeg",
       "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Necochea vuelve a ser sede de las Olimpíadas Matemáticas Ñandú",
-          "url": "https://necocheadigital.com/nota/119327/necochea-vuelve-a-ser-sede-de-las-olimpiadas-matematicas-nandu/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        },
         {
           "portal": "Necochea News",
           "title": "Necochea vuelve a ser sede de las Olimpiadas Matemáticas Ñandú",
@@ -59,14 +84,22 @@
           "published_at": "2026-08-20T16:17:12+00:00",
           "category": "LOCALES",
           "image": null
+        },
+        {
+          "portal": "Diario NQ",
+          "title": "Necochea vuelve a ser sede de las Olimpiadas Matemáticas Ñandú con más de 300 estudiantes",
+          "url": "https://diarionq.com.ar/necochea-vuelve-a-ser-sede-de-las-olimpiadas-matematicas-nandu-con-mas-de-300-estudiantes/",
+          "published_at": "2026-08-21T12:21:47+00:00",
+          "category": "La ciudad",
+          "image": "https://diarionq.com.ar/wp-content/uploads/2026/08/20-08-FOTO-Olimpiadas-Matematicas-Nandu2.jpeg"
         }
       ],
       "summary": {
         "paragraphs": [
-          "Necochea volverá a ser sede de las Olimpíadas Matemáticas Ñandú , luego de que la Fundación Olimpíadas Matemáticas Argentina eligiera nuevamente a la ciudad para desarrollar la instancia provincial de la XXXV Olimpíada Ñandú Bonaerense . El encuentro reunirá a 310 estudiantes de distintas localidades de la Provincia de Buenos Aires , quienes llegarán a Necochea este miércoles 19 de agosto para realizar las acreditaciones y permanecerán en la ciudad hasta el viernes, cuando se llevará adelante la ceremonia de premiación.",
-          "Tomás Martí, secretario regional de la Olimpíada Matemática Argentina y Ñandú, brindó detalles del encuentro en diálogo con Segundos Afuera y explicó que la competencia tendrá su instancia principal el jueves por la mañana en el Polideportivo Municipal . Los participantes estarán divididos en tres niveles, correspondientes a quinto y sexto año de primaria y primero de secundaria ."
+          "Más de 300 estudiantes participan de la etapa Regional Bonaerense en el Polideportivo Municipal Necochea vuelve a recibir a las Olimpiadas Matemáticas Ñandú, que este jueves comenzaron su etapa Regional Bonaerense en el Polideportivo Municipal “Edgardo Hugo Yelpo”. La 35ª edición de esta competencia reúne a más de 300 alumnos de entre 10 y 12 años, provenientes de distintos puntos de la provincia de Buenos Aires.",
+          "La ciudad fue nuevamente elegida como sede por la Fundación Olimpiadas Matemáticas Argentina (FOMA). Desde la Municipalidad destacaron la importancia de que Necochea vuelva a ser anfitriona de un evento educativo de estas características y el impacto que genera la llegada de estudiantes y acompañantes en distintos sectores de la ciudad."
         ],
-        "generated": "2026-08-21T19:52:48.967572+00:00"
+        "generated": "2026-08-21T20:32:58.969157+00:00"
       }
     },
     {
@@ -74,7 +107,7 @@
       "title": "Cómo estará el clima este viernes en Necochea y Quequén",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-21T19:52:24.496094+00:00",
+      "first_seen": "2026-08-21T20:32:27.701004+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/05/clima-nublado-necochea.jpg",
       "articles": [
         {
@@ -91,7 +124,7 @@
           "El Servicio Meteorológico Nacional (SMN) pronosticó para este viernes 21 de agosto en Necochea y Quequén una jornada con chubascos, la temperatura máxima alcanzará los 8° y la mínima será de 5°. Para la mañana , se esperan chubascos. La temperatura rondará los 5° y la probabilidad de precipitaciones será del 70 al 100%, según datos del SMN.",
           "El viento soplará del sur, a una velocidad de entre 23 y 31 kilómetros por hora. Noticia relacionadas El segundo llamado a licitación para el transporte urbano terminó sin empresas interesadas 21 de agosto de 2026 Reparan losas, baches y rampas de bicisenda en Av 75 y calles 57 y 63 20 de agosto de 2026 Por su parte, hacia la tarde y entrando la noche , se esperan chubascos. La temperatura alcanzará los 8° mientras que el porcentaje de precipitaciones será del 70 al 100% durante la tarde y del 10 al 40% durante la noche, mencionó el parte oficial."
         ],
-        "generated": "2026-08-21T19:53:00.993373+00:00"
+        "generated": "2026-08-21T20:33:04.971741+00:00"
       }
     },
     {
@@ -99,7 +132,7 @@
       "title": "Reparan losas, baches y rampas de bicisenda en Av 75 y calles 57 y 63",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-21T19:52:24.496094+00:00",
+      "first_seen": "2026-08-21T20:32:27.701004+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/reparan-losas-baches-rampas-bicisenda-av-75-calles-vqrhq-1.jpg",
       "articles": [
         {
@@ -116,7 +149,7 @@
           "La Dirección de Servicios Públicos realizó trabajos con hormigón en calles 57 y 63, y en las rampas de acceso a la bicisenda de avenida 75, incluyendo poda de raíces y reparación de cordones cuneta, en el marco de tareas. Con personal municipal de la Dirección de Servicios Públicos, la gestión llevó adelante este jueves distintos trabajos con hormigón en sectores de la ciudad , que incluyeron tareas de bacheo, reparación de losas y mejoras en rampas de accesibilidad.",
           "Noticia relacionadas Cómo estará el clima este viernes en Necochea y Quequén 21 de agosto de 2026 El segundo llamado a licitación para el transporte urbano terminó sin empresas interesadas 21 de agosto de 2026 Uno de los trabajos se realizó en calle 57 entre 42 y 44, donde se reparó una losa de grandes dimensiones que se encontraba desnivelada por las raíces de un árbol."
         ],
-        "generated": "2026-08-21T19:53:02.422991+00:00"
+        "generated": "2026-08-21T20:33:06.391765+00:00"
       }
     },
     {
@@ -124,7 +157,7 @@
       "title": "300 niños de 10 a 12 años compiten en la Olimpiada Matemática Ñandú",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-21T19:52:24.496094+00:00",
+      "first_seen": "2026-08-21T20:32:27.701004+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/300-ninos-10-12-anos-compiten-olimpiada-matematica-04bbr-1.jpg",
       "articles": [
         {
@@ -141,7 +174,7 @@
           "La 35ª edición de la Olimpiada Matemática Ñandú se realiza en Necochea con más de 300 niños de 10 a 12 años de toda la provincia , generando un impacto positivo en la hotelería, gastronomía y comercio local, con apoyo municipal.",
           "Con un marco multitudinario en el Polideportivo Municipal “Edgardo Hugo Yelpo”, comenzó este jueves una nueva edición de la Olimpiada Matemática Ñandú, en su etapa Regional Bonaerense, que reúne a más de 300 alumnos de entre 10 y 12 años provenientes de distintos puntos de la provincia."
         ],
-        "generated": "2026-08-21T19:53:03.783161+00:00"
+        "generated": "2026-08-21T20:33:07.893121+00:00"
       }
     },
     {
@@ -149,7 +182,7 @@
       "title": "La avenida Almirante Brown ya tiene su primera etapa de iluminación LED finalizada",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-21T19:52:24.496094+00:00",
+      "first_seen": "2026-08-21T20:32:27.701004+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/iluminan-led-avenida-almirante-brown-avance-consor-qrvmr-1.jpg",
       "articles": [
         {
@@ -166,7 +199,7 @@
           "La primera etapa de iluminación LED de 300 watts en la avenida Almirante Brown ya está finalizada, mejorando la visibilidad nocturna y la seguridad en uno de los corredores más transitados hacia la estación marítima de Puerto Quequén , con obras. La primera etapa de la nueva iluminación ya fue finalizada y muestra un cambio significativo en uno de los corredores de mayor circulación hacia la estación marítima.",
           "El Consorcio de Gestión de Puerto Quequén continúa avanzando con las distintas intervenciones previstas sobre la avenida. Noticia relacionadas Cómo estará el clima este viernes en Necochea y Quequén 21 de agosto de 2026 El segundo llamado a licitación para el transporte urbano terminó sin empresas interesadas 21 de agosto de 2026 La transformación de la avenida Almirante Brown comienza a hacerse visible."
         ],
-        "generated": "2026-08-21T19:53:05.187443+00:00"
+        "generated": "2026-08-21T20:33:09.382486+00:00"
       }
     },
     {
@@ -174,7 +207,7 @@
       "title": "Emiten alerta por fuertes vientos en Necochea, Lobería, San Cayetano y Tres Arroyos",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-21T19:52:24.496094+00:00",
+      "first_seen": "2026-08-21T20:32:27.701004+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2022/10/alerta-vientos-necochea-y-quequen.jpg",
       "articles": [
         {
@@ -191,7 +224,7 @@
           "El aviso alcanza a las zonas costeras de cuatro distritos y contempla vientos del sur de hasta 45 km/h, con ráfagas que podrían llegar a los 70 km/h durante la jornada. El Servicio Meteorológico Nacional (SMN) emitió un alerta amarilla por viento para Necochea, Lobería, San Cayetano y Tres Arroyos, según el pronóstico oficial de alertas y advertencias correspondiente a este jueves 20 de agosto de 2026, generado a las 05:59.",
           "Noticia relacionadas Cómo estará el clima este viernes en Necochea y Quequén 21 de agosto de 2026 El segundo llamado a licitación para el transporte urbano terminó sin empresas interesadas 21 de agosto de 2026 El aviso alcanza a la Lobería, Necochea, San Cayetano y Tres Arroyos. De acuerdo con el informe, el alerta se mantiene durante la jornada del jueves, mientras que para el viernes 21 y el sábado 22 no se prevén alertas por viento, tormentas, lluvias, nevadas, niebla, polvo, humo o ceniza volcánica."
         ],
-        "generated": "2026-08-21T19:53:06.682158+00:00"
+        "generated": "2026-08-21T20:33:10.899221+00:00"
       }
     },
     {
@@ -199,7 +232,7 @@
       "title": "Movimiento Autonomista de Quequén renueva el pedido para crear un municipio independiente",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-21T19:52:24.496094+00:00",
+      "first_seen": "2026-08-21T20:32:27.701004+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/adriana-tapia-dntv.jpg",
       "articles": [
         {
@@ -216,7 +249,7 @@
           "El Movimiento Autonomista de Quequén insiste en la creación de un municipio independiente, respaldado por consultas populares y estudios favorables, y reclama al gobernador Axel Kicillof y legisladores bonaerenses una decisión política para avanzar en el proyecto. El Movimiento Autonomista de Quequén renovó su pedido para que la localidad se convierta en un nuevo municipio bonaerense y reclamó una decisión política del gobernador Axel Kicillof.",
           "Adriana Tapia, histórica referente del reclamo autonomista, habló en el programa Voces Protagonistas de DN TV , donde expuso en representación del movimiento los argumentos que, según sostuvo, respaldan la creación de un municipio independiente y cuestionó décadas de promesas incumplidas, falta de obras y servicios. \"No queremos que nadie se ocupe de nosotros; queremos que Quequén sea un municipio por nuestro bienestar\", sostuvo."
         ],
-        "generated": "2026-08-21T19:53:08.521143+00:00"
+        "generated": "2026-08-21T20:33:12.327181+00:00"
       }
     },
     {
@@ -224,7 +257,7 @@
       "title": "Delincuentes robaron en una vivienda de calle 63 y quedaron registrados por las cámaras",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-21T19:52:24.496094+00:00",
+      "first_seen": "2026-08-21T20:32:27.701004+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/delincuentes-robaron-en-una-vivienda-de-calle-63-y-quedaron-registrados-por-las-camaras.webp",
       "articles": [
         {
@@ -241,7 +274,7 @@
           "Los ladrones ingresaron al inmueble durante la madrugada para llevarse también una mesa de luz junto a otros muebles. Un robo se produjo en un inmueble situado sobre la calle 63, entre 64 y 66. Del lugar, los delincuentes se llevaron una tabla de surf de color blanco que contaba con su respectiva funda, diversos muebles y varios objetos más.",
           "El episodio aconteció durante las primeras horas de este jueves, puntualmente a las 6:18 de la mañana. Noticia relacionadas Se incendió un utilitario en 91 y 38 y el conductor terminó en el hospital 21 de agosto de 2026 Robaron tres bicicletas en menos de 24 horas: una pertenece a una niña de 11 años 21 de agosto de 2026 Diario Necochea accedió a las filmaciones registradas por las cámaras de seguridad pertenecientes a vecinos de la zona. En esas imágenes se observa a los implicados desplazándose a pie por la vía pública mientras cargan los elementos sustraídos."
         ],
-        "generated": "2026-08-21T19:53:11.034048+00:00"
+        "generated": "2026-08-21T20:33:13.773196+00:00"
       }
     },
     {
@@ -249,7 +282,7 @@
       "title": "Se incendió un utilitario en 91 y 38 y el conductor terminó en el hospital",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-21T19:52:24.496094+00:00",
+      "first_seen": "2026-08-21T20:32:27.701004+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/incendio-av91.jpg",
       "articles": [
         {
@@ -266,7 +299,32 @@
           "El hombre se arrojó sobre la cinta asfáltica durante el episodio, sufrió un golpe en la cabeza y presentó una quemadura parcial en el pelo antes de ser asistido. Un utilitario se incendió en la intersección de las calles 91 y 38, donde el conductor sufrió un golpe y debió ser asistido y trasladado al hospital para recibir atención médica.",
           "Noticia relacionadas Delincuentes robaron en una vivienda de calle 63 y quedaron registrados por las cámaras 21 de agosto de 2026 Robaron tres bicicletas en menos de 24 horas: una pertenece a una niña de 11 años 21 de agosto de 2026 El hombre fue identificado como Leandro Yoel Francesco, de 32 años. Según se informó, mientras el vehículo se incendiaba se arrojó sobre la cinta asfáltica, sufrió un golpe en la cabeza y debió solicitarse una ambulancia para asistirlo."
         ],
-        "generated": "2026-08-21T19:53:15.583694+00:00"
+        "generated": "2026-08-21T20:33:15.280898+00:00"
+      }
+    },
+    {
+      "key": "robaron tres bicicletas 24 horas pertenece nina 11 anos",
+      "title": "Robaron tres bicicletas en menos de 24 horas: una pertenece a una niña de 11 años",
+      "score": 1.2,
+      "sources_count": 1,
+      "first_seen": "2026-08-21T20:32:27.701004+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/robo-bicicleta-esc-50.jpg",
+      "articles": [
+        {
+          "portal": "Diario Necochea",
+          "title": "Robaron tres bicicletas en menos de 24 horas: una pertenece a una niña de 11 años",
+          "url": "https://diarionecochea.com/2026/08/21/robaron-tres-bicicletas-en-menos-de-24-horas-una-pertenece-a-una-nina-de-11-anos/",
+          "published_at": null,
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La seguidilla comenzó dentro de una escuela, siguió en un edificio y culminó con la sustracción en una vivienda. En las últimas horas se registraron tres robos de bicicletas en diferentes lugares, generando preocupación. Uno de los casos más destacados involucra a una niña de 11 años que perdió su bicicleta mientras estaba en la escuela, un hecho que movilizó a vecinos y policía para recuperarla.",
+          "Además, se reportaron otros dos robos, uno en un edificio y otro en una vivienda particular, lo que evidencia un aumento en este tipo de delitos. Las familias afectadas y la policía están trabajando para esclarecer los hechos y recuperar los rodados, mientras se solicita la colaboración ciudadana para aportar información que permita dar con los responsables."
+        ],
+        "generated": "2026-08-21T20:33:16.743065+00:00"
       }
     },
     {
@@ -274,7 +332,7 @@
       "title": "Intentaron entrar a robar a una casa mientras una mujer tenía a su bebé en brazos",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-21T19:52:24.496094+00:00",
+      "first_seen": "2026-08-21T20:32:27.701004+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/05/policia-patrulla.webp",
       "articles": [
         {
@@ -291,7 +349,7 @@
           "La vecina, que estaba sola con su hijo, alertó a la Policía tras escuchar ruidos y ver a un hombre encapuchado intentando robar un equipo de música en una vivienda. Un intento de robo ocurrido durante la madrugada movilizó a efectivos policiales y a personal de Policía Científica hasta una vivienda ubicada en calle 78 al 1500.",
           "Una mujer que se encontraba sola junto a un bebé advirtió movimientos extraños y dio aviso a la Policía. Noticia relacionadas Delincuentes robaron en una vivienda de calle 63 y quedaron registrados por las cámaras 21 de agosto de 2026 Se incendió un utilitario en 91 y 38 y el conductor terminó en el hospital 21 de agosto de 2026 De acuerdo con lo informado en el llamado, la mujer escuchó ruidos dentro o en las inmediaciones del domicilio y, al observar por una ventana, vio a un hombre encapuchado, vestido completamente de negro, que intentaba sustraer un equipo de música."
         ],
-        "generated": "2026-08-21T19:53:47.917737+00:00"
+        "generated": "2026-08-21T20:33:18.648010+00:00"
       }
     },
     {
@@ -299,7 +357,7 @@
       "title": "Hallaron en buen estado de salud al empleado cirquero que era intensamente buscado",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-21T19:52:24.496094+00:00",
+      "first_seen": "2026-08-21T20:32:27.701004+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/policiales-busqueda.jpg",
       "articles": [
         {
@@ -316,7 +374,7 @@
           "Marcos Patricio Valdez, empleado del circo Cirque XXI oriundo de Lanús, fue encontrado sano y salvo tras varios meses de búsqueda iniciada por la Comisaría Tercera y la fiscalía de Necochea, que difundió su imagen para facilitar su localización. Marcos Patricio Valdez, el hombre de 45 años que era intensamente buscado tras ausentarse de su empleo a fines del año pasado, apareció sano y salvo.",
           "Sus familiares confirmaron la noticia, poniendo fin a la incertidumbre que había generado su prolongada ausencia durante los últimos meses. Noticia relacionadas Delincuentes robaron en una vivienda de calle 63 y quedaron registrados por las cámaras 21 de agosto de 2026 Se incendió un utilitario en 91 y 38 y el conductor terminó en el hospital 21 de agosto de 2026 El trabajador fue visto por última vez a mediados de diciembre de 2025, al momento de retirarse de las instalaciones del circo Cirque XXI."
         ],
-        "generated": "2026-08-21T19:53:50.849579+00:00"
+        "generated": "2026-08-21T20:33:20.914022+00:00"
       }
     },
     {
@@ -324,7 +382,7 @@
       "title": "Productores de Juan N. Fernández perdieron más de 100 animales por constantes ataques de pumas",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-21T19:52:24.496094+00:00",
+      "first_seen": "2026-08-21T20:32:27.701004+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/ataques-jnf-pumas.jpg",
       "articles": [
         {
@@ -341,7 +399,7 @@
           "El problema comenzó hace unas temporadas con avistamientos esporádicos que luego mutaron en graves pérdidas económicas para varias familias, obligando a implementar medidas extremas de seguridad cuyo resultado final resulta incierto.",
           "Durante los últimos tiempos dentro de la localidad de Juan Nepomuceno Fernández, ubicada hacia el norte del distrito, el núcleo familiar de quienes trabajan la tierra alerta sobre asaltos continuos perpetrados por felinos salvajes, una situación que generó bajas significativas entre sus rebaños y otras variedades de cría, convirtiéndose así en un riesgo diario que persiste sin solución visible a pesar de los diversos mecanismos de resguardo implementados."
         ],
-        "generated": "2026-08-21T19:53:54.093120+00:00"
+        "generated": "2026-08-21T20:33:22.331274+00:00"
       }
     },
     {
@@ -349,7 +407,7 @@
       "title": "Firme reclamo por casi 300 días de incumplimiento de la ley de financiamiento universitario",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-21T19:52:24.496094+00:00",
+      "first_seen": "2026-08-21T20:32:27.701004+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/firme-reclamo-universitario-por-casi-300-dias-de-incumplimiento-de-la-ley-de-financiamient.webp",
       "articles": [
         {
@@ -366,7 +424,7 @@
           "La Universidad Nacional del Sur mantiene sus proyectos de investigación y reclama previsibilidad presupuestaria mientras sigue la discusión por el cumplimiento de la Ley 27.795. La Ley 27.795 estableció medidas para sostener el financiamiento de la educación universitaria pública, con actualizaciones para gastos de funcionamiento, salarios de docentes y no docentes y becas estudiantiles.",
           "También contempló una partida especial para regularizar ingresos a la carrera de Investigador Científico y otorgar becas para ingresantes y posdoctorales. El Poder Ejecutivo había observado íntegramente la norma mediante el Decreto 647/2025, del 10 de septiembre de 2025, pero el Congreso confirmó la sanción con dos tercios de los votos en ambas cámaras y la ley fue promulgada mediante el Decreto 759/2025, del 20 de octubre de 2025."
         ],
-        "generated": "2026-08-21T19:53:55.602926+00:00"
+        "generated": "2026-08-21T20:33:23.782875+00:00"
       }
     },
     {
@@ -374,7 +432,7 @@
       "title": "Murió Florencia, la hija de Lucas Sugo, a los 23 años",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-21T19:52:24.496094+00:00",
+      "first_seen": "2026-08-21T20:32:27.701004+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/murio-florencia-la-hija-de-lucas-sugo-a-los-23-anos.webp",
       "articles": [
         {
@@ -391,7 +449,7 @@
           "Noticia relacionadas Firme reclamo por casi 300 días de incumplimiento de la ley de financiamiento universitario 20 de agosto de 2026 Juicio por Loan: cuatro policías aportarán detalles sobre la búsqueda y las primeras medidas del caso 19 de agosto de 2026 El entorno del cantante pidió respeto y privacidad a la familia y anunció la suspensión de sus conciertos programados en Argentina. Miles de seguidores y artistas rindieron homenaje en redes, acompañando al músico en este momento de profundo dolor.",
           "La joven enfrentó durante más de un año una enfermedad oncológica y recibió diversos tratamientos en Uruguay y en el exterior. El entorno del cantante confirmó la triste noticia el miércoles y solicitó respeto para la familia."
         ],
-        "generated": "2026-08-21T19:53:57.090776+00:00"
+        "generated": "2026-08-21T20:33:25.239891+00:00"
       }
     },
     {
@@ -399,7 +457,7 @@
       "title": "Juicio por Loan: cuatro policías aportarán detalles sobre la búsqueda y las primeras medidas del caso",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-21T19:52:24.496094+00:00",
+      "first_seen": "2026-08-21T20:32:27.701004+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/juicio-por-loan-cuatro-policias-aportaran-detalles-sobre-la-busqueda-y-las-primeras-medidas-del-caso.jpg",
       "articles": [
         {
@@ -416,7 +474,7 @@
           "El debate por la desaparición de Loan Danilo Peña continúa este miércoles en Corrientes con testimonios vinculados a los primeros procedimientos de búsqueda y a las medidas tomadas sobre el entorno de algunos acusados. El juicio por la desaparición de Loan Danilo Peña continuará este miércoles en la ciudad de Corrientes con la declaración de cuatro policías que participaron de los rastrillajes y de distintas tareas de investigación realizadas luego de que el niño fuera visto por última vez, el 13 de junio de 2024.",
           "Los testimonios fueron solicitados por el fiscal federal Carlos Schaefer y buscarán reconstruir los primeros procedimientos de búsqueda y las medidas adoptadas sobre el entorno de algunos de los acusados. El cuarto citado es Gabriel Arnaldo Pinolli, quien participó de los rastrillajes y realizó tareas de consigna en el Hotel Despertar del Iberá y en el domicilio de Camila, una de las primas de Loan."
         ],
-        "generated": "2026-08-21T19:53:58.537110+00:00"
+        "generated": "2026-08-21T20:33:26.712078+00:00"
       }
     },
     {
@@ -424,7 +482,7 @@
       "title": "Argentina registra menos nacimientos y crecen las dificultades para formar una familia",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-21T19:52:24.496094+00:00",
+      "first_seen": "2026-08-21T20:32:27.701004+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/baja-natalidad-en-argentina-57-no-alcanza-la-cantidad-de-hijos-que-desearia-por-las-barreras-economicas-y-sociales.jpg",
       "articles": [
         {
@@ -441,7 +499,7 @@
           "La investigación detectó que los problemas económicos, el acceso a la vivienda y las tareas de cuidado aparecen entre los principales obstáculos para cumplir los proyectos familiares. La tasa global de fecundidad en Argentina cayó a 1,2 hijos por mujer, muy por debajo de los 2,1 considerados necesarios para el reemplazo poblacional. Una investigación de UNFPA y Voices!",
           "señaló que la baja natalidad no se explica solamente por una menor intención de tener hijos, sino también por las dificultades para concretar los proyectos familiares. Noticia relacionadas Firme reclamo por casi 300 días de incumplimiento de la ley de financiamiento universitario 20 de agosto de 2026 Murió Florencia, la hija de Lucas Sugo, a los 23 años 20 de agosto de 2026 El estudio indicó que el 57% de las personas de entre 18 y 45 años todavía no alcanzó la cantidad de hijos que desearía."
         ],
-        "generated": "2026-08-21T19:53:59.954151+00:00"
+        "generated": "2026-08-21T20:33:28.117255+00:00"
       }
     },
     {
@@ -449,7 +507,7 @@
       "title": "Vouchers Educativos: quiénes reciben el beneficio en agosto de 2026 y cuánto cobra cada estudiante",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-21T19:52:24.496094+00:00",
+      "first_seen": "2026-08-21T20:32:27.701004+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/vouchers-educativos-de-agosto-quienes-reciben-el-beneficio-y-cuanto-representa-sobre-la-cuota-escolar.jpg",
       "articles": [
         {
@@ -466,7 +524,7 @@
           "El Gobierno activó el beneficio de agosto para familias con hijos de hasta 18 años. La principal modificación de 2026 alcanza a quienes mantienen cuotas escolares impagas. El Gobierno nacional habilitó el pago de agosto de 2026 correspondiente a los Vouchers Educativos, una asistencia económica dirigida a familias con hijos de hasta 18 años.",
           "El programa abarca a estudiantes de los niveles inicial, primario y secundario que asisten a colegios privados con un aporte estatal mínimo del 75%. Noticia relacionadas Firme reclamo por casi 300 días de incumplimiento de la ley de financiamiento universitario 20 de agosto de 2026 Murió Florencia, la hija de Lucas Sugo, a los 23 años 20 de agosto de 2026 La Administración Nacional de la Seguridad Social (ANSES) es el organismo encargado de liquidar y depositar los fondos de manera mensual."
         ],
-        "generated": "2026-08-21T19:54:01.459018+00:00"
+        "generated": "2026-08-21T20:33:29.611734+00:00"
       }
     },
     {
@@ -474,7 +532,7 @@
       "title": "El Gobierno declaró secreto militar la exportación de los F-16 incorporados por la Fuerza Aérea",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-21T19:52:24.496094+00:00",
+      "first_seen": "2026-08-21T20:32:27.701004+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/el-gobierno-amplio-el-secreto-militar-sobre-los-f-16-y-restringio-la-informacion-sobre-su-mantenimiento-y-armamento.jpg",
       "articles": [
         {
@@ -491,7 +549,7 @@
           "La medida alcanza partes de aeronaves, motores, repuestos y armamento, y amplía la clasificación vigente sobre el programa de incorporación de los cazas adquiridos a Dinamarca. La nueva disposición se incorporó al proceso de incorporación de los 24 F-16 adquiridos a Dinamarca.",
           "El contrato de compra fue firmado el 16 de abril de 2024 en Dinamarca por Luis Petri, Xavier Julián Isaac y Fernando Luis Mengo, por un precio contractual de USD 301.200.000, pagadero en 5 cuotas anuales. Noticia relacionadas Firme reclamo por casi 300 días de incumplimiento de la ley de financiamiento universitario 20 de agosto de 2026 Murió Florencia, la hija de Lucas Sugo, a los 23 años 20 de agosto de 2026 El paquete contempló 16 aeronaves monoplaza y 8 biplaza, además de 4 simuladores de vuelo, 8 motores, repuestos garantizados durante 5 años y capacitación para pilotos y mecánicos."
         ],
-        "generated": "2026-08-21T19:54:02.902981+00:00"
+        "generated": "2026-08-21T20:33:31.152071+00:00"
       }
     },
     {
@@ -499,7 +557,7 @@
       "title": "30 leones y tigres serán trasladados desde Luján a santuarios de Sudáfrica y Estados Unidos",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-21T19:52:24.496094+00:00",
+      "first_seen": "2026-08-21T20:32:27.701004+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/30-grandes-felinos-del-ex-zoologico-de-lujan-seran-trasladados-a-santuarios-de-sudafrica-y-estados-unidos-1786989406888.jpg",
       "articles": [
         {
@@ -516,7 +574,7 @@
           "El operativo, coordinado por el Gobierno nacional y Four Paws International, comenzará con dos grupos de 15 ejemplares que serán llevados por vía aérea a reservas especializadas. El Gobierno nacional y la organización internacional Four Paws International llevan adelante el traslado de 30 leones y tigres que permanecían en el ex Zoológico de Luján hacia dos santuarios especializados de Sudáfrica y Estados Unidos.",
           "El operativo contempla dos contingentes de 15 animales cada uno. Noticia relacionadas Firme reclamo por casi 300 días de incumplimiento de la ley de financiamiento universitario 20 de agosto de 2026 Murió Florencia, la hija de Lucas Sugo, a los 23 años 20 de agosto de 2026 Quince felinos serán enviados al LIONSROCK Big Cat Sanctuary, perteneciente a Four Paws y ubicado en Sudáfrica."
         ],
-        "generated": "2026-08-21T19:54:04.283970+00:00"
+        "generated": "2026-08-21T20:33:32.672022+00:00"
       }
     },
     {
@@ -524,7 +582,7 @@
       "title": "Fin de semana largo de San Martín: 1,07 millones de turistas viajaron y el gasto real bajó 6,3%",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-21T19:52:24.496094+00:00",
+      "first_seen": "2026-08-21T20:32:27.701004+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/fin-de-semana-largo-de-san-martin-1-07-millones-de-turistas-viajaron-y-el-gasto-real-bajo-6-3.jpg",
       "articles": [
         {
@@ -541,7 +599,7 @@
           "Más de 1,07 millones de turistas recorrieron el país durante el feriado de San Martín, con un impacto económico de $245.907 millones, aunque el consumo real cayó frente a 2023. Más de 1,07 millones de turistas se movilizaron por distintos puntos del país durante el fin de semana largo por el Paso a la Inmortalidad del General José de San Martín y generaron un impacto económico directo de $245.907 millones.",
           "Noticia relacionadas Firme reclamo por casi 300 días de incumplimiento de la ley de financiamiento universitario 20 de agosto de 2026 Murió Florencia, la hija de Lucas Sugo, a los 23 años 20 de agosto de 2026 En total viajaron 1.074.171 personas, un 24,2% más que las 865.177 registradas en el fin de semana largo comparable de 2023, aunque el movimiento estuvo acompañado por un menor nivel de consumo."
         ],
-        "generated": "2026-08-21T19:54:05.817872+00:00"
+        "generated": "2026-08-21T20:33:34.896339+00:00"
       }
     },
     {
@@ -549,7 +607,7 @@
       "title": "El Gobierno nacional invierte más de 3,4 billones en atención a discapacidad",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-21T19:52:24.496094+00:00",
+      "first_seen": "2026-08-21T20:32:27.701004+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/el-gobierno-nacional-invierte-mas-de-3-4-billones-en-atencion-a-discapacidad.webp",
       "articles": [
         {
@@ -566,7 +624,7 @@
           "El Ministro de Salud, Mario Lugones, encabezó la reunión con autoridades sanitarias. Se presentaron herramientas para monitorear la vacunación y mejorar la planificación. En una nueva reunión del Consejo Federal de Salud, las autoridades sanitarias del país abordaron los principales temas de la agenda conjunta.",
           "La cartera sanitaria nacional compartió las inversiones realizadas en materia de discapacidad y acordó con las jurisdicciones realizar un encuentro federal para coordinar acciones conjuntas. También se presentaron las acciones implementadas para contar con información oportuna y mejorar la planificación y la toma de decisiones."
         ],
-        "generated": "2026-08-21T19:54:07.256205+00:00"
+        "generated": "2026-08-21T20:33:36.570069+00:00"
       }
     },
     {
@@ -574,7 +632,7 @@
       "title": "San Cayetano recicló 78.000 kilos de Residuos Sólidos Urbanos en lo que va del año",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-21T19:52:24.496094+00:00",
+      "first_seen": "2026-08-21T20:32:27.701004+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/reciclaje-san-cayetano-1.jpg",
       "articles": [
         {
@@ -591,7 +649,7 @@
           "La municipalidad estableció un calendario de recolección diferenciada: residuos orgánicos lunes, miércoles y viernes; secos martes y jueves. Así la planta gana eficiencia y los materiales pueden reincorporarse al proceso productivo. Desde la Planta de Tratamiento de Residuos Sólidos Urbanos de la Municipalidad de San Cayetano, queremos destacar que la separación en origen comienza en casa.",
           "Cuando clasificás tus residuos, permitís que el trabajo en la planta sea mucho más eficiente y que podamos aprovechar materiales que antes terminaban en la basura. Noticia relacionadas Polémica en Pinamar por circuito de motocross sobre la playa 21 de agosto de 2026 Consejo Escolar de San Cayetano convoca licitación de transporte para alumnos urbanos y rurales 19 de agosto de 2026 Gracias al esfuerzo de todos, durante los primeros seis meses de 2026 recuperamos más de 78 mil kilogramos de residuos reciclables."
         ],
-        "generated": "2026-08-21T19:54:09.115102+00:00"
+        "generated": "2026-08-21T20:33:38.086181+00:00"
       }
     },
     {
@@ -599,7 +657,7 @@
       "title": "Consejo Escolar de San Cayetano convoca licitación de transporte para alumnos urbanos y rurales",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-21T19:52:24.496094+00:00",
+      "first_seen": "2026-08-21T20:32:27.701004+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/consejo-escolar-convoca-licitacion-transporte-terr-9bjp1-1.jpg",
       "articles": [
         {
@@ -616,7 +674,57 @@
           "El Consejo Escolar abrió la convocatoria para contratar el servicio de transporte terrestre de alumnos urbanos y rurales para el ciclo lectivo 2026, con consultas y pliegos disponibles en su sede y sitio web, y la apertura de propuestas prevista. Consejo Escolar invita a participar de la contratación del servicio de transporte terrestre de alumnos (ida y vuelta), para el traslado de alumnos de todos los niveles correspondiente a las áreas urbana y rural, para el ciclo lectivo 2026.",
           "Noticia relacionadas Buscan a un empleado del circo Cirque XXI que desapareció en diciembre de 2025 20 de agosto de 2026 San Cayetano recicló 78.000 kilos de Residuos Sólidos Urbanos en lo que va del año 20 de agosto de 2026 Los interesados podrán consultar recorridos y obtener el Pliego de Bases y Condiciones en sede del Consejo Escolar o en su sitio Web https://consejoescolarsc2.webnode.page/novedades/."
         ],
-        "generated": "2026-08-21T19:54:11.063981+00:00"
+        "generated": "2026-08-21T20:33:39.542018+00:00"
+      }
+    },
+    {
+      "key": "adoptaron cachorro abandonado familia pasar meses refugio",
+      "title": "Adoptaron a un cachorro abandonado por su familia tras pasar 9 meses en un refugio",
+      "score": 1.2,
+      "sources_count": 1,
+      "first_seen": "2026-08-21T20:32:27.701004+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/despues-de-9-meses-en-el-refugio-un-cachorro-rescatado-encontro-una-nueva-familia.webp",
+      "articles": [
+        {
+          "portal": "Diario Necochea",
+          "title": "Adoptaron a un cachorro abandonado por su familia tras pasar 9 meses en un refugio",
+          "url": "https://diarionecochea.com/2026/08/19/adoptaron-a-un-cachorro-que-fue-abandonado-por-su-familia-y-paso-nueve-meses-en-un-refugio/",
+          "published_at": null,
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El animal encontró una nueva familia, adoptado por Milea, la vecina le brindó un hogar definitivo. La adopción de animales rescatados es una acción que refleja compromiso y solidaridad hacia los seres que han sufrido abandono. En este contexto, un perro que permaneció durante nueve meses en la guardería canina de San Cayetano tras haber sido abandonado junto a su familia, finalmente encontró un hogar definitivo gracias a la decisión de una vecina.",
+          "Noticia relacionadas Polémica en Pinamar por circuito de motocross sobre la playa 21 de agosto de 2026 San Cayetano recicló 78.000 kilos de Residuos Sólidos Urbanos en lo que va del año 20 de agosto de 2026 Las buenas noticias siempre dan gusto contarlas: después de nueve meses esperando en la guardería canina, un perrito finalmente encontró su lugar en el mundo. Fue adoptado por Milea, una vecina que decidió abrirle las puertas de su casa y darle el hogar que tanto merecía."
+        ],
+        "generated": "2026-08-21T20:33:41.020156+00:00"
+      }
+    },
+    {
+      "key": "cerca 40 adultos mayores realizaron viaje tandil direccion deportes",
+      "title": "Cerca de 40 adultos mayores realizaron un viaje a Tandil con la Dirección de Deportes",
+      "score": 1.2,
+      "sources_count": 1,
+      "first_seen": "2026-08-21T20:32:27.701004+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/cerca-40-adultos-mayores-realizan-viaje-tandil-dir-dujgy-1.jpg",
+      "articles": [
+        {
+          "portal": "Diario Necochea",
+          "title": "Cerca de 40 adultos mayores realizaron un viaje a Tandil con la Dirección de Deportes",
+          "url": "https://diarionecochea.com/2026/08/19/cerca-de-40-adultos-mayores-realizaron-un-viaje-a-tandil-con-la-direccion-de-deportes/",
+          "published_at": null,
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El Director de Deportes, Rodrigo Arana, acompañó al grupo con docentes, personal de cocina, un enfermero y los conductores municipales, asegurando asistencia y cuidados. La iniciativa subraya el compromiso del municipio con la inclusión y bienestar de la tercera edad.",
+          "Un grupo de aproximadamente 40 adultos mayores disfrutó de un inolvidable viaje a la ciudad de Tandil, en una iniciativa coordinada e impulsada por el Municipio a través de la Dirección de Deportes. Noticia relacionadas Polémica en Pinamar por circuito de motocross sobre la playa 21 de agosto de 2026 Buscan a un empleado del circo Cirque XXI que desapareció en diciembre de 2025 20 de agosto de 2026 Durante una estadía de tres días, la delegación tuvo la oportunidad de recorrer y conocer los principales atractivos turísticos y lugares típicos de la emblemática ciudad serrana."
+        ],
+        "generated": "2026-08-21T20:33:42.498639+00:00"
       }
     }
   ]
