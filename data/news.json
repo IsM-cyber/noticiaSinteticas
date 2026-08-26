@@ -1,65 +1,319 @@
 {
-  "generated_at": "2026-08-26T13:10:18.457608+00:00",
-  "article_count": 175,
-  "fetch_errors": [],
+  "generated_at": "2026-08-26T14:20:18.315299+00:00",
+  "article_count": 65,
+  "fetch_errors": [
+    "Diario Necochea: HTTPSConnectionPool(host='diarionecochea.com', port=443): Read timed out. (read timeout=25)",
+    "Necochea Digital: 403 Client Error: Forbidden for url: https://r.jina.ai/https://necocheadigital.com"
+  ],
   "stories": [
     {
-      "key": "continua abierto periodo inscripcion renovacion boleto municipal estudiantil gratuito",
-      "title": "Continúa abierto el periodo para inscripción y renovación del Boleto Municipal Estudiantil Gratuito",
-      "score": 4.65,
-      "sources_count": 3,
-      "first_seen": "2026-08-25T09:27:44+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/08/20260824174958_17-03-foto-boleto-estudiantil-2025-2.jpg",
+      "key": "cambio horario cruce punteros partidos aplazados asi juega ultima fecha interzonal",
+      "title": "Con cambio de horario, cruce de punteros y partidos aplazados, así se juega la última fecha interzonal",
+      "score": 1.134,
+      "sources_count": 1,
+      "first_seen": "2026-08-26T13:39:32+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2024/06/Villa-Diaz-Velez-Estacion.jpeg",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Continúa abierto el periodo para inscripción y renovación del Boleto Municipal Estudiantil Gratuito",
-          "url": "https://necocheadigital.com/nota/119379/continua-abierto-el-periodo-para-inscripcion-y-renovacion-del-boleto-municipal-estudiantil-gratuito/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        },
-        {
-          "portal": "Necochea News",
-          "title": "Está abierta la inscripción y renovación del Boleto Municipal Estudiantil Gratuito",
-          "url": "https://necocheanews.com.ar/esta-abierta-la-inscripcion-y-renovacion-del-boleto-municipal-estudiantil-gratuito/",
-          "published_at": "2026-08-25T09:27:44+00:00",
-          "category": "LOCALES",
-          "image": null
-        },
-        {
-          "portal": "Informate Necochea",
-          "title": "Está abierto el periodo para inscripción y renovación del Boleto Municipal Estudiantil Gratuito",
-          "url": "https://informatenecochea.com/noticia/esta-abierto-el-periodo-para-inscripcion-y-renovacion-del-boleto-municipal-estudiantil-gratuito",
-          "published_at": "2026-08-25T16:21:21+00:00",
-          "category": "Local",
-          "image": "https://res.cloudinary.com/dsugba4yh/image/upload/v1787674839/boleto_r0ru9s.png"
+          "portal": "TSN Necochea",
+          "title": "Con cambio de horario, cruce de punteros y partidos aplazados, así se juega la última fecha interzonal",
+          "url": "https://tsnnecochea.com.ar/deportes/con-cambio-de-horario-cruce-de-punteros-y-partidos-aplazados-asi-se-juega-la-ultima-fecha-interzonal-235351/",
+          "published_at": "2026-08-26T13:39:32+00:00",
+          "category": "Fecha",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2024/06/Villa-Diaz-Velez-Estacion.jpeg"
         }
       ],
       "summary": {
         "paragraphs": [
-          "La gestión municipal continúa sosteniendo y fortaleciendo políticas públicas que acompañan a los estudiantes del distrito, facilitando su acceso a la educación. En ese marco, se encuentra abierta la inscripción y renovación del Boleto Municipal Estudiantil Gratuito , un beneficio que permite que miles de jóvenes puedan trasladarse sin costo en el marco de sus estudios. La Dirección de Transporte informó que los estudiantes tendrán tiempo para realizar el trámite hasta el viernes 25 de septiembre.",
-          "Para inscribirse o renovar el beneficio, deberán acercarse a las Unidades de Gestión Social (UGS) ubicadas en el Centro Cívico (58 y 61, segundo piso) o en la Delegación Municipal de Quequén (521 y 560), de lunes a viernes, de 8.15 a 13.30. Requisitos Para quienes lo solicitan por primera vez: -Presentarse personalmente o hacerlo a través de padre, madre o tutor. -Fotocopia del DNI del estudiante."
+          "TSN Necochea | ‹ VOLVER | Deportes | Fecha | Liga Necochea de Fútbol Con cambio de horario, cruce de punteros y partidos aplazados, así se juega la última fecha interzonal El sábado habrá un solo partido, el domingo se cruzan Estación vs VDV; y por el inicio del Regional Federal Amateur dos juegos quedarán para el venidero miércoles. Por Redacción TSN 26/08/2026 · 10:39 AM FOTO: Villa Díaz Vélez Estación ARCHIVO Agregar TSN Necochea en Con varias novedades, la Liga Necochea de Fútbol comunicó en la noche del martes cómo se jugará la 15ta fecha del Campeonato “Giuseppe Portugal” de Primera División .",
+          "No solamente habrá cambio de horario , sino que se aplazan dos partidos hasta el venidero miércoles , ya que dos equipos se enfrentan entre sí el domingo en el comienzo del Torneo Regional Federal Amateur."
         ],
-        "generated": "2026-08-26T13:10:42.249674+00:00"
+        "generated": "2026-08-26T14:22:23.077215+00:00"
+      }
+    },
+    {
+      "key": "marcos bertone nuevamente como tecnico seleccion argentina evento internacional",
+      "title": "Marcos Bertone, nuevamente como técnico de la Selección Argentina en un evento internacional",
+      "score": 1.121,
+      "sources_count": 1,
+      "first_seen": "2026-08-26T13:31:10+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/08/Foto-Bertone-Seleccion-Sorda.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Marcos Bertone, nuevamente como técnico de la Selección Argentina en un evento internacional",
+          "url": "https://tsnnecochea.com.ar/deportes/marcos-bertone-nuevamente-como-tecnico-de-la-seleccion-argentina-en-un-evento-internacional-235338/",
+          "published_at": "2026-08-26T13:31:10+00:00",
+          "category": "Marcos Bertone",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/08/Foto-Bertone-Seleccion-Sorda.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Deportes | Marcos Bertone | Deporte adaptado Marcos Bertone, nuevamente como técnico de la Selección Argentina en un evento internacional En el marco de los VI Juegos Panamericanos de la Juventud Sorda, en Guayaquil. Por Redacción TSN 26/08/2026 · 10:31 AM Agregar TSN Necochea en El necochense Marcos Bertone volvió a integrar el cuerpo técnico de la Selección Argentina de natación en una competencia internacional, esta vez en el marco de los VI Juegos Panamericanos de la Juventud Sorda , que se desarrollaron del 21 al 27 de agosto en Guayaquil, Ecuador.",
+          "Bertone formó parte del equipo técnico que acompañó a la delegación argentina de natación, integrada por siete jóvenes de entre 11 y 18 años, junto a Constanza Quellet y María Belén Furlan."
+        ],
+        "generated": "2026-08-26T14:22:24.046675+00:00"
+      }
+    },
+    {
+      "key": "nino podria alcanzar intensidad historica zonas argentina estan riesgo",
+      "title": "El Niño podría alcanzar una intensidad histórica: qué zonas de Argentina están en riesgo",
+      "score": 1.115,
+      "sources_count": 1,
+      "first_seen": "2026-08-26T13:27:29+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/02/Captura-de-pantalla-2025-02-22-104508.jpg",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "El Niño podría alcanzar una intensidad histórica: qué zonas de Argentina están en riesgo",
+          "url": "https://tsnnecochea.com.ar/locales/el-nino-podria-alcanzar-una-intensidad-historica-que-zonas-de-argentina-estan-en-riesgo-235349/",
+          "published_at": "2026-08-26T13:27:29+00:00",
+          "category": "Argentina",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/02/Captura-de-pantalla-2025-02-22-104508.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Locales | Argentina | El clima El Niño podría alcanzar una intensidad histórica: qué zonas de Argentina están en riesgo Los especialistas advierten que El Niño podría alcanzar una intensidad histórica y convertirse en el episodio más fuerte registrado hasta el momento. Por Redacción TSN 26/08/2026 · 10:27 AM Foto Marcelo Bolado Agregar TSN Necochea en La Organización Meteorológica Mundial (OMM) estimó en más de un 90% la probabilidad de que el fenómeno El Niño alcance una categoría fuerte en la Argentina.",
+          "En este contexto, la Agencia Noticias Argentinas entrevistó a Carla Gulizia, presidenta del Centro Argentino de Meteorólogos, para conocer cómo podría impactar El Niño en la Argentina , cuáles son las regiones más expuestas y qué medidas deberían tomarse para anticipar sus efectos: “Los eventos extremos cada vez son más frecuentes y más intensos” , advirtió."
+        ],
+        "generated": "2026-08-26T14:22:25.085529+00:00"
+      }
+    },
+    {
+      "key": "diego santilli mejor candidato provincia",
+      "title": "“Diego Santilli es el mejor candidato para la provincia”",
+      "score": 1.074,
+      "sources_count": 1,
+      "first_seen": "2026-08-26T13:00:40+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/08/images-2.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "“Diego Santilli es el mejor candidato para la provincia”",
+          "url": "https://tsnnecochea.com.ar/locales/diego-santilli-es-el-mejor-candidato-para-la-provincia-235325/",
+          "published_at": "2026-08-26T13:00:40+00:00",
+          "category": "Diego Santilli",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/08/images-2.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Locales | Diego Santilli | Se acerca el 2027 “Diego Santilli es el mejor candidato para la provincia” Afirmó Eugenia Vallota, referente del PRO en nuestra ciudad. Por Redacción TSN 26/08/2026 · 10:00 AM Agregar TSN Necochea en La concejal del PRO Eugenia Vallota confirmó que existe diálogo entre su espacio y La Libertad Avanza en la provincia de Buenos Aires, aunque consideró que todavía es prematuro hablar de candidaturas de cara a las elecciones del próximo año.",
+          "Vallota destacó el encuentro mantenido entre Cristian Ritondo y Sebastián Pareja, presidentes del PRO y de La Libertad Avanza, respectivamente, y señaló que ambos espacios comenzaron a trabajar en la posibilidad de construir un frente común."
+        ],
+        "generated": "2026-08-26T14:22:26.068538+00:00"
+      }
+    },
+    {
+      "key": "robo avenida 42 llevaron tele notebook",
+      "title": "Robo en la avenida 42: le llevaron la tele y una notebook",
+      "score": 0.991,
+      "sources_count": 1,
+      "first_seen": "2026-08-26T12:02:17+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2024/11/Captura-de-pantalla-2024-11-18-100819.jpg",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Robo en la avenida 42: le llevaron la tele y una notebook",
+          "url": "https://tsnnecochea.com.ar/locales/robo-en-la-avenida-42-le-llevaron-la-tele-y-una-notebook-235323/",
+          "published_at": "2026-08-26T12:02:17+00:00",
+          "category": "avenida 42",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2024/11/Captura-de-pantalla-2024-11-18-100819.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Locales | avenida 42 | Inseguridad Robo en la avenida 42: le llevaron la tele y una notebook Un vecino de 63 años denunció que le sustrajeron los electrodomésticos tras cortar la luz de su vivienda. Por Redacción TSN 26/08/2026 · 09:02 AM Móvil policial Agregar TSN Necochea en Un vecino de 63 años denunció el hurto de un Smart TV Philips de 42 pulgadas y una notebook Lenovo de 16 pulgadas de su vivienda, ubicada en la Avenida 42 al 3000 , entre las calles 61 y 63. ​El hecho fue descubierto cuando el propietario regresó a su domicilio tras haberse ausentado durante la noche del domingo .",
+          "Al ingresar, notó que la finca se encontraba a oscuras; tras reactivar la llave térmica , constató el faltante de ambos equipos electrónicos. ​Según consta en la denuncia, el damnificado señaló como principales sospechosos a dos personas que habían quedado en el inmueble durante su ausencia."
+        ],
+        "generated": "2026-08-26T14:22:33.275050+00:00"
+      }
+    },
+    {
+      "key": "sub 15 juega partido clave ayacucho barrio norte",
+      "title": "El Sub 15 juega un partido clave ante Ayacucho en Barrio Norte",
+      "score": 0.939,
+      "sources_count": 1,
+      "first_seen": "2026-08-26T11:23:26+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/08/FOTO-Juvenil-Sub-15-Necochea-2026.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "El Sub 15 juega un partido clave ante Ayacucho en Barrio Norte",
+          "url": "https://tsnnecochea.com.ar/deportes/el-sub-15-juega-un-partido-clave-ante-ayacucho-en-barrio-norte-235333/",
+          "published_at": "2026-08-26T11:23:26+00:00",
+          "category": "Juvenil",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/08/FOTO-Juvenil-Sub-15-Necochea-2026.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Deportes | Juvenil | Liga Necochea de Fútbol El Sub 15 juega un partido clave ante Ayacucho en Barrio Norte Por la 4ta fecha del Torneo de Selecciones. Por Redacción TSN 26/08/2026 · 08:23 AM Necochea Sub 15 Agregar TSN Necochea en Miércoles de buen fútbol en la ciudad , con la presentación del juvenil Sub 15 de la Liga Necochea , que enfrentará desde las 15.30 en Barrio Norte a Ayacucho , por la 4ta fecha de la zona 2 del Torneo de Selecciones de la Federación Bonaerense Pampeana.",
+          "Será la primera fecha de las revanchas de la zona regular, y una parada clave para el equipo de Darío Ramón, que por ahora marcha tercero con 3 puntos, tras una victoria (precisamente ante Ayacucho como visitante) y dos derrotas. Además, el equipo necochense intentará ganar por primera vez como local."
+        ],
+        "generated": "2026-08-26T14:22:34.286252+00:00"
+      }
+    },
+    {
+      "key": "sesion amplio temario enfocado ruta 88 transporte publico",
+      "title": "Sesión con un amplio temario enfocado en la Ruta 88 y el transporte público",
+      "score": 0.909,
+      "sources_count": 1,
+      "first_seen": "2026-08-26T11:00:30+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/03/thumbnail_17-SI.jpg",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Sesión con un amplio temario enfocado en la Ruta 88 y el transporte público",
+          "url": "https://tsnnecochea.com.ar/locales/sesion-con-un-amplio-temario-enfocado-en-la-ruta-88-y-el-transporte-publico-235321/",
+          "published_at": "2026-08-26T11:00:30+00:00",
+          "category": "concejo",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/03/thumbnail_17-SI.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Locales | concejo | Concejo Sesión con un amplio temario enfocado en la Ruta 88 y el transporte público La novena sesión ordinaria del HCD incluye 47 expedientes. Por Redacción TSN 26/08/2026 · 08:00 AM Agregar TSN Necochea en El Honorable Concejo Deliberante de Necochea lleva adelante su novena sesión ordinaria , en la que los distintos bloques parlamentarios abordan un orden del día compuesto por 47 expedientes .",
+          "Entre los puntos destacados figuran iniciativas orientadas a la seguridad vial, infraestructura estratégica, el servicio de transporte público y reconocimientos de interés público a entidades locales."
+        ],
+        "generated": "2026-08-26T14:22:35.308558+00:00"
+      }
+    },
+    {
+      "key": "san cayetano impulsa huertas familiares apuesta produccion agroecologica",
+      "title": "San Cayetano impulsa las huertas familiares y apuesta a la producción agroecológica",
+      "score": 0.888,
+      "sources_count": 1,
+      "first_seen": "2026-08-26T12:54:57+00:00",
+      "image": null,
+      "articles": [
+        {
+          "portal": "Diario NQ",
+          "title": "San Cayetano impulsa las huertas familiares y apuesta a la producción agroecológica",
+          "url": "https://diarionq.com.ar/san-cayetano-impulsa-las-huertas-familiares-y-apuesta-a-la-produccion-agroecologica/",
+          "published_at": "2026-08-26T12:54:57+00:00",
+          "category": "Interés General",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La Dirección de Medio Ambiente de San Cayetano, junto con el INTA de la Chacra Experimental Integrada de Tres Arroyos Barrow, realizó una capacitación sobre huerta primavera-verano , con el objetivo de brindar herramientas a los vecinos para producir sus propios alimentos y avanzar hacia una mayor autonomía en la producción de frutas y verduras. La actividad se desarrolló en el Espacio Cultural Municipal y estuvo a cargo del ingeniero agrónomo Haroldo Herrera, quien acercó conocimientos y recomendaciones sobre preparación del suelo, siembra y cuidados posteriores, utilizando un lenguaje sencillo para que cualquier vecino pueda comenzar o mejorar su huerta domiciliaria.",
+          "En diálogo en Esta Mañana, el director de Medio Ambiente de San Cayetano, Juan Altamira , explicó que esta capacitación forma parte de un ciclo de encuentros que comenzó a principios de año con la temática de otoño-invierno."
+        ],
+        "generated": "2026-08-26T14:22:38.031864+00:00"
+      }
+    },
+    {
+      "key": "franchesca sangla alvaro medinaveitia representaran necochea final juegos bonaerenses",
+      "title": "Franchesca Sangla y Álvaro Medinaveitía representarán a Necochea en la final de los Juegos Bonaerenses",
+      "score": 0.862,
+      "sources_count": 1,
+      "first_seen": "2026-08-26T12:33:19+00:00",
+      "image": "https://diarionq.com.ar/wp-content/uploads/2026/08/f7740cb5-a343-4b60-8902-49dbe6cca192-edited.jpg",
+      "articles": [
+        {
+          "portal": "Diario NQ",
+          "title": "Franchesca Sangla y Álvaro Medinaveitía representarán a Necochea en la final de los Juegos Bonaerenses",
+          "url": "https://diarionq.com.ar/franchesca-sangla-y-alvaro-medinaveitia-representaran-a-necochea-en-la-final-de-los-juegos-bonaerenses/",
+          "published_at": "2026-08-26T12:33:19+00:00",
+          "category": "Deportes",
+          "image": "https://diarionq.com.ar/wp-content/uploads/2026/08/f7740cb5-a343-4b60-8902-49dbe6cca192-edited.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El taekwondo necochense tendrá dos representantes en la etapa final de los Juegos Bonaerenses. Franchesca Sangla y Álvaro Medinaveitía , lograron la clasificación tras destacarse en la instancia regional disputada en Mar del Plata, donde fueron los únicos dos representantes de Necochea en la disciplina. Ambos consiguieron el pasaje a la final en la modalidad combate , compitiendo en la categoría de hasta 45 y 55 kilos respectivamente.",
+          "También participaron en formas, aunque en esa modalidad no lograron avanzar. En diálogo con Zoom El Deportivo, los jóvenes compartieron sus sensaciones después de conseguir un objetivo muy importante. Franchesca, que afronta su último año de participación en los Juegos Bonaerenses, expresó su alegría por haber ganado su combate y alcanzar por primera vez la etapa final."
+        ],
+        "generated": "2026-08-26T14:22:40.594639+00:00"
+      }
+    },
+    {
+      "key": "marcos juarez vive mundial quillas miercoles comienza gran competencia",
+      "title": "Marcos Juárez ya vive el Mundial de 5 Quillas: este miércoles comienza la gran competencia",
+      "score": 0.836,
+      "sources_count": 1,
+      "first_seen": "2026-08-26T12:11:33+00:00",
+      "image": "https://diarionq.com.ar/wp-content/uploads/2026/08/7726e193-21b6-44e3-a3fc-e1cd44e87b38.jpg",
+      "articles": [
+        {
+          "portal": "Diario NQ",
+          "title": "Marcos Juárez ya vive el Mundial de 5 Quillas: este miércoles comienza la gran competencia",
+          "url": "https://diarionq.com.ar/marcos-juarez-ya-vive-el-mundial-de-5-quillas-este-miercoles-comienza-la-gran-competencia/",
+          "published_at": "2026-08-26T12:11:33+00:00",
+          "category": "Destacadas",
+          "image": "https://diarionq.com.ar/wp-content/uploads/2026/08/7726e193-21b6-44e3-a3fc-e1cd44e87b38.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El Campeonato Mundial de 5 Quillas Argentina 2026 ya se vive a pleno en Marcos Juárez, Córdoba, y este miércoles comenzará oficialmente la etapa principal de la competencia. Desde la ciudad cordobesa, nuestro corresponsal Hugo Rubén Miraglia realizó una completa cobertura de la previa y acercó todos los detalles de un torneo que reúne a los mejores exponentes de la especialidad.",
+          "Luego de disputarse la Qualy , los jugadores que lograron su clasificación ya tienen todo listo para el inicio del cuadro principal, que comenzará este miércoles desde las 9 de la mañana en el gimnasio del Club San Martín de Marcos Juárez . Los mundialistas ya probaron las mesas Como parte de la previa del torneo, desde las 17 horas , los protagonistas tuvieron su primer contacto con las ocho mesas oficiales que serán utilizadas durante el Mundial."
+        ],
+        "generated": "2026-08-26T14:22:43.282988+00:00"
+      }
+    },
+    {
+      "key": "mauro cabrera formacion desarrollo rendimiento pilares escuela municipal atletismo",
+      "title": "Mauro Cabrera: formación, desarrollo y rendimiento, los pilares de la Escuela Municipal de Atletismo",
+      "score": 0.802,
+      "sources_count": 1,
+      "first_seen": "2026-08-26T11:41:31+00:00",
+      "image": "https://diarionq.com.ar/wp-content/uploads/2026/08/cd368a76-7bfc-4d96-a67b-43a1070c8b20.jpg",
+      "articles": [
+        {
+          "portal": "Diario NQ",
+          "title": "Mauro Cabrera: formación, desarrollo y rendimiento, los pilares de la Escuela Municipal de Atletismo",
+          "url": "https://diarionq.com.ar/mauro-cabrera-formacion-desarrollo-y-rendimiento-los-pilares-de-la-escuela-municipal-de-atletismo/",
+          "published_at": "2026-08-26T11:41:31+00:00",
+          "category": "Deportes",
+          "image": "https://diarionq.com.ar/wp-content/uploads/2026/08/cd368a76-7bfc-4d96-a67b-43a1070c8b20.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "En su habitual columna en Zoom El Deportivo, el profesor Mauro Cabrera , director de la Escuela Municipal de Atletismo de Necochea, repasó la actividad del último fin de semana y destacó el trabajo que se viene realizando desde la iniciación deportiva hasta el alto rendimiento. Uno de los principales puntos fue la participación en el Campeonato Provincial U18 , disputado en Mar del Plata, donde la Escuela Municipal de Necochea estuvo representada por Francisco Bonaura , mientras que también participó Paula Rissi , de la Escuela Municipal de San Cayetano, con la que se trabaja de manera articulada.",
+          "Bonaura compitió en salto en largo y finalizó cuarto , mientras que Rissi obtuvo también el cuarto puesto en lanzamiento de disco. Ambos quedaron muy cerca del podio: Francisco a apenas 9 centímetros y Paula a un metro de alcanzar una medalla."
+        ],
+        "generated": "2026-08-26T14:22:45.835138+00:00"
+      }
+    },
+    {
+      "key": "miercoles fresco lluvias necochea",
+      "title": "Miércoles fresco y con lluvias en Necochea",
+      "score": 0.757,
+      "sources_count": 1,
+      "first_seen": "2026-08-26T10:59:55+00:00",
+      "image": null,
+      "articles": [
+        {
+          "portal": "Diario NQ",
+          "title": "Miércoles fresco y con lluvias en Necochea",
+          "url": "https://diarionq.com.ar/miercoles-fresco-y-con-lluvias-en-necochea/",
+          "published_at": "2026-08-26T10:59:55+00:00",
+          "category": "Destacadas",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Necochea tendrá este miércoles 26 de agosto una jornada fresca, húmeda y con cielo mayormente nublado , de acuerdo con el pronóstico del Servicio Meteorológico Nacional. La temperatura se ubicará entre los 9°C de mínima y los 15°C de máxima . Durante la mañana se espera abundante nubosidad, mientras que las condiciones comenzarán a desmejorar hacia la tarde, con probabilidad de lluvias .",
+          "El viento soplará principalmente del sector norte, con velocidades que podrían alcanzar los 31 km/h y ráfagas de mayor intensidad, especialmente durante las primeras horas del día. Para la noche, se prevé una rotación del viento hacia el noroeste y una disminución de su intensidad. Durante la tarde y primeras horas de la noche podrían registrarse precipitaciones y algunas tormentas aisladas , por lo que se recomienda circular con precaución y estar atentos a las actualizaciones del pronóstico."
+        ],
+        "generated": "2026-08-26T14:22:48.953382+00:00"
       }
     },
     {
       "key": "como estara clima miercoles necochea quequen",
-      "title": "Cómo estará el clima este miércoles en Necochea y Quequén",
-      "score": 3.0,
-      "sources_count": 2,
+      "title": "Cómo estará el tiempo este miércoles en Necochea y Quequén",
+      "score": 0.556,
+      "sources_count": 1,
       "first_seen": "2026-08-26T05:06:25+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/clima-lluvia-av2-26-8-26.jpg",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2024/10/c791a680-7137-4fcb-906e-a573c45d3191.jpg",
       "articles": [
-        {
-          "portal": "Diario Necochea",
-          "title": "Cómo estará el clima este miércoles en Necochea y Quequén",
-          "url": "https://diarionecochea.com/2026/08/26/como-estara-el-clima-este-miercoles-en-necochea-y-quequen-138/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        },
         {
           "portal": "TSN Necochea",
           "title": "Cómo estará el tiempo este miércoles en Necochea y Quequén",
@@ -71,685 +325,35 @@
       ],
       "summary": {
         "paragraphs": [
-          "El Servicio Meteorológico Nacional (SMN) pronosticó para este miércoles en Necochea y Quequén una jornada con mayormente nublado, una temperatura máxima de 15° y una mínima de 9°. Para la mañana , se espera mayormente nublado. La temperatura rondará los 9° y la probabilidad de precipitaciones será del 0 - 10%, según datos del SMN. El viento soplará desde n a una velocidad de entre 13 - 22 kilómetros por hora.",
-          "Noticia relacionadas Las lluvias y el frío seguirán marcando el tiempo durante las próximas jornadas 25 de agosto de 2026 Docentes jubilados exponen en la Gran Expo JubilArte 25 de agosto de 2026 Por su parte, hacia la tarde y entrando la noche , el cielo estará lluvias. La temperatura alcanzará los 15° mientras que el porcentaje de precipitaciones será del 40 - 70%, mencionó el parte oficial. El viento se sentirá desde n a una velocidad de entre 23 - 31 kilómetros por hora."
+          "TSN Necochea | ‹ VOLVER | Generales | humedad | Pronostico Cómo estará el tiempo este miércoles en Necochea y Quequén Datos aportados por el Servicio Meteorológico Nacional Por Redacción TSN 26/08/2026 · 02:06 AM Agregar TSN Necochea en El pronóstico del Servicio Meteorológico Nacional para este miércoles 26 de agosto en Necochea indica una temperatura máxima de 19°C y una mínima de 10° C, con vientos del norte a 22 km/h . Por la madrugada, la temperatura será de11° C. El viento es del cuadrante Norte a una velocidad que puede llegar a 31 km/h, con el cielo nublado.",
+          "En la mañana la temperatura será de 10 ° C, el viento soplará del cuadrante Norte a una velocidad que puede llegar a 22 km/h, con el cielo parcialmente nublado. Para la tarde se espera una temperatura máxima de alrededor de 19 grados, el viento soplará del sector Norte a una velocidad que pueden llegar a los 22 kilómetros con el cielo parcialmente nublado."
         ],
-        "generated": "2026-08-26T13:10:44.764838+00:00"
+        "generated": "2026-08-26T14:22:49.920349+00:00"
       }
     },
     {
-      "key": "lluvias frio seguiran marcando tiempo proximas jornadas",
-      "title": "Las lluvias y el frío seguirán marcando el tiempo durante las próximas jornadas",
-      "score": 1.2,
+      "key": "aporte provincia nueva combi escuela 503 quequen",
+      "title": "Aporte de la Provincia: Nueva combi para la Escuela 503 de Quequén",
+      "score": 0.487,
       "sources_count": 1,
-      "first_seen": "2026-08-26T13:10:18.457608+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/05/clima-nublado-playa-quequen.jpg",
+      "first_seen": "2026-08-26T03:31:07+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/08/Escuela-No-503-quequen.webp",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Las lluvias y el frío seguirán marcando el tiempo durante las próximas jornadas",
-          "url": "https://diarionecochea.com/2026/08/25/vientos-del-norte-y-lluvias-vespertinas-sacuden-a-necochea-y-quequen/",
-          "published_at": null,
-          "category": null,
-          "image": null
+          "portal": "TSN Necochea",
+          "title": "Aporte de la Provincia: Nueva combi para la Escuela 503 de Quequén",
+          "url": "https://tsnnecochea.com.ar/generales/aporte-de-la-provincia-nueva-combi-para-la-escuela-503-de-quequen-235318/",
+          "published_at": "2026-08-26T03:31:07+00:00",
+          "category": "combi",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/08/Escuela-No-503-quequen.webp"
         }
       ],
       "summary": {
         "paragraphs": [
-          "La noche de hoy trae viento fuerte y frío, el miércoles se vuelve lluvioso con tormentas aisladas, y el jueves promete una jornada más templada y despejada. Esta noche, bajo un cielo mayormente nublado, la zona costera de Necochea y Quequén se enfrenta a un viento del norte que sopla entre 23 y 31 km/h, con ráfagas que pueden superar los 50 km/h. La temperatura ronda los 13°, lo que hace que la sensación térmica sea más fresca de lo que indica el termómetro.",
-          "Se recomienda abrigarse bien, cerrar persianas y prestar atención a embarcaciones pequeñas que puedan verse afectadas por las ráfagas. Noticia relacionadas Cómo estará el clima este miércoles en Necochea y Quequén 26 de agosto de 2026 Docentes jubilados exponen en la Gran Expo JubilArte 25 de agosto de 2026 Al despuntar la madrugada del miércoles, el frío se intensifica: la temperatura mínima bajará a 9° y el cielo seguirá mayormente nublado."
+          "TSN Necochea | ‹ VOLVER | | combi | Educación Aporte de la Provincia: Nueva combi para la Escuela 503 de Quequén Satisfacción del Consejo escolar, la Jefatura Distrital y la Jefatura de Región 20. Por Redacción TSN 26/08/2026 · 12:31 AM Agregar TSN Necochea en A partir de septiembre, la Escuela Especial N° 503 contará con su propia combi para el traslado de sus estudiantes.",
+          "Este importante logro fue posible gracias a las gestiones realizadas por el Consejo Escolar, junto a las Jefaturas Distrital y Regional de Gestión Estatal, y al acompañamiento permanente del Gobierno de la Provincia de Buenos Aires. “En tiempos difíciles, la Provincia sigue mirando a nuestro distrito, acompañando y dando respuestas a las necesidades de nuestras escuelas”, señalaron desde el Consejo escolar, la Jefatura Distrital y la Jefatura de Región 20."
         ],
-        "generated": "2026-08-26T13:10:48.552050+00:00"
-      }
-    },
-    {
-      "key": "docentes jubilados exponen gran expo jubilarte",
-      "title": "Docentes jubilados exponen en la Gran Expo JubilArte",
-      "score": 1.2,
-      "sources_count": 1,
-      "first_seen": "2026-08-26T13:10:18.457608+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/gran-expo-jubilarte-reune-en-el-centro-cultural-necochea-el-arte-de-docentes-jubilados.webp",
-      "articles": [
-        {
-          "portal": "Diario Necochea",
-          "title": "Docentes jubilados exponen en la Gran Expo JubilArte",
-          "url": "https://diarionecochea.com/2026/08/25/gran-expo-jubilarte-reune-en-el-centro-cultural-necochea-el-arte-de-docentes-jubilados/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Una propuesta reunirá durante dos tardes distintas expresiones artísticas y actividades abiertas al público en un espacio cultural de la ciudad . El Centro Cultural Necochea será sede de la Gran Expo JubilArte, una propuesta dedicada a mostrar el talento, la creatividad y las expresiones artísticas de docentes jubilados. La actividad se desarrollará durante este martes 25 y miércoles 26 de agosto, con entrada libre y gratuita.",
-          "Noticia relacionadas Cómo estará el clima este miércoles en Necochea y Quequén 26 de agosto de 2026 Las lluvias y el frío seguirán marcando el tiempo durante las próximas jornadas 25 de agosto de 2026 La exposición podrá visitarse ambos días de 16:00 a 19:00 en el Centro Cultural Necochea. El encuentro propone compartir distintas producciones realizadas por docentes jubilados y acercar al público a una variedad de disciplinas y manifestaciones artísticas."
-        ],
-        "generated": "2026-08-26T13:10:49.961118+00:00"
-      }
-    },
-    {
-      "key": "apeadero ferroviario quequen nacio cierre definitivo estacion",
-      "title": "El apeadero ferroviario de Quequén que nació tras el cierre definitivo de la estación",
-      "score": 1.2,
-      "sources_count": 1,
-      "first_seen": "2026-08-26T13:10:18.457608+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/estacion-2.jpg",
-      "articles": [
-        {
-          "portal": "Diario Necochea",
-          "title": "El apeadero ferroviario de Quequén que nació tras el cierre definitivo de la estación",
-          "url": "https://diarionecochea.com/2026/08/24/el-apeadero-ferroviario-de-quequen-que-nacio-tras-el-cierre-definitivo-de-la-estacion/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La construcción en 1973 formó parte de la historia ferroviaria local y buscó acercar a los pasajeros a la ciudad, considerada uno de los centros turísticos más importantes de la costa atlántica. El 24 de agosto de 1973 se completó la construcción de un apeadero ferroviario en la zona portuaria de Quequén , destinado a funcionar como estación terminal para los pasajeros que se dirigían hacia la ciudad.",
-          "La obra buscó acercar a los viajeros al centro turístico mediante el aprovechamiento de la línea férrea Estación Quequén-Puerto. El nuevo punto de acceso surgió cinco años después de la clausura de la estación local y fue concebido como una solución transitoria frente a la distancia que separaba a la ciudad de la estación más próxima, ubicada en Quequén."
-        ],
-        "generated": "2026-08-26T13:10:51.902172+00:00"
-      }
-    },
-    {
-      "key": "prefectura abre inscripciones online tecnicos especialistas suboficiales",
-      "title": "Prefectura abre inscripciones online para técnicos y especialistas suboficiales",
-      "score": 1.2,
-      "sources_count": 1,
-      "first_seen": "2026-08-26T13:10:18.457608+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/prefectura-argentina-pna.jpg",
-      "articles": [
-        {
-          "portal": "Diario Necochea",
-          "title": "Prefectura abre inscripciones online para técnicos y especialistas suboficiales",
-          "url": "https://diarionecochea.com/2026/08/22/prefectura-abre-inscripciones-online-para-tecnicos-y-especialistas-suboficiales-en-todo-el-pais/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La Prefectura Naval Argentina abrió inscripciones online para técnicos y especialistas que quieran ingresar como suboficiales del Cuerpo Auxiliar, con vacantes en todo el país y requisitos específicos de edad, nacionalidad y formación profesional. La Prefectura Naval Argentina comenzó las inscripciones, de manera 100% online, para técnicos y especialistas en distintas áreas, que deseen ingresar a la Fuerza como suboficiales, con estado policial, del Cuerpo Auxiliar.",
-          "Noticia relacionadas Cómo estará el clima este miércoles en Necochea y Quequén 26 de agosto de 2026 Las lluvias y el frío seguirán marcando el tiempo durante las próximas jornadas 25 de agosto de 2026 Los postulantes que resulten seleccionados ingresarán a la Autoridad Marítima nacional en los grados de cabo primero, cabo segundo o marinero, de acuerdo con las condiciones establecidas en el reglamento del concurso."
-        ],
-        "generated": "2026-08-26T13:10:53.470407+00:00"
-      }
-    },
-    {
-      "key": "subcomisaria villa diaz velez recupera senalizacion como sitio memoria",
-      "title": "La Subcomisaría de Villa Díaz Vélez recupera su señalización como Sitio de Memoria",
-      "score": 1.2,
-      "sources_count": 1,
-      "first_seen": "2026-08-26T13:10:18.457608+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/cartel-subcomisaria.jpg",
-      "articles": [
-        {
-          "portal": "Diario Necochea",
-          "title": "La Subcomisaría de Villa Díaz Vélez recupera su señalización como Sitio de Memoria",
-          "url": "https://diarionecochea.com/2026/08/22/la-subcomisaria-de-villa-diaz-velez-volvera-a-tener-su-senalizacion-como-sitio-de-memoria/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La nueva señalización será presentada el martes 25 de agosto, luego de que el cartel colocado en 2018 desapareciera durante febrero. La dependencia policial integra el registro oficial de lugares vinculados al terrorismo de Estado en Necochea y forma parte. La Subcomisaría de Villa Díaz Vélez, recuperará su señalización como Sitio de Memoria del Terrorismo de Estado, un reconocimiento que destaca su rol durante la última dictadura cívico-militar.",
-          "Esta señalización, que había sido colocada en 2018 y desapareció en febrero de este año, será repuesta oficialmente el 25 de agosto. La importancia de este acto trasciende la mera colocación de un cartel, ya que la Subcomisaría forma parte de un entramado histórico y judicial que documenta su función como centro clandestino de detención y represión. La reposición de la señalización es parte de las políticas de Memoria, Verdad y Justicia, y contribuye a mantener viva la memoria."
-        ],
-        "generated": "2026-08-26T13:10:54.710737+00:00"
-      }
-    },
-    {
-      "key": "caso loan jueza sobreseyo imputados dijo desaparicion no accidental",
-      "title": "Caso Loan: la jueza sobreseyó a los imputados y dijo que su desaparición \"no fue accidental\"",
-      "score": 1.2,
-      "sources_count": 1,
-      "first_seen": "2026-08-26T13:10:18.457608+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/gemini-ha-dicho-caso-loan-danilo-pena-sobreseimiento-definitivo-a-imputados-y-sigue-la-investigacion-1787709903330.jpg",
-      "articles": [
-        {
-          "portal": "Diario Necochea",
-          "title": "Caso Loan: la jueza sobreseyó a los imputados y dijo que su desaparición \"no fue accidental\"",
-          "url": "https://diarionecochea.com/2026/08/26/caso-loan-la-jueza-sobreseyo-a-los-imputados-y-dijo-que-su-desaparicion-no-fue-accidental/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La jueza federal de Goya sobreseyó a siete imputados por trata y abandono en la causa por la desaparición de Loan Danilo Peña, ocurrida en El Algarrobal, Corrientes, y confirmó que la investigación y el juicio oral por la sustracción. La jueza federal Cristina Pozzer Penzo dictó el sobreseimiento definitivo de siete imputados por trata de personas y abandono de persona, confirmando que la investigación por el paradero del niño continúa abierta.",
-          "La jueza federal de Goya, Cristina Pozzer Penzo, dictó una nueva resolución en la causa por la desaparición de Loan Danilo Peña, sobreseyendo definitivamente a siete imputados por los delitos de trata de personas y, en el caso de tres de ellos, también por abandono de persona."
-        ],
-        "generated": "2026-08-26T13:10:55.989367+00:00"
-      }
-    },
-    {
-      "key": "dos trapitos fueron aprehendidos operativo uno tenia captura activa",
-      "title": "Dos “trapitos” fueron aprehendidos durante un operativo y uno tenía una captura activa",
-      "score": 1.2,
-      "sources_count": 1,
-      "first_seen": "2026-08-26T13:10:18.457608+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/dos-trapitos-fueron-aprehendidos-durante-un-operativo-y-uno-tenia-una-captura-activa.webp",
-      "articles": [
-        {
-          "portal": "Diario Necochea",
-          "title": "Dos “trapitos” fueron aprehendidos durante un operativo y uno tenía una captura activa",
-          "url": "https://diarionecochea.com/2026/08/25/dos-trapitos-fueron-aprehendidos-durante-un-operativo-y-uno-tenia-una-captura-activa/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El procedimiento se realizó en distintos puntos de la ciudad y derivó en actuaciones por una infracción contravencional, mientras la Policía detectó además un requerimiento judicial vigente. En el marco de un operativo de saturación y prevención desarrollado en distintos puntos de la ciudad, personal policial del Comandode Patrullas Necochea, intervino ante la presencia de personas que se encontraban realizando actividades conocidas como “trapitos” en la vía pública.",
-          "Noticia relacionadas Caso Loan: la jueza sobreseyó a los imputados y dijo que su desaparición \"no fue accidental\" 26 de agosto de 2026 Robos en Tres Arroyos generan inquietud por hechos similares en Necochea y la región 26 de agosto de 2026 Como resultado del procedimiento, dos personas fueron aprehendidas por infracción a la Ley 8031, correspondiente al régimen contravencional provincial."
-        ],
-        "generated": "2026-08-26T13:10:57.603925+00:00"
-      }
-    },
-    {
-      "key": "fuerte cruce gobierno tierra fuego llegada petrolero britanico ushuaia",
-      "title": "Fuerte cruce entre el Gobierno y Tierra del Fuego por la llegada de un petrolero británico a Ushuaia",
-      "score": 1.2,
-      "sources_count": 1,
-      "first_seen": "2026-08-26T13:10:18.457608+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/el-buque-britanico-vs-promise-reavivo-el-conflicto-entre-nacion-y-tierra-del-fuego-por-el-puerto-de-ushuaia.jpg",
-      "articles": [
-        {
-          "portal": "Diario Necochea",
-          "title": "Fuerte cruce entre el Gobierno y Tierra del Fuego por la llegada de un petrolero británico a Ushuaia",
-          "url": "https://diarionecochea.com/2026/08/25/fuerte-cruce-entre-el-gobierno-y-tierra-del-fuego-por-la-llegada-de-un-petrolero-britanico-en-ushuaia/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La embarcación operó bajo el registro de la Isla de Man y desató reclamos de la administración provincial, que aprovechó la oportunidad para exigir la restitución de la terminal marítima intervenida desde enero. El ingreso del buque petrolero VS Promise al puerto de Ushuaia desató un nuevo conflicto entre el Gobierno nacional y la administración de Tierra del Fuego.",
-          "La embarcación, de bandera de la Isla de Man —dependencia de la Corona británica— y 228,60 metros de eslora, ingresó el 24 de agosto de 2026 y permaneció allí unas 14 horas antes de continuar viaje. Este movimiento motivó a legisladores a exigir explicaciones detalladas sobre las autoridades que habilitaron la operación portuaria y los controles realizados."
-        ],
-        "generated": "2026-08-26T13:10:58.904464+00:00"
-      }
-    },
-    {
-      "key": "oceano registro maxima temperatura historica pleno avance fenomeno nino",
-      "title": "El océano registró su máxima temperatura histórica en pleno avance del fenómeno El Niño",
-      "score": 1.2,
-      "sources_count": 1,
-      "first_seen": "2026-08-26T13:10:18.457608+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/el-oceano-mundial-alcanzo-su-mayor-temperatura-registrada.webp",
-      "articles": [
-        {
-          "portal": "Diario Necochea",
-          "title": "El océano registró su máxima temperatura histórica en pleno avance del fenómeno El Niño",
-          "url": "https://diarionecochea.com/2026/08/25/el-oceano-registro-su-maxima-temperatura-historica-en-pleno-avance-del-fenomeno-el-nino/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El récord de temperatura oceánica se registró en un contexto de intensa fase de El Niño que afecta el clima global y genera olas de calor marinas, con impactos severos en ecosistemas y poblaciones costeras, mientras Argentina enfrenta un trimestre. El 22 de agosto de 2026, la temperatura media diaria de la superficie del mar a nivel global alcanzó los 21,1 °C, un récord histórico según la base de datos del Servicio de Cambio Climático de Copernicus. Esta marca superó los máximos de 21,09 °C registrados en marzo de 2024 y de 20,98 °C observados en la misma fecha de 2023.",
-          "El registro resultó inusual porque los picos térmicos oceánicos suelen darse entre marzo y abril, luego del verano austral, y no durante agosto. La medición estima la temperatura a unos 10 metros de profundidad entre las latitudes 60°S y 60°N, basada en datos satelitales que se consideran fiables desde 1979."
-        ],
-        "generated": "2026-08-26T13:11:00.244000+00:00"
-      }
-    },
-    {
-      "key": "policia rural san cayetano detuvo hombre captura activa oriundo rio negro",
-      "title": "La policía rural de San Cayetano detuvo a un hombre con captura activa oriundo de Río Negro",
-      "score": 1.2,
-      "sources_count": 1,
-      "first_seen": "2026-08-26T13:10:18.457608+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/cpr-san-cayetano-detiene-hombre-rio-negro-captura-edmk0-1.jpg",
-      "articles": [
-        {
-          "portal": "Diario Necochea",
-          "title": "La policía rural de San Cayetano detuvo a un hombre con captura activa oriundo de Río Negro",
-          "url": "https://diarionecochea.com/2026/08/25/cpr-san-cayetano-detuvo-a-un-hombre-de-rio-negro-con-captura-activa-en-la-ruta-228/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Los operativos se realizaron en varios puntos del partido, incluyendo autos, camiones, transporte de animales de hacienda. En la fecha, personal del Comando de Prevención Rural de San Cayetano, en el marco de los Operativos de Prevención que se desarrollaron en distintos sectores del partido, procedió a la aprehensión de un hombre, oriundo de la Provincia de Río Negro, quien registró una captura activa por el delito de evasión, la cual requirió el Juzgado de Garantías N.º 3 del Departamento Judicial de Bahía Blanca.",
-          "Noticia relacionadas Caso Loan: la jueza sobreseyó a los imputados y dijo que su desaparición \"no fue accidental\" 26 de agosto de 2026 Robos en Tres Arroyos generan inquietud por hechos similares en Necochea y la región 26 de agosto de 2026 El procedimiento se realizó en inmediaciones de la Ruta Provincial 228, kilómetro 104, y camino Ochandio, jurisdicción de este medio, donde también se labraron Inf a Ley 24449 y Inf."
-        ],
-        "generated": "2026-08-26T13:11:01.558227+00:00"
-      }
-    },
-    {
-      "key": "destituyeron juez federal mar plata comentarios antisemitas bibel asumio funcion temporal",
-      "title": "Destituyeron al juez federal de Mar del Plata por comentarios antisemitas y Bibel asumió una función temporal",
-      "score": 1.2,
-      "sources_count": 1,
-      "first_seen": "2026-08-26T13:10:18.457608+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/destituyeron-al-juez-federal-de-mar-del-plata-por-comentarios-antisemitas-y-bibel-asumio-u.webp",
-      "articles": [
-        {
-          "portal": "Diario Necochea",
-          "title": "Destituyeron al juez federal de Mar del Plata por comentarios antisemitas y Bibel asumió una función temporal",
-          "url": "https://diarionecochea.com/2026/08/25/destituyeron-al-juez-federal-de-mar-del-plata-por-comentarios-antisemitas-y-bibel-asumio-una-funcion-temporal/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El magistrado de Necochea continúa al frente del juzgado local y, tras la salida de Alfredo López, comenzó a cumplir nuevas tareas en la Justicia Federal marplatense. Alfredo López fue removido del Juzgado Federal N.º 4 tras un juicio político.",
-          "El juez federal de Necochea Bernardo Bibel comenzó a cumplir una función temporal en Mar del Plata , mientras continúa al frente del tribunal de nuestra ciudad . Noticia relacionadas Caso Loan: la jueza sobreseyó a los imputados y dijo que su desaparición \"no fue accidental\" 26 de agosto de 2026 Robos en Tres Arroyos generan inquietud por hechos similares en Necochea y la región 26 de agosto de 2026 El juez federal Alfredo López fue destituido este martes 18 de agosto por un Jurado de Enjuiciamiento de Magistrados, que resolvió removerlo del cargo por mal desempeño de sus funciones a raíz de una serie de publicaciones realizadas en redes sociales."
-        ],
-        "generated": "2026-08-26T13:11:02.779927+00:00"
-      }
-    },
-    {
-      "key": "detuvieron calle joven buscado causa abuso sexual",
-      "title": "Detuvieron en la calle a un joven buscado por una causa de abuso sexual",
-      "score": 1.2,
-      "sources_count": 1,
-      "first_seen": "2026-08-26T13:10:18.457608+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/detienen-joven-19-anos-abuso-sexual-necochea-5dqa2-1.jpg",
-      "articles": [
-        {
-          "portal": "Diario Necochea",
-          "title": "Detuvieron en la calle a un joven buscado por una causa de abuso sexual",
-          "url": "https://diarionecochea.com/2026/08/25/detuvieron-en-la-calle-a-un-joven-buscado-por-una-causa-de-abuso-sexual/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El Gabinete Técnico Operativo de la Comisaría Primera ejecutó la orden del Juzgado de Garantías N.º 1, localizando al joven en la vía pública de Necochea. Fue trasladado a la dependencia policial y queda a disposición de la justicia.",
-          "En el marco de una investigación judicial, personal del Gabinete Técnico Operativo de la Comisaría Primera, procedió a la detención de un joven de 19 años sobre quien pesaba una orden de detención vigente, dispuesta por el Juzgado de Garantías N.º 1 del Departamento Judicial Necochea, por una causa de Abuso Sexual. Noticia relacionadas Caso Loan: la jueza sobreseyó a los imputados y dijo que su desaparición \"no fue accidental\" 26 de agosto de 2026 Robos en Tres Arroyos generan inquietud por hechos similares en Necochea y la región 26 de agosto de 2026 El procedimiento se llevó a cabo en la vía pública de la ciudad de Necochea, donde los efectivos identificaron al requerido y concretaron su detención."
-        ],
-        "generated": "2026-08-26T13:11:04.114215+00:00"
-      }
-    },
-    {
-      "key": "motociclista resulto herido chocar auto esquina 56 73",
-      "title": "Un motociclista resultó herido tras chocar contra un auto en la esquina de 56 y 73",
-      "score": 1.2,
-      "sources_count": 1,
-      "first_seen": "2026-08-26T13:10:18.457608+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/choque-moto-auto-56.jpg",
-      "articles": [
-        {
-          "portal": "Diario Necochea",
-          "title": "Un motociclista resultó herido tras chocar contra un auto en la esquina de 56 y 73",
-          "url": "https://diarionecochea.com/2026/08/25/un-motociclista-resulto-herido-tras-chocar-contra-un-auto-en-la-esquina-de-56-y-73/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El hombre conducía una Motomel 110 cuando impactó con un Ford Focus, recibió asistencia en el lugar por un golpe en la pierna y no necesitó internación. Un motociclista sufrió lesiones en una de sus piernas tras un choque ocurrido cerca de las 18:20 en la intersección de las calles 56 y 73, en Necochea.",
-          "El siniestro involucró a un automóvil Ford Focus y a un vehículo de menor porte, sobre el cual trascendieron reportes que situaron el hecho tanto en la tarde del lunes como en la de este martes. Noticia relacionadas Caso Loan: la jueza sobreseyó a los imputados y dijo que su desaparición \"no fue accidental\" 26 de agosto de 2026 Robos en Tres Arroyos generan inquietud por hechos similares en Necochea y la región 26 de agosto de 2026 El rodado menor correspondía a una motocicleta Motomel 110, conducida por un hombre de apellido Parra."
-        ],
-        "generated": "2026-08-26T13:11:05.667294+00:00"
-      }
-    },
-    {
-      "key": "nino cobra fuerza estima 90 probabilidades evento muy fuerte",
-      "title": "El Niño cobra fuerza: se estima \"más de un 90% de probabilidades de un evento muy fuerte\"",
-      "score": 1.2,
-      "sources_count": 1,
-      "first_seen": "2026-08-26T13:10:18.457608+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/destacada-tormenta.jpg",
-      "articles": [
-        {
-          "portal": "Diario Necochea",
-          "title": "El Niño cobra fuerza: se estima \"más de un 90% de probabilidades de un evento muy fuerte\"",
-          "url": "https://diarionecochea.com/2026/08/25/el-nino-se-fortalece-hay-mas-de-90-de-probabilidad-de-un-evento-muy-fuerte-hacia-fines-de-2026/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Los pronósticos internacionales muestran una señal cálida muy marcada en el Pacífico y las estimaciones locales anticipan más lluvias, riesgos hídricos y dificultades para la actividad agropecuaria. El fenómeno de El Niño ya está activo y los pronósticos recientes anticiparon cambios importantes en las lluvias y las temperaturas durante los próximos meses.",
-          "La señal más destacada apareció en el océano Pacífico, donde los registros y las proyecciones mostraron una intensificación del episodio y elevaron la posibilidad de que alcance una magnitud muy fuerte hacia fines de 2026. La NOAA indicó que el fenómeno se fortalece y que existe una probabilidad superior al 90% de que presente una intensidad muy fuerte durante el otoño e invierno boreales de 2026-2027, mientras que otro cálculo ubicó en 69% la posibilidad de un evento histórico entre octubre y diciembre."
-        ],
-        "generated": "2026-08-26T13:11:07.084265+00:00"
-      }
-    },
-    {
-      "key": "gobierno adjudico ocho corredores rutas nacionales privados 20 anos",
-      "title": "El Gobierno adjudicó ocho corredores de rutas nacionales a privados por 20 años",
-      "score": 1.2,
-      "sources_count": 1,
-      "first_seen": "2026-08-26T13:10:18.457608+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/07/ruta228-curva-cono.jpeg",
-      "articles": [
-        {
-          "portal": "Diario Necochea",
-          "title": "El Gobierno adjudicó ocho corredores de rutas nacionales a privados por 20 años",
-          "url": "https://diarionecochea.com/2026/08/24/el-gobierno-adjudico-ocho-corredores-de-rutas-nacionales-a-privados-por-20-anos/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La medida oficializada este lunes abarca peajes que se actualizarán mediante índices oficiales y cobrarán las tarifas una vez que los caminos aseguren condiciones óptimas de circulación, bajo el estricto control de Vialidad Nacional. El Gobierno nacional oficializó este lunes la entrega de ocho corredores viales a operadores privados por un plazo de 20 años, una medida enmarcada en la Etapa III de la Red Federal de Concesiones.",
-          "Mediante la Resolución 1379/2026, firmada por el ministro de Economía, Luis Caputo, se adjudicaron 3.920,21 kilómetros de rutas nacionales que atraviesan 11 provincias argentinas."
-        ],
-        "generated": "2026-08-26T13:11:08.518427+00:00"
-      }
-    },
-    {
-      "key": "super gripe marco record pais 790 mil casos ano",
-      "title": "La “súper gripe” marcó un récord en el país, con más de 790 mil casos en el año",
-      "score": 1.2,
-      "sources_count": 1,
-      "first_seen": "2026-08-26T13:10:18.457608+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/gripe-destacada.jpg",
-      "articles": [
-        {
-          "portal": "Diario Necochea",
-          "title": "La “súper gripe” marcó un récord en el país, con más de 790 mil casos en el año",
-          "url": "https://diarionecochea.com/2026/08/23/la-super-gripe-marco-un-record-en-argentina-mas-de-790-mil-casos-en-2026/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Argentina registró 790.523 casos de influenza en las primeras 30 semanas de 2026, por encima de los máximos recientes, con predominio del subclado K de A(H3N2). La temporada de influenza de 2026 alcanzó en Argentina el mayor registro de la última década: hasta la semana epidemiológica 30 se notificaron 790.523 casos. La cifra superó los 788.328 contabilizados durante el mismo período de 2025, que hasta entonces constituían el máximo de la serie reciente.",
-          "En 2024, el acumulado a esa altura del año había sido de 779.592 infecciones. Noticia relacionadas Fuerte cruce entre el Gobierno y Tierra del Fuego por la llegada de un petrolero británico a Ushuaia 25 de agosto de 2026 El Niño cobra fuerza: se estima \"más de un 90% de probabilidades de un evento muy fuerte\" 26 de agosto de 2026 El aumento de las detecciones comenzó en la semana epidemiológica 10 y el máximo de circulación se produjo entre las semanas 21 y 22."
-        ],
-        "generated": "2026-08-26T13:11:09.784590+00:00"
-      }
-    },
-    {
-      "key": "fiscalia bolivia acusa fernando cerimedo planificar ataque nadia beller pide detencion preventiva",
-      "title": "La Fiscalía de Bolivia acusa a Fernando Cerimedo de planificar el ataque contra Nadia Beller y pide su detención preventiva",
-      "score": 1.2,
-      "sources_count": 1,
-      "first_seen": "2026-08-26T13:10:18.457608+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/la-fiscalia-de-bolivia-acusa-a-fernando-cerimedo-de-planificar-el-ataque-contra-nadia-beller-y-pide-su-detencion-preventiva.jpg",
-      "articles": [
-        {
-          "portal": "Diario Necochea",
-          "title": "La Fiscalía de Bolivia acusa a Fernando Cerimedo de planificar el ataque contra Nadia Beller y pide su detención preventiva",
-          "url": "https://diarionecochea.com/2026/08/21/la-fiscalia-de-bolivia-acusa-a-fernando-cerimedo-de-planificar-el-ataque-contra-nadia-beller-y-pide-su-detencion-preventiva/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La investigación por tentativa de feminicidio reconstruye una secuencia de presiones, custodios que no intervinieron y un supuesto vínculo previo con los atacantes. La Fiscalía Departamental de Santa Cruz acusó formalmente al consultor político argentino Fernando Gabriel Cerimedo como presunto autor intelectual del intento de femicidio contra Nadia Shirley Beller Delgadillo.",
-          "La mujer fue atacada a tiros por dos hombres en motocicleta el 17 de agosto de 2026, en Santa Cruz de la Sierra, y recibió una incapacidad médica de 30 días tras sufrir tres disparos. El acusado fue aprehendido un día después en el aeropuerto de Viru Viru y la Justicia solicitó 180 días de detención preventiva en el Penal de Palmasola, ante los riesgos de fuga y de obstaculización."
-        ],
-        "generated": "2026-08-26T13:11:11.051533+00:00"
-      }
-    },
-    {
-      "key": "firme reclamo casi 300 dias incumplimiento ley financiamiento universitario",
-      "title": "Firme reclamo por casi 300 días de incumplimiento de la ley de financiamiento universitario",
-      "score": 1.2,
-      "sources_count": 1,
-      "first_seen": "2026-08-26T13:10:18.457608+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/firme-reclamo-universitario-por-casi-300-dias-de-incumplimiento-de-la-ley-de-financiamient.webp",
-      "articles": [
-        {
-          "portal": "Diario Necochea",
-          "title": "Firme reclamo por casi 300 días de incumplimiento de la ley de financiamiento universitario",
-          "url": "https://diarionecochea.com/2026/08/20/firme-reclamo-por-casi-300-dias-de-incumplimiento-de-la-ley-de-financiamiento-universitario/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La Universidad Nacional del Sur mantiene sus proyectos de investigación y reclama previsibilidad presupuestaria mientras sigue la discusión por el cumplimiento de la Ley 27.795. La Ley 27.795 estableció medidas para sostener el financiamiento de la educación universitaria pública, con actualizaciones para gastos de funcionamiento, salarios de docentes y no docentes y becas estudiantiles.",
-          "También contempló una partida especial para regularizar ingresos a la carrera de Investigador Científico y otorgar becas para ingresantes y posdoctorales. El Poder Ejecutivo había observado íntegramente la norma mediante el Decreto 647/2025, del 10 de septiembre de 2025, pero el Congreso confirmó la sanción con dos tercios de los votos en ambas cámaras y la ley fue promulgada mediante el Decreto 759/2025, del 20 de octubre de 2025."
-        ],
-        "generated": "2026-08-26T13:11:12.402421+00:00"
-      }
-    },
-    {
-      "key": "murio florencia hija lucas sugo 23 anos",
-      "title": "Murió Florencia, la hija de Lucas Sugo, a los 23 años",
-      "score": 1.2,
-      "sources_count": 1,
-      "first_seen": "2026-08-26T13:10:18.457608+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/murio-florencia-la-hija-de-lucas-sugo-a-los-23-anos.webp",
-      "articles": [
-        {
-          "portal": "Diario Necochea",
-          "title": "Murió Florencia, la hija de Lucas Sugo, a los 23 años",
-          "url": "https://diarionecochea.com/2026/08/20/murio-florencia-la-hija-de-lucas-sugo-a-los-23-anos/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Noticia relacionadas Fuerte cruce entre el Gobierno y Tierra del Fuego por la llegada de un petrolero británico a Ushuaia 25 de agosto de 2026 El Niño cobra fuerza: se estima \"más de un 90% de probabilidades de un evento muy fuerte\" 26 de agosto de 2026 El entorno del cantante pidió respeto y privacidad a la familia y anunció la suspensión de sus conciertos programados en Argentina. Miles de seguidores y artistas rindieron homenaje en redes, acompañando al músico en este momento de profundo dolor.",
-          "La joven enfrentó durante más de un año una enfermedad oncológica y recibió diversos tratamientos en Uruguay y en el exterior. El entorno del cantante confirmó la triste noticia el miércoles y solicitó respeto para la familia."
-        ],
-        "generated": "2026-08-26T13:11:13.717416+00:00"
-      }
-    },
-    {
-      "key": "juicio loan cuatro policias aportaran detalles busqueda primeras medidas caso",
-      "title": "Juicio por Loan: cuatro policías aportarán detalles sobre la búsqueda y las primeras medidas del caso",
-      "score": 1.2,
-      "sources_count": 1,
-      "first_seen": "2026-08-26T13:10:18.457608+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/juicio-por-loan-cuatro-policias-aportaran-detalles-sobre-la-busqueda-y-las-primeras-medidas-del-caso.jpg",
-      "articles": [
-        {
-          "portal": "Diario Necochea",
-          "title": "Juicio por Loan: cuatro policías aportarán detalles sobre la búsqueda y las primeras medidas del caso",
-          "url": "https://diarionecochea.com/2026/08/19/juicio-por-loan-cuatro-policias-aportaran-detalles-sobre-la-busqueda-y-las-primeras-medidas-del-caso/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El debate por la desaparición de Loan Danilo Peña continúa este miércoles en Corrientes con testimonios vinculados a los primeros procedimientos de búsqueda y a las medidas tomadas sobre el entorno de algunos acusados. El juicio por la desaparición de Loan Danilo Peña continuará este miércoles en la ciudad de Corrientes con la declaración de cuatro policías que participaron de los rastrillajes y de distintas tareas de investigación realizadas luego de que el niño fuera visto por última vez, el 13 de junio de 2024.",
-          "Los testimonios fueron solicitados por el fiscal federal Carlos Schaefer y buscarán reconstruir los primeros procedimientos de búsqueda y las medidas adoptadas sobre el entorno de algunos de los acusados. El cuarto citado es Gabriel Arnaldo Pinolli, quien participó de los rastrillajes y realizó tareas de consigna en el Hotel Despertar del Iberá y en el domicilio de Camila, una de las primas de Loan."
-        ],
-        "generated": "2026-08-26T13:11:14.924200+00:00"
-      }
-    },
-    {
-      "key": "argentina registra nacimientos crecen dificultades formar familia",
-      "title": "Argentina registra menos nacimientos y crecen las dificultades para formar una familia",
-      "score": 1.2,
-      "sources_count": 1,
-      "first_seen": "2026-08-26T13:10:18.457608+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/baja-natalidad-en-argentina-57-no-alcanza-la-cantidad-de-hijos-que-desearia-por-las-barreras-economicas-y-sociales.jpg",
-      "articles": [
-        {
-          "portal": "Diario Necochea",
-          "title": "Argentina registra menos nacimientos y crecen las dificultades para formar una familia",
-          "url": "https://diarionecochea.com/2026/08/18/argentina-registra-menos-nacimientos-y-crecen-las-dificultades-para-formar-una-familia/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La investigación detectó que los problemas económicos, el acceso a la vivienda y las tareas de cuidado aparecen entre los principales obstáculos para cumplir los proyectos familiares. La tasa global de fecundidad en Argentina cayó a 1,2 hijos por mujer, muy por debajo de los 2,1 considerados necesarios para el reemplazo poblacional. Una investigación de UNFPA y Voices!",
-          "señaló que la baja natalidad no se explica solamente por una menor intención de tener hijos, sino también por las dificultades para concretar los proyectos familiares. Noticia relacionadas Fuerte cruce entre el Gobierno y Tierra del Fuego por la llegada de un petrolero británico a Ushuaia 25 de agosto de 2026 El Niño cobra fuerza: se estima \"más de un 90% de probabilidades de un evento muy fuerte\" 26 de agosto de 2026 El estudio indicó que el 57% de las personas de entre 18 y 45 años todavía no alcanzó la cantidad de hijos que desearía."
-        ],
-        "generated": "2026-08-26T13:11:16.259317+00:00"
-      }
-    },
-    {
-      "key": "adolfo gonzales chaves festeja 110 anos historia gran desfile fogones",
-      "title": "Adolfo Gonzales Chaves festeja 110 años de historia con un gran desfile y fogones",
-      "score": 1.2,
-      "sources_count": 1,
-      "first_seen": "2026-08-26T13:10:18.457608+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/adolfo-gonzales-chaves-cumple-110-anos-la-historia-del-partido-bonaerense-creado-en-1916-1787435807855.jpg",
-      "articles": [
-        {
-          "portal": "Diario Necochea",
-          "title": "Adolfo Gonzales Chaves festeja 110 años de historia con un gran desfile y fogones",
-          "url": "https://diarionecochea.com/2026/08/22/adolfo-gonzales-chaves-cumple-110-anos-la-historia-del-partido-bonaerense-creado-en-1916/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El partido bonaerense, con más de 12 mil habitantes y una superficie de 3.859,2 km², celebra su 110.º aniversario con actividades culturales y un acto protocolar, bajo la gestión de la intendenta Lucía Gómez. El distrito fue creado el 22 de agosto de 1916 por el gobernador Marcelino Ugarte. El partido bonaerense de Adolfo Gonzales Chaves celebra este año un aniversario muy especial, conmemorando más de un siglo desde su creación oficial.",
-          "Este distrito, que tiene sus raíces en la fundación de un pueblo alrededor de una estación ferroviaria a fines del siglo XIX, ha experimentado a lo largo del tiempo importantes transformaciones territoriales y administrativas. Actualmente, con una población que supera los 12 mil habitantes y una superficie considerable, el partido mantiene una activa vida institucional y cultural."
-        ],
-        "generated": "2026-08-26T13:11:18.082611+00:00"
-      }
-    },
-    {
-      "key": "polemica pinamar circuito motocross playa",
-      "title": "Polémica en Pinamar por circuito de motocross sobre la playa",
-      "score": 1.2,
-      "sources_count": 1,
-      "first_seen": "2026-08-26T13:10:18.457608+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/polemica-en-pinamar-por-circuito-de-motocross-sobre-la-playa-1787317020527.jpg",
-      "articles": [
-        {
-          "portal": "Diario Necochea",
-          "title": "Polémica en Pinamar por circuito de motocross sobre la playa",
-          "url": "https://diarionecochea.com/2026/08/21/polemica-en-pinamar-por-circuito-de-motocross-sobre-la-playa/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El armado del circuito del Enduro del Invierno genera cuestionamientos ambientales mientras el Concejo Deliberante avaló el evento por mayoría. La construcción de un circuito de motocross sobre la playa pública de Pinamar generó un conflicto entre organizaciones ambientalistas, vecinos y autoridades municipales.",
-          "El trazado será utilizado para el Enduro del Invierno, previsto para el 29 y 30 de agosto, con una participación informada de 350 pilotos de motos y cuatriciclos. Noticia relacionadas Adolfo Gonzales Chaves festeja 110 años de historia con un gran desfile y fogones 22 de agosto de 2026 San Cayetano recicló 78.000 kilos de Residuos Sólidos Urbanos en lo que va del año 20 de agosto de 2026 El sector autorizado comprende la playa ubicada entre los balnearios El Pájaro y Rada Beach, en paralelo a la Avenida del Mar y con calles transversales involucradas."
-        ],
-        "generated": "2026-08-26T13:11:20.462600+00:00"
-      }
-    },
-    {
-      "key": "san cayetano reciclo 78 000 kilos residuos solidos urbanos va ano",
-      "title": "San Cayetano recicló 78.000 kilos de Residuos Sólidos Urbanos en lo que va del año",
-      "score": 1.2,
-      "sources_count": 1,
-      "first_seen": "2026-08-26T13:10:18.457608+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/reciclaje-san-cayetano-1.jpg",
-      "articles": [
-        {
-          "portal": "Diario Necochea",
-          "title": "San Cayetano recicló 78.000 kilos de Residuos Sólidos Urbanos en lo que va del año",
-          "url": "https://diarionecochea.com/2026/08/20/san-cayetano-reciclo-78-000-kilos-de-residuos-solidos-urbanos-en-lo-que-va-del-ano/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La municipalidad estableció un calendario de recolección diferenciada: residuos orgánicos lunes, miércoles y viernes; secos martes y jueves. Así la planta gana eficiencia y los materiales pueden reincorporarse al proceso productivo. Desde la Planta de Tratamiento de Residuos Sólidos Urbanos de la Municipalidad de San Cayetano, queremos destacar que la separación en origen comienza en casa.",
-          "Cuando clasificás tus residuos, permitís que el trabajo en la planta sea mucho más eficiente y que podamos aprovechar materiales que antes terminaban en la basura. Noticia relacionadas Adolfo Gonzales Chaves festeja 110 años de historia con un gran desfile y fogones 22 de agosto de 2026 Polémica en Pinamar por circuito de motocross sobre la playa 21 de agosto de 2026 Gracias al esfuerzo de todos, durante los primeros seis meses de 2026 recuperamos más de 78 mil kilogramos de residuos reciclables."
-        ],
-        "generated": "2026-08-26T13:11:21.938692+00:00"
-      }
-    },
-    {
-      "key": "consejo escolar san cayetano convoca licitacion transporte alumnos urbanos rurales",
-      "title": "Consejo Escolar de San Cayetano convoca licitación de transporte para alumnos urbanos y rurales",
-      "score": 1.2,
-      "sources_count": 1,
-      "first_seen": "2026-08-26T13:10:18.457608+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/consejo-escolar-convoca-licitacion-transporte-terr-9bjp1-1.jpg",
-      "articles": [
-        {
-          "portal": "Diario Necochea",
-          "title": "Consejo Escolar de San Cayetano convoca licitación de transporte para alumnos urbanos y rurales",
-          "url": "https://diarionecochea.com/2026/08/19/consejo-escolar-de-san-cayetano-convoca-licitacion-de-transporte-para-alumnos-urbanos-y-rurales/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El Consejo Escolar abrió la convocatoria para contratar el servicio de transporte terrestre de alumnos urbanos y rurales para el ciclo lectivo 2026, con consultas y pliegos disponibles en su sede y sitio web, y la apertura de propuestas prevista. Consejo Escolar invita a participar de la contratación del servicio de transporte terrestre de alumnos (ida y vuelta), para el traslado de alumnos de todos los niveles correspondiente a las áreas urbana y rural, para el ciclo lectivo 2026.",
-          "Noticia relacionadas Buscan a una joven que desapareció tras ser vista en la Plaza Hipólito Irigoyen en Quequén 24 de agosto de 2026 Quequén: la Federación Universitaria de la UNICEN eligió nueva conducción 22 de agosto de 2026 Los interesados podrán consultar recorridos y obtener el Pliego de Bases y Condiciones en sede del Consejo Escolar o en su sitio Web https://consejoescolarsc2.webnode.page/novedades/."
-        ],
-        "generated": "2026-08-26T13:11:23.216776+00:00"
-      }
-    },
-    {
-      "key": "adoptaron cachorro abandonado familia pasar meses refugio",
-      "title": "Adoptaron a un cachorro abandonado por su familia tras pasar 9 meses en un refugio",
-      "score": 1.2,
-      "sources_count": 1,
-      "first_seen": "2026-08-26T13:10:18.457608+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/despues-de-9-meses-en-el-refugio-un-cachorro-rescatado-encontro-una-nueva-familia.webp",
-      "articles": [
-        {
-          "portal": "Diario Necochea",
-          "title": "Adoptaron a un cachorro abandonado por su familia tras pasar 9 meses en un refugio",
-          "url": "https://diarionecochea.com/2026/08/19/adoptaron-a-un-cachorro-que-fue-abandonado-por-su-familia-y-paso-nueve-meses-en-un-refugio/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El animal encontró una nueva familia, adoptado por Milea, la vecina le brindó un hogar definitivo. La adopción de animales rescatados es una acción que refleja compromiso y solidaridad hacia los seres que han sufrido abandono. En este contexto, un perro que permaneció durante nueve meses en la guardería canina de San Cayetano tras haber sido abandonado junto a su familia, finalmente encontró un hogar definitivo gracias a la decisión de una vecina.",
-          "Noticia relacionadas Adolfo Gonzales Chaves festeja 110 años de historia con un gran desfile y fogones 22 de agosto de 2026 Polémica en Pinamar por circuito de motocross sobre la playa 21 de agosto de 2026 Las buenas noticias siempre dan gusto contarlas: después de nueve meses esperando en la guardería canina, un perrito finalmente encontró su lugar en el mundo. Fue adoptado por Milea, una vecina que decidió abrirle las puertas de su casa y darle el hogar que tanto merecía."
-        ],
-        "generated": "2026-08-26T13:11:24.675523+00:00"
-      }
-    },
-    {
-      "key": "cerca 40 adultos mayores realizaron viaje tandil direccion deportes",
-      "title": "Cerca de 40 adultos mayores realizaron un viaje a Tandil con la Dirección de Deportes",
-      "score": 1.2,
-      "sources_count": 1,
-      "first_seen": "2026-08-26T13:10:18.457608+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/cerca-40-adultos-mayores-realizan-viaje-tandil-dir-dujgy-1.jpg",
-      "articles": [
-        {
-          "portal": "Diario Necochea",
-          "title": "Cerca de 40 adultos mayores realizaron un viaje a Tandil con la Dirección de Deportes",
-          "url": "https://diarionecochea.com/2026/08/19/cerca-de-40-adultos-mayores-realizaron-un-viaje-a-tandil-con-la-direccion-de-deportes/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El Director de Deportes, Rodrigo Arana, acompañó al grupo con docentes, personal de cocina, un enfermero y los conductores municipales, asegurando asistencia y cuidados. La iniciativa subraya el compromiso del municipio con la inclusión y bienestar de la tercera edad.",
-          "Un grupo de aproximadamente 40 adultos mayores disfrutó de un inolvidable viaje a la ciudad de Tandil, en una iniciativa coordinada e impulsada por el Municipio a través de la Dirección de Deportes. Noticia relacionadas Buscan a una joven que desapareció tras ser vista en la Plaza Hipólito Irigoyen en Quequén 24 de agosto de 2026 Quequén: la Federación Universitaria de la UNICEN eligió nueva conducción 22 de agosto de 2026 Durante una estadía de tres días, la delegación tuvo la oportunidad de recorrer y conocer los principales atractivos turísticos y lugares típicos de la emblemática ciudad serrana."
-        ],
-        "generated": "2026-08-26T13:11:26.212406+00:00"
+        "generated": "2026-08-26T14:22:50.900010+00:00"
       }
     }
   ]
