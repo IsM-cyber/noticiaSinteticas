@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T16:02:12.883066+00:00",
-  "article_count": 175,
+  "generated_at": "2026-08-26T18:18:57.489723+00:00",
+  "article_count": 135,
   "fetch_errors": [],
   "stories": [
     {
@@ -41,54 +41,79 @@
           "La gestión municipal continúa sosteniendo y fortaleciendo políticas públicas que acompañan a los estudiantes del distrito, facilitando su acceso a la educación. En ese marco, se encuentra abierta la inscripción y renovación del Boleto Municipal Estudiantil Gratuito , un beneficio que permite que miles de jóvenes puedan trasladarse sin costo en el marco de sus estudios. La Dirección de Transporte informó que los estudiantes tendrán tiempo para realizar el trámite hasta el viernes 25 de septiembre.",
           "Para inscribirse o renovar el beneficio, deberán acercarse a las Unidades de Gestión Social (UGS) ubicadas en el Centro Cívico (58 y 61, segundo piso) o en la Delegación Municipal de Quequén (521 y 560), de lunes a viernes, de 8.15 a 13.30. Requisitos Para quienes lo solicitan por primera vez: -Presentarse personalmente o hacerlo a través de padre, madre o tutor. -Fotocopia del DNI del estudiante."
         ],
-        "generated": "2026-08-26T16:02:28.617577+00:00"
+        "generated": "2026-08-26T18:19:15.975825+00:00"
       }
     },
     {
-      "key": "como estara clima miercoles necochea quequen",
-      "title": "Cómo estará el clima este miércoles en Necochea y Quequén",
-      "score": 3.0,
+      "key": "jornada ambiental puerto ciudad junto escuela 50",
+      "title": "Jornada ambiental de Puerto Ciudad junto a la Escuela N° 50",
+      "score": 2.526,
       "sources_count": 2,
-      "first_seen": "2026-08-26T05:06:25+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/clima-lluvia-av2-26-8-26.jpg",
+      "first_seen": "2026-08-26T14:00:17+00:00",
+      "image": "https://cdnartic.ar/lfJoY8lRJHbgKYj6xjH-mH8WWIM=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/08/puerto_ciudad.webp",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Cómo estará el clima este miércoles en Necochea y Quequén",
-          "url": "https://diarionecochea.com/2026/08/26/como-estara-el-clima-este-miercoles-en-necochea-y-quequen-138/",
-          "published_at": null,
-          "category": null,
-          "image": null
+          "portal": "Ecos Diarios",
+          "title": "Jornada ambiental de Puerto Ciudad junto a la Escuela N° 50",
+          "url": "https://elecos.com.ar/jornada-ambiental-de-puerto-ciudad-junto-a-la-escuela-n-50",
+          "published_at": "2026-08-26T14:00:17+00:00",
+          "category": "ecos-puerto",
+          "image": "https://cdnartic.ar/lfJoY8lRJHbgKYj6xjH-mH8WWIM=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/08/puerto_ciudad.webp"
         },
         {
+          "portal": "Necochea News",
+          "title": "Más de 300 personas participaron de una jornada ambiental de Puerto Ciudad en la Escuela Nº 50",
+          "url": "https://necocheanews.com.ar/mas-de-300-personas-participaron-de-una-jornada-ambiental-de-puerto-ciudad-en-la-escuela-no-50/",
+          "published_at": "2026-08-26T16:45:53+00:00",
+          "category": "LOCALES",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Más de 200 alumnos y cerca de 100 familiares participaron de una experiencia que articuló educación, ambiente y comunidad, en el marco de Puerto Ciudad y su subprograma Forestación Inclusiva. Lo que comenzó en junio alrededor de una mesa de trabajo terminó este 25 de agosto con cientos de manos en la tierra. En la Escuela Primaria Nº 50 “Alfonsina Storni”, Puerto Ciudad, dirigido por el Lic. Luis Pedone, bajo la gestión del Dr.",
+          "Mariano Carrillo Presidente del Consorcio del Pueto de Quequén, desarrolló a través de su subprograma Forestación Inclusiva una jornada de forestación y educación ambiental para fortalecer el proyecto institucional “Cultivando sueños”. La intervención fue parte de un proceso. En junio, el equipo de Puerto Ciudad, la directora Natalia Menna y los docentes acordaron objetivos y recursos."
+        ],
+        "generated": "2026-08-26T18:19:19.163462+00:00"
+      }
+    },
+    {
+      "key": "maxi cestobol palpita torneo primavera dos jornadas puro deporte",
+      "title": "El maxi cestobol ya palpita el Torneo Primavera, con dos jornadas a puro deporte",
+      "score": 1.167,
+      "sources_count": 1,
+      "first_seen": "2026-08-26T17:58:48+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/08/cestobol-maxi-centro-vasco.webp",
+      "articles": [
+        {
           "portal": "TSN Necochea",
-          "title": "Cómo estará el tiempo este miércoles en Necochea y Quequén",
-          "url": "https://tsnnecochea.com.ar/generales/como-estara-el-tiempo-este-miercoles-en-necochea-y-quequen-14-2-235328/",
-          "published_at": "2026-08-26T05:06:25+00:00",
-          "category": "humedad",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2024/10/c791a680-7137-4fcb-906e-a573c45d3191.jpg"
+          "title": "El maxi cestobol ya palpita el Torneo Primavera, con dos jornadas a puro deporte",
+          "url": "https://tsnnecochea.com.ar/deportes/el-maxi-cestobol-ya-palpita-el-torneo-primavera-con-dos-jornadas-a-puro-deporte-235366/",
+          "published_at": "2026-08-26T17:58:48+00:00",
+          "category": "Cestobol",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/08/cestobol-maxi-centro-vasco.webp"
         }
       ],
       "summary": {
         "paragraphs": [
-          "El Servicio Meteorológico Nacional (SMN) pronosticó para este miércoles en Necochea y Quequén una jornada con mayormente nublado, una temperatura máxima de 15° y una mínima de 9°. Para la mañana , se espera mayormente nublado. La temperatura rondará los 9° y la probabilidad de precipitaciones será del 0 - 10%, según datos del SMN. El viento soplará desde n a una velocidad de entre 13 - 22 kilómetros por hora.",
-          "Noticia relacionadas Se cumplen 121 años de la Escuela Nº10, que nació en una habitación cedida por una familia 26 de agosto de 2026 Un nuevo relevamiento busca medir las deudas de familias en Necochea y Quequén 26 de agosto de 2026 Por su parte, hacia la tarde y entrando la noche , el cielo estará lluvias. La temperatura alcanzará los 15° mientras que el porcentaje de precipitaciones será del 40 - 70%, mencionó el parte oficial. El viento se sentirá desde n a una velocidad de entre 23 - 31 kilómetros por hora."
+          "TSN Necochea | ‹ VOLVER | Deportes | Cestobol | Deporte El maxi cestobol ya palpita el Torneo Primavera, con dos jornadas a puro deporte Se jugará el fin de semana del 19 y 20 de septiembre. Por Redacción TSN 26/08/2026 · 02:58 PM Equipo de maxi de Centro Vasco Agregar TSN Necochea en El cestobol Maxi de Necochea ya tiene la mirada puesta en uno de los encuentros más esperados del calendario.",
+          "Se trata del Torneo Primavera Maxi 30, que se disputará el 19 y 20 de septiembre en nuestra ciudad y reunirá a ocho equipos en una competencia que promete mucha acción y camaradería. La propuesta, organizada por el cestobol del Centro Vasco de Necochea , convocará a equipos de distintas localidades para disfrutar de dos jornadas a puro cestobol, en una categoría que sigue creciendo y ganando protagonismo entre las jugadoras."
         ],
-        "generated": "2026-08-26T16:02:31.449740+00:00"
+        "generated": "2026-08-26T18:19:26.749201+00:00"
       }
     },
     {
-      "key": "juicio crimen bautista coronel buscamos condena ejemplar afirmo querella",
-      "title": "Juicio por el crimen de Bautista Coronel: \"Buscamos una condena ejemplar\", afirmó la querella",
-      "score": 1.2,
+      "key": "milito derecho vida andrea rondanina mantiene firme reclamo autovia ruta 88",
+      "title": "“Milito por el derecho a la vida”: Andrea Rondanina mantiene firme el reclamo por la autovía de la Ruta 88",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-08-26T16:02:12.883066+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/el-juicio-por-el-crimen-de-bautista-coronel-sera-en-septiembre-la-familia-buscara-agravar.webp",
+      "first_seen": "2026-08-26T18:18:57.489723+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/08/20260826075910_captura.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Juicio por el crimen de Bautista Coronel: \"Buscamos una condena ejemplar\", afirmó la querella",
-          "url": "https://diarionecochea.com/2026/08/26/el-juicio-por-el-crimen-de-bautista-coronel-sera-en-septiembre-la-familia-de-la-victima-exige-una-condena-ejemplar/",
+          "portal": "Necochea Digital",
+          "title": "“Milito por el derecho a la vida”: Andrea Rondanina mantiene firme el reclamo por la autovía de la Ruta 88",
+          "url": "https://necocheadigital.com/nota/119395/milito-por-el-derecho-a-la-vida-andrea-rondanina-mantiene-firme-el-reclamo-por-la-autovia-de-la-ruta-88/",
           "published_at": null,
           "category": null,
           "image": null
@@ -96,24 +121,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "El Tribunal de Responsabilidad Penal Juvenil definirá el futuro del imputado en las audiencias del 21, 22 y 23 de septiembre, evaluando pruebas clave como el registro audiovisual y la participación de otros menores. El caso del asesinato de Bautista Coronel, un adolescente de 17 años, entra en una etapa crucial con la programación del juicio para septiembre.",
-          "Este hecho, ocurrido frente al Casino de Necochea, generó una fuerte repercusión y repudio social, con la familia de la víctima buscando una condena más severa para el único acusad . Noticia relacionadas Movimiento Autonomista de Quequén renueva el pedido para crear un municipio independiente 19 de agosto de 2026 Noah Lahorca, el joven músico de 13 años que encontró su pasión en el jazz y el swing 9 de agosto de 2026 La causa ingresará en una etapa decisiva con el debate oral programado para los días 21, 22 y 23 de septiembre."
+          "A poco más de un mes de la muerte de su hija Anita Peralta Rondanina, Andrea Rondanina continúa transformando el dolor en una causa colectiva. Su objetivo es lograr que la Ruta Provincial 88 sea convertida en autovía para reducir los riesgos y evitar nuevas tragedias. En diálogo con Jorge Gómez, en el programa Voces de la Tarde de Radio Noticias Necochea 97.3, destacó los avances de la campaña y el creciente respaldo que recibe de distintos sectores políticos, institucionales y sociales.",
+          "Uno de los pasos más importantes fue el encuentro realizado días atrás en la Facultad de Derecho de Mar del Plata, donde participaron legisladores bonaerenses, intendentes y concejales de los municipios atravesados por la Ruta 88. \"Se habló de unir fuerzas y conformar un foro\", explicó Rondanina, al señalar que la propuesta busca involucrar a Necochea, Lobería, General Alvarado y General Pueyrredón para impulsar un reclamo conjunto."
         ],
-        "generated": "2026-08-26T16:02:39.659438+00:00"
+        "generated": "2026-08-26T18:19:27.481786+00:00"
       }
     },
     {
-      "key": "cumplen 121 anos escuela 10 nacio habitacion cedida familia",
-      "title": "Se cumplen 121 años de la Escuela Nº10, que nació en una habitación cedida por una familia",
-      "score": 1.2,
+      "key": "asociaciones civiles llevaron senado preocupacion posible quita beneficio zona fria",
+      "title": "Las asociaciones civiles llevaron al Senado su preocupación por la posible quita del beneficio de zona fría",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-08-26T16:02:12.883066+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/efemerides-lobo-26-8-26.jpg",
+      "first_seen": "2026-08-26T18:18:57.489723+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/08/3da7b7da85fe07c3f28858a9583ce0cc5023fa5b.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Se cumplen 121 años de la Escuela Nº10, que nació en una habitación cedida por una familia",
-          "url": "https://diarionecochea.com/2026/08/26/se-cumplen-121-anos-de-la-escuela-no10-que-nacio-en-una-habitacion-cedida-por-una-familia/",
+          "portal": "Necochea Digital",
+          "title": "Las asociaciones civiles llevaron al Senado su preocupación por la posible quita del beneficio de zona fría",
+          "url": "https://necocheadigital.com/nota/119394/las-asociaciones-civiles-llevaron-al-senado-su-preocupacion-por-la-posible-quita-del-beneficio-de-zona-fria/",
           "published_at": null,
           "category": null,
           "image": null
@@ -121,24 +146,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "La institución inició su recorrido educativo el 26 de agosto de 1905 en el paraje La Soledad, donde una familia cedió una habitación para que funcionara la primera escuela. La Escuela Primaria Nº 10 “Dolores L. Rom” de Necochea cumple este miércoles 26 de agosto 121 años de trayectoria, una fecha que marca más de un siglo de presencia educativa y de vínculos con distintas generaciones de la comunidad.",
-          "La institución comenzó su historia en el paraje La Soledad, en una chacra donde una familia cedió una habitación para que funcionara la primera escuela. Con el paso de los años, aquella experiencia inicial dio lugar a una institución que continuó creciendo y acompañando el desarrollo de la ciudad ."
+          "La preocupación de las asociaciones civiles por el futuro del régimen de zona fría llegó este martes al Senado de la Nación. Representantes de distintas instituciones bonaerenses mantuvieron una reunión con la senadora nacional Juliana Di Tullio para expresar el fuerte impacto que tendría la eventual eliminación o modificación del beneficio sobre bibliotecas populares, clubes y otras organizaciones sociales.",
+          "Entre los participantes estuvo Alberto Franco, director del Centro Cultural-Biblioteca Popular Andrés Ferreyra de Necochea, quien integró la delegación que llevó el reclamo al Congreso. La iniciativa surgió a partir de instituciones de Tandil, entre ellas la Biblioteca Popular Sarmiento de Villa Italia, que impulsaron la recolección de firmas y documentación para presentar ante los legisladores nacionales."
         ],
-        "generated": "2026-08-26T16:02:41.053065+00:00"
+        "generated": "2026-08-26T18:19:28.788805+00:00"
       }
     },
     {
-      "key": "nuevo relevamiento busca medir deudas familias necochea quequen",
-      "title": "Un nuevo relevamiento busca medir las deudas de familias en Necochea y Quequén",
-      "score": 1.2,
+      "key": "cual endeudamiento hogareno necochea",
+      "title": "Cuál es el endeudamiento hogareño en Necochea",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-08-26T16:02:12.883066+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/centro-ciudad-necochea.jpg",
+      "first_seen": "2026-08-26T18:18:57.489723+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/08/384282ad41fea48349a16b2fd78ac77d51b3657d.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Un nuevo relevamiento busca medir las deudas de familias en Necochea y Quequén",
-          "url": "https://diarionecochea.com/2026/08/26/un-nuevo-relevamiento-busca-medir-cuanto-pesan-las-deudas-en-las-familias-de-necochea-y-quequen/",
+          "portal": "Necochea Digital",
+          "title": "Cuál es el endeudamiento hogareño en Necochea",
+          "url": "https://necocheadigital.com/nota/119393/cual-es-el-endeudamiento-hogareno-en-necochea/",
           "published_at": null,
           "category": null,
           "image": null
@@ -146,24 +171,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "La encuesta es anónima y apunta a conocer qué porcentaje del dinero mensual se destina a cuotas, qué gastos se reducen y qué formas de financiamiento utilizan los vecinos. El espacio NECOnomía puso en marcha un relevamiento para conocer con mayor detalle la situación financiera de los hogares de Necochea y Quequén .",
-          "La iniciativa busca reunir información sobre el nivel de endeudamiento de las familias, las formas de acceso al crédito y el impacto que tienen las obligaciones financieras sobre los ingresos cotidianos. Noticia relacionadas Se cumplen 121 años de la Escuela Nº10, que nació en una habitación cedida por una familia 26 de agosto de 2026 Cómo estará el clima este miércoles en Necochea y Quequén 26 de agosto de 2026 La encuesta apunta a determinar si los vecinos contrajeron deudas durante los últimos doce meses, mediante qué canales o entidades lo hicieron y cuál fue el destino del dinero."
+          "Con el objetivo de conocer la realidad económica local, el espacio de investigación y análisis NECOnomía puso en marcha una encuesta abierta a la comunidad para analizar cómo se financian las familias de Necochea y Quequén, a qué herramientas crediticias recurren y qué peso tienen las deudas sobre el presupuesto diario. El estudio aborda diversos aspectos del consumo y la financiación familiar, incluyendo: Toma de crédito: Si se contrataron deudas en los últimos 12 meses, mediante qué canales y con qué fines. Uso de tarjetas y pagos: Modalidades de uso de la tarjeta de crédito, recurrencia al pago mínimo y nivel de dificultad para afrontar los compromisos.",
+          "Impacto en el presupuesto: Porcentaje del ingreso destinado al pago de cuotas y la necesidad de recortar otros gastos para cumplir con las obligaciones. Expectativas a futuro: Proyección de las familias respecto a su situación financiera para los próximos 12 meses."
         ],
-        "generated": "2026-08-26T16:02:42.644210+00:00"
+        "generated": "2026-08-26T18:19:29.509231+00:00"
       }
     },
     {
-      "key": "lluvias frio seguiran marcando tiempo proximas jornadas",
-      "title": "Las lluvias y el frío seguirán marcando el tiempo durante las próximas jornadas",
-      "score": 1.2,
+      "key": "encontraron muerto max higgins empresario estafo pueblo promesa construir disney argentino",
+      "title": "Encontraron muerto a Max Higgins, el empresario que estafó a un pueblo con la promesa de construir un “Disney argentino”",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-08-26T16:02:12.883066+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/05/clima-nublado-playa-quequen.jpg",
+      "first_seen": "2026-08-26T18:18:57.489723+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/08/20260825183012_whatsapp-image-2026-08-25-at-18-29-57.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Las lluvias y el frío seguirán marcando el tiempo durante las próximas jornadas",
-          "url": "https://diarionecochea.com/2026/08/25/vientos-del-norte-y-lluvias-vespertinas-sacuden-a-necochea-y-quequen/",
+          "portal": "Necochea Digital",
+          "title": "Encontraron muerto a Max Higgins, el empresario que estafó a un pueblo con la promesa de construir un “Disney argentino”",
+          "url": "https://necocheadigital.com/nota/119392/encontraron-muerto-a-max-higgins-el-empresario-que-estafo-a-un-pueblo-con-la-promesa-de-construir-un-disney-argentino/",
           "published_at": null,
           "category": null,
           "image": null
@@ -171,24 +196,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "La noche de hoy trae viento fuerte y frío, el miércoles se vuelve lluvioso con tormentas aisladas, y el jueves promete una jornada más templada y despejada. Esta noche, bajo un cielo mayormente nublado, la zona costera de Necochea y Quequén se enfrenta a un viento del norte que sopla entre 23 y 31 km/h, con ráfagas que pueden superar los 50 km/h.",
-          "La temperatura ronda los 13°, lo que hace que la sensación térmica sea más fresca de lo que indica el termómetro. Se recomienda abrigarse bien, cerrar persianas y prestar atención a embarcaciones pequeñas que puedan verse afectadas por las ráfagas."
+          "Max Higgins , el empresario jamaiquino que a mediados de la década del 2000 llegó a la Argentina prometiendo inversiones millonarias y que se hizo conocido por anunciar la construcción de un supuesto “Disney argentino” en San Pedro , fue encontrado muerto en las últimas horas en la localidad de Libertad, partido de Merlo . El hombre fue hallado tendido en la vía pública y en posición fetal, sobre un colchón, en una zona cercana a una parada de colectivos. Un empleado de la Empresa 216 fue quien alertó a las autoridades después de encontrarlo inmóvil.",
+          "De acuerdo con las primeras actuaciones policiales, no se observaron signos visibles de violencia ni indicios de intervención de terceras personas. Una ambulancia constató el fallecimiento y, en principio, se consideró que podría tratarse de una muerte por causas naturales."
         ],
-        "generated": "2026-08-26T16:02:44.043024+00:00"
+        "generated": "2026-08-26T18:19:30.262453+00:00"
       }
     },
     {
-      "key": "docentes jubilados exponen gran expo jubilarte",
-      "title": "Docentes jubilados exponen en la Gran Expo JubilArte",
-      "score": 1.2,
+      "key": "fran maier vuelve jugar exhibicion necochea",
+      "title": "Fran Maier vuelve a jugar una exhibición en Necochea",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-08-26T16:02:12.883066+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/gran-expo-jubilarte-reune-en-el-centro-cultural-necochea-el-arte-de-docentes-jubilados.webp",
+      "first_seen": "2026-08-26T18:18:57.489723+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/08/205bf24169c091beaa853a63dd8e35be1a047037.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Docentes jubilados exponen en la Gran Expo JubilArte",
-          "url": "https://diarionecochea.com/2026/08/25/gran-expo-jubilarte-reune-en-el-centro-cultural-necochea-el-arte-de-docentes-jubilados/",
+          "portal": "Necochea Digital",
+          "title": "Fran Maier vuelve a jugar una exhibición en Necochea",
+          "url": "https://necocheadigital.com/nota/119391/fran-maier-vuelve-a-jugar-una-exhibicion-en-necochea/",
           "published_at": null,
           "category": null,
           "image": null
@@ -196,24 +221,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "Una propuesta reunirá durante dos tardes distintas expresiones artísticas y actividades abiertas al público en un espacio cultural de la ciudad . El Centro Cultural Necochea será sede de la Gran Expo JubilArte, una propuesta dedicada a mostrar el talento, la creatividad y las expresiones artísticas de docentes jubilados. La actividad se desarrollará durante este martes 25 y miércoles 26 de agosto, con entrada libre y gratuita.",
-          "Noticia relacionadas Se cumplen 121 años de la Escuela Nº10, que nació en una habitación cedida por una familia 26 de agosto de 2026 Un nuevo relevamiento busca medir las deudas de familias en Necochea y Quequén 26 de agosto de 2026 La exposición podrá visitarse ambos días de 16:00 a 19:00 en el Centro Cultural Necochea. El encuentro propone compartir distintas producciones realizadas por docentes jubilados y acercar al público a una variedad de disciplinas y manifestaciones artísticas."
+          "El pádel tendrá este jueves una nueva cita especial en Necochea con el regreso a las canchas locales de Francisco “Fran” Maier , uno de los jóvenes jugadores surgidos de la ciudad que actualmente desarrolla su carrera en el circuito profesional. Desde las 20 , el complejo Sanset será escenario de un partido exhibición que tendrá como protagonistas al propio Maier, Matías Leal y los hermanos Brian y Leo Codagnone . La propuesta será con entrada libre y gratuita , por lo que la organización invitó a los aficionados al pádel y al público en general a acercarse.",
+          "La jornada permitirá volver a ver en Necochea a Maier, quien atraviesa un momento de crecimiento en su carrera y llega a la ciudad después de consagrarse recientemente en un FIP Bronze disputado en Chile . De Necochea al circuito profesional Maier mantiene desde muy chico un vínculo con el pádel."
         ],
-        "generated": "2026-08-26T16:02:47.030208+00:00"
+        "generated": "2026-08-26T18:19:31.594979+00:00"
       }
     },
     {
-      "key": "detuvieron mujer pistola cargada amenazar otra persona calle 71",
-      "title": "Detuvieron a una mujer con una pistola cargada tras amenazar a otra persona en calle 71",
-      "score": 1.2,
+      "key": "cine independiente documental cancion mi tierra llega necochea",
+      "title": "Cine independiente: el documental “Una canción para mi tierra” llega a Necochea",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-08-26T16:02:12.883066+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/policiales-26-8-26.jpg",
+      "first_seen": "2026-08-26T18:18:57.489723+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/08/2761f033cb61ec5133fd973b55991930dcf2398f.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Detuvieron a una mujer con una pistola cargada tras amenazar a otra persona en calle 71",
-          "url": "https://diarionecochea.com/2026/08/26/detuvieron-a-una-mujer-con-una-pistola-cargada-tras-amenazar-a-otra-persona-en-calle-71/",
+          "portal": "Necochea Digital",
+          "title": "Cine independiente: el documental “Una canción para mi tierra” llega a Necochea",
+          "url": "https://necocheadigital.com/nota/119390/cine-independiente-el-documental-una-cancion-para-mi-tierra-llega-a-necochea/",
           "published_at": null,
           "category": null,
           "image": null
@@ -221,24 +246,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "Tras un llamado al 911, efectivos policiales llegaron al domicilio y separaron a dos personas que forcejeaban en el interior, para luego secuestrar un arma semiautomática que contaba con tres cartuchos intactos. Personal del Comando de Patrullas de Necochea intervino en un domicilio de calle 71 tras un llamado al sistema de emergencias 911 que alertaba sobre un conflicto entre dos mujeres.",
-          "Noticia relacionadas Detienen a un conductor que circulaba en un auto robado en General Pueyrredón 26 de agosto de 2026 Caso Loan: la jueza sobreseyó a los imputados y dijo que su desaparición \"no fue accidental\" 26 de agosto de 2026 Al arribar al lugar, los efectivos observaron a ambas involucradas forcejeando en el interior de la vivienda, logrando separarlas de inmediato para restablecer la situación."
+          "La proyección de “Una canción para mi tierra” se realizará el lunes 7 de septiembre a las 18 en Cines Ocean, como parte de una iniciativa impulsada por personas y organizaciones que buscan acercar el cine independiente a la ciudad y generar espacios de encuentro y reflexión. La película tiene como protagonistas a un maestro rural y sus alumnos, y encuentra en la música una herramienta para enfrentar una realidad atravesada por el avance de una problemática que afecta a su comunidad.",
+          "El documental recupera esa experiencia para mostrar cómo la expresión y la participación colectiva pueden convertirse en formas de resistencia. La historia también pone en discusión el cuidado de la casa común y la defensa de los territorios, a partir de las situaciones que atraviesan sus protagonistas."
         ],
-        "generated": "2026-08-26T16:02:48.560787+00:00"
+        "generated": "2026-08-26T18:19:32.321197+00:00"
       }
     },
     {
-      "key": "detienen conductor circulaba auto robado general pueyrredon",
-      "title": "Detienen a un conductor que circulaba en un auto robado en General Pueyrredón",
-      "score": 1.2,
+      "key": "preparacion integral maternidad miercoles completa segundo taller ano",
+      "title": "Preparación Integral para la Maternidad: este miércoles se completa el segundo taller del año",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-08-26T16:02:12.883066+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/policia-necochea-secuestra-auto-robado-detiene-con-j56ib-1.jpg",
+      "first_seen": "2026-08-26T18:18:57.489723+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/08/20260825121519_21abr-foto-maternidad.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Detienen a un conductor que circulaba en un auto robado en General Pueyrredón",
-          "url": "https://diarionecochea.com/2026/08/26/detienen-a-un-conductor-que-circulaba-en-un-auto-robado-en-general-pueyrredon/",
+          "portal": "Necochea Digital",
+          "title": "Preparación Integral para la Maternidad: este miércoles se completa el segundo taller del año",
+          "url": "https://necocheadigital.com/nota/119389/preparacion-integral-para-la-maternidad-este-miercoles-se-completa-el-segundo-taller-del-ano/",
           "published_at": null,
           "category": null,
           "image": null
@@ -246,24 +271,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "Los efectivos policiales observaron el vehículo sin chapa frontal en la Avenida 42, lo siguieron hasta la calle 44 e identificaron que registraba un pedido de secuestro por un delito anterior. En el marco de tareas preventivas desarrolladas por personal de la Comisaría Primera de Necochea, se logró esclarecer un hecho de encubrimiento y recuperar un automóvil que registraba un pedido de secuestro activo por robo.",
-          "Noticia relacionadas Detuvieron a una mujer con una pistola cargada tras amenazar a otra persona en calle 71 26 de agosto de 2026 Caso Loan: la jueza sobreseyó a los imputados y dijo que su desaparición \"no fue accidental\" 26 de agosto de 2026 El procedimiento se llevó a cabo en inmediaciones de Avenida 42 entre calles 71 y 73, donde efectivos policiales observaron un automóvil Peugeot 208 de color azul, que circulaba sin dominio colocado en su sector delantero."
+          "Este miércoles 26 de agosto se realizará la sexta y última charla del segundo Taller de Preparación Integral para la Maternidad del año, una propuesta recuperada en 2026 por la Secretaría de Salud de la Municipalidad de Necochea, a través de Atención Primaria y el Hospital Municipal “Dr. El espacio constituye un acompañamiento clave para las embarazadas que transitan las últimas etapas del embarazo y se preparan para el nacimiento, brindando herramientas, información y contención de manera totalmente gratuita. En esta última jornada se abordarán diferentes aspectos vinculados con el embarazo, la nutrición, el trabajo de parto, el acompañamiento emocional, los cuidados del recién nacido, la lactancia, el puerperio, la planificación familiar y el contacto nutritivo .",
+          "El encuentro será de 8 a 9 horas en el Hospital Modular del Hospital Municipal “Dr. Emilio Ferreyra”, ubicado en calles 59 y 102."
         ],
-        "generated": "2026-08-26T16:02:51.540725+00:00"
+        "generated": "2026-08-26T18:19:33.591192+00:00"
       }
     },
     {
-      "key": "caso loan jueza sobreseyo imputados dijo desaparicion no accidental",
-      "title": "Caso Loan: la jueza sobreseyó a los imputados y dijo que su desaparición \"no fue accidental\"",
-      "score": 1.2,
+      "key": "llega edicion modo emprender ciudad",
+      "title": "Llega la 2° edición de Modo Emprender en la ciudad",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-08-26T16:02:12.883066+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/gemini-ha-dicho-caso-loan-danilo-pena-sobreseimiento-definitivo-a-imputados-y-sigue-la-investigacion-1787709903330.jpg",
+      "first_seen": "2026-08-26T18:18:57.489723+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/08/93c04ff45b9af055ac6e05b64fd50975a604b217.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Caso Loan: la jueza sobreseyó a los imputados y dijo que su desaparición \"no fue accidental\"",
-          "url": "https://diarionecochea.com/2026/08/26/caso-loan-la-jueza-sobreseyo-a-los-imputados-y-dijo-que-su-desaparicion-no-fue-accidental/",
+          "portal": "Necochea Digital",
+          "title": "Llega la 2° edición de Modo Emprender en la ciudad",
+          "url": "https://necocheadigital.com/nota/119387/llega-la-2-deg-edicion-de-modo-emprender-en-la-ciudad/",
           "published_at": null,
           "category": null,
           "image": null
@@ -271,24 +296,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "La jueza federal de Goya sobreseyó a siete imputados por trata y abandono en la causa por la desaparición de Loan Danilo Peña, ocurrida en El Algarrobal, Corrientes, y confirmó que la investigación y el juicio oral por la sustracción. La jueza federal Cristina Pozzer Penzo dictó el sobreseimiento definitivo de siete imputados por trata de personas y abandono de persona, confirmando que la investigación por el paradero del niño continúa abierta.",
-          "La jueza federal de Goya, Cristina Pozzer Penzo, dictó una nueva resolución en la causa por la desaparición de Loan Danilo Peña, sobreseyendo definitivamente a siete imputados por los delitos de trata de personas y, en el caso de tres de ellos, también por abandono de persona."
+          "Después del éxito de su primera edición en 2025, Modo Emprender se prepara para volver con una propuesta renovada que busca reunir, visibilizar y potenciar el talento emprendedor de la ciudad. La cita será el 12 y 13 de septiembre en Sunset , en una doble jornada que llegará como una verdadera antesala de la primavera. La convocatoria para participar de la expo como emprendedor finaliza este viernes 28 de agosto , por lo que quienes todavía no se hayan sumado tienen los últimos días para hacerlo.",
+          "“Si tenés un emprendimiento, activá el Modo Emprender” es la invitación de la Dirección de Emprendimientos y Pymes, con el respaldo de la Secretaría de Turismo y Desarrollo Productivo. La primera edición, realizada el año pasado en el Centro Vasco, tuvo una gran respuesta y convirtió al espacio en un punto de encuentro para emprendedores, vecinos y oportunidades."
         ],
-        "generated": "2026-08-26T16:02:56.954825+00:00"
+        "generated": "2026-08-26T18:19:34.852418+00:00"
       }
     },
     {
-      "key": "dos trapitos fueron aprehendidos operativo uno tenia captura activa",
-      "title": "Dos “trapitos” fueron aprehendidos durante un operativo y uno tenía una captura activa",
-      "score": 1.2,
+      "key": "municipalidad lleva cabo plan arreglo mantenimiento caminos rurales",
+      "title": "La Municipalidad lleva a cabo un plan de arreglo y mantenimiento de los caminos rurales",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-08-26T16:02:12.883066+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/dos-trapitos-fueron-aprehendidos-durante-un-operativo-y-uno-tenia-una-captura-activa.webp",
+      "first_seen": "2026-08-26T18:18:57.489723+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/08/20260825120822_25-08-foto-emsur-rural.png",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Dos “trapitos” fueron aprehendidos durante un operativo y uno tenía una captura activa",
-          "url": "https://diarionecochea.com/2026/08/25/dos-trapitos-fueron-aprehendidos-durante-un-operativo-y-uno-tenia-una-captura-activa/",
+          "portal": "Necochea Digital",
+          "title": "La Municipalidad lleva a cabo un plan de arreglo y mantenimiento de los caminos rurales",
+          "url": "https://necocheadigital.com/nota/119386/la-municipalidad-lleva-a-cabo-un-plan-de-arreglo-y-mantenimiento-de-los-caminos-rurales/",
           "published_at": null,
           "category": null,
           "image": null
@@ -296,24 +321,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "El procedimiento se realizó en distintos puntos de la ciudad y derivó en actuaciones por una infracción contravencional, mientras la Policía detectó además un requerimiento judicial vigente. En el marco de un operativo de saturación y prevención desarrollado en distintos puntos de la ciudad, personal policial del Comandode Patrullas Necochea, intervino ante la presencia de personas que se encontraban realizando actividades conocidas como “trapitos” en la vía pública.",
-          "Noticia relacionadas Detuvieron a una mujer con una pistola cargada tras amenazar a otra persona en calle 71 26 de agosto de 2026 Detienen a un conductor que circulaba en un auto robado en General Pueyrredón 26 de agosto de 2026 Como resultado del procedimiento, dos personas fueron aprehendidas por infracción a la Ley 8031, correspondiente al régimen contravencional provincial."
+          "Las tareas se llevan adelante en un contexto climático particularmente exigente. En lo que va de 2026, el registro anual de lluvias alcanza un acumulado de 691 milímetros, generando cortes, deterioros y dificultades en distintos sectores de la amplia red vial rural. Frente a esta situación, la gestión municipal sostiene una labor permanente sobre los caminos, priorizando los puntos que requieren intervenciones para recuperar sus condiciones de circulación.",
+          "Durante agosto, se realizó el arreglo de un corte en el Camino Provincial 076-02, en la bajada del kilómetro 31 de la Ruta Nacional 228 hacia Ramón Santamarina. También se intervino el Camino Municipal 214, donde se trabajó sobre un corte para recuperar la transitabilidad."
         ],
-        "generated": "2026-08-26T16:03:00.023957+00:00"
+        "generated": "2026-08-26T18:19:35.603959+00:00"
       }
     },
     {
-      "key": "policia rural san cayetano detuvo hombre captura activa oriundo rio negro",
-      "title": "La policía rural de San Cayetano detuvo a un hombre con captura activa oriundo de Río Negro",
-      "score": 1.2,
+      "key": "puerto ciudad amplia red territorial prevencion traves campeones saludables",
+      "title": "Puerto Ciudad amplía su red territorial de prevención a través de Campeones Saludables",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-08-26T16:02:12.883066+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/cpr-san-cayetano-detiene-hombre-rio-negro-captura-edmk0-1.jpg",
+      "first_seen": "2026-08-26T18:18:57.489723+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/08/20260825121406_whatsapp-image-2026-08-24-at-20-03-38.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "La policía rural de San Cayetano detuvo a un hombre con captura activa oriundo de Río Negro",
-          "url": "https://diarionecochea.com/2026/08/25/cpr-san-cayetano-detuvo-a-un-hombre-de-rio-negro-con-captura-activa-en-la-ruta-228/",
+          "portal": "Necochea Digital",
+          "title": "Puerto Ciudad amplía su red territorial de prevención a través de Campeones Saludables",
+          "url": "https://necocheadigital.com/nota/119388/puerto-ciudad-amplia-su-red-territorial-de-prevencion-a-traves-de-campeones-saludables/",
           "published_at": null,
           "category": null,
           "image": null
@@ -321,24 +346,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "Los operativos se realizaron en varios puntos del partido, incluyendo autos, camiones, transporte de animales de hacienda. En la fecha, personal del Comando de Prevención Rural de San Cayetano, en el marco de los Operativos de Prevención que se desarrollaron en distintos sectores del partido, procedió a la aprehensión de un hombre, oriundo de la Provincia de Río Negro, quien registró una captura activa por el delito de evasión, la cual requirió el Juzgado de Garantías N.º 3 del Departamento Judicial de Bahía Blanca.",
-          "Noticia relacionadas Detuvieron a una mujer con una pistola cargada tras amenazar a otra persona en calle 71 26 de agosto de 2026 Detienen a un conductor que circulaba en un auto robado en General Pueyrredón 26 de agosto de 2026 El procedimiento se realizó en inmediaciones de la Ruta Provincial 228, kilómetro 104, y camino Ochandio, jurisdicción de este medio, donde también se labraron Inf a Ley 24449 y Inf."
+          "El programa Campeones Saludables , dependiente de Puerto Ciudad , continúa ampliando su trabajo territorial junto a la Liga de Fútbol de Necochea y los clubes que la integran, con el objetivo de acercar acciones de prevención y generar información sobre el estado de salud de niños y adolescentes que participan de las categorías infantiles e inferiores. Luego de una primera etapa desarrollada semanas atrás, en la que fueron relevados alrededor de 400 chicos, esta nueva instancia alcanzó a otros 370 niños y adolescentes pertenecientes a Gimnasia, Mataderos y Rivadavia .",
+          "Durante los controles se recopilaron datos vinculados con distintos aspectos de la salud. Entre los principales resultados de esta segunda etapa, se detectó que el 25 por ciento de los participantes presentó problemas dentales ."
         ],
-        "generated": "2026-08-26T16:03:03.545950+00:00"
+        "generated": "2026-08-26T18:19:36.888961+00:00"
       }
     },
     {
-      "key": "destituyeron juez federal mar plata comentarios antisemitas bibel asumio funcion temporal",
-      "title": "Destituyeron al juez federal de Mar del Plata por comentarios antisemitas y Bibel asumió una función temporal",
-      "score": 1.2,
+      "key": "concejo deliberante busca alternativas evitar necochea quede transporte publico",
+      "title": "El Concejo Deliberante busca alternativas para evitar que Necochea se quede sin transporte público",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-08-26T16:02:12.883066+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/destituyeron-al-juez-federal-de-mar-del-plata-por-comentarios-antisemitas-y-bibel-asumio-u.webp",
+      "first_seen": "2026-08-26T18:18:57.489723+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/08/20260825084231_17-03-foto-micros-azules-3.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Destituyeron al juez federal de Mar del Plata por comentarios antisemitas y Bibel asumió una función temporal",
-          "url": "https://diarionecochea.com/2026/08/25/destituyeron-al-juez-federal-de-mar-del-plata-por-comentarios-antisemitas-y-bibel-asumio-una-funcion-temporal/",
+          "portal": "Necochea Digital",
+          "title": "El Concejo Deliberante busca alternativas para evitar que Necochea se quede sin transporte público",
+          "url": "https://necocheadigital.com/nota/119383/el-concejo-deliberante-busca-alternativas-para-evitar-que-necochea-se-quede-sin-transporte-publico/",
           "published_at": null,
           "category": null,
           "image": null
@@ -346,24 +371,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "El magistrado de Necochea continúa al frente del juzgado local y, tras la salida de Alfredo López, comenzó a cumplir nuevas tareas en la Justicia Federal marplatense. Alfredo López fue removido del Juzgado Federal N.º 4 tras un juicio político.",
-          "El juez federal de Necochea Bernardo Bibel comenzó a cumplir una función temporal en Mar del Plata , mientras continúa al frente del tribunal de nuestra ciudad . Noticia relacionadas Detuvieron a una mujer con una pistola cargada tras amenazar a otra persona en calle 71 26 de agosto de 2026 Detienen a un conductor que circulaba en un auto robado en General Pueyrredón 26 de agosto de 2026 El juez federal Alfredo López fue destituido este martes 18 de agosto por un Jurado de Enjuiciamiento de Magistrados, que resolvió removerlo del cargo por mal desempeño de sus funciones a raíz de una serie de publicaciones realizadas en redes sociales."
+          "La situación del transporte público de pasajeros en Necochea atraviesa un momento crítico. Luego de que dos llamados a licitación quedaran desiertos, el Concejo Deliberante comenzó a analizar distintas alternativas para evitar que la ciudad se quede sin servicio cuando finalice la actual prórroga de la concesión, prevista para los primeros días de octubre.",
+          "El tema fue abordado por Julián Kristiansen, presidente del bloque Fuerza Patria – Movimiento Derecho al Futuro y titular de la comisión de Transporte del Concejo Deliberante, durante una entrevista en Voces de la Tarde , el programa que conduce Jorge Gómez por Radio Noticias Necochea 97.3. El concejal explicó que la comisión analizó un proyecto de su bloque para declarar la emergencia del transporte, aunque consideró que una medida de ese tipo requiere un análisis profundo y que, antes de avanzar, es necesario conocer por qué ninguna empresa se presentó a la licitación."
         ],
-        "generated": "2026-08-26T16:03:06.288115+00:00"
+        "generated": "2026-08-26T18:19:37.620816+00:00"
       }
     },
     {
-      "key": "fuerte cruce gobierno tierra fuego llegada petrolero britanico ushuaia",
-      "title": "Fuerte cruce entre el Gobierno y Tierra del Fuego por la llegada de un petrolero británico a Ushuaia",
-      "score": 1.2,
+      "key": "detuvieron necochea joven 19 anos causa abuso sexual",
+      "title": "Detuvieron en Necochea a un joven de 19 años por una causa de abuso sexual",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-08-26T16:02:12.883066+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/el-buque-britanico-vs-promise-reavivo-el-conflicto-entre-nacion-y-tierra-del-fuego-por-el-puerto-de-ushuaia.jpg",
+      "first_seen": "2026-08-26T18:18:57.489723+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/08/20423590ec6bc397e054ce834605b405f03a9164.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Fuerte cruce entre el Gobierno y Tierra del Fuego por la llegada de un petrolero británico a Ushuaia",
-          "url": "https://diarionecochea.com/2026/08/25/fuerte-cruce-entre-el-gobierno-y-tierra-del-fuego-por-la-llegada-de-un-petrolero-britanico-en-ushuaia/",
+          "portal": "Necochea Digital",
+          "title": "Detuvieron en Necochea a un joven de 19 años por una causa de abuso sexual",
+          "url": "https://necocheadigital.com/nota/119384/detuvieron-en-necochea-a-un-joven-de-19-anos-por-una-causa-de-abuso-sexual/",
           "published_at": null,
           "category": null,
           "image": null
@@ -371,24 +396,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "La embarcación operó bajo el registro de la Isla de Man y desató reclamos de la administración provincial, que aprovechó la oportunidad para exigir la restitución de la terminal marítima intervenida desde enero. El ingreso del buque petrolero VS Promise al puerto de Ushuaia desató un nuevo conflicto entre el Gobierno nacional y la administración de Tierra del Fuego.",
-          "La embarcación, de bandera de la Isla de Man —dependencia de la Corona británica— y 228,60 metros de eslora, ingresó el 24 de agosto de 2026 y permaneció allí unas 14 horas antes de continuar viaje. Este movimiento motivó a legisladores a exigir explicaciones detalladas sobre las autoridades que habilitaron la operación portuaria y los controles realizados."
+          "Un joven de 19 años fue detenido en la ciudad de Necochea en el marco de una causa por abuso sexual, durante un procedimiento llevado adelante por personal del Gabinete Técnico Operativo de la Comisaría Primera. La detención se concretó en la vía pública, donde los efectivos policiales identificaron al imputado y dieron cumplimiento a una orden de detención vigente, dispuesta por el Juzgado de Garantías N.º 1 del Departamento Judicial de Necochea.",
+          "Tras el operativo, el joven fue trasladado a la dependencia policial correspondiente, donde quedó alojado a disposición de la Justicia. La investigación continúa bajo la intervención de las autoridades judiciales competentes, mientras avanzan las actuaciones en la causa por abuso sexual."
         ],
-        "generated": "2026-08-26T16:03:07.612575+00:00"
+        "generated": "2026-08-26T18:19:38.334370+00:00"
       }
     },
     {
-      "key": "nino cobra fuerza estima 90 probabilidades evento muy fuerte",
-      "title": "El Niño cobra fuerza: se estima \"más de un 90% de probabilidades de un evento muy fuerte\"",
-      "score": 1.2,
+      "key": "amenazo muerte pareja cuchillo detenido enfrentarse policia",
+      "title": "Amenazó de muerte a su pareja con un cuchillo y fue detenido tras enfrentarse con la Policía",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-08-26T16:02:12.883066+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/destacada-tormenta.jpg",
+      "first_seen": "2026-08-26T18:18:57.489723+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/08/29bc679ae5d7845ffb56bafad7a086c0aac9be26.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "El Niño cobra fuerza: se estima \"más de un 90% de probabilidades de un evento muy fuerte\"",
-          "url": "https://diarionecochea.com/2026/08/25/el-nino-se-fortalece-hay-mas-de-90-de-probabilidad-de-un-evento-muy-fuerte-hacia-fines-de-2026/",
+          "portal": "Necochea Digital",
+          "title": "Amenazó de muerte a su pareja con un cuchillo y fue detenido tras enfrentarse con la Policía",
+          "url": "https://necocheadigital.com/nota/119377/amenazo-de-muerte-a-su-pareja-con-un-cuchillo-y-fue-detenido-tras-enfrentarse-con-la-policia/",
           "published_at": null,
           "category": null,
           "image": null
@@ -396,24 +421,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "Los pronósticos internacionales muestran una señal cálida muy marcada en el Pacífico y las estimaciones locales anticipan más lluvias, riesgos hídricos y dificultades para la actividad agropecuaria. El fenómeno de El Niño ya está activo y los pronósticos recientes anticiparon cambios importantes en las lluvias y las temperaturas durante los próximos meses.",
-          "La señal más destacada apareció en el océano Pacífico, donde los registros y las proyecciones mostraron una intensificación del episodio y elevaron la posibilidad de que alcance una magnitud muy fuerte hacia fines de 2026. La NOAA indicó que el fenómeno se fortalece y que existe una probabilidad superior al 90% de que presente una intensidad muy fuerte durante el otoño e invierno boreales de 2026-2027, mientras que otro cálculo ubicó en 69% la posibilidad de un evento histórico entre octubre y diciembre."
+          "Personal del Comando de Patrullas Necochea intervino durante la jornada del miércoles ante un episodio de violencia de género ocurrido en un domicilio ubicado en calle 99 , donde un joven de 23 años fue aprehendido luego de amenazar de muerte a su pareja y protagonizar un enfrentamiento con los efectivos policiales. La intervención se inició a partir de un llamado que alertó sobre la situación.",
+          "Al arribar al lugar, los agentes se entrevistaron con un hombre, quien manifestó que la pareja de una joven se había presentado en el domicilio y la había retirado mediante agresiones, insultos y amenazas. Posteriormente, la damnificada relató ante los efectivos que mientras se encontraba trabajando se hizo presente su pareja, quien la retiró del lugar por la fuerza y continuó profiriéndole amenazas e insultos."
         ],
-        "generated": "2026-08-26T16:03:08.963973+00:00"
+        "generated": "2026-08-26T18:19:39.033324+00:00"
       }
     },
     {
-      "key": "gobierno adjudico ocho corredores rutas nacionales privados 20 anos",
-      "title": "El Gobierno adjudicó ocho corredores de rutas nacionales a privados por 20 años",
-      "score": 1.2,
+      "key": "concejo postergo emergencia transporte convocara ejecutivo empresa local",
+      "title": "El Concejo postergó la emergencia en transporte y convocará al Ejecutivo y a la empresa local",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-08-26T16:02:12.883066+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/07/ruta228-curva-cono.jpeg",
+      "first_seen": "2026-08-26T18:18:57.489723+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/08/20260824180230_01-02-foto-colectivos-festival.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "El Gobierno adjudicó ocho corredores de rutas nacionales a privados por 20 años",
-          "url": "https://diarionecochea.com/2026/08/24/el-gobierno-adjudico-ocho-corredores-de-rutas-nacionales-a-privados-por-20-anos/",
+          "portal": "Necochea Digital",
+          "title": "El Concejo postergó la emergencia en transporte y convocará al Ejecutivo y a la empresa local",
+          "url": "https://necocheadigital.com/nota/119380/el-concejo-postergo-la-emergencia-en-transporte-y-convocara-al-ejecutivo-y-a-la-empresa-local/",
           "published_at": null,
           "category": null,
           "image": null
@@ -421,24 +446,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "La medida oficializada este lunes abarca peajes que se actualizarán mediante índices oficiales y cobrarán las tarifas una vez que los caminos aseguren condiciones óptimas de circulación, bajo el estricto control de Vialidad Nacional. El Gobierno nacional oficializó este lunes la entrega de ocho corredores viales a operadores privados por un plazo de 20 años, una medida enmarcada en la Etapa III de la Red Federal de Concesiones.",
-          "Mediante la Resolución 1379/2026, firmada por el ministro de Economía, Luis Caputo, se adjudicaron 3.920,21 kilómetros de rutas nacionales que atraviesan 11 provincias argentinas."
+          "El Concejo Deliberante de Necochea no tratará en la sesión de este miércoles el proyecto de emergencia en el transporte público , luego de la reunión de la Comisión de Transporte con representantes de la Unión Tranviaria Automotor (UTA) . La iniciativa de Fuerza Patria , que contemplaba una prórroga por 120 días para Transporte Necochea mientras el Departamento Ejecutivo avanzaba en una solución, quedó momentáneamente fuera del tratamiento.",
+          "La decisión se produjo en medio de la preocupación existente por la continuidad del servicio, luego de que el segundo llamado a licitación para el transporte público de pasajeros volviera a quedar desierto . Ante este escenario, la Comisión de Transporte resolvió profundizar durante esta semana el análisis de las distintas alternativas y convocar a los sectores involucrados."
         ],
-        "generated": "2026-08-26T16:03:10.371358+00:00"
+        "generated": "2026-08-26T18:19:39.737867+00:00"
       }
     },
     {
-      "key": "super gripe marco record pais 790 mil casos ano",
-      "title": "La “súper gripe” marcó un récord en el país, con más de 790 mil casos en el año",
-      "score": 1.2,
+      "key": "buena respuesta comunidad paso nueva jornada castracion gratuita",
+      "title": "Con una buena respuesta de la comunidad pasó una nueva jornada de castración gratuita",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-08-26T16:02:12.883066+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/gripe-destacada.jpg",
+      "first_seen": "2026-08-26T18:18:57.489723+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/08/20260824112959_24-08-foto-jornada-castracion-escuela-6.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "La “súper gripe” marcó un récord en el país, con más de 790 mil casos en el año",
-          "url": "https://diarionecochea.com/2026/08/23/la-super-gripe-marco-un-record-en-argentina-mas-de-790-mil-casos-en-2026/",
+          "portal": "Necochea Digital",
+          "title": "Con una buena respuesta de la comunidad pasó una nueva jornada de castración gratuita",
+          "url": "https://necocheadigital.com/nota/119375/con-una-buena-respuesta-de-la-comunidad-paso-una-nueva-jornada-de-castracion-gratuita/",
           "published_at": null,
           "category": null,
           "image": null
@@ -446,24 +471,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "Argentina registró 790.523 casos de influenza en las primeras 30 semanas de 2026, por encima de los máximos recientes, con predominio del subclado K de A(H3N2). La temporada de influenza de 2026 alcanzó en Argentina el mayor registro de la última década: hasta la semana epidemiológica 30 se notificaron 790.523 casos. La cifra superó los 788.328 contabilizados durante el mismo período de 2025, que hasta entonces constituían el máximo de la serie reciente.",
-          "En 2024, el acumulado a esa altura del año había sido de 779.592 infecciones. Noticia relacionadas Fuerte cruce entre el Gobierno y Tierra del Fuego por la llegada de un petrolero británico a Ushuaia 25 de agosto de 2026 El Niño cobra fuerza: se estima \"más de un 90% de probabilidades de un evento muy fuerte\" 26 de agosto de 2026 El aumento de las detecciones comenzó en la semana epidemiológica 10 y el máximo de circulación se produjo entre las semanas 21 y 22."
+          "La Municipalidad de Necochea, a través de la Dirección de Bromatología e Higiene, realizó el pasado sábado una nueva jornada de castración masiva y gratuita de mascotas, esta vez en la Escuela Primaria N° 6 “General José de San Martín”. El operativo se desarrolló de manera itinerante con el quirófano móvil y contó con una muy buena respuesta de la comunidad. En total, fueron intervenidas 58 mascotas, entre perros y gatos.",
+          "En esta oportunidad, la jornada acompañó el proyecto PATAS (Protegiendo Animales Tercer Año Somos), impulsado por los alumnos de tercer grado de la institución junto a su docente Lorena. La actividad forma parte de las acciones que sostiene el Estado municipal para promover y fortalecer la tenencia responsable de mascotas. El operativo estuvo a cargo de la Dirección de Bromatología e Higiene, dependiente de la Secretaría de Salud."
         ],
-        "generated": "2026-08-26T16:03:11.695465+00:00"
+        "generated": "2026-08-26T18:19:40.428399+00:00"
       }
     },
     {
-      "key": "fiscalia bolivia acusa fernando cerimedo planificar ataque nadia beller pide detencion preventiva",
-      "title": "La Fiscalía de Bolivia acusa a Fernando Cerimedo de planificar el ataque contra Nadia Beller y pide su detención preventiva",
-      "score": 1.2,
+      "key": "tc trucco gano parana castellano quedo etapa regular turismo carretera",
+      "title": "TC: Trucco ganó en Paraná y Castellano se quedó con la Etapa Regular del Turismo Carretera",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-08-26T16:02:12.883066+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/la-fiscalia-de-bolivia-acusa-a-fernando-cerimedo-de-planificar-el-ataque-contra-nadia-beller-y-pide-su-detencion-preventiva.jpg",
+      "first_seen": "2026-08-26T18:18:57.489723+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/08/08665cf78e419d9012b16f1c2844e6325ae1d54b.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "La Fiscalía de Bolivia acusa a Fernando Cerimedo de planificar el ataque contra Nadia Beller y pide su detención preventiva",
-          "url": "https://diarionecochea.com/2026/08/21/la-fiscalia-de-bolivia-acusa-a-fernando-cerimedo-de-planificar-el-ataque-contra-nadia-beller-y-pide-su-detencion-preventiva/",
+          "portal": "Necochea Digital",
+          "title": "TC: Trucco ganó en Paraná y Castellano se quedó con la Etapa Regular del Turismo Carretera",
+          "url": "https://necocheadigital.com/nota/119374/tc-trucco-gano-en-parana-y-castellano-se-quedo-con-la-etapa-regular-del-turismo-carretera/",
           "published_at": null,
           "category": null,
           "image": null
@@ -471,24 +496,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "La investigación por tentativa de feminicidio reconstruye una secuencia de presiones, custodios que no intervinieron y un supuesto vínculo previo con los atacantes. La Fiscalía Departamental de Santa Cruz acusó formalmente al consultor político argentino Fernando Gabriel Cerimedo como presunto autor intelectual del intento de femicidio contra Nadia Shirley Beller Delgadillo.",
-          "La mujer fue atacada a tiros por dos hombres en motocicleta el 17 de agosto de 2026, en Santa Cruz de la Sierra, y recibió una incapacidad médica de 30 días tras sufrir tres disparos. El acusado fue aprehendido un día después en el aeropuerto de Viru Viru y la Justicia solicitó 180 días de detención preventiva en el Penal de Palmasola, ante los riesgos de fuga y de obstaculización."
+          "Juan Martín Trucco se quedó con la Final de la décima fecha del campeonato de Turismo Carretera , disputada en el autódromo de Paraná , en el marco del “Gran Premio Mercedes-Benz Camiones y Buses”. A bordo de un Dodge Challenger del DBG Motorsport , el piloto de Tres Algarrobos consiguió su segunda victoria en la categoría. Trucco dominó la competencia de principio a fin. Luego de haber conseguido la “pole position” y de ganar la serie más rápida, lideró toda la Final para quedarse con el triunfo.",
+          "Nicolás Bonelli , con Ford Mustang, terminó segundo, mientras que Marco Dianda , también con Ford Mustang, completó el podio. El resultado significó además el regreso de Dodge al triunfo en el Turismo Carretera después de 15 carreras sin victorias. Castellano ganó la Etapa Regular El loberense Jonatan Castellano , con Dodge Challenger, se quedó con la Etapa Regular del campeonato y sumó 15 puntos de bonificación para la Copa de Oro."
         ],
-        "generated": "2026-08-26T16:03:13.053741+00:00"
+        "generated": "2026-08-26T18:19:41.140106+00:00"
       }
     },
     {
-      "key": "firme reclamo casi 300 dias incumplimiento ley financiamiento universitario",
-      "title": "Firme reclamo por casi 300 días de incumplimiento de la ley de financiamiento universitario",
-      "score": 1.2,
+      "key": "lnf villa diaz velez sigue arriba estacion quequen perdio invicto fecha 14",
+      "title": "LNF: Villa Díaz Vélez sigue arriba y Estación Quequén perdió el invicto en la fecha 14",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-08-26T16:02:12.883066+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/firme-reclamo-universitario-por-casi-300-dias-de-incumplimiento-de-la-ley-de-financiamient.webp",
+      "first_seen": "2026-08-26T18:18:57.489723+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/08/20260824111851_whatsapp-image-2026-08-24-at-11-18-37.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Firme reclamo por casi 300 días de incumplimiento de la ley de financiamiento universitario",
-          "url": "https://diarionecochea.com/2026/08/20/firme-reclamo-por-casi-300-dias-de-incumplimiento-de-la-ley-de-financiamiento-universitario/",
+          "portal": "Necochea Digital",
+          "title": "LNF: Villa Díaz Vélez sigue arriba y Estación Quequén perdió el invicto en la fecha 14",
+          "url": "https://necocheadigital.com/nota/119373/lnf-villa-diaz-velez-sigue-arriba-y-estacion-quequen-perdio-el-invicto-en-la-fecha-14/",
           "published_at": null,
           "category": null,
           "image": null
@@ -496,24 +521,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "La Universidad Nacional del Sur mantiene sus proyectos de investigación y reclama previsibilidad presupuestaria mientras sigue la discusión por el cumplimiento de la Ley 27.795. La Ley 27.795 estableció medidas para sostener el financiamiento de la educación universitaria pública, con actualizaciones para gastos de funcionamiento, salarios de docentes y no docentes y becas estudiantiles.",
-          "También contempló una partida especial para regularizar ingresos a la carrera de Investigador Científico y otorgar becas para ingresantes y posdoctorales. El Poder Ejecutivo había observado íntegramente la norma mediante el Decreto 647/2025, del 10 de septiembre de 2025, pero el Congreso confirmó la sanción con dos tercios de los votos en ambas cámaras y la ley fue promulgada mediante el Decreto 759/2025, del 20 de octubre de 2025."
+          "La Liga Necochea de Fútbol completó la fecha 14 del Torneo “Sergio ‘Giuseppe’ Portugal” de Primera división masculino , con ocho encuentros correspondientes a una nueva jornada de duelos interzonales. La principal novedad de la jornada fue la derrota de Estación Quequén , que cayó 1-0 frente a Independiente de San Cayetano en el Estadio Juan B. Marlats y dejó de ser el único equipo invicto del campeonato. Lautaro Lastra , a los 10 minutos, convirtió el único gol del partido para el conjunto de San Cayetano.",
+          "En la otra zona, Villa Díaz Vélez volvió a sumar de a tres y extendió su racha victoriosa. El líder derrotó 1-0 a Defensores de Puerto Quequén en el Estadio Jorge Iparraguirre, con un gol de Fernando Montes , de penal, a los 24 minutos. Con este resultado, Villa Díaz Vélez llegó a 34 puntos y continúa encabezando la Zona B , mientras que Independiente de San Cayetano alcanzó las 30 unidades y quedó como escolta."
         ],
-        "generated": "2026-08-26T16:03:14.357154+00:00"
+        "generated": "2026-08-26T18:19:41.869338+00:00"
       }
     },
     {
-      "key": "murio florencia hija lucas sugo 23 anos",
-      "title": "Murió Florencia, la hija de Lucas Sugo, a los 23 años",
-      "score": 1.2,
+      "key": "calle quequen podria llevar nombre geronimo momo venegas",
+      "title": "Una calle de Quequén podría llevar el nombre de Gerónimo \"Momo\" Venegas",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-08-26T16:02:12.883066+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/murio-florencia-la-hija-de-lucas-sugo-a-los-23-anos.webp",
+      "first_seen": "2026-08-26T18:18:57.489723+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/08/559cd8d191f82d875f1e1f6f6238475ed4c71456.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Murió Florencia, la hija de Lucas Sugo, a los 23 años",
-          "url": "https://diarionecochea.com/2026/08/20/murio-florencia-la-hija-de-lucas-sugo-a-los-23-anos/",
+          "portal": "Necochea Digital",
+          "title": "Una calle de Quequén podría llevar el nombre de Gerónimo \"Momo\" Venegas",
+          "url": "https://necocheadigital.com/nota/119372/una-calle-de-quequen-podria-llevar-el-nombre-de-geronimo-momo-venegas/",
           "published_at": null,
           "category": null,
           "image": null
@@ -521,24 +546,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "Noticia relacionadas Fuerte cruce entre el Gobierno y Tierra del Fuego por la llegada de un petrolero británico a Ushuaia 25 de agosto de 2026 El Niño cobra fuerza: se estima \"más de un 90% de probabilidades de un evento muy fuerte\" 26 de agosto de 2026 El entorno del cantante pidió respeto y privacidad a la familia y anunció la suspensión de sus conciertos programados en Argentina. Miles de seguidores y artistas rindieron homenaje en redes, acompañando al músico en este momento de profundo dolor.",
-          "La joven enfrentó durante más de un año una enfermedad oncológica y recibió diversos tratamientos en Uruguay y en el exterior. El entorno del cantante confirmó la triste noticia el miércoles y solicitó respeto para la familia."
+          "La calle 528 de Quequén podría pasar a llamarse Gerónimo \"Momo\" Venegas , si prospera un proyecto de ordenanza que ya comenzó a ser tratado en el Concejo Deliberante de Necochea y que, según pudo saber este medio, contaría con el respaldo mayoritario de los distintos bloques políticos. La iniciativa surgió a partir de un pedido presentado por el vecino Álvaro Asorey , acompañado por un petitorio con decenas de firmas, y propone reconocer la trayectoria política, social y gremial del histórico dirigente nacido en Necochea.",
+          "El artículo primero del proyecto establece: \"Desígnese a la calle 528 de la localidad de Quequén, en toda su traza, como Gerónimo 'Momo' Venegas\" . Además, se prevé que el Departamento Ejecutivo coloque la correspondiente señalización en la intersección con la calle 519, donde funciona la Seccional Nº 10 de la UATRE, lugar estrechamente vinculado con los comienzos de su actividad gremial."
         ],
-        "generated": "2026-08-26T16:03:15.825856+00:00"
+        "generated": "2026-08-26T18:19:42.833088+00:00"
       }
     },
     {
-      "key": "juicio loan cuatro policias aportaran detalles busqueda primeras medidas caso",
-      "title": "Juicio por Loan: cuatro policías aportarán detalles sobre la búsqueda y las primeras medidas del caso",
-      "score": 1.2,
+      "key": "dos aprehendidos dos vehiculos secuestrados operativo acceso quequen",
+      "title": "Dos aprehendidos y dos vehículos secuestrados durante un operativo en el acceso a Quequén",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-08-26T16:02:12.883066+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/juicio-por-loan-cuatro-policias-aportaran-detalles-sobre-la-busqueda-y-las-primeras-medidas-del-caso.jpg",
+      "first_seen": "2026-08-26T18:18:57.489723+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/08/20260820174248_whatsapp-image-2026-08-20-at-17-42-33.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Juicio por Loan: cuatro policías aportarán detalles sobre la búsqueda y las primeras medidas del caso",
-          "url": "https://diarionecochea.com/2026/08/19/juicio-por-loan-cuatro-policias-aportaran-detalles-sobre-la-busqueda-y-las-primeras-medidas-del-caso/",
+          "portal": "Necochea Digital",
+          "title": "Dos aprehendidos y dos vehículos secuestrados durante un operativo en el acceso a Quequén",
+          "url": "https://necocheadigital.com/nota/119352/dos-aprehendidos-y-dos-vehiculos-secuestrados-durante-un-operativo-en-el-acceso-a-quequen/",
           "published_at": null,
           "category": null,
           "image": null
@@ -546,24 +571,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "El debate por la desaparición de Loan Danilo Peña continúa este miércoles en Corrientes con testimonios vinculados a los primeros procedimientos de búsqueda y a las medidas tomadas sobre el entorno de algunos acusados. El juicio por la desaparición de Loan Danilo Peña continuará este miércoles en la ciudad de Corrientes con la declaración de cuatro policías que participaron de los rastrillajes y de distintas tareas de investigación realizadas luego de que el niño fuera visto por última vez, el 13 de junio de 2024.",
-          "Los testimonios fueron solicitados por el fiscal federal Carlos Schaefer y buscarán reconstruir los primeros procedimientos de búsqueda y las medidas adoptadas sobre el entorno de algunos de los acusados. El cuarto citado es Gabriel Arnaldo Pinolli, quien participó de los rastrillajes y realizó tareas de consigna en el Hotel Despertar del Iberá y en el domicilio de Camila, una de las primas de Loan."
+          "Dos hombres fueron aprehendidos durante un operativo de identificación y prevención vehicular realizado por efectivos del Destacamento Vial Quequén , dependiente del Departamento de Zona Operativa Vial II Mar del Plata. Los procedimientos se llevaron a cabo durante la noche del miércoles en inmediaciones de la Ruta Provincial 88 y el acceso a Quequén , en cumplimiento de las órdenes de servicio vigentes. En uno de los controles, los efectivos interceptaron una Peugeot Partner .",
+          "Durante la requisa se halló un cigarrillo semi combustionado de marihuana , por lo que el conductor fue aprehendido. Posteriormente, al consultar la situación del vehículo mediante el sistema informático, se constató que sobre el rodado pesaba una prohibición de circular , por lo que también fue secuestrado. Minutos después, los agentes interceptaron un Renault Clio ."
         ],
-        "generated": "2026-08-26T16:03:17.908523+00:00"
+        "generated": "2026-08-26T18:19:43.550657+00:00"
       }
     },
     {
-      "key": "argentina registra nacimientos crecen dificultades formar familia",
-      "title": "Argentina registra menos nacimientos y crecen las dificultades para formar una familia",
-      "score": 1.2,
+      "key": "detectan secuestran necochea camioneta pedido secuestro activo",
+      "title": "Detectan y secuestran en Necochea una camioneta con pedido de secuestro activo",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-08-26T16:02:12.883066+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/baja-natalidad-en-argentina-57-no-alcanza-la-cantidad-de-hijos-que-desearia-por-las-barreras-economicas-y-sociales.jpg",
+      "first_seen": "2026-08-26T18:18:57.489723+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/08/20260821165219_whatsapp-image-2026-08-21-at-16-52-07.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Argentina registra menos nacimientos y crecen las dificultades para formar una familia",
-          "url": "https://diarionecochea.com/2026/08/18/argentina-registra-menos-nacimientos-y-crecen-las-dificultades-para-formar-una-familia/",
+          "portal": "Necochea Digital",
+          "title": "Detectan y secuestran en Necochea una camioneta con pedido de secuestro activo",
+          "url": "https://necocheadigital.com/nota/119362/detectan-y-secuestran-en-necochea-una-camioneta-con-pedido-de-secuestro-activo/",
           "published_at": null,
           "category": null,
           "image": null
@@ -571,24 +596,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "La investigación detectó que los problemas económicos, el acceso a la vivienda y las tareas de cuidado aparecen entre los principales obstáculos para cumplir los proyectos familiares. La tasa global de fecundidad en Argentina cayó a 1,2 hijos por mujer, muy por debajo de los 2,1 considerados necesarios para el reemplazo poblacional. Una investigación de UNFPA y Voices!",
-          "señaló que la baja natalidad no se explica solamente por una menor intención de tener hijos, sino también por las dificultades para concretar los proyectos familiares. Noticia relacionadas Fuerte cruce entre el Gobierno y Tierra del Fuego por la llegada de un petrolero británico a Ushuaia 25 de agosto de 2026 El Niño cobra fuerza: se estima \"más de un 90% de probabilidades de un evento muy fuerte\" 26 de agosto de 2026 El estudio indicó que el 57% de las personas de entre 18 y 45 años todavía no alcanzó la cantidad de hijos que desearía."
+          "Durante un operativo de prevención, personal del Comando de Patrullas Necochea intervino ante la presencia de una camioneta que registraba un pedido de secuestro activo solicitado por la Justicia. El procedimiento se inició a partir de un requerimiento policial en la zona de Avenida 75 y calle 30 . Al arribar al lugar, los efectivos identificaron una Ford Ranger y realizaron la correspondiente consulta informática sobre el rodado.",
+          "Tras la verificación, los agentes constataron que sobre la camioneta pesaba un pedido de secuestro vigente , por lo que procedieron a la aprehensión del conductor y al secuestro preventivo del vehículo . Ambos fueron trasladados a la dependencia policial correspondiente. Una vez informado el procedimiento, tomó intervención la Fiscalía interviniente , que avaló las actuaciones realizadas y dispuso la notificación de la formación de la causa ."
         ],
-        "generated": "2026-08-26T16:03:20.202504+00:00"
+        "generated": "2026-08-26T18:19:44.267879+00:00"
       }
     },
     {
-      "key": "adolfo gonzales chaves festeja 110 anos historia gran desfile fogones",
-      "title": "Adolfo Gonzales Chaves festeja 110 años de historia con un gran desfile y fogones",
-      "score": 1.2,
+      "key": "robaron dos capillas necochea piden colaboracion continuar actividades",
+      "title": "Robaron en dos capillas de Necochea y piden colaboración para continuar con las actividades",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-08-26T16:02:12.883066+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/adolfo-gonzales-chaves-cumple-110-anos-la-historia-del-partido-bonaerense-creado-en-1916-1787435807855.jpg",
+      "first_seen": "2026-08-26T18:18:57.489723+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/08/caed1a925ebc765fae103c24f83d8eee4162a332.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Adolfo Gonzales Chaves festeja 110 años de historia con un gran desfile y fogones",
-          "url": "https://diarionecochea.com/2026/08/22/adolfo-gonzales-chaves-cumple-110-anos-la-historia-del-partido-bonaerense-creado-en-1916/",
+          "portal": "Necochea Digital",
+          "title": "Robaron en dos capillas de Necochea y piden colaboración para continuar con las actividades",
+          "url": "https://necocheadigital.com/nota/119350/robaron-en-dos-capillas-de-necochea-y-piden-colaboracion-para-continuar-con-las-actividades/",
           "published_at": null,
           "category": null,
           "image": null
@@ -596,24 +621,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "El partido bonaerense, con más de 12 mil habitantes y una superficie de 3.859,2 km², celebra su 110.º aniversario con actividades culturales y un acto protocolar, bajo la gestión de la intendenta Lucía Gómez. El distrito fue creado el 22 de agosto de 1916 por el gobernador Marcelino Ugarte. El partido bonaerense de Adolfo Gonzales Chaves celebra este año un aniversario muy especial, conmemorando más de un siglo desde su creación oficial.",
-          "Este distrito, que tiene sus raíces en la fundación de un pueblo alrededor de una estación ferroviaria a fines del siglo XIX, ha experimentado a lo largo del tiempo importantes transformaciones territoriales y administrativas. Actualmente, con una población que supera los 12 mil habitantes y una superficie considerable, el partido mantiene una activa vida institucional y cultural."
+          "Dos capillas de Necochea fueron víctimas de robos en los últimos días. Se trata de la Capilla Jesús Buen Pastor y Ceferino Namuncurá , ubicada en calle 69 N° 3954, en el barrio Los Naranjos, y de la Capilla San Pablo , situada en calle 88 N° 1565, en el barrio Los Álamos. Los hechos generaron preocupación entre las comunidades religiosas y las personas que participan de las actividades que se desarrollan en ambos espacios, debido a que varios de los elementos sustraídos son utilizados diariamente para brindar asistencia a vecinos que atraviesan distintas necesidades.",
+          "En el caso de la Capilla Jesús Buen Pastor , el robo habría ocurrido durante el período comprendido entre el viernes pasado y este miércoles. Los delincuentes dañaron un ventiluz ubicado en la parte trasera del inmueble y lograron ingresar al edificio."
         ],
-        "generated": "2026-08-26T16:03:21.502560+00:00"
+        "generated": "2026-08-26T18:19:44.992387+00:00"
       }
     },
     {
-      "key": "polemica pinamar circuito motocross playa",
-      "title": "Polémica en Pinamar por circuito de motocross sobre la playa",
-      "score": 1.2,
+      "key": "reconocen dos policias necochea detener acusado homicidio cuando intentaba escapar",
+      "title": "Reconocen a dos policías de Necochea por detener al acusado de un homicidio cuando intentaba escapar",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-08-26T16:02:12.883066+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/polemica-en-pinamar-por-circuito-de-motocross-sobre-la-playa-1787317020527.jpg",
+      "first_seen": "2026-08-26T18:18:57.489723+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/08/df44cf78e342daca93e2cc56dde460f7c3255da5.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Polémica en Pinamar por circuito de motocross sobre la playa",
-          "url": "https://diarionecochea.com/2026/08/21/polemica-en-pinamar-por-circuito-de-motocross-sobre-la-playa/",
+          "portal": "Necochea Digital",
+          "title": "Reconocen a dos policías de Necochea por detener al acusado de un homicidio cuando intentaba escapar",
+          "url": "https://necocheadigital.com/nota/119325/reconocen-a-dos-policias-de-necochea-por-detener-al-acusado-de-un-homicidio-cuando-intentaba-escapar/",
           "published_at": null,
           "category": null,
           "image": null
@@ -621,24 +646,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "El armado del circuito del Enduro del Invierno genera cuestionamientos ambientales mientras el Concejo Deliberante avaló el evento por mayoría. La construcción de un circuito de motocross sobre la playa pública de Pinamar generó un conflicto entre organizaciones ambientalistas, vecinos y autoridades municipales.",
-          "El trazado será utilizado para el Enduro del Invierno, previsto para el 29 y 30 de agosto, con una participación informada de 350 pilotos de motos y cuatriciclos. Noticia relacionadas Adolfo Gonzales Chaves festeja 110 años de historia con un gran desfile y fogones 22 de agosto de 2026 San Cayetano recicló 78.000 kilos de Residuos Sólidos Urbanos en lo que va del año 20 de agosto de 2026 El sector autorizado comprende la playa ubicada entre los balnearios El Pájaro y Rada Beach, en paralelo a la Avenida del Mar y con calles transversales involucradas."
+          "La Superintendencia de Seguridad Atlántica III, la Estación Departamental de Policía de Seguridad Necochea y el Comando de Patrullas Necochea destacaron públicamente el accionar de dos efectivos policiales que fueron claves para la detención del presunto autor de un homicidio ocurrido en la localidad de Quequén. El reconocimiento fue otorgado a los sargentos Christopher Contreras y Franco Maydana , quienes, según informaron las autoridades policiales, actuaron con rapidez y profesionalismo ante un hecho de extrema gravedad.",
+          "El episodio ocurrió en una vivienda ubicada en calle 548 Nº 1053 de Quequén , dentro de la jurisdicción de la Comisaría Segunda de Necochea y con intervención de la Unidad Funcional de Instrucción Nº 3 del Departamento Judicial Necochea . La víctima fue identificada como Delia Mercedes Romero de Sánchez , de 86 años , mientras que el imputado en la causa es Jorge Daniel Sánchez ."
         ],
-        "generated": "2026-08-26T16:03:22.820565+00:00"
+        "generated": "2026-08-26T18:19:45.701725+00:00"
       }
     },
     {
-      "key": "san cayetano reciclo 78 000 kilos residuos solidos urbanos va ano",
-      "title": "San Cayetano recicló 78.000 kilos de Residuos Sólidos Urbanos en lo que va del año",
-      "score": 1.2,
+      "key": "cuatro accidentes heridos fuga transito necochense volvio quedar evidencia",
+      "title": "Cuatro accidentes, heridos y una fuga: el tránsito necochense volvió a quedar en evidencia",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-08-26T16:02:12.883066+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/reciclaje-san-cayetano-1.jpg",
+      "first_seen": "2026-08-26T18:18:57.489723+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/08/20260819114435_whatsapp-image-2026-08-19-at-11-44-21.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "San Cayetano recicló 78.000 kilos de Residuos Sólidos Urbanos en lo que va del año",
-          "url": "https://diarionecochea.com/2026/08/20/san-cayetano-reciclo-78-000-kilos-de-residuos-solidos-urbanos-en-lo-que-va-del-ano/",
+          "portal": "Necochea Digital",
+          "title": "Cuatro accidentes, heridos y una fuga: el tránsito necochense volvió a quedar en evidencia",
+          "url": "https://necocheadigital.com/nota/119336/cuatro-accidentes-heridos-y-una-fuga-el-transito-necochense-volvio-a-quedar-en-evidencia/",
           "published_at": null,
           "category": null,
           "image": null
@@ -646,24 +671,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "La municipalidad estableció un calendario de recolección diferenciada: residuos orgánicos lunes, miércoles y viernes; secos martes y jueves. Así la planta gana eficiencia y los materiales pueden reincorporarse al proceso productivo. Desde la Planta de Tratamiento de Residuos Sólidos Urbanos de la Municipalidad de San Cayetano, queremos destacar que la separación en origen comienza en casa.",
-          "Cuando clasificás tus residuos, permitís que el trabajo en la planta sea mucho más eficiente y que podamos aprovechar materiales que antes terminaban en la basura. Noticia relacionadas Adolfo Gonzales Chaves festeja 110 años de historia con un gran desfile y fogones 22 de agosto de 2026 Polémica en Pinamar por circuito de motocross sobre la playa 21 de agosto de 2026 Gracias al esfuerzo de todos, durante los primeros seis meses de 2026 recuperamos más de 78 mil kilogramos de residuos reciclables."
+          "Necochea volvió a atravesar una jornada marcada por los accidentes de tránsito y por distintas situaciones que exponen las dificultades que existen a la hora de circular por las calles de la ciudad. En apenas unas horas se registraron varios choques en diferentes puntos, con cuatro motociclistas lesionados que debieron ser trasladados al Hospital Municipal para recibir atención médica. Los episodios tuvieron como protagonistas principalmente a motocicletas y camionetas, aunque también se produjo una colisión entre dos motos.",
+          "Más allá de los daños materiales y las lesiones ocasionadas, uno de los hechos volvió a dejar en evidencia una conducta especialmente preocupante: el abandono del lugar después de un accidente. Uno de los choques más fuertes ocurrió alrededor de las 21.15 en la intersección de avenida 59 y calle 56, a metros de la comuna."
         ],
-        "generated": "2026-08-26T16:03:24.178068+00:00"
+        "generated": "2026-08-26T18:19:46.407861+00:00"
       }
     },
     {
-      "key": "consejo escolar san cayetano convoca licitacion transporte alumnos urbanos rurales",
-      "title": "Consejo Escolar de San Cayetano convoca licitación de transporte para alumnos urbanos y rurales",
-      "score": 1.2,
+      "key": "escandalo quequen abogado porteno atrinchero dos horas camioneta hacer peligrosas maniobras",
+      "title": "Escándalo en Quequén: abogado porteño se atrincheró dos horas en una camioneta tras hacer peligrosas maniobras",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-08-26T16:02:12.883066+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/consejo-escolar-convoca-licitacion-transporte-terr-9bjp1-1.jpg",
+      "first_seen": "2026-08-26T18:18:57.489723+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/08/d37a76c87b7694e8aa86a25d5410aafb13cb8bb0.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Consejo Escolar de San Cayetano convoca licitación de transporte para alumnos urbanos y rurales",
-          "url": "https://diarionecochea.com/2026/08/19/consejo-escolar-de-san-cayetano-convoca-licitacion-de-transporte-para-alumnos-urbanos-y-rurales/",
+          "portal": "Necochea Digital",
+          "title": "Escándalo en Quequén: abogado porteño se atrincheró dos horas en una camioneta tras hacer peligrosas maniobras",
+          "url": "https://necocheadigital.com/nota/119321/escandalo-en-quequen-abogado-porteno-se-atrinchero-dos-horas-en-una-camioneta-tras-hacer-peligrosas-maniobras/",
           "published_at": null,
           "category": null,
           "image": null
@@ -671,35 +696,10 @@
       ],
       "summary": {
         "paragraphs": [
-          "El Consejo Escolar abrió la convocatoria para contratar el servicio de transporte terrestre de alumnos urbanos y rurales para el ciclo lectivo 2026, con consultas y pliegos disponibles en su sede y sitio web, y la apertura de propuestas prevista. Consejo Escolar invita a participar de la contratación del servicio de transporte terrestre de alumnos (ida y vuelta), para el traslado de alumnos de todos los niveles correspondiente a las áreas urbana y rural, para el ciclo lectivo 2026.",
-          "Noticia relacionadas El apeadero ferroviario de Quequén que nació tras el cierre definitivo de la estación 26 de agosto de 2026 Buscan a una joven que desapareció tras ser vista en la Plaza Hipólito Irigoyen en Quequén 24 de agosto de 2026 Los interesados podrán consultar recorridos y obtener el Pliego de Bases y Condiciones en sede del Consejo Escolar o en su sitio Web https://consejoescolarsc2.webnode.page/novedades/."
+          "Un verdadero escándalo se vivió en Quequén cuando cuatro personas provenientes de la ciudad de Buenos Aires permanecieron durante más de dos horas atrincheradas dentro de una camioneta Ford Raptor , luego de ser interceptadas por personal de Tránsito Municipal tras reiteradas denuncias de vecinos por realizar picadas y maniobras peligrosas. El procedimiento tuvo lugar sobre la avenida 502 , donde, según los testimonios de los vecinos, la camioneta venía protagonizando desde hacía cuatro días aceleraciones, derrapes y otras maniobras imprudentes que ponían en riesgo a peatones y automovilistas.",
+          "Cansados de la situación, los residentes dieron aviso al 147 , lo que motivó la intervención de inspectores de Tránsito, quienes lograron localizar el vehículo e intentaron identificar a sus ocupantes. Sin embargo, lejos de colaborar, los cuatro ocupantes —tres hombres y una mujer— se negaron a descender de la camioneta ."
         ],
-        "generated": "2026-08-26T16:03:25.565606+00:00"
-      }
-    },
-    {
-      "key": "adoptaron cachorro abandonado familia pasar meses refugio",
-      "title": "Adoptaron a un cachorro abandonado por su familia tras pasar 9 meses en un refugio",
-      "score": 1.2,
-      "sources_count": 1,
-      "first_seen": "2026-08-26T16:02:12.883066+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/despues-de-9-meses-en-el-refugio-un-cachorro-rescatado-encontro-una-nueva-familia.webp",
-      "articles": [
-        {
-          "portal": "Diario Necochea",
-          "title": "Adoptaron a un cachorro abandonado por su familia tras pasar 9 meses en un refugio",
-          "url": "https://diarionecochea.com/2026/08/19/adoptaron-a-un-cachorro-que-fue-abandonado-por-su-familia-y-paso-nueve-meses-en-un-refugio/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El animal encontró una nueva familia, adoptado por Milea, la vecina le brindó un hogar definitivo. La adopción de animales rescatados es una acción que refleja compromiso y solidaridad hacia los seres que han sufrido abandono. En este contexto, un perro que permaneció durante nueve meses en la guardería canina de San Cayetano tras haber sido abandonado junto a su familia, finalmente encontró un hogar definitivo gracias a la decisión de una vecina.",
-          "Noticia relacionadas Adolfo Gonzales Chaves festeja 110 años de historia con un gran desfile y fogones 22 de agosto de 2026 Polémica en Pinamar por circuito de motocross sobre la playa 21 de agosto de 2026 Las buenas noticias siempre dan gusto contarlas: después de nueve meses esperando en la guardería canina, un perrito finalmente encontró su lugar en el mundo. Fue adoptado por Milea, una vecina que decidió abrirle las puertas de su casa y darle el hogar que tanto merecía."
-        ],
-        "generated": "2026-08-26T16:03:26.911863+00:00"
+        "generated": "2026-08-26T18:19:47.106788+00:00"
       }
     }
   ]
