@@ -1,10 +1,49 @@
 {
-  "generated_at": "2026-08-29T01:53:22.169423+00:00",
-  "article_count": 115,
-  "fetch_errors": [
-    "Necochea Digital: 403 Client Error: Forbidden for url: https://r.jina.ai/https://necocheadigital.com"
-  ],
+  "generated_at": "2026-08-29T08:53:38.754195+00:00",
+  "article_count": 175,
+  "fetch_errors": [],
   "stories": [
+    {
+      "key": "puerto quequen destaco articulacion publico privada afrontar desafios sector agropecuario",
+      "title": "Puerto Quequén destacó la articulación público-privada para afrontar los desafíos del sector agropecuario",
+      "score": 4.95,
+      "sources_count": 3,
+      "first_seen": "2026-08-28T20:09:46+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-28-at-15.58.02.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Puerto Quequén destacó la articulación público-privada para afrontar los desafíos del sector agropecuario",
+          "url": "https://tsnnecochea.com.ar/campo/puerto-quequen-destaco-la-articulacion-publico-privada-para-afrontar-los-desafios-del-sector-agropecuario-235556/",
+          "published_at": "2026-08-28T20:09:46+00:00",
+          "category": "acopiadores",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-28-at-15.58.02.webp"
+        },
+        {
+          "portal": "Necochea Digital",
+          "title": "Puerto Quequén destacó la articulación público-privada para afrontar los desafíos del sector agropecuario",
+          "url": "https://necocheadigital.com/nota/119422/puerto-quequen-destaco-la-articulacion-publico-privada-para-afrontar-los-desafios-del-sector-agropecuario/",
+          "published_at": null,
+          "category": null,
+          "image": null
+        },
+        {
+          "portal": "Necochea News",
+          "title": "Puerto Quequén destacó la articulación público-privada para afrontar los desafíos del sector agropecuario",
+          "url": "https://necocheanews.com.ar/puerto-quequen-destaco-la-articulacion-publico-privada-para-afrontar-los-desafios-del-sector-agropecuario/",
+          "published_at": "2026-08-28T21:35:42+00:00",
+          "category": "LOCALES",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Campo | acopiadores | Producción Puerto Quequén destacó la articulación público-privada para afrontar los desafíos del sector agropecuario El titular del Consorcio participó en una jornada sobre maíz, girasol y soja Por Redacción TSN 28/08/2026 · 05:09 PM Agregar TSN Necochea en Mariano Carrillo, presidente del Consorcio de Gestión de Puerto Quequén, participó de la jornada sobre maíz, girasol y soja desarrollada en el auditorio del Centro de Acopiadores de Cereales, encuentro que reunió a representantes del sector productivo, acopiadores, especialistas y organismos técnicos.",
+          "La actividad, organizada con el acompañamiento del Instituto Nacional de Tecnología Agropecuaria (INTA) , tuvo como eje los desafíos que plantea la actual campaña agrícola, atravesada por condiciones climáticas particulares y por la necesidad de adaptar las estrategias productivas."
+        ],
+        "generated": "2026-08-29T08:53:50.417141+00:00"
+      }
+    },
     {
       "key": "accidente fatal dulce murio motociclista chocar camion",
       "title": "Accidente fatal en La Dulce: murió un motociclista tras chocar con un camión",
@@ -35,40 +74,106 @@
           "El episodio ocurrió en la tarde de este viernes. Personal de emergencia trabaja en el lugar para establecer cómo se desarrolló el accidente. Un accidente fatal se registró en las últimas horas en la localidad de La Dulce, en un hecho que involucró a un camión y una motocicleta, de acuerdo con las primeras informaciones conocidas hasta el momento.",
           "Noticia relacionadas Se conoció la identidad del motociclista que murió en el fatal accidente en La Dulce 28 de agosto de 2026 Dos aprehendidos por intentar robar una moto con un arma blanca 28 de agosto de 2026 Como consecuencia del impacto entre ambos vehículos, el conductor de la motocicleta perdió la vida. La víctima falleció a raíz de las consecuencias del choque. Tras el accidente, efectivos de la Policía se hicieron presentes en el lugar para intervenir en el procedimiento correspondiente y llevar adelante las actuaciones iniciales vinculadas con el hecho."
         ],
-        "generated": "2026-08-29T01:54:32.389889+00:00"
+        "generated": "2026-08-29T08:53:53.362163+00:00"
       }
     },
     {
-      "key": "puerto quequen destaco articulacion publico privada afrontar desafios sector agropecuario",
-      "title": "Puerto Quequén destacó la articulación público-privada para afrontar los desafíos del sector agropecuario",
-      "score": 1.923,
+      "key": "septiembre sera sorteo martillero tendra cargo subasta teatro auditorium",
+      "title": "El 4 de septiembre será el sorteo del martillero que tendrá a cargo la subasta del teatro Auditórium",
+      "score": 2.625,
       "sources_count": 2,
-      "first_seen": "2026-08-28T20:09:46+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-28-at-15.58.02.webp",
+      "first_seen": "2026-08-28T21:10:24+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/08/20260828162605_foto-sorteo-martillero-municipio.jpg",
       "articles": [
         {
-          "portal": "TSN Necochea",
-          "title": "Puerto Quequén destacó la articulación público-privada para afrontar los desafíos del sector agropecuario",
-          "url": "https://tsnnecochea.com.ar/campo/puerto-quequen-destaco-la-articulacion-publico-privada-para-afrontar-los-desafios-del-sector-agropecuario-235556/",
-          "published_at": "2026-08-28T20:09:46+00:00",
-          "category": "acopiadores",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-28-at-15.58.02.webp"
+          "portal": "Necochea Digital",
+          "title": "El 4 de septiembre será el sorteo del martillero que tendrá a cargo la subasta del teatro Auditórium",
+          "url": "https://necocheadigital.com/nota/119423/el-4-de-septiembre-sera-el-sorteo-del-martillero-que-tendra-a-cargo-la-subasta-del-teatro-auditorium/",
+          "published_at": null,
+          "category": null,
+          "image": null
         },
         {
           "portal": "Necochea News",
-          "title": "Puerto Quequén destacó la articulación público-privada para afrontar los desafíos del sector agropecuario",
-          "url": "https://necocheanews.com.ar/puerto-quequen-destaco-la-articulacion-publico-privada-para-afrontar-los-desafios-del-sector-agropecuario/",
-          "published_at": "2026-08-28T21:35:42+00:00",
+          "title": "El 4 de septiembre sortearán al martillero que tendrá a cargo la subasta del Teatro Auditórium del Casino",
+          "url": "https://necocheanews.com.ar/el-4-de-septiembre-sortearan-al-martillero-que-tendra-a-cargo-la-subasta-del-teatro-auditorium-del-casino/",
+          "published_at": "2026-08-28T21:10:24+00:00",
           "category": "LOCALES",
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Campo | acopiadores | Producción Puerto Quequén destacó la articulación público-privada para afrontar los desafíos del sector agropecuario El titular del Consorcio participó en una jornada sobre maíz, girasol y soja Por Redacción TSN 28/08/2026 · 05:09 PM Agregar TSN Necochea en Mariano Carrillo, presidente del Consorcio de Gestión de Puerto Quequén, participó de la jornada sobre maíz, girasol y soja desarrollada en el auditorio del Centro de Acopiadores de Cereales, encuentro que reunió a representantes del sector productivo, acopiadores, especialistas y organismos técnicos.",
-          "La actividad, organizada con el acompañamiento del Instituto Nacional de Tecnología Agropecuaria (INTA) , tuvo como eje los desafíos que plantea la actual campaña agrícola, atravesada por condiciones climáticas particulares y por la necesidad de adaptar las estrategias productivas."
+          "El acto se desarrollará en audiencia pública, en el Salón de Actos “Dr. Taraborelli” , ubicado en el segundo piso del Palacio Municipal, calle 56 Nº 2945. La convocatoria se realiza en el marco de lo establecido por los artículos 4º y 20º de la Ordenanza Nº 12.009/25, que dispone que el profesional interviniente en la subasta deba ser designado mediante sorteo público.",
+          "El procedimiento contará con la presencia de representantes del Colegio de Martilleros y Corredores Públicos del Departamento Judicial de Necochea y estará abierto a quienes deseen participar. De acuerdo con la documentación remitida por el Colegio, 21 martilleros y corredores públicos se inscribieron para participar del sorteo. Los profesionales fueron ordenados según la antigüedad de su matrícula y se les asignó un número correlativo, conforme a lo previsto por la normativa."
         ],
-        "generated": "2026-08-29T01:54:34.568429+00:00"
+        "generated": "2026-08-29T08:53:54.949013+00:00"
+      }
+    },
+    {
+      "key": "luciano badie asumio como nuevo presidente circulo periodistas deportivos necochea",
+      "title": "Luciano Badie asumió como nuevo presidente del Círculo de Periodistas Deportivos de Necochea",
+      "score": 2.625,
+      "sources_count": 2,
+      "first_seen": "2026-08-27T15:31:00+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/08/20260827182039_whatsapp-image-2026-08-27-at-18-20-26.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Luciano Badie asumió como nuevo presidente del Círculo de Periodistas Deportivos de Necochea",
+          "url": "https://necocheadigital.com/nota/119414/luciano-badie-asumio-como-nuevo-presidente-del-circulo-de-periodistas-deportivos-de-necochea/",
+          "published_at": null,
+          "category": null,
+          "image": null
+        },
+        {
+          "portal": "Noticias de Necochea",
+          "title": "Luciano Badie es el nuevo presidente del Círculo de Periodistas Deportivos de Necochea",
+          "url": "https://nden.com.ar/nota/37871/luciano-badie-es-el-nuevo-presidente-del-circulo-de-periodistas-deportivos-de-necochea",
+          "published_at": "2026-08-27T15:31:00+00:00",
+          "category": null,
+          "image": "http://nden.com.ar/uploads/noticias/5/2026/08/20260827123422_whatsapp-image-2026-08-27-at-12-34-04-pm.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El Círculo de Periodistas Deportivos de Necochea renovó sus autoridades y comenzó una nueva etapa institucional con Luciano César Badie como presidente para el período 2026-2028. La designación se concretó durante la Asamblea General Ordinaria de la Asociación Civil, realizada en las instalaciones del Apart del Club Del Valle. Durante el encuentro se presentó la nueva comisión directiva y se llevó adelante el tratamiento del balance económico de la institución, que fue aprobado por unanimidad de los socios presentes.",
+          "La asamblea contó además con la participación de Santiago Veiga , presidente de la Federación Argentina de Periodistas Deportivos (FAPED) y vicepresidente Sur de AIPS América (Asociación Internacional de la Prensa Deportiva) . Veiga felicitó a Badie por su designación y agradeció la labor desarrollada por Agustín Betancor , quien dejó la presidencia de la entidad."
+        ],
+        "generated": "2026-08-29T08:53:56.163078+00:00"
+      }
+    },
+    {
+      "key": "300 personas participaron jornada ambiental puerto ciudad escuela 50",
+      "title": "Más de 300 personas participaron de una jornada ambiental de Puerto Ciudad en la Escuela Nº 50",
+      "score": 2.625,
+      "sources_count": 2,
+      "first_seen": "2026-08-26T16:45:53+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/08/20260826171536_whatsapp-image-2026-08-26-at-10-46-55.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Más de 300 personas participaron de una jornada ambiental de Puerto Ciudad en la Escuela Nº 50",
+          "url": "https://necocheadigital.com/nota/119400/mas-de-300-personas-participaron-de-una-jornada-ambiental-de-puerto-ciudad-en-la-escuela-n-50/",
+          "published_at": null,
+          "category": null,
+          "image": null
+        },
+        {
+          "portal": "Necochea News",
+          "title": "Más de 300 personas participaron de una jornada ambiental de Puerto Ciudad en la Escuela Nº 50",
+          "url": "https://necocheanews.com.ar/mas-de-300-personas-participaron-de-una-jornada-ambiental-de-puerto-ciudad-en-la-escuela-no-50/",
+          "published_at": "2026-08-26T16:45:53+00:00",
+          "category": "LOCALES",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Lo que comenzó en junio alrededor de una mesa de trabajo terminó este 25 de agosto con cientos de manos en la tierra. En la Escuela Primaria Nº 50 “Alfonsina Storni”, Puerto Ciudad, dirigido por el Lic. Luis Pedone, bajo la gestión del Dr. Mariano Carrillo Presidente del Consorcio del Pueto de Quequén, desarrolló a través de su subprograma Forestación Inclusiva una jornada de forestación y educación ambiental para fortalecer el proyecto institucional “Cultivando sueños”.",
+          "La intervención fue parte de un proceso. En junio, el equipo de Puerto Ciudad, la directora Natalia Menna y los docentes acordaron objetivos y recursos. En julio se instalaron cinco canteros de madera con el sustrato necesario."
+        ],
+        "generated": "2026-08-29T08:53:57.555859+00:00"
       }
     },
     {
@@ -76,7 +181,7 @@
       "title": "Licitaron una obra de $251 millones para reparar calles con asfalto en caliente",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-29T01:53:22.169423+00:00",
+      "first_seen": "2026-08-29T08:53:38.754195+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/apertura-sobres-obra-bacheo-251-millones-necochea-63mfo-1.jpg",
       "articles": [
         {
@@ -93,7 +198,7 @@
           "La licitación contempla una inversión oficial de $251 millones para ejecutar trabajos con asfalto en caliente en distintos sectores de Necochea.",
           "Tal como había sido anunciado, este jueves se realizó en la Secretaría de Planeamiento, Obras y Servicios Públicos de la Municipalidad de Necochea la apertura de sobres correspondiente a la primera licitación pública financiada con recursos del Fondo de Emergencia y Fortalecimiento de la Inversión Municipal (FEFIM), destinado desde el gobierno provincial a obras en Necochea y Quequén ."
         ],
-        "generated": "2026-08-29T01:54:35.990483+00:00"
+        "generated": "2026-08-29T08:53:59.032024+00:00"
       }
     },
     {
@@ -101,7 +206,7 @@
       "title": "Se agotaron las entradas para ver el documental sobre Magalí Vera",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-29T01:53:22.169423+00:00",
+      "first_seen": "2026-08-29T08:53:38.754195+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/magali-vera-placa.jpg",
       "articles": [
         {
@@ -118,7 +223,7 @@
           "La proyección del filme quedó habilitada tras un fallo que rechazó frenar su difusión y ordenó proteger la identidad de su hijo menor, antes de la función gratuita que recibirá donaciones de alimentos. El Teatro Municipal Luis Sandrini confirmó de manera exclusiva a Diario Necochea que se agotaron las localidades para la función de este viernes de “El Sueño de Magalí”, la película documental que reconstruye la vida de Magalí Vera.",
           "La proyección está prevista para las 19:00 en la sala situada en calle 54 Nº 3080, donde el público que retiró sus entradas gratuitas en la boletería entre las 9:00 y las 15:00 también podrá colaborar acercando alimentos no perecederos que se destinarán a merenderos y comedores del distrito."
         ],
-        "generated": "2026-08-29T01:54:37.398022+00:00"
+        "generated": "2026-08-29T08:54:00.429161+00:00"
       }
     },
     {
@@ -126,7 +231,7 @@
       "title": "La empresa Vía Rosario presentó su intención de hacerse cargo de las líneas urbanas",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-29T01:53:22.169423+00:00",
+      "first_seen": "2026-08-29T08:53:38.754195+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/04/colectivo-avenida2.jpg",
       "articles": [
         {
@@ -143,7 +248,7 @@
           "Las novedades surgieron luego de confirmarse que la prestadora actual no participó de los llamados anteriores, lo que llevó al municipio a evaluar otras opciones y preparar nuevas bases de contratación. En Necochea, el servicio de colectivos urbanos atraviesa un momento complicado luego de que dos llamados a licitación quedaran desiertos al no presentarse ninguna propuesta formal, ni siquiera por parte de la empresa local que actualmente presta el servicio.",
           "Frente a este escenario, integrantes del Concejo Deliberante y del gabinete municipal se reunieron para analizar la situación y buscar alternativas. Noticia relacionadas Licitaron una obra de $251 millones para reparar calles con asfalto en caliente 28 de agosto de 2026 Se agotaron las entradas para ver el documental sobre Magalí Vera 28 de agosto de 2026 Durante el encuentro también se informó sobre el interés de empresas de otras localidades en hacerse cargo del transporte público."
         ],
-        "generated": "2026-08-29T01:54:38.694213+00:00"
+        "generated": "2026-08-29T08:54:01.776649+00:00"
       }
     },
     {
@@ -151,7 +256,7 @@
       "title": "Cómo estará el clima este viernes en Necochea y Quequén",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-29T01:53:22.169423+00:00",
+      "first_seen": "2026-08-29T08:53:38.754195+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/04/clima-necochea-plaza-centro.jpg",
       "articles": [
         {
@@ -168,7 +273,7 @@
           "El Servicio Meteorológico Nacional (SMN) pronosticó para este viernes en Necochea y Quequén una jornada con algo nublado, una temperatura máxima de 19° y una mínima de 7°. Para la mañana , se espera algo nublado. La temperatura rondará los 7° y la probabilidad de precipitaciones será del 0%, según datos del SMN. El viento soplará desde so a una velocidad de entre 13 - 22 kilómetros por hora.",
           "Noticia relacionadas Licitaron una obra de $251 millones para reparar calles con asfalto en caliente 28 de agosto de 2026 Se agotaron las entradas para ver el documental sobre Magalí Vera 28 de agosto de 2026 Por su parte, hacia la tarde y entrando la noche , el cielo estará parcialmente nublado. La temperatura alcanzará los 19° mientras que el porcentaje de precipitaciones será del 0 - 10%, mencionó el parte oficial. El viento se sentirá desde o a una velocidad de entre 7 - 12 kilómetros por hora."
         ],
-        "generated": "2026-08-29T01:54:40.280014+00:00"
+        "generated": "2026-08-29T08:54:03.231790+00:00"
       }
     },
     {
@@ -176,7 +281,7 @@
       "title": "Una llamativa Luna rojiza sorprendió en Necochea horas antes del eclipse parcial",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-29T01:53:22.169423+00:00",
+      "first_seen": "2026-08-29T08:53:38.754195+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/luna-sangre.jpg",
       "articles": [
         {
@@ -193,7 +298,7 @@
           "La escena fue solamente un efecto visual de la atmósfera terrestre que sirvió como antesala para el fenómeno real, cuando la sombra de nuestro planeta cruce la superficie lunar durante la madrugada. Una llamativa Luna de tono rojizo y anaranjado se observó este jueves en Necochea alrededor de las 18:20.",
           "Aunque en un primer momento la imagen se asoció al eclipse lunar previsto para esta noche, el color respondió simplemente a que el satélite se encontraba muy bajo en el cielo, lo que provoca que su luz deba atravesar una mayor cantidad de atmósfera antes de llegar a la superficie. Noticia relacionadas Licitaron una obra de $251 millones para reparar calles con asfalto en caliente 28 de agosto de 2026 Se agotaron las entradas para ver el documental sobre Magalí Vera 28 de agosto de 2026 En la ciudad , la salida de la Luna se produjo cerca de las 18:07 y el Sol se ocultó recién a las 18:29."
         ],
-        "generated": "2026-08-29T01:54:41.707227+00:00"
+        "generated": "2026-08-29T08:54:04.682879+00:00"
       }
     },
     {
@@ -201,7 +306,7 @@
       "title": "A 105 años del primer piloto formado en Necochea: cómo comenzó la historia de la aviación local",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-29T01:53:22.169423+00:00",
+      "first_seen": "2026-08-29T08:53:38.754195+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/avion-lobo.jpg",
       "articles": [
         {
@@ -218,7 +323,7 @@
           "Un día como hoy se realizó el primer examen de piloto local, con la Escuela Curtiss y los instructores Pedro Hansen y Guillermo Hillcoat como protagonistas, en un contexto de crecimiento aeronáutico que incluyó la creación del Aero. La historia de la aviación en la ciudad tiene sus raíces en los primeros años del siglo XX, cuando comenzaron a formarse los primeros pilotos y a establecerse las bases para el desarrollo de esta actividad.",
           "El 27 de agosto de 1921, se dio un paso fundamental con la formación de los primeros instructores y la creación de una escuela de vuelo que marcó el inicio de una tradición aeronáutica local. A lo largo de las décadas, la aviación fue creciendo, con la incorporación de nuevas aeronaves, la fundación de instituciones dedicadas a esta actividad y la participación de pilotos destacados que dejaron su huella en la historia nacional."
         ],
-        "generated": "2026-08-29T01:54:43.102402+00:00"
+        "generated": "2026-08-29T08:54:06.066193+00:00"
       }
     },
     {
@@ -226,7 +331,7 @@
       "title": "Empleadas domésticas: cuánto se paga por hora y por mes en septiembre con el nuevo aumento",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-29T01:53:22.169423+00:00",
+      "first_seen": "2026-08-29T08:53:38.754195+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/empleadas-domesticas-cuanto-se-paga-por-hora-y-por-mes-en-septiembre-con-el-nuevo-aumento.jpg",
       "articles": [
         {
@@ -243,7 +348,7 @@
           "El nuevo esquema contempla subas mensuales, incorporación progresiva de una suma no remunerativa al básico y adicionales por antigüedad y zona desfavorable. El sector de empleadas domésticas en Argentina experimenta una serie de ajustes salariales que se implementarán progresivamente entre agosto y diciembre de 2026. Estos aumentos forman parte de un esquema que incluye incrementos mensuales, la incorporación gradual de sumas no remunerativas al salario básico y el reconocimiento de adicionales por antigüedad y condiciones laborales específicas.",
           "Además, se han introducido cambios administrativos para facilitar la gestión de los recibos de sueldo mediante un sistema electrónico. A pesar de una disminución en el empleo registrado en los últimos años, el sector muestra señales de recuperación con un leve aumento en la cantidad de trabajadores registrados. Estos cambios buscan mejorar las condiciones laborales."
         ],
-        "generated": "2026-08-29T01:54:44.523411+00:00"
+        "generated": "2026-08-29T08:54:07.471224+00:00"
       }
     },
     {
@@ -251,7 +356,7 @@
       "title": "Bancarios: el sueldo inicial supera los $2,5 millones y habrá una nueva revisión salarial en septiembre",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-29T01:53:22.169423+00:00",
+      "first_seen": "2026-08-29T08:53:38.754195+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/bancarios-el-sueldo-inicial-supera-los-2-5-millones-y-habra-una-nueva-revision-salarial-en-septiembre.jpg",
       "articles": [
         {
@@ -268,7 +373,7 @@
           "El aumento de julio llevó el ingreso mínimo conformado a $2.534.977,22, mientras el gremio mantendrá el mecanismo de actualización y retomará la paritaria durante la segunda quincena de septiembre. Los trabajadores bancarios recibirán una nueva actualización salarial en septiembre luego del acuerdo alcanzado entre la Asociación Bancaria y las cámaras empresarias. El entendimiento estableció un incremento del 2,1% correspondiente a julio de 2026 y llevó el salario básico inicial a $2.463.757,68.",
           "A ese monto se sumaron $71.219,54 correspondientes a la participación en las ganancias (ROE), con lo que el ingreso inicial conformado llegó a $2.534.977,22. La recomposición acumuló una mejora del 19,3% durante los primeros siete meses de 2026 frente a los salarios de diciembre de 2025."
         ],
-        "generated": "2026-08-29T01:54:45.831236+00:00"
+        "generated": "2026-08-29T08:54:08.871073+00:00"
       }
     },
     {
@@ -276,7 +381,7 @@
       "title": "Los incendios en Catamarca ya afectaron más de 100 hectáreas y el viento Zonda complica el operativo",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-29T01:53:22.169423+00:00",
+      "first_seen": "2026-08-29T08:53:38.754195+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/incendio-en-catamarca-el-fuego-ya-afecto-mas-de-100-hectareas-y-el-viento-zonda-complica-el-operativo.jpg",
       "articles": [
         {
@@ -293,7 +398,7 @@
           "El fuego avanza en Alto de Las Juntas, mientras el viento Zonda impide utilizar medios aéreos. La provincia acumula unas 6.568 hectáreas afectadas hasta el 27 de agosto. Un incendio forestal de grandes dimensiones continúa activo en Alto de Las Juntas, Aconquija, departamento Andalgalá, donde las llamas afectaron más de 100 hectáreas.",
           "El frente de mayor magnitud se ubicó en el Cerro de la Cruz y avanzó por sus laderas hacia sectores próximos a la cumbre. Más de 30 personas participan del operativo, entre brigadistas, Bomberos Voluntarios y personal municipal, mientras otro foco fue detectado en El Totoral, a la altura de Las Rosas, cerca del río del Campo."
         ],
-        "generated": "2026-08-29T01:54:47.165251+00:00"
+        "generated": "2026-08-29T08:54:10.180607+00:00"
       }
     },
     {
@@ -301,7 +406,7 @@
       "title": "Dos aprehendidos por intentar robar una moto con un arma blanca",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-29T01:53:22.169423+00:00",
+      "first_seen": "2026-08-29T08:53:38.754195+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/aprehendidos-robo-moto.jpg",
       "articles": [
         {
@@ -318,7 +423,7 @@
           "Un llamado al 911 por una riña en la esquina 502‑523 llevó a la policía a identificar al joven y la moto con orden de secuestro activo. La Fiscalía aprobó la detención y el vehículo quedó bajo custodia judicial.",
           "El hecho se registró en inmediaciones de calle 57 y calle 94, cuando personal del Comando de Patrullas Necochea, durante una recorrida preventiva, fue alertado por un transeúnte, quien manifestó que momentos antes dos sujetos habían intentado robarle su motovehículo y que se encontraban armados. Noticia relacionadas Se conoció la identidad del motociclista que murió en el fatal accidente en La Dulce 28 de agosto de 2026 Accidente fatal en La Dulce: murió un motociclista tras chocar con un camión 28 de agosto de 2026 Con las características aportadas, los efectivos iniciaron una recorrida por la zona y lograron visualizar a dos hombres que coincidían con la descripción."
         ],
-        "generated": "2026-08-29T01:54:48.592654+00:00"
+        "generated": "2026-08-29T08:54:11.477032+00:00"
       }
     },
     {
@@ -326,7 +431,7 @@
       "title": "Detienen a un joven en Quequén y le confiscan la moto robada en Mar del Plata",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-29T01:53:22.169423+00:00",
+      "first_seen": "2026-08-29T08:53:38.754195+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/operativo-quequen-detienen-joven-confiscan-moto-or-9gbbk-1.jpg",
       "articles": [
         {
@@ -343,7 +448,7 @@
           "El operativo policial en Quequén se activó tras un llamado al 911 por una confrontación en la vía pública, donde se identificó a un joven de 20 años con una moto Honda XR 150 secuestrada por pedido de Mar del. Noticia relacionadas Se conoció la identidad del motociclista que murió en el fatal accidente en La Dulce 28 de agosto de 2026 Accidente fatal en La Dulce: murió un motociclista tras chocar con un camión 28 de agosto de 2026 En el marco del operativo de saturación llevado a cabo en la localidad de Quequén, personal policial intervino ante un llamado al 911 que alertaba sobre dos personas confrontando en la vía pública.",
           "El hecho ocurrió en inmediaciones de calle 502 y calle 523, donde los efectivos identificaron a un joven de 20 años que se encontraba junto a una motocicleta Honda XR 150 cc., de color blanca y sin dominio colocado."
         ],
-        "generated": "2026-08-29T01:54:49.929070+00:00"
+        "generated": "2026-08-29T08:54:12.889593+00:00"
       }
     },
     {
@@ -351,7 +456,7 @@
       "title": "Tragedia en Ruta 88: El camionero habría invadido el carril y las pericias podrían modificar la causa",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-29T01:53:22.169423+00:00",
+      "first_seen": "2026-08-29T08:53:38.754195+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/07/accidente-fatal-ruta-88-1.webp",
       "articles": [
         {
@@ -368,7 +473,7 @@
           "Noticia relacionadas Se conoció la identidad del motociclista que murió en el fatal accidente en La Dulce 28 de agosto de 2026 Accidente fatal en La Dulce: murió un motociclista tras chocar con un camión 28 de agosto de 2026 Los estudios preliminares indicaron una posible invasión de carril por parte del camión y la causa continúa a la espera de los informes técnicos completos de Policía Científica. Las pericias preliminares realizadas por el choque ocurrido en la Ruta Provincial 88, a la altura del kilómetro 55, indicaron que el camión frigorífico que transportaba pescado habría invadido el carril por el que circulaba un Fiat Siena utilizado como remís y terminó impactando contra ese vehículo.",
           "El siniestro ocurrió el domingo 12 de julio de 2026, cerca de las 21:30, en inmediaciones del paraje San José, dentro de la jurisdicción de General Alvarado."
         ],
-        "generated": "2026-08-29T01:54:51.382880+00:00"
+        "generated": "2026-08-29T08:54:14.297784+00:00"
       }
     },
     {
@@ -376,7 +481,7 @@
       "title": "Una tarde accidentada con motociclistas heridos en distintos puntos de la ciudad",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-29T01:53:22.169423+00:00",
+      "first_seen": "2026-08-29T08:53:38.754195+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/choque-53.jpg",
       "articles": [
         {
@@ -393,7 +498,7 @@
           "Los siniestros ocurrieron a casi 40 minutos de diferencia, uno en avenida 98 y calle 81 y otro en avenida 70 y calle 53, involucrando motocicletas y automóviles. Dos accidentes de tránsito se registraron durante la tarde en distintos sectores de Necochea y dejaron personas heridas, con intervención de efectivos policiales , personal de Tránsito y de salud. Noticia relacionadas Se conoció la identidad del motociclista que murió en el fatal accidente en La Dulce 28 de agosto de 2026 Accidente fatal en La Dulce: murió un motociclista tras chocar con un camión 28 de agosto de 2026 El primero ocurrió alrededor de las 17 en la intersección de avenida 98 y calle 81.",
           "Por causas que se intentan establecer, una motocicleta y un automóvil colisionaron en ese sector de la ciudad . Como consecuencia del impacto, el conductor de la motocicleta resultó herido y debió ser trasladado al Hospital Municipal para recibir atención médica."
         ],
-        "generated": "2026-08-29T01:54:52.739179+00:00"
+        "generated": "2026-08-29T08:54:15.953109+00:00"
       }
     },
     {
@@ -401,7 +506,7 @@
       "title": "Buscan una bicicleta que sustrajeron en la Escuela Comercial",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-29T01:53:22.169423+00:00",
+      "first_seen": "2026-08-29T08:53:38.754195+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/buscan-una-bicicleta-de-color-naranja-que-sustrajeron-en-la-escuela-comercial.webp",
       "articles": [
         {
@@ -418,7 +523,7 @@
           "La dueña pide ayuda en redes sociales tras sufrir el robo de su medio de transporte para ir a trabajar. Una bicicleta marca Motomel MAXAM fue robada del interior de la Escuela Comercial cerca de las 17:45 de este miércoles. La propietaria del rodado, Anahí Gauna, difundió la sustracción en redes sociales para solicitar ayuda a la población y poder recuperarla.",
           "Noticia relacionadas Se conoció la identidad del motociclista que murió en el fatal accidente en La Dulce 28 de agosto de 2026 Accidente fatal en La Dulce: murió un motociclista tras chocar con un camión 28 de agosto de 2026 Según explicó la víctima, el vehículo representa su herramienta de trabajo cotidiana. Debido a esto, remarcó la importancia de contar con cualquier dato certero que permita ubicar el lugar donde se encuentra o identificar a quienes se la llevaron. La bicicleta sustraída es de color naranja con detalles e inscripciones en negro."
         ],
-        "generated": "2026-08-29T01:54:54.016253+00:00"
+        "generated": "2026-08-29T08:54:19.066002+00:00"
       }
     },
     {
@@ -426,7 +531,7 @@
       "title": "Uno por uno, cómo votaron los diputados la media sanción a la reforma de la Carta Orgánica del Banco Central",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-29T01:53:22.169423+00:00",
+      "first_seen": "2026-08-29T08:53:38.754195+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/uno-por-uno-como-votaron-los-diputados-la-media-sancion-a-la-reforma-de-la-carta-organica.webp",
       "articles": [
         {
@@ -443,7 +548,7 @@
           "La Cámara de Diputados aprobó con 144 votos a favor la reforma de la Carta Orgánica del Banco Central, que ahora será analizada por el Senado, con un amplio respaldo de bloques oficialistas y oposición dividida. La Cámara de Diputados dio este miércoles media sanción al proyecto impulsado por el Gobierno de Javier Milei para reformar la Carta Orgánica del Banco Central. La iniciativa obtuvo 144 votos a favor, 102 en contra y 9 abstenciones y ahora deberá ser tratada por el Senado.",
           "El proyecto establece como misión primaria y fundamental del Banco Central la preservación del valor de la moneda y plantea limitar fuertemente el financiamiento del Tesoro por parte de la autoridad monetaria. También propone prohibir los adelantos transitorios al Gobierno y la compra de títulos del Estado nacional en el mercado primario."
         ],
-        "generated": "2026-08-29T01:54:55.328168+00:00"
+        "generated": "2026-08-29T08:54:22.020177+00:00"
       }
     },
     {
@@ -451,7 +556,7 @@
       "title": "Fuerte cruce entre el Gobierno y Tierra del Fuego por la llegada de un petrolero británico a Ushuaia",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-29T01:53:22.169423+00:00",
+      "first_seen": "2026-08-29T08:53:38.754195+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/el-buque-britanico-vs-promise-reavivo-el-conflicto-entre-nacion-y-tierra-del-fuego-por-el-puerto-de-ushuaia.jpg",
       "articles": [
         {
@@ -468,7 +573,7 @@
           "La embarcación operó bajo el registro de la Isla de Man y desató reclamos de la administración provincial, que aprovechó la oportunidad para exigir la restitución de la terminal marítima intervenida desde enero. El ingreso del buque petrolero VS Promise al puerto de Ushuaia desató un nuevo conflicto entre el Gobierno nacional y la administración de Tierra del Fuego.",
           "La embarcación, de bandera de la Isla de Man —dependencia de la Corona británica— y 228,60 metros de eslora, ingresó el 24 de agosto de 2026 y permaneció allí unas 14 horas antes de continuar viaje. Este movimiento motivó a legisladores a exigir explicaciones detalladas sobre las autoridades que habilitaron la operación portuaria y los controles realizados."
         ],
-        "generated": "2026-08-29T01:54:56.605774+00:00"
+        "generated": "2026-08-29T08:54:23.350393+00:00"
       }
     },
     {
@@ -476,7 +581,7 @@
       "title": "El Niño cobra fuerza: se estima \"más de un 90% de probabilidades de un evento muy fuerte\"",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-29T01:53:22.169423+00:00",
+      "first_seen": "2026-08-29T08:53:38.754195+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/destacada-tormenta.jpg",
       "articles": [
         {
@@ -493,7 +598,7 @@
           "Los pronósticos internacionales muestran una señal cálida muy marcada en el Pacífico y las estimaciones locales anticipan más lluvias, riesgos hídricos y dificultades para la actividad agropecuaria. El fenómeno de El Niño ya está activo y los pronósticos recientes anticiparon cambios importantes en las lluvias y las temperaturas durante los próximos meses.",
           "La señal más destacada apareció en el océano Pacífico, donde los registros y las proyecciones mostraron una intensificación del episodio y elevaron la posibilidad de que alcance una magnitud muy fuerte hacia fines de 2026. La NOAA indicó que el fenómeno se fortalece y que existe una probabilidad superior al 90% de que presente una intensidad muy fuerte durante el otoño e invierno boreales de 2026-2027, mientras que otro cálculo ubicó en 69% la posibilidad de un evento histórico entre octubre y diciembre."
         ],
-        "generated": "2026-08-29T01:54:57.942301+00:00"
+        "generated": "2026-08-29T08:54:24.718515+00:00"
       }
     },
     {
@@ -501,7 +606,7 @@
       "title": "El Gobierno adjudicó ocho corredores de rutas nacionales a privados por 20 años",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-29T01:53:22.169423+00:00",
+      "first_seen": "2026-08-29T08:53:38.754195+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/07/ruta228-curva-cono.jpeg",
       "articles": [
         {
@@ -518,7 +623,7 @@
           "La medida oficializada este lunes abarca peajes que se actualizarán mediante índices oficiales y cobrarán las tarifas una vez que los caminos aseguren condiciones óptimas de circulación, bajo el estricto control de Vialidad Nacional. El Gobierno nacional oficializó este lunes la entrega de ocho corredores viales a operadores privados por un plazo de 20 años, una medida enmarcada en la Etapa III de la Red Federal de Concesiones.",
           "Mediante la Resolución 1379/2026, firmada por el ministro de Economía, Luis Caputo, se adjudicaron 3.920,21 kilómetros de rutas nacionales que atraviesan 11 provincias argentinas."
         ],
-        "generated": "2026-08-29T01:54:59.265487+00:00"
+        "generated": "2026-08-29T08:54:26.156789+00:00"
       }
     },
     {
@@ -526,7 +631,7 @@
       "title": "La “súper gripe” marcó un récord en el país, con más de 790 mil casos en el año",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-29T01:53:22.169423+00:00",
+      "first_seen": "2026-08-29T08:53:38.754195+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/gripe-destacada.jpg",
       "articles": [
         {
@@ -543,7 +648,7 @@
           "Argentina registró 790.523 casos de influenza en las primeras 30 semanas de 2026, por encima de los máximos recientes, con predominio del subclado K de A(H3N2). La temporada de influenza de 2026 alcanzó en Argentina el mayor registro de la última década: hasta la semana epidemiológica 30 se notificaron 790.523 casos. La cifra superó los 788.328 contabilizados durante el mismo período de 2025, que hasta entonces constituían el máximo de la serie reciente.",
           "En 2024, el acumulado a esa altura del año había sido de 779.592 infecciones. Noticia relacionadas Los incendios en Catamarca ya afectaron más de 100 hectáreas y el viento Zonda complica el operativo 28 de agosto de 2026 Uno por uno, cómo votaron los diputados la media sanción a la reforma de la Carta Orgánica del Banco Central 26 de agosto de 2026 El aumento de las detecciones comenzó en la semana epidemiológica 10 y el máximo de circulación se produjo entre las semanas 21 y 22."
         ],
-        "generated": "2026-08-29T01:55:00.547496+00:00"
+        "generated": "2026-08-29T08:54:27.693068+00:00"
       }
     },
     {
@@ -551,7 +656,7 @@
       "title": "La Fiscalía de Bolivia acusa a Fernando Cerimedo de planificar el ataque contra Nadia Beller y pide su detención preventiva",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-29T01:53:22.169423+00:00",
+      "first_seen": "2026-08-29T08:53:38.754195+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/la-fiscalia-de-bolivia-acusa-a-fernando-cerimedo-de-planificar-el-ataque-contra-nadia-beller-y-pide-su-detencion-preventiva.jpg",
       "articles": [
         {
@@ -568,7 +673,7 @@
           "La investigación por tentativa de feminicidio reconstruye una secuencia de presiones, custodios que no intervinieron y un supuesto vínculo previo con los atacantes. La Fiscalía Departamental de Santa Cruz acusó formalmente al consultor político argentino Fernando Gabriel Cerimedo como presunto autor intelectual del intento de femicidio contra Nadia Shirley Beller Delgadillo.",
           "La mujer fue atacada a tiros por dos hombres en motocicleta el 17 de agosto de 2026, en Santa Cruz de la Sierra, y recibió una incapacidad médica de 30 días tras sufrir tres disparos. El acusado fue aprehendido un día después en el aeropuerto de Viru Viru y la Justicia solicitó 180 días de detención preventiva en el Penal de Palmasola, ante los riesgos de fuga y de obstaculización."
         ],
-        "generated": "2026-08-29T01:55:01.989494+00:00"
+        "generated": "2026-08-29T08:54:29.294855+00:00"
       }
     },
     {
@@ -576,7 +681,7 @@
       "title": "Firme reclamo por casi 300 días de incumplimiento de la ley de financiamiento universitario",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-29T01:53:22.169423+00:00",
+      "first_seen": "2026-08-29T08:53:38.754195+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/firme-reclamo-universitario-por-casi-300-dias-de-incumplimiento-de-la-ley-de-financiamient.webp",
       "articles": [
         {
@@ -593,7 +698,7 @@
           "La Universidad Nacional del Sur mantiene sus proyectos de investigación y reclama previsibilidad presupuestaria mientras sigue la discusión por el cumplimiento de la Ley 27.795. La Ley 27.795 estableció medidas para sostener el financiamiento de la educación universitaria pública, con actualizaciones para gastos de funcionamiento, salarios de docentes y no docentes y becas estudiantiles.",
           "También contempló una partida especial para regularizar ingresos a la carrera de Investigador Científico y otorgar becas para ingresantes y posdoctorales. El Poder Ejecutivo había observado íntegramente la norma mediante el Decreto 647/2025, del 10 de septiembre de 2025, pero el Congreso confirmó la sanción con dos tercios de los votos en ambas cámaras y la ley fue promulgada mediante el Decreto 759/2025, del 20 de octubre de 2025."
         ],
-        "generated": "2026-08-29T01:55:03.382935+00:00"
+        "generated": "2026-08-29T08:54:32.232558+00:00"
       }
     },
     {
@@ -601,7 +706,7 @@
       "title": "Murió Florencia, la hija de Lucas Sugo, a los 23 años",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-29T01:53:22.169423+00:00",
+      "first_seen": "2026-08-29T08:53:38.754195+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/murio-florencia-la-hija-de-lucas-sugo-a-los-23-anos.webp",
       "articles": [
         {
@@ -618,7 +723,7 @@
           "Noticia relacionadas Los incendios en Catamarca ya afectaron más de 100 hectáreas y el viento Zonda complica el operativo 28 de agosto de 2026 Uno por uno, cómo votaron los diputados la media sanción a la reforma de la Carta Orgánica del Banco Central 26 de agosto de 2026 El entorno del cantante pidió respeto y privacidad a la familia y anunció la suspensión de sus conciertos programados en Argentina. Miles de seguidores y artistas rindieron homenaje en redes, acompañando al músico en este momento de profundo dolor.",
           "La joven enfrentó durante más de un año una enfermedad oncológica y recibió diversos tratamientos en Uruguay y en el exterior. El entorno del cantante confirmó la triste noticia el miércoles y solicitó respeto para la familia."
         ],
-        "generated": "2026-08-29T01:55:04.674330+00:00"
+        "generated": "2026-08-29T08:54:34.720029+00:00"
       }
     },
     {
@@ -626,7 +731,7 @@
       "title": "Adolfo Gonzales Chaves festeja 110 años de historia con un gran desfile y fogones",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-29T01:53:22.169423+00:00",
+      "first_seen": "2026-08-29T08:53:38.754195+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/adolfo-gonzales-chaves-cumple-110-anos-la-historia-del-partido-bonaerense-creado-en-1916-1787435807855.jpg",
       "articles": [
         {
@@ -643,7 +748,7 @@
           "El partido bonaerense, con más de 12 mil habitantes y una superficie de 3.859,2 km², celebra su 110.º aniversario con actividades culturales y un acto protocolar, bajo la gestión de la intendenta Lucía Gómez. El distrito fue creado el 22 de agosto de 1916 por el gobernador Marcelino Ugarte. El partido bonaerense de Adolfo Gonzales Chaves celebra este año un aniversario muy especial, conmemorando más de un siglo desde su creación oficial.",
           "Este distrito, que tiene sus raíces en la fundación de un pueblo alrededor de una estación ferroviaria a fines del siglo XIX, ha experimentado a lo largo del tiempo importantes transformaciones territoriales y administrativas. Actualmente, con una población que supera los 12 mil habitantes y una superficie considerable, el partido mantiene una activa vida institucional y cultural."
         ],
-        "generated": "2026-08-29T01:55:06.034584+00:00"
+        "generated": "2026-08-29T08:54:36.290079+00:00"
       }
     },
     {
@@ -651,7 +756,7 @@
       "title": "Polémica en Pinamar por circuito de motocross sobre la playa",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-29T01:53:22.169423+00:00",
+      "first_seen": "2026-08-29T08:53:38.754195+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/polemica-en-pinamar-por-circuito-de-motocross-sobre-la-playa-1787317020527.jpg",
       "articles": [
         {
@@ -668,7 +773,7 @@
           "El armado del circuito del Enduro del Invierno genera cuestionamientos ambientales mientras el Concejo Deliberante avaló el evento por mayoría. La construcción de un circuito de motocross sobre la playa pública de Pinamar generó un conflicto entre organizaciones ambientalistas, vecinos y autoridades municipales.",
           "El trazado será utilizado para el Enduro del Invierno, previsto para el 29 y 30 de agosto, con una participación informada de 350 pilotos de motos y cuatriciclos. Noticia relacionadas Adolfo Gonzales Chaves festeja 110 años de historia con un gran desfile y fogones 22 de agosto de 2026 San Cayetano recicló 78.000 kilos de Residuos Sólidos Urbanos en lo que va del año 20 de agosto de 2026 El sector autorizado comprende la playa ubicada entre los balnearios El Pájaro y Rada Beach, en paralelo a la Avenida del Mar y con calles transversales involucradas."
         ],
-        "generated": "2026-08-29T01:55:07.534071+00:00"
+        "generated": "2026-08-29T08:54:37.659372+00:00"
       }
     },
     {
@@ -676,7 +781,7 @@
       "title": "San Cayetano recicló 78.000 kilos de Residuos Sólidos Urbanos en lo que va del año",
       "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-08-29T01:53:22.169423+00:00",
+      "first_seen": "2026-08-29T08:53:38.754195+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/08/reciclaje-san-cayetano-1.jpg",
       "articles": [
         {
@@ -693,82 +798,7 @@
           "La municipalidad estableció un calendario de recolección diferenciada: residuos orgánicos lunes, miércoles y viernes; secos martes y jueves. Así la planta gana eficiencia y los materiales pueden reincorporarse al proceso productivo. Desde la Planta de Tratamiento de Residuos Sólidos Urbanos de la Municipalidad de San Cayetano, queremos destacar que la separación en origen comienza en casa.",
           "Cuando clasificás tus residuos, permitís que el trabajo en la planta sea mucho más eficiente y que podamos aprovechar materiales que antes terminaban en la basura. Noticia relacionadas Adolfo Gonzales Chaves festeja 110 años de historia con un gran desfile y fogones 22 de agosto de 2026 Polémica en Pinamar por circuito de motocross sobre la playa 21 de agosto de 2026 Gracias al esfuerzo de todos, durante los primeros seis meses de 2026 recuperamos más de 78 mil kilogramos de residuos reciclables."
         ],
-        "generated": "2026-08-29T01:55:08.819172+00:00"
-      }
-    },
-    {
-      "key": "consejo escolar san cayetano convoca licitacion transporte alumnos urbanos rurales",
-      "title": "Consejo Escolar de San Cayetano convoca licitación de transporte para alumnos urbanos y rurales",
-      "score": 1.2,
-      "sources_count": 1,
-      "first_seen": "2026-08-29T01:53:22.169423+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/consejo-escolar-convoca-licitacion-transporte-terr-9bjp1-1.jpg",
-      "articles": [
-        {
-          "portal": "Diario Necochea",
-          "title": "Consejo Escolar de San Cayetano convoca licitación de transporte para alumnos urbanos y rurales",
-          "url": "https://diarionecochea.com/2026/08/19/consejo-escolar-de-san-cayetano-convoca-licitacion-de-transporte-para-alumnos-urbanos-y-rurales/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El Consejo Escolar abrió la convocatoria para contratar el servicio de transporte terrestre de alumnos urbanos y rurales para el ciclo lectivo 2026, con consultas y pliegos disponibles en su sede y sitio web, y la apertura de propuestas prevista. Consejo Escolar invita a participar de la contratación del servicio de transporte terrestre de alumnos (ida y vuelta), para el traslado de alumnos de todos los niveles correspondiente a las áreas urbana y rural, para el ciclo lectivo 2026.",
-          "Noticia relacionadas El apeadero ferroviario de Quequén que nació tras el cierre definitivo de la estación 26 de agosto de 2026 Buscan a una joven que desapareció tras ser vista en la Plaza Hipólito Irigoyen en Quequén 24 de agosto de 2026 Los interesados podrán consultar recorridos y obtener el Pliego de Bases y Condiciones en sede del Consejo Escolar o en su sitio Web https://consejoescolarsc2.webnode.page/novedades/."
-        ],
-        "generated": "2026-08-29T01:55:10.113465+00:00"
-      }
-    },
-    {
-      "key": "adoptaron cachorro abandonado familia pasar meses refugio",
-      "title": "Adoptaron a un cachorro abandonado por su familia tras pasar 9 meses en un refugio",
-      "score": 1.2,
-      "sources_count": 1,
-      "first_seen": "2026-08-29T01:53:22.169423+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/despues-de-9-meses-en-el-refugio-un-cachorro-rescatado-encontro-una-nueva-familia.webp",
-      "articles": [
-        {
-          "portal": "Diario Necochea",
-          "title": "Adoptaron a un cachorro abandonado por su familia tras pasar 9 meses en un refugio",
-          "url": "https://diarionecochea.com/2026/08/19/adoptaron-a-un-cachorro-que-fue-abandonado-por-su-familia-y-paso-nueve-meses-en-un-refugio/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El animal encontró una nueva familia, adoptado por Milea, la vecina le brindó un hogar definitivo. La adopción de animales rescatados es una acción que refleja compromiso y solidaridad hacia los seres que han sufrido abandono. En este contexto, un perro que permaneció durante nueve meses en la guardería canina de San Cayetano tras haber sido abandonado junto a su familia, finalmente encontró un hogar definitivo gracias a la decisión de una vecina.",
-          "Noticia relacionadas Adolfo Gonzales Chaves festeja 110 años de historia con un gran desfile y fogones 22 de agosto de 2026 Polémica en Pinamar por circuito de motocross sobre la playa 21 de agosto de 2026 Las buenas noticias siempre dan gusto contarlas: después de nueve meses esperando en la guardería canina, un perrito finalmente encontró su lugar en el mundo. Fue adoptado por Milea, una vecina que decidió abrirle las puertas de su casa y darle el hogar que tanto merecía."
-        ],
-        "generated": "2026-08-29T01:55:11.402289+00:00"
-      }
-    },
-    {
-      "key": "cerca 40 adultos mayores realizaron viaje tandil direccion deportes",
-      "title": "Cerca de 40 adultos mayores realizaron un viaje a Tandil con la Dirección de Deportes",
-      "score": 1.2,
-      "sources_count": 1,
-      "first_seen": "2026-08-29T01:53:22.169423+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/cerca-40-adultos-mayores-realizan-viaje-tandil-dir-dujgy-1.jpg",
-      "articles": [
-        {
-          "portal": "Diario Necochea",
-          "title": "Cerca de 40 adultos mayores realizaron un viaje a Tandil con la Dirección de Deportes",
-          "url": "https://diarionecochea.com/2026/08/19/cerca-de-40-adultos-mayores-realizaron-un-viaje-a-tandil-con-la-direccion-de-deportes/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El Director de Deportes, Rodrigo Arana, acompañó al grupo con docentes, personal de cocina, un enfermero y los conductores municipales, asegurando asistencia y cuidados. La iniciativa subraya el compromiso del municipio con la inclusión y bienestar de la tercera edad.",
-          "Un grupo de aproximadamente 40 adultos mayores disfrutó de un inolvidable viaje a la ciudad de Tandil, en una iniciativa coordinada e impulsada por el Municipio a través de la Dirección de Deportes. Noticia relacionadas El apeadero ferroviario de Quequén que nació tras el cierre definitivo de la estación 26 de agosto de 2026 Buscan a una joven que desapareció tras ser vista en la Plaza Hipólito Irigoyen en Quequén 24 de agosto de 2026 Durante una estadía de tres días, la delegación tuvo la oportunidad de recorrer y conocer los principales atractivos turísticos y lugares típicos de la emblemática ciudad serrana."
-        ],
-        "generated": "2026-08-29T01:55:12.752766+00:00"
+        "generated": "2026-08-29T08:54:39.063144+00:00"
       }
     }
   ]
