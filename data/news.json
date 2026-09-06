@@ -1,656 +1,133 @@
 {
-  "generated_at": "2026-09-06T00:46:27.495894+00:00",
-  "article_count": 125,
-  "fetch_errors": [],
+  "generated_at": "2026-09-06T05:43:57.196275+00:00",
+  "article_count": 75,
+  "fetch_errors": [
+    "Necochea Digital: 403 Client Error: Forbidden for url: https://r.jina.ai/https://necocheadigital.com"
+  ],
   "stories": [
     {
-      "key": "rompio vivienda escapo policia otro hombre cayo cocaina cuatro cuchillos",
-      "title": "Rompió una vivienda, escapó de la Policía y otro hombre cayó con cocaína y cuatro cuchillos",
-      "score": 1.1,
+      "key": "como estara tiempo domingo necochea quequen",
+      "title": "Cómo estará el tiempo este domingo en Necochea y Quequén",
+      "score": 1.199,
       "sources_count": 1,
-      "first_seen": "2026-09-06T00:46:27.495894+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/2d97c042af2ffce52f10d2bcd01a529012f97cd3.jpg",
+      "first_seen": "2026-09-06T05:43:12+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2024/05/23-05-FOTO-ARCHIVO-Frio-Extremo-02.jpeg",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Rompió una vivienda, escapó de la Policía y otro hombre cayó con cocaína y cuatro cuchillos",
-          "url": "https://necocheadigital.com/nota/119512/rompio-una-vivienda-escapo-de-la-policia-y-otro-hombre-cayo-con-cocaina-y-cuatro-cuchillos/",
-          "published_at": null,
-          "category": null,
-          "image": null
+          "portal": "TSN Necochea",
+          "title": "Cómo estará el tiempo este domingo en Necochea y Quequén",
+          "url": "https://tsnnecochea.com.ar/locales/como-estara-el-tiempo-este-domingo-en-necochea-y-quequen-12-236245/",
+          "published_at": "2026-09-06T05:43:12+00:00",
+          "category": "frio",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2024/05/23-05-FOTO-ARCHIVO-Frio-Extremo-02.jpeg"
         }
       ],
       "summary": {
         "paragraphs": [
-          "La Policía de Necochea intervino en dos hechos ocurridos en las últimas horas que terminaron con personas demoradas por distintos delitos y contravenciones. Uno de los procedimientos se originó tras un violento episodio en una vivienda, mientras que el otro tuvo lugar en un comercio donde un hombre fue hallado con cocaína y cuatro armas blancas. Rompió una vivienda, huyó y fue detenido El primero de los hechos ocurrió en una vivienda ubicada en calle 39 al 2800. Según la investigación, un hombre de 32 años llegó al lugar en un evidente estado de agresividad y provocó importantes daños al romper una reja y el vidrio de una ventana.",
-          "Tras un llamado al 911, efectivos del Comando de Patrullas acudieron al lugar. Al advertir la presencia policial, el sospechoso emprendió la fuga hacia el sector del río. Luego de un seguimiento, los uniformados lograron interceptarlo en inmediaciones de Ruta 86 y calle 66."
+          "TSN Necochea | ‹ VOLVER | Locales | frio | Pronóstico Cómo estará el tiempo este domingo en Necochea y Quequén Datos aportados por el Servicios Meteorológico Nacional Por Redacción TSN 06/09/2026 · 02:43 AM Volvió el frío Agregar TSN Necochea en El pronóstico del Servicio Meteorológico Nacional para este domingo 6 de septiembre en Necochea indica una temperatura máxima de 6°C y una mínima de 1° C, con vientos del sudoeste a 22 km/h . Por la madrugada, la temperatura será de 3° C. E l viento es del cuadrante sur a una velocidad que puede llegar a 22 km/h, c on chaparrones.",
+          "En la mañana la temperatura será de 1° C, el viento soplará del cuadrante Sur a una velocidad que puede llegar a 22 km/h, con el cielo mayormente nublado. Para la tarde se espera una temperatura máxima de alrededor de 6 grados, el viento soplará del sector sudoeste a una velocidad que pueden llegar a los 2 kilómetros con chaparrones."
         ],
-        "generated": "2026-09-06T00:46:48.499687+00:00"
+        "generated": "2026-09-06T05:45:15.788105+00:00"
       }
     },
     {
-      "key": "cierra unica planta caucho sintetico pais argentina pierde otra industria estrategica",
-      "title": "Cierra la única planta de caucho sintético del país y Argentina pierde otra industria estratégica",
-      "score": 1.1,
+      "key": "presentaron estados unidos denuncia fifa tapia toviggino",
+      "title": "Presentaron en Estados Unidos una denuncia ante la FIFA contra Tapia y Toviggino",
+      "score": 0.989,
       "sources_count": 1,
-      "first_seen": "2026-09-06T00:46:27.495894+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/7fe6c3888383cb3cbf5ff7ffb6f68ef10cc2f517.jpg",
+      "first_seen": "2026-09-06T03:25:04+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/09/720.avif",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Cierra la única planta de caucho sintético del país y Argentina pierde otra industria estratégica",
-          "url": "https://necocheadigital.com/nota/119511/cierra-la-unica-planta-de-caucho-sintetico-del-pais-y-argentina-pierde-otra-industria-estrategica/",
-          "published_at": null,
-          "category": null,
-          "image": null
+          "portal": "TSN Necochea",
+          "title": "Presentaron en Estados Unidos una denuncia ante la FIFA contra Tapia y Toviggino",
+          "url": "https://tsnnecochea.com.ar/nacion/presentaron-en-estados-unidos-una-denuncia-ante-la-fifa-contra-tapia-y-toviggino-236242/",
+          "published_at": "2026-09-06T03:25:04+00:00",
+          "category": "AFA",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/09/720.avif"
         }
       ],
       "summary": {
         "paragraphs": [
-          "La industria argentina suma un nuevo golpe. Pampa Energía confirmó el cierre definitivo de la planta de caucho sintético que operaba en el Complejo Petroquímico de Puerto General San Martín, en Santa Fe, poniendo fin a la única producción de este insumo en el país. La medida se concretó luego de varias semanas de negociaciones y de sucesivas prórrogas de la conciliación voluntaria en el Ministerio de Trabajo, sin que pudiera encontrarse una alternativa para sostener la actividad.",
-          "Con este cierre, la Argentina deja de fabricar caucho sintético, un material esencial para diversas industrias y especialmente utilizado en la producción de neumáticos. Un impacto sobre toda la cadena productiva La decisión tiene consecuencias que van más allá de la propia planta. Uno de los principales clientes de la producción era la histórica fabricante de neumáticos Fate , que dejó de operar a comienzos de este año y despidió a 920 trabajadores."
+          "TSN Necochea | ‹ VOLVER | Nación | AFA | Investigación formal Presentaron en Estados Unidos una denuncia ante la FIFA contra Tapia y Toviggino Los acusan de haber ejercido presiones indebidas, interferencias y maniobras consideradas “contrarias al fair play institucional” en la disputa por la organización de la Copa América 2024. Por Redacción TSN 06/09/2026 · 12:25 AM Toviggino y Tapia Agregar TSN Necochea en La Federación de Fútbol de Estados Unidos (US Soccer) presentó una denuncia formal ante el Comité de Ética de la FIFA contra Claudio “Chiqui” Tapia , Pablo Toviggino y Guillermo Tofoni .",
+          "El escrito, elevado directamente a Zúrich, acusa a los dirigentes argentinos de haber ejercido presiones indebidas , interferencias y maniobras consideradas “contrarias al fair play institucional” en el marco de la disputa por la organización de la Copa América 2024 y otros negocios vinculados a partidos internacionales, según publica hoy Clarín."
         ],
-        "generated": "2026-09-06T00:46:49.535058+00:00"
+        "generated": "2026-09-06T05:45:32.190830+00:00"
       }
     },
     {
-      "key": "azcoiti cuestiono giro gobierno malvinas causa nacional farsa",
-      "title": "Azcoiti cuestionó el giro del Gobierno sobre Malvinas: “Es una causa nacional, pero esto ya es una farsa”",
-      "score": 1.1,
+      "key": "cuchillo prendas aprehendieron conflicto comercio secuestraron cocaina armas blancas",
+      "title": "Con un cuchillo entre sus prendas: lo aprehendieron tras un conflicto en un comercio y secuestraron cocaína y armas blancas",
+      "score": 0.858,
       "sources_count": 1,
-      "first_seen": "2026-09-06T00:46:27.495894+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/9187325f94d55a11b1b59a5be88ab96779065f2e.jpg",
+      "first_seen": "2026-09-06T03:53:33+00:00",
+      "image": "https://diarionq.com.ar/wp-content/uploads/2026/09/d5e7ae98-bc11-4bf7-a535-c76f746edc32.jpeg",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Azcoiti cuestionó el giro del Gobierno sobre Malvinas: “Es una causa nacional, pero esto ya es una farsa”",
-          "url": "https://necocheadigital.com/nota/119510/azcoiti-cuestiono-el-giro-del-gobierno-sobre-malvinas-es-una-causa-nacional-pero-esto-ya-es-una-farsa/",
-          "published_at": null,
-          "category": null,
-          "image": null
+          "portal": "Diario NQ",
+          "title": "Con un cuchillo entre sus prendas: lo aprehendieron tras un conflicto en un comercio y secuestraron cocaína y armas blancas",
+          "url": "https://diarionq.com.ar/con-un-cuchillo-entre-sus-prendas-lo-aprehendieron-tras-un-conflicto-en-un-comercio-y-secuestraron-cocaina-y-armas-blancas/",
+          "published_at": "2026-09-06T03:53:33+00:00",
+          "category": "Policiales",
+          "image": "https://diarionq.com.ar/wp-content/uploads/2026/09/d5e7ae98-bc11-4bf7-a535-c76f746edc32.jpeg"
         }
       ],
       "summary": {
         "paragraphs": [
-          "El histórico dirigente de la Unión Cívica Radical de Necochea, ex concejal, ex diputado provincial y ex diputado nacional, Pedro José \"Perico\" Azcoiti , cuestionó el renovado protagonismo que el gobierno de Javier Milei le otorgó a la cuestión Malvinas y consideró que el tema está siendo utilizado para modificar el eje del debate público. Durante una entrevista en Voces de la Tarde , el programa que conduce Jorge Gómez por Radio Noticias Necochea 97.3 , Azcoiti fue contundente al afirmar que \"Malvinas es una causa nacional, no hay dudas, pero esto ya es una farsa\" .",
-          "El dirigente radical sostuvo que el reclamo de soberanía debe ser una política de Estado y no una herramienta coyuntural de ningún gobierno. En ese sentido, trazó un paralelismo con 1982, cuando la última dictadura militar impulsó la recuperación de las islas en medio de un fuerte deterioro político y social."
+          "Un hombre de 52 años fue aprehendido por personal policial luego de protagonizar una confrontación en un comercio ubicado en calle 73 al 600, en Necochea. Durante el procedimiento, los efectivos secuestraron cuatro armas blancas y un envoltorio con cocaína. El operativo comenzó a partir de un llamado al sistema de emergencias 911 que alertó sobre un conflicto en el establecimiento. Al llegar al lugar, los uniformados entrevistaron a una mujer de 64 años, quien señaló al hombre involucrado en el episodio.",
+          "Según se informó, el sujeto se encontraba en un estado de marcada ofuscación y presentaba signos compatibles con encontrarse bajo los efectos del alcohol o de alguna sustancia. Durante el cacheo preventivo, los policías constataron que llevaba un cuchillo entre sus prendas. Además, al revisar una mochila de su propiedad encontraron otras tres armas blancas de diferentes características."
         ],
-        "generated": "2026-09-06T00:46:50.573253+00:00"
+        "generated": "2026-09-06T05:45:35.092839+00:00"
       }
     },
     {
-      "key": "cyrano paris apuesta cafe delivery nuevas propuestas primavera",
-      "title": "Cyrano París apuesta al café, el delivery y nuevas propuestas para la primavera",
-      "score": 1.1,
+      "key": "club leones concreto donacion nuevo monitor ecografo pediatria neonatologia",
+      "title": "El Club de Leones concretó la donación de un nuevo monitor para el ecógrafo de Pediatría y Neonatología",
+      "score": 0.856,
       "sources_count": 1,
-      "first_seen": "2026-09-06T00:46:27.495894+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/56325b0b66ef96adc633bce07928610416cb1a71.jpg",
+      "first_seen": "2026-09-06T03:52:06+00:00",
+      "image": null,
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Cyrano París apuesta al café, el delivery y nuevas propuestas para la primavera",
-          "url": "https://necocheadigital.com/nota/119509/cyrano-paris-apuesta-al-cafe-el-delivery-y-nuevas-propuestas-para-la-primavera/",
-          "published_at": null,
-          "category": null,
+          "portal": "Diario NQ",
+          "title": "El Club de Leones concretó la donación de un nuevo monitor para el ecógrafo de Pediatría y Neonatología",
+          "url": "https://diarionq.com.ar/el-club-de-leones-concreto-la-donacion-de-un-nuevo-monitor-para-el-ecografo-de-pediatria-y-neonatologia/",
+          "published_at": "2026-09-06T03:52:06+00:00",
+          "category": "Interés General",
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "El invierno no frenó la actividad de Cyrano París , que continúa fortaleciendo su propuesta gastronómica con nuevas promociones, horarios ampliados y un servicio de delivery que gana cada vez más protagonismo. Así lo contó Julia Merlo , integrante del grupo Cyrano, durante una entrevista en Voces de la Tarde , el programa que conduce Jorge Gómez por Radio Noticias Necochea 97.3 . Merlo realizó un balance positivo de la temporada invernal y destacó el crecimiento de la cafetería ubicada en el Cine Teatro París, que abre sus puertas desde las 7.30 y ofrece delivery de café hasta las 11.30 .",
-          "La propuesta está orientada principalmente a oficinas, comercios y vecinos que buscan recibir el desayuno o la merienda sin salir de su lugar de trabajo o de sus hogares. La carta incluye café de especialidad, medialunas, porciones de torta, alfajores de maicena, brownies con nuez y distintas opciones dulces y saladas."
+          "El Club de Leones concretó un nuevo aporte destinado a mejorar la atención de los más pequeños, con la instalación de un nuevo monitor en el ecógrafo utilizado por los servicios de Pediatría y Neonatología. La incorporación permitió renovar el equipo de ecografía y representa una herramienta de gran utilidad para los profesionales, ya que posibilita realizar diferentes estudios directamente en la cabecera del bebé, evitando traslados innecesarios. Según explicaron desde el área médica, la ecografía permite obtener diagnósticos sin procedimientos invasivos y sin emitir radiaciones, una característica especialmente importante en la atención neonatal.",
+          "A través del equipo pueden obtenerse imágenes del cerebro del bebé y observar su circulación, además de estudiar el corazón, su contracción y el flujo sanguíneo. También posibilita evaluar los pulmones y el abdomen."
         ],
-        "generated": "2026-09-06T00:46:51.585232+00:00"
+        "generated": "2026-09-06T05:45:37.899946+00:00"
       }
     },
     {
-      "key": "crudo relato comerciante baja persiana ciudad gobernada libertarios",
-      "title": "El crudo relato de un comerciante que baja la persiana en la ciudad gobernada por los libertarios",
-      "score": 1.1,
+      "key": "derrota ministerio penales",
+      "title": "Derrota de Ministerio por penales",
+      "score": 0.586,
       "sources_count": 1,
-      "first_seen": "2026-09-06T00:46:27.495894+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/cba72b841ffa23f250510b8eaea5f53bab6b7cc8.jpg",
+      "first_seen": "2026-09-05T23:19:03+00:00",
+      "image": null,
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "El crudo relato de un comerciante que baja la persiana en la ciudad gobernada por los libertarios",
-          "url": "https://necocheadigital.com/nota/119508/el-crudo-relato-de-un-comerciante-que-baja-la-persiana-en-la-ciudad-gobernada-por-los-libertarios/",
-          "published_at": null,
-          "category": null,
+          "portal": "Diario NQ",
+          "title": "Derrota de Ministerio por penales",
+          "url": "https://diarionq.com.ar/derrota-de-ministerio-por-penales/",
+          "published_at": "2026-09-05T23:19:03+00:00",
+          "category": "Deportes",
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "La crisis del consumo volvió a golpear a un comercio histórico de Mar del Plata. La fábrica de sweaters Mística del Faro , con más de tres décadas de trayectoria, anunció el cierre definitivo de su local físico y continuará únicamente con ventas online, en una decisión que sus propietarios calificaron como la más difícil desde que comenzaron la actividad. El comercio, ubicado en la esquina de Belgrano y San Juan , había sido inaugurado hace apenas un año como una apuesta para crecer y darle mayor visibilidad a la marca.",
-          "Sin embargo, la fuerte caída de las ventas y el incremento de los costos hicieron inviable sostener el proyecto. \" Es la primera vez en 30 años que no veo la salida \", expresó Maxi, uno de los dueños, en diálogo con el portal 0223 . El comerciante explicó que la empresa seguirá funcionando con su fábrica y la tienda online, aunque reconoció que el cierre del local representa un retroceso."
+          "La gran final de los campeones de la Federación Bonaerense Pampeana culminó 0 a 0 y en la definición por penales, San Lorenzo de Villa Castells se impuso 6 a 5 y se consagró campeón. Fue un partido con mucha paridad y un campo de juego, en mal estado, que no ayudó al juego asociado con pelota al piso. La situación más clara se dio en el segundo tiempo para San Lorenzo, que en el último cuarto de hora atacó más, y el travesaño le impidió abrir el marcador.",
+          "Ministerio que no pasó mayores sobresaltos, tuvo un par de jugadas de contragolpe que no pudo culminar de la mejor manera. En los penales, los de Quequén, comenzaron bien con el primer tiro atajando por Gaytan."
         ],
-        "generated": "2026-09-06T00:46:52.204639+00:00"
-      }
-    },
-    {
-      "key": "pasa justicia tiene cuatro reincidencias volvio quedar detenido golpear secuestrar amenazar pareja",
-      "title": "¿Qué pasa con la Justicia? Tiene cuatro reincidencias y volvió a quedar detenido por golpear, secuestrar y amenazar a su pareja",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-09-06T00:46:27.495894+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260904175834_whatsapp-image-2026-09-04-at-17-58-08.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "¿Qué pasa con la Justicia? Tiene cuatro reincidencias y volvió a quedar detenido por golpear, secuestrar y amenazar a su pareja",
-          "url": "https://necocheadigital.com/nota/119506/que-pasa-con-la-justicia-tiene-cuatro-reincidencias-y-volvio-a-quedar-detenido-por-golpear-secuestrar-y-amenazar-a-su-pareja/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Un hombre de 39 años volvió a quedar detenido en Quequén, acusado de protagonizar un grave episodio de violencia de género contra su pareja. Según la investigación, la golpeó, le impidió salir de la vivienda, la amenazó con matarla utilizando un arma de fuego y efectuó un disparo dentro del domicilio. La mujer no resultó herida.",
-          "El caso adquiere una particular gravedad por los antecedentes del acusado: cuenta con condenas previas por robos cometidos con armas y fue declarado reincidente por cuarta vez . La nueva detención vuelve a poner sobre la mesa un interrogante difícil de soslayar: ¿qué está pasando con las leyes y con el sistema de Justicia cuando una persona con semejante historial vuelve a encontrarse en condiciones de protagonizar un hecho de estas características? El ataque ocurrió en una vivienda de Quequén El episodio investigado ocurrió el domingo 23 de agosto, alrededor de las 21, en una vivienda de Quequén."
-        ],
-        "generated": "2026-09-06T00:46:52.859480+00:00"
-      }
-    },
-    {
-      "key": "via rosario presento propuesta transporte publico necochea",
-      "title": "Vía Rosario presentó su propuesta para el transporte público de Necochea",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-09-06T00:46:27.495894+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/d45f2960e00c8256320cab31925727f4625a7e39.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Vía Rosario presentó su propuesta para el transporte público de Necochea",
-          "url": "https://necocheadigital.com/nota/119504/via-rosario-presento-su-propuesta-para-el-transporte-publico-de-necochea/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La Comisión de Transporte del Concejo Deliberante comenzó una ronda de reuniones con las empresas que manifestaron interés en hacerse cargo del servicio público de pasajeros de Necochea y Quequén, luego de que la licitación para concesionar la prestación quedara desierta en dos oportunidades. El primer encuentro se realizó este viernes mediante una reunión por Zoom con representantes de Vía Rosario, empresa que presentó sus antecedentes y los principales lineamientos de la propuesta que impulsa para el distrito.",
-          "La reunión fue presidida por el concejal Julián Kristiansen y contó con la participación de representantes de los distintos bloques del Concejo Deliberante y del director de Transporte municipal, Facundo Crocci. Por parte de la empresa participaron su gerente, Norberto Fenoglio, y Alejo Fenoglio, integrante de su equipo técnico."
-        ],
-        "generated": "2026-09-06T00:46:53.462480+00:00"
-      }
-    },
-    {
-      "key": "sergio gertie designado martillero subasta teatro auditorium",
-      "title": "Sergio Gertie fue designado martillero para la subasta del Teatro Auditorium",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-09-06T00:46:27.495894+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/3088f0b07835254e5a718732c547f48602f48cd0.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Sergio Gertie fue designado martillero para la subasta del Teatro Auditorium",
-          "url": "https://necocheadigital.com/nota/119503/sergio-gertie-fue-designado-martillero-para-la-subasta-del-teatro-auditorium/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Sergio Marcelo Gertie fue designado como martillero titular para llevar adelante la subasta del Teatro Auditorium del Complejo Casino, luego de resultar favorecido con la bolilla número 10 en un sorteo público realizado este viernes en el Salón de Actos Municipal. Como suplente fue elegida Samanta Lucía Rumi, quien obtuvo la bolilla número 12. El procedimiento fue encabezado por el intendente Arturo Rojas y estuvo a cargo de la escribana Ana Hijano.",
-          "Del sorteo participaron 21 profesionales inscriptos, además de funcionarios municipales, la presidenta del Colegio de Martilleros, Romina Casal, y la titular del Colegio de Escribanos, Andrea Salvini. Tras conocerse el resultado, Gertie manifestó su satisfacción por la designación y destacó la responsabilidad que implica intervenir en la subasta de uno de los edificios históricos de la ciudad."
-        ],
-        "generated": "2026-09-06T00:46:54.139450+00:00"
-      }
-    },
-    {
-      "key": "puerto quequen presenta dos libros autores locales marco programa puerto ciudad",
-      "title": "Puerto Quequén presenta dos libros de autores locales en el marco del programa “Puerto Ciudad”",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-09-06T00:46:27.495894+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/3c76daae9e3d14a9b03cf3b53898937fa090b3eb.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Puerto Quequén presenta dos libros de autores locales en el marco del programa “Puerto Ciudad”",
-          "url": "https://necocheadigital.com/nota/119502/puerto-quequen-presenta-dos-libros-de-autores-locales-en-el-marco-del-programa-puerto-ciudad/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Al respecto, Mariano Carrillo, Presidente del C.G.P.Q., indicó que “la actividad es parte la política cultural impulsada desde el programa Puerto-Ciudad”. El encuentro tendrá lugar en el Centro Cultural de Necochea – Biblioteca Popular Andrés Ferreyra, ubicado en Calle 54 Nº 3062, a partir de las 18:30 horas, con acceso libre y gratuito para toda la comunidad. Cronograma de la jornada 18:30 h: Recepción y apertura institucional. 18:45 h: Interpretación del Himno Nacional en piano.",
-          "18:55 h: Proyección audiovisual. 19:00 h: Presentación del libro “Mariano Necochea Gran Mariscal Sudamericano”, a cargo del Dr. Mariano Carrillo, el Lic."
-        ],
-        "generated": "2026-09-06T00:46:54.756715+00:00"
-      }
-    },
-    {
-      "key": "mar plata necochea recuperaron vehiculo robado aprehendieron conductora",
-      "title": "De Mar del Plata a Necochea: recuperaron un vehículo robado y aprehendieron a su conductora",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-09-06T00:46:27.495894+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260904174132_whatsapp-image-2026-09-04-at-17-41-19.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "De Mar del Plata a Necochea: recuperaron un vehículo robado y aprehendieron a su conductora",
-          "url": "https://necocheadigital.com/nota/119505/de-mar-del-plata-a-necochea-recuperaron-un-vehiculo-robado-y-aprehendieron-a-su-conductora/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Un nuevo procedimiento policial volvió a poner en evidencia la circulación en Necochea de vehículos vinculados con hechos delictivos registrados en Mar del Plata. En este caso, efectivos de la Comisaría Primera de Necochea recuperaron una Chevrolet Tracker de color negro que tenía un pedido de secuestro activo por un robo automotor ocurrido en la vecina ciudad. El procedimiento fue realizado por personal del Gabinete Técnico Operativo de la Comisaría Primera durante recorridas preventivas en inmediaciones de calle 65 entre Avenida 42 y calle 40.",
-          "Allí los efectivos observaron el vehículo y realizaron un seguimiento controlado hasta interceptarlo en calle 40 entre 67 y 69. Durante la identificación del rodado y la verificación de la documentación, los policías detectaron una inconsistencia entre la numeración del chasis consignada en la cédula y la numeración grabada físicamente en el vehículo."
-        ],
-        "generated": "2026-09-06T00:46:55.376894+00:00"
-      }
-    },
-    {
-      "key": "necochea participo feria plateada muestra galeria ramal",
-      "title": "Necochea participó de la Feria «Plateada» con la muestra de la galería Ramal",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-09-06T00:46:27.495894+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260904164659_04-09-foto-galeria-ramal-en-plateada.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Necochea participó de la Feria «Plateada» con la muestra de la galería Ramal",
-          "url": "https://necocheadigital.com/nota/119501/necochea-participo-de-la-feria-laquo-plateada-raquo-con-la-muestra-de-la-galeria-ramal/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La Galería de Artes Municipal Ramal, perteneciente al Centro Cultural Municipal de Necochea , tuvo una destacada participación en la IV edición de la Feria de Arte Contemporáneo bonaerense “Plateada” , que se desarrolló del 28 al 30 de agosto en el Centro Provincial de las Artes Teatro Argentino de La Plata. La propuesta local fue seleccionada entre más de 100 proyectos postulados de toda la provincia de Buenos Aires , quedando entre las 39 galerías y proyectos que finalmente fueron convocados para exponer en este importante encuentro artístico.",
-          "Ramal presentó obras de los artistas Diego Conti, Paula Almacio y Juan Pablo Martín , llevando una representación del arte contemporáneo necochense a una feria que reunió propuestas de distintas ciudades bonaerenses, entre ellas La Plata, Martínez, Bahía Blanca, Mar del Plata y Necochea."
-        ],
-        "generated": "2026-09-06T00:46:56.002674+00:00"
-      }
-    },
-    {
-      "key": "alerta amarillo fuertes vientos sabado necochea quequen",
-      "title": "Alerta amarillo por fuertes vientos para este sábado en Necochea y Quequén",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-09-06T00:46:27.495894+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260904180316_20260901122039-20260406185249-whatsapp-image-2026-04-06-at-18-50-49.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Alerta amarillo por fuertes vientos para este sábado en Necochea y Quequén",
-          "url": "https://necocheadigital.com/nota/119507/alerta-amarillo-por-fuertes-vientos-para-este-sabado-en-necochea-y-quequen/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El Servicio Meteorológico Nacional emitió un alerta amarillo por vientos para este sábado 5 de septiembre, que alcanzará a Necochea, Quequén y la zona costera durante un período que abarcará la madrugada, la mañana y las primeras horas de la tarde. De acuerdo con el panorama meteorológico difundido por la Dirección Provincial de Defensa Civil para las zonas DC 6 y 7, durante ese período se registrarán ráfagas del sector sur.",
-          "En general, los valores de viento se ubicarán entre 40 y 50 kilómetros por hora , aunque de manera aislada podrían alcanzar los 60 kilómetros por hora . Las mayores intensidades se esperan sobre los municipios costeros , por lo que se recomienda extremar las precauciones en sectores próximos al mar, accesos y zonas expuestas."
-        ],
-        "generated": "2026-09-06T00:46:57.024612+00:00"
-      }
-    },
-    {
-      "key": "radiografia centro comercial necochea 95 locales permanecen actividad",
-      "title": "Radiografía del centro comercial de Necochea: 95 locales permanecen sin actividad",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-09-06T00:46:27.495894+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/a197943b461f4c728b62e13679120cf1c402aedc.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Radiografía del centro comercial de Necochea: 95 locales permanecen sin actividad",
-          "url": "https://necocheadigital.com/nota/119500/radiografia-del-centro-comercial-de-necochea-95-locales-permanecen-sin-actividad/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "NECOnomía presentó los resultados de un nuevo relevamiento sobre la actividad comercial en el centro de Necochea, realizado durante agosto, que refleja un aumento en la cantidad de locales sin funcionamiento. De acuerdo con el informe, sobre un total de 680 locales relevados , 95 permanecen sin actividad comercial , lo que equivale al 14% del total , es decir, aproximadamente uno de cada siete locales . La comparación con el estudio realizado en mayo muestra un crecimiento de la vacancia comercial.",
-          "En aquella oportunidad se habían registrado 88 locales cerrados , por lo que en tres meses la cifra aumentó en 7 establecimientos , pasando del 12,9% al 14% . Durante ese período también se registró movimiento dentro del sector comercial, con cierres en distintos rubros."
-        ],
-        "generated": "2026-09-06T00:46:57.650403+00:00"
-      }
-    },
-    {
-      "key": "unicen impulsa relevamiento inedito mejorar seguridad ruta 88",
-      "title": "La UNICEN impulsa un relevamiento inédito para mejorar la seguridad en la Ruta 88",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-09-06T00:46:27.495894+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/098599b53f48cfee45bec9878af4753f9da32910.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "La UNICEN impulsa un relevamiento inédito para mejorar la seguridad en la Ruta 88",
-          "url": "https://necocheadigital.com/nota/119497/la-unicen-impulsa-un-relevamiento-inedito-para-mejorar-la-seguridad-en-la-ruta-88/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La Universidad Nacional del Centro (UNICEN) puso en marcha un ambicioso relevamiento sobre el tránsito y la siniestralidad en la Ruta Provincial 88, con el objetivo de generar información técnica que permita mejorar la seguridad vial y contribuir al futuro proyecto de una autovía. La iniciativa surgió desde la carrera de Logística Integral de la sede Quequén y reúne a docentes, investigadores del CONICET, estudiantes, no docentes e integrantes de otras propuestas académicas de la universidad.",
-          "En diálogo con Radio Noticias Necochea 97.3 , durante una entrevista realizada por Quimey Marfil , el ingeniero y docente Dante Galván explicó que el trabajo comenzó tras el siniestro en el que perdieron la vida Anita y un chofer, hecho que volvió a poner en primer plano la necesidad de mejorar este corredor vial. \"Entendemos que el rol que cumple la universidad tiene que ser de aporte al entorno\", afirmó."
-        ],
-        "generated": "2026-09-06T00:46:58.656642+00:00"
-      }
-    },
-    {
-      "key": "pj necochea suma casi 600 preafiliaciones rivero cruzo milei discurso malvinas",
-      "title": "El PJ de Necochea ya suma casi 600 preafiliaciones y Rivero cruzó a Milei por su discurso sobre Malvinas",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-09-06T00:46:27.495894+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/c2a363a0e344577970d45c38086124660ecc1ed6.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "El PJ de Necochea ya suma casi 600 preafiliaciones y Rivero cruzó a Milei por su discurso sobre Malvinas",
-          "url": "https://necocheadigital.com/nota/119499/el-pj-de-necochea-ya-suma-casi-600-preafiliaciones-y-rivero-cruzo-a-milei-por-su-discurso-sobre-malvinas/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El Partido Justicialista de Necochea atraviesa una intensa campaña de preafiliación que ya alcanzó las 574 adhesiones en poco más de dos meses. El dato fue confirmado por el presidente del PJ local y concejal, Marcelo Rivero , durante una entrevista en Radio Noticias Necochea 97.3 , con Horacio Castelli. Rivero explicó que la iniciativa forma parte de una campaña impulsada por el Partido Justicialista de la provincia de Buenos Aires y que el objetivo ahora es llegar a las 1.000 preafiliaciones , una cifra que representaría más del 10% del padrón partidario local.",
-          "\"Hemos podido hacer 574 preafiliaciones y nos pusimos como objetivo tratar de llegar a las mil\", afirmó. El dirigente consideró que el número refleja que \"hay una recepción de la gente hacia el peronismo\" y agradeció el trabajo de los militantes que recorren distintos barrios de Necochea, Quequén y el interior del distrito para facilitar el trámite de afiliación."
-        ],
-        "generated": "2026-09-06T00:46:59.619258+00:00"
-      }
-    },
-    {
-      "key": "fuerte polemica fuerzas armadas sospechan nueva base naval anunciada milei podria quedar influencia estados unidos",
-      "title": "Fuerte polémica: en las Fuerzas Armadas sospechan que la nueva base naval anunciada por Milei podría quedar bajo influencia de Estados Unidos",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-09-06T00:46:27.495894+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/4a72e9217a8e74c628b7ba399c1793fa2af085dc.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Fuerte polémica: en las Fuerzas Armadas sospechan que la nueva base naval anunciada por Milei podría quedar bajo influencia de Estados Unidos",
-          "url": "https://necocheadigital.com/nota/119496/fuerte-polemica-en-las-fuerzas-armadas-sospechan-que-la-nueva-base-naval-anunciada-por-milei-podria-quedar-bajo-influencia-de-estados-unidos/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El anuncio del presidente Javier Milei sobre el envío al Congreso de un paquete de proyectos para fortalecer la soberanía argentina en las Islas Malvinas y la construcción de una nueva base naval en Tierra del Fuego abrió un fuerte debate dentro de las Fuerzas Armadas. Si bien distintas voces del ámbito militar coincidieron en respaldar el reclamo histórico de soberanía sobre las islas y la necesidad de reforzar la presencia argentina en el Atlántico Sur, también surgieron cuestionamientos sobre la viabilidad del proyecto y sospechas acerca del eventual papel que podría desempeñar Estados Unidos.",
-          "Según distintas fuentes militares consultadas por La Política Online , existe preocupación por la posibilidad de que la futura base termine funcionando con una fuerte participación norteamericana, en un esquema similar al de otras instalaciones militares administradas conjuntamente con Estados Unidos."
-        ],
-        "generated": "2026-09-06T00:47:00.257330+00:00"
-      }
-    },
-    {
-      "key": "demanda salud publica crecio 30 sistema municipal enfrenta fuerte presion",
-      "title": "La demanda de la salud pública creció hasta un 30% y el sistema municipal enfrenta una fuerte presión",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-09-06T00:46:27.495894+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/24dcbf7949542a9bbb64e85806bcb45401adc1bf.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "La demanda de la salud pública creció hasta un 30% y el sistema municipal enfrenta una fuerte presión",
-          "url": "https://necocheadigital.com/nota/119494/la-demanda-de-la-salud-publica-crecio-hasta-un-30-y-el-sistema-municipal-enfrenta-una-fuerte-presion/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El sistema de salud pública de Necochea atraviesa uno de sus momentos de mayor exigencia. Según la secretaria de Salud, Andrea Perestiuk , la demanda de atención en los hospitales municipales aumentó entre un 25 y un 30 por ciento respecto del año pasado, una situación que refleja el impacto de la crisis económica sobre el acceso a la salud. En diálogo con Voces de la Tarde , programa que conduce Jorge Gómez por Radio Noticias Necochea 97.3, la funcionaria explicó que el fenómeno responde, principalmente, a la pérdida del poder adquisitivo y a las dificultades que enfrentan muchas familias para sostener una cobertura privada.",
-          "\"Siempre que hay una crisis económica y social, sobre todo de índole económica, cuando se reduce el poder adquisitivo de la sociedad, eso es inversamente proporcional para el sistema público de salud. Es mayor la demanda que tiene el sistema de salud\", señaló."
-        ],
-        "generated": "2026-09-06T00:47:00.885993+00:00"
-      }
-    },
-    {
-      "key": "cadena nacional milei anuncio paquete leyes base naval reforzar reclamo malvinas",
-      "title": "Cadena nacional: Milei anunció un paquete de leyes y una base naval para reforzar el reclamo por Malvinas",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-09-06T00:46:27.495894+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260903212024_captura.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Cadena nacional: Milei anunció un paquete de leyes y una base naval para reforzar el reclamo por Malvinas",
-          "url": "https://necocheadigital.com/nota/119492/cadena-nacional-milei-anuncio-un-paquete-de-leyes-y-una-base-naval-para-reforzar-el-reclamo-por-malvinas/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "En una cadena nacional emitida este jueves por la noche, el presidente Javier Milei anunció el envío al Congreso de un paquete de proyectos de ley orientados a fortalecer la defensa de la soberanía argentina sobre las Islas Malvinas y confirmó la creación de una nueva base naval con presencia estratégica en el Atlántico Sur. Acompañado por todos los integrantes de su Gabinete, el mandatario aseguró que la iniciativa busca dotar al Estado de nuevas herramientas para sostener el histórico reclamo argentino.",
-          "\"Las Malvinas son argentinas por historia y por derecho, no hay discusión al respecto\" , afirmó al comenzar su mensaje. Un paquete de leyes para reforzar el reclamo Milei explicó que el Gobierno impulsará un conjunto de proyectos legislativos destinados a fortalecer el marco jurídico e institucional vinculado a la defensa de la soberanía nacional."
-        ],
-        "generated": "2026-09-06T00:47:01.508722+00:00"
-      }
-    },
-    {
-      "key": "condenaron 15 anos prision hombre abusos sexuales corrupcion menores necochea",
-      "title": "Condenaron a 15 años de prisión a un hombre por abusos sexuales y corrupción de menores en Necochea",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-09-06T00:46:27.495894+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260903173933_whatsapp-image-2026-09-03-at-17-39-16.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Condenaron a 15 años de prisión a un hombre por abusos sexuales y corrupción de menores en Necochea",
-          "url": "https://necocheadigital.com/nota/119489/condenaron-a-15-anos-de-prision-a-un-hombre-por-abusos-sexuales-y-corrupcion-de-menores-en-necochea/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La Justicia penal del Departamento Judicial Necochea condenó a 15 años de prisión de efectivo cumplimiento a un hombre de 60 años , luego de hallarlo penalmente responsable de delitos contra la integridad sexual cometidos contra dos menores de edad. La sentencia fue dictada en el marco de un juicio abreviado , a partir del acuerdo alcanzado entre el Ministerio Público Fiscal y la defensa oficial del imputado. Los hechos investigados ocurrieron entre agosto y septiembre de 2021 , en un domicilio de Necochea.",
-          "De acuerdo con la investigación policial y judicial, las dos víctimas eran menores de edad al momento de los hechos y mantenían un vínculo intrafamiliar con el condenado, quien era su padrastro . La calificación de los hechos La sentencia fue dictada por la jueza unipersonal Luciana Irigoyen Testa , integrante del Tribunal Criminal Nº 1 de Necochea ."
-        ],
-        "generated": "2026-09-06T00:47:02.112166+00:00"
-      }
-    },
-    {
-      "key": "dos hurtos pocos minutos aprehendieron joven recuperaron celular mochila necochea",
-      "title": "Dos hurtos en pocos minutos: aprehendieron a un joven y recuperaron un celular y una mochila en Necochea",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-09-06T00:46:27.495894+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260903174516_20260903102857-whatsapp-image-2026-09-03-at-9-41-07-am.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Dos hurtos en pocos minutos: aprehendieron a un joven y recuperaron un celular y una mochila en Necochea",
-          "url": "https://necocheadigital.com/nota/119490/dos-hurtos-en-pocos-minutos-aprehendieron-a-un-joven-y-recuperaron-un-celular-y-una-mochila-en-necochea/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Dos hechos de hurto ocurridos en distintos puntos de Necochea fueron esclarecidos luego de un procedimiento policial que terminó con un joven de 19 años aprehendido y con la recuperación de un teléfono celular y una mochila que contenía documentación personal y llaves de un automóvil. El procedimiento comenzó a partir de un llamado al sistema de emergencias 911 , que alertó sobre la sustracción de un teléfono celular del interior de un vehículo de reparto estacionado en inmediaciones de avenida 59 y calle 80 .",
-          "A partir de las características aportadas por el denunciante, efectivos policiales realizaron una recorrida por la zona y lograron localizar, en inmediaciones de calle 86 y calle 69 , a un joven que coincidía con la descripción recibida. Durante la identificación, los agentes constataron que llevaba consigo un teléfono celular Samsung de color blanco ."
-        ],
-        "generated": "2026-09-06T00:47:02.889051+00:00"
-      }
-    },
-    {
-      "key": "tres accidentes dejaron vehiculos danados joven trasladada hospital necochea",
-      "title": "Tres accidentes dejaron vehículos dañados y una joven trasladada al hospital en Necochea",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-09-06T00:46:27.495894+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260902172457_whatsapp-image-2026-09-02-at-17-24-30.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Tres accidentes dejaron vehículos dañados y una joven trasladada al hospital en Necochea",
-          "url": "https://necocheadigital.com/nota/119476/tres-accidentes-dejaron-vehiculos-danados-y-una-joven-trasladada-al-hospital-en-necochea/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Una jornada con varios accidentes de tránsito se registró este miércoles en distintos puntos de Necochea, con daños materiales en los vehículos involucrados y el traslado de una joven al Hospital Municipal “Dr. El primero de los hechos ocurrió durante el mediodía en la intersección de avenida 58 y calle 69 , donde se produjo una colisión que involucró a tres automóviles. De acuerdo con la información disponible, una Volkswagen Suran impactó contra otro vehículo y, como consecuencia de la fuerza del choque, este último terminó embistiendo a un Fiat Palio que se encontraba estacionado .",
-          "El siniestro dejó daños materiales en los tres automóviles , sin que se informaran personas heridas. Personal de Tránsito y de la Policía trabajó en el lugar para ordenar la circulación. Una motociclista fue trasladada al hospital En las primeras horas de la tarde se produjo otro accidente en la misma intersección de avenida 58 y calle 69 ."
-        ],
-        "generated": "2026-09-06T00:47:03.555566+00:00"
-      }
-    },
-    {
-      "key": "buscan familia referentes afectivos acompanar adolescente",
-      "title": "Buscan familia o referentes afectivos para acompañar a un adolescente",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-09-06T00:46:27.495894+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260903112441_flyer-guardas-y-adopcion2.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Buscan familia o referentes afectivos para acompañar a un adolescente",
-          "url": "https://necocheadigital.com/nota/119486/buscan-familia-o-referentes-afectivos-para-acompanar-a-un-adolescente/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La Municipalidad de Necochea, a través del Servicio Local que depende de su Secretaría de Desarrollo Humano y Políticas Sociales, informa sobre la búsqueda activa impulsada por el Juzgado de Familia Nº 1 del Departamento Judicial de Dolores (Ref. La convocatoria está orientada a postulantes a guardas con fines de adopción, así como también a personas o familias que deseen ofrecerse como referentes afectivos, tutores o figuras análogas de cuidado. Andrés nació el 2 de marzo de 2009.",
-          "Se caracteriza por ser un adolescente de 17 años muy simpático, extrovertido y social , con gran facilidad para entablar vínculos y compartir conversaciones. Cursa actualmente el 3.º año del Nivel Secundario y, en sus momentos libres, disfruta de asistir a la escuela de fútbol, participar en actividades recreativas con sus compañeros y conocer gente nueva."
-        ],
-        "generated": "2026-09-06T00:47:04.179899+00:00"
-      }
-    },
-    {
-      "key": "detuvieron hombre 52 anos amenazas grooming necochea",
-      "title": "Detuvieron a un hombre de 52 años por amenazas y grooming en Necochea",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-09-06T00:46:27.495894+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/8c7686c0f67c3b6e084d8c1f5ebc7cb59b5ea699.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Detuvieron a un hombre de 52 años por amenazas y grooming en Necochea",
-          "url": "https://necocheadigital.com/nota/119485/detuvieron-a-un-hombre-de-52-anos-por-amenazas-y-grooming-en-necochea/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Personal de la DDI Necochea realizó un allanamiento en un domicilio de la ciudad en el marco de una investigación iniciada a partir de una denuncia por amenazas y presunta captación de una menor de edad mediante medios tecnológicos con fines sexuales , delito conocido como grooming. Durante el procedimiento, los investigadores secuestraron distintos dispositivos y soportes tecnológicos que serán sometidos a las pericias correspondientes y que podrían aportar información de interés para el avance de la causa.",
-          "Entre los elementos incautados se encuentran teléfonos celulares, computadoras portátiles, una tablet, memorias USB, tarjetas de memoria y otros dispositivos de almacenamiento . El análisis de estos elementos será una de las principales medidas para determinar si contienen información vinculada con los hechos que son materia de investigación."
-        ],
-        "generated": "2026-09-06T00:47:04.817855+00:00"
-      }
-    },
-    {
-      "key": "recuperaron necochea fiat argo robado mano armada mar plata",
-      "title": "Recuperaron en Necochea un Fiat Argo robado a mano armada en Mar del Plata",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-09-06T00:46:27.495894+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/46ef23916652f2d6efe375c9d0c30d99588590a5.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Recuperaron en Necochea un Fiat Argo robado a mano armada en Mar del Plata",
-          "url": "https://necocheadigital.com/nota/119465/recuperaron-en-necochea-un-fiat-argo-robado-a-mano-armada-en-mar-del-plata/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Un Fiat Argo azul que había sido robado a mano armada en Mar del Plata fue recuperado en Necochea luego de una persecución policial. El vehículo fue detectado durante recorridas preventivas realizadas en el marco de un dispositivo de saturación desplegado en Necochea y Quequén. El procedimiento se inició en inmediaciones de calle 38, entre avenida 75 y calle 73, cuando efectivos policiales observaron el automóvil circulando sin la chapa patente delantera colocada y con un dominio trasero que no correspondía al rodado.",
-          "Ante las irregularidades, los agentes iniciaron un seguimiento controlado. La situación derivó en una persecución por distintas calles de la ciudad, hasta que el Fiat Argo pudo ser interceptado en calle 52. El conductor, un hombre de 33 años, fue identificado en el lugar."
-        ],
-        "generated": "2026-09-06T00:47:05.457771+00:00"
-      }
-    },
-    {
-      "key": "piden sobreseimiento acusado muerte bautista coronel ordenan nueva pericia psicologica",
-      "title": "Piden el sobreseimiento del acusado por la muerte de Bautista Coronel y ordenan una nueva pericia psicológica",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-09-06T00:46:27.495894+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260902171221_775baab9800722699e5dfaa42cd5ae8052a2d35a.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Piden el sobreseimiento del acusado por la muerte de Bautista Coronel y ordenan una nueva pericia psicológica",
-          "url": "https://necocheadigital.com/nota/119473/piden-el-sobreseimiento-del-acusado-por-la-muerte-de-bautista-coronel-y-ordenan-una-nueva-pericia-psicologica/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Un nuevo capítulo se sumó a la causa que investiga la muerte de Bautista Coronel, de 17 años , ocurrida durante una pelea callejera entre la noche del 31 de octubre y la madrugada del 1 de noviembre de 2025, en avenida 2, entre 91 y 93, en Necochea. A pocos días del inicio del juicio oral, la defensa del adolescente imputado por “homicidio simple” presentó un pedido de sobreseimiento y planteó que el acusado es inimputable, al considerar que al momento del hecho no podía comprender la criminalidad de sus actos.",
-          "El joven, que tenía 16 años cuando ocurrió el episodio, permanece alojado en el Centro Cerrado de Contención de Batán . Su abogado defensor, Federico Adler , fundamentó el pedido de sobreseimiento a partir de elementos incorporados durante las últimas audiencias, entre ellos la declaración de un perito médico psiquiatra."
-        ],
-        "generated": "2026-09-06T00:47:06.472200+00:00"
-      }
-    },
-    {
-      "key": "20 anos esi instituciones necochea impulsan mes actividades reflexionar derechos educacion",
-      "title": "A 20 años de la ESI, instituciones de Necochea impulsan un mes de actividades para reflexionar sobre derechos y educación",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-09-06T00:46:27.495894+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/eebf6c3333818a69115c7a49e9d43fd8c91f8f2b.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "A 20 años de la ESI, instituciones de Necochea impulsan un mes de actividades para reflexionar sobre derechos y educación",
-          "url": "https://necocheadigital.com/nota/119487/a-20-anos-de-la-esi-instituciones-de-necochea-impulsan-un-mes-de-actividades-para-reflexionar-sobre-derechos-y-educacion/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Con una agenda que se extenderá durante todo septiembre, las instituciones de nivel superior de gestión pública de Necochea comenzaron este miércoles una serie de actividades para conmemorar los 20 años de la sanción de la Ley de Educación Sexual Integral (ESI) . La iniciativa reúne a docentes y estudiantes de los distintos institutos superiores de la ciudad con el objetivo de generar espacios de encuentro, reflexión y formación sobre los avances, desafíos y debates que atraviesan a la educación sexual integral en la actualidad.",
-          "En diálogo con Radio Noticias Necochea 97.3 , durante una entrevista realizada por Horacio Castelli , la directora de la Escuela Provincial de Arte N.º 1 \"Orillas del Quequén\" , Eugenia Ferrario , expresó su satisfacción por el trabajo conjunto. \"Hoy siento una enorme alegría."
-        ],
-        "generated": "2026-09-06T00:47:07.111730+00:00"
+        "generated": "2026-09-06T05:46:38.814012+00:00"
       }
     }
   ]
