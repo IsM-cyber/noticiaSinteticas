@@ -1,12 +1,61 @@
 {
-  "generated_at": "2026-09-09T16:50:31.710974+00:00",
-  "article_count": 125,
+  "generated_at": "2026-09-09T19:39:27.182670+00:00",
+  "article_count": 175,
   "fetch_errors": [],
   "stories": [
     {
+      "key": "ernesto povilaitis sera nuevo presidente consorcio gestion puerto quequen",
+      "title": "Puerto Quequén: Ernesto Povilaitis será el nuevo presidente",
+      "score": 7.525,
+      "sources_count": 4,
+      "first_seen": "2026-09-08T18:01:00+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/puerto-quequen-ernesto-povilaitis-sera-el-nuevo-presidente-y-espera-la-firma-del-decreto.webp",
+      "articles": [
+        {
+          "portal": "Diario Necochea",
+          "title": "Puerto Quequén: Ernesto Povilaitis será el nuevo presidente",
+          "url": "https://diarionecochea.com/2026/09/09/puerto-quequen-ernesto-povilaitis-sera-el-nuevo-presidente-y-espera-la-firma-del-decreto/",
+          "published_at": null,
+          "category": null,
+          "image": null
+        },
+        {
+          "portal": "Necochea Digital",
+          "title": "Ernesto Povilaitis será el nuevo presidente del Consorcio de Gestión de Puerto Quequén",
+          "url": "https://necocheadigital.com/nota/119536/ernesto-povilaitis-sera-el-nuevo-presidente-del-consorcio-de-gestion-de-puerto-quequen/",
+          "published_at": null,
+          "category": null,
+          "image": null
+        },
+        {
+          "portal": "Necochea Libre",
+          "title": "EL ABOGADO ERNESTO POVILAITIS SERÀ EL NUEVO PRESIDENTE DEL CONSORCIO DE PUERTO QUEQUÈN.",
+          "url": "https://necochealibre.com.ar/el-abogado-ernesto-povilaitis-dera-el-nuevo-presidente-del-consorcio-de-puerto-quequen/",
+          "published_at": "2026-09-08T22:46:16+00:00",
+          "category": "Generales",
+          "image": null
+        },
+        {
+          "portal": "Noticias de Necochea",
+          "title": "Puerto Quequén: Ernesto Povilaitis sería el nuevo presidente, a la espera del decreto",
+          "url": "https://nden.com.ar/nota/38020/puerto-quequen-ernesto-povilaitis-seria-el-nuevo-presidente-a-la-espera-del-decreto",
+          "published_at": "2026-09-08T18:01:00+00:00",
+          "category": null,
+          "image": "http://nden.com.ar/uploads/noticias/5/2026/09/ca5eee12e4ec9466a6136b763cfd517086539b04.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El Gobierno bonaerense confirmó la designación, que todavía espera la firma del decreto de Axel Kicillof y se encuadra en un proceso de normalización institucional del consorcio. El Gobierno bonaerense confirmó la designación de Ernesto Povilaitis como nuevo presidente del Consorcio de Gestión del Puerto Quequén , uno de los principales puertos de la provincia de Buenos Aires y del país.",
+          "El nombramiento todavía debía completar su instancia formal con la firma del decreto del gobernador Axel Kicillof, aunque fuentes gubernamentales indicaron que la decisión ya estaba tomada. La designación tendría carácter retroactivo al 25 de agosto de 2026."
+        ],
+        "generated": "2026-09-09T19:39:45.768486+00:00"
+      }
+    },
+    {
       "key": "82 anos murio chiche gelblung",
       "title": "A los 82 años, murió Chiche Gelblung",
-      "score": 4.243,
+      "score": 3.355,
       "sources_count": 3,
       "first_seen": "2026-09-09T10:58:39+00:00",
       "image": "https://cdnartic.ar/d9NQLHWFiN7pYpddka2AH0xuY5Y=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/05/chiche_gelblung.webp",
@@ -41,100 +90,25 @@
           "TSN Necochea | ‹ VOLVER | Espectáculos | Chiche Gelblung | Entretenimiento ¿De qué murió Chiche Gelblung? Si bien estaba internado por problemas respiratorios, hace unos meses le habían detectado una trombosis en uno de sus tobillos. Por Redacción TSN 09/09/2026 · 11:17 AM Chiche Gelblung Agregar TSN Necochea en El conductor Samuel “Chiche” Gelblung falleció este miércoles a los 82 años tras haber sido internado por un cuadro de dificultades respiratorias en lo que fue el segundo ingreso clínico en el año, ya que, en junio pasado había sido hospitalizado por una trombosis en uno de sus tobillos.",
           "La trombosis venosa profunda se produce cuando se forma un coágulo de sangre (trombo) en una o más venas profundas del cuerpo , generalmente en las piernas. Puede causar dolor o hinchazón de piernas y, a veces, no hay síntomas notorios, según indica un informe de Mayo Clinic al que accedió la Agencia Noticias Argentinas."
         ],
-        "generated": "2026-09-09T16:50:48.362784+00:00"
-      }
-    },
-    {
-      "key": "ernesto povilaitis sera nuevo presidente consorcio gestion puerto quequen",
-      "title": "Ernesto Povilaitis será el nuevo presidente del Consorcio de Gestión de Puerto Quequén",
-      "score": 2.625,
-      "sources_count": 2,
-      "first_seen": "2026-09-08T22:46:16+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260908173435_whatsapp-image-2026-09-08-at-16-13-24.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Ernesto Povilaitis será el nuevo presidente del Consorcio de Gestión de Puerto Quequén",
-          "url": "https://necocheadigital.com/nota/119536/ernesto-povilaitis-sera-el-nuevo-presidente-del-consorcio-de-gestion-de-puerto-quequen/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        },
-        {
-          "portal": "Necochea Libre",
-          "title": "EL ABOGADO ERNESTO POVILAITIS SERÀ EL NUEVO PRESIDENTE DEL CONSORCIO DE PUERTO QUEQUÈN.",
-          "url": "https://necochealibre.com.ar/el-abogado-ernesto-povilaitis-dera-el-nuevo-presidente-del-consorcio-de-puerto-quequen/",
-          "published_at": "2026-09-08T22:46:16+00:00",
-          "category": "Generales",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El Gobierno de la provincia de Buenos Aires definió a Ernesto Povilaitis como nuevo presidente del Consorcio de Gestión de Puerto Quequén , una de las principales terminales portuarias bonaerenses y un punto estratégico para el movimiento de la producción agroindustrial del sudeste de la provincia. La designación ya fue acordada por la administración provincial y, para que quede formalmente oficializada, resta la firma del decreto correspondiente por parte del gobernador Axel Kicillof . Según se informó, el nombramiento tendrá vigencia retroactiva al 25 de agosto .",
-          "La definición se conoció durante el Congreso Productivo Bonaerense, realizado en la ciudad de La Plata. Allí, Povilaitis estuvo acompañado por el intendente de Necochea, Arturo Rojas , el ministro de Producción, Ciencia e Innovación Tecnológica bonaerense, Augusto Costa , y el subsecretario de Asuntos Portuarios, Juan Cruz Lucero ."
-        ],
-        "generated": "2026-09-09T16:50:51.094578+00:00"
-      }
-    },
-    {
-      "key": "huracan volvio triunfo sigue mando liga tres arroyos",
-      "title": "Huracán volvió al triunfo y sigue al mando en la liga de Tres Arroyos",
-      "score": 1.163,
-      "sources_count": 1,
-      "first_seen": "2026-09-09T16:27:51+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/08/Foto-Huracan-Neco-ATB.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Huracán volvió al triunfo y sigue al mando en la liga de Tres Arroyos",
-          "url": "https://tsnnecochea.com.ar/deportes/huracan-volvio-al-triunfo-y-sigue-al-mando-en-la-liga-de-tres-arroyos-236532/",
-          "published_at": "2026-09-09T16:27:51+00:00",
-          "category": "Básquet",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/08/Foto-Huracan-Neco-ATB.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Deportes | Básquet | Básquet masculino Huracán volvió al triunfo y sigue al mando en la liga de Tres Arroyos El equipo necochense ganó nuevamente como local, esta vez ante Argentino Junior. Por Redacción TSN 09/09/2026 · 01:27 PM Agregar TSN Necochea en Huracán de Necochea se recuperó rápido de la derrota de la fecha anterior ante Alumni de Orense y esta semana superó como local con claridad a Argentino Junior de Tres Arroyos por la 6ta fecha del Torneo Oficial de la Asociación Tresarroyense, que lo tiene al Globito como único líder.",
-          "El triunfo del equipo de Santiago Cuñado sobre Argentino fue por 88 a 62 , lo que le permitió conservar el liderazgo en soledad en la ATB, con cinco partidos ganados y solo una derrota. Además, desde que se estrenó el piso flotante y la cancha “Edelma Gallega Pagani” en el Gimnasio Gigante, Huracán ganó todo lo que jugó y acumula tres victorias consecutivas en esa condición."
-        ],
-        "generated": "2026-09-09T16:50:52.929058+00:00"
-      }
-    },
-    {
-      "key": "pablo bricker despidio tio chiche emotivo mensaje me diste trabajo mucho tiempo",
-      "title": "Pablo Bricker despidió a \"Tío Chiche\" con un emotivo mensaje: \"Me diste trabajo durante mucho tiempo\"",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-09-09T16:50:31.710974+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/39e47fa3c58e91a5a1fc679d1a98fcc27cc07feb.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Pablo Bricker despidió a \"Tío Chiche\" con un emotivo mensaje: \"Me diste trabajo durante mucho tiempo\"",
-          "url": "https://necocheadigital.com/nota/119543/pablo-bricker-despidio-a-tio-chiche-con-un-emotivo-mensaje-me-diste-trabajo-durante-mucho-tiempo/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La muerte de \"Tío Chiche\" generó numerosas muestras de afecto y recuerdos de quienes compartieron parte de su trayectoria. Entre ellas se destacó la del reconocido locutor necochense Pablo Bricker , quien trabajó durante varios años junto al conductor en el emblemático programa \"Memoria\" . A través de sus redes sociales, Bricker eligió despedirlo con un mensaje breve, pero cargado de emoción y agradecimiento.",
-          "\"Me quedaré con lo bueno: me diste trabajo durante mucho tiempo. Chau 'Tío Chiche'.\" Las palabras del locutor reflejan el vínculo profesional que mantuvieron durante años y el reconocimiento hacia quien le abrió las puertas para formar parte de uno de los ciclos más recordados de la televisión local. El programa \"Memoria\" marcó una época y reunió a un equipo de trabajo que dejó una huella en la comunicación de la ciudad."
-        ],
-        "generated": "2026-09-09T16:50:59.216754+00:00"
+        "generated": "2026-09-09T19:39:51.605647+00:00"
       }
     },
     {
       "key": "detectado tiempo camaras vieron joven armado policia intercepto antes ocurriera hecho",
-      "title": "Detectado a tiempo: las cámaras vieron a un joven armado y la Policía lo interceptó antes de que ocurriera un hecho",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-09-09T16:50:31.710974+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/341a91ad283032b56e2b9d677b086865c0ff36a2.jpg",
+      "title": "Las cámaras detectaron a un joven armado y la Policía lo interceptó antes de que ocurriera un hecho",
+      "score": 2.875,
+      "sources_count": 2,
+      "first_seen": "2026-09-09T17:35:41+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-09-at-10.00.57.webp",
       "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Las cámaras detectaron a un joven armado y la Policía lo interceptó antes de que ocurriera un hecho",
+          "url": "https://tsnnecochea.com.ar/locales/las-camaras-detectaron-a-un-joven-armado-y-la-policia-lo-intercepto-antes-de-que-ocurriera-un-hecho-236551/",
+          "published_at": "2026-09-09T17:35:41+00:00",
+          "category": "arma blanca",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-09-at-10.00.57.webp"
+        },
         {
           "portal": "Necochea Digital",
           "title": "Detectado a tiempo: las cámaras vieron a un joven armado y la Policía lo interceptó antes de que ocurriera un hecho",
@@ -146,24 +120,57 @@
       ],
       "summary": {
         "paragraphs": [
-          "La rápida intervención del Centro de Monitoreo y el accionar del personal policial permitieron evitar que una situación potencialmente peligrosa escalara a un hecho de mayor gravedad en Necochea. El procedimiento se inició en la intersección de calles 82 y 53, cuando operadores del sistema de videovigilancia detectaron a un joven que, tras observar el movimiento en la zona, habría ocultado entre sus prendas un objeto con características compatibles con un arma blanca.",
-          "Ante la alerta, se dio inmediato aviso a los efectivos policiales, que acudieron al lugar e interceptaron al sospechoso. Durante el cacheo preventivo, los uniformados encontraron una cuchilla tipo Tramontina de aproximadamente 25 centímetros de largo, con mango de madera y funda de cuero, que el joven de 21 años llevaba oculta a la altura de la cintura."
+          "TSN Necochea | ‹ VOLVER | Locales | arma blanca | En calle 82 y 53 Las cámaras detectaron a un joven armado y la Policía lo interceptó antes de que ocurriera un hecho Llevaba una cuchilla oculta entre sus prendas en plena vía pública. Por Redacción TSN 09/09/2026 · 02:35 PM Agregar TSN Necochea en La rápida detección del Centro de Monitoreo y la inmediata respuesta policial permitieron interceptar a un joven que llevaba una cuchilla oculta entre sus prendas en plena vía pública.",
+          "El procedimiento se originó en calle 82 y 53 de Necochea, cuando operadores del sistema de videovigilancia observaron a un masculino que, tras advertir la presencia del entorno, habría ocultado entre sus prendas un elemento de características similares a un arma blanca. De inmediato se activó la intervención policial y efectivos se hicieron presentes en el lugar, logrando identificar e interceptar al sospechoso."
         ],
-        "generated": "2026-09-09T16:51:01.144987+00:00"
+        "generated": "2026-09-09T19:39:53.209947+00:00"
       }
     },
     {
-      "key": "jenny llega cine teatro paris nuevo espectaculo cachicalientas tour",
-      "title": "La Jenny llega al Cine Teatro París con su nuevo espectáculo \"Cachicalientas Tour\"",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-09-09T16:50:31.710974+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260909092916_lg.jpg",
+      "key": "condenaron anos prision docente loberia abuso sexual estudiante",
+      "title": "Condenaron a 8 años de prisión a un docente de Lobería por abuso sexual contra una estudiante",
+      "score": 2.625,
+      "sources_count": 2,
+      "first_seen": "2026-09-09T01:49:00+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260909110510_tribunal-en-lo-criminal-no-1-de-necochea.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "La Jenny llega al Cine Teatro París con su nuevo espectáculo \"Cachicalientas Tour\"",
-          "url": "https://necocheadigital.com/nota/119540/la-jenny-llega-al-cine-teatro-paris-con-su-nuevo-espectaculo-cachicalientas-tour/",
+          "title": "Condenaron a 8 años de prisión a un docente de Lobería por abuso sexual contra una estudiante",
+          "url": "https://necocheadigital.com/nota/119547/condenaron-a-8-anos-de-prision-a-un-docente-de-loberia-por-abuso-sexual-contra-una-estudiante/",
+          "published_at": null,
+          "category": null,
+          "image": null
+        },
+        {
+          "portal": "Noticias de Necochea",
+          "title": "Condenaron a 8 años al docente de Lobería investigado por abuso sexual en una escuela",
+          "url": "https://nden.com.ar/nota/38022/condenaron-a-8-anos-al-docente-de-loberia-investigado-por-abuso-sexual-en-una-escuela",
+          "published_at": "2026-09-09T01:49:00+00:00",
+          "category": null,
+          "image": "http://nden.com.ar/uploads/noticias/5/2026/09/20260908224933_detenido00.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La Justicia de Necochea condenó a ocho años de prisión a un docente de 33 años de Lobería, luego de encontrarlo penalmente responsable del delito de abuso sexual agravado contra una estudiante de 16 años con discapacidad. El condenado se desempeñaba como docente del área de tecnología en la Escuela Técnica Nº 1 de Lobería. Según la investigación policial y judicial, los hechos por los que fue condenado ocurrieron dentro del establecimiento educativo entre marzo y mayo de 2025.",
+          "La causa se inició el 18 de junio de ese año, cuando se radicó una denuncia en la Comisaría de la Mujer y la Familia de Lobería. A partir de esa presentación intervino la Fiscalía Nº 10 del Departamento Judicial de Necochea, especializada en delitos contra la integridad sexual, a cargo del fiscal Walter Pierrestegui. Durante el desarrollo de la investigación se incorporaron distintas medidas de prueba."
+        ],
+        "generated": "2026-09-09T19:39:54.818025+00:00"
+      }
+    },
+    {
+      "key": "joven cancer necesita ayuda continuar tratamiento cuidar hijo",
+      "title": "Una joven con cáncer necesita ayuda para continuar su tratamiento y cuidar a su hijo",
+      "score": 1.2,
+      "sources_count": 1,
+      "first_seen": "2026-09-09T19:39:27.182670+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/una-joven-con-cancer-necesita-ayuda-para-continuar-su-tratamiento-y-cuidar-a-su-hijo.webp",
+      "articles": [
+        {
+          "portal": "Diario Necochea",
+          "title": "Una joven con cáncer necesita ayuda para continuar su tratamiento y cuidar a su hijo",
+          "url": "https://diarionecochea.com/2026/09/09/una-joven-que-atraviesa-un-cancer-necesita-ayuda-para-continuar-su-tratamiento-y-cuidar-a-su-hijo/",
           "published_at": null,
           "category": null,
           "image": null
@@ -171,24 +178,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "La reconocida comediante La Jenny , el personaje creado por Wali Iturriaga , llegará a Necochea con su nuevo espectáculo \"Cachicalientas Tour\" , una propuesta renovada que promete una noche cargada de humor, improvisación y una conexión permanente con el público. La función se realizará el domingo 8 de noviembre , a las 20 , en el Cine Teatro París , donde el artista presentará un show completamente nuevo, luego de una exitosa gira que lo llevó por escenarios de Argentina, Europa, Estados Unidos y distintos países de Latinoamérica.",
-          "Con casi 19 millones de seguidores en redes sociales y videos que superan las 4.000 millones de reproducciones , La Jenny se consolidó como uno de los personajes humorísticos más convocantes del mundo hispano."
+          "Gisele Chatelain atraviesa una difícil situación personal y económica mientras continúa con su tratamiento y tiene a su cargo a su hijo de nueve años. Una joven de Necochea lleva tres años luchando contra el cáncer y que ese período pasó por nueve cirugías. A pesar de las dificultades atravesadas, continúa con el tratamiento y busca apoyo para poder seguir adelante.",
+          "Noticia relacionadas El primer Congreso Nacional de Sociología llega a Santa Fe para debatir el futuro de la profesión 7 de septiembre de 2026 Día de la Dactiloscopia: La huella que resolvió un doble crimen en Quequén y cambió la investigación criminal 3 de septiembre de 2026 Actualmente enfrenta un cáncer de diafragma que, según explicó en el pedido de solidaridad, presenta un crecimiento incontrolable. Como parte del tratamiento, recibe quimioterapia y rayos. A esta situación se suma que se encuentra sin trabajo y tiene a su hijo a cargo."
         ],
-        "generated": "2026-09-09T16:51:02.282623+00:00"
+        "generated": "2026-09-09T19:40:00.783140+00:00"
       }
     },
     {
-      "key": "hallan moto abandonada terreno baldio policia secuestro",
-      "title": "Hallan una moto abandonada en un terreno baldío y la Policía la secuestró",
-      "score": 1.1,
+      "key": "alertan suicidios aumentaron 20 reclaman medidas urgentes",
+      "title": "Alertan que los suicidios aumentaron más de un 20% y reclaman medidas urgentes",
+      "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-09-09T16:50:31.710974+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/2c86ef7d63d86472f7fc832be9217815db8a0fd5.jpg",
+      "first_seen": "2026-09-09T19:39:27.182670+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/depresion-suicidio-ilustrativa.jpg",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Hallan una moto abandonada en un terreno baldío y la Policía la secuestró",
-          "url": "https://necocheadigital.com/nota/119541/hallan-una-moto-abandonada-en-un-terreno-baldio-y-la-policia-la-secuestro/",
+          "portal": "Diario Necochea",
+          "title": "Alertan que los suicidios aumentaron más de un 20% y reclaman medidas urgentes",
+          "url": "https://diarionecochea.com/2026/09/09/alertan-que-los-suicidios-aumentaron-mas-de-un-20-y-reclaman-medidas-urgentes/",
           "published_at": null,
           "category": null,
           "image": null
@@ -196,24 +203,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "Una motocicleta fue secuestrada por personal del Comando de Patrullas de Necochea luego de ser hallada abandonada en el interior de un terreno baldío ubicado en inmediaciones de las calles 46 y 47. El procedimiento se inició a partir de un llamado al servicio de emergencias 911, que alertó sobre la presencia de un hombre retirando un motovehículo del lugar. Al arribar al sitio, los efectivos constataron que se trataba de una motocicleta Zanella 110 cc de color rojo , que había sido dejada abandonada en el predio.",
-          "De acuerdo con el testimonio de un vecino, un sujeto llegó al terreno, dejó el rodado y se retiró rápidamente, lo que motivó el aviso a la Policía. Los uniformados realizaron las verificaciones correspondientes sobre el dominio y la numeración del motor, sin detectar impedimentos legales vigentes. Sin embargo, ante las circunstancias del hallazgo, se dispuso el secuestro preventivo de la motocicleta."
+          "El Colegio de Psicólogas y Psicólogos de la Provincia de Buenos Aires presentó ante el Concejo Deliberante datos sobre la situación de la salud mental y reclamó reforzar la atención, ampliar los equipos profesionales y aumentar progresivamente los recursos destinados al área.",
+          "El Colegio de Psicólogas y Psicólogos de la Provincia de Buenos Aires, a través de su Distrito IX con sede en Necochea, presentó ante el Honorable Concejo Deliberante un pedido para declarar la Emergencia en Salud Mental, debido a la preocupación por el aumento de suicidios, consultas e internaciones vinculadas con diversas situaciones de salud mental."
         ],
-        "generated": "2026-09-09T16:51:03.854686+00:00"
+        "generated": "2026-09-09T19:40:02.752957+00:00"
       }
     },
     {
-      "key": "vale pena municipio lanzo campana concientizacion riesgos beber alcohol manejar",
-      "title": "«¿Vale la pena?» El Municipio lanzó una campaña de concientización sobre los riesgos de beber alcohol y manejar",
-      "score": 1.1,
+      "key": "como estara clima miercoles necochea quequen",
+      "title": "Cómo estará el clima este miércoles en Necochea y Quequén",
+      "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-09-09T16:50:31.710974+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260908180813_foto-ilustrativa-alcohol-al-volante.jpg",
+      "first_seen": "2026-09-09T19:39:27.182670+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/03/espuma-clima-necochea-locales.jpg",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "«¿Vale la pena?» El Municipio lanzó una campaña de concientización sobre los riesgos de beber alcohol y manejar",
-          "url": "https://necocheadigital.com/nota/119537/laquo-vale-la-pena-raquo-el-municipio-lanzo-una-campana-de-concientizacion-sobre-los-riesgos-de-beber-alcohol-y-manejar/",
+          "portal": "Diario Necochea",
+          "title": "Cómo estará el clima este miércoles en Necochea y Quequén",
+          "url": "https://diarionecochea.com/2026/09/09/como-estara-el-clima-este-miercoles-en-necochea-y-quequen-140/",
           "published_at": null,
           "category": null,
           "image": null
@@ -221,24 +228,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "En la calle, cada segundo cuenta y cada decisión puede marcar una diferencia . Cuando una persona se pone al volante, asume una responsabilidad que no se limita a su propia seguridad, sino que también involucra a quienes circulan a su alrededor. El consumo de alcohol, incluso en cantidades que pueden parecer pequeñas , afecta las capacidades necesarias para conducir de manera segura. Disminuye los reflejos, altera la percepción y hace que el cerebro procese la información con mayor lentitud.",
-          "Ese retraso en la reacción puede traducirse en metros adicionales recorridos antes de comenzar a frenar. Por eso, no se trata de calcular cuánto alcohol se puede tomar antes de manejar, sino de entender que la única decisión segura es evitar el consumo si después se va a conducir. La distancia necesaria para detener un vehículo depende, entre otros factores, del tiempo que tarda el conductor en reaccionar y de la capacidad de frenado."
+          "El Servicio Meteorológico Nacional (SMN) pronosticó para este miércoles en Necochea y Quequén una jornada con parcialmente nublado, una temperatura máxima de 18° y una mínima de 7°. Para la mañana , se espera parcialmente nublado. La temperatura rondará los 11° y la probabilidad de precipitaciones será del 0%, según datos del SMN. El viento soplará desde no a una velocidad de entre 13 - 22 kilómetros por hora.",
+          "Noticia relacionadas Una joven con cáncer necesita ayuda para continuar su tratamiento y cuidar a su hijo 9 de septiembre de 2026 Alertan que los suicidios aumentaron más de un 20% y reclaman medidas urgentes 9 de septiembre de 2026 Por su parte, hacia la tarde y entrando la noche , el cielo estará parcialmente nublado. La temperatura alcanzará los 18° mientras que el porcentaje de precipitaciones será del 0%, mencionó el parte oficial. El viento se sentirá desde no a una velocidad de entre 23 - 31 kilómetros por hora."
         ],
-        "generated": "2026-09-09T16:51:05.145384+00:00"
+        "generated": "2026-09-09T19:40:05.007742+00:00"
       }
     },
     {
-      "key": "hcd necochea avanzo proyectos salud educacion ordenamiento urbano",
-      "title": "El HCD de Necochea avanzó con proyectos de salud, educación y ordenamiento urbano",
-      "score": 1.1,
+      "key": "nuevo casino necochea provincia recibira 31 veces ciudad juego",
+      "title": "Nuevo Casino de Necochea: la Provincia recibirá 31 veces más que la ciudad por el juego",
+      "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-09-09T16:50:31.710974+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260908121316_01-cl-8.jpg",
+      "first_seen": "2026-09-09T19:39:27.182670+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/rojas-kicillof-juego.jpg",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "El HCD de Necochea avanzó con proyectos de salud, educación y ordenamiento urbano",
-          "url": "https://necocheadigital.com/nota/119533/el-hcd-de-necochea-avanzo-con-proyectos-de-salud-educacion-y-ordenamiento-urbano/",
+          "portal": "Diario Necochea",
+          "title": "Nuevo Casino de Necochea: la Provincia recibirá 31 veces más que la ciudad por el juego",
+          "url": "https://diarionecochea.com/2026/09/08/nuevo-casino-de-necochea-la-provincia-recibira-31-veces-mas-que-la-ciudad-por-el-juego/",
           "published_at": null,
           "category": null,
           "image": null
@@ -246,24 +253,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "Las distintas comisiones del Honorable Concejo Deliberante de Necochea mantuvieron una intensa jornada de trabajo durante el lunes 7 de septiembre, con el análisis y despacho de proyectos que serán incorporados al temario de la próxima sesión ordinaria, convocada para este miércoles a las 10. Los expedientes abordados abarcaron cuestiones relacionadas con el sistema público de salud, la formación profesional, el ordenamiento del espacio público, habilitaciones comerciales, exenciones impositivas y fechas institucionales.",
-          "Turnos hospitalarios desde los CAPS Uno de los proyectos tratados correspondió a la Comisión de Salud, presidida por la concejal Evangelina Almada (FP-MDF). La comisión dio despacho favorable a una iniciativa que busca facilitar el acceso de los vecinos a los turnos para especialidades médicas."
+          "La Ley bonaerense asigna al organismo provincial el 62% del beneficio bruto y apenas el 2% al municipio sede. El proceso de privatización y venta de las tierras del histórico Complejo Casino abre un nuevo escenario económico en la ciudad , donde la distribución de los recursos generados por las apuestas expone una desproporción categórica entre la administración local y el gobierno bonaerense.",
+          "Mientras el municipio recibe un cobro por única vez al desprenderse de sus parcelas y mantiene una participación sumamente marginal sobre el rendimiento de la futura sala presencial, la Provincia de Buenos Aires se consolida como la gran beneficiaria del esquema financiero y regulatorio."
         ],
-        "generated": "2026-09-09T16:51:06.980985+00:00"
+        "generated": "2026-09-09T19:40:08.990760+00:00"
       }
     },
     {
-      "key": "homicidio loberia hallaron arma investigacion apunta conflicto pasional",
-      "title": "Homicidio en Lobería: hallaron el arma y la investigación apunta a un conflicto pasional",
-      "score": 1.1,
+      "key": "puerto quequen lanza dos libros locales programa puerto ciudad",
+      "title": "Puerto Quequén lanza dos libros locales en el programa Puerto Ciudad",
+      "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-09-09T16:50:31.710974+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260908121932_whatsapp-image-2026-09-08-at-12-19-15.jpg",
+      "first_seen": "2026-09-09T19:39:27.182670+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/puerto-quequen-lanza-dos-libros-locales-programa-p-omsem-1.jpg",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Homicidio en Lobería: hallaron el arma y la investigación apunta a un conflicto pasional",
-          "url": "https://necocheadigital.com/nota/119534/homicidio-en-loberia-hallaron-el-arma-y-la-investigacion-apunta-a-un-conflicto-pasional/",
+          "portal": "Diario Necochea",
+          "title": "Puerto Quequén lanza dos libros locales en el programa Puerto Ciudad",
+          "url": "https://diarionecochea.com/2026/09/08/puerto-quequen-lanza-dos-libros-locales-en-el-programa-puerto-ciudad/",
           "published_at": null,
           "category": null,
           "image": null
@@ -271,24 +278,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "La investigación por el homicidio de Alexis Braian Soplan Castro, de 33 años, ocurrido durante la madrugada del domingo en Lobería, sumó nuevas pruebas en las últimas horas con el hallazgo de un arma de fuego que podría ser la utilizada en el ataque y el avance de las medidas destinadas a determinar la responsabilidad del principal sospechoso. El fiscal José Luis Cipolletti, a cargo de la causa junto con la Ayudantía Fiscal de Lobería, confirmó que el expediente se encuentra caratulado como “homicidio agravado por el uso de arma de fuego” y señaló que la principal hipótesis apunta a un hecho vinculado con “razones pasionales”.",
-          "Por el momento, Boris Ohaco permanece aprehendido y es considerado el principal sospechoso. El fiscal aclaró, no obstante, que la investigación alcanzó inicialmente a dos hombres y que no se descartan otras líneas mientras continúan las distintas medidas de prueba."
+          "El evento, dentro del programa Puerto‑Ciudad, reúne a Mariano Carrillo, presidente del CGPQ, con los autores Juan Pablo Borelli y Mariel Farías. La actividad será gratuita, con presentaciones y diálogos abiertos al público en el Centro Cultural de Necochea. En el marco del ciclo de encuentros “Puerto Ciudad: Experiencias que dejan huellas”, impulsado por Puerto Quequén , el martes 8 de septiembre se realizó la presentación oficial de los libros “Mariano Necochea.",
+          "Gran Mariscal Sudamericano” y “Kem Kem”, publicados por el Lic. Juan Pablo Borelli y la escritora Mariel Farías, respectivamente. Al respecto, Mariano Carrillo, presidente del C.G.P.Q., indicó que “la actividad fue parte de la política cultural impulsada desde el programa Puerto‑Ciudad”."
         ],
-        "generated": "2026-09-09T16:51:08.222990+00:00"
+        "generated": "2026-09-09T19:40:11.264529+00:00"
       }
     },
     {
-      "key": "emsur reforzo trabajos mantenimiento reparacion caminos rurales distrito",
-      "title": "El EMSUR reforzó los trabajos de mantenimiento y reparación en los caminos rurales del distrito",
-      "score": 1.1,
+      "key": "petroleo escala encima us 100 escalada ormuz",
+      "title": "El petróleo escala por encima de los US$100 tras la escalada en Ormuz",
+      "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-09-09T16:50:31.710974+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260908115805_22-06-foto-emsur-rural.png",
+      "first_seen": "2026-09-09T19:39:27.182670+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/el-petroleo-escala-por-encima-de-los-us-100-y-crece-el-temor-por-el-suministro-tras-la-escalada-en-ormuz.jpg",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "El EMSUR reforzó los trabajos de mantenimiento y reparación en los caminos rurales del distrito",
-          "url": "https://necocheadigital.com/nota/119532/el-emsur-reforzo-los-trabajos-de-mantenimiento-y-reparacion-en-los-caminos-rurales-del-distrito/",
+          "portal": "Diario Necochea",
+          "title": "El petróleo escala por encima de los US$100 tras la escalada en Ormuz",
+          "url": "https://diarionecochea.com/2026/09/09/el-petroleo-escala-por-encima-de-los-us100-tras-la-escalada-en-ormuz/",
           "published_at": null,
           "category": null,
           "image": null
@@ -296,24 +303,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "En lo que va del año, el registro acumulado de precipitaciones alcanza los 698 milímetros , un volumen que genera la necesidad de sostener de manera permanente las tareas de mantenimiento, reparación y acondicionamiento de la extensa red vial rural. Con maquinaria y personal propios, el EMSUR intervino en distintos puntos donde se habían producido cortes y deterioros. En el Camino Municipal 218, entre los kilómetros 24 y 28 de la Ruta Provincial 86, se trabajó en la reparación del corte existente para recuperar la circulación.",
-          "Una tarea similar se llevó adelante en el Camino Municipal 252, a la altura de la bajada del kilómetro 47 de la RP 86, donde fue necesario recomponer el sector afectado. También se realizaron trabajos de arreglo de corte y repaso sobre el Camino Municipal 004 – 1/2 Agua, mientras que en el Camino Municipal 150, en dirección a Las Cascadas, se efectuó un repaso general para mejorar las condiciones de transitabilidad."
+          "La escalada militar volvió a presionar al mercado energético global, mientras la caída de los flujos por Ormuz aumenta las preocupaciones sobre el suministro de petróleo y gas. El petróleo Brent volvió a superar este miércoles los US$100 por barril, en medio de una nueva escalada militar en torno al estrecho de Ormuz. La cotización subió 2,7% hasta los US$100,60 por barril, mientras que el crudo West Texas Intermediate (WTI) avanzó 2,3% hasta los US$95,21.",
+          "Los precios acumularon una suba de casi 20% desde mediados de la semana pasada, en coincidencia con la intensificación de los combates en torno a uno de los principales cuellos de botella petroleros del mundo. El Brent volvió así a la zona de los US$100 por primera vez desde el 23 de julio."
         ],
-        "generated": "2026-09-09T16:51:09.371519+00:00"
+        "generated": "2026-09-09T19:40:12.936276+00:00"
       }
     },
     {
-      "key": "marcos pereira consagro campeon wkn historica jornada necochea fight club",
-      "title": "Marcos Pereira se consagró campeón WKN en una histórica jornada del Necochea Fight Club",
-      "score": 1.1,
+      "key": "tenia cuchilla 25 centimetros oculta cintura termino demorado",
+      "title": "Tenía una cuchilla de 25 centímetros oculta en la cintura y terminó demorado",
+      "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-09-09T16:50:31.710974+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/04690e50247a450c53977f1ac93975449f71f981.jpg",
+      "first_seen": "2026-09-09T19:39:27.182670+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/detienen-joven-armado-cuchilla-necochea-tras-alert-ma52p-1.jpg",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Marcos Pereira se consagró campeón WKN en una histórica jornada del Necochea Fight Club",
-          "url": "https://necocheadigital.com/nota/119524/marcos-pereira-se-consagro-campeon-wkn-en-una-historica-jornada-del-necochea-fight-club/",
+          "portal": "Diario Necochea",
+          "title": "Tenía una cuchilla de 25 centímetros oculta en la cintura y terminó demorado",
+          "url": "https://diarionecochea.com/2026/09/09/tenia-una-cuchilla-de-25-centimetros-oculta-en-la-cintura-y-termino-demorado/",
           "published_at": null,
           "category": null,
           "image": null
@@ -321,24 +328,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "La décima edición del Necochea Fight Club tuvo como gran protagonista a Marcos Pereira , quien se consagró campeón de la World Kickboxing Network (WKN) en una jornada que reunió a competidores de distintos puntos del país y convocó a una importante cantidad de público en el Polideportivo Municipal “Edgardo Hugo Yelpo” . El evento, organizado por Maximiliano Saravia , a través de Team Saravia y Saravia Promotions , tuvo como uno de sus principales atractivos la disputa por el cinturón WKN, uno de los títulos de mayor relevancia dentro del kickboxing.",
-          "Pereira se impuso en la pelea estelar, bajo las reglas K1 Rules , frente a Bautista Hernández , y consiguió quedarse con el campeonato ante la gente de Necochea. De esta manera, el cinturón quedó en manos de un representante local y la organización sumó uno de los momentos más importantes desde el inicio del Necochea Fight Club."
+          "Durante el palpado preventivo, el personal policial incautó la arma blanca con mango de madera y trasladó al implicado a la Comisaría Primera por infracción a la ley de faltas. La rápida detección del Centro de Monitoreo y la inmediata respuesta policial permitieron interceptar a un joven que llevaba una cuchilla oculta entre sus prendas en plena vía pública.",
+          "Noticia relacionadas Un vecino vio cómo dejaban una moto en un baldío y la Policía la secuestró 9 de septiembre de 2026 Condenaron a 8 años de cárcel a un profesor de Lobería por abuso sexual 9 de septiembre de 2026 El procedimiento se originó en calle 82 y 53 de Necochea, cuando operadores del sistema de videovigilancia observaron a un masculino que, tras advertir la presencia del entorno, habría ocultado entre sus prendas un elemento de características similares a un arma blanca."
         ],
-        "generated": "2026-09-09T16:51:10.651083+00:00"
+        "generated": "2026-09-09T19:40:15.743821+00:00"
       }
     },
     {
-      "key": "necochea consagro campeon zonal u17 basquet clasifico provincial",
-      "title": "Necochea se consagró campeón del Zonal U17 de básquet y clasificó al Provincial",
-      "score": 1.1,
+      "key": "vecino vio como dejaban moto baldio policia secuestro",
+      "title": "Un vecino vio cómo dejaban una moto en un baldío y la Policía la secuestró",
+      "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-09-09T16:50:31.710974+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260907122230_whatsapp-image-2026-09-07-at-12-22-11.jpg",
+      "first_seen": "2026-09-09T19:39:27.182670+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/policia-necochea-secuestra-moto-zanella-roja-aband-7ne7l-1.jpg",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Necochea se consagró campeón del Zonal U17 de básquet y clasificó al Provincial",
-          "url": "https://necocheadigital.com/nota/119522/necochea-se-consagro-campeon-del-zonal-u17-de-basquet-y-clasifico-al-provincial/",
+          "portal": "Diario Necochea",
+          "title": "Un vecino vio cómo dejaban una moto en un baldío y la Policía la secuestró",
+          "url": "https://diarionecochea.com/2026/09/09/un-vecino-vio-como-dejaban-una-moto-en-un-baldio-y-la-policia-la-secuestro/",
           "published_at": null,
           "category": null,
           "image": null
@@ -346,24 +353,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "El seleccionado U17 de la Asociación de Básquetbol de Necochea cerró una actuación perfecta en Olavarría y se quedó con el Torneo Zonal de la Federación Bonaerense de Básquetbol. El equipo dirigido por Mauro Mazzucchelli ganó los cuatro partidos que disputó y obtuvo la clasificación al Campeonato Provincial U17. Necochea comenzó su participación el viernes con una contundente victoria frente a Básquet Asociado Sudoeste por 93 a 63.",
-          "El seleccionado necochense marcó diferencias desde el comienzo y terminó el primer cuarto con una ventaja de 16 a 4, para luego ampliar la diferencia durante el desarrollo del encuentro. Santiago Parigino fue uno de los principales aportes ofensivos, con 16 puntos y 10 rebotes, mientras que Joaquín Zárate sumó 12 puntos y 7 rebotes. Pedro Pizzi aportó 16 unidades y 4 asistencias desde el banco."
+          "Denuncia 911 de un vecino informó la presencia de una moto abandonada entre las calles 46 y 47, lo que motivó la intervención de las autoridades. El rodado quedó bajo custodia de Comisaría Primera y la UFI 03 iniciará diligencias. Personal policial del Comando de Patrullas Necochea intervino ante el hallazgo de una motocicleta que dejó en el interior de un terreno baldío ubicado en inmediaciones de la calle 46 y la calle 47.",
+          "El procedimiento inició a raíz de un llamado al servicio de emergencias 911, que alertó sobre la presencia de un sujeto retirando un motovehículo del lugar. Noticia relacionadas Tenía una cuchilla de 25 centímetros oculta en la cintura y terminó demorado 9 de septiembre de 2026 Condenaron a 8 años de cárcel a un profesor de Lobería por abuso sexual 9 de septiembre de 2026 Al llegar los efectivos, constataron que se trató de una motocicleta Zanella de 110 cc, de color rojo, que se encontraba abandonada."
         ],
-        "generated": "2026-09-09T16:51:11.901800+00:00"
+        "generated": "2026-09-09T19:40:20.199573+00:00"
       }
     },
     {
-      "key": "independiente san cayetano vencio villa diaz velez quedo como lider zona federal",
-      "title": "Independiente San Cayetano venció a Villa Díaz Vélez y quedó como líder de la zona del Federal",
-      "score": 1.1,
+      "key": "samuel chiche gelblung murio 82 anos sido internado cuadro respiratorio",
+      "title": "Samuel “Chiche” Gelblung murió a los 82 años y había sido internado por un cuadro respiratorio",
+      "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-09-09T16:50:31.710974+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260907121602_whatsapp-image-2026-09-07-at-12-15-29.jpg",
+      "first_seen": "2026-09-09T19:39:27.182670+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/chiche-gelblung.jpg",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Independiente San Cayetano venció a Villa Díaz Vélez y quedó como líder de la zona del Federal",
-          "url": "https://necocheadigital.com/nota/119521/independiente-san-cayetano-vencio-a-villa-diaz-velez-y-quedo-como-lider-de-la-zona-del-federal/",
+          "portal": "Diario Necochea",
+          "title": "Samuel “Chiche” Gelblung murió a los 82 años y había sido internado por un cuadro respiratorio",
+          "url": "https://diarionecochea.com/2026/09/09/samuel-chiche-gelblung-murio-a-los-82-anos-y-habia-sido-internado-por-un-cuadro-respiratorio/",
           "published_at": null,
           "category": null,
           "image": null
@@ -371,24 +378,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "Independiente San Cayetano consiguió un importante triunfo como visitante ante Villa Díaz Vélez y quedó como único líder de la Zona 5 de la Región Bonaerense Pampeana Sur del Torneo Regional Federal Amateur 2026/27. El Chimango se impuso por 2 a 0 en el estadio Jorge Iparraguirre , por la segunda fecha de la competencia, con goles de Daniel Azurmendi , de penal, y Nicolás Ferreira , ambos durante los primeros minutos del encuentro. El conjunto de San Cayetano, que había igualado sin goles ante Ministerio en la primera jornada, alcanzó los cuatro puntos y quedó en lo más alto de la zona.",
-          "En la próxima fecha tendrá jornada libre, mientras que Villa Díaz Vélez visitará a Ministerio en Quequén. Independiente golpeó de entrada El equipo dirigido por Sotelo tomó ventaja rápidamente."
+          "El periodista y conductor falleció luego de atravesar durante los últimos meses distintos problemas de salud y reiteradas hospitalizaciones. Samuel “Chiche” Gelblung murió este miércoles 9 de septiembre de 2026, a los 82 años, luego de atravesar durante los últimos meses distintos problemas de salud que derivaron en reiteradas internaciones. El periodista y conductor permanecía internado en el Sanatorio Mater Dei desde el martes 8 de septiembre por dificultades respiratorias vinculadas con su cuadro de salud.",
+          "Su fallecimiento se produjo un día después de esa nueva hospitalización. Noticia relacionadas Freddie Mercury cumpliría 80 años: la voz de Queen que sigue vigente 5 de septiembre de 2026 Cuarto día de fallas en la SUBE para acreditar cargas desde el celular 4 de septiembre de 2026 La internación de septiembre fue señalada como la cuarta hospitalización de Gelblung durante 2026."
         ],
-        "generated": "2026-09-09T16:51:12.716589+00:00"
+        "generated": "2026-09-09T19:40:22.465391+00:00"
       }
     },
     {
-      "key": "llega gran fiesta primavera necochea",
-      "title": "Llega la gran Fiesta de la Primavera a Necochea",
-      "score": 1.1,
+      "key": "identificaron mujer murio chocar camioneta ruta 88",
+      "title": "Identificaron a la mujer que murió tras chocar contra una camioneta en la Ruta 88",
+      "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-09-09T16:50:31.710974+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260907180859_22-09-foto-primavera-fest-juventud-parque-miguel-lillo-01.jpg",
+      "first_seen": "2026-09-09T19:39:27.182670+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/identificaron-a-la-mujer-que-murio-tras-chocar-contra-una-camioneta-en-la-ruta-88.webp",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Llega la gran Fiesta de la Primavera a Necochea",
-          "url": "https://necocheadigital.com/nota/119523/llega-la-gran-fiesta-de-la-primavera-a-necochea/",
+          "portal": "Diario Necochea",
+          "title": "Identificaron a la mujer que murió tras chocar contra una camioneta en la Ruta 88",
+          "url": "https://diarionecochea.com/2026/09/08/identificaron-a-la-mujer-que-murio-tras-chocar-contra-una-camioneta-en-la-ruta-88/",
           "published_at": null,
           "category": null,
           "image": null
@@ -396,24 +403,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "La Municipalidad de Necochea dio a conocer el cronograma de la Fiesta de la Primavera , que se realizará el domingo 20 de septiembre, de 11 a 17, en las inmediaciones de avenida Pinolandia, entre avenida 2 y avenida 10 del Parque Miguel Lillo, con entrada libre y gratuita . Organizada por el área de Juventud, a cargo de Agustina Di Russo , y con el respaldo de la Secretaría de Turismo y Desarrollo Productivo , la jornada ofrecerá propuestas recreativas, deportivas y artísticas para jóvenes y familias. Habrá exhibiciones de stunt, bike, skate y parkour , con espacios especialmente preparados para las demostraciones.",
-          "Desde las 11 se desarrollará la juntada de Stunt, con la participación de deportistas invitados y la referente local Delfina Vellón. También estarán la Escuela de Skate Necochea, con una demo y mini clase abierta, y Suna Parkour, que brindará talleres y una mini competencia."
+          "Marta Palmeiro, de 77 años, murió este martes por la mañana luego de que el Volkswagen Gol que conducía fuera impactado por una Toyota Hilux. El accidente ocurrió alrededor de las 10:30 de este martes en la Ruta 88 , en el tramo que conecta Mar del Plata con Batán, a la altura del predio donde se tramita la Verificación Técnica Vehicular (VTV). Noticia relacionadas Tenía una cuchilla de 25 centímetros oculta en la cintura y terminó demorado 9 de septiembre de 2026 Un vecino vio cómo dejaban una moto en un baldío y la Policía la secuestró 9 de septiembre de 2026 La víctima fue identificada como Marta Palmeiro, de 77 años.",
+          "Murió en el acto como consecuencia de la violencia del impacto. La camioneta Toyota Hilux era conducida por un joven de 20 años e impactó contra el Volkswagen Gol que manejaba Palmeiro. El otro conductor no necesitó asistencia médica."
         ],
-        "generated": "2026-09-09T16:51:13.855743+00:00"
+        "generated": "2026-09-09T19:40:24.796452+00:00"
       }
     },
     {
-      "key": "tres accidentes dia vida no puede naturalizarse",
-      "title": "Tres accidentes por día y una vida que no puede naturalizarse",
-      "score": 1.1,
+      "key": "fuerte choque dos autos provoco danos derrame combustible 55 72",
+      "title": "Fuerte choque entre dos autos provocó daños y derrame de combustible en 55 y 72",
+      "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-09-09T16:50:31.710974+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/a69a40d2899f80f37d600ce276c1d4b6418793ed.jpg",
+      "first_seen": "2026-09-09T19:39:27.182670+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/fuerte-choque-entre-dos-autos-provoco-danos-y-derrame-de-combustible-en-55-y-72.webp",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Tres accidentes por día y una vida que no puede naturalizarse",
-          "url": "https://necocheadigital.com/nota/119529/tres-accidentes-por-dia-y-una-vida-que-no-puede-naturalizarse/",
+          "portal": "Diario Necochea",
+          "title": "Fuerte choque entre dos autos provocó daños y derrame de combustible en 55 y 72",
+          "url": "https://diarionecochea.com/2026/09/08/fuerte-choque-entre-dos-autos-provoco-danos-y-derrame-de-combustible-en-55-y-72/",
           "published_at": null,
           "category": null,
           "image": null
@@ -421,24 +428,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "El fallecimiento de un joven de apenas 20 años volvió a poner sobre la mesa una problemática que Necochea parece haber naturalizado, o sea los accidentes de tránsito. Yoel Roldán murió el sábado luego de protagonizar un choque mientras circulaba en moto. Detrás del hecho queda una familia destruida y, nuevamente, la necesidad de preguntarnos qué estamos haciendo cuando salimos a la calle.",
-          "El director de Tránsito de la Municipalidad, Sergio Nicolás, fue entrevistado este lunes en Voces de la Tarde, programa que conduce Jorge Gómez por Radio Noticias Necochea, y coincidió en que no se trata simplemente de buscar culpables después de cada accidente, sino de revisar las conductas de todos quienes participan del tránsito. “Todos los que estamos en la calle circulando, desde una bicicleta hasta el que anda en un vehículo de mayor porte, debemos empezar a respetar un poco más las señales y las normas de tránsito”, señaló."
+          "El impacto de este martes por la tarde provocó pérdidas de nafta sobre el asfalto, por lo que Tránsito asistió al lugar para evitar riesgos mientras la ambulancia evaluaba a los ocupantes. Un Volkswagen Gol y un Volkswagen Bora protagonizaron un accidente de tránsito que dejó daños materiales. En el lugar trabajaron personal policial, Tránsito y una ambulancia.",
+          "Noticia relacionadas Tenía una cuchilla de 25 centímetros oculta en la cintura y terminó demorado 9 de septiembre de 2026 Un vecino vio cómo dejaban una moto en un baldío y la Policía la secuestró 9 de septiembre de 2026 Un accidente de tránsito se registró este martes alrededor de las 17:28 en la esquina de las calles 55 y 72, donde colisionaron un Volkswagen Gol y un Volkswagen Bora. Ambos vehículos sufrieron severos daños materiales tras el impacto."
         ],
-        "generated": "2026-09-09T16:51:14.968434+00:00"
+        "generated": "2026-09-09T19:40:29.701341+00:00"
       }
     },
     {
-      "key": "solidaridad aparece medio adversidad",
-      "title": "La solidaridad que aparece en medio de la adversidad",
-      "score": 1.1,
+      "key": "otro accidente fatal ruta 88 mujer murio chocar cerca batan",
+      "title": "Otro accidente fatal en Ruta 88: Una mujer murió tras chocar cerca de Batán",
+      "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-09-09T16:50:31.710974+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260908090227_captura-de-pantalla-2026-09-08-a-la-s-9-02-14-a-nbsp-m.png",
+      "first_seen": "2026-09-09T19:39:27.182670+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/choque-ruta88-fatal-destacada.jpg",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "La solidaridad que aparece en medio de la adversidad",
-          "url": "https://necocheadigital.com/nota/119528/la-solidaridad-que-aparece-en-medio-de-la-adversidad/",
+          "portal": "Diario Necochea",
+          "title": "Otro accidente fatal en Ruta 88: Una mujer murió tras chocar cerca de Batán",
+          "url": "https://diarionecochea.com/2026/09/08/una-mujer-de-70-anos-murio-tras-un-violento-choque-en-la-ruta-88/",
           "published_at": null,
           "category": null,
           "image": null
@@ -446,24 +453,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "Hay situaciones que podrían despertar solamente bronca, impotencia y desesperación. Que alguien entre en la noche y se lleve una herramienta de trabajo, después de años de esfuerzo para conseguirla, es una de ellas. Sin embargo, Franco Jesús Omar Gómez eligió mirar el episodio desde otro lugar. Días atrás le robaron su camioneta, una Chevrolet S10 modelo 2005, que estaba estacionada frente a la casa de unos amigos.",
-          "Había llegado allí alrededor de las 21 y, mientras conversaba unos minutos en la vereda, en un momento miró hacia el lugar donde había dejado el vehículo y ya no estaba. La denuncia fue realizada y comenzó la investigación. También interviene el seguro."
+          "La víctima conducía un Volkswagen Gol que impactó contra una Toyota Hilux. Murió en el lugar como consecuencia de las heridas sufridas. Una mujer de 70 años murió esta mañana luego de que el Volkswagen Gol que conducía chocara contra una Toyota Hilux en la ruta 88, a la altura del predio de la Verificación Técnica Vehicular (VTV) de Batán. El siniestro ocurrió alrededor de las 10.30.",
+          "Noticia relacionadas Tenía una cuchilla de 25 centímetros oculta en la cintura y terminó demorado 9 de septiembre de 2026 Un vecino vio cómo dejaban una moto en un baldío y la Policía la secuestró 9 de septiembre de 2026 La camioneta era conducida por un joven de 20 años que se dirigía en sentido a Mar del Plata . Por motivos que deberán determinarse mediante las pericias, impactó contra el automóvil en un sector de la ruta. La violencia de la colisión provocó la muerte de la conductora del Volkswagen Gol en el lugar."
         ],
-        "generated": "2026-09-09T16:51:16.182087+00:00"
+        "generated": "2026-09-09T19:40:32.715070+00:00"
       }
     },
     {
-      "key": "no toquen lena quien lleva insolito final novela arboles enfermos",
-      "title": "Del \"¡No lo toquen!\" al \"¿La leña quién se la lleva?\": el insólito final de la novela de los árboles enfermos",
-      "score": 1.1,
+      "key": "abandono hidrolavadora herramientas escapar policia",
+      "title": "Abandonó una hidrolavadora y herramientas al escapar de la Policía",
+      "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-09-09T16:50:31.710974+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/a5ce1fde3f5bd7dfb73281e12e49f158efad7b91.jpg",
+      "first_seen": "2026-09-09T19:39:27.182670+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/abandono-hidrolavadora-herramientas-escapar-polici-snsdh-1.jpg",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Del \"¡No lo toquen!\" al \"¿La leña quién se la lleva?\": el insólito final de la novela de los árboles enfermos",
-          "url": "https://necocheadigital.com/nota/119526/del-no-lo-toquen-al-la-lena-quien-se-la-lleva-el-insolito-final-de-la-novela-de-los-arboles-enfermos/",
+          "portal": "Diario Necochea",
+          "title": "Abandonó una hidrolavadora y herramientas al escapar de la Policía",
+          "url": "https://diarionecochea.com/2026/09/08/abandono-una-hidrolavadora-y-herramientas-al-escapar-de-la-policia/",
           "published_at": null,
           "category": null,
           "image": null
@@ -471,24 +478,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "Hay historias que parecen escritas por un guionista con demasiado tiempo libre. Este domingo se vivió un episodio que mezcló militancia ambiental, drama, suspenso, comedia absurda y un desenlace digno de un premio al mejor giro argumental. Todo comenzó frente al Colegio de Abogados, donde se llevó adelante la extracción de tres árboles autorizada por la Municipalidad. La institución contaba con todos los permisos correspondientes.",
-          "Tan es así que hasta el propio secretario de Gobierno se acercó al lugar para certificar que el procedimiento era completamente legal. Sin embargo, eso poco importó. Un reducido grupo de ambientalistas decidió convertir la mañana en una escena de protesta."
+          "Tras la denuncia al 911, la Comisaría Primera de Necochea confiscó el material encontrado y abrió una pesquisa para averiguar su procedencia y posible vínculo con delitos. Además, se revisarán las cámaras de la zona para identificar al responsable.",
+          "Un sujeto abandonó una hidrolavadora y diversas herramientas cuando notó la presencia policial, durante un procedimiento que realizó en inmediaciones de calle 82 y 71 bis, en jurisdicción de la Comisaría Primera de Necochea. Noticia relacionadas Tenía una cuchilla de 25 centímetros oculta en la cintura y terminó demorado 9 de septiembre de 2026 Un vecino vio cómo dejaban una moto en un baldío y la Policía la secuestró 9 de septiembre de 2026 El hecho se inició luego de un llamado al sistema de emergencias 911, que alertó sobre la presencia de un hombre que circuló por la zona transportando una hidrolavadora."
         ],
-        "generated": "2026-09-09T16:51:17.344264+00:00"
+        "generated": "2026-09-09T19:40:34.210285+00:00"
       }
     },
     {
-      "key": "crecen oferentes transporte publico necochea",
-      "title": "Crecen los oferentes para el transporte público de Necochea",
-      "score": 1.1,
+      "key": "cuarto dia fallas sube acreditar cargas celular",
+      "title": "Cuarto día de fallas en la SUBE para acreditar cargas desde el celular",
+      "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-09-09T16:50:31.710974+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260907183147_01-02-foto-colectivos-festival.jpg",
+      "first_seen": "2026-09-09T19:39:27.182670+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/fallas-en-el-sistema-sube-por-cuarto-dia-consecutivo-hubo-problemas-para-acreditar-cargas.webp",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Crecen los oferentes para el transporte público de Necochea",
-          "url": "https://necocheadigital.com/nota/119525/crecen-los-oferentes-para-el-transporte-publico-de-necochea/",
+          "portal": "Diario Necochea",
+          "title": "Cuarto día de fallas en la SUBE para acreditar cargas desde el celular",
+          "url": "https://diarionecochea.com/2026/09/04/cuarto-dia-de-fallas-en-la-sube-para-acreditar-cargas-desde-el-celular/",
           "published_at": null,
           "category": null,
           "image": null
@@ -496,24 +503,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "Además de la firma Vía Rosario —que mantuvo un encuentro virtual con las autoridades locales la semana pasada—, existen otras tres empresas interesadas en conocer las condiciones para prestar el servicio en la ciudad. La novedad fue confirmada por el concejal de Unión por la Patria y presidente de la Comisión de Transporte del HCD, Julián Kristiansen, en diálogo con el periodista Horacio Castelli durante el programa ¿Quién Miente?",
-          "de Radio Noticias Necochea. Con estas alternativas, sumadas a la empresa local que actualmente opera las líneas, son cinco las oferentes en el radar municipal, lo que aleja el riesgo de una interrupción total del servicio."
+          "El sistema de acreditación de cargas electrónicas de la tarjeta SUBE funcionó de manera intermitente este viernes y mostró mensajes para “intentar más tarde” en distintos tótems. El sistema para cargar la tarjeta SUBE desde el celular registró fallas por cuarto día consecutivo. Este viernes, los tótems funcionaron de manera intermitente y en muchos casos mostraron mensajes que pedían “intentar más tarde”.",
+          "Noticia relacionadas Samuel “Chiche” Gelblung murió a los 82 años y había sido internado por un cuadro respiratorio 9 de septiembre de 2026 Las empresas de Sea Lion aseguran que seguirán adelante pese a las sanciones anunciadas por Milei 4 de septiembre de 2026 Las estaciones de tren fueron uno de los puntos más afectados, ya que los pasajeros solo pudieron abonar el viaje con la tarjeta física. En Plaza Constitución, los lectores funcionaron por momentos y luego volvieron a mostrar el aviso de error."
         ],
-        "generated": "2026-09-09T16:51:18.530482+00:00"
+        "generated": "2026-09-09T19:40:35.623161+00:00"
       }
     },
     {
-      "key": "detuvieron quequen joven 23 anos buscado justicia",
-      "title": "Detuvieron en Quequén a un joven de 23 años que era buscado por la Justicia",
-      "score": 1.1,
+      "key": "empresas sea lion aseguran seguiran adelante pese sanciones anunciadas milei",
+      "title": "Las empresas de Sea Lion aseguran que seguirán adelante pese a las sanciones anunciadas por Milei",
+      "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-09-09T16:50:31.710974+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/a6742023230bef9cef1c6b3331de00707f97500d.jpg",
+      "first_seen": "2026-09-09T19:39:27.182670+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/las-empresas-de-sea-lion-aseguran-que-seguiran-adelante-pese-a-las-sanciones-anunciadas-po.webp",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Detuvieron en Quequén a un joven de 23 años que era buscado por la Justicia",
-          "url": "https://necocheadigital.com/nota/119538/detuvieron-en-quequen-a-un-joven-de-23-anos-que-era-buscado-por-la-justicia/",
+          "portal": "Diario Necochea",
+          "title": "Las empresas de Sea Lion aseguran que seguirán adelante pese a las sanciones anunciadas por Milei",
+          "url": "https://diarionecochea.com/2026/09/04/las-empresas-de-sea-lion-aseguran-que-seguiran-adelante-pese-a-las-sanciones-anunciadas-por-milei/",
           "published_at": null,
           "category": null,
           "image": null
@@ -521,24 +528,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "Un joven de 23 años fue detenido en Quequén luego de ser identificado por personal policial durante un operativo de prevención y seguridad desarrollado en la vía pública. El procedimiento estuvo a cargo de efectivos del Gabinete Técnico Operativo de la Comisaría Segunda de Quequén y se concretó en inmediaciones de calles 527 y 554. De acuerdo con la información policial, los agentes contaban con el oficio judicial correspondiente y, durante las tareas de identificación, constataron que sobre el joven pesaba una orden de detención vigente.",
-          "La medida había sido requerida por el Juzgado de Ejecución Penal N.º 2 del Departamento Judicial Mar del Plata, en el marco de una causa vinculada a un régimen de libertad asistida. Una vez verificada la vigencia del pedido judicial, los efectivos procedieron a la detención del joven, quien fue trasladado a la sede de la Comisaría Segunda de Quequén."
+          "Las compañías sostuvieron que las medidas no modificarán el cronograma previsto para el proyecto petrolero, mientras remarcaron que poseen permisos otorgados por las autoridades de las Islas.",
+          "Las empresas que impulsan el desarrollo petrolero en Malvinas minimizaron las medidas anunciadas por Javier Milei y señalaron que mantienen las autorizaciones locales y el respaldo del Gobierno británico para avanzar con Sea Lion."
         ],
-        "generated": "2026-09-09T16:51:19.749993+00:00"
+        "generated": "2026-09-09T19:40:37.083474+00:00"
       }
     },
     {
-      "key": "cuando 88 mujer fallecio accidente altura batan",
-      "title": "¿Hasta cuándo la 88? Una mujer falleció en un accidente a la altura de Batán",
-      "score": 1.1,
+      "key": "javier milei anuncio sanciones petroleras proyecta base naval atlantico sur",
+      "title": "Javier Milei anunció sanciones contra petroleras y proyecta una base naval en el Atlántico Sur",
+      "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-09-09T16:50:31.710974+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260908122317_whatsapp-image-2026-09-08-at-12-21-41.jpg",
+      "first_seen": "2026-09-09T19:39:27.182670+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/javier-milei-impulsa-sanciones-contra-petroleras-y-proyecta-una-base-naval-en-el-atlantico.webp",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "¿Hasta cuándo la 88? Una mujer falleció en un accidente a la altura de Batán",
-          "url": "https://necocheadigital.com/nota/119535/hasta-cuando-la-88-una-mujer-fallecio-en-un-accidente-a-la-altura-de-batan/",
+          "portal": "Diario Necochea",
+          "title": "Javier Milei anunció sanciones contra petroleras y proyecta una base naval en el Atlántico Sur",
+          "url": "https://diarionecochea.com/2026/09/03/milei-anuncio-sanciones-contra-petroleras-y-proyecta-una-base-naval-en-el-atlantico-sur/",
           "published_at": null,
           "category": null,
           "image": null
@@ -546,24 +553,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "Una mujer de 78 años falleció este martes por la mañana como consecuencia de un violento accidente ocurrido sobre la Ruta 88, a la altura de Batán, en inmediaciones del kilómetro 9,5 y frente al predio de la Verificación Técnica Vehicular (VTV). El siniestro se produjo alrededor de las 10.30, cuando el Volkswagen Gol que conducía la víctima salía del barrio Colinalegre y fue impactado por una Toyota Hilux que circulaba en sentido hacia Mar del Plata. De acuerdo con la información difundida, la camioneta impactó sobre el lateral del Volkswagen Gol correspondiente al puesto del conductor.",
-          "La violencia de la colisión provocó que la mujer quedara atrapada dentro del habitáculo y falleciera en el lugar como consecuencia de las heridas sufridas. Tras el aviso de la emergencia, se desplegó un operativo en el sector, con la intervención de personal del SAME, Bomberos y efectivos de la Policía de la Provincia de Buenos Aires."
+          ":La medida busca acelerar las penas establecidas por la legislación actual para proteger los recursos estratégicos, impidiendo que las firmas infractoras puedan operar en el mercado local.",
+          "Durante una transmisión oficial realizada este jueves, el jefe de Estado encabezó una alocución pública orientada a reafirmar el reclamo por las islas del Atlántico Sur, marco en el cual presentó una serie de iniciativas destinadas a endurecer la postura institucional y proteger los recursos marítimos frente a las tareas de extracción ilegal en la región insular."
         ],
-        "generated": "2026-09-09T16:51:20.604752+00:00"
+        "generated": "2026-09-09T19:40:38.523845+00:00"
       }
     },
     {
-      "key": "fallecio joven motociclista protagonizado grave accidente avenida 74 calle 71",
-      "title": "Falleció el joven motociclista que había protagonizado un grave accidente en avenida 74 y calle 71",
-      "score": 1.1,
+      "key": "horas discurso milei medio britanico aseguro podria anunciar sanciones exploracion petrolera malvinas",
+      "title": "A horas del discurso de Milei, un medio británico aseguró que podría anunciar sanciones por la exploración petrolera en Malvinas",
+      "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-09-09T16:50:31.710974+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/b1d284a95366705a3178b56e2abfcfb393c41028.jpg",
+      "first_seen": "2026-09-09T19:39:27.182670+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/destacada-malvinas.jpg",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Falleció el joven motociclista que había protagonizado un grave accidente en avenida 74 y calle 71",
-          "url": "https://necocheadigital.com/nota/119513/fallecio-el-joven-motociclista-que-habia-protagonizado-un-grave-accidente-en-avenida-74-y-calle-71/",
+          "portal": "Diario Necochea",
+          "title": "A horas del discurso de Milei, un medio británico aseguró que podría anunciar sanciones por la exploración petrolera en Malvinas",
+          "url": "https://diarionecochea.com/2026/09/03/a-horas-del-discurso-de-milei-un-medio-britanico-aseguro-que-podria-anunciar-sanciones-por-la-exploracion-petrolera-en-malvinas/",
           "published_at": null,
           "category": null,
           "image": null
@@ -571,24 +578,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "La víctima fue identificada como Yoel Roldán, quien alrededor de las 19 protagonizó una colisión con una camioneta en la intersección de avenida 74 y calle 71. Tras el fuerte impacto, el joven fue trasladado de urgencia a un centro asistencial con lesiones de extrema gravedad. Su estado era crítico y, mientras permanecía internado, familiares, amigos y allegados habían iniciado una cadena de oración a través de las redes sociales con la esperanza de su recuperación.",
-          "Sin embargo, pese a los intentos de los profesionales de la salud, Yoel Roldán falleció a causa de las graves heridas sufridas en el siniestro vial. Las circunstancias en las que se produjo el accidente continúan siendo materia de investigación."
+          "El Gobierno analiza medidas contra Rockhopper y Navitas, mientras el proyecto Sea Lion avanza hacia una perforación prevista para los próximos meses. A pocas horas de la cadena nacional que Javier Milei brindará este jueves por la cuestión Malvinas, un medio británico informó que el Gobierno argentino analiza aplicar sanciones contra empresas vinculadas con la explotación de petróleo en yacimientos ubicados frente a las islas.",
+          "La eventual medida podría abrir un nuevo frente de tensión diplomática con el Reino Unido. Noticia relacionadas Samuel “Chiche” Gelblung murió a los 82 años y había sido internado por un cuadro respiratorio 9 de septiembre de 2026 Cuarto día de fallas en la SUBE para acreditar cargas desde el celular 4 de septiembre de 2026 Según publicó The Telegraph, el Presidente podría anunciar las sanciones durante su discurso, previsto para las 21 de este jueves."
         ],
-        "generated": "2026-09-09T16:51:21.752057+00:00"
+        "generated": "2026-09-09T19:40:39.863684+00:00"
       }
     },
     {
-      "key": "mar plata necochea recuperaron vehiculo robado aprehendieron conductora",
-      "title": "De Mar del Plata a Necochea: recuperaron un vehículo robado y aprehendieron a su conductora",
-      "score": 1.1,
+      "key": "justicia decreto quiebra musimundo deuda 63 500 millones",
+      "title": "La Justicia decretó la quiebra de Musimundo, por una deuda de $63.500 millones",
+      "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-09-09T16:50:31.710974+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260904174132_whatsapp-image-2026-09-04-at-17-41-19.jpg",
+      "first_seen": "2026-09-09T19:39:27.182670+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/la-justicia-decreto-la-quiebra-de-musimundo-por-una-deuda-de-63-500-millones.webp",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "De Mar del Plata a Necochea: recuperaron un vehículo robado y aprehendieron a su conductora",
-          "url": "https://necocheadigital.com/nota/119505/de-mar-del-plata-a-necochea-recuperaron-un-vehiculo-robado-y-aprehendieron-a-su-conductora/",
+          "portal": "Diario Necochea",
+          "title": "La Justicia decretó la quiebra de Musimundo, por una deuda de $63.500 millones",
+          "url": "https://diarionecochea.com/2026/09/03/la-justicia-decreto-la-quiebra-de-musimundo-por-una-deuda-de-63-500-millones/",
           "published_at": null,
           "category": null,
           "image": null
@@ -596,24 +603,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "Un nuevo procedimiento policial volvió a poner en evidencia la circulación en Necochea de vehículos vinculados con hechos delictivos registrados en Mar del Plata. En este caso, efectivos de la Comisaría Primera de Necochea recuperaron una Chevrolet Tracker de color negro que tenía un pedido de secuestro activo por un robo automotor ocurrido en la vecina ciudad. El procedimiento fue realizado por personal del Gabinete Técnico Operativo de la Comisaría Primera durante recorridas preventivas en inmediaciones de calle 65 entre Avenida 42 y calle 40.",
-          "Allí los efectivos observaron el vehículo y realizaron un seguimiento controlado hasta interceptarlo en calle 40 entre 67 y 69. Durante la identificación del rodado y la verificación de la documentación, los policías detectaron una inconsistencia entre la numeración del chasis consignada en la cédula y la numeración grabada físicamente en el vehículo."
+          "La resolución dejó sin efecto el concurso preventivo iniciado en julio y abrió una nueva etapa judicial, en medio de un fuerte endeudamiento y de una reducción de la estructura comercial. La Justicia chaqueña decretó la quiebra de Carsa S.A., la compañía vinculada a la operación de Musimundo, y dejó sin efecto el concurso preventivo que había comenzado el 17 de julio de 2026. La resolución fue dictada el 2 de septiembre por el Juzgado Civil y Comercial N.º 23 de Resistencia, a cargo del juez Fernando Luis Lavenas, quien consideró que existían hechos reveladores del estado de cesación de pagos y que la continuidad del proceso concursal ya no resultaba viable.",
+          "El expediente pasó a tramitarse bajo la carátula “CARSA S.A. s/ Quiebra”, en una decisión que modificó el camino judicial que la empresa había iniciado para reordenar sus pasivos y evitar una declaración de quiebra."
         ],
-        "generated": "2026-09-09T16:51:23.748884+00:00"
+        "generated": "2026-09-09T19:40:41.336412+00:00"
       }
     },
     {
-      "key": "condenaron 15 anos prision hombre abusos sexuales corrupcion menores necochea",
-      "title": "Condenaron a 15 años de prisión a un hombre por abusos sexuales y corrupción de menores en Necochea",
-      "score": 1.1,
+      "key": "incendios catamarca afectaron 100 hectareas viento zonda complica operativo",
+      "title": "Los incendios en Catamarca ya afectaron más de 100 hectáreas y el viento Zonda complica el operativo",
+      "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-09-09T16:50:31.710974+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260903173933_whatsapp-image-2026-09-03-at-17-39-16.jpg",
+      "first_seen": "2026-09-09T19:39:27.182670+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/incendio-en-catamarca-el-fuego-ya-afecto-mas-de-100-hectareas-y-el-viento-zonda-complica-el-operativo.jpg",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Condenaron a 15 años de prisión a un hombre por abusos sexuales y corrupción de menores en Necochea",
-          "url": "https://necocheadigital.com/nota/119489/condenaron-a-15-anos-de-prision-a-un-hombre-por-abusos-sexuales-y-corrupcion-de-menores-en-necochea/",
+          "portal": "Diario Necochea",
+          "title": "Los incendios en Catamarca ya afectaron más de 100 hectáreas y el viento Zonda complica el operativo",
+          "url": "https://diarionecochea.com/2026/08/28/incendio-en-catamarca-el-fuego-ya-afecto-mas-de-100-hectareas-y-el-viento-zonda-complica-el-operativo/",
           "published_at": null,
           "category": null,
           "image": null
@@ -621,24 +628,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "La Justicia penal del Departamento Judicial Necochea condenó a 15 años de prisión de efectivo cumplimiento a un hombre de 60 años , luego de hallarlo penalmente responsable de delitos contra la integridad sexual cometidos contra dos menores de edad. La sentencia fue dictada en el marco de un juicio abreviado , a partir del acuerdo alcanzado entre el Ministerio Público Fiscal y la defensa oficial del imputado. Los hechos investigados ocurrieron entre agosto y septiembre de 2021 , en un domicilio de Necochea.",
-          "De acuerdo con la investigación policial y judicial, las dos víctimas eran menores de edad al momento de los hechos y mantenían un vínculo intrafamiliar con el condenado, quien era su padrastro . La calificación de los hechos La sentencia fue dictada por la jueza unipersonal Luciana Irigoyen Testa , integrante del Tribunal Criminal Nº 1 de Necochea ."
+          "El fuego avanza en Alto de Las Juntas, mientras el viento Zonda impide utilizar medios aéreos. La provincia acumula unas 6.568 hectáreas afectadas hasta el 27 de agosto. Un incendio forestal de grandes dimensiones continúa activo en Alto de Las Juntas, Aconquija, departamento Andalgalá, donde las llamas afectaron más de 100 hectáreas.",
+          "El frente de mayor magnitud se ubicó en el Cerro de la Cruz y avanzó por sus laderas hacia sectores próximos a la cumbre. Más de 30 personas participan del operativo, entre brigadistas, Bomberos Voluntarios y personal municipal, mientras otro foco fue detectado en El Totoral, a la altura de Las Rosas, cerca del río del Campo."
         ],
-        "generated": "2026-09-09T16:51:24.986422+00:00"
+        "generated": "2026-09-09T19:40:42.728621+00:00"
       }
     },
     {
-      "key": "dos hurtos pocos minutos aprehendieron joven recuperaron celular mochila necochea",
-      "title": "Dos hurtos en pocos minutos: aprehendieron a un joven y recuperaron un celular y una mochila en Necochea",
-      "score": 1.1,
+      "key": "uno uno como votaron diputados media sancion reforma carta organica banco central",
+      "title": "Uno por uno, cómo votaron los diputados la media sanción a la reforma de la Carta Orgánica del Banco Central",
+      "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-09-09T16:50:31.710974+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260903174516_20260903102857-whatsapp-image-2026-09-03-at-9-41-07-am.jpg",
+      "first_seen": "2026-09-09T19:39:27.182670+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/uno-por-uno-como-votaron-los-diputados-la-media-sancion-a-la-reforma-de-la-carta-organica.webp",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Dos hurtos en pocos minutos: aprehendieron a un joven y recuperaron un celular y una mochila en Necochea",
-          "url": "https://necocheadigital.com/nota/119490/dos-hurtos-en-pocos-minutos-aprehendieron-a-un-joven-y-recuperaron-un-celular-y-una-mochila-en-necochea/",
+          "portal": "Diario Necochea",
+          "title": "Uno por uno, cómo votaron los diputados la media sanción a la reforma de la Carta Orgánica del Banco Central",
+          "url": "https://diarionecochea.com/2026/08/26/uno-por-uno-como-votaron-los-diputados-la-media-sancion-a-la-reforma-de-la-carta-organica-del-banco-central/",
           "published_at": null,
           "category": null,
           "image": null
@@ -646,24 +653,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "Dos hechos de hurto ocurridos en distintos puntos de Necochea fueron esclarecidos luego de un procedimiento policial que terminó con un joven de 19 años aprehendido y con la recuperación de un teléfono celular y una mochila que contenía documentación personal y llaves de un automóvil. El procedimiento comenzó a partir de un llamado al sistema de emergencias 911 , que alertó sobre la sustracción de un teléfono celular del interior de un vehículo de reparto estacionado en inmediaciones de avenida 59 y calle 80 .",
-          "A partir de las características aportadas por el denunciante, efectivos policiales realizaron una recorrida por la zona y lograron localizar, en inmediaciones de calle 86 y calle 69 , a un joven que coincidía con la descripción recibida. Durante la identificación, los agentes constataron que llevaba consigo un teléfono celular Samsung de color blanco ."
+          "La Cámara de Diputados aprobó con 144 votos a favor la reforma de la Carta Orgánica del Banco Central, que ahora será analizada por el Senado, con un amplio respaldo de bloques oficialistas y oposición dividida. La Cámara de Diputados dio este miércoles media sanción al proyecto impulsado por el Gobierno de Javier Milei para reformar la Carta Orgánica del Banco Central. La iniciativa obtuvo 144 votos a favor, 102 en contra y 9 abstenciones y ahora deberá ser tratada por el Senado.",
+          "El proyecto establece como misión primaria y fundamental del Banco Central la preservación del valor de la moneda y plantea limitar fuertemente el financiamiento del Tesoro por parte de la autoridad monetaria. También propone prohibir los adelantos transitorios al Gobierno y la compra de títulos del Estado nacional en el mercado primario."
         ],
-        "generated": "2026-09-09T16:51:26.094171+00:00"
+        "generated": "2026-09-09T19:40:44.104330+00:00"
       }
     },
     {
-      "key": "tres accidentes dejaron vehiculos danados joven trasladada hospital necochea",
-      "title": "Tres accidentes dejaron vehículos dañados y una joven trasladada al hospital en Necochea",
-      "score": 1.1,
+      "key": "fuerte cruce gobierno tierra fuego llegada petrolero britanico ushuaia",
+      "title": "Fuerte cruce entre el Gobierno y Tierra del Fuego por la llegada de un petrolero británico a Ushuaia",
+      "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-09-09T16:50:31.710974+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260902172457_whatsapp-image-2026-09-02-at-17-24-30.jpg",
+      "first_seen": "2026-09-09T19:39:27.182670+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/el-buque-britanico-vs-promise-reavivo-el-conflicto-entre-nacion-y-tierra-del-fuego-por-el-puerto-de-ushuaia.jpg",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Tres accidentes dejaron vehículos dañados y una joven trasladada al hospital en Necochea",
-          "url": "https://necocheadigital.com/nota/119476/tres-accidentes-dejaron-vehiculos-danados-y-una-joven-trasladada-al-hospital-en-necochea/",
+          "portal": "Diario Necochea",
+          "title": "Fuerte cruce entre el Gobierno y Tierra del Fuego por la llegada de un petrolero británico a Ushuaia",
+          "url": "https://diarionecochea.com/2026/08/25/fuerte-cruce-entre-el-gobierno-y-tierra-del-fuego-por-la-llegada-de-un-petrolero-britanico-en-ushuaia/",
           "published_at": null,
           "category": null,
           "image": null
@@ -671,24 +678,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "Una jornada con varios accidentes de tránsito se registró este miércoles en distintos puntos de Necochea, con daños materiales en los vehículos involucrados y el traslado de una joven al Hospital Municipal “Dr. El primero de los hechos ocurrió durante el mediodía en la intersección de avenida 58 y calle 69 , donde se produjo una colisión que involucró a tres automóviles. De acuerdo con la información disponible, una Volkswagen Suran impactó contra otro vehículo y, como consecuencia de la fuerza del choque, este último terminó embistiendo a un Fiat Palio que se encontraba estacionado .",
-          "El siniestro dejó daños materiales en los tres automóviles , sin que se informaran personas heridas. Personal de Tránsito y de la Policía trabajó en el lugar para ordenar la circulación. Una motociclista fue trasladada al hospital En las primeras horas de la tarde se produjo otro accidente en la misma intersección de avenida 58 y calle 69 ."
+          "La embarcación operó bajo el registro de la Isla de Man y desató reclamos de la administración provincial, que aprovechó la oportunidad para exigir la restitución de la terminal marítima intervenida desde enero. El ingreso del buque petrolero VS Promise al puerto de Ushuaia desató un nuevo conflicto entre el Gobierno nacional y la administración de Tierra del Fuego.",
+          "La embarcación, de bandera de la Isla de Man —dependencia de la Corona británica— y 228,60 metros de eslora, ingresó el 24 de agosto de 2026 y permaneció allí unas 14 horas antes de continuar viaje. Este movimiento motivó a legisladores a exigir explicaciones detalladas sobre las autoridades que habilitaron la operación portuaria y los controles realizados."
         ],
-        "generated": "2026-09-09T16:51:27.271165+00:00"
+        "generated": "2026-09-09T19:40:45.462060+00:00"
       }
     },
     {
-      "key": "ministerio cayo penales san lorenzo final prefederal",
-      "title": "Ministerio cayó por penales ante San Lorenzo en la final del Prefederal",
-      "score": 1.1,
+      "key": "san cayetano abre inscripcion guardavidas temporada 2026 27",
+      "title": "San Cayetano abre la inscripción de guardavidas para la temporada 2026‑27",
+      "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-09-09T16:50:31.710974+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/22bde8f8b3f4956782e1a474e4192451d65286f7.jpg",
+      "first_seen": "2026-09-09T19:39:27.182670+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/municipalidad-san-cayetano-abre-inscripcion-guarda-c2kua-1.jpg",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Ministerio cayó por penales ante San Lorenzo en la final del Prefederal",
-          "url": "https://necocheadigital.com/nota/119519/ministerio-cayo-por-penales-ante-san-lorenzo-en-la-final-del-prefederal/",
+          "portal": "Diario Necochea",
+          "title": "San Cayetano abre la inscripción de guardavidas para la temporada 2026‑27",
+          "url": "https://diarionecochea.com/2026/09/08/san-cayetano-abre-inscripcion-de-guardavidas-para-temporada-2026-27/",
           "published_at": null,
           "category": null,
           "image": null
@@ -696,24 +703,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "Ministerio quedó a un paso del título de la Copa Bonaerense Pampeana 2026 . El equipo de Quequén igualó 0 a 0 ante San Lorenzo de Villa Castells durante los 90 minutos de la Superfinal del Torneo Prefederal, disputada en el Estadio Luis Vallejos del Club Belgrano de Zárate , y terminó cayendo 6 a 5 en la definición por penales. El encuentro enfrentó a los campeones de las dos subregiones de la competencia: Ministerio , ganador de la zona Sur, y San Lorenzo, vencedor de la zona Norte.",
-          "El ganador de la final se quedó con la Copa Bonaerense Pampeana. El partido fue parejo y tuvo como condicionante el estado del campo de juego, que no permitió un desarrollo fluido y dificultó la circulación de la pelota. El partido terminó sin goles Durante la primera etapa, San Lorenzo tuvo mayor iniciativa y consiguió generar algunas de las situaciones más importantes."
+          "El municipio abrió el registro para los profesionales interesados en cubrir las playas locales y el predio recreativo. La Municipalidad de San Cayetano abrió la inscripción para cubrir puestos de guardavidas en el Balneario San Cayetano durante la temporada 2026/27. La convocatoria abarca la cobertura tanto en la costa como en el complejo recreativo “Aguas del Pinar”.",
+          "Noticia relacionadas Balearon a un lobo marino en Santa Teresita y murió días después por una infección 2 de septiembre de 2026 Un histórico diario de la región cerró su edición impresa: \"Hoy replegamos las alas\" 31 de agosto de 2026 El período de anotación permanecerá abierto desde hoy, lunes 7 de septiembre, hasta el viernes 16 de octubre. Quienes deseen postularse deben enviar la documentación correspondiente (fotocopia de DNI, libreta de guardavidas, prueba anual de suficiencia y carnet de conductor náutico) al correo electrónico deportesmsc@gmail.com."
         ],
-        "generated": "2026-09-09T16:51:28.131785+00:00"
+        "generated": "2026-09-09T19:40:46.810652+00:00"
       }
     },
     {
-      "key": "cuatro necochenses consagraron campeonas argentinas hockey sub 16 lograron ascenso",
-      "title": "Cuatro necochenses se consagraron campeonas argentinas de hockey Sub-16 y lograron el ascenso",
-      "score": 1.1,
+      "key": "balearon lobo marino santa teresita murio dias despues infeccion",
+      "title": "Balearon a un lobo marino en Santa Teresita y murió días después por una infección",
+      "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-09-09T16:50:31.710974+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260907120353_whatsapp-image-2026-09-07-at-12-03-33.jpg",
+      "first_seen": "2026-09-09T19:39:27.182670+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/lobo-marino-baleado.jpg",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Cuatro necochenses se consagraron campeonas argentinas de hockey Sub-16 y lograron el ascenso",
-          "url": "https://necocheadigital.com/nota/119518/cuatro-necochenses-se-consagraron-campeonas-argentinas-de-hockey-sub-16-y-lograron-el-ascenso/",
+          "portal": "Diario Necochea",
+          "title": "Balearon a un lobo marino en Santa Teresita y murió días después por una infección",
+          "url": "https://diarionecochea.com/2026/09/02/balearon-a-un-lobo-marino-en-santa-teresita-y-murio-dias-despues-por-una-infeccion/",
           "published_at": null,
           "category": null,
           "image": null
@@ -721,10 +728,35 @@
       ],
       "summary": {
         "paragraphs": [
-          "Cuatro jugadoras de Del Valle de Necochea fueron protagonistas de la consagración del seleccionado Sub-16 de damas de la Asociación Amateur Marplatense de Hockey (AAMH) , que este domingo se quedó con el Campeonato Argentino B organizado por la Confederación Argentina de Hockey (CAH) y consiguió además el ascenso al Campeonato Argentino A de la categoría. Se trata de Magdalena Ardanaz, Eloisa Kuhn, Pilar Tuccella Ginel y Emilia Badie , quienes formaron parte del plantel dirigido por Agustina Álvarez durante el certamen disputado en Monte Hermoso. El seleccionado marplatense cerró su participación invicto y se consagró luego de derrotar 2 a 1 a La Pampa en la final.",
-          "En ese partido decisivo, Emilia Badie tuvo un papel determinante al convertir el gol que le dio el campeonato a la AAMH . Una campaña sin derrotas La AAMH integró la Zona A junto con Santa Fe, Río Negro y Santiago del Estero."
+          "El animal, de casi 200 kilos, sufrió una fractura y una contusión pulmonar por el impacto de un proyectil. La infección de la herida provocó una sepsis fatal. El lobo marino de un pelo (Otaria flavescens) fue rescatado por el equipo de la Fundación Mundo Marino tras un aviso de la Fundación BioCosta, pero murió poco después de ingresar al Centro de Rescate.",
+          "Noticia relacionadas San Cayetano abre la inscripción de guardavidas para la temporada 2026‑27 8 de septiembre de 2026 Un histórico diario de la región cerró su edición impresa: \"Hoy replegamos las alas\" 31 de agosto de 2026 El ejemplar permanecía prácticamente inmóvil, presentaba un marcado estado de decaimiento y apenas reaccionaba ante la presencia de personas. Los profesionales determinaron que atravesaba un cuadro crítico. La necropsia confirmó que el proyectil impactó en el hombro derecho y provocó una fractura de consideración y una contusión pulmonar."
         ],
-        "generated": "2026-09-09T16:51:28.945537+00:00"
+        "generated": "2026-09-09T19:40:48.826541+00:00"
+      }
+    },
+    {
+      "key": "historico diario region cerro edicion impresa hoy replegamos alas",
+      "title": "Un histórico diario de la región cerró su edición impresa: \"Hoy replegamos las alas\"",
+      "score": 1.2,
+      "sources_count": 1,
+      "first_seen": "2026-09-09T19:39:27.182670+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/un-diario-de-papel-de-la-region-cerro-y-decidio-irse-por-la-puerta-grande.webp",
+      "articles": [
+        {
+          "portal": "Diario Necochea",
+          "title": "Un histórico diario de la región cerró su edición impresa: \"Hoy replegamos las alas\"",
+          "url": "https://diarionecochea.com/2026/08/31/un-historico-diario-de-la-region-cerro-su-edicion-impresa-hoy-replegamos-las-alas/",
+          "published_at": null,
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Los propietarios decidieron dejar de sostener una estructura que ya se volvía insostenible, priorizando el vínculo construido durante décadas junto a su comunidad de lectores. El Fénix de Benito Juárez publicó este viernes su última edición impresa después de décadas acompañando la vida de esa comunidad.",
+          "La decisión marcó el cierre de una etapa para una publicación con una extensa trayectoria. En su mensaje de despedida, sus responsables explicaron que “no ha sido una decisión fácil” y compararon el momento con aquellas brasas que hicieron resurgir al diario en 1984 y que ahora comenzaron a apagarse."
+        ],
+        "generated": "2026-09-09T19:40:50.236618+00:00"
       }
     }
   ]
