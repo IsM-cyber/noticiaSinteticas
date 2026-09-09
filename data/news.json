@@ -1,12 +1,14 @@
 {
-  "generated_at": "2026-09-08T22:30:38.641318+00:00",
-  "article_count": 135,
-  "fetch_errors": [],
+  "generated_at": "2026-09-09T01:08:32.125848+00:00",
+  "article_count": 75,
+  "fetch_errors": [
+    "Necochea Digital: 403 Client Error: Forbidden for url: https://r.jina.ai/https://necocheadigital.com"
+  ],
   "stories": [
     {
       "key": "ernesto povilaitis sera nuevo presidente consorcio gestion puerto quequen",
       "title": "Ernesto Povilaitis nuevo presidente del Consorico de Puerto Quequén",
-      "score": 2.875,
+      "score": 2.257,
       "sources_count": 2,
       "first_seen": "2026-09-08T20:56:42+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/09/povilaitis_concejo.webp",
@@ -20,11 +22,11 @@
           "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/09/povilaitis_concejo.webp"
         },
         {
-          "portal": "Necochea Digital",
-          "title": "Ernesto Povilaitis será el nuevo presidente del Consorcio de Gestión de Puerto Quequén",
-          "url": "https://necocheadigital.com/nota/119536/ernesto-povilaitis-sera-el-nuevo-presidente-del-consorcio-de-gestion-de-puerto-quequen/",
-          "published_at": null,
-          "category": null,
+          "portal": "Necochea Libre",
+          "title": "EL ABOGADO ERNESTO POVILAITIS SERÀ EL NUEVO PRESIDENTE DEL CONSORCIO DE PUERTO QUEQUÈN.",
+          "url": "https://necochealibre.com.ar/el-abogado-ernesto-povilaitis-dera-el-nuevo-presidente-del-consorcio-de-puerto-quequen/",
+          "published_at": "2026-09-08T22:46:16+00:00",
+          "category": "Generales",
           "image": null
         }
       ],
@@ -33,13 +35,13 @@
           "TSN Necochea | ‹ VOLVER | Locales | Presidente | Designación Ernesto Povilaitis nuevo presidente del Consorico de Puerto Quequén Normalización por parte de la provincia en el ente portuario Por Redacción TSN 08/09/2026 · 05:56 PM Agregar TSN Necochea en ​El Gobierno bonaerense confirmó la designación de Ernesto Povilaitis como nuevo presidente del Consorcio de Gestión del Puerto Quequén , uno de los más importantes de la provincia de Buenos Aires y del país.",
           "​Si bien resta la publicación oficial, fuentes gubernamentales aseguraron que el nombramiento de Povilaitis al frente del consorcio es un hecho, con lo cual se completaría la designación de los titulares de todos los puertos públicos bonaerenses."
         ],
-        "generated": "2026-09-08T22:30:54.017441+00:00"
+        "generated": "2026-09-09T01:09:40.772072+00:00"
       }
     },
     {
       "key": "lionel messi volvio nominado balon oro 2026 dos anos ausente",
       "title": "Lionel Messi volvió a ser nominado al Balón de Oro 2026 tras dos años ausente",
-      "score": 1.895,
+      "score": 1.522,
       "sources_count": 2,
       "first_seen": "2026-09-08T14:43:01+00:00",
       "image": "https://cdnartic.ar/6543jzTqaLGm5w_roatc6flSfLw=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/09/messi_titulos_trofeos.webp",
@@ -66,13 +68,13 @@
           "Lionel Messi volvió a estar entre los grandes protagonistas del fútbol mundial al ser incluido entre los 30 nominados al Balón de Oro 2026 , luego de dos años sin aparecer en la lista de candidatos al prestigioso galardón. El astro rosarino regresa a la nómina tras haber sido una de las grandes figuras del último Mundial con la Selección Argentina. Messi, máximo ganador en la historia del premio con ocho Balones de Oro , vuelve a competir por un reconocimiento que ha marcado gran parte de su extraordinaria carrera.",
           "Junto al capitán argentino también fue nominado Lautaro Martínez , quien integra la lista de los 30 futbolistas seleccionados para disputar el premio al mejor jugador del mundo. Por su parte, Emiliano “Dibu” Martínez también tendrá presencia argentina en la ceremonia, ya que fue nominado al Trofeo Lev Yashin , distinción que reconoce al mejor arquero de la temporada."
         ],
-        "generated": "2026-09-08T22:30:59.043053+00:00"
+        "generated": "2026-09-09T01:09:46.147862+00:00"
       }
     },
     {
       "key": "identifican mujer fallecida tragico accidente ruta 88",
       "title": "Identifican a la mujer fallecida en el trágico accidente de la Ruta 88",
-      "score": 1.169,
+      "score": 0.939,
       "sources_count": 1,
       "first_seen": "2026-09-08T22:11:51+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/09/IMG-20260908-WA0008.webp",
@@ -91,657 +93,290 @@
           "TSN Necochea | ‹ VOLVER | Zona | Accidente fatal | Batán Identifican a la mujer fallecida en el trágico accidente de la Ruta 88 Se trata de una jubilada de 77 años, quien manejaba su Volkswagen Gol y fue embestida por una camioneta Hilux en inmediaciones del predio donde se tramita la VTV. Por Redacción TSN 08/09/2026 · 07:11 PM Agregar TSN Necochea en En las últimas horas identificaron a la conductora que murió este martes en un brutal accidente sobre la Ruta 88 arteria clave que conecta Necochea y Quequén con Mar del Plata, a la altura de la localidad de Batán .",
           "El trágico siniestro se registró alrededor de las 10:30 a la altura del predio de la VTV e involucró a una Toyota Hilux y un Volkswagen Gol . En circunstancias que son materia de investigación, la camioneta guiada por un joven de 20 años que resultó ileso impactó contra el automóvil que manejaba la víctima, quien falleció de forma instantánea ."
         ],
-        "generated": "2026-09-08T22:31:02.353078+00:00"
+        "generated": "2026-09-09T01:09:53.804330+00:00"
       }
     },
     {
-      "key": "vale pena municipio lanzo campana concientizacion riesgos beber alcohol manejar",
-      "title": "«¿Vale la pena?» El Municipio lanzó una campaña de concientización sobre los riesgos de beber alcohol y manejar",
-      "score": 1.1,
+      "key": "povilaitis etapa normalizacion hay trabajar manera coordinada municipio",
+      "title": "Povilaitis: “Es una etapa de normalización, hay que trabajar de manera coordinada con el Municipio”",
+      "score": 0.853,
       "sources_count": 1,
-      "first_seen": "2026-09-08T22:30:38.641318+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260908180813_foto-ilustrativa-alcohol-al-volante.jpg",
+      "first_seen": "2026-09-08T21:02:30+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-08-at-17.15.28-1.webp",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "«¿Vale la pena?» El Municipio lanzó una campaña de concientización sobre los riesgos de beber alcohol y manejar",
-          "url": "https://necocheadigital.com/nota/119537/laquo-vale-la-pena-raquo-el-municipio-lanzo-una-campana-de-concientizacion-sobre-los-riesgos-de-beber-alcohol-y-manejar/",
-          "published_at": null,
-          "category": null,
+          "portal": "TSN Necochea",
+          "title": "Povilaitis: “Es una etapa de normalización, hay que trabajar de manera coordinada con el Municipio”",
+          "url": "https://tsnnecochea.com.ar/locales/povilaitis-es-una-etapa-de-normalizacion-hay-que-trabajar-de-manera-coordinada-con-el-municipio-236466/",
+          "published_at": "2026-09-08T21:02:30+00:00",
+          "category": "declaracioens",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-08-at-17.15.28-1.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Locales | declaracioens | Consorico Povilaitis: “Es una etapa de normalización, hay que trabajar de manera coordinada con el Municipio” PArticipó del Congreso Productivo Bonaerense. Por Redacción TSN 08/09/2026 · 06:02 PM Agregar TSN Necochea en El flamante presidente de Puerto Quequén, Ernesto Povilaitis , participó del Congreso Productivo Bonaerense . Allí dialogó con la prensa y señaló sentirse «muy contento con la confianza que han depositado en mí».",
+          "Además, destacó que se trata de «una etapa de normalización del Consorcio» , teniendo en cuenta que desde el 2 de diciembre se encontraba con una presidencia interina. Indicó también que están ultimando los detalles para la firma del decreto por parte del Gobernador , aunque afirmó que ya están «en marcha y empezando a trabajar»."
+        ],
+        "generated": "2026-09-09T01:09:57.206122+00:00"
+      }
+    },
+    {
+      "key": "pisa 2025 cada 10 estudiantes argentinos no alcanzan nivel basico matematica",
+      "title": "PISA 2025: 8 de cada 10 estudiantes argentinos no alcanzan el nivel básico en Matemática",
+      "score": 0.851,
+      "sources_count": 2,
+      "first_seen": "2026-09-08T12:05:31+00:00",
+      "image": null,
+      "articles": [
+        {
+          "portal": "Necochea News",
+          "title": "PISA 2025: 8 de cada 10 estudiantes argentinos no alcanzan el nivel básico en Matemática",
+          "url": "https://necocheanews.com.ar/pisa-2025-8-de-cada-10-estudiantes-argentinos-no-alcanzan-el-nivel-basico-en-matematica/",
+          "published_at": "2026-09-08T12:13:00+00:00",
+          "category": "EDUCACION",
+          "image": null
+        },
+        {
+          "portal": "Diario NQ",
+          "title": "Preocupantes resultados de las pruebas PISA: casi 8 de cada 10 estudiantes argentinos no alcanzan el nivel básico en Matemática",
+          "url": "https://diarionq.com.ar/preocupantes-resultados-de-las-pruebas-pisa-casi-8-de-cada-10-estudiantes-argentinos-no-alcanzan-el-nivel-basico-en-matematica/",
+          "published_at": "2026-09-08T12:05:31+00:00",
+          "category": "Nacionales",
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "En la calle, cada segundo cuenta y cada decisión puede marcar una diferencia . Cuando una persona se pone al volante, asume una responsabilidad que no se limita a su propia seguridad, sino que también involucra a quienes circulan a su alrededor. El consumo de alcohol, incluso en cantidades que pueden parecer pequeñas , afecta las capacidades necesarias para conducir de manera segura. Disminuye los reflejos, altera la percepción y hace que el cerebro procese la información con mayor lentitud.",
-          "Ese retraso en la reacción puede traducirse en metros adicionales recorridos antes de comenzar a frenar. Por eso, no se trata de calcular cuánto alcohol se puede tomar antes de manejar, sino de entender que la única decisión segura es evitar el consumo si después se va a conducir. La distancia necesaria para detener un vehículo depende, entre otros factores, del tiempo que tarda el conductor en reaccionar y de la capacidad de frenado."
+          "Argentina obtuvo 367 puntos en Matemática y quedó en el puesto 75 entre 91 países evaluados. También se registró un retroceso en Lectura y Ciencias respecto de 2022. Los resultados de las pruebas PISA 2025 volvieron a encender las alarmas sobre el desempeño educativo en Argentina. Según el informe elaborado por Argentinos por la Educación a partir de los datos publicados por la OCDE, el 76% de los estudiantes argentinos de 15 años no alcanzó el nivel mínimo esperado en Matemática.",
+          "En otras palabras, aproximadamente 8 de cada 10 alumnos quedaron por debajo del nivel 2, considerado por la Organización para la Cooperación y el Desarrollo Económicos como el umbral básico de desempeño. Argentina obtuvo 367 puntos en Matemática, frente a los 378 alcanzados en 2022. Esto representa una caída del 2,9% y ubicó al país en el puesto 75 entre los 91 participantes."
         ],
-        "generated": "2026-09-08T22:31:03.115468+00:00"
+        "generated": "2026-09-09T01:10:01.426866+00:00"
       }
     },
     {
-      "key": "crisis fin fuerte caida industria construccion julio",
-      "title": "Crisis sin fin: Fuerte caída de la industria y la construcción en julio",
-      "score": 1.1,
+      "key": "povilaitis asumira frente consorcio gestion puerto quequen",
+      "title": "Povilaitis asumirá al frente del Consorcio de Gestión de Puerto Quequén",
+      "score": 0.725,
       "sources_count": 1,
-      "first_seen": "2026-09-08T22:30:38.641318+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260908183630_whatsapp-image-2026-09-08-at-18-36-13.jpg",
+      "first_seen": "2026-09-08T21:17:25+00:00",
+      "image": null,
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Crisis sin fin: Fuerte caída de la industria y la construcción en julio",
-          "url": "https://necocheadigital.com/nota/119539/crisis-sin-fin-fuerte-caida-de-la-industria-y-la-construccion-en-julio/",
-          "published_at": null,
-          "category": null,
+          "portal": "Diario NQ",
+          "title": "Povilaitis asumirá al frente del Consorcio de Gestión de Puerto Quequén",
+          "url": "https://diarionq.com.ar/povilaitis-asumira-al-frente-del-consorcio-de-gestion-de-puerto-quequen/",
+          "published_at": "2026-09-08T21:17:25+00:00",
+          "category": "Destacadas",
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "La industria manufacturera y la construcción , dos ramas de actividad que tienen alta incidencia en el PBI, el empleo y otras variables económicas claves, tuvieron un mal desempeño en julio. Según el Indec, la industria retrocedió 5% con relación a junio y se contrajo 4,9% en comparación con julio del año pasado. De esta manera, ese sector acumula una caída del 2,6% en los primeros siete meses del 2026. En lo que respecta a la construcción , los números muestran una baja del 4,6% en la variación mensual desestacionalizada y una retracción del 4,5% en la variación interanual.",
-          "El lado positivo, es que ese rubro se mantiene en terreno positivo en el acumulado del año. En concreto, registra una mejora del 1,7% en el período enero-julio de este año, en relación al mismo período del 2025. Maquinaria, equipos y calzado, los más golpeados Puertas adentro de la industria, el resultado de julio golpeó de manera dispar a las distintas ramas."
+          "El Gobierno bonaerense avanzó con la designación de Ernesto Povilaitis como presidente del Consorcio de Gestión de Puerto Quequén. El ex secretario de Legal y Técnica municipal confirmó que ya comenzó a trabajar, aunque resta la firma del decreto del gobernador Axel Kicillof. El Gobierno de la provincia de Buenos Aires avanzó con la designación de Ernesto Povilaitis al frente del Consorcio de Gestión de Puerto Quequén, dando inicio a una nueva etapa en la conducción del organismo portuario.",
+          "Para formalizar el nombramiento resta la firma del correspondiente decreto por parte del gobernador Axel Kicillof. Según se indicó, la designación tendrá efecto retroactivo al 25 de agosto."
         ],
-        "generated": "2026-09-08T22:31:04.429935+00:00"
+        "generated": "2026-09-09T01:10:19.167922+00:00"
       }
     },
     {
-      "key": "detuvieron quequen joven 23 anos buscado justicia",
-      "title": "Detuvieron en Quequén a un joven de 23 años que era buscado por la Justicia",
-      "score": 1.1,
+      "key": "diputados comenzara miercoles tratar temas endeudamiento familias emergencia discapacidad",
+      "title": "DIPUTADOS COMENZARÀ ESTE MIÈRCOLES A TRATAR LOS TEMAS DE ENDEUDAMIENTO DE LAS FAMILIAS Y EMERGENCIA EN DISCAPACIDAD.",
+      "score": 0.681,
       "sources_count": 1,
-      "first_seen": "2026-09-08T22:30:38.641318+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/a6742023230bef9cef1c6b3331de00707f97500d.jpg",
+      "first_seen": "2026-09-08T20:32:03+00:00",
+      "image": null,
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Detuvieron en Quequén a un joven de 23 años que era buscado por la Justicia",
-          "url": "https://necocheadigital.com/nota/119538/detuvieron-en-quequen-a-un-joven-de-23-anos-que-era-buscado-por-la-justicia/",
-          "published_at": null,
-          "category": null,
+          "portal": "Necochea Libre",
+          "title": "DIPUTADOS COMENZARÀ ESTE MIÈRCOLES A TRATAR LOS TEMAS DE ENDEUDAMIENTO DE LAS FAMILIAS Y EMERGENCIA EN DISCAPACIDAD.",
+          "url": "https://necochealibre.com.ar/diputados-comenzara-este-miercoles-a-tratar-los-temas-de-endeudamiento-de-las-familias-y-emergencia-en-discapacidad/",
+          "published_at": "2026-09-08T20:32:03+00:00",
+          "category": "Generales",
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "Un joven de 23 años fue detenido en Quequén luego de ser identificado por personal policial durante un operativo de prevención y seguridad desarrollado en la vía pública. El procedimiento estuvo a cargo de efectivos del Gabinete Técnico Operativo de la Comisaría Segunda de Quequén y se concretó en inmediaciones de calles 527 y 554. De acuerdo con la información policial, los agentes contaban con el oficio judicial correspondiente y, durante las tareas de identificación, constataron que sobre el joven pesaba una orden de detención vigente.",
-          "La medida había sido requerida por el Juzgado de Ejecución Penal N.º 2 del Departamento Judicial Mar del Plata, en el marco de una causa vinculada a un régimen de libertad asistida. Una vez verificada la vigencia del pedido judicial, los efectivos procedieron a la detención del joven, quien fue trasladado a la sede de la Comisaría Segunda de Quequén."
+          "Generales DIPUTADOS COMENZARÀ ESTE MIÈRCOLES A TRATAR LOS TEMAS DE ENDEUDAMIENTO DE LAS FAMILIAS Y EMERGENCIA EN DISCAPACIDAD. Por admin - 8 septiembre, 2026 0 2 Facebook Twitter Pinterest WhatsApp Caba.- Diputados tratará esta semana los proyectos por morosidad y emergencia en discapacidad. La Cámara baja comenzará este miércoles a las 12 horas a tratar ambas iniciativas.",
+          "La estrategia opositora apunta a establecer plazos concretos para que los proyectos obtengan dictamen y puedan llegar pronto al recinto. La Cámara de Diputados comenzará este miércoles a las 12 horas a tratar las iniciativas sobre el endeudamiento de las familias y la emergencia en discapacidad con el objetivo de forzar a las comisiones a avanzar con su discusión. En el caso de la morosidad, se trata de más de 50 proyectos que buscan abordar el nivel de endeudamiento de las familias y que permanecen pendientes de tratamiento."
         ],
-        "generated": "2026-09-08T22:31:05.825302+00:00"
+        "generated": "2026-09-09T01:10:22.085755+00:00"
       }
     },
     {
-      "key": "homicidio loberia hallaron arma investigacion apunta conflicto pasional",
-      "title": "Homicidio en Lobería: hallaron el arma y la investigación apunta a un conflicto pasional",
-      "score": 1.1,
+      "key": "contribuyentes conservan beneficio descuento tasas municipales 14",
+      "title": "LOS CONTRIBUYENTES CONSERVAN EL BENEFICIO DEL DESCUENTO EN TASAS MUNICIPALES HASTA EL 14/9.",
+      "score": 0.664,
       "sources_count": 1,
-      "first_seen": "2026-09-08T22:30:38.641318+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260908121932_whatsapp-image-2026-09-08-at-12-19-15.jpg",
+      "first_seen": "2026-09-08T20:13:39+00:00",
+      "image": null,
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Homicidio en Lobería: hallaron el arma y la investigación apunta a un conflicto pasional",
-          "url": "https://necocheadigital.com/nota/119534/homicidio-en-loberia-hallaron-el-arma-y-la-investigacion-apunta-a-un-conflicto-pasional/",
-          "published_at": null,
-          "category": null,
+          "portal": "Necochea Libre",
+          "title": "LOS CONTRIBUYENTES CONSERVAN EL BENEFICIO DEL DESCUENTO EN TASAS MUNICIPALES HASTA EL 14/9.",
+          "url": "https://necochealibre.com.ar/los-contribuyentes-conservan-el-beneficio-del-descuento-en-tasas-municipales-hasta-el-14-9/",
+          "published_at": "2026-09-08T20:13:39+00:00",
+          "category": "Locales",
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "La investigación por el homicidio de Alexis Braian Soplan Castro, de 33 años, ocurrido durante la madrugada del domingo en Lobería, sumó nuevas pruebas en las últimas horas con el hallazgo de un arma de fuego que podría ser la utilizada en el ataque y el avance de las medidas destinadas a determinar la responsabilidad del principal sospechoso. El fiscal José Luis Cipolletti, a cargo de la causa junto con la Ayudantía Fiscal de Lobería, confirmó que el expediente se encuentra caratulado como “homicidio agravado por el uso de arma de fuego” y señaló que la principal hipótesis apunta a un hecho vinculado con “razones pasionales”.",
-          "Por el momento, Boris Ohaco permanece aprehendido y es considerado el principal sospechoso. El fiscal aclaró, no obstante, que la investigación alcanzó inicialmente a dos hombres y que no se descartan otras líneas mientras continúan las distintas medidas de prueba."
+          "Locales Política Regionales LOS CONTRIBUYENTES CONSERVAN EL BENEFICIO DEL DESCUENTO EN TASAS MUNICIPALES HASTA EL 14/9. Por admin - 8 septiembre, 2026 0 3 Facebook Twitter Pinterest WhatsApp Necochea.- Tasas municipales: hasta el lunes 14 se puede pagar la cuota 9 sin recargos., La Agencia de Recaudación Municipal recuerda a los contribuyentes que el próximo lunes 14 de Septiembre opera el segundo vencimiento de la cuota 9 de las tasas urbanas y de la tasa rural , sin aplicación de recargos. Se trata de la última fecha para abonar la cuota manteniendo la bonificación complementaria del 30% .",
+          "El primer vencimiento operó este lunes 7 de Septiembre, pero quienes paguen hasta el lunes 14 podrán acceder todavía al beneficio. Una vez superado ese plazo, se perderá la bonificación y el monto de la cuota sufrirá un incremento, de acuerdo con lo establecido en el artículo 115° de la Ordenanza Fiscal e Impositiva vigente."
         ],
-        "generated": "2026-09-08T22:31:07.131704+00:00"
+        "generated": "2026-09-09T01:10:22.921515+00:00"
       }
     },
     {
-      "key": "hcd necochea avanzo proyectos salud educacion ordenamiento urbano",
-      "title": "El HCD de Necochea avanzó con proyectos de salud, educación y ordenamiento urbano",
-      "score": 1.1,
+      "key": "investigan hurto moto esquina 56 61",
+      "title": "Investigan el hurto de una moto en la esquina de 56 y 61",
+      "score": 0.648,
       "sources_count": 1,
-      "first_seen": "2026-09-08T22:30:38.641318+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260908121316_01-cl-8.jpg",
+      "first_seen": "2026-09-08T17:44:38+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/01/policia-cientificajpg.webp",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "El HCD de Necochea avanzó con proyectos de salud, educación y ordenamiento urbano",
-          "url": "https://necocheadigital.com/nota/119533/el-hcd-de-necochea-avanzo-con-proyectos-de-salud-educacion-y-ordenamiento-urbano/",
-          "published_at": null,
-          "category": null,
+          "portal": "TSN Necochea",
+          "title": "Investigan el hurto de una moto en la esquina de 56 y 61",
+          "url": "https://tsnnecochea.com.ar/locales/robaron-una-moto-en-pleno-centro-de-necochea-236452/",
+          "published_at": "2026-09-08T17:44:38+00:00",
+          "category": "hurto",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/01/policia-cientificajpg.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Locales | hurto | Inseguridad Investigan el hurto de una moto en la esquina de 56 y 61 Ocurrió en Necochea. La víctima dejó su Honda XR150 roja estacionada con las llaves colocadas y constató la sustracción una hora después. La UFI N° 3 tomó intervención en el caso. Por Redacción TSN 08/09/2026 · 02:44 PM Agregar TSN Necochea en Un vecino sufrió el hurto de su motocicleta en pleno centro de la ciudad tras dejarla estacionada con las llaves puestas.",
+          "Ocurrió en la intersección de las calles 56 y 61, en Necochea . Según consta en la denuncia, el damnificado dejó su vehículo —una Honda XR150 roja, patente A177URX — en el lugar y, al regresar aproximadamente una hora después , constató que se la habían llevado. El hecho es investigado por la UFI N° 3 del Departamento Judicial de Necochea, donde se iniciaron las actuaciones bajo la carátula de “Hurto de motovehículo” ."
+        ],
+        "generated": "2026-09-09T01:10:24.197141+00:00"
+      }
+    },
+    {
+      "key": "kicillof anuncio aplicara impuesto apuestas online",
+      "title": "KICILLOF ANUNCIÒ QUE APLICARÀ UN IMPUESTO DEL 2% A LAS APUESTAS ONLINE.",
+      "score": 0.644,
+      "sources_count": 1,
+      "first_seen": "2026-09-08T19:51:18+00:00",
+      "image": null,
+      "articles": [
+        {
+          "portal": "Necochea Libre",
+          "title": "KICILLOF ANUNCIÒ QUE APLICARÀ UN IMPUESTO DEL 2% A LAS APUESTAS ONLINE.",
+          "url": "https://necochealibre.com.ar/kicillof-anuncio-que-aplicara-un-impuesto-del-2-a-las-apuestas-online/",
+          "published_at": "2026-09-08T19:51:18+00:00",
+          "category": "Generales",
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "Las distintas comisiones del Honorable Concejo Deliberante de Necochea mantuvieron una intensa jornada de trabajo durante el lunes 7 de septiembre, con el análisis y despacho de proyectos que serán incorporados al temario de la próxima sesión ordinaria, convocada para este miércoles a las 10. Los expedientes abordados abarcaron cuestiones relacionadas con el sistema público de salud, la formación profesional, el ordenamiento del espacio público, habilitaciones comerciales, exenciones impositivas y fechas institucionales.",
-          "Turnos hospitalarios desde los CAPS Uno de los proyectos tratados correspondió a la Comisión de Salud, presidida por la concejal Evangelina Almada (FP-MDF). La comisión dio despacho favorable a una iniciativa que busca facilitar el acceso de los vecinos a los turnos para especialidades médicas."
+          "Generales Locales Nacionales KICILLOF ANUNCIÒ QUE APLICARÀ UN IMPUESTO DEL 2% A LAS APUESTAS ONLINE. Por admin - 8 septiembre, 2026 0 7 Facebook Twitter Pinterest WhatsApp La Plata.- Kicillof aplicará un impuesto del 2% sobre los premios de las apuestas online para destinar a Salud, Educación y Desarrollo Social La medida proyecta una recaudación mensual estimada entre 35.000 y 40.000 millones de pesos.",
+          "Fue anunciada por Carlos Bianco. El ministro de gobierno de Axel Kicillof, Carlos Bianco, anunció la implementación de una retención del 2% sobre los premios de resolución inmediata en plataformas de apuestas online habilitadas en la provincia de Buenos Aires La medida proyecta una recaudación mensual estimada entre 35.000 y 40.000 millones de pesos, destinados a financiar programas de Salud, Educación y Desarrollo Social a través del Fondo de Progreso e Inclusión Social (FOPIS)."
         ],
-        "generated": "2026-09-08T22:31:07.841808+00:00"
+        "generated": "2026-09-09T01:10:24.882980+00:00"
       }
     },
     {
-      "key": "emsur reforzo trabajos mantenimiento reparacion caminos rurales distrito",
-      "title": "El EMSUR reforzó los trabajos de mantenimiento y reparación en los caminos rurales del distrito",
-      "score": 1.1,
+      "key": "anuncio nueva jornada castracion perros gatos",
+      "title": "SE ANUNCIÒ UNA NUEVA JORNADA DE CASTRACIÒN DE PERROS Y GATOS.",
+      "score": 0.632,
       "sources_count": 1,
-      "first_seen": "2026-09-08T22:30:38.641318+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260908115805_22-06-foto-emsur-rural.png",
+      "first_seen": "2026-09-08T19:38:42+00:00",
+      "image": null,
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "El EMSUR reforzó los trabajos de mantenimiento y reparación en los caminos rurales del distrito",
-          "url": "https://necocheadigital.com/nota/119532/el-emsur-reforzo-los-trabajos-de-mantenimiento-y-reparacion-en-los-caminos-rurales-del-distrito/",
-          "published_at": null,
-          "category": null,
+          "portal": "Necochea Libre",
+          "title": "SE ANUNCIÒ UNA NUEVA JORNADA DE CASTRACIÒN DE PERROS Y GATOS.",
+          "url": "https://necochealibre.com.ar/se-anuncio-una-nueva-jornada-de-castracion-de-perros-y-gatos/",
+          "published_at": "2026-09-08T19:38:42+00:00",
+          "category": "Generales",
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "En lo que va del año, el registro acumulado de precipitaciones alcanza los 698 milímetros , un volumen que genera la necesidad de sostener de manera permanente las tareas de mantenimiento, reparación y acondicionamiento de la extensa red vial rural. Con maquinaria y personal propios, el EMSUR intervino en distintos puntos donde se habían producido cortes y deterioros. En el Camino Municipal 218, entre los kilómetros 24 y 28 de la Ruta Provincial 86, se trabajó en la reparación del corte existente para recuperar la circulación.",
-          "Una tarea similar se llevó adelante en el Camino Municipal 252, a la altura de la bajada del kilómetro 47 de la RP 86, donde fue necesario recomponer el sector afectado. También se realizaron trabajos de arreglo de corte y repaso sobre el Camino Municipal 004 – 1/2 Agua, mientras que en el Camino Municipal 150, en dirección a Las Cascadas, se efectuó un repaso general para mejorar las condiciones de transitabilidad."
+          "Generales SE ANUNCIÒ UNA NUEVA JORNADA DE CASTRACIÒN DE PERROS Y GATOS. Por admin - 8 septiembre, 2026 0 4 Facebook Twitter Pinterest WhatsApp Necochea .- La Municipalidad de Necochea realizará el próximo sábado 12 de septiembre una nueva jornada masiva y gratuita de castración de mascotas , como parte de las acciones para promover la tenencia responsable. El operativo estará a cargo de la Dirección de Bromatología e Higiene, dependiente de la Secretaría de Salud, y comenzará a las 9 en el Jardín Maternal Municipal “Pichi Huinca”, ubicado en calle 100 Nº 3062.",
+          "También se deberá llevar una manta o frazada para cubrir al animal después de la intervención y en el caso de los gatos, trasladarlos en bolsas, mochilas o transportadoras adecuadas. Se recuerda que no se castran hembras en celo y en caso de haber tenido cría, deberán transcurrir 75 días en perras y 35 días en gatas."
         ],
-        "generated": "2026-09-08T22:31:09.139528+00:00"
+        "generated": "2026-09-09T01:10:25.543261+00:00"
       }
     },
     {
-      "key": "cuando 88 mujer fallecio accidente altura batan",
-      "title": "¿Hasta cuándo la 88? Una mujer falleció en un accidente a la altura de Batán",
-      "score": 1.1,
+      "key": "municipio lanza campana alcohol volante necochea quequen",
+      "title": "El Municipio lanza una campaña contra el alcohol al volante en Necochea y Quequén",
+      "score": 0.601,
       "sources_count": 1,
-      "first_seen": "2026-09-08T22:30:38.641318+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260908122317_whatsapp-image-2026-09-08-at-12-21-41.jpg",
+      "first_seen": "2026-09-08T16:50:55+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/09/FOTO-ilustrativa-alcohol-al-volante.webp",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "¿Hasta cuándo la 88? Una mujer falleció en un accidente a la altura de Batán",
-          "url": "https://necocheadigital.com/nota/119535/hasta-cuando-la-88-una-mujer-fallecio-en-un-accidente-a-la-altura-de-batan/",
-          "published_at": null,
-          "category": null,
-          "image": null
+          "portal": "TSN Necochea",
+          "title": "El Municipio lanza una campaña contra el alcohol al volante en Necochea y Quequén",
+          "url": "https://tsnnecochea.com.ar/generales/el-municipio-lanza-una-campana-desalentar-el-consumo-de-alcohol-al-momento-de-conducir-236444/",
+          "published_at": "2026-09-08T16:50:55+00:00",
+          "category": "concientización",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/09/FOTO-ilustrativa-alcohol-al-volante.webp"
         }
       ],
       "summary": {
         "paragraphs": [
-          "Una mujer de 78 años falleció este martes por la mañana como consecuencia de un violento accidente ocurrido sobre la Ruta 88, a la altura de Batán, en inmediaciones del kilómetro 9,5 y frente al predio de la Verificación Técnica Vehicular (VTV). El siniestro se produjo alrededor de las 10.30, cuando el Volkswagen Gol que conducía la víctima salía del barrio Colinalegre y fue impactado por una Toyota Hilux que circulaba en sentido hacia Mar del Plata. De acuerdo con la información difundida, la camioneta impactó sobre el lateral del Volkswagen Gol correspondiente al puesto del conductor.",
-          "La violencia de la colisión provocó que la mujer quedara atrapada dentro del habitáculo y falleciera en el lugar como consecuencia de las heridas sufridas. Tras el aviso de la emergencia, se desplegó un operativo en el sector, con la intervención de personal del SAME, Bomberos y efectivos de la Policía de la Provincia de Buenos Aires."
+          "TSN Necochea | ‹ VOLVER | Generales | concientización | Concientización El Municipio lanza una campaña contra el alcohol al volante en Necochea y Quequén «¿Vale la pena?» pone el foco en los riesgos de beber alcohol y manejar Por Redacción TSN 08/09/2026 · 01:50 PM Agregar TSN Necochea en A través del Observatorio Vial Municipal , dependiente de la Secretaría de Gobierno , la Municipalidad de Necochea continúa con su campaña de concientización para desalentar el consumo de alcohol al momento de conducir y reforzar un mensaje clave: si tomaste, no manejes . En la calle, cada segundo cuenta y cada decisión puede marcar una diferencia .",
+          "Cuando una persona se pone al volante, asume una responsabilidad que no se limita a su propia seguridad, sino que también involucra a quienes circulan a su alrededor. El consumo de alcohol, incluso en cantidades que pueden parecer pequeñas , afecta las capacidades necesarias para conducir de manera segura."
         ],
-        "generated": "2026-09-08T22:31:10.227731+00:00"
+        "generated": "2026-09-09T01:10:30.977874+00:00"
       }
     },
     {
-      "key": "justicia suspendio nuevo regimen penal juvenil provincia abrio nuevo debate imputabilidad",
-      "title": "La Justicia suspendió el nuevo Régimen Penal Juvenil en la Provincia y abrió un nuevo debate sobre la imputabilidad",
-      "score": 1.1,
+      "key": "abandono hidrolavadora herramientas escapar policia",
+      "title": "Abandonó una hidrolavadora y herramientas al escapar de la Policía",
+      "score": 0.59,
       "sources_count": 1,
-      "first_seen": "2026-09-08T22:30:38.641318+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260908091440_bajaedadimputabilidad.jpg",
+      "first_seen": "2026-09-08T16:37:06+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-08-at-09.45.33-1.webp",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "La Justicia suspendió el nuevo Régimen Penal Juvenil en la Provincia y abrió un nuevo debate sobre la imputabilidad",
-          "url": "https://necocheadigital.com/nota/119531/la-justicia-suspendio-el-nuevo-regimen-penal-juvenil-en-la-provincia-y-abrio-un-nuevo-debate-sobre-la-imputabilidad/",
-          "published_at": null,
+          "portal": "TSN Necochea",
+          "title": "Abandonó una hidrolavadora y herramientas al escapar de la Policía",
+          "url": "https://tsnnecochea.com.ar/locales/abandono-una-hidrolavadora-y-herramientas-al-escapar-de-la-policia-236440/",
+          "published_at": "2026-09-08T16:37:06+00:00",
           "category": null,
-          "image": null
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-08-at-09.45.33-1.webp"
         }
       ],
       "summary": {
         "paragraphs": [
-          "La implementación del nuevo Régimen Penal Juvenil volvió a generar un fuerte cruce político entre la Provincia de Buenos Aires y el Gobierno nacional, luego de que la Justicia bonaerense resolviera suspender preventivamente durante 60 días la aplicación de la normativa en todo el territorio provincial. La medida fue dispuesta por Marta Elba Pascual, titular del Juzgado de Responsabilidad Penal Juvenil N° 2 de Lomas de Zamora, a partir de un hábeas corpus preventivo colectivo presentado por la Federación Familia Grande Hogar de Cristo en favor de adolescentes privados de su libertad. El fallo puso el foco en las condiciones con las que cuenta actualmente el sistema para recibir a una eventual mayor cantidad de adolescentes sometidos a procesos penales.",
-          "¿Qué plantea el nuevo régimen? El Régimen Penal Juvenil fue establecido mediante la Ley 27.801, sancionada por el Congreso nacional en febrero de este año."
+          "TSN Necochea | ‹ VOLVER | Locales | En calle 82 y 71 bis, Abandonó una hidrolavadora y herramientas al escapar de la Policía Un llamado al sistema de emergencias 911 alertó la situación Por Redacción TSN 08/09/2026 · 01:37 PM Agregar TSN Necochea en Un sujeto abandonó una hidrolavadora y diversas herramientas al advertir la presencia policial, durante un procedimiento realizado en inmediaciones de calle 82 y 71 bis, en jurisdicción de la Comisaría Primera de Necochea. El hecho se inició luego de un llamado al sistema de emergencias 911 , que alertó sobre la presencia de un hombre que circulaba por la zona transportando una hidrolavadora.",
+          "Al arribar al lugar, los efectivos observaron a un masculino que, al advertir la presencia policial, emprendió la fuga a paso acelerado, dejando abandonados los elementos que llevaba consigo."
         ],
-        "generated": "2026-09-08T22:31:10.948156+00:00"
+        "generated": "2026-09-09T01:10:32.185359+00:00"
       }
     },
     {
-      "key": "pisa 2025 argentina volvio retroceder encendio alarmas nivel educativo",
-      "title": "PISA 2025: Argentina volvió a retroceder y encendió las alarmas sobre el nivel educativo",
-      "score": 1.1,
+      "key": "lunes 14 puede pagar cuota tasas municipales recargos",
+      "title": "Hasta el lunes 14 se puede pagar la cuota 9 de las tasas municipales sin recargos",
+      "score": 0.583,
       "sources_count": 1,
-      "first_seen": "2026-09-08T22:30:38.641318+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260908091016_que-es-y-como-funciona-la-prueba-eybr3mmgs5eu7hmw7viniw7ar4.jpg",
+      "first_seen": "2026-09-08T16:29:04+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/09/12-04-FOTO-Vencimiento-Tasas-Agencia-Recaudacion.webp",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "PISA 2025: Argentina volvió a retroceder y encendió las alarmas sobre el nivel educativo",
-          "url": "https://necocheadigital.com/nota/119530/pisa-2025-argentina-volvio-a-retroceder-y-encendio-las-alarmas-sobre-el-nivel-educativo/",
-          "published_at": null,
+          "portal": "TSN Necochea",
+          "title": "Hasta el lunes 14 se puede pagar la cuota 9 de las tasas municipales sin recargos",
+          "url": "https://tsnnecochea.com.ar/locales/hasta-el-lunes-14-se-puede-pagar-la-cuota-9-de-las-tasas-municipales-sin-recargos-236436/",
+          "published_at": "2026-09-08T16:29:04+00:00",
           "category": null,
-          "image": null
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/09/12-04-FOTO-Vencimiento-Tasas-Agencia-Recaudacion.webp"
         }
       ],
       "summary": {
         "paragraphs": [
-          "Argentina volvió a quedar frente a un preocupante diagnóstico sobre el desempeño de sus estudiantes. Los resultados de las pruebas PISA 2025 mostraron un retroceso en las tres áreas evaluadas: Matemática, Lectura y Ciencias. Se trata de la primera vez, dentro de la serie comparable, que el país cae simultáneamente en las tres disciplinas. Los resultados fueron difundidos este martes por la Organización para la Cooperación y el Desarrollo Económicos (OCDE), organismo que lleva adelante esta evaluación internacional.",
-          "En Argentina participaron 11.093 estudiantes de 15 años pertenecientes a 412 escuelas, una muestra representativa de alrededor de 609.100 jóvenes de esa edad. A nivel mundial participaron más de 760.000 estudiantes de 91 países y economías. ¿Qué son las pruebas PISA?"
+          "TSN Necochea | ‹ VOLVER | Locales | Recaudación Hasta el lunes 14 se puede pagar la cuota 9 de las tasas municipales sin recargos Una vez superado ese plazo, se perderá la bonificación Por Redacción TSN 08/09/2026 · 01:29 PM Agregar TSN Necochea en La Agencia de Recaudación Municipal recuerda a los contribuyentes que el próximo lunes 14 de septiembre opera el segundo vencimiento de la cuota 9 de las tasas urbanas y de la tasa rural , sin aplicación de recargos. Se trata de la última fecha para abonar la cuota manteniendo la bonificación complementaria del 30% .",
+          "El primer vencimiento operó este lunes 7 de septiembre, mientras que quienes paguen hasta el lunes 14 podrán acceder todavía al beneficio. Una vez superado ese plazo, se perderá la bonificación y el monto de la cuota sufrirá un incremento, de acuerdo con lo establecido en el artículo 115° de la Ordenanza Fiscal e Impositiva vigente."
         ],
-        "generated": "2026-09-08T22:31:11.649649+00:00"
-      }
-    },
-    {
-      "key": "cinturon quedo casa marcos pereira consagro campeon wkn necochea fight club",
-      "title": "Marcos Pereira se consagró campeón WKN en una histórica jornada del Necochea Fight Club",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-09-08T22:30:38.641318+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/04690e50247a450c53977f1ac93975449f71f981.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Marcos Pereira se consagró campeón WKN en una histórica jornada del Necochea Fight Club",
-          "url": "https://necocheadigital.com/nota/119524/marcos-pereira-se-consagro-campeon-wkn-en-una-historica-jornada-del-necochea-fight-club/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La décima edición del Necochea Fight Club tuvo como gran protagonista a Marcos Pereira , quien se consagró campeón de la World Kickboxing Network (WKN) en una jornada que reunió a competidores de distintos puntos del país y convocó a una importante cantidad de público en el Polideportivo Municipal “Edgardo Hugo Yelpo” . El evento, organizado por Maximiliano Saravia , a través de Team Saravia y Saravia Promotions , tuvo como uno de sus principales atractivos la disputa por el cinturón WKN, uno de los títulos de mayor relevancia dentro del kickboxing.",
-          "Pereira se impuso en la pelea estelar, bajo las reglas K1 Rules , frente a Bautista Hernández , y consiguió quedarse con el campeonato ante la gente de Necochea. De esta manera, el cinturón quedó en manos de un representante local y la organización sumó uno de los momentos más importantes desde el inicio del Necochea Fight Club."
-        ],
-        "generated": "2026-09-08T22:31:12.321335+00:00"
-      }
-    },
-    {
-      "key": "basquet seleccionado u17 necochea consagro campeon invicto zonal sur",
-      "title": "Necochea se consagró campeón del Zonal U17 de básquet y clasificó al Provincial",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-09-08T22:30:38.641318+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260907122230_whatsapp-image-2026-09-07-at-12-22-11.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Necochea se consagró campeón del Zonal U17 de básquet y clasificó al Provincial",
-          "url": "https://necocheadigital.com/nota/119522/necochea-se-consagro-campeon-del-zonal-u17-de-basquet-y-clasifico-al-provincial/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El seleccionado U17 de la Asociación de Básquetbol de Necochea cerró una actuación perfecta en Olavarría y se quedó con el Torneo Zonal de la Federación Bonaerense de Básquetbol. El equipo dirigido por Mauro Mazzucchelli ganó los cuatro partidos que disputó y obtuvo la clasificación al Campeonato Provincial U17. Necochea comenzó su participación el viernes con una contundente victoria frente a Básquet Asociado Sudoeste por 93 a 63.",
-          "El seleccionado necochense marcó diferencias desde el comienzo y terminó el primer cuarto con una ventaja de 16 a 4, para luego ampliar la diferencia durante el desarrollo del encuentro. Santiago Parigino fue uno de los principales aportes ofensivos, con 16 puntos y 10 rebotes, mientras que Joaquín Zárate sumó 12 puntos y 7 rebotes. Pedro Pizzi aportó 16 unidades y 4 asistencias desde el banco."
-        ],
-        "generated": "2026-09-08T22:31:13.011035+00:00"
-      }
-    },
-    {
-      "key": "independiente san cayetano vencio villa diaz velez quedo como lider zona federal",
-      "title": "Independiente San Cayetano venció a Villa Díaz Vélez y quedó como líder de la zona del Federal",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-09-08T22:30:38.641318+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260907121602_whatsapp-image-2026-09-07-at-12-15-29.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Independiente San Cayetano venció a Villa Díaz Vélez y quedó como líder de la zona del Federal",
-          "url": "https://necocheadigital.com/nota/119521/independiente-san-cayetano-vencio-a-villa-diaz-velez-y-quedo-como-lider-de-la-zona-del-federal/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Independiente San Cayetano consiguió un importante triunfo como visitante ante Villa Díaz Vélez y quedó como único líder de la Zona 5 de la Región Bonaerense Pampeana Sur del Torneo Regional Federal Amateur 2026/27. El Chimango se impuso por 2 a 0 en el estadio Jorge Iparraguirre , por la segunda fecha de la competencia, con goles de Daniel Azurmendi , de penal, y Nicolás Ferreira , ambos durante los primeros minutos del encuentro. El conjunto de San Cayetano, que había igualado sin goles ante Ministerio en la primera jornada, alcanzó los cuatro puntos y quedó en lo más alto de la zona.",
-          "En la próxima fecha tendrá jornada libre, mientras que Villa Díaz Vélez visitará a Ministerio en Quequén. Independiente golpeó de entrada El equipo dirigido por Sotelo tomó ventaja rápidamente."
-        ],
-        "generated": "2026-09-08T22:31:13.713578+00:00"
-      }
-    },
-    {
-      "key": "llega gran fiesta primavera necochea",
-      "title": "Llega la gran Fiesta de la Primavera a Necochea",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-09-08T22:30:38.641318+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260907180859_22-09-foto-primavera-fest-juventud-parque-miguel-lillo-01.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Llega la gran Fiesta de la Primavera a Necochea",
-          "url": "https://necocheadigital.com/nota/119523/llega-la-gran-fiesta-de-la-primavera-a-necochea/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La Municipalidad de Necochea dio a conocer el cronograma de la Fiesta de la Primavera , que se realizará el domingo 20 de septiembre, de 11 a 17, en las inmediaciones de avenida Pinolandia, entre avenida 2 y avenida 10 del Parque Miguel Lillo, con entrada libre y gratuita . Organizada por el área de Juventud, a cargo de Agustina Di Russo , y con el respaldo de la Secretaría de Turismo y Desarrollo Productivo , la jornada ofrecerá propuestas recreativas, deportivas y artísticas para jóvenes y familias. Habrá exhibiciones de stunt, bike, skate y parkour , con espacios especialmente preparados para las demostraciones.",
-          "Desde las 11 se desarrollará la juntada de Stunt, con la participación de deportistas invitados y la referente local Delfina Vellón. También estarán la Escuela de Skate Necochea, con una demo y mini clase abierta, y Suna Parkour, que brindará talleres y una mini competencia."
-        ],
-        "generated": "2026-09-08T22:31:14.425533+00:00"
-      }
-    },
-    {
-      "key": "tres accidentes dia vida no puede naturalizarse",
-      "title": "Tres accidentes por día y una vida que no puede naturalizarse",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-09-08T22:30:38.641318+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/a69a40d2899f80f37d600ce276c1d4b6418793ed.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Tres accidentes por día y una vida que no puede naturalizarse",
-          "url": "https://necocheadigital.com/nota/119529/tres-accidentes-por-dia-y-una-vida-que-no-puede-naturalizarse/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El fallecimiento de un joven de apenas 20 años volvió a poner sobre la mesa una problemática que Necochea parece haber naturalizado, o sea los accidentes de tránsito. Yoel Roldán murió el sábado luego de protagonizar un choque mientras circulaba en moto. Detrás del hecho queda una familia destruida y, nuevamente, la necesidad de preguntarnos qué estamos haciendo cuando salimos a la calle.",
-          "El director de Tránsito de la Municipalidad, Sergio Nicolás, fue entrevistado este lunes en Voces de la Tarde, programa que conduce Jorge Gómez por Radio Noticias Necochea, y coincidió en que no se trata simplemente de buscar culpables después de cada accidente, sino de revisar las conductas de todos quienes participan del tránsito. “Todos los que estamos en la calle circulando, desde una bicicleta hasta el que anda en un vehículo de mayor porte, debemos empezar a respetar un poco más las señales y las normas de tránsito”, señaló."
-        ],
-        "generated": "2026-09-08T22:31:15.112979+00:00"
-      }
-    },
-    {
-      "key": "solidaridad aparece medio adversidad",
-      "title": "La solidaridad que aparece en medio de la adversidad",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-09-08T22:30:38.641318+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260908090227_captura-de-pantalla-2026-09-08-a-la-s-9-02-14-a-nbsp-m.png",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "La solidaridad que aparece en medio de la adversidad",
-          "url": "https://necocheadigital.com/nota/119528/la-solidaridad-que-aparece-en-medio-de-la-adversidad/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Hay situaciones que podrían despertar solamente bronca, impotencia y desesperación. Que alguien entre en la noche y se lleve una herramienta de trabajo, después de años de esfuerzo para conseguirla, es una de ellas. Sin embargo, Franco Jesús Omar Gómez eligió mirar el episodio desde otro lugar. Días atrás le robaron su camioneta, una Chevrolet S10 modelo 2005, que estaba estacionada frente a la casa de unos amigos.",
-          "Había llegado allí alrededor de las 21 y, mientras conversaba unos minutos en la vereda, en un momento miró hacia el lugar donde había dejado el vehículo y ya no estaba. La denuncia fue realizada y comenzó la investigación. También interviene el seguro."
-        ],
-        "generated": "2026-09-08T22:31:15.793684+00:00"
-      }
-    },
-    {
-      "key": "no toquen lena quien lleva insolito final novela arboles enfermos",
-      "title": "Del \"¡No lo toquen!\" al \"¿La leña quién se la lleva?\": el insólito final de la novela de los árboles enfermos",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-09-08T22:30:38.641318+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/a5ce1fde3f5bd7dfb73281e12e49f158efad7b91.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Del \"¡No lo toquen!\" al \"¿La leña quién se la lleva?\": el insólito final de la novela de los árboles enfermos",
-          "url": "https://necocheadigital.com/nota/119526/del-no-lo-toquen-al-la-lena-quien-se-la-lleva-el-insolito-final-de-la-novela-de-los-arboles-enfermos/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Hay historias que parecen escritas por un guionista con demasiado tiempo libre. Este domingo se vivió un episodio que mezcló militancia ambiental, drama, suspenso, comedia absurda y un desenlace digno de un premio al mejor giro argumental. Todo comenzó frente al Colegio de Abogados, donde se llevó adelante la extracción de tres árboles autorizada por la Municipalidad. La institución contaba con todos los permisos correspondientes.",
-          "Tan es así que hasta el propio secretario de Gobierno se acercó al lugar para certificar que el procedimiento era completamente legal. Sin embargo, eso poco importó. Un reducido grupo de ambientalistas decidió convertir la mañana en una escena de protesta."
-        ],
-        "generated": "2026-09-08T22:31:16.484056+00:00"
-      }
-    },
-    {
-      "key": "crecen oferentes transporte publico necochea",
-      "title": "Crecen los oferentes para el transporte público de Necochea",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-09-08T22:30:38.641318+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260907183147_01-02-foto-colectivos-festival.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Crecen los oferentes para el transporte público de Necochea",
-          "url": "https://necocheadigital.com/nota/119525/crecen-los-oferentes-para-el-transporte-publico-de-necochea/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Además de la firma Vía Rosario —que mantuvo un encuentro virtual con las autoridades locales la semana pasada—, existen otras tres empresas interesadas en conocer las condiciones para prestar el servicio en la ciudad. La novedad fue confirmada por el concejal de Unión por la Patria y presidente de la Comisión de Transporte del HCD, Julián Kristiansen, en diálogo con el periodista Horacio Castelli durante el programa ¿Quién Miente?",
-          "de Radio Noticias Necochea. Con estas alternativas, sumadas a la empresa local que actualmente opera las líneas, son cinco las oferentes en el radar municipal, lo que aleja el riesgo de una interrupción total del servicio."
-        ],
-        "generated": "2026-09-08T22:31:17.187392+00:00"
-      }
-    },
-    {
-      "key": "fallecio joven motociclista protagonizado grave accidente avenida 74 calle 71",
-      "title": "Falleció el joven motociclista que había protagonizado un grave accidente en avenida 74 y calle 71",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-09-08T22:30:38.641318+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/b1d284a95366705a3178b56e2abfcfb393c41028.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Falleció el joven motociclista que había protagonizado un grave accidente en avenida 74 y calle 71",
-          "url": "https://necocheadigital.com/nota/119513/fallecio-el-joven-motociclista-que-habia-protagonizado-un-grave-accidente-en-avenida-74-y-calle-71/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La víctima fue identificada como Yoel Roldán, quien alrededor de las 19 protagonizó una colisión con una camioneta en la intersección de avenida 74 y calle 71. Tras el fuerte impacto, el joven fue trasladado de urgencia a un centro asistencial con lesiones de extrema gravedad. Su estado era crítico y, mientras permanecía internado, familiares, amigos y allegados habían iniciado una cadena de oración a través de las redes sociales con la esperanza de su recuperación.",
-          "Sin embargo, pese a los intentos de los profesionales de la salud, Yoel Roldán falleció a causa de las graves heridas sufridas en el siniestro vial. Las circunstancias en las que se produjo el accidente continúan siendo materia de investigación."
-        ],
-        "generated": "2026-09-08T22:31:17.882392+00:00"
-      }
-    },
-    {
-      "key": "mar plata necochea recuperaron vehiculo robado aprehendieron conductora",
-      "title": "De Mar del Plata a Necochea: recuperaron un vehículo robado y aprehendieron a su conductora",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-09-08T22:30:38.641318+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260904174132_whatsapp-image-2026-09-04-at-17-41-19.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "De Mar del Plata a Necochea: recuperaron un vehículo robado y aprehendieron a su conductora",
-          "url": "https://necocheadigital.com/nota/119505/de-mar-del-plata-a-necochea-recuperaron-un-vehiculo-robado-y-aprehendieron-a-su-conductora/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Un nuevo procedimiento policial volvió a poner en evidencia la circulación en Necochea de vehículos vinculados con hechos delictivos registrados en Mar del Plata. En este caso, efectivos de la Comisaría Primera de Necochea recuperaron una Chevrolet Tracker de color negro que tenía un pedido de secuestro activo por un robo automotor ocurrido en la vecina ciudad. El procedimiento fue realizado por personal del Gabinete Técnico Operativo de la Comisaría Primera durante recorridas preventivas en inmediaciones de calle 65 entre Avenida 42 y calle 40.",
-          "Allí los efectivos observaron el vehículo y realizaron un seguimiento controlado hasta interceptarlo en calle 40 entre 67 y 69. Durante la identificación del rodado y la verificación de la documentación, los policías detectaron una inconsistencia entre la numeración del chasis consignada en la cédula y la numeración grabada físicamente en el vehículo."
-        ],
-        "generated": "2026-09-08T22:31:18.569337+00:00"
-      }
-    },
-    {
-      "key": "condenaron 15 anos prision hombre abusos sexuales corrupcion menores necochea",
-      "title": "Condenaron a 15 años de prisión a un hombre por abusos sexuales y corrupción de menores en Necochea",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-09-08T22:30:38.641318+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260903173933_whatsapp-image-2026-09-03-at-17-39-16.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Condenaron a 15 años de prisión a un hombre por abusos sexuales y corrupción de menores en Necochea",
-          "url": "https://necocheadigital.com/nota/119489/condenaron-a-15-anos-de-prision-a-un-hombre-por-abusos-sexuales-y-corrupcion-de-menores-en-necochea/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La Justicia penal del Departamento Judicial Necochea condenó a 15 años de prisión de efectivo cumplimiento a un hombre de 60 años , luego de hallarlo penalmente responsable de delitos contra la integridad sexual cometidos contra dos menores de edad. La sentencia fue dictada en el marco de un juicio abreviado , a partir del acuerdo alcanzado entre el Ministerio Público Fiscal y la defensa oficial del imputado. Los hechos investigados ocurrieron entre agosto y septiembre de 2021 , en un domicilio de Necochea.",
-          "De acuerdo con la investigación policial y judicial, las dos víctimas eran menores de edad al momento de los hechos y mantenían un vínculo intrafamiliar con el condenado, quien era su padrastro . La calificación de los hechos La sentencia fue dictada por la jueza unipersonal Luciana Irigoyen Testa , integrante del Tribunal Criminal Nº 1 de Necochea ."
-        ],
-        "generated": "2026-09-08T22:31:19.281110+00:00"
-      }
-    },
-    {
-      "key": "dos hurtos pocos minutos aprehendieron joven recuperaron celular mochila necochea",
-      "title": "Dos hurtos en pocos minutos: aprehendieron a un joven y recuperaron un celular y una mochila en Necochea",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-09-08T22:30:38.641318+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260903174516_20260903102857-whatsapp-image-2026-09-03-at-9-41-07-am.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Dos hurtos en pocos minutos: aprehendieron a un joven y recuperaron un celular y una mochila en Necochea",
-          "url": "https://necocheadigital.com/nota/119490/dos-hurtos-en-pocos-minutos-aprehendieron-a-un-joven-y-recuperaron-un-celular-y-una-mochila-en-necochea/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Dos hechos de hurto ocurridos en distintos puntos de Necochea fueron esclarecidos luego de un procedimiento policial que terminó con un joven de 19 años aprehendido y con la recuperación de un teléfono celular y una mochila que contenía documentación personal y llaves de un automóvil. El procedimiento comenzó a partir de un llamado al sistema de emergencias 911 , que alertó sobre la sustracción de un teléfono celular del interior de un vehículo de reparto estacionado en inmediaciones de avenida 59 y calle 80 .",
-          "A partir de las características aportadas por el denunciante, efectivos policiales realizaron una recorrida por la zona y lograron localizar, en inmediaciones de calle 86 y calle 69 , a un joven que coincidía con la descripción recibida. Durante la identificación, los agentes constataron que llevaba consigo un teléfono celular Samsung de color blanco ."
-        ],
-        "generated": "2026-09-08T22:31:19.969368+00:00"
-      }
-    },
-    {
-      "key": "tres accidentes dejaron vehiculos danados joven trasladada hospital necochea",
-      "title": "Tres accidentes dejaron vehículos dañados y una joven trasladada al hospital en Necochea",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-09-08T22:30:38.641318+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260902172457_whatsapp-image-2026-09-02-at-17-24-30.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Tres accidentes dejaron vehículos dañados y una joven trasladada al hospital en Necochea",
-          "url": "https://necocheadigital.com/nota/119476/tres-accidentes-dejaron-vehiculos-danados-y-una-joven-trasladada-al-hospital-en-necochea/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Una jornada con varios accidentes de tránsito se registró este miércoles en distintos puntos de Necochea, con daños materiales en los vehículos involucrados y el traslado de una joven al Hospital Municipal “Dr. El primero de los hechos ocurrió durante el mediodía en la intersección de avenida 58 y calle 69 , donde se produjo una colisión que involucró a tres automóviles. De acuerdo con la información disponible, una Volkswagen Suran impactó contra otro vehículo y, como consecuencia de la fuerza del choque, este último terminó embistiendo a un Fiat Palio que se encontraba estacionado .",
-          "El siniestro dejó daños materiales en los tres automóviles , sin que se informaran personas heridas. Personal de Tránsito y de la Policía trabajó en el lugar para ordenar la circulación. Una motociclista fue trasladada al hospital En las primeras horas de la tarde se produjo otro accidente en la misma intersección de avenida 58 y calle 69 ."
-        ],
-        "generated": "2026-09-08T22:31:20.667587+00:00"
-      }
-    },
-    {
-      "key": "buscan familia referentes afectivos acompanar adolescente",
-      "title": "Buscan familia o referentes afectivos para acompañar a un adolescente",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-09-08T22:30:38.641318+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260903112441_flyer-guardas-y-adopcion2.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Buscan familia o referentes afectivos para acompañar a un adolescente",
-          "url": "https://necocheadigital.com/nota/119486/buscan-familia-o-referentes-afectivos-para-acompanar-a-un-adolescente/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La Municipalidad de Necochea, a través del Servicio Local que depende de su Secretaría de Desarrollo Humano y Políticas Sociales, informa sobre la búsqueda activa impulsada por el Juzgado de Familia Nº 1 del Departamento Judicial de Dolores (Ref. La convocatoria está orientada a postulantes a guardas con fines de adopción, así como también a personas o familias que deseen ofrecerse como referentes afectivos, tutores o figuras análogas de cuidado. Andrés nació el 2 de marzo de 2009.",
-          "Se caracteriza por ser un adolescente de 17 años muy simpático, extrovertido y social , con gran facilidad para entablar vínculos y compartir conversaciones. Cursa actualmente el 3.º año del Nivel Secundario y, en sus momentos libres, disfruta de asistir a la escuela de fútbol, participar en actividades recreativas con sus compañeros y conocer gente nueva."
-        ],
-        "generated": "2026-09-08T22:31:21.357264+00:00"
-      }
-    },
-    {
-      "key": "detuvieron hombre 52 anos amenazas grooming necochea",
-      "title": "Detuvieron a un hombre de 52 años por amenazas y grooming en Necochea",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-09-08T22:30:38.641318+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/8c7686c0f67c3b6e084d8c1f5ebc7cb59b5ea699.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Detuvieron a un hombre de 52 años por amenazas y grooming en Necochea",
-          "url": "https://necocheadigital.com/nota/119485/detuvieron-a-un-hombre-de-52-anos-por-amenazas-y-grooming-en-necochea/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Personal de la DDI Necochea realizó un allanamiento en un domicilio de la ciudad en el marco de una investigación iniciada a partir de una denuncia por amenazas y presunta captación de una menor de edad mediante medios tecnológicos con fines sexuales , delito conocido como grooming. Durante el procedimiento, los investigadores secuestraron distintos dispositivos y soportes tecnológicos que serán sometidos a las pericias correspondientes y que podrían aportar información de interés para el avance de la causa.",
-          "Entre los elementos incautados se encuentran teléfonos celulares, computadoras portátiles, una tablet, memorias USB, tarjetas de memoria y otros dispositivos de almacenamiento . El análisis de estos elementos será una de las principales medidas para determinar si contienen información vinculada con los hechos que son materia de investigación."
-        ],
-        "generated": "2026-09-08T22:31:22.041425+00:00"
-      }
-    },
-    {
-      "key": "ministerio cayo penales san lorenzo final prefederal",
-      "title": "Ministerio cayó por penales ante San Lorenzo en la final del Prefederal",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-09-08T22:30:38.641318+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/22bde8f8b3f4956782e1a474e4192451d65286f7.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Ministerio cayó por penales ante San Lorenzo en la final del Prefederal",
-          "url": "https://necocheadigital.com/nota/119519/ministerio-cayo-por-penales-ante-san-lorenzo-en-la-final-del-prefederal/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Ministerio quedó a un paso del título de la Copa Bonaerense Pampeana 2026 . El equipo de Quequén igualó 0 a 0 ante San Lorenzo de Villa Castells durante los 90 minutos de la Superfinal del Torneo Prefederal, disputada en el Estadio Luis Vallejos del Club Belgrano de Zárate , y terminó cayendo 6 a 5 en la definición por penales. El encuentro enfrentó a los campeones de las dos subregiones de la competencia: Ministerio , ganador de la zona Sur, y San Lorenzo, vencedor de la zona Norte.",
-          "El ganador de la final se quedó con la Copa Bonaerense Pampeana. El partido fue parejo y tuvo como condicionante el estado del campo de juego, que no permitió un desarrollo fluido y dificultó la circulación de la pelota. El partido terminó sin goles Durante la primera etapa, San Lorenzo tuvo mayor iniciativa y consiguió generar algunas de las situaciones más importantes."
-        ],
-        "generated": "2026-09-08T22:31:22.716066+00:00"
-      }
-    },
-    {
-      "key": "cuatro necochenses consagraron campeonas argentinas hockey sub 16 lograron ascenso",
-      "title": "Cuatro necochenses se consagraron campeonas argentinas de hockey Sub-16 y lograron el ascenso",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-09-08T22:30:38.641318+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260907120353_whatsapp-image-2026-09-07-at-12-03-33.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Cuatro necochenses se consagraron campeonas argentinas de hockey Sub-16 y lograron el ascenso",
-          "url": "https://necocheadigital.com/nota/119518/cuatro-necochenses-se-consagraron-campeonas-argentinas-de-hockey-sub-16-y-lograron-el-ascenso/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Cuatro jugadoras de Del Valle de Necochea fueron protagonistas de la consagración del seleccionado Sub-16 de damas de la Asociación Amateur Marplatense de Hockey (AAMH) , que este domingo se quedó con el Campeonato Argentino B organizado por la Confederación Argentina de Hockey (CAH) y consiguió además el ascenso al Campeonato Argentino A de la categoría. Se trata de Magdalena Ardanaz, Eloisa Kuhn, Pilar Tuccella Ginel y Emilia Badie , quienes formaron parte del plantel dirigido por Agustina Álvarez durante el certamen disputado en Monte Hermoso. El seleccionado marplatense cerró su participación invicto y se consagró luego de derrotar 2 a 1 a La Pampa en la final.",
-          "En ese partido decisivo, Emilia Badie tuvo un papel determinante al convertir el gol que le dio el campeonato a la AAMH . Una campaña sin derrotas La AAMH integró la Zona A junto con Santa Fe, Río Negro y Santiago del Estero."
-        ],
-        "generated": "2026-09-08T22:31:23.396251+00:00"
+        "generated": "2026-09-09T01:10:33.453879+00:00"
       }
     }
   ]
