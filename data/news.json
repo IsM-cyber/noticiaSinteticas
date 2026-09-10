@@ -1,8 +1,82 @@
 {
-  "generated_at": "2026-09-10T20:43:44.615290+00:00",
-  "article_count": 175,
+  "generated_at": "2026-09-10T23:02:49.702868+00:00",
+  "article_count": 135,
   "fetch_errors": [],
   "stories": [
+    {
+      "key": "puerto quequen consolida capacidad operativa bodega completa ingreso buque gloria",
+      "title": "Puerto Quequén consolida su capacidad operativa a bodega completa con el ingreso del buque Gloria",
+      "score": 4.95,
+      "sources_count": 3,
+      "first_seen": "2026-09-10T17:17:31+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-10-at-14.11.18.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Puerto Quequén consolida su capacidad operativa a bodega completa con el ingreso del buque Gloria",
+          "url": "https://tsnnecochea.com.ar/locales/puerto-quequen-consolida-su-capacidad-operativa-a-bodega-completa-con-el-ingreso-del-buque-gloria-236662/",
+          "published_at": "2026-09-10T18:09:06+00:00",
+          "category": "China",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-10-at-14.11.18.webp"
+        },
+        {
+          "portal": "Necochea Digital",
+          "title": "Puerto Quequén consolida su capacidad operativa a bodega completa con el ingreso del buque gloria",
+          "url": "https://necocheadigital.com/nota/119561/puerto-quequen-consolida-su-capacidad-operativa-a-bodega-completa-con-el-ingreso-del-buque-gloria/",
+          "published_at": null,
+          "category": null,
+          "image": null
+        },
+        {
+          "portal": "Necochea News",
+          "title": "Puerto Quequén consolida su capacidad operativa a bodega completa con el ingreso del buque gloria",
+          "url": "https://necocheanews.com.ar/puerto-quequen-consolida-su-capacidad-operativa-a-bodega-completa-con-el-ingreso-del-buque-gloria/",
+          "published_at": "2026-09-10T17:17:31+00:00",
+          "category": "LOCALES",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Locales | China | Producción Puerto Quequén consolida su capacidad operativa a bodega completa con el ingreso del buque Gloria Superan los 4,5 millones de toneladas exportadas en lo que va del año. Por Redacción TSN 10/09/2026 · 03:09 PM Agregar TSN Necochea en A partir de la carga de 64.300 toneladas de cebada con destino a China , la estación marítima ratifica el impacto positivo de las obras de infraestructura en accesos y muelles, tras superar los 4,5 millones de toneladas exportadas en lo que va del año.",
+          "Con el ingreso del buque Gloria el miércoles 9 de septiembre pasado, Puerto Quequén dio inicio al mes de septiembre consolidando su eficiencia operativa para la carga de buques a bodega completa. La embarcación cargará un total de 64.300 toneladas de cebada con destino a China."
+        ],
+        "generated": "2026-09-10T23:03:07.757367+00:00"
+      }
+    },
+    {
+      "key": "allanamientos robos quequen recuperaron objetos robados detuvieron hombre captura activa",
+      "title": "Allanamientos por robos en Quequén: recuperaron objetos robados y detuvieron a un hombre con captura activa",
+      "score": 2.625,
+      "sources_count": 2,
+      "first_seen": "2026-09-10T13:43:54+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/0fec0bac65bbcd5e7cf1bd4cc0d2f8247e0f06d0.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Allanamientos por robos en Quequén: recuperaron objetos robados y detuvieron a un hombre con captura activa",
+          "url": "https://necocheadigital.com/nota/119552/allanamientos-por-robos-en-quequen-recuperaron-objetos-robados-y-detuvieron-a-un-hombre-con-captura-activa/",
+          "published_at": null,
+          "category": null,
+          "image": null
+        },
+        {
+          "portal": "Diario NQ",
+          "title": "Tres allanamientos en Quequén: recuperaron elementos robados y detuvieron a un hombre con captura activa",
+          "url": "https://diarionq.com.ar/tres-allanamientos-en-quequen-recuperaron-elementos-robados-y-detuvieron-a-un-hombre-con-captura-activa/",
+          "published_at": "2026-09-10T13:43:54+00:00",
+          "category": "Policiales",
+          "image": "https://diarionq.com.ar/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-10-at-09.53.58-e1789047819891.jpeg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Una serie de allanamientos realizados en Quequén permitió avanzar en el esclarecimiento de dos robos, recuperar parte de los elementos sustraídos y detener a un hombre que registraba un pedido de captura activo. Los procedimientos fueron llevados adelante por personal del Gabinete Técnico Operativo (GTO) de la Comisaría Segunda, en el marco de una investigación impulsada por la Unidad Funcional de Instrucción N.º 3 del Departamento Judicial Necochea.",
+          "Las órdenes judiciales fueron el resultado de diversas tareas investigativas, entre ellas trabajos de campo, recepción de declaraciones testimoniales y el análisis de registros fílmicos. En los operativos también participaron efectivos de los GTO de las comisarías Primera y Tercera."
+        ],
+        "generated": "2026-09-10T23:03:11.206474+00:00"
+      }
+    },
     {
       "key": "gran convocatoria presentacion mariano necochea kem kem centro cultural",
       "title": "Gran convocatoria en la presentación de \"Mariano Necochea\" y \"Kem Kem\" en el Centro Cultural",
@@ -33,40 +107,7 @@
           "En el marco del programa Puerto-Ciudad impulsado por el Consorcio de Gestión de Puerto Quequén, se presentaron la historieta sobre el prócer local de Juan Pablo Borrelli y la obra poética de Mariel Farías.Necochea — En las instalaciones del Centro Cultural de Necochea – Biblioteca Popular Andrés Ferreyra, se llevó a cabo con gran marco de público la presentación oficial de dos obras enfocadas en revalorizar el patrimonio e identidad regional: la historieta \"Mariano Necochea. Gran Mariscal Sudamericano\", del Lic. Juan Pablo Borrelli, y el libro \"Kem Kem\", de la escritora Mariel Farías.",
           "La jornada formó parte del ciclo de integración \"Puerto Ciudad: Experiencias que dejan huellas\", promovido por el Consorcio de Gestión de Puerto Quequén bajo la conducción de Mariano Carrillo. Las obras y sus enfoques: \"Mariano Necochea."
         ],
-        "generated": "2026-09-10T20:43:57.491933+00:00"
-      }
-    },
-    {
-      "key": "ernesto povilaitis sera nuevo presidente consorcio gestion puerto quequen",
-      "title": "Ernesto Povilaitis será el nuevo presidente del Consorcio de Gestión de Puerto Quequén",
-      "score": 2.625,
-      "sources_count": 2,
-      "first_seen": "2026-09-08T22:46:16+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260908173435_whatsapp-image-2026-09-08-at-16-13-24.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Ernesto Povilaitis será el nuevo presidente del Consorcio de Gestión de Puerto Quequén",
-          "url": "https://necocheadigital.com/nota/119536/ernesto-povilaitis-sera-el-nuevo-presidente-del-consorcio-de-gestion-de-puerto-quequen/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        },
-        {
-          "portal": "Necochea Libre",
-          "title": "EL ABOGADO ERNESTO POVILAITIS SERÀ EL NUEVO PRESIDENTE DEL CONSORCIO DE PUERTO QUEQUÈN.",
-          "url": "https://necochealibre.com.ar/el-abogado-ernesto-povilaitis-dera-el-nuevo-presidente-del-consorcio-de-puerto-quequen/",
-          "published_at": "2026-09-08T22:46:16+00:00",
-          "category": "Generales",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El Gobierno de la provincia de Buenos Aires definió a Ernesto Povilaitis como nuevo presidente del Consorcio de Gestión de Puerto Quequén , una de las principales terminales portuarias bonaerenses y un punto estratégico para el movimiento de la producción agroindustrial del sudeste de la provincia. La designación ya fue acordada por la administración provincial y, para que quede formalmente oficializada, resta la firma del decreto correspondiente por parte del gobernador Axel Kicillof . Según se informó, el nombramiento tendrá vigencia retroactiva al 25 de agosto .",
-          "La definición se conoció durante el Congreso Productivo Bonaerense, realizado en la ciudad de La Plata. Allí, Povilaitis estuvo acompañado por el intendente de Necochea, Arturo Rojas , el ministro de Producción, Ciencia e Innovación Tecnológica bonaerense, Augusto Costa , y el subsecretario de Asuntos Portuarios, Juan Cruz Lucero ."
-        ],
-        "generated": "2026-09-10T20:43:59.063090+00:00"
+        "generated": "2026-09-10T23:03:12.941313+00:00"
       }
     },
     {
@@ -99,54 +140,54 @@
           "La Justicia de Necochea condenó a ocho años de prisión a un docente de 33 años de Lobería, luego de encontrarlo penalmente responsable del delito de abuso sexual agravado contra una estudiante de 16 años con discapacidad. El condenado se desempeñaba como docente del área de tecnología en la Escuela Técnica Nº 1 de Lobería. Según la investigación policial y judicial, los hechos por los que fue condenado ocurrieron dentro del establecimiento educativo entre marzo y mayo de 2025.",
           "La causa se inició el 18 de junio de ese año, cuando se radicó una denuncia en la Comisaría de la Mujer y la Familia de Lobería. A partir de esa presentación intervino la Fiscalía Nº 10 del Departamento Judicial de Necochea, especializada en delitos contra la integridad sexual, a cargo del fiscal Walter Pierrestegui. Durante el desarrollo de la investigación se incorporaron distintas medidas de prueba."
         ],
-        "generated": "2026-09-10T20:44:00.422360+00:00"
+        "generated": "2026-09-10T23:03:15.029053+00:00"
       }
     },
     {
-      "key": "puerto quequen consolida capacidad operativa bodega completa ingreso buque gloria",
-      "title": "Puerto Quequén consolida su capacidad operativa a bodega completa con el ingreso del buque Gloria",
-      "score": 2.218,
+      "key": "ernesto povilaitis sera nuevo presidente consorcio gestion puerto quequen",
+      "title": "Ernesto Povilaitis será el nuevo presidente del Consorcio de Gestión de Puerto Quequén",
+      "score": 2.625,
       "sources_count": 2,
-      "first_seen": "2026-09-10T17:17:31+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-10-at-14.11.18.webp",
+      "first_seen": "2026-09-08T22:46:16+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260908173435_whatsapp-image-2026-09-08-at-16-13-24.jpg",
       "articles": [
         {
-          "portal": "TSN Necochea",
-          "title": "Puerto Quequén consolida su capacidad operativa a bodega completa con el ingreso del buque Gloria",
-          "url": "https://tsnnecochea.com.ar/locales/puerto-quequen-consolida-su-capacidad-operativa-a-bodega-completa-con-el-ingreso-del-buque-gloria-236662/",
-          "published_at": "2026-09-10T18:09:06+00:00",
-          "category": "China",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-10-at-14.11.18.webp"
+          "portal": "Necochea Digital",
+          "title": "Ernesto Povilaitis será el nuevo presidente del Consorcio de Gestión de Puerto Quequén",
+          "url": "https://necocheadigital.com/nota/119536/ernesto-povilaitis-sera-el-nuevo-presidente-del-consorcio-de-gestion-de-puerto-quequen/",
+          "published_at": null,
+          "category": null,
+          "image": null
         },
         {
-          "portal": "Necochea News",
-          "title": "Puerto Quequén consolida su capacidad operativa a bodega completa con el ingreso del buque gloria",
-          "url": "https://necocheanews.com.ar/puerto-quequen-consolida-su-capacidad-operativa-a-bodega-completa-con-el-ingreso-del-buque-gloria/",
-          "published_at": "2026-09-10T17:17:31+00:00",
-          "category": "LOCALES",
+          "portal": "Necochea Libre",
+          "title": "EL ABOGADO ERNESTO POVILAITIS SERÀ EL NUEVO PRESIDENTE DEL CONSORCIO DE PUERTO QUEQUÈN.",
+          "url": "https://necochealibre.com.ar/el-abogado-ernesto-povilaitis-dera-el-nuevo-presidente-del-consorcio-de-puerto-quequen/",
+          "published_at": "2026-09-08T22:46:16+00:00",
+          "category": "Generales",
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Locales | China | Producción Puerto Quequén consolida su capacidad operativa a bodega completa con el ingreso del buque Gloria Superan los 4,5 millones de toneladas exportadas en lo que va del año. Por Redacción TSN 10/09/2026 · 03:09 PM Agregar TSN Necochea en A partir de la carga de 64.300 toneladas de cebada con destino a China , la estación marítima ratifica el impacto positivo de las obras de infraestructura en accesos y muelles, tras superar los 4,5 millones de toneladas exportadas en lo que va del año.",
-          "Con el ingreso del buque Gloria el miércoles 9 de septiembre pasado, Puerto Quequén dio inicio al mes de septiembre consolidando su eficiencia operativa para la carga de buques a bodega completa. La embarcación cargará un total de 64.300 toneladas de cebada con destino a China."
+          "El Gobierno de la provincia de Buenos Aires definió a Ernesto Povilaitis como nuevo presidente del Consorcio de Gestión de Puerto Quequén , una de las principales terminales portuarias bonaerenses y un punto estratégico para el movimiento de la producción agroindustrial del sudeste de la provincia. La designación ya fue acordada por la administración provincial y, para que quede formalmente oficializada, resta la firma del decreto correspondiente por parte del gobernador Axel Kicillof . Según se informó, el nombramiento tendrá vigencia retroactiva al 25 de agosto .",
+          "La definición se conoció durante el Congreso Productivo Bonaerense, realizado en la ciudad de La Plata. Allí, Povilaitis estuvo acompañado por el intendente de Necochea, Arturo Rojas , el ministro de Producción, Ciencia e Innovación Tecnológica bonaerense, Augusto Costa , y el subsecretario de Asuntos Portuarios, Juan Cruz Lucero ."
         ],
-        "generated": "2026-09-10T20:44:02.213395+00:00"
+        "generated": "2026-09-10T23:03:26.839364+00:00"
       }
     },
     {
-      "key": "dia prevencion suicidio linea 135 mantiene escucha activa 24 horas",
-      "title": "Día de la Prevención del Suicidio: La línea 135 mantiene la escucha activa las 24 horas",
-      "score": 1.2,
+      "key": "finde llega segunda edicion modo emprender",
+      "title": "Este finde llega la segunda edición de Modo Emprender",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-09-10T20:43:44.615290+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/necochea-28-anos-linea-135-sas-dia-mundial-prevenc-7w8wb-1.jpg",
+      "first_seen": "2026-09-10T23:02:49.702868+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260910180529_01-09-foto-modo-emprender-neco2.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Día de la Prevención del Suicidio: La línea 135 mantiene la escucha activa las 24 horas",
-          "url": "https://diarionecochea.com/2026/09/10/dia-de-la-prevencion-del-suicidio-la-linea-135-mantiene-la-escucha-activa-las-24-horas/",
+          "portal": "Necochea Digital",
+          "title": "Este finde llega la segunda edición de Modo Emprender",
+          "url": "https://necocheadigital.com/nota/119560/este-finde-llega-la-segunda-edicion-de-modo-emprender/",
           "published_at": null,
           "category": null,
           "image": null
@@ -154,24 +195,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "Un grupo brinda asistencia en crisis mediante el trabajo voluntario, remarcando la importancia de detectar señales de alarma para acompañar a quienes lo necesitan sin juzgar. En el marco del Día Mundial de la Prevención del Suicidio, la Municipalidad de Necochea recordó el trabajo del SAS local y la línea gratuita y confidencial 135, activa para escuchar durante las 24 horas, los 365 días.",
-          "Noticia relacionadas Energía prepara su tercera Fiesta del Niño con inflables, barrileteada y una gran pizzeada 10 de septiembre de 2026 Cómo estará el clima este jueves en Necochea y Quequén 10 de septiembre de 2026 Cada 10 de septiembre se conmemora el Día Mundial de la Prevención del Suicidio, una fecha destinada a generar conciencia, fortalecer la prevención y recordar que pedir ayuda en un momento de crisis es un paso fundamental."
+          "La segunda edición de Modo Emprender ya se palpita. Se realizará este sábado 12 y domingo 13 de septiembre en Sunset , con más de 40 emprendedores, capacitaciones, charlas y propuestas para toda la familia. La entrada será libre y gratuita.",
+          "Después del éxito de su primera edición, el evento regresa con una agenda que combinará exposición y comercialización de productos, capacitación e intercambio entre emprendedores locales. Durante las dos jornadas habrá charlas sobre costos, cuestiones impositivas y registro de marcas, además de una ronda de “emprendedores que inspiran”. El domingo, en tanto, tendrá protagonismo el emprendedurismo digital, con community managers, creadores de contenido y especialistas en tecnología."
         ],
-        "generated": "2026-09-10T20:44:06.043716+00:00"
+        "generated": "2026-09-10T23:03:32.065573+00:00"
       }
     },
     {
-      "key": "como estara clima jueves necochea quequen",
-      "title": "Cómo estará el clima este jueves en Necochea y Quequén",
-      "score": 1.2,
+      "key": "feria libro artes celebra 25 anos homenaje borges",
+      "title": "La Feria del Libro y de las Artes celebra sus 25 años con un homenaje a Borges",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-09-10T20:43:44.615290+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/02/clima-necochea-av10-atardecer.jpg",
+      "first_seen": "2026-09-10T23:02:49.702868+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/a2bdd4552047e1d4a47a103e41d4851c1af9ddcf.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Cómo estará el clima este jueves en Necochea y Quequén",
-          "url": "https://diarionecochea.com/2026/09/10/como-estara-el-clima-este-jueves-en-necochea-y-quequen-140/",
+          "portal": "Necochea Digital",
+          "title": "La Feria del Libro y de las Artes celebra sus 25 años con un homenaje a Borges",
+          "url": "https://necocheadigital.com/nota/119566/la-feria-del-libro-y-de-las-artes-celebra-sus-25-anos-con-un-homenaje-a-borges/",
           "published_at": null,
           "category": null,
           "image": null
@@ -179,24 +220,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "El Servicio Meteorológico Nacional (SMN) pronosticó para este jueves en Necochea y Quequén una jornada con mayormente nublado, una temperatura máxima de 17° y una mínima de 8°. Para la mañana , se espera mayormente nublado. La temperatura rondará los 8° y la probabilidad de precipitaciones será del 0 - 10%, según datos del SMN. El viento soplará desde o a una velocidad de entre 13 - 22 kilómetros por hora.",
-          "Noticia relacionadas Día de la Prevención del Suicidio: La línea 135 mantiene la escucha activa las 24 horas 10 de septiembre de 2026 Energía prepara su tercera Fiesta del Niño con inflables, barrileteada y una gran pizzeada 10 de septiembre de 2026 Por su parte, hacia la tarde y entrando la noche , el cielo estará parcialmente nublado. La temperatura alcanzará los 17° mientras que el porcentaje de precipitaciones será del 0 - 10%, mencionó el parte oficial. El viento se sentirá desde o a una velocidad de entre 7 - 12 kilómetros por hora."
+          "La 25ª edición de la Feria del Libro y de las Artes se desarrollará del 17 al 19 de septiembre en el Teatro de la Usina Popular Cooperativa, ubicado en Avenida 59 Nº 1798. El encuentro, que nació hace un cuarto de siglo con el objetivo de promover la lectura y reunir la literatura con distintas expresiones artísticas, tendrá este año como figura central a Jorge Luis Borges.",
+          "La edición aniversario fue declarada de interés municipal y buscará mantener el espíritu con el que surgió la iniciativa: difundir el hábito de la lectura, poner en valor el arte y la producción cultural de Necochea y generar un espacio de encuentro entre escritores, lectores, instituciones educativas y público en general. La vicepresidenta de la asociación organizadora, Cristina Murray, recordó que la feria nació a partir de una charla informal que mantuvo con una bibliotecaria de la Escuela Media Nº 3 luego de visitar la Feria del Libro de Buenos Aires."
         ],
-        "generated": "2026-09-10T20:44:07.807262+00:00"
+        "generated": "2026-09-10T23:03:32.832259+00:00"
       }
     },
     {
-      "key": "indignacion necochea video muestra maltrato perro",
-      "title": "Indignación en Necochea por un video que muestra maltrato a un perro",
-      "score": 1.2,
+      "key": "necochea recibira zonal u17 femenino basquet",
+      "title": "Necochea recibirá el Zonal U17 femenino de básquet",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-09-10T20:43:44.615290+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/indignacion-en-necochea-por-un-video-que-muestra-el-maltrato-a-un-perro-en-la-calle.webp",
+      "first_seen": "2026-09-10T23:02:49.702868+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260910183735_whatsapp-image-2026-09-10-at-18-37-23.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Indignación en Necochea por un video que muestra maltrato a un perro",
-          "url": "https://diarionecochea.com/2026/09/09/indignacion-en-necochea-por-un-video-que-muestra-maltrato-a-un-perro/",
+          "portal": "Necochea Digital",
+          "title": "Necochea recibirá el Zonal U17 femenino de básquet",
+          "url": "https://necocheadigital.com/nota/119565/necochea-recibira-el-zonal-u17-femenino-de-basquet/",
           "published_at": null,
           "category": null,
           "image": null
@@ -204,24 +245,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "Un transeúnte filmó a una mujer que le daba órdenes al animal mediante reiteradas patadas, una escena que se viralizó rápidamente en redes sociales por la constante actitud de temor que mostró la mascota. Un video grabado en Necochea causó indignación en redes sociales por la reacción de una mujer hacia el perro que la acompañaba en la vía pública. En la filmación se ve cómo le da indicaciones al animal y lo reprende de forma reiterada, incluso con patadas.",
-          "Aunque los golpes visibles no parecen de gran intensidad, la escena resulta llamativa por la agresividad del trato. Noticia relacionadas Día de la Prevención del Suicidio: La línea 135 mantiene la escucha activa las 24 horas 10 de septiembre de 2026 Energía prepara su tercera Fiesta del Niño con inflables, barrileteada y una gran pizzeada 10 de septiembre de 2026 El perro permanece cerca de ella, pero muestra una postura de temor constante ante sus movimientos."
+          "Necochea será sede este fin de semana del Torneo Zonal de Selecciones U17 femenino de la Federación Bonaerense de Básquetbol Región Sur. Los tres partidos se disputarán en el Piso de los Deportes del Club Rivadavia, donde el seleccionado de la Asociación de Básquetbol de Necochea buscará quedarse con la clasificación al Campeonato Provincial. El equipo local estará dirigido por Alberto Pastrello, con Delfina Brost como asistente.",
+          "Luego del período de evaluación y entrenamientos, el cuerpo técnico definió las 15 jugadoras que representarán a la ABN en la competencia. El plantel estará integrado por Milagros Coria y Angelina Di Fiore, de Villa del Parque; Amancay Dahul, Lara Desinder, Franchesca Gratia, Clara Martínez, Morena Manzano, Brunella Moscuzza, Francesca Pecar, Eugenia Safenreiter y Guadalupe Saldangaray, de Rivadavia; y Úrsula Barbería, Pilar Latorre, Mía Martiarena y Bernardita Rivaldo, de Independiente de Lobería."
         ],
-        "generated": "2026-09-10T20:44:10.587003+00:00"
+        "generated": "2026-09-10T23:03:33.568493+00:00"
       }
     },
     {
-      "key": "emiten alerta amarillo fuertes vientos necochea zona",
-      "title": "Emiten un alerta amarillo por fuertes vientos en Necochea y la zona",
-      "score": 1.2,
+      "key": "asi jugara fecha 16 futbol local",
+      "title": "Así se jugará la fecha 16 del fútbol local",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-09-10T20:43:44.615290+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/aerogenerador-viento.jpg",
+      "first_seen": "2026-09-10T23:02:49.702868+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260910183329_lnf-fecha7-indepe-vdp-2.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Emiten un alerta amarillo por fuertes vientos en Necochea y la zona",
-          "url": "https://diarionecochea.com/2026/09/09/emiten-un-alerta-amarillo-por-fuertes-vientos-en-necochea-y-la-zona/",
+          "portal": "Necochea Digital",
+          "title": "Así se jugará la fecha 16 del fútbol local",
+          "url": "https://necocheadigital.com/nota/119564/asi-se-jugara-la-fecha-16-del-futbol-local/",
           "published_at": null,
           "category": null,
           "image": null
@@ -229,24 +270,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "El aviso de nivel amarillo abarca a varias distritos de la zona bonaerense y contempla la necesidad de evitar la circulación innecesaria en la vía pública, mantenerse alejado de ventanales y evitar resguardarse debajo de árboles o marquesinas. El Servicio Meteorológico Nacional (SMN) emitió un alerta meteorológico de nivel amarillo por vientos fuertes para el viernes 11 de septiembre.",
-          "La advertencia abarca al norte de Necochea, el centro de Lobería, el norte de San Cayetano, Adolfo Gonzales Chaves, el norte de Coronel Dorrego y el norte de Tres Arroyos. Noticia relacionadas Día de la Prevención del Suicidio: La línea 135 mantiene la escucha activa las 24 horas 10 de septiembre de 2026 Energía prepara su tercera Fiesta del Niño con inflables, barrileteada y una gran pizzeada 10 de septiembre de 2026 Según el informe oficial difundido por el organismo, el aviso rige para la tarde de la jornada señalada."
+          "La Liga Necochea de Fútbol pondrá en marcha este fin de semana la segunda rueda del Torneo Sergio “Giuseppe” Portugal, con seis partidos entre sábado y domingo y los dos encuentros restantes programados para el miércoles. El campeonato masculino de Primera división completó las primeras 15 fechas y, con toda la fase interzonal al día, comenzará la etapa de revanchas zonales, que tendrá otras siete jornadas por delante. Sábado 12 15.30h Estación Quequén vs. Nicanor Olivera Domingo 13 15.30h Defensores JNF vs.",
+          "Independiente (L) Sportivo (SC) vs. Mataderos Defensores (PQ) vs. Gimnasia Villa del Parque vs."
         ],
-        "generated": "2026-09-10T20:44:11.975217+00:00"
+        "generated": "2026-09-10T23:03:34.315017+00:00"
       }
     },
     {
-      "key": "presentaron dos libros historia cultura local centro cultural",
-      "title": "Se presentaron dos libros sobre la historia y la cultura local en el Centro Cultural",
-      "score": 1.2,
+      "key": "inflacion agosto acumulo 33 ultimos doce meses",
+      "title": "La inflación en agosto fue de 1,7% y acumuló 33,5% en los últimos doce meses",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-09-10T20:43:44.615290+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/historieta-mariano-necochea-kem-kem-estrenan-centr-gcs6v-2.jpg",
+      "first_seen": "2026-09-10T23:02:49.702868+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/f350c86f4bb81672a96628fe720f45d293f39860.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Se presentaron dos libros sobre la historia y la cultura local en el Centro Cultural",
-          "url": "https://diarionecochea.com/2026/09/09/se-presentaron-dos-libros-sobre-la-historia-y-la-cultura-local-en-el-centro-cultural/",
+          "portal": "Necochea Digital",
+          "title": "La inflación en agosto fue de 1,7% y acumuló 33,5% en los últimos doce meses",
+          "url": "https://necocheadigital.com/nota/119562/la-inflacion-en-agosto-fue-de-1-7-y-acumulo-33-5-en-los-ultimos-doce-meses/",
           "published_at": null,
           "category": null,
           "image": null
@@ -254,24 +295,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "El Consorcio de Gestión de Puerto Quequén impulsó la actividad del ciclo \"Puerto Ciudad\", donde el público acompañó la exhibición de una historieta sobre Mariano Necochea y una obra poética orientada al ámbito educativo. En el marco del programa Puerto-Ciudad impulsado por el Consorcio de Gestión de Puerto Quequén, se presentaron la historieta sobre el prócer local de Juan Pablo Borrelli y la obra poética de Mariel Farías.Necochea — En las instalaciones del Centro Cultural de Necochea – Biblioteca Popular Andrés Ferreyra, se llevó a cabo con gran marco de público la presentación oficial de dos obras enfocadas en revalorizar el patrimonio e identidad regional: la historieta \"Mariano Necochea.",
-          "Gran Mariscal Sudamericano\", del Lic. Juan Pablo Borrelli, y el libro \"Kem Kem\", de la escritora Mariel Farías."
+          "El Indec informó que la inflación de agosto fue de 1,7% , con lo que el Índice de Precios al Consumidor acumuló 21,3% en lo que va del año y 33,5% en los últimos doce meses . El dato quedó en línea con lo que esperaba el mercado. La comparación inmediata quedó planteada contra el 2,1% de julio , por lo que el resultado de este mes implicó una desaceleración de 0,4 puntos porcentuales , de acuerdo con el número final difundido por el organismo estadístico.",
+          "En el desagregado por categorías, el IPC Núcleo registró una suba de 1,8% en agosto, impulsada por los aumentos en alquileres de vivienda y servicios culturales. En tanto, los precios Regulados avanzaron 2,2% , por las actualizaciones en electricidad, gas, transporte público y cuotas de medicina prepaga. Los precios Estacionales retrocedieron 0,9% durante el mes."
         ],
-        "generated": "2026-09-10T20:44:13.801329+00:00"
+        "generated": "2026-09-10T23:03:35.117896+00:00"
       }
     },
     {
-      "key": "alertan suicidios aumentaron 20 reclaman medidas urgentes",
-      "title": "Alertan que los suicidios aumentaron más de un 20% y reclaman medidas urgentes",
-      "score": 1.2,
+      "key": "violento choque ruta 88 hombre grave nene anos hospitalizado",
+      "title": "Violento choque en la Ruta 88: un hombre está grave y un nene de 4 años fue hospitalizado",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-09-10T20:43:44.615290+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/depresion-suicidio-ilustrativa.jpg",
+      "first_seen": "2026-09-10T23:02:49.702868+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260910162417_captura.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Alertan que los suicidios aumentaron más de un 20% y reclaman medidas urgentes",
-          "url": "https://diarionecochea.com/2026/09/09/alertan-que-los-suicidios-aumentaron-mas-de-un-20-y-reclaman-medidas-urgentes/",
+          "portal": "Necochea Digital",
+          "title": "Violento choque en la Ruta 88: un hombre está grave y un nene de 4 años fue hospitalizado",
+          "url": "https://necocheadigital.com/nota/119559/violento-choque-en-la-ruta-88-un-hombre-esta-grave-y-un-nene-de-4-anos-fue-hospitalizado/",
           "published_at": null,
           "category": null,
           "image": null
@@ -279,24 +320,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "El Colegio de Psicólogas y Psicólogos de la Provincia de Buenos Aires presentó ante el Concejo Deliberante datos sobre la situación de la salud mental y reclamó reforzar la atención, ampliar los equipos profesionales y aumentar progresivamente los recursos destinados al área.",
-          "El Colegio de Psicólogas y Psicólogos de la Provincia de Buenos Aires, a través de su Distrito IX con sede en Necochea, presentó ante el Honorable Concejo Deliberante un pedido para declarar la Emergencia en Salud Mental, debido a la preocupación por el aumento de suicidios, consultas e internaciones vinculadas con diversas situaciones de salud mental."
+          "Un grave accidente de tránsito se registró este jueves al mediodía sobre la Ruta Provincial 88 , donde dos automóviles protagonizaron una fuerte colisión que dejó como saldo a un hombre de 69 años con graves heridas y a un niño de 4 años hospitalizado. El siniestro ocurrió minutos antes de las 13, a la altura del kilómetro 7 , en inmediaciones del ingreso al Parque Industrial General Savio de Mar del Plata. Por causas que son materia de investigación, un Toyota Corolla y un Volkswagen Up chocaron violentamente.",
+          "Las primeras versiones indican que el impacto se habría producido durante una maniobra de sobrepaso. Como consecuencia del choque, resultó gravemente herido el conductor del Volkswagen Up, un hombre de 69 años, mientras que un niño de 4 años que viajaba en el asiento trasero del Toyota junto a sus padres también sufrió lesiones. La familia llevaba colocado el cinturón de seguridad al momento del accidente."
         ],
-        "generated": "2026-09-10T20:44:15.193651+00:00"
+        "generated": "2026-09-10T23:03:36.328030+00:00"
       }
     },
     {
-      "key": "dia maestro 2026 pasa clases viernes quienes tienen asueto",
-      "title": "Día del Maestro 2026: qué pasa con las clases este viernes y quiénes tienen asueto",
-      "score": 1.2,
+      "key": "bomberos voluntarios dulce suman sirenazo nacional reclamar pago subsidios atrasados",
+      "title": "Bomberos Voluntarios de La Dulce se suman al sirenazo nacional para reclamar el pago de subsidios atrasados",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-09-10T20:43:44.615290+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/dia-del-maestro-2026-que-pasa-con-las-clases-este-viernes-11-de-septiembre-y-quienes-tiene.webp",
+      "first_seen": "2026-09-10T23:02:49.702868+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260910131436_bdf1e6f3116d2829358ab15758bb7bdee32957f2.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Día del Maestro 2026: qué pasa con las clases este viernes y quiénes tienen asueto",
-          "url": "https://diarionecochea.com/2026/09/10/dia-del-maestro-2026-que-pasa-con-las-clases-este-viernes-y-quienes-tienen-asueto/",
+          "portal": "Necochea Digital",
+          "title": "Bomberos Voluntarios de La Dulce se suman al sirenazo nacional para reclamar el pago de subsidios atrasados",
+          "url": "https://necocheadigital.com/nota/119557/bomberos-voluntarios-de-la-dulce-se-suman-al-sirenazo-nacional-para-reclamar-el-pago-de-subsidios-atrasados/",
           "published_at": null,
           "category": null,
           "image": null
@@ -304,24 +345,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "Noticia relacionadas Samuel “Chiche” Gelblung murió a los 82 años y había sido internado por un cuadro respiratorio 9 de septiembre de 2026 Cuarto día de fallas en la SUBE para acreditar cargas desde el celular 4 de septiembre de 2026 Este viernes 11 de septiembre no será feriado nacional, pero modificará la actividad escolar. En la provincia de Buenos Aires no habrá clases en los establecimientos estatales y privados del sistema provincial. El Día del Maestro se conmemora este viernes 11 de septiembre de 2026 y funcionará como un asueto escolar, no como un feriado nacional.",
-          "A nivel nacional, el alcance concreto de la suspensión depende del calendario educativo de cada provincia y jurisdicción. La fecha cae viernes y, para quienes estén comprendidos por el asueto, se suma al sábado 12 y al domingo 13 de septiembre, por lo que el sector educativo contará con tres días consecutivos sin actividad escolar."
+          "Los Bomberos Voluntarios de La Dulce participarán este jueves del sirenazo nacional convocado por los cuarteles de todo el país para visibilizar el reclamo por la demora en el pago de los subsidios nacionales, recursos que consideran fundamentales para sostener el servicio. Así lo confirmó el jefe del cuerpo activo, Adrián López , durante una entrevista con Horacio Castelli en Radio Noticias Necochea 97.3 , donde explicó que a las 10 de la mañana sonarán las sirenas en los cuarteles adheridos.",
+          "\"Hoy a las 10 de la mañana se va a hacer un toque de sirena en cada cuartel de bomberos voluntarios a nivel país\", señaló. \"Todavía hay muchísimos cuarteles que no cobramos\" López explicó que el reclamo apunta al retraso en el envío de los subsidios nacionales y recordó que, además, aún resta percibir parte de fondos correspondientes al año anterior."
         ],
-        "generated": "2026-09-10T20:44:16.925654+00:00"
+        "generated": "2026-09-10T23:03:37.101834+00:00"
       }
     },
     {
-      "key": "san cayetano abrio segunda licitacion alquilar locales servicios balneario",
-      "title": "San Cayetano abrió una segunda licitación para alquilar locales y servicios en el balneario",
-      "score": 1.2,
+      "key": "83 vecinos necochea quequen endeudo ultimo ano segun encuesta",
+      "title": "El 83,8% de los vecinos de Necochea y Quequén se endeudó durante el último año, según una encuesta",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-09-10T20:43:44.615290+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/segunda-licitacion-de-locales-comerciales-y-servicios-estrategicos-en-san-cayetano.webp",
+      "first_seen": "2026-09-10T23:02:49.702868+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/5a687f59b9db9650d254b2010a472c57e17343bf.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "San Cayetano abrió una segunda licitación para alquilar locales y servicios en el balneario",
-          "url": "https://diarionecochea.com/2026/09/10/segunda-licitacion-de-locales-comerciales-y-servicios-estrategicos-en-san-cayetano/",
+          "portal": "Necochea Digital",
+          "title": "El 83,8% de los vecinos de Necochea y Quequén se endeudó durante el último año, según una encuesta",
+          "url": "https://necocheadigital.com/nota/119555/el-83-8-de-los-vecinos-de-necochea-y-quequen-se-endeudo-durante-el-ultimo-ano-segun-una-encuesta/",
           "published_at": null,
           "category": null,
           "image": null
@@ -329,24 +370,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "Con plazos y condiciones disponibles en la Oficina de Compras, la apertura de ofertas está prevista para el 16 de septiembre. El Municipio de San Cayetano informa que se encuentra abierto el segundo llamado de las Licitaciones Públicas para la concesión de locales comerciales y de servicios estratégicos en el balneario local.",
-          "Noticia relacionadas Abren inscripción para sumar personal de enfermería en el Hospital Municipal de San Cayetano 10 de septiembre de 2026 San Cayetano abre la inscripción de guardavidas para la temporada 2026‑27 8 de septiembre de 2026 Espacios a licitar: Locales comerciales: 4 y 6 destinados al rubro carnicería y afines. Arrendamiento de inmueble municipal para servicios generales: espacio destinado al funcionamiento de gomería, expendio de combustible y servicios complementarios."
+          "La deuda se consolidó como una realidad cotidiana para la mayoría de las familias de Necochea y Quequén. Así lo refleja un informe elaborado por NECOnomía , que reveló que el 83,8% de las personas encuestadas se endeudó durante el último año . Sin embargo, el dato más preocupante no es únicamente el alto nivel de endeudamiento, sino las dificultades que enfrentan muchas familias para cumplir con sus compromisos financieros.",
+          "De acuerdo con el relevamiento, el 64,5% de quienes se endeudaron reconoció haber tenido problemas para afrontar los pagos , un indicador que pone de manifiesto el creciente peso que las obligaciones económicas tienen sobre los hogares locales. La tarjeta de crédito, la principal fuente de deuda El estudio señala que la tarjeta de crédito continúa siendo la herramienta más utilizada para financiar consumos, aunque no es la única."
         ],
-        "generated": "2026-09-10T20:44:21.958206+00:00"
+        "generated": "2026-09-10T23:03:37.819304+00:00"
       }
     },
     {
-      "key": "secuestraron 200 bidones fitosanitarios residuos peligrosos ruta 226",
-      "title": "Secuestraron más de 200 bidones fitosanitarios con residuos peligrosos en la ruta 226",
-      "score": 1.2,
+      "key": "materia concesiones municipalidad acelera licitaciones refuerza controles inversiones",
+      "title": "En materia de concesiones, la Municipalidad acelera licitaciones y refuerza los controles sobre las inversiones",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-09-10T20:43:44.615290+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/secuestraron-mas-de-200-bidones-fitosanitarios-con-residuos-peligrosos-en-la-ruta-226.webp",
+      "first_seen": "2026-09-10T23:02:49.702868+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/fa30f7c3ddb461988c928b0d2feb868e599aa43c.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Secuestraron más de 200 bidones fitosanitarios con residuos peligrosos en la ruta 226",
-          "url": "https://diarionecochea.com/2026/09/10/secuestraron-mas-de-200-bidones-fitosanitarios-con-residuos-peligrosos-en-la-ruta-226/",
+          "portal": "Necochea Digital",
+          "title": "En materia de concesiones, la Municipalidad acelera licitaciones y refuerza los controles sobre las inversiones",
+          "url": "https://necocheadigital.com/nota/119556/en-materia-de-concesiones-la-municipalidad-acelera-licitaciones-y-refuerza-los-controles-sobre-las-inversiones/",
           "published_at": null,
           "category": null,
           "image": null
@@ -354,24 +395,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "El procedimiento se realizó en el paraje El Tropezón, a la altura del kilómetro 84,7, tras una serie de denuncias realizadas en redes sociales. Personal del Comando de Prevención Rural Balcarce, de la Dirección de Policía Ecológica con asiento en Mar del Plata y del área de Seguridad de la Municipalidad de Balcarce secuestró más de 200 bidones fitosanitarios vacíos que contenían residuos peligrosos en la ruta 226, provincia de Buenos Aires.",
-          "Noticia relacionadas Allanamientos en Quequén: recuperan objetos robados y detienen a un hombre con captura activa 10 de septiembre de 2026 Tenía una cuchilla de 25 centímetros oculta en la cintura y terminó demorado 9 de septiembre de 2026 Los envases fueron retirados del paraje El Tropezón, a la altura del kilómetro 84,7 de la ruta 226, donde se realizó el procedimiento luego de las denuncias difundidas en redes sociales."
+          "La política de concesiones de la Municipalidad de Necochea atraviesa una etapa de fuerte dinamismo. Desde febrero de 2025, cuando el abogado Julián Corro asumió al frente de la Dirección de Concesiones, se impulsaron siete llamados a licitación para Unidades Turísticas Fiscales, además de otros procesos vinculados con la Terminal de Ómnibus, espacios gastronómicos y distintos sectores del Parque Miguel Lillo.",
+          "Durante una entrevista en Voces de la Tarde , el programa que conduce Jorge Gómez por Radio Noticias Necochea , Corro realizó un balance de la gestión y destacó que el desafío no termina con la adjudicación de una concesión, sino que continúa con el seguimiento de las inversiones comprometidas. Licitaciones en marcha Entre las concesiones licitadas durante 2025, el funcionario mencionó los balnearios Terrazas , El Point , ex ACA , ex Costa Dorada y Kem Kem ."
         ],
-        "generated": "2026-09-10T20:44:29.254705+00:00"
+        "generated": "2026-09-10T23:03:38.536275+00:00"
       }
     },
     {
-      "key": "abren inscripcion sumar personal enfermeria hospital municipal san cayetano",
-      "title": "Abren inscripción para sumar personal de enfermería en el Hospital Municipal de San Cayetano",
-      "score": 1.2,
+      "key": "llegada leon xiv puede mensaje paz argentina dividida afirmo franco gussoni",
+      "title": "“La llegada de León XIV puede ser un mensaje de paz para una Argentina dividida”, afirmó Franco Gussoni",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-09-10T20:43:44.615290+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/abren-inscripcion-para-sumar-personal-de-enfermeria-en-el-hospital-municipal-de-san-cayeta.webp",
+      "first_seen": "2026-09-10T23:02:49.702868+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/7f907040b70d7f4993bc12cce70584e15059aae4.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Abren inscripción para sumar personal de enfermería en el Hospital Municipal de San Cayetano",
-          "url": "https://diarionecochea.com/2026/09/10/abren-inscripcion-para-sumar-personal-de-enfermeria-en-el-hospital-municipal-de-san-cayetano/",
+          "portal": "Necochea Digital",
+          "title": "“La llegada de León XIV puede ser un mensaje de paz para una Argentina dividida”, afirmó Franco Gussoni",
+          "url": "https://necocheadigital.com/nota/119554/la-llegada-de-leon-xiv-puede-ser-un-mensaje-de-paz-para-una-argentina-dividida-afirmo-franco-gussoni/",
           "published_at": null,
           "category": null,
           "image": null
@@ -379,24 +420,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "El Municipio local convoca a enfermeros con título y matrícula, menores de 50 años, para trabajar en horarios rotativos en el Hospital Municipal y residencias de adultos mayores, con inscripción abierta del 22 de septiembre al 5 de octubre de. El Municipio local llama a Concurso Público Abierto para cubrir vacantes en la Secretaría de Salud, específicamente personal de enfermería. Noticia relacionadas San Cayetano abrió una segunda licitación para alquilar locales y servicios en el balneario 10 de septiembre de 2026 San Cayetano abre la inscripción de guardavidas para la temporada 2026‑27 8 de septiembre de 2026 El trabajo será en horarios rotativos, en distintos sectores del Hospital Municipal (guardia e internación), y residencias de adultos mayores.",
-          "Son requisitos poseer título y matrícula, y tener hasta 50 años de edad. La inscripción será del 22 de septiembre al 5 de octubre de 2026 inclusive."
+          "La próxima visita del papa León XIV a la Argentina, prevista para noviembre, vuelve a poner en primer plano el vínculo entre el país y la máxima autoridad de la Iglesia Católica. Para Franco Gussoni , referente cristiano de Necochea, el acontecimiento tendrá una profunda dimensión religiosa, pero también representará un mensaje de paz, esperanza y convivencia para una sociedad atravesada por la división. Así lo expresó durante una entrevista en Voces de la Tarde , el programa que conduce Jorge Gómez por Radio Noticias Necochea 97.3 FM .",
+          "En paralelo, Gussoni viene compartiendo en sus redes sociales una serie de reflexiones sobre el significado de la visita papal, que incluirá actividades en Buenos Aires, Luján y Córdoba . Un acontecimiento histórico La visita de León XIV marcará el regreso de un pontífice a la Argentina después de casi cuatro décadas."
         ],
-        "generated": "2026-09-10T20:44:36.296762+00:00"
+        "generated": "2026-09-10T23:03:39.297875+00:00"
       }
     },
     {
-      "key": "allanamientos robos quequen recuperaron objetos robados detuvieron hombre captura activa",
-      "title": "Allanamientos en Quequén: recuperan objetos robados y detienen a un hombre con captura activa",
-      "score": 1.2,
+      "key": "arribo primavera tendra fiesta pinolandia musica deporte actividades toda familia",
+      "title": "El arribo de la primavera tendrá su fiesta en Pinolandia con música, deporte y actividades para toda la familia",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-09-10T20:43:44.615290+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/tres-allanamientos-quequen-recuperan-objetos-robad-1x5w0-1.jpg",
+      "first_seen": "2026-09-10T23:02:49.702868+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/46b7917676e0b145eb692331b2242265e6296982.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Allanamientos en Quequén: recuperan objetos robados y detienen a un hombre con captura activa",
-          "url": "https://diarionecochea.com/2026/09/10/allanamientos-en-quequen-recuperan-objetos-robados-y-detienen-a-hombre-con-captura-activa/",
+          "portal": "Necochea Digital",
+          "title": "El arribo de la primavera tendrá su fiesta en Pinolandia con música, deporte y actividades para toda la familia",
+          "url": "https://necocheadigital.com/nota/119553/el-arribo-de-la-primavera-tendra-su-fiesta-en-pinolandia-con-musica-deporte-y-actividades-para-toda-la-familia/",
           "published_at": null,
           "category": null,
           "image": null
@@ -404,24 +445,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "Policías de la GTO y la UFI 03, con apoyo de las comisarías Primera y Tercera, vincularon las diligencias con dos robos recientes. Los objetos recuperados fueron puestos a disposición judicial y los arrestados trasladados a la Comisaría Segunda.",
-          "En el marco de una investigación llevada adelante por personal del GTO de la Comisaría Segunda de Quequén , se realizaron tres allanamientos simultáneos que permitieron avanzar en el esclarecimiento de dos hechos de robo, recuperar elementos sustraídos y detener a un hombre que registraba un pedido de captura activo."
+          "La Municipalidad de Necochea celebrará la llegada de la primavera con una jornada abierta a toda la comunidad el próximo domingo 20 de septiembre , en avenida Pinolandia, dentro del Parque Miguel Lillo. La propuesta, con entrada libre y gratuita, incluirá música, deportes urbanos, gastronomía, actividades recreativas y acciones de prevención en salud. La iniciativa fue presentada por la subdirectora de Juventud, Agustina Di Russo , durante una entrevista en el programa Voces de la Tarde , que conduce Jorge Gómez por Radio Noticias Necochea 97.3 FM.",
+          "Las actividades comenzarán a las 11 de la mañana y se desarrollarán en el tramo de avenida Pinolandia comprendido entre las avenidas 2 y 10, donde se realizará un corte de tránsito para garantizar el normal desarrollo del evento. Música, deportes urbanos y gastronomía La programación abrirá con un encuentro de stunt , disciplina que reúne a ciclistas para realizar exhibiciones y acrobacias."
         ],
-        "generated": "2026-09-10T20:44:41.764826+00:00"
+        "generated": "2026-09-10T23:03:40.049098+00:00"
       }
     },
     {
-      "key": "tenia cuchilla 25 centimetros oculta cintura termino demorado",
-      "title": "Tenía una cuchilla de 25 centímetros oculta en la cintura y terminó demorado",
-      "score": 1.2,
+      "key": "municipio avanza instalacion recambio alumbrado publico tecnologia led",
+      "title": "El Municipio avanza con la instalación y recambio de alumbrado público con tecnología Led",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-09-10T20:43:44.615290+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/detienen-joven-armado-cuchilla-necochea-tras-alert-ma52p-1.jpg",
+      "first_seen": "2026-09-10T23:02:49.702868+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260909182042_archivo-luminarias2.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Tenía una cuchilla de 25 centímetros oculta en la cintura y terminó demorado",
-          "url": "https://diarionecochea.com/2026/09/09/tenia-una-cuchilla-de-25-centimetros-oculta-en-la-cintura-y-termino-demorado/",
+          "portal": "Necochea Digital",
+          "title": "El Municipio avanza con la instalación y recambio de alumbrado público con tecnología Led",
+          "url": "https://necocheadigital.com/nota/119548/el-municipio-avanza-con-la-instalacion-y-recambio-de-alumbrado-publico-con-tecnologia-led/",
           "published_at": null,
           "category": null,
           "image": null
@@ -429,24 +470,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "Durante el palpado preventivo, el personal policial incautó la arma blanca con mango de madera y trasladó al implicado a la Comisaría Primera por infracción a la ley de faltas. La rápida detección del Centro de Monitoreo y la inmediata respuesta policial permitieron interceptar a un joven que llevaba una cuchilla oculta entre sus prendas en plena vía pública.",
-          "Noticia relacionadas Secuestraron más de 200 bidones fitosanitarios con residuos peligrosos en la ruta 226 10 de septiembre de 2026 Allanamientos en Quequén: recuperan objetos robados y detienen a un hombre con captura activa 10 de septiembre de 2026 El procedimiento se originó en calle 82 y 53 de Necochea, cuando operadores del sistema de videovigilancia observaron a un masculino que, tras advertir la presencia del entorno, habría ocultado entre sus prendas un elemento de características similares a un arma blanca."
+          "El Municipio continúa impulsando la modernización del sistema de alumbrado público en distintos puntos del distrito . Con el objetivo de brindar mayor seguridad, optimizar el consumo energético y reemplazar las viejas luminarias de sodio y mercurio por tecnología Led de 150W, se vienen ejecutando de manera constante tareas de instalación de nuevos equipos y de recambio de unidades averiadas o quemadas.",
+          "Estas labores se llevan adelante mediante un esquema de trabajo articulado entre los vecinos y la Municipalidad —donde el aporte de soportes y artefactos se realiza en forma conjunta según el caso, y el Municipio provee las luces Led— mientras que la colocación técnica se realiza en permanente coordinación con la Usina Popular Cooperativa."
         ],
-        "generated": "2026-09-10T20:44:46.886607+00:00"
+        "generated": "2026-09-10T23:03:41.345930+00:00"
       }
     },
     {
-      "key": "vecino vio como dejaban moto baldio policia secuestro",
-      "title": "Un vecino vio cómo dejaban una moto en un baldío y la Policía la secuestró",
-      "score": 1.2,
+      "key": "demian goni convocado seleccion argentina sub 17 beach handball",
+      "title": "Demian Goñi fue convocado a la Selección Argentina Sub-17 de Beach Handball",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-09-10T20:43:44.615290+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/policia-necochea-secuestra-moto-zanella-roja-aband-7ne7l-1.jpg",
+      "first_seen": "2026-09-10T23:02:49.702868+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260909183906_whatsapp-image-2026-09-09-at-18-38-44.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Un vecino vio cómo dejaban una moto en un baldío y la Policía la secuestró",
-          "url": "https://diarionecochea.com/2026/09/09/un-vecino-vio-como-dejaban-una-moto-en-un-baldio-y-la-policia-la-secuestro/",
+          "portal": "Necochea Digital",
+          "title": "Demian Goñi fue convocado a la Selección Argentina Sub-17 de Beach Handball",
+          "url": "https://necocheadigital.com/nota/119550/demian-goni-fue-convocado-a-la-seleccion-argentina-sub-17-de-beach-handball/",
           "published_at": null,
           "category": null,
           "image": null
@@ -454,24 +495,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "Denuncia 911 de un vecino informó la presencia de una moto abandonada entre las calles 46 y 47, lo que motivó la intervención de las autoridades. El rodado quedó bajo custodia de Comisaría Primera y la UFI 03 iniciará diligencias.",
-          "Personal policial del Comando de Patrullas Necochea intervino ante el hallazgo de una motocicleta que dejó en el interior de un terreno baldío ubicado en inmediaciones de la calle 46 y la calle 47. El procedimiento inició a raíz de un llamado al servicio de emergencias 911, que alertó sobre la presencia de un sujeto retirando un motovehículo del lugar."
+          "El necochense Demian Goñi sumó una nueva convocatoria a la Selección Argentina. La Confederación Argentina de Handball lo citó para integrar el plantel Sub-17 de Beach Handball que participará de la Copa Internacional Mejillones 2026, competencia que se desarrollará en la ciudad chilena de Mejillones entre el 23 y el 25 de octubre. El jugador formado en Alta Mira tendrá así la posibilidad de representar nuevamente al país, esta vez en la modalidad de Beach Handball.",
+          "La convocatoria se suma a un año de importantes experiencias para Goñi, que ya tuvo participación en procesos de selecciones nacionales y regionales. Su nueva citación llega después de una destacada actuación con la Selección Argentina de Cadetes, con la que se consagró campeón del Campeonato Sur y Centro América de la categoría, disputado en el Comité Olímpico Paraguayo, en Asunción. El equipo dirigido por Rubén Busolin tuvo una campaña perfecta y ganó sus cinco partidos."
         ],
-        "generated": "2026-09-10T20:44:54.318365+00:00"
+        "generated": "2026-09-10T23:03:42.106455+00:00"
       }
     },
     {
-      "key": "condenaron anos carcel profesor loberia abuso sexual",
-      "title": "Condenaron a 8 años de cárcel a un profesor de Lobería por abuso sexual",
-      "score": 1.2,
+      "key": "queres trabajo verano abre convocatoria trabajar temporada 2026 27",
+      "title": "¿Querés trabajo de verano? Se abre una convocatoria para trabajar durante la temporada 2026/27",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-09-10T20:43:44.615290+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2025/02/juicio-necochea.jpg",
+      "first_seen": "2026-09-10T23:02:49.702868+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260909103400_foto-evento-informante.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Condenaron a 8 años de cárcel a un profesor de Lobería por abuso sexual",
-          "url": "https://diarionecochea.com/2026/09/09/condenaron-a-8-anos-de-carcel-a-un-profesor-de-loberia-por-abuso-sexual/",
+          "portal": "Necochea Digital",
+          "title": "¿Querés trabajo de verano? Se abre una convocatoria para trabajar durante la temporada 2026/27",
+          "url": "https://necocheadigital.com/nota/119544/queres-trabajo-de-verano-se-abre-una-convocatoria-para-trabajar-durante-la-temporada-2026-27/",
           "published_at": null,
           "category": null,
           "image": null
@@ -479,24 +520,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "El acusado de 33 años atacó a un alumno con discapacidad dentro del colegio durante 2025, fue denunciado por la familia en junio y terminó detenido semanas después tras las medidas de prueba reunidas. La Justicia de Necochea aplicó hoy una condena de 8 años de prisión para un docente de la Escuela Técnica Nº 1 de Lobería, al determinar su responsabilidad penal en el delito de abuso sexual agravado cometido en perjuicio de un menor con discapacidad.",
-          "Noticia relacionadas Secuestraron más de 200 bidones fitosanitarios con residuos peligrosos en la ruta 226 10 de septiembre de 2026 Allanamientos en Quequén: recuperan objetos robados y detienen a un hombre con captura activa 10 de septiembre de 2026 Las actuaciones policiales y judiciales establecieron que los ataques contra la víctima, que tenía 16 años al momento de los hechos, sucedieron dentro del propio establecimiento educativo."
+          "La Secretaría de Turismo y Desarrollo Productivo de la Municipalidad, a cargo de Matías Sierra, abre una convocatoria para la selección y contratación de personal temporario que se desempeñará durante la temporada 2026/27 . Los seleccionados participarán en tareas de información y promoción turística, realización de encuestas, acompañamiento en eventos, acciones de logística y atención al público, tanto dentro de como fuera del Distrito de Necochea. Personas que cuenten con: -Título Secundario completo -Formación, estudios o experiencia vinculada al Turismo. -Buena predisposición para la atención al público y el trabajo en equipo.",
+          "-Actitud para realizar encuestas callejeras de manera cordial. -Perfil proactivo y compromiso con el trabajo. -Manejo de PC, paquete office, correo electrónico y redes sociales."
         ],
-        "generated": "2026-09-10T20:44:55.777786+00:00"
+        "generated": "2026-09-10T23:03:42.858665+00:00"
       }
     },
     {
-      "key": "identificaron mujer murio chocar camioneta ruta 88",
-      "title": "Identificaron a la mujer que murió tras chocar contra una camioneta en la Ruta 88",
-      "score": 1.2,
+      "key": "miercoles futbol necochea sub 15 juega clasificacion completa fecha 15",
+      "title": "Miércoles de fútbol en Necochea: el Sub 15 se juega la clasificación y se completa la Fecha 15",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-09-10T20:43:44.615290+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/identificaron-a-la-mujer-que-murio-tras-chocar-contra-una-camioneta-en-la-ruta-88.webp",
+      "first_seen": "2026-09-10T23:02:49.702868+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260909105209_20241109155438-b8be5d11ae39af65008501a05c5d40d3cbed5759.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Identificaron a la mujer que murió tras chocar contra una camioneta en la Ruta 88",
-          "url": "https://diarionecochea.com/2026/09/08/identificaron-a-la-mujer-que-murio-tras-chocar-contra-una-camioneta-en-la-ruta-88/",
+          "portal": "Necochea Digital",
+          "title": "Miércoles de fútbol en Necochea: el Sub 15 se juega la clasificación y se completa la Fecha 15",
+          "url": "https://necocheadigital.com/nota/119545/miercoles-de-futbol-en-necochea-el-sub-15-se-juega-la-clasificacion-y-se-completa-la-fecha-15/",
           "published_at": null,
           "category": null,
           "image": null
@@ -504,24 +545,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "Marta Palmeiro, de 77 años, murió este martes por la mañana luego de que el Volkswagen Gol que conducía fuera impactado por una Toyota Hilux. El accidente ocurrió alrededor de las 10:30 de este martes en la Ruta 88 , en el tramo que conecta Mar del Plata con Batán, a la altura del predio donde se tramita la Verificación Técnica Vehicular (VTV). Noticia relacionadas Secuestraron más de 200 bidones fitosanitarios con residuos peligrosos en la ruta 226 10 de septiembre de 2026 Allanamientos en Quequén: recuperan objetos robados y detienen a un hombre con captura activa 10 de septiembre de 2026 La víctima fue identificada como Marta Palmeiro, de 77 años.",
-          "Murió en el acto como consecuencia de la violencia del impacto. La camioneta Toyota Hilux era conducida por un joven de 20 años e impactó contra el Volkswagen Gol que manejaba Palmeiro. El otro conductor no necesitó asistencia médica."
+          "La jornada de este miércoles tendrá una doble propuesta para el fútbol de la Liga Necochea, con actividad tanto para el seleccionado juvenil como para la Primera División. El Sub 15 de Necochea afrontará un partido decisivo ante Azul, mientras que el Torneo Sergio “Giuseppe” Portugal completará su decimoquinta fecha con dos encuentros que habían quedado pendientes. El seleccionado Sub 15 jugará desde las 15.30 frente a Azul en cancha de Mataderos, en un partido correspondiente al Torneo de Selecciones de la Federación Bonaerense Pampeana.",
+          "La definición de la Zona 2 llega con mucha paridad. Tandil lidera con 10 puntos, Necochea suma nueve y Azul aparece con ocho, por lo que el encuentro de este miércoles será determinante para las aspiraciones del conjunto necochense de avanzar a la siguiente instancia."
         ],
-        "generated": "2026-09-10T20:44:57.796297+00:00"
+        "generated": "2026-09-10T23:03:43.607599+00:00"
       }
     },
     {
-      "key": "samuel chiche gelblung murio 82 anos sido internado cuadro respiratorio",
-      "title": "Samuel “Chiche” Gelblung murió a los 82 años y había sido internado por un cuadro respiratorio",
-      "score": 1.2,
+      "key": "hallan moto abandonada terreno baldio policia secuestro",
+      "title": "Hallan una moto abandonada en un terreno baldío y la Policía la secuestró",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-09-10T20:43:44.615290+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/chiche-gelblung.jpg",
+      "first_seen": "2026-09-10T23:02:49.702868+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/2c86ef7d63d86472f7fc832be9217815db8a0fd5.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Samuel “Chiche” Gelblung murió a los 82 años y había sido internado por un cuadro respiratorio",
-          "url": "https://diarionecochea.com/2026/09/09/samuel-chiche-gelblung-murio-a-los-82-anos-y-habia-sido-internado-por-un-cuadro-respiratorio/",
+          "portal": "Necochea Digital",
+          "title": "Hallan una moto abandonada en un terreno baldío y la Policía la secuestró",
+          "url": "https://necocheadigital.com/nota/119541/hallan-una-moto-abandonada-en-un-terreno-baldio-y-la-policia-la-secuestro/",
           "published_at": null,
           "category": null,
           "image": null
@@ -529,24 +570,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "El periodista y conductor falleció luego de atravesar durante los últimos meses distintos problemas de salud y reiteradas hospitalizaciones. Samuel “Chiche” Gelblung murió este miércoles 9 de septiembre de 2026, a los 82 años, luego de atravesar durante los últimos meses distintos problemas de salud que derivaron en reiteradas internaciones. El periodista y conductor permanecía internado en el Sanatorio Mater Dei desde el martes 8 de septiembre por dificultades respiratorias vinculadas con su cuadro de salud.",
-          "Su fallecimiento se produjo un día después de esa nueva hospitalización. Noticia relacionadas Día del Maestro 2026: qué pasa con las clases este viernes y quiénes tienen asueto 10 de septiembre de 2026 Freddie Mercury cumpliría 80 años: la voz de Queen que sigue vigente 5 de septiembre de 2026 La internación de septiembre fue señalada como la cuarta hospitalización de Gelblung durante 2026."
+          "Una motocicleta fue secuestrada por personal del Comando de Patrullas de Necochea luego de ser hallada abandonada en el interior de un terreno baldío ubicado en inmediaciones de las calles 46 y 47. El procedimiento se inició a partir de un llamado al servicio de emergencias 911, que alertó sobre la presencia de un hombre retirando un motovehículo del lugar. Al arribar al sitio, los efectivos constataron que se trataba de una motocicleta Zanella 110 cc de color rojo , que había sido dejada abandonada en el predio.",
+          "De acuerdo con el testimonio de un vecino, un sujeto llegó al terreno, dejó el rodado y se retiró rápidamente, lo que motivó el aviso a la Policía. Los uniformados realizaron las verificaciones correspondientes sobre el dominio y la numeración del motor, sin detectar impedimentos legales vigentes. Sin embargo, ante las circunstancias del hallazgo, se dispuso el secuestro preventivo de la motocicleta."
         ],
-        "generated": "2026-09-10T20:44:59.178341+00:00"
+        "generated": "2026-09-10T23:03:44.350271+00:00"
       }
     },
     {
-      "key": "cuarto dia fallas sube acreditar cargas celular",
-      "title": "Cuarto día de fallas en la SUBE para acreditar cargas desde el celular",
-      "score": 1.2,
+      "key": "detectado tiempo camaras vieron joven armado policia intercepto antes ocurriera hecho",
+      "title": "Detectado a tiempo: las cámaras vieron a un joven armado y la Policía lo interceptó antes de que ocurriera un hecho",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-09-10T20:43:44.615290+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/fallas-en-el-sistema-sube-por-cuarto-dia-consecutivo-hubo-problemas-para-acreditar-cargas.webp",
+      "first_seen": "2026-09-10T23:02:49.702868+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/341a91ad283032b56e2b9d677b086865c0ff36a2.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Cuarto día de fallas en la SUBE para acreditar cargas desde el celular",
-          "url": "https://diarionecochea.com/2026/09/04/cuarto-dia-de-fallas-en-la-sube-para-acreditar-cargas-desde-el-celular/",
+          "portal": "Necochea Digital",
+          "title": "Detectado a tiempo: las cámaras vieron a un joven armado y la Policía lo interceptó antes de que ocurriera un hecho",
+          "url": "https://necocheadigital.com/nota/119542/detectado-a-tiempo-las-camaras-vieron-a-un-joven-armado-y-la-policia-lo-intercepto-antes-de-que-ocurriera-un-hecho/",
           "published_at": null,
           "category": null,
           "image": null
@@ -554,24 +595,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "El sistema de acreditación de cargas electrónicas de la tarjeta SUBE funcionó de manera intermitente este viernes y mostró mensajes para “intentar más tarde” en distintos tótems. El sistema para cargar la tarjeta SUBE desde el celular registró fallas por cuarto día consecutivo. Este viernes, los tótems funcionaron de manera intermitente y en muchos casos mostraron mensajes que pedían “intentar más tarde”.",
-          "Noticia relacionadas Día del Maestro 2026: qué pasa con las clases este viernes y quiénes tienen asueto 10 de septiembre de 2026 Samuel “Chiche” Gelblung murió a los 82 años y había sido internado por un cuadro respiratorio 9 de septiembre de 2026 Las estaciones de tren fueron uno de los puntos más afectados, ya que los pasajeros solo pudieron abonar el viaje con la tarjeta física. En Plaza Constitución, los lectores funcionaron por momentos y luego volvieron a mostrar el aviso de error."
+          "La rápida intervención del Centro de Monitoreo y el accionar del personal policial permitieron evitar que una situación potencialmente peligrosa escalara a un hecho de mayor gravedad en Necochea. El procedimiento se inició en la intersección de calles 82 y 53, cuando operadores del sistema de videovigilancia detectaron a un joven que, tras observar el movimiento en la zona, habría ocultado entre sus prendas un objeto con características compatibles con un arma blanca.",
+          "Ante la alerta, se dio inmediato aviso a los efectivos policiales, que acudieron al lugar e interceptaron al sospechoso. Durante el cacheo preventivo, los uniformados encontraron una cuchilla tipo Tramontina de aproximadamente 25 centímetros de largo, con mango de madera y funda de cuero, que el joven de 21 años llevaba oculta a la altura de la cintura."
         ],
-        "generated": "2026-09-10T20:45:01.727689+00:00"
+        "generated": "2026-09-10T23:03:45.095754+00:00"
       }
     },
     {
-      "key": "empresas sea lion aseguran seguiran adelante pese sanciones anunciadas milei",
-      "title": "Las empresas de Sea Lion aseguran que seguirán adelante pese a las sanciones anunciadas por Milei",
-      "score": 1.2,
+      "key": "investigan hurto honda xr150 pleno centro necochea",
+      "title": "Investigan el hurto de una Honda XR150 en pleno centro de Necochea",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-09-10T20:43:44.615290+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/las-empresas-de-sea-lion-aseguran-que-seguiran-adelante-pese-a-las-sanciones-anunciadas-po.webp",
+      "first_seen": "2026-09-10T23:02:49.702868+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260909105641_599341-1-im.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Las empresas de Sea Lion aseguran que seguirán adelante pese a las sanciones anunciadas por Milei",
-          "url": "https://diarionecochea.com/2026/09/04/las-empresas-de-sea-lion-aseguran-que-seguiran-adelante-pese-a-las-sanciones-anunciadas-por-milei/",
+          "portal": "Necochea Digital",
+          "title": "Investigan el hurto de una Honda XR150 en pleno centro de Necochea",
+          "url": "https://necocheadigital.com/nota/119546/investigan-el-hurto-de-una-honda-xr150-en-pleno-centro-de-necochea/",
           "published_at": null,
           "category": null,
           "image": null
@@ -579,24 +620,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "Las compañías sostuvieron que las medidas no modificarán el cronograma previsto para el proyecto petrolero, mientras remarcaron que poseen permisos otorgados por las autoridades de las Islas.",
-          "Las empresas que impulsan el desarrollo petrolero en Malvinas minimizaron las medidas anunciadas por Javier Milei y señalaron que mantienen las autorizaciones locales y el respaldo del Gobierno británico para avanzar con Sea Lion."
+          "Un vecino de Necochea denunció el hurto de una motocicleta Honda XR150 que se encontraba estacionada durante la mañana en inmediaciones de calle 56 al 3000, en un sector cercano a la intersección con calle 61. De acuerdo con la denuncia, el rodado, de 150 centímetros cúbicos, color rojo y patente A 177-URX, había quedado estacionado frente a una academia de enseñanza de idioma inglés, con las llaves colocadas. El hecho se habría producido entre las 10.30 y las 11.",
+          "El propietario se retiró del lugar y, aproximadamente una hora después, regresó y constató que la motocicleta ya no se encontraba donde la había dejado. Tras advertir la sustracción, el damnificado se presentó en la Seccional Primera de Policía y radicó la correspondiente denuncia. A partir de la presentación, se iniciaron actuaciones judiciales por el hurto del motovehículo, con intervención de la Fiscalía N° 3 del Departamento Judicial de Necochea."
         ],
-        "generated": "2026-09-10T20:45:06.777141+00:00"
+        "generated": "2026-09-10T23:03:45.839169+00:00"
       }
     },
     {
-      "key": "javier milei anuncio sanciones petroleras proyecta base naval atlantico sur",
-      "title": "Javier Milei anunció sanciones contra petroleras y proyecta una base naval en el Atlántico Sur",
-      "score": 1.2,
+      "key": "detuvieron quequen joven 23 anos buscado justicia",
+      "title": "Detuvieron en Quequén a un joven de 23 años que era buscado por la Justicia",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-09-10T20:43:44.615290+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/javier-milei-impulsa-sanciones-contra-petroleras-y-proyecta-una-base-naval-en-el-atlantico.webp",
+      "first_seen": "2026-09-10T23:02:49.702868+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/a6742023230bef9cef1c6b3331de00707f97500d.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Javier Milei anunció sanciones contra petroleras y proyecta una base naval en el Atlántico Sur",
-          "url": "https://diarionecochea.com/2026/09/03/milei-anuncio-sanciones-contra-petroleras-y-proyecta-una-base-naval-en-el-atlantico-sur/",
+          "portal": "Necochea Digital",
+          "title": "Detuvieron en Quequén a un joven de 23 años que era buscado por la Justicia",
+          "url": "https://necocheadigital.com/nota/119538/detuvieron-en-quequen-a-un-joven-de-23-anos-que-era-buscado-por-la-justicia/",
           "published_at": null,
           "category": null,
           "image": null
@@ -604,24 +645,24 @@
       ],
       "summary": {
         "paragraphs": [
-          ":La medida busca acelerar las penas establecidas por la legislación actual para proteger los recursos estratégicos, impidiendo que las firmas infractoras puedan operar en el mercado local.",
-          "Durante una transmisión oficial realizada este jueves, el jefe de Estado encabezó una alocución pública orientada a reafirmar el reclamo por las islas del Atlántico Sur, marco en el cual presentó una serie de iniciativas destinadas a endurecer la postura institucional y proteger los recursos marítimos frente a las tareas de extracción ilegal en la región insular."
+          "Un joven de 23 años fue detenido en Quequén luego de ser identificado por personal policial durante un operativo de prevención y seguridad desarrollado en la vía pública. El procedimiento estuvo a cargo de efectivos del Gabinete Técnico Operativo de la Comisaría Segunda de Quequén y se concretó en inmediaciones de calles 527 y 554. De acuerdo con la información policial, los agentes contaban con el oficio judicial correspondiente y, durante las tareas de identificación, constataron que sobre el joven pesaba una orden de detención vigente.",
+          "La medida había sido requerida por el Juzgado de Ejecución Penal N.º 2 del Departamento Judicial Mar del Plata, en el marco de una causa vinculada a un régimen de libertad asistida. Una vez verificada la vigencia del pedido judicial, los efectivos procedieron a la detención del joven, quien fue trasladado a la sede de la Comisaría Segunda de Quequén."
         ],
-        "generated": "2026-09-10T20:45:08.624054+00:00"
+        "generated": "2026-09-10T23:03:46.577918+00:00"
       }
     },
     {
-      "key": "horas discurso milei medio britanico aseguro podria anunciar sanciones exploracion petrolera malvinas",
-      "title": "A horas del discurso de Milei, un medio británico aseguró que podría anunciar sanciones por la exploración petrolera en Malvinas",
-      "score": 1.2,
+      "key": "cuando 88 mujer fallecio accidente altura batan",
+      "title": "¿Hasta cuándo la 88? Una mujer falleció en un accidente a la altura de Batán",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-09-10T20:43:44.615290+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/destacada-malvinas.jpg",
+      "first_seen": "2026-09-10T23:02:49.702868+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260908122317_whatsapp-image-2026-09-08-at-12-21-41.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "A horas del discurso de Milei, un medio británico aseguró que podría anunciar sanciones por la exploración petrolera en Malvinas",
-          "url": "https://diarionecochea.com/2026/09/03/a-horas-del-discurso-de-milei-un-medio-britanico-aseguro-que-podria-anunciar-sanciones-por-la-exploracion-petrolera-en-malvinas/",
+          "portal": "Necochea Digital",
+          "title": "¿Hasta cuándo la 88? Una mujer falleció en un accidente a la altura de Batán",
+          "url": "https://necocheadigital.com/nota/119535/hasta-cuando-la-88-una-mujer-fallecio-en-un-accidente-a-la-altura-de-batan/",
           "published_at": null,
           "category": null,
           "image": null
@@ -629,24 +670,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "El Gobierno analiza medidas contra Rockhopper y Navitas, mientras el proyecto Sea Lion avanza hacia una perforación prevista para los próximos meses. A pocas horas de la cadena nacional que Javier Milei brindará este jueves por la cuestión Malvinas, un medio británico informó que el Gobierno argentino analiza aplicar sanciones contra empresas vinculadas con la explotación de petróleo en yacimientos ubicados frente a las islas.",
-          "La eventual medida podría abrir un nuevo frente de tensión diplomática con el Reino Unido. Noticia relacionadas Día del Maestro 2026: qué pasa con las clases este viernes y quiénes tienen asueto 10 de septiembre de 2026 Samuel “Chiche” Gelblung murió a los 82 años y había sido internado por un cuadro respiratorio 9 de septiembre de 2026 Según publicó The Telegraph, el Presidente podría anunciar las sanciones durante su discurso, previsto para las 21 de este jueves."
+          "Una mujer de 78 años falleció este martes por la mañana como consecuencia de un violento accidente ocurrido sobre la Ruta 88, a la altura de Batán, en inmediaciones del kilómetro 9,5 y frente al predio de la Verificación Técnica Vehicular (VTV). El siniestro se produjo alrededor de las 10.30, cuando el Volkswagen Gol que conducía la víctima salía del barrio Colinalegre y fue impactado por una Toyota Hilux que circulaba en sentido hacia Mar del Plata. De acuerdo con la información difundida, la camioneta impactó sobre el lateral del Volkswagen Gol correspondiente al puesto del conductor.",
+          "La violencia de la colisión provocó que la mujer quedara atrapada dentro del habitáculo y falleciera en el lugar como consecuencia de las heridas sufridas. Tras el aviso de la emergencia, se desplegó un operativo en el sector, con la intervención de personal del SAME, Bomberos y efectivos de la Policía de la Provincia de Buenos Aires."
         ],
-        "generated": "2026-09-10T20:45:10.939198+00:00"
+        "generated": "2026-09-10T23:03:47.301262+00:00"
       }
     },
     {
-      "key": "justicia decreto quiebra musimundo deuda 63 500 millones",
-      "title": "La Justicia decretó la quiebra de Musimundo, por una deuda de $63.500 millones",
-      "score": 1.2,
+      "key": "fallecio joven motociclista protagonizado grave accidente avenida 74 calle 71",
+      "title": "Falleció el joven motociclista que había protagonizado un grave accidente en avenida 74 y calle 71",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-09-10T20:43:44.615290+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/la-justicia-decreto-la-quiebra-de-musimundo-por-una-deuda-de-63-500-millones.webp",
+      "first_seen": "2026-09-10T23:02:49.702868+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/b1d284a95366705a3178b56e2abfcfb393c41028.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "La Justicia decretó la quiebra de Musimundo, por una deuda de $63.500 millones",
-          "url": "https://diarionecochea.com/2026/09/03/la-justicia-decreto-la-quiebra-de-musimundo-por-una-deuda-de-63-500-millones/",
+          "portal": "Necochea Digital",
+          "title": "Falleció el joven motociclista que había protagonizado un grave accidente en avenida 74 y calle 71",
+          "url": "https://necocheadigital.com/nota/119513/fallecio-el-joven-motociclista-que-habia-protagonizado-un-grave-accidente-en-avenida-74-y-calle-71/",
           "published_at": null,
           "category": null,
           "image": null
@@ -654,24 +695,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "La resolución dejó sin efecto el concurso preventivo iniciado en julio y abrió una nueva etapa judicial, en medio de un fuerte endeudamiento y de una reducción de la estructura comercial. La Justicia chaqueña decretó la quiebra de Carsa S.A., la compañía vinculada a la operación de Musimundo, y dejó sin efecto el concurso preventivo que había comenzado el 17 de julio de 2026. La resolución fue dictada el 2 de septiembre por el Juzgado Civil y Comercial N.º 23 de Resistencia, a cargo del juez Fernando Luis Lavenas, quien consideró que existían hechos reveladores del estado de cesación de pagos y que la continuidad del proceso concursal ya no resultaba viable.",
-          "El expediente pasó a tramitarse bajo la carátula “CARSA S.A. s/ Quiebra”, en una decisión que modificó el camino judicial que la empresa había iniciado para reordenar sus pasivos y evitar una declaración de quiebra."
+          "La víctima fue identificada como Yoel Roldán, quien alrededor de las 19 protagonizó una colisión con una camioneta en la intersección de avenida 74 y calle 71. Tras el fuerte impacto, el joven fue trasladado de urgencia a un centro asistencial con lesiones de extrema gravedad. Su estado era crítico y, mientras permanecía internado, familiares, amigos y allegados habían iniciado una cadena de oración a través de las redes sociales con la esperanza de su recuperación.",
+          "Sin embargo, pese a los intentos de los profesionales de la salud, Yoel Roldán falleció a causa de las graves heridas sufridas en el siniestro vial. Las circunstancias en las que se produjo el accidente continúan siendo materia de investigación."
         ],
-        "generated": "2026-09-10T20:45:12.683331+00:00"
+        "generated": "2026-09-10T23:03:48.044718+00:00"
       }
     },
     {
-      "key": "incendios catamarca afectaron 100 hectareas viento zonda complica operativo",
-      "title": "Los incendios en Catamarca ya afectaron más de 100 hectáreas y el viento Zonda complica el operativo",
-      "score": 1.2,
+      "key": "emsur reforzo trabajos mantenimiento reparacion caminos rurales distrito",
+      "title": "El EMSUR reforzó los trabajos de mantenimiento y reparación en los caminos rurales del distrito",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-09-10T20:43:44.615290+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/incendio-en-catamarca-el-fuego-ya-afecto-mas-de-100-hectareas-y-el-viento-zonda-complica-el-operativo.jpg",
+      "first_seen": "2026-09-10T23:02:49.702868+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260908115805_22-06-foto-emsur-rural.png",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Los incendios en Catamarca ya afectaron más de 100 hectáreas y el viento Zonda complica el operativo",
-          "url": "https://diarionecochea.com/2026/08/28/incendio-en-catamarca-el-fuego-ya-afecto-mas-de-100-hectareas-y-el-viento-zonda-complica-el-operativo/",
+          "portal": "Necochea Digital",
+          "title": "El EMSUR reforzó los trabajos de mantenimiento y reparación en los caminos rurales del distrito",
+          "url": "https://necocheadigital.com/nota/119532/el-emsur-reforzo-los-trabajos-de-mantenimiento-y-reparacion-en-los-caminos-rurales-del-distrito/",
           "published_at": null,
           "category": null,
           "image": null
@@ -679,24 +720,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "El fuego avanza en Alto de Las Juntas, mientras el viento Zonda impide utilizar medios aéreos. La provincia acumula unas 6.568 hectáreas afectadas hasta el 27 de agosto. Un incendio forestal de grandes dimensiones continúa activo en Alto de Las Juntas, Aconquija, departamento Andalgalá, donde las llamas afectaron más de 100 hectáreas.",
-          "El frente de mayor magnitud se ubicó en el Cerro de la Cruz y avanzó por sus laderas hacia sectores próximos a la cumbre. Más de 30 personas participan del operativo, entre brigadistas, Bomberos Voluntarios y personal municipal, mientras otro foco fue detectado en El Totoral, a la altura de Las Rosas, cerca del río del Campo."
+          "En lo que va del año, el registro acumulado de precipitaciones alcanza los 698 milímetros , un volumen que genera la necesidad de sostener de manera permanente las tareas de mantenimiento, reparación y acondicionamiento de la extensa red vial rural. Con maquinaria y personal propios, el EMSUR intervino en distintos puntos donde se habían producido cortes y deterioros. En el Camino Municipal 218, entre los kilómetros 24 y 28 de la Ruta Provincial 86, se trabajó en la reparación del corte existente para recuperar la circulación.",
+          "Una tarea similar se llevó adelante en el Camino Municipal 252, a la altura de la bajada del kilómetro 47 de la RP 86, donde fue necesario recomponer el sector afectado. También se realizaron trabajos de arreglo de corte y repaso sobre el Camino Municipal 004 – 1/2 Agua, mientras que en el Camino Municipal 150, en dirección a Las Cascadas, se efectuó un repaso general para mejorar las condiciones de transitabilidad."
         ],
-        "generated": "2026-09-10T20:45:14.705812+00:00"
+        "generated": "2026-09-10T23:03:48.792356+00:00"
       }
     },
     {
-      "key": "uno uno como votaron diputados media sancion reforma carta organica banco central",
-      "title": "Uno por uno, cómo votaron los diputados la media sanción a la reforma de la Carta Orgánica del Banco Central",
-      "score": 1.2,
+      "key": "marcos pereira consagro campeon wkn historica jornada necochea fight club",
+      "title": "Marcos Pereira se consagró campeón WKN en una histórica jornada del Necochea Fight Club",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-09-10T20:43:44.615290+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/uno-por-uno-como-votaron-los-diputados-la-media-sancion-a-la-reforma-de-la-carta-organica.webp",
+      "first_seen": "2026-09-10T23:02:49.702868+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/04690e50247a450c53977f1ac93975449f71f981.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Uno por uno, cómo votaron los diputados la media sanción a la reforma de la Carta Orgánica del Banco Central",
-          "url": "https://diarionecochea.com/2026/08/26/uno-por-uno-como-votaron-los-diputados-la-media-sancion-a-la-reforma-de-la-carta-organica-del-banco-central/",
+          "portal": "Necochea Digital",
+          "title": "Marcos Pereira se consagró campeón WKN en una histórica jornada del Necochea Fight Club",
+          "url": "https://necocheadigital.com/nota/119524/marcos-pereira-se-consagro-campeon-wkn-en-una-historica-jornada-del-necochea-fight-club/",
           "published_at": null,
           "category": null,
           "image": null
@@ -704,60 +745,10 @@
       ],
       "summary": {
         "paragraphs": [
-          "La Cámara de Diputados aprobó con 144 votos a favor la reforma de la Carta Orgánica del Banco Central, que ahora será analizada por el Senado, con un amplio respaldo de bloques oficialistas y oposición dividida. La Cámara de Diputados dio este miércoles media sanción al proyecto impulsado por el Gobierno de Javier Milei para reformar la Carta Orgánica del Banco Central. La iniciativa obtuvo 144 votos a favor, 102 en contra y 9 abstenciones y ahora deberá ser tratada por el Senado.",
-          "El proyecto establece como misión primaria y fundamental del Banco Central la preservación del valor de la moneda y plantea limitar fuertemente el financiamiento del Tesoro por parte de la autoridad monetaria. También propone prohibir los adelantos transitorios al Gobierno y la compra de títulos del Estado nacional en el mercado primario."
+          "La décima edición del Necochea Fight Club tuvo como gran protagonista a Marcos Pereira , quien se consagró campeón de la World Kickboxing Network (WKN) en una jornada que reunió a competidores de distintos puntos del país y convocó a una importante cantidad de público en el Polideportivo Municipal “Edgardo Hugo Yelpo” . El evento, organizado por Maximiliano Saravia , a través de Team Saravia y Saravia Promotions , tuvo como uno de sus principales atractivos la disputa por el cinturón WKN, uno de los títulos de mayor relevancia dentro del kickboxing.",
+          "Pereira se impuso en la pelea estelar, bajo las reglas K1 Rules , frente a Bautista Hernández , y consiguió quedarse con el campeonato ante la gente de Necochea. De esta manera, el cinturón quedó en manos de un representante local y la organización sumó uno de los momentos más importantes desde el inicio del Necochea Fight Club."
         ],
-        "generated": "2026-09-10T20:45:20.525634+00:00"
-      }
-    },
-    {
-      "key": "san cayetano abre inscripcion guardavidas temporada 2026 27",
-      "title": "San Cayetano abre la inscripción de guardavidas para la temporada 2026‑27",
-      "score": 1.2,
-      "sources_count": 1,
-      "first_seen": "2026-09-10T20:43:44.615290+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/municipalidad-san-cayetano-abre-inscripcion-guarda-c2kua-1.jpg",
-      "articles": [
-        {
-          "portal": "Diario Necochea",
-          "title": "San Cayetano abre la inscripción de guardavidas para la temporada 2026‑27",
-          "url": "https://diarionecochea.com/2026/09/08/san-cayetano-abre-inscripcion-de-guardavidas-para-temporada-2026-27/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El municipio abrió el registro para los profesionales interesados en cubrir las playas locales y el predio recreativo. La Municipalidad de San Cayetano abrió la inscripción para cubrir puestos de guardavidas en el Balneario San Cayetano durante la temporada 2026/27.",
-          "La convocatoria abarca la cobertura tanto en la costa como en el complejo recreativo “Aguas del Pinar”. Noticia relacionadas San Cayetano abrió una segunda licitación para alquilar locales y servicios en el balneario 10 de septiembre de 2026 Abren inscripción para sumar personal de enfermería en el Hospital Municipal de San Cayetano 10 de septiembre de 2026 El período de anotación permanecerá abierto desde hoy, lunes 7 de septiembre, hasta el viernes 16 de octubre."
-        ],
-        "generated": "2026-09-10T20:45:25.877051+00:00"
-      }
-    },
-    {
-      "key": "balearon lobo marino santa teresita murio dias despues infeccion",
-      "title": "Balearon a un lobo marino en Santa Teresita y murió días después por una infección",
-      "score": 1.2,
-      "sources_count": 1,
-      "first_seen": "2026-09-10T20:43:44.615290+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/lobo-marino-baleado.jpg",
-      "articles": [
-        {
-          "portal": "Diario Necochea",
-          "title": "Balearon a un lobo marino en Santa Teresita y murió días después por una infección",
-          "url": "https://diarionecochea.com/2026/09/02/balearon-a-un-lobo-marino-en-santa-teresita-y-murio-dias-despues-por-una-infeccion/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El animal, de casi 200 kilos, sufrió una fractura y una contusión pulmonar por el impacto de un proyectil. La infección de la herida provocó una sepsis fatal. El lobo marino de un pelo (Otaria flavescens) fue rescatado por el equipo de la Fundación Mundo Marino tras un aviso de la Fundación BioCosta, pero murió poco después de ingresar al Centro de Rescate.",
-          "Noticia relacionadas San Cayetano abrió una segunda licitación para alquilar locales y servicios en el balneario 10 de septiembre de 2026 Abren inscripción para sumar personal de enfermería en el Hospital Municipal de San Cayetano 10 de septiembre de 2026 El ejemplar permanecía prácticamente inmóvil, presentaba un marcado estado de decaimiento y apenas reaccionaba ante la presencia de personas. Los profesionales determinaron que atravesaba un cuadro crítico."
-        ],
-        "generated": "2026-09-10T20:45:34.848614+00:00"
+        "generated": "2026-09-10T23:03:49.504081+00:00"
       }
     }
   ]
