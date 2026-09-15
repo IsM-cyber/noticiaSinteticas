@@ -1,28 +1,69 @@
 {
-  "generated_at": "2026-09-15T17:36:45.798565+00:00",
-  "article_count": 175,
+  "generated_at": "2026-09-15T21:08:33.367163+00:00",
+  "article_count": 135,
   "fetch_errors": [],
   "stories": [
     {
-      "key": "salame necochea robar fiesta salame",
-      "title": "Fue desde Necochea a robar a la Fiesta del Salame Quintero",
-      "score": 2.875,
-      "sources_count": 2,
-      "first_seen": "2026-09-15T11:00:33+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/09/utilitario.webp",
+      "key": "estudiantes balcarce visitaron centro interpretacion puerto quequen",
+      "title": "Estudiantes de Balcarce visitaron el Centro de Interpretación de Puerto Quequén",
+      "score": 4.95,
+      "sources_count": 3,
+      "first_seen": "2026-09-15T17:46:14+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-15-at-14.37.46-1.webp",
       "articles": [
         {
           "portal": "TSN Necochea",
-          "title": "Fue desde Necochea a robar a la Fiesta del Salame Quintero",
-          "url": "https://tsnnecochea.com.ar/locales/fue-desde-necochea-a-robar-a-la-fiesta-del-salame-quintero-237094/",
-          "published_at": "2026-09-15T11:00:33+00:00",
-          "category": "delincuente",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/09/utilitario.webp"
+          "title": "Estudiantes de Balcarce visitaron el Centro de Interpretación de Puerto Quequén",
+          "url": "https://tsnnecochea.com.ar/generales/estudiantes-de-balcarce-visitaron-el-centro-de-interpretacion-de-puerto-quequen-237136/",
+          "published_at": "2026-09-15T17:46:14+00:00",
+          "category": "Balcarce",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-15-at-14.37.46-1.webp"
         },
         {
           "portal": "Necochea Digital",
-          "title": "Un salame: fue desde Necochea a robar a la Fiesta del Salame",
-          "url": "https://necocheadigital.com/nota/119601/un-salame-fue-desde-necochea-a-robar-a-la-fiesta-del-salame/",
+          "title": "Estudiantes de Balcarce visitaron el Centro de Interpretación de Puerto Quequén",
+          "url": "https://necocheadigital.com/nota/119606/estudiantes-de-balcarce-visitaron-el-centro-de-interpretacion-de-puerto-quequen/",
+          "published_at": null,
+          "category": null,
+          "image": null
+        },
+        {
+          "portal": "Necochea News",
+          "title": "Estudiantes de Balcarce visitaron el Centro de Interpretación de Puerto Quequén",
+          "url": "https://necocheanews.com.ar/estudiantes-de-balcarce-visitaron-el-centro-de-interpretacion-de-puerto-quequen/",
+          "published_at": "2026-09-15T20:07:20+00:00",
+          "category": "LOCALES",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Generales | Balcarce | Educación Estudiantes de Balcarce visitaron el Centro de Interpretación de Puerto Quequén 35 estudiantes pertenecientes al 3.º año de educación secundaria del Instituto “Santa Rosa de Lima” Por Redacción TSN 15/09/2026 · 02:46 PM Agregar TSN Necochea en El Consorcio de Gestión del Puerto de Quequén, bajo la presidencia del Dr. Mariano Carrillo, continúa impulsando actividades de articulación pedagógica e integración comunitaria en el marco del programa educativo impulsado desde la autoridad portuaria.",
+          "En esta oportunidad, personal del Consorcio recibió a un grupo de 35 estudiantes pertenecientes al 3.º año de educación secundaria del Instituto “Santa Rosa de Lima” de Balcarce ."
+        ],
+        "generated": "2026-09-15T21:08:45.758757+00:00"
+      }
+    },
+    {
+      "key": "recuperan necochea camioneta robada mar plata operativo policial",
+      "title": "Operativo policial en Necochea: recuperan una Renault Oroch robada en Mar del Plata",
+      "score": 2.875,
+      "sources_count": 2,
+      "first_seen": "2026-09-15T19:00:33+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-15-at-10.17.03.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Operativo policial en Necochea: recuperan una Renault Oroch robada en Mar del Plata",
+          "url": "https://tsnnecochea.com.ar/locales/operativo-policial-en-necochea-recuperan-una-renault-oroch-robada-en-mar-del-plata-237143/",
+          "published_at": "2026-09-15T19:00:33+00:00",
+          "category": "camioneta",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-15-at-10.17.03.webp"
+        },
+        {
+          "portal": "Necochea Digital",
+          "title": "Recuperaron en Necochea una Renault Oroch robada en Mar del Plata",
+          "url": "https://necocheadigital.com/nota/119610/recuperaron-en-necochea-una-renault-oroch-robada-en-mar-del-plata/",
           "published_at": null,
           "category": null,
           "image": null
@@ -30,10 +71,43 @@
       ],
       "summary": {
         "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Locales | delincuente | En Mercedes Fue desde Necochea a robar a la Fiesta del Salame Quintero Lo hacía con un inhibidor que le permitía burlar los mecanismos de cierre de vehículos estacionados. Lo atraparon el sábado en cercanías del Parque Independencia. Por Redacción TSN 15/09/2026 · 08:00 AM Agregar TSN Necochea en Se trata de un hombre de 45 años, Omar Alejandro Ucio, domiciliado en nuestra ciudad, quien fue aprehendido por la policía motorizada en Av.",
-          "29 y Héroes de Malvinas, de la ciudad de Mercedes, cuando se encontraba dentro de una camioneta Renault Kangoo chapa AE31 5KS. En esa localidad se estaba desarrollando la fiesta del Salame Quintero. Momentos antes, el delincuente había sustraído una rueda de auxilio de una Mercedes Benz Sprinter (chapa Al291) perteneciente a Federico Dicatarina Losada, de 35 años y vecino de nuestra ciudad."
+          "TSN Necochea | ‹ VOLVER | Locales | camioneta | Comisaría Primera Operativo policial en Necochea: recuperan una Renault Oroch robada en Mar del Plata El vehículo presentaba irregularidades en su dominio y, tras las verificaciones policiales, se estableció que tenía pedido de secuestro activo por robo automotor. Por Redacción TSN 15/09/2026 · 04:00 PM Agregar TSN Necochea en En el marco de las tareas de prevención desplegadas en la ciudad, efectivos del GTO de la Comisaría Primera de Necochea , con apoyo del Centro de Operaciones y Monitoreo Municipal (COM) Necochea, lograron recuperar un vehículo que registraba un pedido de secuestro activo por un robo automotor ocurrido en Mar del Plata.",
+          "El procedimiento se inició durante recorridas preventivas realizadas por personal policial, cuando se detectó en inmediaciones de calle 39 y calle 60 una Renault Oroch de color gris que presentaba irregularidades visibles en su dominio registral."
         ],
-        "generated": "2026-09-15T17:37:05.140446+00:00"
+        "generated": "2026-09-15T21:08:48.181351+00:00"
+      }
+    },
+    {
+      "key": "gargaglione declino posibilidad candidato intendente necochea",
+      "title": "Gargaglione declinó la posibilidad de ser candidato a intendente de Necochea",
+      "score": 2.875,
+      "sources_count": 2,
+      "first_seen": "2026-09-15T18:40:55+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/09/811501747_1739332940513380_6206609383232410977_n.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Gargaglione declinó la posibilidad de ser candidato a intendente de Necochea",
+          "url": "https://tsnnecochea.com.ar/locales/gargaglione-declino-la-posibilidad-de-ser-candidato-a-intendente-de-necochea-237147/",
+          "published_at": "2026-09-15T18:40:55+00:00",
+          "category": "Candidatoa",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/09/811501747_1739332940513380_6206609383232410977_n.webp"
+        },
+        {
+          "portal": "Necochea Digital",
+          "title": "Gargaglione declinó la posibilidad de ser candidato a intendente de Necochea",
+          "url": "https://necocheadigital.com/nota/119589/gargaglione-declino-la-posibilidad-de-ser-candidato-a-intendente-de-necochea/",
+          "published_at": null,
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Locales | Candidatoa | UCR Gargaglione declinó la posibilidad de ser candidato a intendente de Necochea Continuará su vida y militancia política en San Cayetano Por Redacción TSN 15/09/2026 · 03:40 PM Agregar TSN Necochea en El jefe comunal de San Cayetano , Miguel Gargaglione, descartó finalmente la posibilidad de competir por la Intendencia de Necochea. Cuestiones vinculadas a su salud y su edad estuvieron entre los motivos de la decisión.",
+          "La novela política que había comenzado a instalar la posibilidad de que Miguel Gargaglione, intendente de San Cayetano, pudiera ser candidato a intendente de Necochea, llegó este lunes a su capítulo final: el propio dirigente dijo que no."
+        ],
+        "generated": "2026-09-15T21:08:50.152733+00:00"
       }
     },
     {
@@ -66,7 +140,7 @@
           "Este sábado 19 de septiembre, de 14 a 18, Cruz Roja Argentina Filial Necochea realizará una jornada abierta a toda la comunidad en la Plaza Dardo Rocha. La actividad se desarrollará en el marco de la Semana de los Primeros Auxilios, la Colecta Anual de Cruz Roja Argentina y la proximidad del 42º aniversario de la filial local, que se cumplirá al día siguiente. Durante la jornada habrá diferentes propuestas prácticas para que vecinos y vecinas de todas las edades puedan incorporar herramientas básicas para actuar ante una emergencia.",
           "Entre ellas se encuentran prácticas de Reanimación Cardiopulmonar (RCP), maniobras de desobstrucción de la vía aérea y contenidos relacionados con el manejo de heridas y hemorragias. También habrá juegos para los más chicos y controles de tensión arterial, además de un espacio destinado a brindar información sobre las distintas actividades y proyectos que desarrolla Cruz Roja Necochea durante el año."
         ],
-        "generated": "2026-09-15T17:37:08.950019+00:00"
+        "generated": "2026-09-15T21:08:53.473606+00:00"
       }
     },
     {
@@ -99,7 +173,7 @@
           "La Selección femenina U17 de Necochea tuvo un fin de semana perfecto y se consagró campeona del Campeonato Zonal de Selecciones Juveniles, luego de superar a Olavarría por 68 a 44 en la final jugada este domingo en el Piso de Deportes del Club Rivadavia. Las representantes de la Asociación de Básquetbol Necochea (ABN) hicieron valer la localía y fueron superiores durante buena parte del encuentro decisivo, construyendo una victoria contundente ante su público. El conjunto conducido por Alberto Pastrello mostró un buen nivel colectivo y no dejó dudas a la hora de definir el título.",
           "El camino de Necochea hacia la consagración había comenzado el sábado por la tarde, con una victoria frente a la Selección de Mar del Plata en el debut del certamen. Luego, durante la mañana del domingo, el seleccionado tuvo fecha libre y quedó a la espera del partido que definiría al campeón."
         ],
-        "generated": "2026-09-15T17:37:12.698587+00:00"
+        "generated": "2026-09-15T21:08:57.075620+00:00"
       }
     },
     {
@@ -132,54 +206,46 @@
           "Un importante procedimiento realizado por personal del Grupo Técnico Operativo (GTO) de la Comisaría Primera de Necochea permitió secuestrar una camioneta que se encontraba vinculada a cuatro investigaciones por delitos contra la propiedad . El operativo se llevó adelante en el marco de tareas de prevención e investigación, cuando los efectivos detectaron estacionada en la vía pública una Jeep Renegade de color blanco , vehículo que había sido señalado como de interés en distintos hechos registrados en la zona.",
           "Al realizar las verificaciones correspondientes, los policías detectaron inconsistencias entre la numeración del dominio exhibido y los datos identificatorios del rodado . A partir de consultas en los sistemas informáticos policiales y de la verificación de los números de autopartes, se estableció que la camioneta tenía un pedido de secuestro activo , relacionado con una causa iniciada en el partido de Ituzaingó ."
         ],
-        "generated": "2026-09-15T17:37:17.917780+00:00"
+        "generated": "2026-09-15T21:09:00.430784+00:00"
       }
     },
     {
-      "key": "puerto quequen renueva sistema senalizacion maritima nueva torre baliza posterior",
-      "title": "Puerto Quequén renueva su sistema de señalización marítima con una nueva torre para la baliza posterior",
-      "score": 1.971,
-      "sources_count": 2,
-      "first_seen": "2026-09-15T11:42:18+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/09/1.jpg-scaled.webp",
+      "key": "peniel necochea celebraron dia escuelas evangelicas",
+      "title": "En Peniel Necochea celebraron el Día de las Escuelas Evangélicas",
+      "score": 1.156,
+      "sources_count": 1,
+      "first_seen": "2026-09-15T20:41:28+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/09/IMG_20260915_162103-scaled.webp",
       "articles": [
         {
           "portal": "TSN Necochea",
-          "title": "Puerto Quequén renueva su sistema de señalización marítima con una nueva torre para la baliza posterior",
-          "url": "https://tsnnecochea.com.ar/locales/puerto-quequen-renueva-su-sistema-de-senalizacion-maritima-con-una-nueva-torre-para-la-baliza-posterior-237087/",
-          "published_at": "2026-09-15T13:37:03+00:00",
-          "category": "baliza",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/09/1.jpg-scaled.webp"
-        },
-        {
-          "portal": "Necochea News",
-          "title": "Puerto Quequén renueva su sistema de señalización marítima con una nueva torre para la baliza posterior",
-          "url": "https://necocheanews.com.ar/puerto-quequen-renueva-su-sistema-de-senalizacion-maritima-con-una-nueva-torre-para-la-baliza-posterior/",
-          "published_at": "2026-09-15T11:42:18+00:00",
-          "category": "LOCALES",
-          "image": null
+          "title": "En Peniel Necochea celebraron el Día de las Escuelas Evangélicas",
+          "url": "https://tsnnecochea.com.ar/educacion/en-peniel-necochea-celebraron-el-dia-de-las-escuelas-evangelicas-237155/",
+          "published_at": "2026-09-15T20:41:28+00:00",
+          "category": "escuelas",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/09/IMG_20260915_162103-scaled.webp"
         }
       ],
       "summary": {
         "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Locales | baliza | Seguridad Puerto Quequén renueva su sistema de señalización marítima con una nueva torre para la baliza posterior La obra garantiza la seguridad operacional en el canal exterior de acceso y requirió la adecuación precisa del eje de enfilación náutica. Por Redacción TSN 15/09/2026 · 10:37 AM default Agregar TSN Necochea en El Consorcio de Gestión del Puerto Quequén presidido por el Dr.",
-          "Mariano Carrillo, concluyó la construcción y el montaje de una nueva torre metálica destinada a alojar la Baliza Posterior del eje de enfilación del canal exterior. Esta infraestructura resulta vital para la navegación diurna y nocturna, ya que materializa la guía indispensable para el ingreso y egreso seguro de todas las embarcaciones que operan en la estación marítima."
+          "TSN Necochea | ‹ VOLVER | Educación | escuelas | Educación En Peniel Necochea celebraron el Día de las Escuelas Evangélicas Se conmemora cada 15 de septiembre en Argentina. Por Redacción TSN 15/09/2026 · 05:41 PM Agregar TSN Necochea en Cada 15 de septiembre se celebra en Argentina el Día de las Escuelas Evangélicas , y por ese motivo en la Escuela Cristiana Peniel -única en Necochea- , este martes tuvieron una ceremonia especial.",
+          "En función de la fecha, la comunidad educativa de dicho establecimiento llevó adelante un acto para festejar este acontecimiento tan especial de la comunidad evangélica y traer a memoria los orígenes de dicha escolaridad en nuestro país. Durante la ceremonia realizada, se entonaron las estrofas del himno de las Escuelas Evangélicas y se vivaron los colores de la patria argentina."
         ],
-        "generated": "2026-09-15T17:37:19.244397+00:00"
+        "generated": "2026-09-15T21:09:03.998298+00:00"
       }
     },
     {
-      "key": "maniobra coincidencia tres rumores instalaron necochea generan interrogantes",
-      "title": "¿Maniobra o coincidencia?: tres rumores que se instalaron en Necochea generan interrogantes",
-      "score": 1.2,
+      "key": "boleto plano colectivo paso costar 900 martes",
+      "title": "El boleto plano de colectivo pasó a costar $1.900 desde este martes",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-09-15T17:36:45.798565+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/tres-rumores.jpg",
+      "first_seen": "2026-09-15T21:08:33.367163+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260915175508_01-02-foto-colectivos-festival.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "¿Maniobra o coincidencia?: tres rumores que se instalaron en Necochea generan interrogantes",
-          "url": "https://diarionecochea.com/2026/09/15/maniobra-o-coincidencia-tres-rumores-se-instalaron-en-necochea-generan-interrogantes/",
+          "portal": "Necochea Digital",
+          "title": "El boleto plano de colectivo pasó a costar $1.900 desde este martes",
+          "url": "https://necocheadigital.com/nota/119609/el-boleto-plano-de-colectivo-paso-a-costar-1-900-desde-este-martes/",
           "published_at": null,
           "category": null,
           "image": null
@@ -187,24 +253,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "Una sucesión de versiones sobre el poder local, movimientos electorales y eventos masivos comenzó a circular al mismo tiempo en la ciudad, despertando fuertes expectativas vecinales y abriendo interrogantes sobre el origen de estas versiones. En las últimas semanas, Necochea volvió a encontrarse con una serie de versiones que rápidamente despertaron expectativas entre los vecinos.",
-          "Algunas están relacionadas con la política, otras con el futuro de Puerto Quequén y una tercera con uno de los recitales más recordados de los últimos años. Son tres rumores diferentes que aparecieron prácticamente al mismo tiempo y que tienen un punto en común: generaron ilusión antes de que los hechos estuvieran completamente confirmados."
+          "Desde este martes 15 de septiembre comenzó a aplicarse en Necochea y Quequén el nuevo cuadro tarifario para el servicio de transporte urbano de pasajeros, dispuesto mediante el Decreto Nº 2209/26. La principal modificación corresponde a la tarifa plana, que pasó de $1.631 a $1.900. El nuevo valor representa un incremento de $269 respecto del precio que se venía abonando. El Boleto Obrero, por su parte, quedó establecido en $1.520, mientras que la Tarifa Social pasó a costar $1.002,95.",
+          "Los nuevos valores comenzaron a aplicarse desde las 12 y alcanzan al servicio prestado por la Compañía de Transportes Necochea S.A. La actualización también contempla el esquema correspondiente a la Tarifa Social. Según lo establecido en la Resolución Nº 40/2026, para calcular el descuento se toman como referencia las tarifas vigentes en cada jurisdicción al 30 de junio de 2026, siempre que en esa fecha hayan sido comunicadas a Nación Servicios S.A."
         ],
-        "generated": "2026-09-15T17:37:26.552532+00:00"
+        "generated": "2026-09-15T21:09:04.754455+00:00"
       }
     },
     {
-      "key": "empresa bahiense evalua operar colectivos senala calles tierra rompen micros",
-      "title": "Una empresa bahiense evalúa operar los colectivos pero señala que las calles de tierra rompen los micros",
-      "score": 1.2,
+      "key": "renga airbag divididos ciro necochea prepara verano puro rock",
+      "title": "La Renga, Airbag, Divididos y Ciro: Necochea prepara un verano a puro rock",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-09-15T17:36:45.798565+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/06/colectivo-micro-transporte.webp",
+      "first_seen": "2026-09-15T21:08:33.367163+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/cf69cbf3bbed6222f948982881cd8c7bf78eb23f.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Una empresa bahiense evalúa operar los colectivos pero señala que las calles de tierra rompen los micros",
-          "url": "https://diarionecochea.com/2026/09/15/una-empresa-bahiense-evalua-operar-los-colectivos-pero-senala-que-las-calles-de-tierra-rompen-los-micros/",
+          "portal": "Necochea Digital",
+          "title": "La Renga, Airbag, Divididos y Ciro: Necochea prepara un verano a puro rock",
+          "url": "https://necocheadigital.com/nota/119608/la-renga-airbag-divididos-y-ciro-necochea-prepara-un-verano-a-puro-rock/",
           "published_at": null,
           "category": null,
           "image": null
@@ -212,24 +278,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "Tras reunirse con la Comisión de Transporte, el apoderado de Monte Baldo S.R.L. analizó la viabilidad económica del sistema local y señaló que las arterias sin asfaltar elevan fuertemente los costos de mantenimiento.",
-          "El cuerpo deliberativo local llevó adelante una reunión de la Comisión de Transporte para avanzar en las definiciones operativas del servicio público de colectivos en la ciudad . Noticia relacionadas ¿Maniobra o coincidencia?: tres rumores que se instalaron en Necochea generan interrogantes 15 de septiembre de 2026 Reemplazan una antigua baliza por una nueva estructura en Puerto Quequén 15 de septiembre de 2026 El encuentro contó con la participación de autoridades municipales de transporte y, mediante videoconferencia, del apoderado de la empresa Monte Baldo S.R.L., una firma radicada en Bahía Blanca que se encuentra interesada en interiorizarse sobre la prestación del sistema de pasajeros en el distrito ."
+          "Necochea podría vivir otro verano con recitales masivos . Según fuentes vinculadas a la organización de eventos, La Renga regresaría a la ciudad en la segunda quincena de enero de 2027 , nuevamente en la pista de atletismo del Polideportivo Municipal. La banda de Gustavo “Chizzo” Napoli ya convocó a más de 30.000 personas en su última presentación en la ciudad, el 28 de diciembre de 2024.",
+          "A ese posible regreso se suman otros nombres fuertes que aparecen en el armado de la agenda: Airbag, El Plan de la Mariposa, Divididos y Ciro y Los Persas . Por el momento, La Renga es el espectáculo que tendría mayor grado de avance , mientras que el resto de los artistas mencionados son posibilidades que todavía requieren confirmación oficial. El objetivo sería volver a convertir a Necochea en escenario de grandes recitales al aire libre durante el verano , con una programación capaz de generar importantes convocatorias y movimiento turístico."
         ],
-        "generated": "2026-09-15T17:37:29.404539+00:00"
+        "generated": "2026-09-15T21:09:05.459704+00:00"
       }
     },
     {
-      "key": "reemplazan antigua baliza nueva estructura puerto quequen",
-      "title": "Reemplazan una antigua baliza por una nueva estructura en Puerto Quequén",
-      "score": 1.2,
+      "key": "sub 17 basquet necochea busca apoyo llegar provincial monton dinero tenemos juntar",
+      "title": "La Sub 17 de básquet de Necochea busca apoyo para llegar al Provincial: “Es un montón de dinero el que tenemos que juntar”",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-09-15T17:36:45.798565+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/reemplazan-una-antigua-baliza-por-una-nueva-estructura-en-puerto-quequen.webp",
+      "first_seen": "2026-09-15T21:08:33.367163+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260915173150_whatsapp-image-2026-09-15-at-17-11-02.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Reemplazan una antigua baliza por una nueva estructura en Puerto Quequén",
-          "url": "https://diarionecochea.com/2026/09/15/reemplazan-una-antigua-baliza-por-una-nueva-estructura-en-puerto-quequen/",
+          "portal": "Necochea Digital",
+          "title": "La Sub 17 de básquet de Necochea busca apoyo para llegar al Provincial: “Es un montón de dinero el que tenemos que juntar”",
+          "url": "https://necocheadigital.com/nota/119607/la-sub-17-de-basquet-de-necochea-busca-apoyo-para-llegar-al-provincial-es-un-monton-de-dinero-el-que-tenemos-que-juntar/",
           "published_at": null,
           "category": null,
           "image": null
@@ -237,24 +303,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "Ante el próximo desmantelamiento de la estructura donde funcionaba la señal, la obra se completó en terrenos del Consorcio para mantener la navegación segura de las embarcaciones durante las 24 horas. El Consorcio de Gestión del Puerto Quequén presidido por el Dr.",
-          "Mariano Carrillo, concluyó la construcción y el montaje de una nueva torre metálica destinada a alojar la Baliza Posterior del eje de enfilación del canal exterior. Esta infraestructura resulta vital para la navegación diurna y nocturna, ya que materializa la guía indispensable para el ingreso y egreso seguro de todas las embarcaciones que operan en la estación marítima."
+          "La Selección Sub 17 masculina de básquet de Necochea atraviesa un momento histórico. Luego de consagrarse campeona del torneo zonal y conseguir por primera vez la clasificación de la categoría masculina al Provincial , ahora el desafío es reunir los fondos necesarios para poder disputar la competencia, que está prevista del 9 al 12 de octubre en Mar del Plata . En diálogo con Quimey Marfil, por Radio Noticias Necochea 97.3 , Natalia Gallina , mamá de Owen Álvarez, uno de los integrantes del equipo, contó cómo se organizan las familias para afrontar los gastos y lanzó una convocatoria a empresas, comercios y vecinos.",
+          "“ Es indescriptible realmente ”, expresó Gallina al referirse al logro conseguido por los chicos. Y destacó que “ es la primera vez que categoría Sub 17 masculina consigue el paso al Provincial."
         ],
-        "generated": "2026-09-15T17:37:31.060847+00:00"
+        "generated": "2026-09-15T21:09:06.290529+00:00"
       }
     },
     {
-      "key": "como estara clima lunes necochea quequen",
-      "title": "Cómo estará el clima este martes en Necochea y Quequén",
-      "score": 1.2,
+      "key": "incendio carpinteria calle 65 hombre debio trasladado hospital",
+      "title": "Se incendió una carpintería en calle 65 y un hombre debió ser trasladado al hospital",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-09-15T17:36:45.798565+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/05/parque-clima-miguel-lillo.webp",
+      "first_seen": "2026-09-15T21:08:33.367163+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260915120424_whatsapp-image-2026-09-15-at-12-04-13.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Cómo estará el clima este martes en Necochea y Quequén",
-          "url": "https://diarionecochea.com/2026/09/15/como-estara-el-clima-este-martes-en-necochea-y-quequen-146/",
+          "portal": "Necochea Digital",
+          "title": "Se incendió una carpintería en calle 65 y un hombre debió ser trasladado al hospital",
+          "url": "https://necocheadigital.com/nota/119604/se-incendio-una-carpinteria-en-calle-65-y-un-hombre-debio-ser-trasladado-al-hospital/",
           "published_at": null,
           "category": null,
           "image": null
@@ -262,24 +328,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "El Servicio Meteorológico Nacional (SMN) pronosticó para este martes en Necochea y Quequén una jornada con chaparrones, una temperatura máxima de 10° y una mínima de 5°. Para la mañana , se espera chaparrones. La temperatura rondará los 7° y la probabilidad de precipitaciones será del 10 - 40%, según datos del SMN.",
-          "El viento soplará desde s a una velocidad de entre 32 - 41 kilómetros por hora. Noticia relacionadas ¿Maniobra o coincidencia?: tres rumores que se instalaron en Necochea generan interrogantes 15 de septiembre de 2026 Una empresa bahiense evalúa operar los colectivos pero señala que las calles de tierra rompen los micros 15 de septiembre de 2026 Por su parte, hacia la tarde y entrando la noche , el cielo estará mayormente nublado. La temperatura alcanzará los 10° mientras que el porcentaje de precipitaciones será del 0 - 10%, mencionó el parte oficial."
+          "Un incendio se registró este martes por la mañana en una carpintería ubicada en calle 65 entre 62 y 64. Según las primeras informaciones, el fuego se habría iniciado a raíz de una salamandra que se encontraba en el fondo del establecimiento y rápidamente avanzó por el interior del lugar, generando una importante presencia de humo. Como consecuencia del incendio, un hombre mayor habría inhalado humo y quedado inconsciente. Fue asistido en el lugar por personal de Defensa Civil y posteriormente trasladado en una ambulancia al Hospital Municipal Emilio Ferreyra para recibir atención médica.",
+          "De acuerdo con las primeras informaciones, no habría presentado complicaciones mayores. En el lugar trabajó personal de Bomberos, que intervino para controlar el fuego y determinar las circunstancias en las que se originó. También participaron efectivos de la Policía y personal de Tránsito."
         ],
-        "generated": "2026-09-15T17:37:34.451101+00:00"
+        "generated": "2026-09-15T21:09:06.979796+00:00"
       }
     },
     {
-      "key": "crearon comite lactancia fortalecer atencion primera infancia distrito",
-      "title": "Crearon el Comité de Lactancia para fortalecer la atención de la primera infancia en el distrito",
-      "score": 1.2,
+      "key": "bomberos voluntarios dulce alerta",
+      "title": "Bomberos Voluntarios de La Dulce en alerta",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-09-15T17:36:45.798565+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/primer-encuentro-comite-lactancia-necochea-define-wv63i-1.jpg",
+      "first_seen": "2026-09-15T21:08:33.367163+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260915115313_bomberos-de-la-dulce-cumplen-40-anos.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Crearon el Comité de Lactancia para fortalecer la atención de la primera infancia en el distrito",
-          "url": "https://diarionecochea.com/2026/09/14/crearon-el-comite-de-lactancia-para-fortalecer-la-atencion-de-la-primera-infancia-en-el-distrito/",
+          "portal": "Necochea Digital",
+          "title": "Bomberos Voluntarios de La Dulce en alerta",
+          "url": "https://necocheadigital.com/nota/119603/bomberos-voluntarios-de-la-dulce-en-alerta/",
           "published_at": null,
           "category": null,
           "image": null
@@ -287,24 +353,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "Autoridades e instituciones concretaron la primera reunión organizativa en el Hospital Modular para nombrar referentes e impulsar el acompañamiento integral de las familias en centros de salud y espacios comunitarios.",
-          "Se llevó a cabo con éxito el primer encuentro para la conformación del Comité de Lactancia de Necochea, un espacio interdisciplinario e intersectorial que busca fortalecer la promoción, protección y acompañamiento de la lactancia humana en el distrito."
+          "El Jefe del Cuerpo Activo de Bomberos Voluntarios de La Dulce, Adrián López, mantuvo un diálogo con el periodista Horacio Castelli en el que visibilizó la crítica situación económica que atraviesa la institución ante la falta de cobro de los subsidios otorgados por el Gobierno Nacional. López detalló que la falta de acreditación de estos fondos —a los que se suma un saldo adeudado del año pasado— complica gravemente la operatividad diaria y el mantenimiento del equipamiento indispensable para atender las emergencias.",
+          "Subsidios demorados y costos en alza «El pago del subsidio nacional todavía hay muchísimos cuarteles que no lo hemos cobrado, más un remanente del año 2025. Todo esto es fundamental para la conservación de nuestros elementos y para la prestación de los servicios», explicó el jefe del cuartel."
         ],
-        "generated": "2026-09-15T17:37:39.096963+00:00"
+        "generated": "2026-09-15T21:09:08.254584+00:00"
       }
     },
     {
-      "key": "estrella sud colectivo conecto necochea san cayetano dulce santamarina",
-      "title": "Estrella del Sud: el colectivo que conectó a Necochea con San Cayetano, La Dulce y Santamarina",
-      "score": 1.2,
+      "key": "continua instalacion nuevo alumbrado publico quequen",
+      "title": "Continúa la instalación de nuevo alumbrado público en Quequén",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-09-15T17:36:45.798565+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/estrella-del-sud-el-colectivo-que-conecto-a-necochea-con-san-cayetano-la-dulce-y-santamari-1.webp",
+      "first_seen": "2026-09-15T21:08:33.367163+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260915114722_15-09-foto-luminarias-quequen3.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Estrella del Sud: el colectivo que conectó a Necochea con San Cayetano, La Dulce y Santamarina",
-          "url": "https://diarionecochea.com/2026/09/13/estrella-del-sud-el-colectivo-que-conecto-a-necochea-con-san-cayetano-la-dulce-y-santamarina/",
+          "portal": "Necochea Digital",
+          "title": "Continúa la instalación de nuevo alumbrado público en Quequén",
+          "url": "https://necocheadigital.com/nota/119602/continua-la-instalacion-de-nuevo-alumbrado-publico-en-quequen/",
           "published_at": null,
           "category": null,
           "image": null
@@ -312,24 +378,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "El servicio comenzó en 1938 y con el paso de los años atravesó distintos dueños, cambios administrativos y una nueva denominación antes de llegar a su última etapa. Una antigua fotografía permite volver sobre la historia de la Estrella del Sud, una línea que durante décadas conectó Necochea con San Cayetano y distintos pueblos del interior bonaerense.",
-          "Noticia relacionadas ¿Maniobra o coincidencia?: tres rumores que se instalaron en Necochea generan interrogantes 15 de septiembre de 2026 Una empresa bahiense evalúa operar los colectivos pero señala que las calles de tierra rompen los micros 15 de septiembre de 2026 Una vieja imagen del transporte de pasajeros de Necochea permite recuperar la historia de la Estrella del Sud, una empresa que fue parte de la red de colectivos que comunicó a nuestra ciudad con distintas localidades de la región."
+          "En las últimas horas, los trabajos se concentraron en calle 557, entre 580 y 584 , donde se colocaron artefactos LED de 150 watts. La intervención permite mejorar la visibilidad y seguridad de un corredor utilizado por vecinos de calle 584, en el barrio Raiser. Los trabajos se realizan en conjunto con la Usina Popular Cooperativa (UPC) y forman parte del plan que el Municipio lleva adelante con recursos propios, a partir de las necesidades detectadas y los reclamos registrados desde comienzos de año.",
+          "El operativo contempla también la colocación de luminarias sobre la misma calle 557, desde avenida Lobería hasta 584; la extensión de la iluminación por calle 584 hacia 569 y los trabajos realizados sobre calle 580, entre 557 y 563 . Además, se realizan tareas sobre las calles 559, 561, 563, 565 y 567, entre 584 y 586."
         ],
-        "generated": "2026-09-15T17:37:47.865154+00:00"
+        "generated": "2026-09-15T21:09:08.954049+00:00"
       }
     },
     {
-      "key": "recuperan necochea camioneta robada mar plata operativo policial",
-      "title": "Recuperan en Necochea una camioneta robada en Mar del Plata durante operativo policial",
-      "score": 1.2,
+      "key": "ate pidio informes salud milei quiere saber apto gobernar",
+      "title": "ATE pidió informes sobre la salud de Milei y quiere saber si está apto para gobernar",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-09-15T17:36:45.798565+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/recuperan-renault-oroch-robada-mar-plata-durante-o-uzfiz-1.jpg",
+      "first_seen": "2026-09-15T21:08:33.367163+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/205909142308405ef6826ea71ff12f5ab5ed14b2.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Recuperan en Necochea una camioneta robada en Mar del Plata durante operativo policial",
-          "url": "https://diarionecochea.com/2026/09/15/recuperan-en-necochea-una-camioneta-robada-en-mar-del-plata-durante-operativo-policial/",
+          "portal": "Necochea Digital",
+          "title": "ATE pidió informes sobre la salud de Milei y quiere saber si está apto para gobernar",
+          "url": "https://necocheadigital.com/nota/119599/ate-pidio-informes-sobre-la-salud-de-milei-y-quiere-saber-si-esta-apto-para-gobernar/",
           "published_at": null,
           "category": null,
           "image": null
@@ -337,24 +403,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "Policías de la Comisaría Primera y el COM Necochea detectaron irregularidades en el dominio del vehículo durante patrullajes. El joven de 18 años fue arrestado por encubrimiento y el automóvil quedó bajo secuestro judicial.",
-          "El procedimiento fue realizado por efectivos del GTO de la Comisaría Primera, con el aporte del Centro de Operaciones y Monitoreo Municipal (COM) Necochea. El vehículo presentaba irregularidades en su dominio y, tras las verificaciones policiales , se estableció que tenía pedido de secuestro activo por robo automotor."
+          "La Asociación de Trabajadores del Estado (ATE) , conducida por Rodolfo Aguiar , presentó un pedido de acceso a la información pública dirigido a Presidencia de la Nación y la Jefatura de Gabinete para conocer si el presidente Javier Milei fue sometido a algún tipo de evaluación que determine su aptitud para ejercer el cargo. La presentación solicita específicamente que el Gobierno informe si existe “ algún examen, junta médica, certificado, dictamen o protocolo que haya evaluado su aptitud psicofísica y/o psíquica ”.",
+          "Desde el sindicato aclararon que el objetivo no es acceder a la historia clínica ni a diagnósticos médicos privados, sino conocer exclusivamente si existe una evaluación oficial y cuál fue su resultado en términos de “apto” o “no apto” . Los antecedentes que menciona ATE El pedido presentado por ATE enumera distintas declaraciones públicas que, según el gremio, motivaron la solicitud."
         ],
-        "generated": "2026-09-15T17:38:03.587470+00:00"
+        "generated": "2026-09-15T21:09:09.663194+00:00"
       }
     },
     {
-      "key": "asaltaron kiosco calle 38 escaparon dinero chocolates celular",
-      "title": "Asaltaron un kiosco en calle 38 y escaparon con dinero, chocolates y un celular",
-      "score": 1.2,
+      "key": "arai leoz gano uruguay sumo otra victoria internacional carrera",
+      "title": "Araí Leoz ganó en Uruguay y sumó otra victoria internacional a su carrera",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-09-15T17:36:45.798565+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/03/patrulla-centro-policia.jpg",
+      "first_seen": "2026-09-15T21:08:33.367163+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260914121136_71fc47f4-6219-4e91-b5df-b6a4855641b4.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Asaltaron un kiosco en calle 38 y escaparon con dinero, chocolates y un celular",
-          "url": "https://diarionecochea.com/2026/09/14/asaltaron-un-kiosco-en-calle-38-y-escaparon-con-dinero-chocolates-y-un-celular/",
+          "portal": "Necochea Digital",
+          "title": "Araí Leoz ganó en Uruguay y sumó otra victoria internacional a su carrera",
+          "url": "https://necocheadigital.com/nota/119595/arai-leoz-gano-en-uruguay-y-sumo-otra-victoria-internacional-a-su-carrera/",
           "published_at": null,
           "category": null,
           "image": null
@@ -362,24 +428,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "Dos hombres en moto llegaron pasadas las 14, donde uno bajó armado, exigió unos $60.000 junto a otros objetos y huyó a pie vistiendo ropa negra con capucha. Un delincuente armado robó unos $60.000 en efectivo, golosinas y un teléfono celular tras asaltar un comercio de la calle 38 al 3718, en un hecho ocurrido minutos después de las 14 de este lunes.",
-          "El asaltante concretó el robo de manera rápida y huyó a pie del lugar, sin que se pudiera determinar el rumbo que tomó para escapar. Noticia relacionadas Recuperan en Necochea una camioneta robada en Mar del Plata durante operativo policial 15 de septiembre de 2026 Un incendio afectó una vivienda y una carpintería en la zona céntrica 15 de septiembre de 2026 El episodio se registró en el local con la firma Costumbres Argentinas, hasta donde llegaron dos hombres a bordo de una motocicleta."
+          "Araí Leoz volvió a subirse al ring y consiguió una nueva victoria internacional. La boxeadora necochense derrotó por decisión de los jueces a la uruguaya Daniela Telis, en un combate pactado a seis rounds de la categoría mosca que se desarrolló en Ciudad de la Costa, Uruguay. La pelea tuvo lugar en el Gimnasio Alexandre Team, donde la representante de Necochea Box enfrentó a una rival local con experiencia, que además regresaba a los cuadriláteros después de un período de inactividad.",
+          "Leoz logró imponerse a lo largo de los seis asaltos y las tarjetas determinaron su victoria por puntos, sumando así un nuevo triunfo fuera del país y otro paso en su carrera profesional. Con este resultado, la boxeadora necochense elevó su récord a siete victorias, una derrota y ningún empate, con dos triunfos conseguidos por nocaut. Antes del combate en Uruguay, su registro era de seis victorias y una derrota, con dos definiciones antes del límite."
         ],
-        "generated": "2026-09-15T17:38:05.161486+00:00"
+        "generated": "2026-09-15T21:09:10.923866+00:00"
       }
     },
     {
-      "key": "violento choque termino vehiculo arriba vereda avenida 59 30",
-      "title": "Un violento choque terminó con un vehículo arriba de la vereda en Avenida 59 y 30",
-      "score": 1.2,
+      "key": "todos agua continua celebracion 10 anos proximo fin semana organizara torneo nacional",
+      "title": "«Todos al Agua» continúa la celebración de sus 10 años y el próximo fin de semana organizará el 8° Torneo Nacional",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-09-15T17:36:45.798565+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/choque-59-30-2.jpg",
+      "first_seen": "2026-09-15T21:08:33.367163+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260914113735_foto-nacional-todos-al-agua-25-2.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Un violento choque terminó con un vehículo arriba de la vereda en Avenida 59 y 30",
-          "url": "https://diarionecochea.com/2026/09/14/un-violento-choque-termino-con-un-vehiculo-arriba-de-la-vereda-en-avenida-59-y-30/",
+          "portal": "Necochea Digital",
+          "title": "«Todos al Agua» continúa la celebración de sus 10 años y el próximo fin de semana organizará el 8° Torneo Nacional",
+          "url": "https://necocheadigital.com/nota/119588/laquo-todos-al-agua-raquo-continua-la-celebracion-de-sus-10-anos-y-el-proximo-fin-de-semana-organizara-el-8-deg-torneo-nacional/",
           "published_at": null,
           "category": null,
           "image": null
@@ -387,24 +453,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "Un Chevrolet Corsa con dos ocupantes impactó contra un Chevrolet Cobalt, requiriendo la asistencia de una ambulancia para una acompañante y la intervención de Tránsito, Defensa Civil y Científica. Dos vehículos colisionaron en la intersección de la Avenida 59 y la calle 30. El siniestro vial tuvo como protagonistas a un Chevrolet Corsa y a un Chevrolet Cobalt.",
-          "El Chevrolet Corsa era conducido por un hombre de aproximadamente 43 años, quien iba acompañado por una mujer de unos 48 años. Debido a la colisión, la ocupante debió recibir atención médica en el lugar por parte de una ambulancia. Noticia relacionadas Recuperan en Necochea una camioneta robada en Mar del Plata durante operativo policial 15 de septiembre de 2026 Un incendio afectó una vivienda y una carpintería en la zona céntrica 15 de septiembre de 2026 Por su parte, al volante del Chevrolet Cobalt se desplazaba un hombre de unos 51 años."
+          "Una década de inclusión a través del deporte y un nuevo desafío por delante. La Escuela Municipal de Natación Adaptada “Todos al Agua” continúa celebrando sus 10 años de trayectoria y lo hará el fin de semana venidero con una nueva edición de uno de los encuentros que ya se convirtió en un clásico: el 8° Torneo Nacional de Natación Adaptada.",
+          "La competencia se desarrollará el sábado 19 y domingo 20 de septiembre en el Natatorio del Gimnasio Palestra, ubicado en calle 55 N° 2765 , con la organización de la Dirección de Deportes y Recreación de la Municipalidad de Necochea y la Asociación Civil “Todos al Agua”, que respalda al programa de natación adaptada que coordina el Prof. Marcos Bertone desde sus orígenes."
         ],
-        "generated": "2026-09-15T17:38:06.603778+00:00"
+        "generated": "2026-09-15T21:09:12.120598+00:00"
       }
     },
     {
-      "key": "agredio efectivos cano cuchillo llamado 911 gritos",
-      "title": "Agredió a los efectivos con un caño y un cuchillo tras un llamado al 911 por gritos",
-      "score": 1.2,
+      "key": "puerto quequen renovo sistema senalizacion maritima",
+      "title": "Puerto Quequén renovó su sistema de señalización marítima",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-09-15T17:36:45.798565+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/agredio-a-los-efectivos-con-un-cano-y-un-cuchillo-tras-un-llamado-al-911-por-gritos.webp",
+      "first_seen": "2026-09-15T21:08:33.367163+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/0d54c76118afa6ce7307c4c027d08c0076a93997.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Agredió a los efectivos con un caño y un cuchillo tras un llamado al 911 por gritos",
-          "url": "https://diarionecochea.com/2026/09/14/agredio-a-los-efectivos-con-un-cano-y-un-cuchillo-tras-un-llamado-al-911-por-gritos/",
+          "portal": "Necochea Digital",
+          "title": "Puerto Quequén renovó su sistema de señalización marítima",
+          "url": "https://necocheadigital.com/nota/119600/puerto-quequen-renovo-su-sistema-de-senalizacion-maritima/",
           "published_at": null,
           "category": null,
           "image": null
@@ -412,24 +478,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "Salió de la vivienda argumentando incidentes en lo de un vecino, pero repentinamente atacó a la patrulla con un objeto de metal y obligó a los agentes a tomar distancia preventiva. Un hombre de 44 años fue aprehendido durante la madrugada luego de protagonizar un violento episodio en una vivienda de Necochea y atacar a efectivos policiales con un caño tubular y un cuchillo.",
-          "Noticia relacionadas Recuperan en Necochea una camioneta robada en Mar del Plata durante operativo policial 15 de septiembre de 2026 Un incendio afectó una vivienda y una carpintería en la zona céntrica 15 de septiembre de 2026 El hecho se inició alrededor de las 6 de la mañana, cuando personal policial acudió a un domicilio tras un llamado al 911 que alertaba sobre gritos provenientes del lugar. Al arribar, los efectivos observaron a un hombre que salió desde el interior del inmueble y manifestó haber escuchado ruidos provenientes de una vivienda lindera."
+          "El Consorcio de Gestión de Puerto Quequén , presidido por Mariano Carrillo , finalizó la construcción y montaje de una nueva torre metálica destinada a la Baliza Posterior del eje de enfilación del canal exterior . La obra fue necesaria ante el próximo desmantelamiento de la estructura de la Central Termoeléctrica donde funcionaba históricamente esa señal.",
+          "La nueva torre, emplazada en terrenos del Consorcio próximos a Diagonal Norte y el predio de la central , tiene 35 metros de altura y permitirá mantener la referencia necesaria para el ingreso y egreso seguro de las embarcaciones, tanto durante el día como por la noche. También se trasladó una baliza en la Escollera Sur Para conservar la alineación exacta del canal navegable, también fue necesario trasladar aproximadamente 33 metros la Baliza Anterior , ubicada en la Escollera Sur."
         ],
-        "generated": "2026-09-15T17:38:08.179021+00:00"
+        "generated": "2026-09-15T21:09:12.801712+00:00"
       }
     },
     {
-      "key": "hallaron necochea camioneta robada ituzaingo patentes falsas",
-      "title": "Hallaron en Necochea una camioneta robada en Ituzaingó con patentes falsas",
-      "score": 1.2,
+      "key": "banco provincia lanzo plan comprar autos km usados 72 cuotas",
+      "title": "El Banco Provincia lanzó un plan para comprar autos 0 km o usados hasta en 72 cuotas",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-09-15T17:36:45.798565+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/hallaron-en-necochea-una-camioneta-robada-en-ituzaingo-con-patentes-falsas.webp",
+      "first_seen": "2026-09-15T21:08:33.367163+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260914182206_descarga.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Hallaron en Necochea una camioneta robada en Ituzaingó con patentes falsas",
-          "url": "https://diarionecochea.com/2026/09/14/hallaron-en-necochea-una-camioneta-robada-en-ituzaingo-con-patentes-falsas/",
+          "portal": "Necochea Digital",
+          "title": "El Banco Provincia lanzó un plan para comprar autos 0 km o usados hasta en 72 cuotas",
+          "url": "https://necocheadigital.com/nota/119598/el-banco-provincia-lanzo-un-plan-para-comprar-autos-0-km-o-usados-hasta-en-72-cuotas/",
           "published_at": null,
           "category": null,
           "image": null
@@ -437,24 +503,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "Efectivos del Comando de Patrullas la detectaron estacionada, constataron irregularidades en la chapa dominio y confirmaron que la utilizaban delincuentes para cometer robos agravados en viviendas de la zona.",
-          "Un importante procedimiento desarrollado por personal del GTO de la Comisaría Primera de Necochea permitió secuestrar una camioneta que se encontraba vinculada a cuatro investigaciones por delitos contra la propiedad, entre ellas un violento robo agravado con privación ilegal de la libertad."
+          "El Banco Provincia lanzó una nueva línea de préstamos para la compra de autos 0 km y usados , que permite financiar hasta el 100% de la operación con un tope de 50 millones de pesos. La gestión se realiza en concesionarias adheridas y la aceptación final se confirma de forma digital desde Cuenta DNI o Home Banking BIP. El producto, denominado Préstamo Acá Tu Auto , ofrece dos alternativas: créditos ajustados por UVA, con una tasa que parte de UVA + 6% nominal anual, y préstamos tradicionales a tasa fija desde 55% nominal anual.",
+          "La propuesta está dirigida a clientes de la entidad que superen la evaluación crediticia. El monto mínimo es de $100 mil y el máximo alcanza los $50 millones , de acuerdo con las condiciones vigentes y el perfil de cada solicitante. El mecanismo contempla una instancia previa en el punto de venta: allí, la persona interesada recibe una propuesta ajustada a las condiciones de la operación y a su situación crediticia."
         ],
-        "generated": "2026-09-15T17:38:09.756714+00:00"
+        "generated": "2026-09-15T21:09:13.529231+00:00"
       }
     },
     {
-      "key": "intento robar casa escapo techos detuvieron",
-      "title": "Intentó robar en una casa, escapó por los techos y lo detuvieron",
-      "score": 1.2,
+      "key": "retomo obra casa provincia necochea alcanza 65 avance",
+      "title": "Se retomó la obra de la Casa de la Provincia en Necochea y ya alcanza un 65% de avance",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-09-15T17:36:45.798565+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/intento-robar-en-una-casa-escapo-por-los-techos-y-lo-detuvieron-a-las-pocas-cuadras.webp",
+      "first_seen": "2026-09-15T21:08:33.367163+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/d769ae8e2423d36ce2982263f821dd8eae04bfad.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Intentó robar en una casa, escapó por los techos y lo detuvieron",
-          "url": "https://diarionecochea.com/2026/09/14/intento-robar-en-una-casa-escapo-por-los-techos-y-lo-detuvieron/",
+          "portal": "Necochea Digital",
+          "title": "Se retomó la obra de la Casa de la Provincia en Necochea y ya alcanza un 65% de avance",
+          "url": "https://necocheadigital.com/nota/119592/se-retomo-la-obra-de-la-casa-de-la-provincia-en-necochea-y-ya-alcanza-un-65-de-avance/",
           "published_at": null,
           "category": null,
           "image": null
@@ -462,24 +528,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "Luego de violentar el acceso de la vivienda, el delincuente escapó corriendo por las chapas de los vecinos y tiró a los pocos metros un secador de pelo junto al arma blanca. Personal del Comando de Patrullas, tras un alerta recibido a través del CATE 911, logró aprehender a un joven de 18 años acusado de ingresar a una vivienda con fines de robo y escapar por los techos.",
-          "Noticia relacionadas Recuperan en Necochea una camioneta robada en Mar del Plata durante operativo policial 15 de septiembre de 2026 Un incendio afectó una vivienda y una carpintería en la zona céntrica 15 de septiembre de 2026 El hecho se registró en un domicilio de calle 70, donde un vecino que se encontraba al cuidado de la finca alertó a las autoridades luego de escuchar un fuerte estruendo y observar a un sujeto masculino desplazándose por los techos."
+          "Después de varios meses de paralización, se retomaron los trabajos en la construcción de la Casa de la Provincia de Buenos Aires en Necochea. El edificio, ubicado en avenida 58 entre 43 y 47, presenta actualmente un avance estimado del 65 por ciento y atraviesa una etapa enfocada principalmente en las tareas exteriores y las terminaciones. Las cuadrillas volvieron a trabajar en el predio con el objetivo de avanzar sobre distintos sectores de la obra.",
+          "En el exterior, las tareas actuales incluyen la colocación de pisos, el pavimento articulado, la construcción del acceso principal y una rampa de accesibilidad. En el interior, ya fue completada la instalación eléctrica correspondiente al servicio trifásico, mientras que las instalaciones eléctricas y sanitarias presentan un importante grado de ejecución. Todavía resta completar el cableado y colocar las luminarias."
         ],
-        "generated": "2026-09-15T17:38:11.132138+00:00"
+        "generated": "2026-09-15T21:09:14.213667+00:00"
       }
     },
     {
-      "key": "piden dejen atacar redes sociales jueza suspendio nuevo regimen penal juvenil",
-      "title": "Piden que dejen de \"atacar\" en redes sociales a la jueza que suspendió el nuevo Régimen Penal Juvenil",
-      "score": 1.2,
+      "key": "ministerio dio vuelta villa diaz velez quedo lider federal",
+      "title": "Ministerio lo dio vuelta ante Villa Díaz Vélez y quedó líder del Federal",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-09-15T17:36:45.798565+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/piden-que-dejen-de-atacar-en-redes-sociales-a-la-jueza-que-suspendio-el-nuevo-regimen-pena.webp",
+      "first_seen": "2026-09-15T21:08:33.367163+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260914120749_7afd0354-80e7-46ee-9aa8-40846a6e0dc3.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Piden que dejen de \"atacar\" en redes sociales a la jueza que suspendió el nuevo Régimen Penal Juvenil",
-          "url": "https://diarionecochea.com/2026/09/12/piden-que-dejen-de-atacar-en-redes-sociales-a-la-jueza-que-suspendio-el-nuevo-regimen-penal-juvenil/",
+          "portal": "Necochea Digital",
+          "title": "Ministerio lo dio vuelta ante Villa Díaz Vélez y quedó líder del Federal",
+          "url": "https://necocheadigital.com/nota/119594/ministerio-lo-dio-vuelta-ante-villa-diaz-velez-y-quedo-lider-del-federal/",
           "published_at": null,
           "category": null,
           "image": null
@@ -487,24 +553,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "La Asociación Judicial Bonaerense cuestionó la presión sobre la magistrada y advirtió que las decisiones judiciales deben revisarse mediante los mecanismos institucionales correspondientes. La Asociación Judicial Bonaerense expresó su respaldo a la jueza Marta Pascual, de Lomas de Zamora, y reclamó el cese de los ataques y cuestionamientos dirigidos contra la magistrada luego de que suspendiera preventivamente durante 60 días la aplicación de la Ley 27.801, que establece el nuevo Régimen Penal Juvenil en la provincia de Buenos Aires.",
-          "Noticia relacionadas Mirtha Legrand evoluciona favorablemente y podría recibir el alta 11 de septiembre de 2026 El excomisario Maciel declaró en el juicio por Loan y aseguró que el niño murió atropellado 10 de septiembre de 2026 El pronunciamiento del gremio judicial surgió a partir de lo que definió como una \"brutal campaña de ataques y desprestigio\" contra Pascual."
+          "Ministerio consiguió este domingo una importante victoria en el Torneo Regional Federal Amateur 2026/2027 al derrotar 2-1 a Villa Díaz Vélez en Quequén, por la tercera fecha de la Zona 5 de la Región Bonaerense Pampeana Sur. El triunfo le permitió al Decano alcanzar los cuatro puntos y quedar en lo más alto del grupo junto a Independiente San Cayetano, que tuvo fecha libre. Villa Díaz Vélez, en tanto, todavía no sumó unidades. El partido tuvo un desarrollo cambiante.",
+          "Villa Díaz Vélez mostró una mejor versión durante buena parte del primer tiempo y logró ponerse en ventaja a los 25 minutos. Luego de un centro desde la izquierda, Lautaro Ruíz Martínez ganó de cabeza y marcó el 1-0 para el conjunto Naranja. Con la ventaja, Villa Díaz Vélez continuó manejando buena parte del trámite y tuvo algunas posibilidades para ampliar la diferencia."
         ],
-        "generated": "2026-09-15T17:38:13.027421+00:00"
+        "generated": "2026-09-15T21:09:14.908238+00:00"
       }
     },
     {
-      "key": "mirtha legrand evoluciona favorablemente podria recibir alta",
-      "title": "Mirtha Legrand evoluciona favorablemente y podría recibir el alta",
-      "score": 1.2,
+      "key": "salame necochea robar fiesta salame",
+      "title": "Un salame: fue desde Necochea a robar a la Fiesta del Salame",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-09-15T17:36:45.798565+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/mirtha-legrand-evoluciona-favorablemente-y-podria-recibir-el-alta-quien-la-reemplaza-este-fin-de-semana.jpg",
+      "first_seen": "2026-09-15T21:08:33.367163+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260915092250_captura.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Mirtha Legrand evoluciona favorablemente y podría recibir el alta",
-          "url": "https://diarionecochea.com/2026/09/11/mirtha-legrand-evoluciona-favorablemente-y-podria-recibir-el-alta/",
+          "portal": "Necochea Digital",
+          "title": "Un salame: fue desde Necochea a robar a la Fiesta del Salame",
+          "url": "https://necocheadigital.com/nota/119601/un-salame-fue-desde-necochea-a-robar-a-la-fiesta-del-salame/",
           "published_at": null,
           "category": null,
           "image": null
@@ -512,24 +578,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "La conductora, de 99 años, permanece internada en el Sanatorio Mater Dei por un cuadro de bronquitis y su familia aguarda novedades sobre una posible salida. Mirtha Legrand continúa internada en el Sanatorio Mater Dei por un cuadro de bronquitis y evoluciona favorablemente. La conductora, de 99 años, ingresó el 7 de septiembre y permanece en una habitación común, donde recibe atención médica y completa los estudios correspondientes.",
-          "El último parte disponible, difundido el 9 de septiembre y firmado por el director médico Dr. Enrique Echagüe, indicó que su evolución era favorable y sin complicaciones."
+          "Lo que parecía ser un viaje gastronómico terminó bastante mal. Un hombre de 45 años, domiciliado en Necochea , fue aprehendido en la ciudad de Mercedes , donde se desarrollaba la tradicional Fiesta del Salame Quintero . El protagonista de esta particular historia fue identificado como Omar Alejandro Ucio , quien fue interceptado por efectivos de la Policía Motorizada en avenida 29 y Héroes de Malvinas , cuando se encontraba dentro de una Renault Kangoo .",
+          "Según la investigación, poco antes habría sustraído la rueda de auxilio de una Mercedes Benz Sprinter , perteneciente a un vecino de Necochea. Pero la sorpresa llegó cuando los policías revisaron el utilitario. No era el único “recuerdo” del viaje Dentro de la Kangoo encontraron otra rueda de auxilio , esta vez correspondiente a una Toyota Hilux propiedad de un vecino de Mercedes."
         ],
-        "generated": "2026-09-15T17:38:14.458133+00:00"
+        "generated": "2026-09-15T21:09:15.624065+00:00"
       }
     },
     {
-      "key": "excomisario maciel declaro juicio loan aseguro nino murio atropellado",
-      "title": "El excomisario Maciel declaró en el juicio por Loan y aseguró que el niño murió atropellado",
-      "score": 1.2,
+      "key": "persecucion techos ataque policias dos aprehendidos distintos hechos",
+      "title": "Persecución por los techos y ataque a policías: dos aprehendidos en distintos hechos",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-09-15T17:36:45.798565+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/el-excomisario-maciel-declaro-en-el-juicio-por-loan-y-aseguro-que-el-nino-murio-atropellad.webp",
+      "first_seen": "2026-09-15T21:08:33.367163+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/877853c54b278fa392c02df826c8387825d78952.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "El excomisario Maciel declaró en el juicio por Loan y aseguró que el niño murió atropellado",
-          "url": "https://diarionecochea.com/2026/09/10/el-excomisario-maciel-declaro-en-el-juicio-por-loan-y-aseguro-que-el-nino-murio-atropellado/",
+          "portal": "Necochea Digital",
+          "title": "Persecución por los techos y ataque a policías: dos aprehendidos en distintos hechos",
+          "url": "https://necocheadigital.com/nota/119583/persecucion-por-los-techos-y-ataque-a-policias-dos-aprehendidos-en-distintos-hechos/",
           "published_at": null,
           "category": null,
           "image": null
@@ -537,24 +603,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "Durante la audiencia realizada en Corrientes, el imputado justificó su accionar policial desde las primeras horas de búsqueda, desmarcó a tres de los detenidos y cuestionó las distintas versiones presentadas por la familia. El juicio por la desaparición de Loan Danilo Peña tuvo este jueves 10 de septiembre una jornada atípica en el Tribunal Oral Federal de Corrientes.",
-          "La audiencia se centró exclusivamente en la declaración del ex comisario Walter Adrián Maciel, imputado como partícipe necesario por la sustracción y ocultamiento del niño de 5 años. Los demás testimonios previstos fueron reprogramados por el juez Fermín Amado Ceroleni para dar espacio al planteo defensivo del acusado."
+          "Dos procedimientos policiales registrados en las últimas horas en Necochea terminaron con personas aprehendidas, en hechos que tuvieron como protagonistas intentos de robo y un violento enfrentamiento con efectivos policiales. Persecución por los techos tras un intento de robo El primero de los episodios se inició a partir de un alerta recibido a través del CATE 911 , luego de que un vecino que se encontraba al cuidado de una vivienda ubicada en calle 70 escuchara un fuerte estruendo y observara a un sujeto desplazándose por los techos.",
+          "Al arribar personal del Comando de Patrullas , se inició una persecución por las viviendas linderas. Los efectivos lograron interceptar al sospechoso, un joven de 18 años , en inmediaciones de calle 72 y 63 ."
         ],
-        "generated": "2026-09-15T17:38:16.966090+00:00"
+        "generated": "2026-09-15T21:09:16.915037+00:00"
       }
     },
     {
-      "key": "dia maestro 2026 pasa clases viernes quienes tienen asueto",
-      "title": "Día del Maestro 2026: qué pasa con las clases este viernes y quiénes tienen asueto",
-      "score": 1.2,
+      "key": "golpearon asaltaron mujer 83 anos dos personas fueron aprehendidas",
+      "title": "Golpearon y asaltaron a una mujer de 83 años: dos personas fueron aprehendidas",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-09-15T17:36:45.798565+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/dia-del-maestro-2026-que-pasa-con-las-clases-este-viernes-11-de-septiembre-y-quienes-tiene.webp",
+      "first_seen": "2026-09-15T21:08:33.367163+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260913122217_whatsapp-image-2026-01-07-at-11-59-40-am2.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Día del Maestro 2026: qué pasa con las clases este viernes y quiénes tienen asueto",
-          "url": "https://diarionecochea.com/2026/09/10/dia-del-maestro-2026-que-pasa-con-las-clases-este-viernes-y-quienes-tienen-asueto/",
+          "portal": "Necochea Digital",
+          "title": "Golpearon y asaltaron a una mujer de 83 años: dos personas fueron aprehendidas",
+          "url": "https://necocheadigital.com/nota/119579/golpearon-y-asaltaron-a-una-mujer-de-83-anos-dos-personas-fueron-aprehendidas/",
           "published_at": null,
           "category": null,
           "image": null
@@ -562,24 +628,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "Noticia relacionadas Piden que dejen de \"atacar\" en redes sociales a la jueza que suspendió el nuevo Régimen Penal Juvenil 12 de septiembre de 2026 Mirtha Legrand evoluciona favorablemente y podría recibir el alta 11 de septiembre de 2026 Este viernes 11 de septiembre no será feriado nacional, pero modificará la actividad escolar. En la provincia de Buenos Aires no habrá clases en los establecimientos estatales y privados del sistema provincial. El Día del Maestro se conmemora este viernes 11 de septiembre de 2026 y funcionará como un asueto escolar, no como un feriado nacional.",
-          "A nivel nacional, el alcance concreto de la suspensión depende del calendario educativo de cada provincia y jurisdicción. La fecha cae viernes y, para quienes estén comprendidos por el asueto, se suma al sábado 12 y al domingo 13 de septiembre, por lo que el sector educativo contará con tres días consecutivos sin actividad escolar."
+          "Una mujer de 83 años fue víctima de un violento robo en su vivienda de Necochea , donde dos hombres ingresaron por la fuerza, la golpearon y, mediante amenazas con armas de fuego, le sustrajeron una tarjeta de débito, mercadería y un teléfono celular. A partir de la denuncia realizada el pasado 12 de septiembre , se inició una investigación que permitió identificar el vehículo presuntamente utilizado por los autores y avanzar posteriormente con dos aprehensiones. El hecho ocurrió en una vivienda ubicada en calle 73 al 1000 .",
+          "Según relató la víctima, los delincuentes ingresaron por la fuerza y la golpearon antes de escapar con los elementos sustraídos. La mujer aportó características de los dos hombres: uno de ellos sería de baja estatura y vestía jogging negro y guantes , mientras que el segundo sería alto y delgado y llevaba una campera clara ."
         ],
-        "generated": "2026-09-15T17:38:20.832907+00:00"
+        "generated": "2026-09-15T21:09:17.623125+00:00"
       }
     },
     {
-      "key": "samuel chiche gelblung murio 82 anos sido internado cuadro respiratorio",
-      "title": "Samuel “Chiche” Gelblung murió a los 82 años y había sido internado por un cuadro respiratorio",
-      "score": 1.2,
+      "key": "detuvieron robar caja herramientas fresadora electrica",
+      "title": "Lo detuvieron tras robar una caja de herramientas con una fresadora eléctrica",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-09-15T17:36:45.798565+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/chiche-gelblung.jpg",
+      "first_seen": "2026-09-15T21:08:33.367163+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/bc705a512e70ed574f82dfa2ec803f85ce686c7b.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Samuel “Chiche” Gelblung murió a los 82 años y había sido internado por un cuadro respiratorio",
-          "url": "https://diarionecochea.com/2026/09/09/samuel-chiche-gelblung-murio-a-los-82-anos-y-habia-sido-internado-por-un-cuadro-respiratorio/",
+          "portal": "Necochea Digital",
+          "title": "Lo detuvieron tras robar una caja de herramientas con una fresadora eléctrica",
+          "url": "https://necocheadigital.com/nota/119578/lo-detuvieron-tras-robar-una-caja-de-herramientas-con-una-fresadora-electrica/",
           "published_at": null,
           "category": null,
           "image": null
@@ -587,24 +653,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "El periodista y conductor falleció luego de atravesar durante los últimos meses distintos problemas de salud y reiteradas hospitalizaciones. Samuel “Chiche” Gelblung murió este miércoles 9 de septiembre de 2026, a los 82 años, luego de atravesar durante los últimos meses distintos problemas de salud que derivaron en reiteradas internaciones. El periodista y conductor permanecía internado en el Sanatorio Mater Dei desde el martes 8 de septiembre por dificultades respiratorias vinculadas con su cuadro de salud.",
-          "Su fallecimiento se produjo un día después de esa nueva hospitalización. Noticia relacionadas Piden que dejen de \"atacar\" en redes sociales a la jueza que suspendió el nuevo Régimen Penal Juvenil 12 de septiembre de 2026 Mirtha Legrand evoluciona favorablemente y podría recibir el alta 11 de septiembre de 2026 La internación de septiembre fue señalada como la cuarta hospitalización de Gelblung durante 2026."
+          "Un hombre de 29 años fue aprehendido por personal policial luego de ser señalado como presunto autor del hurto de una caja de herramientas que contenía una fresadora eléctrica de mano , sustraída del interior de un comercio de la ciudad. El procedimiento se inició a partir de una alerta detectada por el Centro Operativo de Monitoreo Municipal (COM) y comunicada a través del sistema CATE 911 , lo que permitió desplegar rápidamente un operativo policial en la zona.",
+          "Con la descripción aportada sobre el sospechoso, los efectivos realizaron una recorrida por el sector y lograron interceptar, en inmediaciones de calles 47 y 92 bis , a un hombre cuyas características coincidían con las informadas. Durante la identificación, los agentes constataron que llevaba consigo una caja de herramientas de color negro, marca SKIL , que contenía en su interior una fresadora eléctrica de mano."
         ],
-        "generated": "2026-09-15T17:38:22.370380+00:00"
+        "generated": "2026-09-15T21:09:18.339592+00:00"
       }
     },
     {
-      "key": "cuarto dia fallas sube acreditar cargas celular",
-      "title": "Cuarto día de fallas en la SUBE para acreditar cargas desde el celular",
-      "score": 1.2,
+      "key": "allanaron casa aprehendieron hombre hurto bicicleta",
+      "title": "Allanaron una casa y aprehendieron a un hombre por el hurto de una bicicleta",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-09-15T17:36:45.798565+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/fallas-en-el-sistema-sube-por-cuarto-dia-consecutivo-hubo-problemas-para-acreditar-cargas.webp",
+      "first_seen": "2026-09-15T21:08:33.367163+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/f083ed6acc21c1c572ea5b4a0c5206d29af20096.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Cuarto día de fallas en la SUBE para acreditar cargas desde el celular",
-          "url": "https://diarionecochea.com/2026/09/04/cuarto-dia-de-fallas-en-la-sube-para-acreditar-cargas-desde-el-celular/",
+          "portal": "Necochea Digital",
+          "title": "Allanaron una casa y aprehendieron a un hombre por el hurto de una bicicleta",
+          "url": "https://necocheadigital.com/nota/119570/allanaron-una-casa-y-aprehendieron-a-un-hombre-por-el-hurto-de-una-bicicleta/",
           "published_at": null,
           "category": null,
           "image": null
@@ -612,24 +678,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "El sistema de acreditación de cargas electrónicas de la tarjeta SUBE funcionó de manera intermitente este viernes y mostró mensajes para “intentar más tarde” en distintos tótems. El sistema para cargar la tarjeta SUBE desde el celular registró fallas por cuarto día consecutivo. Este viernes, los tótems funcionaron de manera intermitente y en muchos casos mostraron mensajes que pedían “intentar más tarde”.",
-          "Noticia relacionadas Piden que dejen de \"atacar\" en redes sociales a la jueza que suspendió el nuevo Régimen Penal Juvenil 12 de septiembre de 2026 Mirtha Legrand evoluciona favorablemente y podría recibir el alta 11 de septiembre de 2026 Las estaciones de tren fueron uno de los puntos más afectados, ya que los pasajeros solo pudieron abonar el viaje con la tarjeta física. En Plaza Constitución, los lectores funcionaron por momentos y luego volvieron a mostrar el aviso de error."
+          "Una investigación policial por el hurto de una bicicleta en Necochea derivó en un allanamiento y la aprehensión de un hombre de 35 años, quien quedó a disposición de la Justicia. La pesquisa se inició a partir de la denuncia por la sustracción de una bicicleta todoterreno marca Vairo, rodado 29, de color celeste con detalles blancos , que se encontraba en el porche de una vivienda. Personal del Grupo Técnico Operativo (GTO) de la Comisaría Primera Necochea llevó adelante distintas tareas de campo y analizó registros de cámaras de seguridad privadas y redes sociales .",
+          "A partir de las pruebas reunidas, los investigadores lograron identificar al presunto autor y solicitaron una medida judicial. Con la autorización del Juzgado de Garantías del Departamento Judicial Necochea , se concretó un allanamiento en un domicilio de la ciudad."
         ],
-        "generated": "2026-09-15T17:38:25.531192+00:00"
+        "generated": "2026-09-15T21:09:19.053757+00:00"
       }
     },
     {
-      "key": "empresas sea lion aseguran seguiran adelante pese sanciones anunciadas milei",
-      "title": "Las empresas de Sea Lion aseguran que seguirán adelante pese a las sanciones anunciadas por Milei",
-      "score": 1.2,
+      "key": "allanaron vivienda necochea estafas tandil arrestaron sospechoso droga",
+      "title": "Allanaron una vivienda en Necochea por estafas en Tandil y arrestaron a un sospechoso con droga",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-09-15T17:36:45.798565+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/las-empresas-de-sea-lion-aseguran-que-seguiran-adelante-pese-a-las-sanciones-anunciadas-po.webp",
+      "first_seen": "2026-09-15T21:08:33.367163+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/9c7e0d27081fe728b8497faa700d4db25f68e2c5.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Las empresas de Sea Lion aseguran que seguirán adelante pese a las sanciones anunciadas por Milei",
-          "url": "https://diarionecochea.com/2026/09/04/las-empresas-de-sea-lion-aseguran-que-seguiran-adelante-pese-a-las-sanciones-anunciadas-por-milei/",
+          "portal": "Necochea Digital",
+          "title": "Allanaron una vivienda en Necochea por estafas en Tandil y arrestaron a un sospechoso con droga",
+          "url": "https://necocheadigital.com/nota/119576/allanaron-una-vivienda-en-necochea-por-estafas-en-tandil-y-arrestaron-a-un-sospechoso-con-droga/",
           "published_at": null,
           "category": null,
           "image": null
@@ -637,24 +703,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "Las compañías sostuvieron que las medidas no modificarán el cronograma previsto para el proyecto petrolero, mientras remarcaron que poseen permisos otorgados por las autoridades de las Islas.",
-          "Las empresas que impulsan el desarrollo petrolero en Malvinas minimizaron las medidas anunciadas por Javier Milei y señalaron que mantienen las autorizaciones locales y el respaldo del Gobierno británico para avanzar con Sea Lion."
+          "La investigación se originó a partir de una serie de fraudes cometidos en los últimos días contra vecinos de Tandil, principalmente adultos mayores. A partir de distintas evidencias reunidas por los investigadores, la pesquisa se orientó hacia Necochea, donde residiría uno de los sospechosos de participar en las maniobras. Con esa información, efectivos de la SubDDI y la DDI de Tandil realizaron un allanamiento en una vivienda de Necochea.",
+          "Durante el procedimiento secuestraron elementos considerados de interés para la causa por estafas y encontraron además una cantidad no precisada de estupefacientes. El hallazgo de droga derivó en la intervención de la Unidad Funcional de Instrucción Nº 30 de Necochea, especializada en la temática de estupefacientes y a cargo del fiscal Carlos Larrarte. Al morador de la vivienda se le inició un sumario judicial por “tenencia de estupefacientes” y deberá comparecer ante la fiscalía local."
         ],
-        "generated": "2026-09-15T17:38:35.066762+00:00"
+        "generated": "2026-09-15T21:09:19.745695+00:00"
       }
     },
     {
-      "key": "javier milei anuncio sanciones petroleras proyecta base naval atlantico sur",
-      "title": "Javier Milei anunció sanciones contra petroleras y proyecta una base naval en el Atlántico Sur",
-      "score": 1.2,
+      "key": "tc werner gano san luis lidera copa oro turismo carretera",
+      "title": "TC: Werner ganó en San Luis y lidera la Copa de Oro del Turismo Carretera",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-09-15T17:36:45.798565+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/javier-milei-impulsa-sanciones-contra-petroleras-y-proyecta-una-base-naval-en-el-atlantico.webp",
+      "first_seen": "2026-09-15T21:08:33.367163+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260914115257_whatsapp-image-2026-09-14-at-11-50-50.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Javier Milei anunció sanciones contra petroleras y proyecta una base naval en el Atlántico Sur",
-          "url": "https://diarionecochea.com/2026/09/03/milei-anuncio-sanciones-contra-petroleras-y-proyecta-una-base-naval-en-el-atlantico-sur/",
+          "portal": "Necochea Digital",
+          "title": "TC: Werner ganó en San Luis y lidera la Copa de Oro del Turismo Carretera",
+          "url": "https://necocheadigital.com/nota/119591/tc-werner-gano-en-san-luis-y-lidera-la-copa-de-oro-del-turismo-carretera/",
           "published_at": null,
           "category": null,
           "image": null
@@ -662,24 +728,24 @@
       ],
       "summary": {
         "paragraphs": [
-          ":La medida busca acelerar las penas establecidas por la legislación actual para proteger los recursos estratégicos, impidiendo que las firmas infractoras puedan operar en el mercado local.",
-          "Durante una transmisión oficial realizada este jueves, el jefe de Estado encabezó una alocución pública orientada a reafirmar el reclamo por las islas del Atlántico Sur, marco en el cual presentó una serie de iniciativas destinadas a endurecer la postura institucional y proteger los recursos marítimos frente a las tareas de extracción ilegal en la región insular."
+          "Mariano Werner (Ford Mustang) se quedó con la Final de la 11ª fecha del Turismo Carretera, disputada en el autódromo “Rosendo Hernández” de San Luis, y comenzó la Copa de Oro de la mejor manera. El piloto de Paraná dominó la competencia y pasó a liderar la definición del campeonato. Werner, representante del Fadel Racing, tuvo un fin de semana destacado, ya que previamente había conseguido la clasificación y su serie.",
+          "En la Final largó desde la primera posición y sostuvo durante las 25 vueltas una intensa disputa con Julián Santero (BMW M4), quien lo siguió durante toda la competencia. La carrera tuvo 23 vueltas de velocidad efectiva, debido a que los giros 15 y 16 fueron neutralizados por la intervención del auto de seguridad. Werner logró contener a Santero por apenas 0s674 y consiguió su segunda victoria de la temporada, después de la obtenida en Termas de Río Hondo."
         ],
-        "generated": "2026-09-15T17:38:36.921754+00:00"
+        "generated": "2026-09-15T21:09:20.449816+00:00"
       }
     },
     {
-      "key": "san cayetano abrio segunda licitacion alquilar locales servicios balneario",
-      "title": "San Cayetano abrió una segunda licitación para alquilar locales y servicios en el balneario",
-      "score": 1.2,
+      "key": "subasta teatro auditorium tiene fecha",
+      "title": "La subasta del Teatro Auditórium ya tiene fecha",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-09-15T17:36:45.798565+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/segunda-licitacion-de-locales-comerciales-y-servicios-estrategicos-en-san-cayetano.webp",
+      "first_seen": "2026-09-15T21:08:33.367163+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260911160955_casino-incendio.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "San Cayetano abrió una segunda licitación para alquilar locales y servicios en el balneario",
-          "url": "https://diarionecochea.com/2026/09/10/segunda-licitacion-de-locales-comerciales-y-servicios-estrategicos-en-san-cayetano/",
+          "portal": "Necochea Digital",
+          "title": "La subasta del Teatro Auditórium ya tiene fecha",
+          "url": "https://necocheadigital.com/nota/119573/la-subasta-del-teatro-auditorium-ya-tiene-fecha/",
           "published_at": null,
           "category": null,
           "image": null
@@ -687,24 +753,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "Con plazos y condiciones disponibles en la Oficina de Compras, la apertura de ofertas está prevista para el 16 de septiembre. El Municipio de San Cayetano informa que se encuentra abierto el segundo llamado de las Licitaciones Públicas para la concesión de locales comerciales y de servicios estratégicos en el balneario local.",
-          "Noticia relacionadas Abren inscripción para sumar personal de enfermería en el Hospital Municipal de San Cayetano 10 de septiembre de 2026 San Cayetano abre la inscripción de guardavidas para la temporada 2026‑27 8 de septiembre de 2026 Espacios a licitar: Locales comerciales: 4 y 6 destinados al rubro carnicería y afines. Arrendamiento de inmueble municipal para servicios generales: espacio destinado al funcionamiento de gomería, expendio de combustible y servicios complementarios."
+          "El acto se realizará en el Salón de Actos “Dr. Taraborelli”, ubicado en el segundo piso de la sede municipal de calle 56 Nº 2945. La subasta estará a cargo del martillero público local Sergio Marcelo Gertie, quien fue designado luego del sorteo realizado la semana anterior. Para participar, los interesados deberán inscribirse hasta el martes 20 de octubre a las 14.",
+          "El formulario correspondiente podrá solicitarse a través del correo [email protected] o personalmente en la Secretaría de Planeamiento, Obras y Servicios Públicos. La garantía requerida será equivalente al 20% del precio base, que representa aproximadamente $76,76 millones. La parcela tendrá una base de $383.819.190, libre de gastos."
         ],
-        "generated": "2026-09-15T17:38:57.355167+00:00"
+        "generated": "2026-09-15T21:09:21.168555+00:00"
       }
     },
     {
-      "key": "abren inscripcion sumar personal enfermeria hospital municipal san cayetano",
-      "title": "Abren inscripción para sumar personal de enfermería en el Hospital Municipal de San Cayetano",
-      "score": 1.2,
+      "key": "nuevo banquete renga podria volver necochea verano 2027",
+      "title": "¿Un nuevo banquete? La Renga podría volver a Necochea durante el verano de 2027",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-09-15T17:36:45.798565+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/abren-inscripcion-para-sumar-personal-de-enfermeria-en-el-hospital-municipal-de-san-cayeta.webp",
+      "first_seen": "2026-09-15T21:08:33.367163+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/1b89aeb35dd6c2bb1514aa8985677a8a4760b83f.jpg",
       "articles": [
         {
-          "portal": "Diario Necochea",
-          "title": "Abren inscripción para sumar personal de enfermería en el Hospital Municipal de San Cayetano",
-          "url": "https://diarionecochea.com/2026/09/10/abren-inscripcion-para-sumar-personal-de-enfermeria-en-el-hospital-municipal-de-san-cayetano/",
+          "portal": "Necochea Digital",
+          "title": "¿Un nuevo banquete? La Renga podría volver a Necochea durante el verano de 2027",
+          "url": "https://necocheadigital.com/nota/119574/un-nuevo-banquete-la-renga-podria-volver-a-necochea-durante-el-verano-de-2027/",
           "published_at": null,
           "category": null,
           "image": null
@@ -712,10 +778,10 @@
       ],
       "summary": {
         "paragraphs": [
-          "El Municipio local convoca a enfermeros con título y matrícula, menores de 50 años, para trabajar en horarios rotativos en el Hospital Municipal y residencias de adultos mayores, con inscripción abierta del 22 de septiembre al 5 de octubre de. El Municipio local llama a Concurso Público Abierto para cubrir vacantes en la Secretaría de Salud, específicamente personal de enfermería. Noticia relacionadas San Cayetano abrió una segunda licitación para alquilar locales y servicios en el balneario 10 de septiembre de 2026 San Cayetano abre la inscripción de guardavidas para la temporada 2026‑27 8 de septiembre de 2026 El trabajo será en horarios rotativos, en distintos sectores del Hospital Municipal (guardia e internación), y residencias de adultos mayores.",
-          "Son requisitos poseer título y matrícula, y tener hasta 50 años de edad. La inscripción será del 22 de septiembre al 5 de octubre de 2026 inclusive."
+          "La Renga podría regresar a Necochea durante el verano de 2027 y la posibilidad comenzó a generar expectativa en la ciudad. En las últimas horas se conocieron movimientos vinculados con la organización de un eventual recital, aunque por el momento no existe un anuncio oficial de la banda, ni se definieron fecha ni escenario. Según una de las informaciones conocidas, integrantes de Rock And Music, productora vinculada al manejo y la producción de La Renga, estuvieron este jueves en Necochea para analizar distintos aspectos relacionados con la realización de un espectáculo de gran escala.",
+          "En tanto, otra versión señala que también hubo contactos entre En Vivo Producciones y el municipio, con conversaciones con el intendente Arturo Rojas. Los análisis están relacionados principalmente con los costos y las condiciones necesarias para llevar adelante un recital de estas características."
         ],
-        "generated": "2026-09-15T17:39:00.755258+00:00"
+        "generated": "2026-09-15T21:09:21.899928+00:00"
       }
     }
   ]
