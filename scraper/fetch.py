@@ -220,10 +220,29 @@ def _fetch_html(source: dict) -> list[dict]:
             "portal": source["name"],
             "title": title,
             "url": url,
-            "published_at": None,
+            "published_at": _date_from_url(url),
             "category": None,
         })
     return out
+
+
+def _date_from_url(url: str) -> str | None:
+    """Saca la fecha de una URL con formato /AAAA/MM/DD/ (WordPress).
+
+    Las portadas HTML no traen la fecha en el listado, pero muchas veces la
+    dejan en el permalink. Sale gratis: no cuesta un request por nota.
+    """
+    m = re.search(r"/(20\d{2})/(\d{2})/(\d{2})/", url)
+    if not m:
+        return None
+    try:
+        return dt.datetime(
+            int(m.group(1)), int(m.group(2)), int(m.group(3)),
+            tzinfo=dt.timezone.utc,
+        ).isoformat()
+    except ValueError:
+        return None
+
 
 
 def _decode_rsc(html_text: str) -> str:
@@ -323,9 +342,17 @@ def fetch_all() -> tuple[list[dict], list[str]]:
     for source in SOURCES:
         try:
             items = fetch_source(source)
-            articles.extend(items)
-            print(f"[ok]   {source['name']}: {len(items)} artículos")
         except Exception as exc:
-            errors.append(str(exc))
+            errors.append(f"{source['name']}: {exc}")
             print(f"[fail] {source['name']}: {exc}")
+            continue
+        if not items:
+            # Una fuente que responde 200 pero no trae nada esta caida igual.
+            # Antes contaba como [ok] con 0 articulos y el error se perdia: el
+            # ranking se publicaba incompleto sin avisar a nadie.
+            errors.append(f"{source['name']}: respondio pero devolvio 0 articulos")
+            print(f"[vacio] {source['name']}: 0 articulos (feed o selector roto)")
+            continue
+        articles.extend(items)
+        print(f"[ok]   {source['name']}: {len(items)} articulos")
     return articles, errors

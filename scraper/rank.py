@@ -16,6 +16,14 @@ from .config import FRESHNESS_HALFLIFE_HOURS, MAX_STORIES, SOURCES
 
 WEIGHTS = {source["name"]: source.get("weight", 1.0) for source in SOURCES}
 
+# Una fuente que no da fecha no es "de ahora": se la trata como si estuviera
+# en la mitad de su vida útil (0.5), un valor neutro ni bueno ni malo.
+UNKNOWN_DATE_FRESHNESS = 0.5
+
+# Tope de noticias por portal en la portada. Sin esto un solo portal con
+# muchos artículos y sin fecha tapaba los 30 lugares del ranking.
+MAX_STORIES_PER_PORTAL = 6
+
 
 def _parse_dt(value: str | None) -> dt.datetime | None:
     if not value:
@@ -26,8 +34,13 @@ def _parse_dt(value: str | None) -> dt.datetime | None:
         return None
 
 
-def _story_age_hours(story: dict, now: dt.datetime) -> float:
-    """Edad = mínimo entre fecha publicada y primera vez que la vimos."""
+def _story_age_hours(story: dict, now: dt.datetime) -> float | None:
+    """Edad = mínimo entre fecha publicada y primera vez que la vimos.
+
+    Si NINGÚN artículo trae fecha devuelve None: no sabemos cuándo es.
+    Antes devolvía 0.0, lo que daba frescura 1.0 (la máxima) a las fuentes
+    que no informan fecha, y esas tapaban el ranking entero.
+    """
     ages = []
     for article in story["articles"]:
         published = _parse_dt(article.get("published_at"))
@@ -35,7 +48,27 @@ def _story_age_hours(story: dict, now: dt.datetime) -> float:
         stamp = published or first_seen
         if stamp:
             ages.append(max(0.0, (now - stamp).total_seconds() / 3600))
-    return min(ages) if ages else 0.0
+    return min(ages) if ages else None
+
+
+def _cap_per_portal(ranked: list[dict]) -> list[dict]:
+    """Deja pasar como mucho MAX_STORIES_PER_PORTAL noticias de cada portal.
+
+    Cada noticia se cuenta para el portal que aporta su titular. Al terminar,
+    las que quedaron afuera vuelven a entrar en orden de puntaje para no
+    perder posiciones por un límite arbitrario.
+    """
+    kept: list[dict] = []
+    extra: list[dict] = []
+    count: dict[str, int] = {}
+    for story in ranked:
+        portal = story["articles"][0]["portal"] if story["articles"] else "?"
+        if count.get(portal, 0) < MAX_STORIES_PER_PORTAL:
+            count[portal] = count.get(portal, 0) + 1
+            kept.append(story)
+        else:
+            extra.append(story)
+    return kept + extra
 
 
 def rank(stories: list[dict], now: dt.datetime | None = None) -> list[dict]:
@@ -55,7 +88,8 @@ def rank(stories: list[dict], now: dt.datetime | None = None) -> list[dict]:
             weight_sum += WEIGHTS.get(portal, 1.0)
         n_sources = len(seen)
         age_hours = _story_age_hours(story, now)
-        freshness = math.exp(-age_hours / FRESHNESS_HALFLIFE_HOURS)
+        freshness = UNKNOWN_DATE_FRESHNESS if age_hours is None \
+            else math.exp(-age_hours / FRESHNESS_HALFLIFE_HOURS)
         score = weight_sum * (1 + 0.25 * (n_sources - 1)) * freshness
 
         # el titular de la noticia sale del portal con más preponderancia
@@ -88,4 +122,4 @@ def rank(stories: list[dict], now: dt.datetime | None = None) -> list[dict]:
         })
 
     ranked.sort(key=lambda s: s["score"], reverse=True)
-    return ranked[:MAX_STORIES]
+    return _cap_per_portal(ranked)[:MAX_STORIES]

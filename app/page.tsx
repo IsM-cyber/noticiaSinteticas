@@ -1,6 +1,7 @@
 import { loadNews, timeAgo } from "@/lib/stories";
 import { SITE_NAME_PARTS, SITE_TAGLINE, SITE_FOOTNOTE } from "@/lib/site";
 import Comments from "@/components/Comments";
+import Chat from "@/components/Chat";
 
 export const dynamic = "force-dynamic";
 
@@ -32,58 +33,66 @@ export default async function Home() {
         </aside>
       )}
 
-      {stories.length === 0 ? (
-        <p className="empty">
-          Todavía no hay noticias. Corré el robot:{" "}
-          <code>.venv/bin/python -m scraper.main</code>
-        </p>
-      ) : (
-        <ol className="list">
-          {stories.map((story, i) => (
-            <li key={story.first_seen + i}>
-              <article className="card">
-                <div className="card-head">
-                  <span className="rank">#{i + 1}</span>
-                  <span className="resonance" title="Puntaje de resonancia">
-                    ⟡ {story.sources_count} {story.sources_count === 1 ? "fuente" : "fuentes"}
-                  </span>
-                  <span className="when">{timeAgo(story.first_seen)}</span>
-                </div>
-                <h2>{story.title}</h2>
-                {story.image && (
-                  <img
-                    className="thumb"
-                    src={story.image}
-                    alt=""
-                    loading="lazy"
-                  />
-                )}
-                {story.summary && story.summary.paragraphs.length > 0 && (
-                  <div className="summary">
-                    <span className="summary-label">Resumen sintético</span>
-                    {story.summary.paragraphs.map((paragraph, j) => (
-                      <p key={j}>{paragraph}</p>
-                    ))}
-                  </div>
-                )}
-                <ul className="sources">
-                  {story.articles.map((article, j) => (
-                    <li key={article.url + j}>
-                      <a href={article.url} target="_blank" rel="noopener noreferrer">
-                        Fuente: {article.portal}
-                      </a>
-                      {article.category && (
-                        <span className="category">{article.category}</span>
-                      )}
-                    </li>
-                  ))}
-                </ul>
-                <Comments storyKey={story.key || story.title} />
-              </article>
-            </li>
-          ))}
-        </ol>
-      )}
+      <div className="app-layout">
+        <div className="main-content">
+          {stories.length === 0 ? (
+            <p className="empty">
+              Todavía no hay noticias. Corré el robot:{" "}
+              <code>.venv/bin/python -m scraper.main</code>
+            </p>
+          ) : (
+            <ol className="list">
+              {stories.map((story, i) => (
+                <li key={story.first_seen + i}>
+                  <article className="card">
+                    <div className="card-head">
+                      <span className="rank">#{i + 1}</span>
+                      <span className="resonance" title="Puntaje de resonancia">
+                        ⟡ {story.sources_count} {story.sources_count === 1 ? "fuente" : "fuentes"}
+                      </span>
+                      <span className="when">{timeAgo(story.first_seen)}</span>
+                    </div>
+                    <h2>{story.title}</h2>
+                    {story.image && (
+                      <img
+                        className="thumb"
+                        src={story.image}
+                        alt=""
+                        loading="lazy"
+                      />
+                    )}
+                    {story.summary && story.summary.paragraphs.length > 0 && (
+                      <div className="summary">
+                        <span className="summary-label">Resumen sintético</span>
+                        {story.summary.paragraphs.map((paragraph, j) => (
+                          <p key={j}>{paragraph}</p>
+                        ))}
+                      </div>
+                    )}
+                    <ul className="sources">
+                      {story.articles.map((article, j) => (
+                        <li key={article.url + j}>
+                          <a href={article.url} target="_blank" rel="noopener noreferrer">
+                            Fuente: {article.portal}
+                          </a>
+                          {article.category && (
+                            <span className="category">{article.category}</span>
+                          )}
+                        </li>
+                      ))}
+                    </ul>
+                    <Comments storyKey={story.key || story.title} />
+                  </article>
+                </li>
+              ))}
+            </ol>
+          )}
+        </div>
+
+        <div className="sidebar">
+          <Chat />
+        </div>
+      </div>
 
       <footer className="foot">
         <p className="motto">{SITE_FOOTNOTE}</p>

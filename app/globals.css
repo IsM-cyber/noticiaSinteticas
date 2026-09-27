@@ -40,7 +40,27 @@ body::before {
   z-index: 0;
 }
 
-.wrap { position: relative; z-index: 1; max-width: 760px; margin: 0 auto; padding: 24px 16px 60px; }
+.wrap { position: relative; z-index: 1; max-width: 1150px; margin: 0 auto; padding: 24px 16px 60px; }
+
+.app-layout {
+  display: grid;
+  grid-template-columns: 1fr 320px;
+  gap: 28px;
+  align-items: start;
+}
+
+.sidebar {
+  position: sticky;
+  top: 24px;
+}
+
+
+@media (max-width: 900px) {
+  .app-layout {
+    grid-template-columns: 1fr;
+  }
+}
+
 
 .hero h1 {
   font-size: 2.1rem;
@@ -268,3 +288,79 @@ body::before {
   font-size: 0.9rem;
 }
 .foot a { color: var(--cyan); }
+/* ── Chat global ──────────────────────────────────────────── */
+.chat {
+  margin: 32px 0 0;
+  padding: 16px;
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+}
+.chat-head h3 {
+  margin: 0 0 12px;
+  font-size: 1rem;
+  color: var(--cyan);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.chat-live {
+  font-size: 0.7rem;
+  font-weight: 400;
+  color: var(--bg);
+  background: var(--cyan);
+  padding: 1px 7px;
+  border-radius: 999px;
+}
+
+/* scrollear para atrás a leer lo que se dijo */
+.chat-list {
+  list-style: none;
+  margin: 0 0 12px;
+  padding: 0;
+  max-height: 340px;
+  min-height: 90px;
+  overflow-y: auto;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 10px;
+  background: var(--bg);
+}
+.chat-list li { margin: 0 0 10px; }
+.chat-list li:last-child { margin-bottom: 0; }
+.chat-list p { margin: 2px 0 0; overflow-wrap: anywhere; }
+.chat-empty, .chat-guest { color: var(--muted); font-size: 0.9rem; }
+.chat-meta {
+  display: flex;
+  gap: 8px;
+  font-size: 0.78rem;
+  color: var(--muted);
+}
+.chat-meta strong { color: var(--violet); }
+
+.chat-form input[type="text"] {
+  width: 100%;
+  box-sizing: border-box;
+  margin-bottom: 8px;
+  padding: 8px 10px;
+  background: var(--bg);
+  color: var(--text);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  font: inherit;
+}
+.chat-row { display: flex; gap: 8px; }
+.chat-row input { flex: 1; margin-bottom: 0 !important; }
+.chat-row button {
+  padding: 8px 16px;
+  background: var(--cyan);
+  color: var(--bg);
+  border: 0;
+  border-radius: 6px;
+  font: inherit;
+  font-weight: 600;
+  cursor: pointer;
+}
+.chat-row button:disabled { opacity: 0.4; cursor: default; }
+.chat-hint { margin: 8px 0 0; font-size: 0.75rem; color: var(--muted); }
+.chat-notice { margin: 8px 0 0; font-size: 0.8rem; color: var(--magenta); }
