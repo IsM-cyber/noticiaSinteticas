@@ -1,8 +1,9 @@
 // Módulo SOLO para el navegador
 import { createClient, SupabaseClient } from "@supabase/supabase-js";
 
-const URL = process.env.NEXT_PUBLIC_SUPABASE_URL ?? "";
-const ANON_KEY = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY ?? "";
+// Credenciales públicas con respaldo directo para evitar fallos en Vercel
+const URL = process.env.NEXT_PUBLIC_SUPABASE_URL || "https://noticiasinteticas.supabase.co";
+const ANON_KEY = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY || "sb_publishable_VWr41XwLgexSou8zsbKVBg_s3ImXse4";
 
 export type CommentRow = {
   id: number;
@@ -14,17 +15,13 @@ export type CommentRow = {
   created_at: string;
 };
 
-// DEBUG: Imprimir parte del valor para saber si Vercel realmente está inyectando algo
-console.log("DEBUG SUPABASE:", { 
-  URL_snippet: URL ? URL.substring(0, 10) + "..." : "VACÍA", 
-  ANON_KEY_snippet: ANON_KEY ? ANON_KEY.substring(0, 5) + "..." : "VACÍA" 
-});
-
 export const COMMENTS_CONFIGURED = Boolean(URL && ANON_KEY);
+
+console.log("DEBUG SUPABASE (Con respaldo):", { URL, hasKey: !!ANON_KEY });
 
 export function supabaseBrowser(): SupabaseClient | null {
   if (!COMMENTS_CONFIGURED) {
-    console.error("Supabase NO está configurado. Revisa las variables en Vercel.");
+    console.error("Supabase NO está configurado.");
     return null;
   }
   return createClient(URL, ANON_KEY);
