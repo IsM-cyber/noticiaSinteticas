@@ -48,9 +48,6 @@ export default function Comments({ storyKey }: { storyKey: string }) {
         }
       });
     }
-    try {
-      setNickname(localStorage.getItem("ns_nick") ?? "");
-    } catch { /* sin localStorage */ }
   }, []);
 
   const toggle = async () => {
@@ -64,29 +61,34 @@ export default function Comments({ storyKey }: { storyKey: string }) {
   const submitAuth = async (mode: "login" | "signup") => {
     setLoading(true);
     setNotice("");
-    const sb = supabaseBrowser();
-    if (!sb) { setNotice("⚠️ Supabase no configurado."); setLoading(false); return; }
+    
+    // USAMOS EL SERVIDOR PARA EVITAR CORS/RED
+    const endpoint = mode === "signup" ? "/api/auth/signup" : "/api/auth/login";
     
     try {
-      const result =
-        mode === "signup"
-          ? await sb.auth.signUp({ email: authEmail, password: authPass })
-          : await sb.auth.signInWithPassword({ email: authEmail, password: authPass });
+      const res = await fetch(endpoint, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ email: authEmail, password: authPass }),
+      });
+      const data = await res.json();
       
-      setLoading(false);
-      if (result.error) {
-        setNotice(`⚠️ Error: ${result.error.message}`);
+      if (!res.ok) {
+        setNotice(`⚠️ Error: ${data.error || 'Fallo en autenticación'}`);
+        setLoading(false);
         return;
       }
-      const ses = await sb.auth.getSession();
-      if (ses.data.session && ses.data.session.user) {
-        setSession({ email: ses.data.session.user.email ?? "", token: ses.data.session.access_token });
-        setNotice(mode === "signup" ? "Cuenta creada." : "Sesión iniciada.");
+      
+      // Si login exitoso, recargar para obtener sesión
+      if (mode === "login") {
+        window.location.reload();
+      } else {
+        setNotice("Cuenta creada. Ahora iniciá sesión.");
       }
     } catch (e) {
-      setLoading(false);
-      setNotice(`⚠️ Error de red: ${e instanceof Error ? e.message : 'Ver consola'}`);
+      setNotice(`⚠️ Error de red: ${e instanceof Error ? e.message : 'Desconocido'}`);
     }
+    setLoading(false);
   };
 
   const submitComment = async () => {
@@ -114,7 +116,7 @@ export default function Comments({ storyKey }: { storyKey: string }) {
   const logout = async () => {
     const sb = supabaseBrowser();
     if (sb) await sb.auth.signOut();
-    setSession(null);
+    window.location.reload();
   };
 
   return (
@@ -128,7 +130,7 @@ export default function Comments({ storyKey }: { storyKey: string }) {
             <h3>Comentarios</h3>
             <button className="comments-link" onClick={() => setOpen(false)}>ocultar ✕</button>
           </div>
-          {comments.length === 0 && <p className="comments-empty">Todavía no hay comentarios. ¡Animate!</p>}
+          {comments.length === 0 && <p className="comments-empty">Todavía no hay comentarios.</p>}
           <ul className="comments-list">
             {comments.map((c) => (
               <li key={c.id}>
@@ -153,7 +155,7 @@ export default function Comments({ storyKey }: { storyKey: string }) {
           ) : (
             <div className="comments-auth">
               <p>Logueado como {maskAuthor(session.email)} <button onClick={logout} className="comments-link">salir</button></p>
-              <input type="text" maxLength={30} placeholder="Tu nombre" value={nickname} onChange={(e) => { setNickname(e.target.value); try { localStorage.setItem("ns_nick", e.target.value); } catch {} }} />
+              <input type="text" maxLength={30} placeholder="Tu nombre" value={nickname} onChange={(e) => { setNickname(e.target.value); }} />
               <textarea rows={3} placeholder="Comentario..." value={body} maxLength={1000} onChange={(e) => setBody(e.target.value)} />
               <div className="comments-buttons">
                 <button onClick={submitComment} disabled={loading || !body.trim()}>Comentar</button>
