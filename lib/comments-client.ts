@@ -4,6 +4,16 @@ import { createClient, SupabaseClient } from "@supabase/supabase-js";
 const URL = process.env.NEXT_PUBLIC_SUPABASE_URL ?? "";
 const ANON_KEY = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY ?? "";
 
+export type CommentRow = {
+  id: number;
+  story_key: string;
+  user_id: string;
+  author: string;
+  body: string;
+  status: "pending" | "approved" | "rejected" | "reported";
+  created_at: string;
+};
+
 // DEBUG: Imprimir parte del valor para saber si Vercel realmente está inyectando algo
 console.log("DEBUG SUPABASE:", { 
   URL_snippet: URL ? URL.substring(0, 10) + "..." : "VACÍA", 
