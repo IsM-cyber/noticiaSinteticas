@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
-import { supabaseAdmin } from "@/lib/comments";
+import { supabaseAdmin } from "@/lib/auth";
 
 export async function POST(req: NextRequest) {
   const admin = supabaseAdmin();

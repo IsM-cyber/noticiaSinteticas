@@ -1,9 +1,7 @@
-// lib/comments-client.ts
-import { createClient, SupabaseClient } from "@supabase/supabase-js";
-
-// Credenciales fijas para bypass de Vercel
-const URL = "https://noticiasinteticas.supabase.co";
-const ANON_KEY = "sb_publishable_VWr41XwLgexSou8zsbKVBg_s3ImXse4";
+// Utilidades compartidas entre cliente y servidor.
+// IMPORTANTE: este módulo NO crea clientes de Supabase a propósito.
+// El navegador nunca habla directo con Supabase (la red local no resuelve
+// el dominio), todo pasa por las rutas /api/* del servidor.
 
 export type CommentRow = {
   id: number;
@@ -15,12 +13,7 @@ export type CommentRow = {
   created_at: string;
 };
 
-export const COMMENTS_CONFIGURED = true; // Forzamos a true
-
-export function supabaseBrowser(): SupabaseClient {
-  return createClient(URL, ANON_KEY);
-}
-
+/** "jose*****@gmail.com" — mostrar el autor sin regalar el email completo */
 export function maskAuthor(email: string): string {
   const [name, domain] = email.split("@");
   if (!domain) return email;

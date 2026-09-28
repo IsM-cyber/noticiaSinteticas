@@ -1,7 +1,6 @@
 "use client";
 
 import { useCallback, useEffect, useState } from "react";
-import { COMMENTS_CONFIGURED, supabaseBrowser } from "@/lib/comments-client";
 
 type ReportedItem = {
   id: number;
@@ -22,73 +21,70 @@ type BannedItem = {
 };
 
 export default function AdminPage() {
-  const [session, setSession] = useState<{ email: string; token: string } | null>(null);
+  const [email, setEmail] = useState("");
   const [reported, setReported] = useState<ReportedItem[]>([]);
   const [banned, setBanned] = useState<BannedItem[]>([]);
   const [message, setMessage] = useState("");
   const [loading, setLoading] = useState(false);
 
   const load = useCallback(async (token: string) => {
-    const res = await fetch("/api/admin/comments", {
-      headers: { Authorization: `Bearer ${token}` },
-    });
-    if (!res.ok) {
-      setMessage("No autorizado: este panel es solo del editor.");
-      return;
-    }
+    const res = await fetch("/api/admin/comments", { headers: { Authorization: `Bearer ${token}` } });
+    if (!res.ok) { setMessage("No autorizado: este panel es solo del editor."); return; }
     const data = await res.json();
     setReported(data.reported ?? []);
     setBanned(data.banned ?? []);
   }, []);
 
   useEffect(() => {
-    if (!COMMENTS_CONFIGURED) return;
-    const sb = supabaseBrowser();
-    if (sb) {
-      sb.auth.getSession().then(({ data }) => {
-        if (data.session && data.session.user) {
-          const ses = { 
-            email: data.session.user.email ?? "", 
-            token: data.session.access_token 
-          };
-          setSession(ses);
-          load(ses.token);
-        }
-      });
-    }
+    const token = localStorage.getItem("ns_token");
+    if (!token) return;
+    fetch("/api/auth/session", { headers: { Authorization: `Bearer ${token}` } })
+      .then((r) => (r.ok ? r.json() : null))
+      .then((d) => { if (d?.email) { setEmail(d.email); void load(token); } })
+      .catch(() => { /* sin sesión */ });
   }, [load]);
 
+  const login = async () => {
+    const addr = prompt("Email del editor:");
+    if (!addr) return;
+    setLoading(true);
+    setMessage("");
+    try {
+      const res = await fetch("/api/auth/login", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ email: addr, password: prompt("Contraseña:") ?? "" }),
+      });
+      const data = await res.json();
+      if (!res.ok) { setMessage(`⚠️ ${data.error}`); return; }
+      localStorage.setItem("ns_token", data.token);
+      setEmail(data.email);
+      await load(data.token);
+    } catch { setMessage("⚠️ No se pudo conectar con el servidor."); }
+    setLoading(false);
+  };
+
   const act = async (body: object) => {
-    if (!session) return;
+    const token = localStorage.getItem("ns_token") ?? "";
     setLoading(true);
     await fetch("/api/admin/comments", {
       method: "PATCH",
-      headers: { "Content-Type": "application/json", Authorization: `Bearer ${session.token}` },
+      headers: { "Content-Type": "application/json", Authorization: `Bearer ${token}` },
       body: JSON.stringify(body),
     });
-    await load(session.token);
+    await load(token);
     setLoading(false);
   };
 
   const unban = async (userId: string) => {
-    if (!session) return;
+    const token = localStorage.getItem("ns_token") ?? "";
     setLoading(true);
     await fetch(`/api/admin/comments?user_id=${encodeURIComponent(userId)}`, {
       method: "DELETE",
-      headers: { Authorization: `Bearer ${session.token}` },
+      headers: { Authorization: `Bearer ${token}` },
     });
-    await load(session.token);
+    await load(token);
     setLoading(false);
-  };
-
-  const login = async () => {
-    const sb = supabaseBrowser();
-    if (!sb) return;
-    const { error } = await sb.auth.signInWithOtp({
-      email: prompt("Email del editor:") ?? "",
-      options: { emailRedirectTo: window.location.origin + "/admin" },
-    });
-    setMessage(error ? `⚠️ ${error.message}` : "Revisá tu email para entrar.");
   };
 
   return (
@@ -98,17 +94,17 @@ export default function AdminPage() {
         <p>Los comentarios se publican solos. Acá gestionás reportes y bloqueos.</p>
       </header>
 
-      {!session && (
+      {!email && (
         <div className="comments-auth">
           <p>Ingresá con el email del editor para moderar:</p>
-          <button onClick={login}>Enviar link de acceso</button>
+          <button onClick={login} disabled={loading}>Iniciar sesión</button>
         </div>
       )}
 
-      {session && (
+      {email && (
         <>
           <p className="comments-hint">
-            Logueado como {session.email} · {reported.length} reportados · {banned.length} bloqueados
+            Logueado como {email} · {reported.length} reportados · {banned.length} bloqueados
           </p>
 
           <h2 className="admin-section">⚠️ Reportados ({reported.length})</h2>
@@ -122,22 +118,13 @@ export default function AdminPage() {
                   <span>{c.reported_at ? new Date(c.reported_at).toLocaleString("es-AR") : ""}</span>
                 </div>
                 <p>{c.body}</p>
-                <p className="comments-hint">Noticia: {c.story_key?.slice(0, 70) ?? '—'}…</p>
+                <p className="comments-hint">Noticia: {c.story_key.slice(0, 70)}…</p>
                 <div className="comments-buttons">
-                  <button
-                    className="admin-ban"
-                    onClick={() => {
-                      if (confirm("¿Bloquear a este usuario?")) {
-                        act({ action: "ban", id: c.id });
-                      }
-                    }}
-                    disabled={loading}
-                  >
+                  <button className="admin-ban" disabled={loading}
+                    onClick={() => { if (confirm("¿Bloquear a este usuario?")) void act({ action: "ban", id: c.id }); }}>
                     🚫 Bloquear usuario
                   </button>
-                  <button onClick={() => act({ action: "clear", id: c.id })} disabled={loading}>
-                    Descartar reportes
-                  </button>
+                  <button onClick={() => act({ action: "clear", id: c.id })} disabled={loading}>Descartar reportes</button>
                 </div>
               </li>
             ))}
@@ -154,15 +141,14 @@ export default function AdminPage() {
                 </div>
                 <p className="comments-hint">{b.reason || "—"}</p>
                 <div className="comments-buttons">
-                  <button onClick={() => unban(b.user_id)} disabled={loading}>
-                    Desbloquear
-                  </button>
+                  <button onClick={() => unban(b.user_id)} disabled={loading}>Desbloquear</button>
                 </div>
               </li>
             ))}
           </ul>
         </>
       )}
+
       {message && <p className="comments-notice">{message}</p>}
     </main>
   );
