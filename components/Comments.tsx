@@ -18,7 +18,6 @@ export default function Comments({ storyKey }: { storyKey: string }) {
   const [open, setOpen] = useState(false);
   const [loaded, setLoaded] = useState(false);
   const [comments, setComments] = useState<CommentItem[]>([]);
-  const [enabled, setEnabled] = useState(COMMENTS_CONFIGURED);
   const [session, setSession] = useState<{ email: string; token: string } | null>(null);
   const [body, setBody] = useState("");
   const [authEmail, setAuthEmail] = useState("");
@@ -30,10 +29,6 @@ export default function Comments({ storyKey }: { storyKey: string }) {
   const load = useCallback(async () => {
     try {
       const res = await fetch(`/api/comments?story=${encodeURIComponent(storyKey)}`);
-      if (res.status === 501) {
-        setEnabled(false);
-        return;
-      }
       if (res.ok) {
         const data = await res.json();
         setComments(data.comments ?? []);
@@ -42,10 +37,6 @@ export default function Comments({ storyKey }: { storyKey: string }) {
   }, [storyKey]);
 
   useEffect(() => {
-    if (!COMMENTS_CONFIGURED) {
-      setEnabled(false);
-      return;
-    }
     const sb = supabaseBrowser();
     if (sb) {
       sb.auth.getSession().then(({ data }) => {
@@ -62,8 +53,6 @@ export default function Comments({ storyKey }: { storyKey: string }) {
     } catch { /* sin localStorage */ }
   }, []);
 
-  if (!enabled) return null;
-
   const toggle = async () => {
     if (!open && !loaded) {
       setLoaded(true);
@@ -78,19 +67,25 @@ export default function Comments({ storyKey }: { storyKey: string }) {
     const sb = supabaseBrowser();
     if (!sb) { setNotice("⚠️ Supabase no configurado."); setLoading(false); return; }
     
-    const result =
-      mode === "signup"
-        ? await sb.auth.signUp({ email: authEmail, password: authPass })
-        : await sb.auth.signInWithPassword({ email: authEmail, password: authPass });
-    setLoading(false);
-    if (result.error) {
-      setNotice(`⚠️ ${result.error.message}`);
-      return;
-    }
-    const ses = await sb.auth.getSession();
-    if (ses.data.session && ses.data.session.user) {
-      setSession({ email: ses.data.session.user.email ?? "", token: ses.data.session.access_token });
-      setNotice(mode === "signup" ? "Cuenta creada." : "Sesión iniciada.");
+    try {
+      const result =
+        mode === "signup"
+          ? await sb.auth.signUp({ email: authEmail, password: authPass })
+          : await sb.auth.signInWithPassword({ email: authEmail, password: authPass });
+      
+      setLoading(false);
+      if (result.error) {
+        setNotice(`⚠️ Error: ${result.error.message}`);
+        return;
+      }
+      const ses = await sb.auth.getSession();
+      if (ses.data.session && ses.data.session.user) {
+        setSession({ email: ses.data.session.user.email ?? "", token: ses.data.session.access_token });
+        setNotice(mode === "signup" ? "Cuenta creada." : "Sesión iniciada.");
+      }
+    } catch (e) {
+      setLoading(false);
+      setNotice(`⚠️ Error de red: ${e instanceof Error ? e.message : 'Ver consola'}`);
     }
   };
 
@@ -114,14 +109,6 @@ export default function Comments({ storyKey }: { storyKey: string }) {
       setNotice("Error de red.");
     }
     setLoading(false);
-  };
-
-  const report = async (id: number) => {
-    await fetch("/api/comments/report", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ id }),
-    });
   };
 
   const logout = async () => {
@@ -148,7 +135,6 @@ export default function Comments({ storyKey }: { storyKey: string }) {
                 <div className="comments-meta">
                   <strong>{maskAuthor(c.author)}</strong>
                   <span>{new Date(c.created_at).toLocaleString("es-AR")}</span>
-                  <button onClick={() => report(c.id)} title="Reportar">⚑</button>
                 </div>
                 <p>{c.body}</p>
               </li>
