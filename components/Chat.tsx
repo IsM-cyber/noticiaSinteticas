@@ -23,32 +23,8 @@ export default function Chat() {
   const [nickname, setNickname] = useState("");
   const [notice, setNotice] = useState("");
   const [loading, setLoading] = useState(false);
-  const [ready, setReady] = useState(false); // Solo renderizamos si el cliente es seguro
+  const [ready, setReady] = useState(false);
   const listRef = useRef<HTMLUListElement>(null);
-
-  useEffect(() => {
-    setReady(true); // Ya estamos en el navegador
-    
-    // Inicialización segura dentro de useEffect
-    try {
-      const sb = supabaseBrowser();
-      sb.auth.getSession().then(({ data }) => {
-        if (data.session) {
-          setSession({ email: data.session.user.email ?? "" });
-        }
-      });
-    } catch (e) {
-      console.error("Supabase init error (ignorable in local):", e);
-    }
-
-    try {
-      setNickname(localStorage.getItem("ns_nick") ?? "");
-    } catch {}
-
-    load();
-    const interval = setInterval(load, 1500);
-    return () => clearInterval(interval);
-  }, []);
 
   const load = useCallback(async () => {
     try {
@@ -57,18 +33,35 @@ export default function Chat() {
         const data = await res.json();
         setMessages(data.messages ?? []);
       }
-    } catch (e) {}
+    } catch (e) { /* Silencioso */ }
   }, []);
 
-  // Si no estamos listos, no renderizamos nada que pueda crashear
-  if (!ready) return <div style={{ height: '340px' }} />;
+  useEffect(() => {
+    setReady(true);
+    const sb = supabaseBrowser();
+    if (sb) {
+      sb.auth.getSession().then(({ data }) => {
+        if (data.session) {
+          setSession({ email: data.session.user.email ?? "" });
+        }
+      });
+    }
 
-  // ... (el resto del render sigue igual)
+    try {
+      setNickname(localStorage.getItem("ns_nick") ?? "");
+    } catch { /* sin localStorage */ }
+
+    load();
+    const interval = setInterval(load, 1500);
+    return () => clearInterval(interval);
+  }, [load]);
+
   const submitAuth = async (mode: "login" | "signup") => {
+    const sb = supabaseBrowser();
+    if (!sb) { setNotice("⚠️ Supabase no configurado."); return; }
     setLoading(true);
     setNotice("");
     try {
-      const sb = supabaseBrowser();
       const result =
         mode === "signup"
           ? await sb.auth.signUp({ email: authEmail, password: authPass })
@@ -93,10 +86,9 @@ export default function Chat() {
   };
 
   const logout = async () => {
-    try {
-      await supabaseBrowser().auth.signOut();
-      setSession(null);
-    } catch {}
+    const sb = supabaseBrowser();
+    if (sb) await sb.auth.signOut();
+    setSession(null);
   };
 
   const handleSubmit = async (e: React.FormEvent) => {
@@ -114,6 +106,7 @@ export default function Chat() {
     } catch (e) { setBody(msg); }
   };
 
+  // ... (renderizado igual)
   return (
     <section style={{ marginTop: '32px', padding: '16px', background: '#0e1320', border: '1px solid #223051', borderRadius: '10px' }}>
       <h3 style={{ color: '#00e5ff', margin: '0 0 12px' }}>Chat Global</h3>
