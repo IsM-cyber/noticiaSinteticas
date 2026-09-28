@@ -1,9 +1,9 @@
-// Módulo SOLO para el navegador
+// lib/comments-client.ts
 import { createClient, SupabaseClient } from "@supabase/supabase-js";
 
-// Credenciales públicas con respaldo directo para evitar fallos en Vercel
-const URL = process.env.NEXT_PUBLIC_SUPABASE_URL || "https://noticiasinteticas.supabase.co";
-const ANON_KEY = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY || "sb_publishable_VWr41XwLgexSou8zsbKVBg_s3ImXse4";
+// Sin credenciales fijas. Usamos las de entorno de Vercel.
+const URL = process.env.NEXT_PUBLIC_SUPABASE_URL || "";
+const ANON_KEY = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY || "";
 
 export type CommentRow = {
   id: number;
@@ -17,11 +17,9 @@ export type CommentRow = {
 
 export const COMMENTS_CONFIGURED = Boolean(URL && ANON_KEY);
 
-console.log("DEBUG SUPABASE (Con respaldo):", { URL, hasKey: !!ANON_KEY });
-
 export function supabaseBrowser(): SupabaseClient | null {
   if (!COMMENTS_CONFIGURED) {
-    console.error("Supabase NO está configurado.");
+    console.warn("Supabase no configurado (esto es normal si no se han cargado variables).");
     return null;
   }
   return createClient(URL, ANON_KEY);
