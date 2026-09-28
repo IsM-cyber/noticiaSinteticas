@@ -43,13 +43,19 @@ export default function AdminPage() {
 
   useEffect(() => {
     if (!COMMENTS_CONFIGURED) return;
-    supabaseBrowser().auth.getSession().then(({ data }) => {
-      if (data.session) {
-        const ses = { email: data.session.user.email ?? "", token: data.session.access_token };
-        setSession(ses);
-        load(ses.token);
-      }
-    });
+    const sb = supabaseBrowser();
+    if (sb) {
+      sb.auth.getSession().then(({ data }) => {
+        if (data.session && data.session.user) {
+          const ses = { 
+            email: data.session.user.email ?? "", 
+            token: data.session.access_token 
+          };
+          setSession(ses);
+          load(ses.token);
+        }
+      });
+    }
   }, [load]);
 
   const act = async (body: object) => {
@@ -76,7 +82,9 @@ export default function AdminPage() {
   };
 
   const login = async () => {
-    const { error } = await supabaseBrowser().auth.signInWithOtp({
+    const sb = supabaseBrowser();
+    if (!sb) return;
+    const { error } = await sb.auth.signInWithOtp({
       email: prompt("Email del editor:") ?? "",
       options: { emailRedirectTo: window.location.origin + "/admin" },
     });
@@ -86,9 +94,7 @@ export default function AdminPage() {
   return (
     <main className="wrap">
       <header className="hero">
-        <h1>
-          Moderación <span>de comentarios</span>
-        </h1>
+        <h1>Moderación <span>de comentarios</span></h1>
         <p>Los comentarios se publican solos. Acá gestionás reportes y bloqueos.</p>
       </header>
 
@@ -106,9 +112,7 @@ export default function AdminPage() {
           </p>
 
           <h2 className="admin-section">⚠️ Reportados ({reported.length})</h2>
-          {reported.length === 0 && (
-            <p className="comments-empty">Sin reportes. ¡Todo al día!</p>
-          )}
+          {reported.length === 0 && <p className="comments-empty">Sin reportes. ¡Todo al día!</p>}
           <ul className="comments-list">
             {reported.map((c) => (
               <li key={c.id} className="admin-item">
@@ -118,12 +122,12 @@ export default function AdminPage() {
                   <span>{c.reported_at ? new Date(c.reported_at).toLocaleString("es-AR") : ""}</span>
                 </div>
                 <p>{c.body}</p>
-                <p className="comments-hint">Noticia: {c.story_key.slice(0, 70)}…</p>
+                <p className="comments-hint">Noticia: {c.story_key?.slice(0, 70) ?? '—'}…</p>
                 <div className="comments-buttons">
                   <button
                     className="admin-ban"
                     onClick={() => {
-                      if (confirm("¿Bloquear a este usuario? Sus futuros comentarios serán rechazados.")) {
+                      if (confirm("¿Bloquear a este usuario?")) {
                         act({ action: "ban", id: c.id });
                       }
                     }}
