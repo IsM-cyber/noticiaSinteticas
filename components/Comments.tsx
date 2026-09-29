@@ -52,6 +52,15 @@ export default function Comments({ storyKey }: { storyKey: string }) {
     setOpen((o) => !o);
   };
 
+  // Los comentarios se releen cada 8s mientras el panel esta abierto: si no,
+  // lo que escribe otra maquina no aparece hasta que recargues a mano. El
+  // chat ya refresca cada 3s por el mismo motivo.
+  useEffect(() => {
+    if (!open || !loaded) return;
+    const id = setInterval(() => { void load(); }, 8000);
+    return () => clearInterval(id);
+  }, [open, loaded, load]);
+
   const submitAuth = async (mode: "login" | "signup") => {
     setLoading(true);
     setNotice("");
