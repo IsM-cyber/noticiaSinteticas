@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
-import { supabaseAdmin } from "@/lib/auth";
+import { supabaseAdmin, trustedAuthor } from "@/lib/auth";
 
 export const dynamic = "force-dynamic";
 
@@ -22,7 +22,7 @@ async function currentUser(req: NextRequest): Promise<{ id: string; email: strin
 
 /**
  * GET  /api/chat          → últimos 50 mensajes
- * POST /api/chat          → { body, author }  (requiere sesión)
+ * POST /api/chat          → { body }  (autor sale de la sesion)
  *
  * Antes se enviaba por GET (?msg=) para esquivar CORS; con el proxy de
  * servidor ya no hace falta y además el GET era mutante.
@@ -42,23 +42,19 @@ export async function GET(req: NextRequest) {
 }
 
 export async function POST(req: NextRequest) {
-  const { body, author } = (await req.json()) as { body?: string; author?: string };
+  const { body } = (await req.json()) as { body?: string };
 
   const clean = (body ?? "").trim();
   if (clean.length < 1 || clean.length > 500) {
     return NextResponse.json({ error: "El mensaje debe tener entre 1 y 500 caracteres" }, { status: 400 });
   }
 
-  // El nombre visible lo elige el usuario; si no, se enmascara el email.
-  const name = (author ?? "").replace(/[\x00-\x1f\x7f]/g, "").trim().slice(0, 30);
-
   const user = await currentUser(req);
   if (!user) return NextResponse.json({ error: "Iniciá sesión para chatear" }, { status: 401 });
 
-  const visible = name || (() => {
-    const [n, d] = user.email.split("@");
-    return d ? `${n.slice(0, 2)}*****@${d}` : "anónimo";
-  })();
+  // El autor sale de la SESION verificada, no del body: asi nadie escribe en
+  // nombre de otro. Si la cuenta no tiene nickname, cae al email enmascarado.
+  const visible = trustedAuthor(user);
 
   const admin = supabaseAdmin();
   if (!admin) {

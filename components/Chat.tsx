@@ -21,6 +21,8 @@ export default function Chat() {
   const [showAuth, setShowAuth] = useState(false);
   const [authEmail, setAuthEmail] = useState("");
   const [authPass, setAuthPass] = useState("");
+  const [authNick, setAuthNick] = useState("");
+  const [authMode, setAuthMode] = useState<"login" | "signup">("login");
   const [notice, setNotice] = useState("");
   const [loading, setLoading] = useState(false);
   const [ready, setReady] = useState(false);
@@ -38,12 +40,21 @@ export default function Chat() {
   useEffect(() => {
     setReady(true);
     try {
+      // Solo como respaldo mientras se consulta la sesion: el nombre real
+      // viene del servidor (/api/auth/session), no del navegador.
       setNickname(localStorage.getItem(NICK_KEY) ?? "");
       const token = localStorage.getItem(TOKEN_KEY);
       if (token) {
         fetch("/api/auth/session", { headers: { Authorization: `Bearer ${token}` } })
           .then((r) => (r.ok ? r.json() : null))
-          .then((d) => { if (d?.email) setEmail(d.email); else localStorage.removeItem(TOKEN_KEY); })
+          .then((d) => {
+                if (!d?.email) { localStorage.removeItem(TOKEN_KEY); return; }
+                setEmail(d.email);
+                if (d.nickname) {
+                  setNickname(d.nickname);
+                  try { localStorage.setItem(NICK_KEY, d.nickname); } catch {}
+                }
+              })
           .catch(() => { localStorage.removeItem(TOKEN_KEY); });
       }
     } catch { /* sin localStorage */ }
@@ -65,7 +76,11 @@ export default function Chat() {
       const res = await fetch(`/api/auth/${mode}`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ email: authEmail, password: authPass }),
+        body: JSON.stringify({
+          email: authEmail,
+          password: authPass,
+          nickname: mode === "signup" ? authNick : undefined,
+        }),
       });
       const data = await res.json();
       if (!res.ok) { setNotice(`⚠️ ${data.error ?? "No se pudo completar"}`); return; }
@@ -93,7 +108,7 @@ export default function Chat() {
       const res = await fetch("/api/chat", {
         method: "POST",
         headers: { "Content-Type": "application/json", Authorization: `Bearer ${token}` },
-        body: JSON.stringify({ body: clean, author: nickname }),
+        body: JSON.stringify({ body: clean }),
       });
       if (!res.ok) {
         const d = await res.json().catch(() => ({}));
@@ -147,11 +162,9 @@ export default function Chat() {
       )}
 
       {email && (
-        <input
-          type="text" placeholder="Tu nombre (opcional)" value={nickname} maxLength={30}
-          onChange={(e) => { setNickname(e.target.value); try { localStorage.setItem(NICK_KEY, e.target.value); } catch {} }}
-          style={{ width: "100%", padding: 8, marginBottom: 8, boxSizing: "border-box", borderRadius: 6, border: "1px solid #223051", background: "#07090f", color: "#d9e4f5", fontSize: "0.85rem" }}
-        />
+        <div style={{ marginBottom: 8, fontSize: "0.8rem", color: "#7f8db0" }}>
+          Hablando como <strong style={{ color: "#00e5ff" }}>{nickname || email}</strong>
+        </div>
       )}
 
       {/* <form> nativo: Enter envía de forma nativa y confiable */}
@@ -177,10 +190,15 @@ export default function Chat() {
           <input type="password" placeholder="contraseña (mín. 6)" value={authPass} autoComplete="current-password"
             onChange={(e) => setAuthPass(e.target.value)}
             style={{ width: "100%", padding: 8, marginBottom: 10, boxSizing: "border-box", borderRadius: 6, border: "1px solid #223051", background: "#07090f", color: "#d9e4f5" }} />
+              {authMode === "signup" && (
+                <input type="text" placeholder="nombre de usuario" value={authNick} maxLength={20}
+                  autoComplete="nickname" onChange={(e) => setAuthNick(e.target.value)}
+                  style={{ width: "100%", padding: 8, marginBottom: 8, boxSizing: "border-box", borderRadius: 6, border: "1px solid #223051", background: "#07090f", color: "#d9e4f5" }} />
+              )}
           <div style={{ display: "flex", gap: 8 }}>
-            <button onClick={() => submitAuth("login")} disabled={loading}
+            <button onClick={() => { setAuthMode("login"); void submitAuth("login"); }} disabled={loading}
               style={{ flex: 1, padding: 8, borderRadius: 6, border: "none", background: "#00e5ff", color: "#0e1320", fontWeight: 700, cursor: "pointer" }}>Entrar</button>
-            <button onClick={() => submitAuth("signup")} disabled={loading}
+            <button onClick={() => { setAuthMode("signup"); void submitAuth("signup"); }} disabled={loading}
               style={{ flex: 1, padding: 8, borderRadius: 6, border: "1px solid #00e5ff", background: "transparent", color: "#00e5ff", fontWeight: 700, cursor: "pointer" }}>Crear cuenta</button>
           </div>
         </div>

@@ -21,6 +21,8 @@ export default function Comments({ storyKey }: { storyKey: string }) {
   const [body, setBody] = useState("");
   const [authEmail, setAuthEmail] = useState("");
   const [authPass, setAuthPass] = useState("");
+  const [authNick, setAuthNick] = useState("");
+  const [authMode, setAuthMode] = useState<"login" | "signup">("login");
   const [nickname, setNickname] = useState("");
   const [notice, setNotice] = useState("");
   const [loading, setLoading] = useState(false);
@@ -36,12 +38,21 @@ export default function Comments({ storyKey }: { storyKey: string }) {
 
   useEffect(() => {
     try {
+      // Solo como respaldo mientras se consulta la sesion: el nombre real
+      // viene del servidor (/api/auth/session), no del navegador.
       setNickname(localStorage.getItem(NICK_KEY) ?? "");
       const token = localStorage.getItem(TOKEN_KEY);
       if (token) {
         fetch("/api/auth/session", { headers: { Authorization: `Bearer ${token}` } })
           .then((r) => (r.ok ? r.json() : null))
-          .then((d) => { if (d?.email) setEmail(d.email); else localStorage.removeItem(TOKEN_KEY); })
+          .then((d) => {
+                if (!d?.email) { localStorage.removeItem(TOKEN_KEY); return; }
+                setEmail(d.email);
+                if (d.nickname) {
+                  setNickname(d.nickname);
+                  try { localStorage.setItem(NICK_KEY, d.nickname); } catch {}
+                }
+              })
           .catch(() => { localStorage.removeItem(TOKEN_KEY); });
       }
     } catch { /* sin localStorage */ }
@@ -68,7 +79,11 @@ export default function Comments({ storyKey }: { storyKey: string }) {
       const res = await fetch(`/api/auth/${mode}`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ email: authEmail, password: authPass }),
+        body: JSON.stringify({
+          email: authEmail,
+          password: authPass,
+          nickname: mode === "signup" ? authNick : undefined,
+        }),
       });
       const data = await res.json();
       if (!res.ok) { setNotice(`⚠️ ${data.error ?? "No se pudo completar"}`); return; }
@@ -88,7 +103,7 @@ export default function Comments({ storyKey }: { storyKey: string }) {
       const res = await fetch("/api/comments", {
         method: "POST",
         headers: { "Content-Type": "application/json", Authorization: `Bearer ${token}` },
-        body: JSON.stringify({ story: storyKey, body, author: nickname }),
+        body: JSON.stringify({ story: storyKey, body }),
       });
       const data = await res.json();
       if (!res.ok) { setNotice(`⚠️ ${data.error ?? "No se pudo publicar"}`); return; }
@@ -137,16 +152,19 @@ export default function Comments({ storyKey }: { storyKey: string }) {
                 onChange={(e) => setAuthEmail(e.target.value)} />
               <input type="password" placeholder="contraseña (mín. 6)" value={authPass} autoComplete="current-password"
                 onChange={(e) => setAuthPass(e.target.value)} />
+              {authMode === "signup" && (
+                <input type="text" placeholder="nombre de usuario" value={authNick} maxLength={20}
+                  autoComplete="nickname" onChange={(e) => setAuthNick(e.target.value)}
+                  style={{ width: "100%", padding: 8, marginBottom: 8, boxSizing: "border-box", borderRadius: 6, border: "1px solid #223051", background: "#07090f", color: "#d9e4f5" }} />
+              )}
               <div className="comments-buttons">
-                <button onClick={() => submitAuth("login")} disabled={loading}>Entrar</button>
-                <button onClick={() => submitAuth("signup")} disabled={loading}>Crear cuenta</button>
+                <button onClick={() => { setAuthMode("login"); void submitAuth("login"); }} disabled={loading}>Entrar</button>
+                <button onClick={() => { setAuthMode("signup"); void submitAuth("signup"); }} disabled={loading}>Crear cuenta</button>
               </div>
             </div>
           ) : (
             <div className="comments-auth">
-              <p>Conectado como {maskAuthor(email)} <button onClick={logout} className="comments-link">salir</button></p>
-              <input type="text" maxLength={30} placeholder="Tu nombre" value={nickname}
-                onChange={(e) => { setNickname(e.target.value); try { localStorage.setItem(NICK_KEY, e.target.value); } catch {} }} />
+              <p>Conectado como <strong>{nickname || maskAuthor(email)}</strong> <button onClick={logout} className="comments-link">salir</button></p>
               <textarea rows={3} placeholder="Comentario..." value={body} maxLength={1000}
                 onChange={(e) => setBody(e.target.value)} />
               <div className="comments-buttons">

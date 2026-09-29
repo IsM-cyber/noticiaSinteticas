@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
-import { supabaseAdmin } from "@/lib/auth";
+import { supabaseAdmin, safeNickname } from "@/lib/auth";
 
 export const dynamic = "force-dynamic";
 
@@ -13,9 +13,10 @@ export async function POST(req: NextRequest) {
     );
   }
 
-  const { email, password } = (await req.json()) as {
+  const { email, password, nickname } = (await req.json()) as {
     email?: string;
     password?: string;
+    nickname?: string;
   };
   if (!email || !password) {
     return NextResponse.json(
@@ -30,6 +31,14 @@ export async function POST(req: NextRequest) {
     );
   }
 
+  const nick = safeNickname(nickname);
+  if (!nick) {
+    return NextResponse.json(
+      { error: "Elegi un nombre de usuario de 2 a 20 caracteres (letras, numeros o guion bajo)" },
+      { status: 400 },
+    );
+  }
+
   // Con la service key hay que usar admin.createUser con email_confirm: true.
   // auth.signUp() NO auto-confirma con la service key: exigía confirmar el email
   // y el usuario se quedaba sin poder iniciar sesión.
@@ -37,6 +46,9 @@ export async function POST(req: NextRequest) {
     email,
     password,
     email_confirm: true,
+    // El nombre de usuario vive aca. Es lo que el servidor usa como autor en
+    // el chat y en los comentarios, asi nadie puede escribir en nombre de otro.
+    user_metadata: { nickname: nick },
   });
   if (error) {
     const msg = /already registered|already exists/i.test(error.message)
@@ -58,7 +70,7 @@ export async function POST(req: NextRequest) {
     );
   }
   return NextResponse.json(
-    { token: login.session?.access_token, email: data.user?.email ?? email },
+    { token: login.session?.access_token, email: data.user?.email ?? email, nickname: nick },
     { status: 201 },
   );
 }

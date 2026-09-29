@@ -1,5 +1,11 @@
 import { NextRequest, NextResponse } from "next/server";
-import { supabaseAdmin, publicAuthor, safeAuthor, SUPABASE_CONFIGURED } from "@/lib/auth";
+import {
+  supabaseAdmin,
+  publicAuthor,
+  safeAuthor,
+  trustedAuthor,
+  SUPABASE_CONFIGURED,
+} from "@/lib/auth";
 
 export const dynamic = "force-dynamic";
 
@@ -67,7 +73,7 @@ export async function POST(req: NextRequest) {
   const { error } = await admin.from("comments").insert({
     story_key: story,
     user_id: user.user.id,
-    author: safeAuthor(rawEmail, author),
+    author: trustedAuthor(user.user),
     body: clean,
     status: "approved",
   });

@@ -68,3 +68,38 @@ export function safeAuthor(rawEmail: string, chosen: string | undefined): string
 
   return visible || maskEmail(rawEmail) || "anónimo";
 }
+
+/** "Editor" es el nombre reservado del administrador: no se puede tomar. */
+const RESERVED_NICK = "editor";
+
+/**
+ * Normaliza un nombre de usuario. 2 a 20 caracteres, letras/numeros/guion
+ * bajo/espacio, sin @ (asi nunca puede parecer un email) y sin caracteres
+ * de control. Devuelve "" si no sirve, para que el llamador decida el fallback.
+ */
+export function safeNickname(raw: unknown): string {
+  if (typeof raw !== "string") return "";
+  const clean = raw.replace(/[\x00-\x1f\x7f]/g, "").replace(/\s+/g, " ").trim();
+  if (clean.length < 2 || clean.length > 20) return "";
+  if (!/^[\p{L}\p{N}_ ]+$/u.test(clean)) return "";
+  if (clean.toLowerCase() === RESERVED_NICK) return "";
+  return clean;
+}
+
+/** Nombre de usuario guardado en la cuenta, ya normalizado (o "" si no hay). */
+export function nicknameOf(user: { user_metadata?: Record<string, unknown> } | null): string {
+  return safeNickname(user?.user_metadata?.nickname);
+}
+
+/**
+ * Autor confiable de un mensaje o comentario: sale de la SESION verificada del
+ * servidor, nunca del cuerpo del request. Asi nadie puede escribir en nombre de
+ * otro. Si la cuenta no tiene nickname (creada antes de esta funcion), cae al
+ * email enmascarado como antes.
+ */
+export function trustedAuthor(
+  user: { email?: string; user_metadata?: Record<string, unknown> } | null,
+): string {
+  if (!user) return "anónimo";
+  return nicknameOf(user) || publicAuthor(user.email ?? "");
+}
