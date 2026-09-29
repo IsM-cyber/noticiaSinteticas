@@ -23,6 +23,9 @@ export default function Chat() {
   const [authNick, setAuthNick] = useState("");
   const [authMode, setAuthMode] = useState<"login" | "signup">("login");
   const [notice, setNotice] = useState("");
+  // El panel de ingreso no esta a la vista hasta que se intenta chatear sin
+  // sesion: si esta siempre, ocupa media pantalla sin que nadie lo pidiera.
+  const [showAuth, setShowAuth] = useState(false);
   const [loading, setLoading] = useState(false);
   const [ready, setReady] = useState(false);
   const listRef = useRef<HTMLUListElement>(null);
@@ -59,7 +62,7 @@ export default function Chat() {
     const r = el.getBoundingClientRect();
     const centrado = window.scrollY + r.top - (window.innerHeight - r.height) / 2;
     window.scrollTo({ top: Math.max(0, Math.round(centrado)), behavior: "smooth" });
-      }, [authMode, ready]);
+      }, [authMode, showAuth, ready]);
 
   useEffect(() => {
     const el = listRef.current;
@@ -88,6 +91,7 @@ export default function Chat() {
       if (!res.ok) { setNotice(`⚠️ ${data.error ?? "No se pudo completar"}`); return; }
       if (!data.token) { setNotice(`✅ ${data.error ?? "Cuenta creada. Ya podés iniciar sesión."}`); return; }
       startSession({ email: data.email, nickname: data.nickname ?? "" }, data.token);
+      setShowAuth(false);
     } catch { setNotice("⚠️ No se pudo conectar con el servidor."); }
     setLoading(false);
   };
@@ -99,7 +103,13 @@ export default function Chat() {
   const send = async () => {
     const clean = body.trim();
     if (!clean) return;
-        if (!email) { setNotice("Iniciá sesión para chatear."); return; }
+        if (!email) {
+        // Chatear sin sesion no tiene sentido: el panel se abre en el momento
+        // del intento, que es cuando el usuario se entera de que hace falta entrar.
+        setShowAuth(true);
+        setNotice("Ingresá para chatear.");
+        return;
+      }
     const token = getToken();
 
     setBody("");
@@ -166,11 +176,9 @@ export default function Chat() {
 
           {notice && <p style={{ color: "#ffb86b", fontSize: "0.8rem", margin: "10px 0 0" }}>{notice}</p>}
 
-          {/* El formulario se dibuja siempre que no haya sesion, igual que en los
-              comentarios. Antes habia que tocar "Inicia sesion para chatear" y ahi
-              recien aparecia: si ese boton no se veia o no respondia, el campo de
-              nombre de usuario no llegaba a existir. */}
-          {!email && (
+          {/* El panel se dibuja cuando se intenta mandar un mensaje sin sesion, no
+                  antes. Con sesion no aparece nunca, asi que no ocupa lugar. */}
+              {!email && showAuth && (
             <div ref={panelRef} style={{ background: "#161b22", padding: 15, borderRadius: 8, border: "1px solid #30363d", marginTop: 12 }}>
               <p style={{ margin: "0 0 8px", color: "#d9e4f5", fontSize: "0.9rem" }}>
                 {authMode === "signup" ? "Creá tu cuenta:" : "Ingresá para chatear:"}

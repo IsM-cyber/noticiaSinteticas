@@ -26,6 +26,9 @@ export default function Comments({ storyKey }: { storyKey: string }) {
   const nickname = sesion?.nickname ?? "";
   const [notice, setNotice] = useState("");
   const [loading, setLoading] = useState(false);
+  // El formulario de ingreso no esta siempre a la vista: aparece recien cuando se
+  // intenta comentar sin sesion, no antes.
+  const [showAuth, setShowAuth] = useState(false);
 
   const load = useCallback(async () => {
     try {
@@ -84,6 +87,12 @@ export default function Comments({ storyKey }: { storyKey: string }) {
 
   const submitComment = async () => {
     if (!body.trim()) return;
+    // Sin sesion el formulario se abre en el momento del intento, no de antemano.
+    if (!email) {
+      setShowAuth(true);
+      setNotice("Ingresá para comentar.");
+      return;
+    }
     const token = getToken();
     setLoading(true);
     setNotice("");
@@ -133,7 +142,11 @@ export default function Comments({ storyKey }: { storyKey: string }) {
               </ul>
             )}
 
-          {!email ? (
+          {email && (
+            <p className="comments-auth-line">Conectado como <strong>{nickname || maskAuthor(email)}</strong> <button type="button" onClick={logout} className="comments-link">salir</button></p>
+          )}
+    
+          {!email && showAuth && (
             <div className="comments-auth">
               <p>Ingresá para comentar:</p>
               <input type="email" placeholder="tu@email.com" value={authEmail} autoComplete="email"
@@ -145,27 +158,26 @@ export default function Comments({ storyKey }: { storyKey: string }) {
                   <input type="text" placeholder="nombre de usuario" value={authNick} maxLength={20}
                     autoComplete="nickname" onChange={(e) => setAuthNick(e.target.value)} />
                   <div className="comments-buttons">
-                    <button onClick={() => { setAuthMode("login"); setNotice(""); }} disabled={loading}>Volver</button>
-                    <button onClick={() => void submitAuth("signup")} disabled={loading}>Crear cuenta</button>
+                    <button type="button" onClick={() => { setAuthMode("login"); setNotice(""); }} disabled={loading}>Volver</button>
+                    <button type="button" onClick={() => void submitAuth("signup")} disabled={loading}>Crear cuenta</button>
                   </div>
                 </>
               ) : (
                 <div className="comments-buttons">
-                  <button onClick={() => void submitAuth("login")} disabled={loading}>Entrar</button>
-                  <button onClick={() => { setAuthMode("signup"); setNotice(""); }} disabled={loading}>Crear cuenta</button>
+                  <button type="button" onClick={() => void submitAuth("login")} disabled={loading}>Entrar</button>
+                  <button type="button" onClick={() => { setAuthMode("signup"); setNotice(""); }} disabled={loading}>Crear cuenta</button>
                 </div>
               )}
             </div>
-          ) : (
-            <div className="comments-auth">
-              <p>Conectado como <strong>{nickname || maskAuthor(email)}</strong> <button onClick={logout} className="comments-link">salir</button></p>
-              <textarea rows={3} placeholder="Comentario..." value={body} maxLength={1000}
-                onChange={(e) => setBody(e.target.value)} />
-              <div className="comments-buttons">
-                <button onClick={submitComment} disabled={loading || !body.trim()}>Comentar</button>
-              </div>
-            </div>
           )}
+    
+          <div className="comments-auth">
+            <textarea rows={3} placeholder="Comentario..." value={body} maxLength={1000}
+              onChange={(e) => setBody(e.target.value)} />
+            <div className="comments-buttons">
+              <button type="button" onClick={submitComment} disabled={loading || !body.trim()}>Comentar</button>
+            </div>
+          </div>
 
           {notice && <p className="comments-notice">{notice}</p>}
         </section>
