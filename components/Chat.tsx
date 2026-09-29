@@ -27,7 +27,6 @@ export default function Chat() {
   const [loading, setLoading] = useState(false);
   const [ready, setReady] = useState(false);
   const listRef = useRef<HTMLUListElement>(null);
-  const panelRef = useRef<HTMLDivElement>(null);
 
   const load = useCallback(async () => {
     try {
@@ -48,15 +47,6 @@ export default function Chat() {
         const interval = setInterval(load, 3000);
         return () => clearInterval(interval);
       }, [load]);
-
-  // La seccion del chat tiene su propio scroll (esta dentro de un sidebar
-  // sticky, asi que scrollear la pagina no alcanza). Al abrir el panel y al
-  // pasar a modo "Crear cuenta" hay que traerlo a la vista: el campo de nombre
-  // de usuario queda por debajo del pliegue si no.
-  useEffect(() => {
-    if (!showAuth) return;
-    panelRef.current?.scrollIntoView({ behavior: "smooth", block: "center" });
-  }, [showAuth, authMode]);
 
   useEffect(() => {
     const el = listRef.current;
@@ -122,7 +112,7 @@ export default function Chat() {
       // Ahora el marco se dibuja siempre y el estado va adentro.
 
   return (
-    <section style={{ marginTop: 32, padding: 16, background: "#0e1320", border: "1px solid #223051", borderRadius: 10, maxHeight: "calc(100vh - 48px)", overflowY: "auto" }}>
+    <section style={{ marginTop: 32, padding: 16, background: "#0e1320", border: "1px solid #223051", borderRadius: 10 }}>
       <h3 style={{ color: "#00e5ff", margin: "0 0 12px" }}>Chat global</h3>
 
         {!ready && (
@@ -176,7 +166,24 @@ export default function Chat() {
       {notice && <p style={{ color: "#ffb86b", fontSize: "0.8rem", margin: "10px 0 0" }}>{notice}</p>}
 
       {showAuth && !email && (
-        <div ref={panelRef} style={{ background: "#161b22", padding: 15, borderRadius: 8, border: "1px solid #30363d", marginTop: 12 }}>
+        <div
+          role="dialog"
+          aria-modal="true"
+          aria-label="Acceso al chat"
+          onClick={(e) => { if (e.target === e.currentTarget) setShowAuth(false); }}
+          style={{
+            position: "fixed", inset: 0, zIndex: 1000,
+            background: "rgba(4,7,14,0.78)",
+            display: "flex", alignItems: "center", justifyContent: "center",
+            padding: 16, boxSizing: "border-box",
+          }}
+        >
+        <div style={{
+          background: "#161b22", padding: 15, borderRadius: 8,
+          border: "1px solid #30363d",
+          width: "100%", maxWidth: 340,
+          maxHeight: "100%", overflowY: "auto", boxSizing: "border-box",
+        }}>
           <div style={{ display: "flex", justifyContent: "space-between", marginBottom: 8 }}>
             <span style={{ color: "#00e5ff", fontSize: "0.9rem", fontWeight: 700 }}>Logueate</span>
             <button onClick={() => setShowAuth(false)} style={{ background: "none", border: "none", color: "#7f8db0", cursor: "pointer" }}>✕</button>
@@ -206,6 +213,7 @@ export default function Chat() {
                     style={{ flex: 1, padding: 8, borderRadius: 6, border: "1px solid #00e5ff", background: "transparent", color: "#00e5ff", fontWeight: 700, cursor: "pointer" }}>Crear cuenta</button>
                 </div>
               )}
+        </div>
         </div>
       )}
     </section>
