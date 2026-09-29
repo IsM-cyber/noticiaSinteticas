@@ -168,7 +168,7 @@ export default function Chat() {
       {showAuth && !email && (
         <div style={{ background: "#161b22", padding: 15, borderRadius: 8, border: "1px solid #30363d", marginTop: 12 }}>
           <div style={{ display: "flex", justifyContent: "space-between", marginBottom: 8 }}>
-            <span style={{ color: "#00e5ff", fontSize: "0.9rem", fontWeight: 700 }}>Identificate</span>
+            <span style={{ color: "#00e5ff", fontSize: "0.9rem", fontWeight: 700 }}>Logueate</span>
             <button onClick={() => setShowAuth(false)} style={{ background: "none", border: "none", color: "#7f8db0", cursor: "pointer" }}>✕</button>
           </div>
           <input type="email" placeholder="tu@email.com" value={authEmail} autoComplete="email"
@@ -180,7 +180,7 @@ export default function Chat() {
               {authMode === "signup" ? (
                 <>
                   <input type="text" placeholder="nombre de usuario" value={authNick} maxLength={20}
-                    autoComplete="nickname" onChange={(e) => setAuthNick(e.target.value)} />
+                    autoComplete="nickname" onChange={(e) => setAuthNick(e.target.value)} style={{ width: "100%", padding: 8, marginBottom: 8, boxSizing: "border-box", borderRadius: 6, border: "1px solid #223051", background: "#07090f", color: "#d9e4f5" }} />
                   <div style={{ display: "flex", gap: 8 }}>
                     <button onClick={() => { setAuthMode("login"); setNotice(""); }} disabled={loading}
                       style={{ flex: 1, padding: 8, borderRadius: 6, border: "1px solid #223051", background: "transparent", color: "#7f8db0", fontWeight: 700, cursor: "pointer" }}>Volver</button>
