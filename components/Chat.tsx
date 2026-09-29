@@ -105,11 +105,19 @@ export default function Chat() {
     } catch { setBody(clean); setNotice("⚠️ Error de red."); }
   };
 
-  if (!ready) return null;
+  // Antes: if (!ready) return null. Con eso, si el JS no cargaba o fallaba
+      // la hidratacion, el chat no se veia nunca y sin mostrar ningun error.
+      // Ahora el marco se dibuja siempre y el estado va adentro.
 
   return (
     <section style={{ marginTop: 32, padding: 16, background: "#0e1320", border: "1px solid #223051", borderRadius: 10 }}>
       <h3 style={{ color: "#00e5ff", margin: "0 0 12px" }}>Chat global</h3>
+
+        {!ready && (
+          <p style={{ color: "#7f8db0", fontSize: "0.8rem", margin: 0 }}>
+            Cargando chat…
+          </p>
+        )}
 
       <ul ref={listRef} style={{ height: 300, overflowY: "auto", background: "#07090f", padding: 10, borderRadius: 8, border: "1px solid #223051", listStyle: "none", margin: "0 0 12px" }}>
         {messages.length === 0 && (
