@@ -1,6 +1,7 @@
 "use client";
 
-import { useCallback, useEffect, useRef, useState } from "react";
+import { useCallback, useEffect, useRef, useState, useSyncExternalStore } from "react";
+import { getSession, subscribe, startSession, endSession, getToken, validate } from "@/lib/auth-store";
 import { maskAuthor } from "@/lib/comments-client";
 
 type ChatMessage = {
@@ -10,14 +11,13 @@ type ChatMessage = {
   created_at: string;
 };
 
-const TOKEN_KEY = "ns_token";
-const NICK_KEY = "ns_nick";
-
 export default function Chat() {
   const [messages, setMessages] = useState<ChatMessage[]>([]);
   const [body, setBody] = useState("");
-  const [email, setEmail] = useState("");
-  const [nickname, setNickname] = useState("");
+  // Sesion compartida: si te logueas en comentarios, el chat se entera al instante.
+  const sesion = useSyncExternalStore(subscribe, getSession, () => null);
+  const email = sesion?.email ?? "";
+  const nickname = sesion?.nickname ?? "";
   const [showAuth, setShowAuth] = useState(false);
   const [authEmail, setAuthEmail] = useState("");
   const [authPass, setAuthPass] = useState("");
@@ -37,32 +37,16 @@ export default function Chat() {
     } catch { /* silencioso: la página nunca debe romperse */ }
   }, []);
 
-  useEffect(() => {
-    setReady(true);
-    try {
-      // Solo como respaldo mientras se consulta la sesion: el nombre real
-      // viene del servidor (/api/auth/session), no del navegador.
-      setNickname(localStorage.getItem(NICK_KEY) ?? "");
-      const token = localStorage.getItem(TOKEN_KEY);
-      if (token) {
-        fetch("/api/auth/session", { headers: { Authorization: `Bearer ${token}` } })
-          .then((r) => (r.ok ? r.json() : null))
-          .then((d) => {
-                if (!d?.email) { localStorage.removeItem(TOKEN_KEY); return; }
-                setEmail(d.email);
-                if (d.nickname) {
-                  setNickname(d.nickname);
-                  try { localStorage.setItem(NICK_KEY, d.nickname); } catch {}
-                }
-              })
-          .catch(() => { localStorage.removeItem(TOKEN_KEY); });
-      }
-    } catch { /* sin localStorage */ }
+      useEffect(() => {
+        setReady(true);
+        // Valida el token guardado y publica la sesion en el store compartido:
+        // el chat y los comentarios ven el mismo login al instante.
+        void validate();
 
-    load();
-    const interval = setInterval(load, 3000);
-    return () => clearInterval(interval);
-  }, [load]);
+        load();
+        const interval = setInterval(load, 3000);
+        return () => clearInterval(interval);
+      }, [load]);
 
   useEffect(() => {
     const el = listRef.current;
@@ -90,23 +74,21 @@ export default function Chat() {
       const data = await res.json();
       if (!res.ok) { setNotice(`⚠️ ${data.error ?? "No se pudo completar"}`); return; }
       if (!data.token) { setNotice(`✅ ${data.error ?? "Cuenta creada. Ya podés iniciar sesión."}`); return; }
-      localStorage.setItem(TOKEN_KEY, data.token);
-      setEmail(data.email);
+      startSession({ email: data.email, nickname: data.nickname ?? "" }, data.token);
       setShowAuth(false);
     } catch { setNotice("⚠️ No se pudo conectar con el servidor."); }
     setLoading(false);
   };
 
   const logout = () => {
-    localStorage.removeItem(TOKEN_KEY);
-    setEmail("");
+    endSession();
   };
 
   const send = async () => {
     const clean = body.trim();
     if (!clean) return;
     if (!email) { setShowAuth(true); setNotice("Iniciá sesión para chatear."); return; }
-    const token = localStorage.getItem(TOKEN_KEY) ?? "";
+    const token = getToken();
 
     setBody("");
     try {
