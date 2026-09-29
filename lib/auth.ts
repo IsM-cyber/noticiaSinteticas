@@ -7,12 +7,15 @@ import { createClient, SupabaseClient } from "@supabase/supabase-js";
 // Supabase, todo pasa por acá. SUPABASE_URL (sin prefijo) permite configurarla
 // en Vercel sin el aviso de "public framework prefix".
 //
-// Sin valor de fallback a proposito: antes estaba hardcodeada una URL que no
-// existe (noticiasinteticas.supabase.co -> NXDOMAIN en DNS publico), y eso
-// hacia fallar la conexion con un "fetch failed" dificil de diagnosticar.
-// Ahora la URL tiene que venir de verdad del panel de Supabase
-// (Project Settings -> Data API -> Project URL).
-const URL = process.env.SUPABASE_URL || process.env.NEXT_PUBLIC_SUPABASE_URL || "";
+// La URL va embebida porque NO es un secreto: es un dominio publico por diseño
+// (se deduce de la publishable key, que es publica). Verificada contra DNS
+// publico: iojariyxydsfnorzjtwo.supabase.co resuelve a IPs de Cloudflare.
+// La que SI es secreta, SUPABASE_SERVICE_ROLE_KEY, nunca va en el codigo:
+// vive solo en las variables de entorno de Vercel.
+const URL =
+  process.env.SUPABASE_URL ||
+  process.env.NEXT_PUBLIC_SUPABASE_URL ||
+  "https://iojariyxydsfnorzjtwo.supabase.co";
 const SERVICE_KEY = process.env.SUPABASE_SERVICE_ROLE_KEY ?? "";
 
 /** Solo hacen falta URL + service role. El cliente ya no usa la anon key. */
