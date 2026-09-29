@@ -100,6 +100,9 @@ export default async function Home() {
         <span aria-hidden>·</span>
         <span>Fuentes: Ecos Diarios, Diario Necochea, Necochea Digital, TSN Necochea,
           Necochea Libre, Noticias de Necochea, Necochea News, Diario NQ, Informate Necochea</span>
+      <p style={{ opacity: 0.5, fontSize: "0.7rem", marginTop: 6 }}>
+        build: {process.env.VERCEL_GIT_COMMIT_SHA?.slice(0, 7) ?? "local"}
+      </p>
       </footer>
     </main>
   );
