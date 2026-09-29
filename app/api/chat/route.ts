@@ -1,4 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
+import type { User } from "@supabase/supabase-js";
 import { supabaseAdmin, trustedAuthor } from "@/lib/auth";
 
 export const dynamic = "force-dynamic";
@@ -10,14 +11,17 @@ declare global {
 if (!global.chatMessages) global.chatMessages = [];
 
 /** Identidad del token Bearer. null si no hay sesión válida. */
-async function currentUser(req: NextRequest): Promise<{ id: string; email: string } | null> {
+// Devuelve el usuario COMPLETO de Supabase: trustedAuthor() tiene que leer
+// user_metadata.nickname. Antes se devolvia solo { id, email } y el nombre se
+// perdia en el camino, asi que el autor caia al email enmascarado.
+async function currentUser(req: NextRequest): Promise<User | null> {
   const admin = supabaseAdmin();
   if (!admin) return null;
   const token = req.headers.get("authorization")?.replace("Bearer ", "");
   if (!token) return null;
   const { data, error } = await admin.auth.getUser(token);
   if (error || !data.user) return null;
-  return { id: data.user.id, email: data.user.email ?? "" };
+  return data.user;
 }
 
 /**
