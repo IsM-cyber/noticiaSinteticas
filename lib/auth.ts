@@ -12,10 +12,16 @@ import { createClient, SupabaseClient } from "@supabase/supabase-js";
 // publico: iojariyxydsfnorzjtwo.supabase.co resuelve a IPs de Cloudflare.
 // La que SI es secreta, SUPABASE_SERVICE_ROLE_KEY, nunca va en el codigo:
 // vive solo en las variables de entorno de Vercel.
-const URL =
-  process.env.SUPABASE_URL ||
-  process.env.NEXT_PUBLIC_SUPABASE_URL ||
-  "https://iojariyxydsfnorzjtwo.supabase.co";
+// La URL del proyecto NO es un secreto (es un dominio publico), por eso puede
+// estar embebida en el codigo. La dejo como ultima instancia, pero tambien
+// respeto SUPABASE_URL cuando es una URL valida. Ignoro explicitamente la URL
+// inventada "noticiasinteticas.supabase.co" (NXDOMAIN) que rompio el deploy:
+// una variable de entorno vieja no debe poder romper el sitio. Verificado con
+// DNS publico: iojariyxydsfnorzjtwo.supabase.co resuelve a IPs de Cloudflare.
+const FAKE_URL = "https://noticiasinteticas.supabase.co";
+const REAL_URL = "https://iojariyxydsfnorzjtwo.supabase.co";
+const urlFromEnv = process.env.SUPABASE_URL || process.env.NEXT_PUBLIC_SUPABASE_URL;
+const URL = urlFromEnv && urlFromEnv !== FAKE_URL ? urlFromEnv : REAL_URL;
 const SERVICE_KEY = process.env.SUPABASE_SERVICE_ROLE_KEY ?? "";
 
 /** Solo hacen falta URL + service role. El cliente ya no usa la anon key. */
