@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-29T09:40:57.091206+00:00",
-  "article_count": 135,
+  "generated_at": "2026-09-29T16:26:20.544471+00:00",
+  "article_count": 175,
   "fetch_errors": [],
   "stories": [
     {
       "key": "octubre rosa charlas caps jornadas mamografias",
       "title": "Octubre Rosa: charlas en los CAPS y jornadas de mamografías",
-      "score": 3.0,
-      "sources_count": 2,
+      "score": 5.1,
+      "sources_count": 3,
       "first_seen": "2026-09-29T02:05:55+00:00",
       "image": "https://cdnartic.ar/p8mvgu3ZZg_9_ByLjNo86tt0L2w=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/09/prevencion_la_importancia_de_la_mamografia.webp",
       "articles": [
@@ -26,6 +26,14 @@
           "published_at": null,
           "category": null,
           "image": null
+        },
+        {
+          "portal": "Necochea News",
+          "title": "Octubre Rosa: charlas y jornadas de mamografías en los CAPS de Necochea y alrededores durante todo el mes",
+          "url": "https://necocheanews.com.ar/octubre-rosa-charlas-y-jornadas-de-mamografias-en-los-caps-de-necochea-y-alrededores-durante-todo-el-mes/",
+          "published_at": "2026-09-29T13:14:33+00:00",
+          "category": "LOCALES",
+          "image": null
         }
       ],
       "summary": {
@@ -33,40 +41,7 @@
           "En el marco de Octubre Rosa , durante todo el mes se llevarán adelante charlas de concientización y prevención en distintos CAPS de Necochea, Quequén y localidades del interior del distrito, con el objetivo de acercar información a las vecinas y promover los controles periódicos. El cronograma de encuentros comenzará este jueves 1 de octubre en el CAPS San Martín y continuará el viernes 2 en Fomento. Las actividades se retomarán el lunes 5 en 9 de Julio, el martes 6 en Norte, el miércoles 7 en Fucile, el jueves 8 en Sudoeste y el viernes 9 en La Dulce.",
           "Luego de la jornada del feriado del lunes 12, las charlas continuarán el martes 13 en Estación Quequén, el miércoles 14 en CAPS Sur y el jueves 15 en Flores. El cronograma se completará el lunes 19 en 6 Esquinas, mientras que el 23 de octubre en CAPS Puerto, y el lunes 26 se desarrollará en el CIC. Finalmente el 21 de octubre las actividades se realizarán en las localidades de Claraz y Juan N."
         ],
-        "generated": "2026-09-29T09:41:10.521921+00:00"
-      }
-    },
-    {
-      "key": "aprehendieron joven robar estereo auto quequen",
-      "title": "Aprehendieron a un joven tras robar el estéreo de un auto en Quequén",
-      "score": 2.625,
-      "sources_count": 2,
-      "first_seen": "2026-09-28T16:14:00+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260928180403_whatsapp-image-2026-09-28-at-18-03-46.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Aprehendieron a un joven tras robar el estéreo de un auto en Quequén",
-          "url": "https://necocheadigital.com/nota/119729/aprehendieron-a-un-joven-tras-robar-el-estereo-de-un-auto-en-quequen/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        },
-        {
-          "portal": "Noticias de Necochea",
-          "title": "Aprehendieron a un joven acusado de robar un estéreo de un auto en Quequén",
-          "url": "https://nden.com.ar/nota/38227/aprehendieron-a-un-joven-acusado-de-robar-un-estereo-de-un-auto-en-quequen",
-          "published_at": "2026-09-28T16:14:00+00:00",
-          "category": null,
-          "image": "http://nden.com.ar/uploads/noticias/5/2026/09/ebd0cce38cbc363266e0357aea96d2acee848b82.jpg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Al llegar a la escena, los agentes entrevistaron al propietario del vehículo, quien relató haber sorprendido al individuo en el momento exacto en que extraía el aparato de su propiedad y aportó sus características físicas. Con los datos recabados, la policía desplegó un patrullaje por la zona y logró interceptar al sospechoso en las inmediaciones de la calle 523. Durante la requisa de urgencia, se halló entre las prendas del sujeto un estéreo marca Sony, el cual fue reconocido de inmediato por la víctima como de su propiedad.",
-          "Siguiendo el protocolo habitual, el aprehendido fue trasladado al nosocomio local para recibir asistencia médica y, posteriormente, quedó alojado en la dependencia policial correspondiente. La causa quedó a cargo de la Unidad Funcional de Instrucción (UFI) N.º 1 del Departamento Judicial Necochea."
-        ],
-        "generated": "2026-09-29T09:41:12.776372+00:00"
+        "generated": "2026-09-29T16:26:35.242327+00:00"
       }
     },
     {
@@ -99,96 +74,87 @@
           "El programa, impulsado institucionalmente por el Consorcio de Gestión del Puerto de Quequén y bajo la dirección del Lic. en Logística Luis Pedone, tiene como objetivo principal poner a disposición de los jóvenes una herramienta clave: el conocimiento necesario para comprender su territorio y tomar decisiones. El ciclo de charlas generó un espacio de gran intercambio, donde las inquietudes de los jóvenes marcaron el rumbo, partiendo desde un aula que \"preguntó por los barcos\". La noticia no son tres visitas, sino el método que las conecta.",
           "Desde diciembre, Puerto Ciudad enlaza escuelas, clubes e instituciones mediante inclusión, prevención, salud, deporte, ambiente, cultura y formación. Cada intervención escucha una necesidad y deja una experiencia sobre la cual construir la siguiente. No todo impacto social cabe todavía en una cifra."
         ],
-        "generated": "2026-09-29T09:41:14.138882+00:00"
+        "generated": "2026-09-29T16:26:37.890564+00:00"
       }
     },
     {
-      "key": "estudiantes ceia isadam presentaran charlas clubes teded centro acopiadores",
-      "title": "Estudiantes del CEIA e ISADAM presentarán sus charlas “Clubes TEDEd” en el Centro de Acopiadores",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-09-29T09:40:57.091206+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260928183302_jornadas-acopiadores.jpg",
+      "key": "aprehendieron joven robar estereo auto quequen",
+      "title": "Aprehendieron a un joven tras robar el estéreo de un auto en Quequén",
+      "score": 2.625,
+      "sources_count": 2,
+      "first_seen": "2026-09-28T16:14:00+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260928180403_whatsapp-image-2026-09-28-at-18-03-46.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Estudiantes del CEIA e ISADAM presentarán sus charlas “Clubes TEDEd” en el Centro de Acopiadores",
-          "url": "https://necocheadigital.com/nota/119731/estudiantes-del-ceia-e-isadam-presentaran-sus-charlas-clubes-teded-en-el-centro-de-acopiadores/",
+          "title": "Aprehendieron a un joven tras robar el estéreo de un auto en Quequén",
+          "url": "https://necocheadigital.com/nota/119729/aprehendieron-a-un-joven-tras-robar-el-estereo-de-un-auto-en-quequen/",
           "published_at": null,
           "category": null,
           "image": null
+        },
+        {
+          "portal": "Noticias de Necochea",
+          "title": "Aprehendieron a un joven acusado de robar un estéreo de un auto en Quequén",
+          "url": "https://nden.com.ar/nota/38227/aprehendieron-a-un-joven-acusado-de-robar-un-estereo-de-un-auto-en-quequen",
+          "published_at": "2026-09-28T16:14:00+00:00",
+          "category": null,
+          "image": "http://nden.com.ar/uploads/noticias/5/2026/09/ebd0cce38cbc363266e0357aea96d2acee848b82.jpg"
         }
       ],
       "summary": {
         "paragraphs": [
-          "Este viernes 2 de octubre, a las 10:00 horas, se llevará a cabo el evento final \"El poder de las ideas\", donde alumnos de 5to año de las instituciones educativas CEIA e ISADAM presentarán sus charlas en el Centro de Acopiadores de Cereales Zona Puerto Quequén. La iniciativa propone dar visibilidad a las reflexiones, inquietudes y experiencias de los jóvenes a través de un formato de comunicación directa y efectiva. El proyecto es el resultado de un proceso de aprendizaje desarrollado durante todo el ciclo lectivo a través de la propuesta educativa \"Clubes TEDEd\".",
-          "Durante los encuentros, la totalidad de los alumnos de 5to año de ambas escuelas trabajó junto a facilitadores para identificar temáticas movilizantes y transformarlas en ponencias, empleando metodologías similares a las conferencias TED o TEDx. Para la presentación pública, docentes y estudiantes seleccionaron en conjunto a seis representantes por institución."
+          "Al llegar a la escena, los agentes entrevistaron al propietario del vehículo, quien relató haber sorprendido al individuo en el momento exacto en que extraía el aparato de su propiedad y aportó sus características físicas. Con los datos recabados, la policía desplegó un patrullaje por la zona y logró interceptar al sospechoso en las inmediaciones de la calle 523. Durante la requisa de urgencia, se halló entre las prendas del sujeto un estéreo marca Sony, el cual fue reconocido de inmediato por la víctima como de su propiedad.",
+          "Siguiendo el protocolo habitual, el aprehendido fue trasladado al nosocomio local para recibir asistencia médica y, posteriormente, quedó alojado en la dependencia policial correspondiente. La causa quedó a cargo de la Unidad Funcional de Instrucción (UFI) N.º 1 del Departamento Judicial Necochea."
         ],
-        "generated": "2026-09-29T09:41:15.256414+00:00"
-      }
-    },
-    {
-      "key": "taekwondista rodrigo colombani participo nuevo entrenamiento seleccion argentina",
-      "title": "El taekwondista Rodrigo Colombani participó de un nuevo entrenamiento con la Selección Argentina",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-09-29T09:40:57.091206+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/bc7e4c0b1e8b147e019b86874fcff2413ca8b6dc.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "El taekwondista Rodrigo Colombani participó de un nuevo entrenamiento con la Selección Argentina",
-          "url": "https://necocheadigital.com/nota/119730/el-taekwondista-rodrigo-colombani-participo-de-un-nuevo-entrenamiento-con-la-seleccion-argentina/",
-          "published_at": null,
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El necochense Rodrigo Colombani formó parte del segundo entrenamiento abierto de la Selección Argentina de Taekwon-Do ITF, llevado a cabo el pasado sábado en el Polideportivo Municipal de Lomas de Zamora. La jornada estuvo bajo la dirección de los entrenadores nacionales, los Maestros Gabriel Cova y Gerardo Rocha, en el marco del proceso de conformación de los seleccionados femeninos y masculinos (categorías Juveniles y Adultos) que representarán al país en los Juegos Mundiales de Punta del Este, Uruguay, a fines de noviembre.",
-          "Colombani, alumno del Maestro Horacio Alí y representante de la Integración Provincial de Taekwon-Do, integra además el Programa de Alto Rendimiento financiado por el Consorcio de Gestión de Puerto Quequén. Con esta citación, el joven atleta busca mantener un rendimiento constante para asegurar su lugar en la nómina definitiva del equipo Juvenil Masculino."
-        ],
-        "generated": "2026-09-29T09:41:15.934127+00:00"
+        "generated": "2026-09-29T16:26:40.684819+00:00"
       }
     },
     {
       "key": "quirofano movil estara apostado delegacion quequen octubre",
-      "title": "El Quirófano Móvil estará apostado en la Delegación de Quequén durante octubre",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-09-29T09:40:57.091206+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260928121906_04-10-foto-quirofano-movil-barrio-puerto.jpg",
+      "title": "El quirófano móvil vuelve a Quequén durante octubre",
+      "score": 2.209,
+      "sources_count": 2,
+      "first_seen": "2026-09-29T02:01:52+00:00",
+      "image": "https://cdnartic.ar/3ZP5OEluvQJKR2OjN0qP79A_sh0=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/09/quirofano_movil_nuevo_destino_en_octubre.webp",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "El Quirófano Móvil estará apostado en la Delegación de Quequén durante octubre",
-          "url": "https://necocheadigital.com/nota/119727/el-quirofano-movil-estara-apostado-en-la-delegacion-de-quequen-durante-octubre/",
-          "published_at": null,
-          "category": null,
+          "portal": "Ecos Diarios",
+          "title": "El quirófano móvil vuelve a Quequén durante octubre",
+          "url": "https://elecos.com.ar/el-quirofano-movil-vuelve-a-quequen-durante-octubre",
+          "published_at": "2026-09-29T02:01:52+00:00",
+          "category": "14",
+          "image": "https://cdnartic.ar/3ZP5OEluvQJKR2OjN0qP79A_sh0=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/09/quirofano_movil_nuevo_destino_en_octubre.webp"
+        },
+        {
+          "portal": "Necochea News",
+          "title": "Quirófano Móvil de castraciones gratuitas vuelve a Quequén en octubre",
+          "url": "https://necocheanews.com.ar/quirofano-movil-de-castraciones-gratuitas-vuelve-a-quequen-en-octubre/",
+          "published_at": "2026-09-29T13:16:36+00:00",
+          "category": "LOCALES",
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "La Municipalidad de Necochea informa que durante octubre el Quirófano Móvil de castraciones gratuitas volverá a funcionar en la Delegación Municipal de Quequén, ubicada en calles 521 y 560, frente a la Plaza “Hipólito Yrigoyen”. El servicio, coordinado por la Dirección de Bromatología e Higiene, dependiente de la Secretaría de Salud, forma parte de las políticas municipales de salud pública y tenencia responsable de mascotas, acercando esta prestación gratuita a vecinos y vecinas de distintos sectores del distrito.",
-          "Mientras recordaron que, para solicitar un turno, las personas interesadas pueden comunicarse previamente a través de WhatsApp al 2262 245868; desde el área piden que, al momento de la cirugía, las mascotas deben concurrir con un ayuno mínimo de seis horas. También es importante llevar una manta o abrigo para el postoperatorio, ya que la anestesia puede provocar una disminución de la temperatura corporal."
+          "La Municipalidad de Necochea reactivará el servicio de castración gratuita en la Delegación Municipal de Quequén durante todo el mes, con turnos gestionados por WhatsApp y requisitos específicos para las mascotas. El Quirófano Móvil, coordinado por la Dirección de Bromatología e Higiene de la Secretaría de Salud, estará disponible en la zona comprendida entre las calles 521 y 560, frente a la Plaza “Hipólito Yrigoyen”. El programa forma parte de las políticas municipales de salud pública y tenencia responsable, y busca acercar la cirugía gratuita a los vecinos de distintos barrios del distrito.",
+          "Cómo solicitar turno Los interesados pueden reservar su cita enviando un mensaje de WhatsApp al 2262 245868. La reserva previa es obligatoria para garantizar la atención. Requisitos para la cirugía Al día de la intervención, los dueños deben presentar a sus mascotas en ayuno mínimo de seis horas."
         ],
-        "generated": "2026-09-29T09:41:16.609948+00:00"
+        "generated": "2026-09-29T16:26:44.277937+00:00"
       }
     },
     {
-      "key": "disputo parcialmente fecha 18 liga necochea futbol",
-      "title": "Se disputó parcialmente la fecha 18 de la Liga Necochea de Fútbol",
-      "score": 1.1,
+      "key": "llevaron banar perro escapo aseguran lugar bloquearon",
+      "title": "Llevaron a bañar a su perro, se escapó y aseguran que desde el lugar los bloquearon",
+      "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-09-29T09:40:57.091206+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260928121252_whatsapp-image-2026-09-28-at-12-12-34.jpg",
+      "first_seen": "2026-09-29T16:26:20.544471+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/perro-rulo.jpg",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Se disputó parcialmente la fecha 18 de la Liga Necochea de Fútbol",
-          "url": "https://necocheadigital.com/nota/119725/se-disputo-parcialmente-la-fecha-18-de-la-liga-necochea-de-futbol/",
+          "portal": "Diario Necochea",
+          "title": "Llevaron a bañar a su perro, se escapó y aseguran que desde el lugar los bloquearon",
+          "url": "https://diarionecochea.com/2026/09/29/llevaron-a-banar-a-su-perro-se-escapo-y-aseguran-que-desde-la-veterinaria-los-bloquearon/",
           "published_at": null,
           "category": null,
           "image": null
@@ -196,24 +162,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "El sábado, la acción comenzó con el agónico empate 1 a 1 entre Rivadavia y Mataderos en el Estadio Panamericano; Nicolás Forte puso en ventaja a la visita, pero Lucio Velázquez rescató una unidad sobre la hora para el \"Decano\". En el otro adelanto, Huracán derrotó 1 a 0 a Del Valle con gol de Fabricio Annovelli y se afianzó en la Zona B. El domingo dejó triunfos importantes en ambas zonas.",
-          "Por la Zona A, Jorge Newbery superó 1 a 0 a Villa del Parque en Lobería gracias al tanto de Juan Zufriategui en el complemento. Por la Zona B, el líder Estación Quequén igualó sin goles ante Gimnasia en el Williams Gabriele, lo que aprovechó Independiente de Lobería para acortar distancias tras vencer 2 a 1 a Defensores de Puerto Quequén como visitante con goles de Ezequiel Maulín y Lautaro Martín (Mateo Benítez había empatado transitoriamente)."
+          "En diálogo con Diario Necochea , una familiar contó que el perro escapó del lugar y sostuvo que tampoco recibió colaboración para salir a buscarlo tras lo ocurrido. Rulo es buscado desde el domingo luego de desaparecer tras ser llevado a bañar a un local ubicado en la zona de las calles 57 y 66. Su familia difundió una imagen para pedir colaboración y alertó que el animal podría encontrarse lastimado.",
+          "Noticia relacionadas Cómo estará el clima este martes en Necochea y Quequén 29 de septiembre de 2026 \"General Mariano Necochea\": el nombre detrás de los nuevos tanques adquiridos por el Gobierno 28 de septiembre de 2026 Según informaron sus familiares, actualmente distintas personas recorren la zona para intentar localizarlo. En el cartel difundido se advierte que, si alguien lo ve, no debe correrlo ni intentar atraparlo, ya que se encuentra asustado y podría alejarse todavía más. Rulo es un perro de pelaje blanco y está castrado."
         ],
-        "generated": "2026-09-29T09:41:17.292562+00:00"
+        "generated": "2026-09-29T16:26:45.622370+00:00"
       }
     },
     {
-      "key": "regional federal amateur independiente sc vencio villa diaz velez quedo eliminado",
-      "title": "Regional Federal Amateur: Independiente SC venció a Villa Díaz Vélez que quedó eliminado",
-      "score": 1.1,
+      "key": "como estara clima martes necochea quequen",
+      "title": "Cómo estará el clima este martes en Necochea y Quequén",
+      "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-09-29T09:40:57.091206+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260928120502_whatsapp-image-2026-09-28-at-12-04-51.jpg",
+      "first_seen": "2026-09-29T16:26:20.544471+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/04/lluvia-centro-clima.jpg",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Regional Federal Amateur: Independiente SC venció a Villa Díaz Vélez que quedó eliminado",
-          "url": "https://necocheadigital.com/nota/119724/regional-federal-amateur-independiente-sc-vencio-a-villa-diaz-velez-que-quedo-eliminado/",
+          "portal": "Diario Necochea",
+          "title": "Cómo estará el clima este martes en Necochea y Quequén",
+          "url": "https://diarionecochea.com/2026/09/29/como-estara-el-clima-este-martes-en-necochea-y-quequen-148/",
           "published_at": null,
           "category": null,
           "image": null
@@ -221,24 +187,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "En el marco de la quinta fecha de la Zona 5 de la Región Pampeana Sur del Torneo Regional Federal Amateur, Independiente de San Cayetano venció por 2 a 0 a Villa Díaz Vélez en el Estadio Juan Bautista Marlats. El \"Chimango\" abrió el marcador a los 15 minutos de la primera parte a través de Nahuel Arce. Ya en el epílogo del encuentro, Nicolás Ferreira decretó el 2 a 0 definitivo para repetir la victoria obtenida en la primera rueda.",
-          "Con este resultado, el dueño de casa alcanzó las 7 unidades (dos victorias, un empate y una derrota) y completó su fixture en el grupo, dado que tendrá jornada libre en el cierre de la fase inicial. El triunfo local benefició de manera directa a Ministerio, que aseguró matemáticamente su clasificación a la siguiente ronda durante su fecha de descanso."
+          "El Servicio Meteorológico Nacional (SMN) pronosticó para este martes en Necochea y Quequén una jornada con lluvias, una temperatura máxima de 15° y una mínima de 9°. Para la mañana , se espera lluvias. La temperatura rondará los 9° y la probabilidad de precipitaciones será del 70 - 100%, según datos del SMN. El viento soplará desde el sur a una velocidad de entre 23 - 31 kilómetros por hora.",
+          "Noticia relacionadas Llevaron a bañar a su perro, se escapó y aseguran que desde el lugar los bloquearon 29 de septiembre de 2026 \"General Mariano Necochea\": el nombre detrás de los nuevos tanques adquiridos por el Gobierno 28 de septiembre de 2026 Por su parte, hacia la tarde y entrando la noche , el cielo estará lluvias aisladas. La temperatura alcanzará los 15° mientras que el porcentaje de precipitaciones será del 10 - 40%, mencionó el parte oficial. El viento se sentirá desde sur a una velocidad de entre 13 - 22 kilómetros por hora."
         ],
-        "generated": "2026-09-29T09:41:18.350063+00:00"
+        "generated": "2026-09-29T16:26:46.970942+00:00"
       }
     },
     {
-      "key": "llega sabado arte fotografia naturaleza centro cultural municipal",
-      "title": "Llega un sábado de arte, fotografía y naturaleza al Centro Cultural Municipal",
-      "score": 1.1,
+      "key": "general mariano necochea nombre detras nuevos tanques adquiridos gobierno",
+      "title": "\"General Mariano Necochea\": el nombre detrás de los nuevos tanques adquiridos por el Gobierno",
+      "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-09-29T09:40:57.091206+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/791192057664bf2ad9e0cdc140cd154c8083096f.jpg",
+      "first_seen": "2026-09-29T16:26:20.544471+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/general-mariano-necochea-el-nombre-detras-de-los-nuevos-tanques-adquiridos-por-el-gobierno.webp",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Llega un sábado de arte, fotografía y naturaleza al Centro Cultural Municipal",
-          "url": "https://necocheadigital.com/nota/119723/llega-un-sabado-de-arte-fotografia-y-naturaleza-al-centro-cultural-municipal/",
+          "portal": "Diario Necochea",
+          "title": "\"General Mariano Necochea\": el nombre detrás de los nuevos tanques adquiridos por el Gobierno",
+          "url": "https://diarionecochea.com/2026/09/28/general-mariano-necochea-el-nombre-detras-de-los-nuevos-tanques-adquiridos-por-el-gobierno-nacional/",
           "published_at": null,
           "category": null,
           "image": null
@@ -246,24 +212,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "El Centro Cultural Municipal de Necochea invita a la comunidad a participar de una jornada que combinará arte, fotografía experimental, grabado y naturaleza, este sábado 3 de octubre desde las 15, en sus instalaciones. La propuesta contempla dos talleres que se desarrollarán de manera simultánea, con diferentes modalidades de participación. Por un lado, se dictará un taller de Cianotipia, una técnica de impresión fotográfica manual que permite explorar las posibilidades de la imagen a partir de la luz, la materia y el contacto.",
-          "La actividad estará coordinada por artistas y estudiantes de la Facultad de Bellas Artes de La Plata, pertenecientes a la cátedra Procesos Fotográficos, a cargo de los profesores Juan Manuel Fiuza y Celica Véliz. El taller abierto a todo público, pero arancelado, y está pensado para quienes quieran acercarse a la fotografía experimental."
+          "El Regimiento de Caballería de Tanques 8 recibió otro escuadrón de vehículos modernizados durante una ceremonia realizada en Magdalena, donde también mostró parte de sus nuevas capacidades operativas. El Ejército Argentino incorporó un segundo escuadrón de tanques TAM 2C-A2 al Regimiento de Caballería de Tanques 8 “Cazadores General Necochea”, durante una ceremonia realizada el 26 de septiembre en la ciudad de Magdalena.",
+          "Con esta entrega, la unidad sumó otros diez vehículos modernizados. Noticia relacionadas Llevaron a bañar a su perro, se escapó y aseguran que desde el lugar los bloquearon 29 de septiembre de 2026 Cómo estará el clima este martes en Necochea y Quequén 29 de septiembre de 2026 La denominación del regimiento está vinculada con la historia de nuestra ciudad, ya que rinde homenaje al general Mariano Necochea, cuyo nombre fue elegido para bautizar a la localidad."
         ],
-        "generated": "2026-09-29T09:41:19.016559+00:00"
+        "generated": "2026-09-29T16:26:48.277786+00:00"
       }
     },
     {
-      "key": "gobierno saco zona fria necochea seguira pagando cargo sostiene fondo",
-      "title": "El Gobierno le sacó la Zona Fría a Necochea, pero seguirá pagando el cargo que sostiene el fondo",
-      "score": 1.1,
+      "key": "puerto ciudad reunio 94 estudiantes trabajar territorio proyectos vida",
+      "title": "Puerto Ciudad reunió a 94 estudiantes para trabajar sobre el territorio y sus proyectos de vida",
+      "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-09-29T09:40:57.091206+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260928091834_23-05-foto-archivo-frio-extremo-02.jpg",
+      "first_seen": "2026-09-29T16:26:20.544471+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/puerto-ciudad-reunio-a-94-estudiantes-para-trabajar-sobre-el-territorio-y-sus-proyectos-de.webp",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "El Gobierno le sacó la Zona Fría a Necochea, pero seguirá pagando el cargo que sostiene el fondo",
-          "url": "https://necocheadigital.com/nota/119722/el-gobierno-le-saco-la-zona-fria-a-necochea-pero-seguira-pagando-el-cargo-que-sostiene-el-fondo/",
+          "portal": "Diario Necochea",
+          "title": "Puerto Ciudad reunió a 94 estudiantes para trabajar sobre el territorio y sus proyectos de vida",
+          "url": "https://diarionecochea.com/2026/09/28/puerto-ciudad-reunio-a-94-estudiantes-para-trabajar-sobre-el-territorio-y-sus-proyectos-de-vida/",
           "published_at": null,
           "category": null,
           "image": null
@@ -271,24 +237,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "La reforma del régimen de Zona Fría , aprobada por el Senado, modifica de manera significativa el esquema que había incorporado a Necochea al beneficio en 2021. Sin embargo, mientras miles de hogares dejarán de recibir la tarifa diferencial, el cargo destinado a financiar el sistema continuará incluido en el precio del gas . El cambio devuelve el beneficio automático a su núcleo original: la Patagonia, la Puna y Malargüe , dejando afuera a numerosas localidades que habían sido incorporadas con la ampliación de 2021.",
-          "En la provincia de Buenos Aires, la modificación alcanza a más de 90 municipios , entre ellos Necochea, Mar del Plata y Bahía Blanca. Un recargo que continúa Uno de los aspectos centrales de la reforma es que se mantiene el recargo de hasta el 7,5% sobre el precio del gas en el Punto de Ingreso al Sistema de Transporte (PIST) . Ese cargo se aplica sobre el gas consumido o comercializado mediante redes y ductos en todo el país."
+          "Alumnos de tres escuelas de la región participaron de encuentros donde las preguntas y preocupaciones de los jóvenes marcaron el desarrollo de las actividades. Entre el 23 y el 25 de septiembre, la iniciativa “Puerto Ciudad” llevó a cabo una serie de encuentros que reunieron a 94 estudiantes de tres escuelas de la región.",
+          "El programa, impulsado institucionalmente por el Consorcio de Gestión del Puerto de Quequén y bajo la dirección del Lic. en Logística Luis Pedone, tiene como objetivo principal poner a disposición de los jóvenes una herramienta clave: el conocimiento necesario para comprender su territorio y tomar decisiones."
         ],
-        "generated": "2026-09-29T09:41:19.725880+00:00"
+        "generated": "2026-09-29T16:26:49.675204+00:00"
       }
     },
     {
-      "key": "evelyn gontier consagro subcampeona suramericana longboard sumo otra medalla necochense argentina",
-      "title": "Evelyn Gontier se consagró subcampeona suramericana de Longboard y sumó otra medalla Necochense para Argentina",
-      "score": 1.1,
+      "key": "proyectaran camara diputados documental femicidio magali vera",
+      "title": "Proyectarán en la Cámara de Diputados el documental sobre el femicidio de Magalí Vera",
+      "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-09-29T09:40:57.091206+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260925175906_whatsapp-image-2026-09-25-at-17-58-58.jpg",
+      "first_seen": "2026-09-29T16:26:20.544471+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/magali-vera-foto-1.jpg",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Evelyn Gontier se consagró subcampeona suramericana de Longboard y sumó otra medalla Necochense para Argentina",
-          "url": "https://necocheadigital.com/nota/119713/evelyn-gontier-se-consagro-subcampeona-suramericana-de-longboard-y-sumo-otra-medalla-necochense-para-argentina/",
+          "portal": "Diario Necochea",
+          "title": "Proyectarán en la Cámara de Diputados el documental sobre el femicidio de Magalí Vera",
+          "url": "https://diarionecochea.com/2026/09/28/proyectaran-en-la-camara-de-diputados-el-documental-sobre-el-femicidio-de-magali-vera/",
           "published_at": null,
           "category": null,
           "image": null
@@ -296,24 +262,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "El recorrido de Gontier comenzó el sábado 19 de septiembre, cuando terminó segunda en su batería inicial justamente frente a Calmon, resultado que la envió al repechaje. A partir de allí, la atleta local construyó una notable remontada: superó a la uruguaya Inés Beisso (8,10 a 7,30), a la peruana Noelia Arata con su mejor registro de la competencia (10,23 a 7,94) y finalmente a la peruana María Fernanda Reyes en la instancia decisiva por 8,97 a 6,84 (dejando a Reyes con el bronce) para sellar su pase al duelo por el oro.",
-          "En la definición, la brasileña Calmon hizo valer su experiencia y se quedó con el primer puesto tras sumar 15,84 puntos contra los 8,40 de la argentina. Sin embargo, el desempeño de la necochense coronó una semana de continuo crecimiento deportivo al superar cuatro baterías de eliminación directa para subir al podio."
+          "La producción dirigida por Fabián Pérez Battaglini podrá verse este martes en el Congreso, luego de una disputa en torno a su exhibición que terminó con una autorización de la Justicia. “El sueño de Magalí”, dirigido por Fabián Pérez Battaglini, será exhibido este martes a las 18 en el Congreso de la Nación, con entrada libre y gratuita y la presencia de los padres de la víctima.",
+          "Noticia relacionadas Llevaron a bañar a su perro, se escapó y aseguran que desde el lugar los bloquearon 29 de septiembre de 2026 Cómo estará el clima este martes en Necochea y Quequén 29 de septiembre de 2026 El documental “El sueño de Magalí ”, sobre el femicidio de Magalí Vera, será proyectado este martes 29 de septiembre a las 18 en la Cámara de Diputados de la Nación. La actividad se realizará en el Congreso de la Nación y tendrá entrada libre y gratuita."
         ],
-        "generated": "2026-09-29T09:41:20.399238+00:00"
+        "generated": "2026-09-29T16:26:51.019569+00:00"
       }
     },
     {
-      "key": "nerea castiglione logro cuarta medalla sudamericanos alcanzo record historico cinco medallas",
-      "title": "Nerea Castiglione logró su cuarta medalla en los Sudamericanos y alcanzó un récord histórico de cinco medallas",
-      "score": 1.1,
+      "key": "cuartel bomberos dulce festejo 43 anos servicio ininterrumpido",
+      "title": "El cuartel de Bomberos de La Dulce festejó 43 años de servicio ininterrumpido",
+      "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-09-29T09:40:57.091206+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/595d373639a194ec238992ebd5a8e54eb9c5684c.jpg",
+      "first_seen": "2026-09-29T16:26:20.544471+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/el-cuartel-de-bomberos-de-la-dulce-festejo-43-anos-de-servicio-ininterrumpido-1.webp",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Nerea Castiglione logró su cuarta medalla en los Sudamericanos y alcanzó un récord histórico de cinco medallas",
-          "url": "https://necocheadigital.com/nota/119714/nerea-castiglione-logro-su-cuarta-medalla-en-los-sudamericanos-y-alcanzo-un-record-historico-de-cinco-medallas/",
+          "portal": "Diario Necochea",
+          "title": "El cuartel de Bomberos de La Dulce festejó 43 años de servicio ininterrumpido",
+          "url": "https://diarionecochea.com/2026/09/28/el-cuartel-de-bomberos-de-la-dulce-festejo-43-anos-de-servicio-ininterrumpido/",
           "published_at": null,
           "category": null,
           "image": null
@@ -321,24 +287,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "Con este nuevo logro, la deportista de 19 años cerró una actuación sobresaliente en el certamen continental al cosechar cuatro medallas en total: una de plata en K1 Slalom Paralelo (con un registro de 64,33 segundos) y tres de bronce, obtenidas en C1 Slalom Paralelo, Kayak Cross Trials (contrarreloj) y en la mencionada final por llaves. Sumando el bronce conseguido en Asunción 2022 cuando tenía 15 años, Castiglione ya acumula cinco preseas en la historia de los Juegos Suramericanos. Las competencias de canotaje slalom debieron adaptarse a las condiciones de agua plana que ofrecía la sede santafesina.",
-          "Sobre este desafío, Castiglione valoró el trabajo de la organización: «La adaptaron re bien al agua plana, que está muy bien porque en Santa Fe no había otra posibilidad. Al término de la jornada, la deportista manifestó su alegría por los resultados obtenidos: «La verdad estoy re contenta."
+          "Desde sus primeras intervenciones, el cuerpo activo afrontó extensas jornadas nocturnas y operativos de riesgo. En la actualidad, la institución conmemora este recorrido junto a las familias que respaldan a cada efectivo.",
+          "El Cuartel de Bomberos Voluntarios de Nicanor Olivera – La Dulce alcanzó este aniversario tras cumplir 43 años de trayectoria institucional e intervenciones continuas en la localidad este domingo 27 de septiembre. En este marco de festejo, desde la institución remarcaron que \"hoy nuestro corazón se llena de orgullo y emoción al celebrar 43 años de historia\", una fecha que marca más de cuatro décadas de labor abnegada y atención permanente ante situaciones de emergencia."
         ],
-        "generated": "2026-09-29T09:41:21.077856+00:00"
+        "generated": "2026-09-29T16:26:52.426074+00:00"
       }
     },
     {
-      "key": "realizaran testeos gratuitos itinerantes vih sifilis mes salud sexual",
-      "title": "Realizarán testeos gratuitos e itinerantes de VIH y sífilis durante el Mes de la Salud Sexual",
-      "score": 1.1,
+      "key": "policia franco vio arrebato quequen atrapo ladron escondido pastizales",
+      "title": "Un policía de franco vio un arrebato en Quequén y atrapó al ladrón escondido entre pastizales",
+      "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-09-29T09:40:57.091206+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260925173107_25-09-foto-testeo-hiv-sudoeste-centro-civico-02.jpg",
+      "first_seen": "2026-09-29T16:26:20.544471+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/un-policia-de-franco-vio-un-arrebato-en-quequen-y-atrapo-al-ladron-escondido-entre-pastiza.webp",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Realizarán testeos gratuitos e itinerantes de VIH y sífilis durante el Mes de la Salud Sexual",
-          "url": "https://necocheadigital.com/nota/119710/realizaran-testeos-gratuitos-e-itinerantes-de-vih-y-sifilis-durante-el-mes-de-la-salud-sexual/",
+          "portal": "Diario Necochea",
+          "title": "Un policía de franco vio un arrebato en Quequén y atrapó al ladrón escondido entre pastizales",
+          "url": "https://diarionecochea.com/2026/09/29/un-policia-de-franco-vio-un-arrebato-en-quequen-y-atrapo-al-ladron-escondido-entre-pastizales/",
           "published_at": null,
           "category": null,
           "image": null
@@ -346,24 +312,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "En el marco del Mes de la Salud Sexual, la Secretaría de Salud de la Municipalidad de Necochea lleva adelante una campaña para facilitar el acceso a testeos rápidos, gratuitos y confidenciales de VIH y sífilis, con el objetivo de fortalecer la prevención, favorecer la detección temprana y reducir la circulación de estas infecciones. En la mañana de este viernes, se realizó con éxito una jornada de testeos en el Centro Cívico, organizado por el CAPS Sudoeste. La iniciativa cobra especial importancia ante el aumento de casos de sífilis registrado en la ciudad, según señalaron desde el área.",
-          "En ese sentido, se busca acercar los controles a distintos espacios y concientizar a la comunidad sobre la importancia de realizarse periódicamente los testeos. Desde la Secretaría remarcaron que esta enfermedad tiene tratamiento y que, ante un resultado positivo, el equipo médico indica el tratamiento correspondiente con antibióticos."
+          "El sospechoso atacó a una mujer para quitarle el bolso y escapó, pero los patrulleros lo cercaron tras el aviso del agente, recuperaron las pertenencias y le brindaron asistencia médica a la víctima. Un rápido accionar policial permitió esclarecer un hecho de robo en flagrancia ocurrido en Quequén , donde una mujer fue abordada y despojada de su cartera.",
+          "Noticia relacionadas Atraparon en pleno centro a un hombre que estaba prófugo por violencia 29 de septiembre de 2026 Buscan a un hombre que padece esquizofrenia y desapareció de un hogar de ancianos 29 de septiembre de 2026 Tras un alerta recibido a través del CATE 911, personal del Comando de Patrullas Necochea acudió al lugar y constató el hecho. Según lo informado, un efectivo policial que se encontraba en las inmediaciones advirtió el episodio y aportó información sobre la dirección de fuga del autor."
         ],
-        "generated": "2026-09-29T09:41:21.731889+00:00"
+        "generated": "2026-09-29T16:26:53.925908+00:00"
       }
     },
     {
-      "key": "bianco confirmo ernesto povilaitis sera presidente consorcio gestion puerto quequen",
-      "title": "Bianco confirmó que Ernesto Povilaitis será el presidente del Consorcio de Gestión de Puerto Quequén",
-      "score": 1.1,
+      "key": "atraparon pleno centro hombre estaba profugo violencia",
+      "title": "Atraparon en pleno centro a un hombre que estaba prófugo por violencia",
+      "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-09-29T09:40:57.091206+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/be695f682d0529c4cd43f3057077f1fb98efe316.jpg",
+      "first_seen": "2026-09-29T16:26:20.544471+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/atraparon-en-pleno-centro-a-un-hombre-que-estaba-profugo-por-violencia.webp",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Bianco confirmó que Ernesto Povilaitis será el presidente del Consorcio de Gestión de Puerto Quequén",
-          "url": "https://necocheadigital.com/nota/119708/bianco-confirmo-que-ernesto-povilaitis-sera-el-presidente-del-consorcio-de-gestion-de-puerto-quequen/",
+          "portal": "Diario Necochea",
+          "title": "Atraparon en pleno centro a un hombre que estaba prófugo por violencia",
+          "url": "https://diarionecochea.com/2026/09/29/atraparon-en-pleno-centro-a-un-hombre-que-estaba-profugo-por-violencia/",
           "published_at": null,
           "category": null,
           "image": null
@@ -371,24 +337,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "El ministro de Gobierno de la provincia de Buenos Aires, Carlos Bianco, confirmó en Lobería que Ernesto Povilaitis será el próximo presidente del Consorcio de Gestión de Puerto Quequén . Bianco explicó que ya se realizó el proceso administrativo correspondiente para avanzar con la designación y que actualmente solo resta la firma del gobernador Axel Kicillof en el decreto. Una vez firmado el instrumento, Povilaitis podrá asumir formalmente como titular del Consorcio de Gestión de Puerto Quequén .",
-          "La confirmación se conoció durante la visita de Kicillof El anuncio fue realizado en el marco de la visita del gobernador Axel Kicillof a Lobería, donde estuvo acompañado por Bianco y otros funcionarios provinciales. Kicillof visitó el CEF N° 43 , donde encabezó una actividad que incluyó la entrega de 318 escrituras , además de una ambulancia y un camión destinado al tratamiento de residuos sólidos urbanos ."
+          "Durante un patrullaje de rutina, la policía identificó al sospechoso en la zona comercial y lo trasladó inmediatamente a la Comisaría Primera. En el marco de las tareas de prevención, personal del GTO de Comisaría Primera, junto a efectivos de la misma dependencia, concretó la detención de un hombre que registraba una orden de detención vigente.",
+          "Noticia relacionadas Un policía de franco vio un arrebato en Quequén y atrapó al ladrón escondido entre pastizales 29 de septiembre de 2026 Buscan a un hombre que padece esquizofrenia y desapareció de un hogar de ancianos 29 de septiembre de 2026 El procedimiento se llevó a cabo en inmediaciones de Avenida 59 y calle 64 de Necochea, donde los efectivos identificaron al sindicado y procedieron a su detención, en relación con una causa por “Lesiones Leves Calificadas”, tramitada ante el Juzgado Correccional N.º 01 del Departamento Judicial Necochea."
         ],
-        "generated": "2026-09-29T09:41:22.407248+00:00"
+        "generated": "2026-09-29T16:26:55.281392+00:00"
       }
     },
     {
-      "key": "milei nego haya recesion defendio programa economico hay desaceleracion ritmo expansion",
-      "title": "Milei negó que haya una recesión y defendió su programa económico: “Hay una desaceleración del ritmo de expansión”",
-      "score": 1.1,
+      "key": "justicia ordeno internacion forzosa pity alvarez 90 dias",
+      "title": "La Justicia ordenó la internación forzosa de Pity Álvarez durante 90 días",
+      "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-09-29T09:40:57.091206+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/28acea48b687e3cba735ad32200d5f254e274631.jpg",
+      "first_seen": "2026-09-29T16:26:20.544471+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/la-justicia-ordeno-la-internacion-forzosa-de-pity-alvarez-durante-90-dias.webp",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Milei negó que haya una recesión y defendió su programa económico: “Hay una desaceleración del ritmo de expansión”",
-          "url": "https://necocheadigital.com/nota/119721/milei-nego-que-haya-una-recesion-y-defendio-su-programa-economico-hay-una-desaceleracion-del-ritmo-de-expansion/",
+          "portal": "Diario Necochea",
+          "title": "La Justicia ordenó la internación forzosa de Pity Álvarez durante 90 días",
+          "url": "https://diarionecochea.com/2026/09/29/la-justicia-ordeno-la-internacion-forzosa-de-pity-alvarez-durante-90-dias/",
           "published_at": null,
           "category": null,
           "image": null
@@ -396,24 +362,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "El presidente Javier Milei negó que la Argentina se encuentre atravesando una recesión y defendió el rumbo de su programa económico durante una entrevista grabada con el periodista Luis Majul , luego de su paso por la Asamblea General de las Naciones Unidas. Uno de los principales ejes de la conversación fue la situación de la actividad económica y las señales de desaceleración que muestran algunos sectores. Milei rechazó que los datos recientes permitan hablar de una recesión y sostuvo que se trata de un proceso de transformación de la estructura productiva.",
-          "“Hay una desaceleración del ritmo de expansión” , afirmó el mandatario. En ese sentido, utilizó una comparación con el cambio tecnológico para explicar su interpretación sobre los sectores que atraviesan dificultades. “Cuando hay cambios estructurales hay sectores que se expanden y otros que se contraen."
+          "El cantante fue internado nuevamente tras intentar abandonar el Hospital Tornú durante una crisis ocurrida antes de una audiencia virtual por el juicio por el crimen de Cristian Maximiliano Díaz. La Justicia ordenó que Pity Álvarez permanezca internado durante 90 días, incluso contra su voluntad, luego de una jornada crítica en el Hospital Tornú, donde se encuentra internado desde el 23 de septiembre.",
+          "Noticia relacionadas Docentes universitarios anunciaron un paro de 48 a 72 horas desde el miércoles 27 de septiembre de 2026 IOMA pagará deuda millonaria a municipio y el intendente dará un bono a empleados 25 de septiembre de 2026 El episodio ocurrió cuando el exlíder de Viejas Locas e Intoxicados debía participar mediante Zoom de una audiencia correspondiente al juicio por el crimen de Cristian Maximiliano Díaz."
         ],
-        "generated": "2026-09-29T09:41:23.080576+00:00"
+        "generated": "2026-09-29T16:26:58.137011+00:00"
       }
     },
     {
-      "key": "hernan palazzo quedo gran fiesta automovilismo balcarce 27 000 personas",
-      "title": "Hernán Palazzo se quedó con la gran fiesta del automovilismo en Balcarce ante 27.000 personas",
-      "score": 1.1,
+      "key": "buscan hombre padece esquizofrenia desaparecio hogar ancianos",
+      "title": "Buscan a un hombre que padece esquizofrenia y desapareció de un hogar de ancianos",
+      "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-09-29T09:40:57.091206+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260928090922_captura.jpg",
+      "first_seen": "2026-09-29T16:26:20.544471+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/buscan-a-un-hombre-que-padece-esquizofrenia-y-desaparecio-de-un-hogar-de-ancianos.webp",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Hernán Palazzo se quedó con la gran fiesta del automovilismo en Balcarce ante 27.000 personas",
-          "url": "https://necocheadigital.com/nota/119720/hernan-palazzo-se-quedo-con-la-gran-fiesta-del-automovilismo-en-balcarce-ante-27-000-personas/",
+          "portal": "Diario Necochea",
+          "title": "Buscan a un hombre que padece esquizofrenia y desapareció de un hogar de ancianos",
+          "url": "https://diarionecochea.com/2026/09/29/buscan-a-un-hombre-que-padece-esquizofrenia-y-desaparecio-de-un-hogar-de-ancianos/",
           "published_at": null,
           "category": null,
           "image": null
@@ -421,24 +387,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "Después de 15 años sin automovilismo nacional, el autódromo Juan Manuel Fangio volvió a recibir una competencia y lo hizo ante una multitud: 27.000 personas colmaron el circuito y marcaron un récord histórico de público para el TC Pick Up. El gran ganador de la jornada fue Hernán Palazzo , quien se impuso en una final del TC Pick Up cargada de emociones y cambios constantes en las posiciones de vanguardia. La jornada también tuvo como protagonista al TC Pista Pick Up , donde Antonino Sganga consiguió su primera victoria en la categoría.",
-          "Palazzo, dueño de una final espectacular La competencia del TC Pick Up tuvo una intensa disputa por la punta entre Otto Fritzler, Mariano Werner y Diego Ciantini . Palazzo consiguió tomar el control de la carrera en el tramo decisivo y, durante las últimas cuatro vueltas, logró mantenerse al frente para quedarse con una victoria de enorme importancia."
+          "Daniel Antonio Moliner se retiró de la residencia ubicada en la Diagonal San Martín el lunes a las 7:30 vistiendo ropa deportiva celeste, por lo que la policía montó un operativo especial para encontrarlo. La Policía busca a Daniel Antonio Moliner, un hombre que desapareció el 28 de septiembre en la ciudad de Necochea. Se ausentó de un hogar de ancianos ubicado en la Diagonal San Martín al 700 y desde entonces no se tienen noticias sobre su paradero.",
+          "Noticia relacionadas Un policía de franco vio un arrebato en Quequén y atrapó al ladrón escondido entre pastizales 29 de septiembre de 2026 Atraparon en pleno centro a un hombre que estaba prófugo por violencia 29 de septiembre de 2026 Según la información policial, Moliner se retiró del establecimiento alrededor de las 7:30. Al notar que el tiempo pasaba y no regresaba al lugar, se inició una investigación formal para dar con él lo antes posible y solicitar la colaboración ciudadana."
         ],
-        "generated": "2026-09-29T09:41:23.775938+00:00"
+        "generated": "2026-09-29T16:26:59.664267+00:00"
       }
     },
     {
-      "key": "arturo rojas recibio 750 jovenes participan invasion pueblos necochea",
-      "title": "Arturo Rojas recibió a los más de 750 jóvenes que participan de la “Invasión de Pueblos” en Necochea",
-      "score": 1.1,
+      "key": "robo mujer 73 anos arrastro calle termino aprehendido",
+      "title": "Le robó a una mujer de 73 años, la arrastró por la calle y terminó aprehendido",
+      "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-09-29T09:40:57.091206+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260926151435_26-09-foto-invasion-pueblos-02.png",
+      "first_seen": "2026-09-29T16:26:20.544471+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2025/10/ambulancia-hospital.jpg",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Arturo Rojas recibió a los más de 750 jóvenes que participan de la “Invasión de Pueblos” en Necochea",
-          "url": "https://necocheadigital.com/nota/119717/arturo-rojas-recibio-a-los-mas-de-750-jovenes-que-participan-de-la-invasion-de-pueblos-en-necochea/",
+          "portal": "Diario Necochea",
+          "title": "Le robó a una mujer de 73 años, la arrastró por la calle y terminó aprehendido",
+          "url": "https://diarionecochea.com/2026/09/29/le-robo-a-una-mujer-de-73-anos-la-arrastro-por-la-calle-y-termino-aprehendido/",
           "published_at": null,
           "category": null,
           "image": null
@@ -446,24 +412,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "Más de 750 jóvenes de distintas comunidades de la Diócesis llegaron a Necochea para participar de una nueva edición de la tradicional “Invasión de Pueblos” , un encuentro que durante tres jornadas propone espacios de oración, reflexión, misión y celebración. Las actividades comenzaron este viernes con la llegada y acreditación de los participantes, que durante todo el fin de semana serán protagonistas de distintas propuestas comunitarias.",
-          "En ese marco, el intendente Arturo Rojas expresó su satisfacción por recibir a los jóvenes y les dio la bienvenida a la ciudad. “Nos da una enorme alegría estar dándoles la bienvenida a tantos jóvenes, más de 750 jóvenes que están comenzando este evento hermosísimo de Invasión de Pueblos” , señaló el jefe comunal."
+          "Durante el ataque en la zona de 560 y 519, la víctima sufrió un fuerte shock emocional, por lo que recibió atención médica en el lugar mientras los uniformados recuperaban sus pertenencias. Un delincuente asaltó con extrema violencia a una mujer de 73 años en la intersección de las calles 560 y 519.",
+          "El agresor le arrebató la cartera de manera brusca, la arrastró durante unos metros sobre la calzada y escapó rápidamente del lugar con su billetera y su teléfono celular. Noticia relacionadas Un policía de franco vio un arrebato en Quequén y atrapó al ladrón escondido entre pastizales 29 de septiembre de 2026 Atraparon en pleno centro a un hombre que estaba prófugo por violencia 29 de septiembre de 2026 Tras la alerta, efectivos del Comando de Patrullas interceptaron al sujeto en la esquina de 518 y 519, donde lograron su aprehensión."
         ],
-        "generated": "2026-09-29T09:41:24.436525+00:00"
+        "generated": "2026-09-29T16:27:01.111410+00:00"
       }
     },
     {
-      "key": "economia argentina borde recesion tecnica dicen analistas medidas impulsa gobierno",
-      "title": "¿La economía argentina está al borde de una recesión técnica? Qué dicen los analistas y qué medidas impulsa el Gobierno",
-      "score": 1.1,
+      "key": "boquete cajas fuertes cheques nuevo robo lnf coincidencias 2022",
+      "title": "Boquete, cajas fuertes y cheques: un nuevo robo en la LNF y sus coincidencias con el de 2022",
+      "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-09-29T09:40:57.091206+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/c6349fa3f79287fcf3e346b5eb6cb71960ed71dd.jpg",
+      "first_seen": "2026-09-29T16:26:20.544471+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/lnf-liga-necochea-futbol-robo.jpg",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "¿La economía argentina está al borde de una recesión técnica? Qué dicen los analistas y qué medidas impulsa el Gobierno",
-          "url": "https://necocheadigital.com/nota/119719/la-economia-argentina-esta-al-borde-de-una-recesion-tecnica-que-dicen-los-analistas-y-que-medidas-impulsa-el-gobierno/",
+          "portal": "Diario Necochea",
+          "title": "Boquete, cajas fuertes y cheques: un nuevo robo en la LNF y sus coincidencias con el de 2022",
+          "url": "https://diarionecochea.com/2026/09/28/boquete-cajas-fuertes-y-cheques-un-nuevo-robo-en-la-lnf-y-sus-coincidencias-con-el-de-2022/",
           "published_at": null,
           "category": null,
           "image": null
@@ -471,24 +437,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "La economía argentina atraviesa un escenario de fuerte desaceleración y los últimos datos oficiales volvieron a encender el debate sobre la posibilidad de que el país ingrese en una recesión técnica . El dato que generó mayor preocupación fue el del Estimador Mensual de Actividad Económica (EMAE) de julio , que registró una caída del 2,9% mensual desestacionalizada , la mayor desde la pandemia. El resultado se sumó a la contracción del 0,6% del PBI durante el segundo trimestre de 2026 .",
-          "La definición habitual de recesión técnica contempla dos trimestres consecutivos de caída del PBI desestacionalizado . Por eso, el comportamiento de la economía durante agosto y septiembre será determinante para establecer si el tercer trimestre termina nuevamente en terreno negativo."
+          "Los delincuentes ingresaron al sector administrativo, violentaron dos cajas fuertes y se llevaron dinero en pesos y dólares, además de cheques de pago diferido. Entre la noche del sábado 26 y la madrugada del domingo 27 de septiembre, delincuentes ingresaron a la sede de la Liga Necochea de Fútbol y concretaron un robo mediante un boquete realizado en el techo del edificio .",
+          "Noticia relacionadas Un policía de franco vio un arrebato en Quequén y atrapó al ladrón escondido entre pastizales 29 de septiembre de 2026 Atraparon en pleno centro a un hombre que estaba prófugo por violencia 29 de septiembre de 2026 Los autores llegaron hasta el sector de oficinas administrativas, donde utilizaron distintas herramientas para violentar dos cajas fuertes. Además de los daños provocados en las instalaciones, se confirmó el faltante de dinero en efectivo, tanto en pesos argentinos como en dólares, y de cheques de pago diferido."
         ],
-        "generated": "2026-09-29T09:41:25.129096+00:00"
+        "generated": "2026-09-29T16:27:02.504613+00:00"
       }
     },
     {
-      "key": "detienen hombre ataco hacha casa policia quequen",
-      "title": "Detienen a un hombre que atacó con un hacha la casa de un policía en Quequén",
-      "score": 1.1,
+      "key": "descubrio joven robando estereo auto aviso policia detuvieron ladron",
+      "title": "Descubrió a un joven robando el estéreo de su auto, avisó a la policía y detuvieron al ladrón",
+      "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-09-29T09:40:57.091206+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260925181313_whatsapp-image-2026-09-25-at-18-12-51.jpg",
+      "first_seen": "2026-09-29T16:26:20.544471+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/descubrio-a-un-joven-robando-el-estereo-de-su-auto-aviso-a-la-policia-y-detuvieron-al-ladr.webp",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Detienen a un hombre que atacó con un hacha la casa de un policía en Quequén",
-          "url": "https://necocheadigital.com/nota/119715/detienen-a-un-hombre-que-ataco-con-un-hacha-la-casa-de-un-policia-en-quequen/",
+          "portal": "Diario Necochea",
+          "title": "Descubrió a un joven robando el estéreo de su auto, avisó a la policía y detuvieron al ladrón",
+          "url": "https://diarionecochea.com/2026/09/28/descubrio-a-un-joven-robando-el-estereo-de-su-auto-aviso-a-la-policia-y-detuvieron-al-ladron/",
           "published_at": null,
           "category": null,
           "image": null
@@ -496,24 +462,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "Tras la agresión, el atacante intentó darse a la fuga a pie. Sin embargo, efectivos del Comando de Patrullas desplegaron un operativo cerrojo en las inmediaciones y lograron reducirlo y aprehenderlo a los pocos metros del lugar. Lezcano fue trasladado a los calabozos de la Seccional Segunda de Quequén, donde permanece alojado. Según voceros judiciales, el móvil del ataque estaría relacionado con diferencias personales previas entre ambos.",
-          "La causa quedó bajo la investigación de la Fiscalía N° 1, a cargo del Dr. José Luis Cipolletti, imputando al aprehendido por los delitos de «amenazas, violación de domicilio y daños», todos en concurso real. El acusado será trasladado a la sede judicial para prestar declaración indagatoria."
+          "Los efectivos aprehendieron al sospechoso de 23 años en la calle 523 con el equipo Sony robado entre sus prendas, tras la denuncia realizada a la central del 911. Personal del Comando de Patrullas Necochea intervino, a raíz de un aviso de CATE 911, ante un hecho de robo en flagrancia ocurrido en Quequén .",
+          "Noticia relacionadas Un policía de franco vio un arrebato en Quequén y atrapó al ladrón escondido entre pastizales 29 de septiembre de 2026 Atraparon en pleno centro a un hombre que estaba prófugo por violencia 29 de septiembre de 2026 Constituido el personal policial en el lugar, se entrevistó al damnificado, quien manifestó haber advertido que un sujeto sustraía un estéreo del interior de su automóvil Volkswagen Polo, logrando luego identificar al sospechoso en inmediaciones de calle 523."
         ],
-        "generated": "2026-09-29T09:41:25.804951+00:00"
+        "generated": "2026-09-29T16:27:03.984001+00:00"
       }
     },
     {
-      "key": "caso bautista coronel aplazaron juicio justicia analiza imputabilidad acusado",
-      "title": "Caso Bautista Coronel: aplazaron el juicio y la Justicia analiza la imputabilidad del acusado",
-      "score": 1.1,
+      "key": "docentes universitarios anunciaron paro 48 72 horas miercoles",
+      "title": "Docentes universitarios anunciaron un paro de 48 a 72 horas desde el miércoles",
+      "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-09-29T09:40:57.091206+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260924112413_sede-de-la-fiscalia-penal-juvenil-de-necochea.jpg",
+      "first_seen": "2026-09-29T16:26:20.544471+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/docentes-universitarios-anunciaron-un-paro-de-48-a-72-horas-desde-el-miercoles-y-lo-condicionaron-a-una-recomposicion-salarial.jpg",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Caso Bautista Coronel: aplazaron el juicio y la Justicia analiza la imputabilidad del acusado",
-          "url": "https://necocheadigital.com/nota/119698/caso-bautista-coronel-aplazaron-el-juicio-y-la-justicia-analiza-la-imputabilidad-del-acusado/",
+          "portal": "Diario Necochea",
+          "title": "Docentes universitarios anunciaron un paro de 48 a 72 horas desde el miércoles",
+          "url": "https://diarionecochea.com/2026/09/27/docentes-universitarios-anunciaron-un-paro-de-48-a-72-horas-desde-el-miercoles-y-lo-condicionaron-a-una-recomposicion-salarial/",
           "published_at": null,
           "category": null,
           "image": null
@@ -521,24 +487,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "El debate oral y público por el crimen de Bautista Coronel , el joven de 17 años asesinado durante un enfrentamiento callejero en la villa balnearia de Necochea, se encuentra temporalmente suspendido. El Juzgado de Responsabilidad Penal Juvenil debe resolver un planteo decisivo presentado por la defensa, el cual busca determinar la inimputabilidad del único acusado en la causa.",
-          "La decisión final está a cargo de un tribunal conformado por un juez local y dos magistrados pertenecientes a los departamentos judiciales de Dolores y Azul, quienes se tomaron el plazo correspondiente para evaluar las pruebas presentadas antes de expedirse."
+          "Los docentes universitarios condicionaron el paro a que el Gobierno otorgue un aumento salarial del 33,4% antes del 29 de septiembre y anunciaron movilizaciones previas a la Marcha Federal Universitaria del 15 de octubre en Buenos Aires y otras ciudades. Los docentes de las universidades nacionales anunciaron un paro de entre 48 y 72 horas desde el miércoles 30 de septiembre, en reclamo de la aplicación de la Ley 27.795 y de una recomposición salarial.",
+          "La medida quedó condicionada a que el Gobierno otorgue antes del martes 29 el incremento del 33,4% reclamado por CONADU para cumplir con la normativa, mientras que los sindicatos y las universidades estiman que los salarios necesitan una recuperación del 31,2%. La decisión fue adoptada por la Federación Nacional de Docentes Universitarios (CONADU) y se integrará a las acciones previas a la quinta Marcha Federal Universitaria, convocada para el 15 de octubre."
         ],
-        "generated": "2026-09-29T09:41:26.473386+00:00"
+        "generated": "2026-09-29T16:27:05.366178+00:00"
       }
     },
     {
-      "key": "intento robar vino comercio avenida 59 atrapado pocas cuadras",
-      "title": "Intentó robar un vino en un comercio de la Avenida 59 y fue atrapado a las pocas cuadras",
-      "score": 1.1,
+      "key": "ioma pagara deuda millonaria municipio intendente dara bono empleados",
+      "title": "IOMA pagará deuda millonaria a municipio y el intendente dará un bono a empleados",
+      "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-09-29T09:40:57.091206+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260924111723_whatsapp-image-2026-09-24-at-10-08-35.jpg",
+      "first_seen": "2026-09-29T16:26:20.544471+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/eguen-anuncio-un-bono-de-200-000-para-municipales-financiado-con-un-embargo-judicial-a-iom.webp",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Intentó robar un vino en un comercio de la Avenida 59 y fue atrapado a las pocas cuadras",
-          "url": "https://necocheadigital.com/nota/119697/intento-robar-un-vino-en-un-comercio-de-la-avenida-59-y-fue-atrapado-a-las-pocas-cuadras/",
+          "portal": "Diario Necochea",
+          "title": "IOMA pagará deuda millonaria a municipio y el intendente dará un bono a empleados",
+          "url": "https://diarionecochea.com/2026/09/25/ioma-pagara-una-deuda-millonaria-a-un-municipio-el-intendente-usara-los-fondos-para-un-bono-a-empleados-municipales/",
           "published_at": null,
           "category": null,
           "image": null
@@ -546,24 +512,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "Un hombre de 35 años fue aprehendido en el centro de Necochea luego de intentar sustraer una botella de vino de una fiambrería y darse a la fuga. La rápida alerta de la encargada del local y la intervención policial permitieron interceptarlo a pocas cuadras del lugar. El episodio ocurrió en un comercio ubicado sobre la Avenida 59, entre calles 38 y 40 .",
-          "Un llamado al Central de Atención Telefónica de Emergencias (CATE 911) movilizó al personal del Comando de Patrullas de Necochea hacia la zona. Al arribar al establecimiento, los efectivos dialogaron con la encargada, quien relató que el sujeto había ingresado, tomado la mercadería y se había retirado sin abonar, logrando recuperar la botella antes de su huida o dando aviso inmediato con la descripción del sospechoso."
+          "La liquidación judicial fijó 256 millones, pero el proceso sigue en ejecución, lo que genera incertidumbre sobre la disponibilidad inmediata del recurso. Con una plantilla de 1.250 empleados, el pago total del beneficio absorbería prácticamente todo el monto reconocido. Egüen anunció que repartió entre los municipales $264 millones provenientes de un embargo contra IOMA.",
+          "Pero la Justicia aprobó una liquidación por $256 millones y el expediente, según publicaciones recientes, continuó en etapa de ejecución. ¿El dinero ya ingresó a las cuentas municipales?"
         ],
-        "generated": "2026-09-29T09:41:27.128949+00:00"
+        "generated": "2026-09-29T16:27:06.748316+00:00"
       }
     },
     {
-      "key": "grave accidente quequen camioneta choco camion hombre resulto gravemente herido",
-      "title": "Grave accidente en Quequén: una camioneta chocó contra un camión y un hombre resultó gravemente herido",
-      "score": 1.1,
+      "key": "leon xiv llegara noviembre milei esperara aeroparque luego reuniran casa rosada",
+      "title": "León XIV llegará en noviembre: Milei lo esperará en Aeroparque y luego se reunirán en Casa Rosada",
+      "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-09-29T09:40:57.091206+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260925074612_captura.jpg",
+      "first_seen": "2026-09-29T16:26:20.544471+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/leon-xiv-llegara-en-noviembre-milei-lo-esperara-en-aeroparque-y-luego-se-reuniran-en-casa-rosada.jpg",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Grave accidente en Quequén: una camioneta chocó contra un camión y un hombre resultó gravemente herido",
-          "url": "https://necocheadigital.com/nota/119704/grave-accidente-en-quequen-una-camioneta-choco-contra-un-camion-y-un-hombre-resulto-gravemente-herido/",
+          "portal": "Diario Necochea",
+          "title": "León XIV llegará en noviembre: Milei lo esperará en Aeroparque y luego se reunirán en Casa Rosada",
+          "url": "https://diarionecochea.com/2026/09/25/leon-xiv-llegara-en-noviembre-milei-lo-esperara-en-aeroparque-y-luego-se-reuniran-en-casa-rosada/",
           "published_at": null,
           "category": null,
           "image": null
@@ -571,24 +537,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "Un grave accidente de tránsito se registró durante la madrugada de este viernes en Quequén, donde una camioneta Ford EcoSport impactó contra un camión que se encontraba estacionado y provocó, a su vez, un choque en cadena que involucró a otro vehículo. El siniestro ocurrió pasadas las 3 de la madrugada en la intersección de las calles 517 y 544 . Operativo de emergencia Tras recibir el aviso sobre el fuerte impacto, desde la base operativa de Defensa Civil se desplegó inmediatamente una unidad hacia el lugar.",
-          "En simultáneo, se coordinó la intervención del área de Tránsito y se dio aviso al Hospital , con el objetivo de garantizar una rápida asistencia médica. Al arribar al lugar, los equipos de emergencia encontraron al conductor de la EcoSport, un hombre mayor de 60 años , gravemente herido y dentro del habitáculo."
+          "El pontífice llegará el 8 de noviembre desde Montevideo y recorrerá Buenos Aires, Córdoba y Luján. El programa incluye un encuentro con Milei, misas, reuniones pastorales y actividades con distintos sectores. El papa León XIV llegará a la Argentina el domingo 8 de noviembre de 2026 a las 16:30, procedente de Montevideo, y será recibido por el presidente Javier Milei al pie del avión en el Aeroparque Jorge Newbery.",
+          "La visita se extenderá hasta el miércoles 11 y será la primera de León XIV al país. El cronograma prevé actividades en Buenos Aires, Córdoba y Luján, con una agenda que combinará encuentros institucionales, celebraciones religiosas y reuniones con distintos sectores."
         ],
-        "generated": "2026-09-29T09:41:27.810808+00:00"
+        "generated": "2026-09-29T16:27:08.668920+00:00"
       }
     },
     {
-      "key": "recuperaron pleno centro auto alta gama robado mar plata",
-      "title": "Recuperaron en pleno centro un auto de alta gama robado en Mar del Plata",
-      "score": 1.1,
+      "key": "denuncio 12 cortes luz dos semanas justicia archivo investigacion",
+      "title": "Denunció 12 cortes de luz en dos semanas y la Justicia archivó la investigación",
+      "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-09-29T09:40:57.091206+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/fe5a4cb810cb52bd192c927b9e8e63b1932945a4.jpg",
+      "first_seen": "2026-09-29T16:26:20.544471+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/08/realizaran-un-corte-de-luz-en-un-sector-de-quequen-por-tareas-en-la-linea-de-media-tension.webp",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Recuperaron en pleno centro un auto de alta gama robado en Mar del Plata",
-          "url": "https://necocheadigital.com/nota/119696/recuperaron-en-pleno-centro-un-auto-de-alta-gama-robado-en-mar-del-plata/",
+          "portal": "Diario Necochea",
+          "title": "Denunció 12 cortes de luz en dos semanas y la Justicia archivó la investigación",
+          "url": "https://diarionecochea.com/2026/09/25/denuncio-12-cortes-de-luz-en-dos-semanas-y-la-justicia-archivo-la-investigacion/",
           "published_at": null,
           "category": null,
           "image": null
@@ -596,24 +562,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "En el marco de las recorridas preventivas desplegadas por la zona céntrica de la ciudad, personal del Grupo Táctico de Operaciones (GTO) de la Comisaría Primera de Necochea recuperó un automóvil de alta gama que registraba un pedido de secuestro activo por robo en la localidad de Mar del Plata. El procedimiento culminó con la aprehensión de un joven de 20 años que dijo ser el propietario del vehículo. El operativo tuvo lugar en la calle 62, entre 67 y 69, cuando los efectivos observaron un automóvil marca BMW modelo 320, de color blanco, que circulaba sin la chapa patente colocada en la parte delantera.",
-          "Esta anomalía motivó la inmediata intervención policial para su identificación. Verificación e irregularidades Al proceder a la inspección del vehículo, los uniformados constataron severas inconsistencias: Dominio adulterado: La patente exhibida en la carrocería no coincidía con el grabado de la numeración en los cristales."
+          "La denuncia fue presentada por un usuario de Edesur en la Ciudad de Buenos Aires, quien cuestionó los reiterados cortes de luz y el estado de la red eléctrica de la empresa. Claudio Lamela, abogado penalista y usuario del servicio eléctrico, presentó en febrero de 2025 una denuncia penal contra directivos de la empresa luego de atravesar una seguidilla de problemas con el suministro. Según su presentación, sufrió 12 cortes en apenas dos semanas y uno de ellos se prolongó durante casi tres días.",
+          "La falta de electricidad también afectó el abastecimiento de agua en su edificio, debido a que las bombas dejaron de funcionar. Noticia relacionadas La Justicia ordenó la internación forzosa de Pity Álvarez durante 90 días 29 de septiembre de 2026 Docentes universitarios anunciaron un paro de 48 a 72 horas desde el miércoles 27 de septiembre de 2026 La denuncia no estuvo basada únicamente en la situación personal que había atravesado Lamela."
         ],
-        "generated": "2026-09-29T09:41:28.522641+00:00"
+        "generated": "2026-09-29T16:27:10.014022+00:00"
       }
     },
     {
-      "key": "aprehendieron hombre acusado agredir mujer quequen",
-      "title": "Aprehendieron a un hombre acusado de agredir a una mujer en Quequén",
-      "score": 1.1,
+      "key": "pobreza volvio subir argentina alcanza 32 poblacion",
+      "title": "La pobreza volvió a subir en la Argentina y alcanza al 32,2% de la población",
+      "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-09-29T09:40:57.091206+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/47e95588bfef6547f51f91aac0abf725cdb8442b.jpg",
+      "first_seen": "2026-09-29T16:26:20.544471+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/la-pobreza-volvio-a-subir-y-la-uca-advierte-por-un-nucleo-estructural-cercano-al-30.jpg",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Aprehendieron a un hombre acusado de agredir a una mujer en Quequén",
-          "url": "https://necocheadigital.com/nota/119676/aprehendieron-a-un-hombre-acusado-de-agredir-a-una-mujer-en-quequen/",
+          "portal": "Diario Necochea",
+          "title": "La pobreza volvió a subir en la Argentina y alcanza al 32,2% de la población",
+          "url": "https://diarionecochea.com/2026/09/24/la-pobreza-volvio-a-subir-en-la-argentina-y-alcanza-al-322-de-la-poblacion/",
           "published_at": null,
           "category": null,
           "image": null
@@ -621,24 +587,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "Al arribar al domicilio, efectivos del Comando de Patrullas escucharon gritos de auxilio provenientes del interior y observaron un forcejeo entre una mujer y un hombre. Los policías intervinieron de inmediato para separarlos. Según manifestó la mujer, había sido agredida físicamente por el sujeto. Ante esta situación, los efectivos la resguardaron junto a su hijo en un móvil policial, con el objetivo de preservar su integridad física, mientras procedieron a reducir y aprehender al involucrado.",
-          "El hombre fue trasladado a la dependencia policial correspondiente, donde quedó alojado a disposición de la Justicia. Tras mantener comunicación con la UFI N.º 10 del Departamento Judicial Necochea, se dispuso la aprehensión del sujeto y el inicio de actuaciones bajo la carátula “Lesiones leves” . La investigación continúa con intervención de la Fiscalía competente."
+          "El dato correspondió a las personas relevadas en los 31 aglomerados urbanos de la EPH y mostró un cambio de tendencia, mientras la UCA advirtió por un núcleo estructural de pobreza cercano al 30%. La pobreza alcanzó al 32,3% de las personas durante el primer semestre de 2026, mientras que la indigencia llegó al 7,5%, de acuerdo con la medición oficial basada en la Encuesta Permanente de Hogares. El relevamiento comprendió a los 31 aglomerados urbanos incluidos por el INDEC.",
+          "En términos de hogares, los porcentajes fueron del 24,4% para pobreza y del 5,6% para indigencia. Frente al segundo semestre de 2025, la pobreza aumentó 4,1 puntos porcentuales, al pasar del 28,2% al 32,3%, mientras que la indigencia subió 1,8 puntos, desde el 5,7% hasta el 7,5%. El resultado marcó un cambio respecto de la trayectoria descendente observada durante buena parte de 2024 y 2025."
         ],
-        "generated": "2026-09-29T09:41:29.176530+00:00"
+        "generated": "2026-09-29T16:27:11.407869+00:00"
       }
     },
     {
-      "key": "robaban chancha atraparon",
-      "title": "Se robaban una chancha y los atraparon",
-      "score": 1.1,
+      "key": "cierra planta danica llavallol despiden 30 trabajadores",
+      "title": "Cierra la planta de Dánica en Llavallol y despiden unos 30 trabajadores",
+      "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-09-29T09:40:57.091206+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/21453231300306466f7f13577b0b05acbae6eb62.jpg",
+      "first_seen": "2026-09-29T16:26:20.544471+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/danica-confirmo-el-cierre-de-su-planta-de-llavallol-y-quedan-unos-30-trabajadores.webp",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Se robaban una chancha y los atraparon",
-          "url": "https://necocheadigital.com/nota/119669/se-robaban-una-chancha-y-los-atraparon/",
+          "portal": "Diario Necochea",
+          "title": "Cierra la planta de Dánica en Llavallol y despiden unos 30 trabajadores",
+          "url": "https://diarionecochea.com/2026/09/23/cierra-la-planta-de-danica-en-llavallol-y-despiden-unos-30-trabajadores/",
           "published_at": null,
           "category": null,
           "image": null
@@ -646,24 +612,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "Tres hombres fueron aprehendidos por la Policía luego de ser sorprendidos cuando, presuntamente, ingresaron a un predio de la zona suburbana de Necochea y sustrajeron un animal porcino . El procedimiento se inició a partir de un llamado al CATE 911 , que alertó sobre una confrontación entre varios hombres en inmediaciones de avenida 74 y calle 123 . Al llegar al lugar, efectivos del Comando de Patrullas lograron controlar la situación y entrevistaron a la propietaria de un predio.",
-          "La mujer manifestó que momentos antes había observado a tres hombres ingresar al establecimiento a bordo de una camioneta , luego de derribar postes del alambrado perimetral e intentar cargar leña sin autorización. El lechón estaba en la camioneta Durante la inspección de una Chevrolet S10 , los policías encontraron en la caja del vehículo un animal porcino tipo lechón . Además, dentro del habitáculo fue hallado un rifle de aire comprimido ."
+          "anunció que la operación industrial finalizará el 30 de septiembre. Los trabajadores instalaron una carpa frente a la fábrica y el sindicato presentó una denuncia. Dorada S.A., fabricante de la marca Dánica, confirmó el cierre definitivo de su planta industrial de Llavallol , en el partido de Lomas de Zamora, provincia de Buenos Aires.",
+          "La empresa colocó un cartel en el ingreso del establecimiento y comunicó que la operación industrial finalizará el 30 de septiembre. Actualmente permanecen alrededor de 30 trabajadores. Noticia relacionadas La Justicia ordenó la internación forzosa de Pity Álvarez durante 90 días 29 de septiembre de 2026 Docentes universitarios anunciaron un paro de 48 a 72 horas desde el miércoles 27 de septiembre de 2026 El anuncio sorprendió a los empleados que llegaron a la fábrica durante el turno sabatino y encontraron el acceso cerrado."
         ],
-        "generated": "2026-09-29T09:41:29.847892+00:00"
+        "generated": "2026-09-29T16:27:12.728381+00:00"
       }
     },
     {
-      "key": "pavimentacion obras barriales municipio impulsa convenios vecinos empresas avanzar nuevos proyectos",
-      "title": "Pavimentación y obras barriales: el Municipio impulsa convenios entre vecinos y empresas para avanzar con nuevos proyectos",
-      "score": 1.1,
+      "key": "nuevos seis 16 llegaron canarias preparan cruzar atlantico argentina",
+      "title": "Los nuevos seis F-16 llegaron a Canarias y se preparan para cruzar el Atlántico hacia la Argentina",
+      "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-09-29T09:40:57.091206+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/5beeb599ceb32effe93a1c12210716e44bf0e3ed.jpg",
+      "first_seen": "2026-09-29T16:26:20.544471+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/seis-f-16-de-la-fuerza-aerea-argentina-llegan-a-canarias-y-parten-hacia-rio-cuarto-con-apo.webp",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Pavimentación y obras barriales: el Municipio impulsa convenios entre vecinos y empresas para avanzar con nuevos proyectos",
-          "url": "https://necocheadigital.com/nota/119705/pavimentacion-y-obras-barriales-el-municipio-impulsa-convenios-entre-vecinos-y-empresas-para-avanzar-con-nuevos-proyectos/",
+          "portal": "Diario Necochea",
+          "title": "Los nuevos seis F-16 llegaron a Canarias y se preparan para cruzar el Atlántico hacia la Argentina",
+          "url": "https://diarionecochea.com/2026/09/23/los-nuevos-seis-f-16-llegaron-a-canarias-y-se-preparan-para-cruzar-el-atlantico-hacia-la-argentina/",
           "published_at": null,
           "category": null,
           "image": null
@@ -671,24 +637,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "El Municipio de Necochea busca reactivar una herramienta que permite avanzar con obras de infraestructura mediante convenios entre vecinos, empresas y el Estado municipal , especialmente frente a las dificultades actuales para conseguir financiamiento destinado a nuevos trabajos de pavimentación. El secretario de Obras y Servicios Públicos, Adrián Furno , explicó el funcionamiento de esta modalidad durante una entrevista realizada por Horacio Castelli en Radio Noticias Necochea 97.3 .",
-          "Según detalló el funcionario, los convenios se realizan en el marco de la Ordenanza 165 y permiten distintas modalidades de participación, dependiendo del tipo de obra. Pavimentación: vecinos, empresa y Municipio Furno explicó que, en el caso de las obras de pavimentación, el esquema contempla la participación directa de los vecinos y una empresa privada."
+          "El cruce contará con tres KC‑135R estadounidenses y aviones argentinos como el T‑99 “Islas Malvinas” y el KC‑130H “Puerto Argentino”. Con esta entrega se completó la mitad del contrato de 24 cazas. Los seis nuevos F-16 ya avanzaron hacia la Argentina tras llegar a Canarias.",
+          "El segundo lote de cazas adquiridos a Dinamarca completó las primeras escalas y se preparó para cruzar el Atlántico con apoyo de tres aviones cisterna de Estados Unidos. Noticia relacionadas La Justicia ordenó la internación forzosa de Pity Álvarez durante 90 días 29 de septiembre de 2026 Docentes universitarios anunciaron un paro de 48 a 72 horas desde el miércoles 27 de septiembre de 2026 Los seis F-16 Fighting Falcon de la Fuerza Aérea Argentina ya se encontraban en Gando, Gran Canaria, después de iniciar el martes 22 de septiembre su traslado desde la Base Aérea de Skrydstrup, en Dinamarca. El grupo estuvo integrado por cuatro F-16AM monoplaza y dos F-16BM biplaza."
         ],
-        "generated": "2026-09-29T09:41:30.523422+00:00"
+        "generated": "2026-09-29T16:27:14.063095+00:00"
       }
     },
     {
-      "key": "rojas nueva necochea salieron cuestionar fin zona fria golpea directamente necochea",
-      "title": "Rojas y Nueva Necochea salieron a cuestionar el fin de la Zona Fría: “Golpea directamente a Necochea”",
-      "score": 1.1,
+      "key": "milei critico onu reclamo reino unido retomar negociaciones malvinas",
+      "title": "Milei criticó a la ONU y reclamó al Reino Unido retomar las negociaciones por Malvinas",
+      "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-09-29T09:40:57.091206+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260925074414_22-05-foto-rojas-concejales.jpg",
+      "first_seen": "2026-09-29T16:26:20.544471+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/milei-cuestiono-a-la-onu-y-reclamo-al-reino-unido-retomar-las-negociaciones-por-malvinas.jpg",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Rojas y Nueva Necochea salieron a cuestionar el fin de la Zona Fría: “Golpea directamente a Necochea”",
-          "url": "https://necocheadigital.com/nota/119703/rojas-y-nueva-necochea-salieron-a-cuestionar-el-fin-de-la-zona-fria-golpea-directamente-a-necochea/",
+          "portal": "Diario Necochea",
+          "title": "Milei criticó a la ONU y reclamó al Reino Unido retomar las negociaciones por Malvinas",
+          "url": "https://diarionecochea.com/2026/09/23/milei-cuestiono-a-la-onu-y-reclamo-al-reino-unido-retomar-las-negociaciones-por-malvinas/",
           "published_at": null,
           "category": null,
           "image": null
@@ -696,24 +662,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "El intendente de Necochea, Arturo Rojas , y los concejales de Nueva Necochea expresaron nuevamente su rechazo a la modificación del Régimen de Zona Fría y advirtieron por el impacto que podría tener sobre los usuarios del distrito. La posición del jefe comunal se suma a los planteos que desde el Municipio y el Concejo Deliberante se vienen realizando en defensa de la continuidad del beneficio.",
-          "En mayo pasado, Rojas ya había cuestionado cualquier modificación del régimen y había señalado que en Necochea “la Zona Fría no es un privilegio, es una necesidad”. Rojas: “Una medida que golpea directamente a Necochea” En su último pronunciamiento, el intendente sostuvo que conoce “de primera mano” la realidad de los vecinos y lo que significa atravesar el invierno en el distrito."
+          "El Presidente defendió una estrategia “pacífica, práctica y efectiva”, cuestionó la aplicación de las resoluciones internacionales y reclamó retomar el diálogo bilateral por la soberanía de las islas. El presidente Javier Milei llevó este miércoles 23 de septiembre de 2026 el reclamo argentino por la soberanía de las Islas Malvinas ante la Asamblea General de las Naciones Unidas, durante un discurso de 19 minutos en la sede del organismo en Nueva York.",
+          "Se trató de su tercera presentación ante la Asamblea General y, en su intervención, sostuvo que el Gobierno mantendrá una estrategia “pacífica, práctica y efectiva” frente a las acciones unilaterales del Reino Unido en el Atlántico Sur. Durante su exposición, el mandatario sostuvo que “Malvinas es para nosotros una causa nacional” y vinculó la disputa con sus cuestionamientos al funcionamiento de los organismos internacionales y a la capacidad de hacer cumplir sus propias resoluciones."
         ],
-        "generated": "2026-09-29T09:41:31.190341+00:00"
+        "generated": "2026-09-29T16:27:15.490360+00:00"
       }
     },
     {
-      "key": "empleo formal pierde terreno necochea enfrenta escenario cada vez dificil",
-      "title": "El empleo formal pierde terreno y Necochea enfrenta un escenario cada vez más difícil",
-      "score": 1.1,
+      "key": "avanza construccion escuela tecnica san cayetano inversion 25 millones",
+      "title": "Avanza la construcción de la Escuela Técnica de San Cayetano con una inversión de $25,3 millones",
+      "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-09-29T09:40:57.091206+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260925080327_03-10-foto-curso-diseno-cv.jpg",
+      "first_seen": "2026-09-29T16:26:20.544471+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/escuela-tecnica-n-1-distrito-avanza-techo-terminad-1m3lo-1.jpg",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "El empleo formal pierde terreno y Necochea enfrenta un escenario cada vez más difícil",
-          "url": "https://necocheadigital.com/nota/119707/el-empleo-formal-pierde-terreno-y-necochea-enfrenta-un-escenario-cada-vez-mas-dificil/",
+          "portal": "Diario Necochea",
+          "title": "Avanza la construcción de la Escuela Técnica de San Cayetano con una inversión de $25,3 millones",
+          "url": "https://diarionecochea.com/2026/09/28/avanza-la-construccion-de-la-escuela-tecnica-de-san-cayetano-con-una-inversion-de-253-millones/",
           "published_at": null,
           "category": null,
           "image": null
@@ -721,24 +687,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "La pérdida de puestos de trabajo formales se convirtió en uno de los aspectos más preocupantes del escenario económico de Necochea. Natalia Steffen , representante local del Ministerio de Trabajo de la provincia de Buenos Aires, señaló que actualmente llegan a la dependencia entre 30 y 40 despidos por mes , aunque aclaró que se trata de una estadística parcial, ya que contempla únicamente los casos que son denunciados o llegan al organismo.",
-          "En diálogo con “Voces de la Tarde” , el programa que conduce Jorge Gómez por Radio Noticias Necochea 97.3 , Steffen explicó que durante los primeros meses del año el promedio había alcanzado aproximadamente 60 trabajadores despedidos por mes , cifra que posteriormente descendió a la actual franja de entre 30 y 40. Sin embargo, advirtió que esos números pueden modificarse significativamente cuando se produce el cierre de una empresa y quedan afectados varios trabajadores al mismo tiempo."
+          "El proveedor local Sergio Jensen fue adjudicado para la instalación de cielorrasos, con un contrato de $25.381.000 que incluye mano de obra y materiales. La obra se financia con un 70 % del Gobierno provincial y un 30 % del Municipio. Continúan evidenciándose avances en la obra del nuevo edificio de la Escuela Secundaria Técnica Nº1, un proyecto clave para fortalecer la infraestructura educativa del distrito.",
+          "Noticia relacionadas Alerta por una falsa búsqueda laboral de McCain que circula en Facebook 27 de septiembre de 2026 Una enorme esfera negra apareció en la costa de San Cayetano 23 de septiembre de 2026 En los últimos días, se culminó con éxito la etapa de techado de la estructura. Actualmente, constructores locales se encuentran ejecutando las tareas de revoque grueso interior en los distintos sectores del inmueble."
         ],
-        "generated": "2026-09-29T09:41:31.877617+00:00"
+        "generated": "2026-09-29T16:27:17.019176+00:00"
       }
     },
     {
-      "key": "orgullo necochense manuel tripano obtuvo oro nerea castiglione logro triple podio sudamericanos",
-      "title": "Orgullo necochense: Manuel Trípano obtuvo el oro y Nerea Castiglione logró un triple podio en los Sudamericanos",
-      "score": 1.1,
+      "key": "alerta falsa busqueda laboral mccain circula facebook",
+      "title": "Alerta por una falsa búsqueda laboral de McCain que circula en Facebook",
+      "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-09-29T09:40:57.091206+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260924171829_20260924153519-inshot-20260924-152944199.jpg",
+      "first_seen": "2026-09-29T16:26:20.544471+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/alerta-por-una-falsa-busqueda-laboral-de-mccain-que-circula-en-facebook-y-utiliza-un-corre.webp",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Orgullo necochense: Manuel Trípano obtuvo el oro y Nerea Castiglione logró un triple podio en los Sudamericanos",
-          "url": "https://necocheadigital.com/nota/119702/orgullo-necochense-manuel-tripano-obtuvo-el-oro-y-nerea-castiglione-logro-un-triple-podio-en-los-sudamericanos/",
+          "portal": "Diario Necochea",
+          "title": "Alerta por una falsa búsqueda laboral de McCain que circula en Facebook",
+          "url": "https://diarionecochea.com/2026/09/25/alerta-por-una-falsa-busqueda-laboral-de-mccain-que-circula-en-facebook-y-utiliza-un-correo-de-gmail/",
           "published_at": null,
           "category": null,
           "image": null
@@ -746,24 +712,24 @@
       ],
       "summary": {
         "paragraphs": [
-          "La actuación del canotaje argentino en los XIII Juegos Suramericanos Santa Fe 2026 tuvo como grandes protagonistas a Manuel Trípano y Nerea Castiglione , quienes cerraron una participación inolvidable en las pruebas de eslalon disputadas en el canal del Lago Sur. Entre ambos deportistas aportaron un total de cuatro medallas (un oro, una plata y dos bronces) al medallero nacional. Manuel Trípano: oro continental en C1 El palista necochense Manuel Trípano ratificó su jerarquía internacional y conquistó la medalla de oro en C1 Eslalon Paralelo masculino , consagrándose campeón suramericano y otorgándole a la delegación argentina su 56ª presea dorada en el certamen.",
-          "Trípano, formado en la Escuela Municipal de Canotaje de Necochea, ya venía marcando el rumbo desde las rondas de clasificación. En la contrarreloj del miércoles había finalizado en la primera posición con un tiempo de 31,16 segundos."
+          "La empresa McCain Argentina desmintió una falsa oferta laboral que circula en Facebook, advirtiendo sobre irregularidades como una dirección incorrecta y el uso de un correo Gmail para recibir currículums, y recomendó verificar siempre las vacantes en sus canales oficiales. Una falsa búsqueda laboral atribuida a la empresa McCain Argentina comenzó a difundirse en Facebook y encendió las alarmas entre personas que buscan trabajo en Mar del Plata .",
+          "El aviso fue desmentido por la propia compañía, que advirtió que la publicación no correspondía a una oferta real de empleo."
         ],
-        "generated": "2026-09-29T09:41:32.554091+00:00"
+        "generated": "2026-09-29T16:27:19.159829+00:00"
       }
     },
     {
-      "key": "municipio avanza licitacion bacheo calles microcentro",
-      "title": "El Municipio avanza con la licitación para el bacheo de las calles del microcentro",
-      "score": 1.1,
+      "key": "enorme esfera negra aparecio costa san cayetano",
+      "title": "Una enorme esfera negra apareció en la costa de San Cayetano",
+      "score": 1.2,
       "sources_count": 1,
-      "first_seen": "2026-09-29T09:40:57.091206+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260924150240_09-08-foto-bacheo-avenida-59-y-64-03.jpg",
+      "first_seen": "2026-09-29T16:26:20.544471+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/una-enorme-esfera-negra-aparecio-en-la-costa-de-san-cayetano.webp",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "El Municipio avanza con la licitación para el bacheo de las calles del microcentro",
-          "url": "https://necocheadigital.com/nota/119700/el-municipio-avanza-con-la-licitacion-para-el-bacheo-de-las-calles-del-microcentro/",
+          "portal": "Diario Necochea",
+          "title": "Una enorme esfera negra apareció en la costa de San Cayetano",
+          "url": "https://diarionecochea.com/2026/09/23/una-enorme-esfera-negra-aparecio-en-la-costa-de-san-cayetano/",
           "published_at": null,
           "category": null,
           "image": null
@@ -771,10 +737,60 @@
       ],
       "summary": {
         "paragraphs": [
-          "La apertura de sobres se realizó este jueves en la Secretaría de Planeamiento, Obras y Servicios Públicos, encabezada por Adrián Furno. En el proceso se presentó una única oferente, la empresa local Hidracil S.A., cuya propuesta económica se ubicó apenas por debajo del presupuesto oficial. Durante el acto se procedió primero a la apertura de la documentación administrativa y posteriormente de la oferta económica, constatándose que la presentación se encontraba en condiciones de continuar con el proceso.",
-          "La intervención contempla trabajos de reparación de la carpeta asfáltica en distintas arterias del microcentro, con el objetivo de mejorar las condiciones de circulación y recuperar sectores que presentan deterioro. A partir de ahora, la documentación y la propuesta serán analizadas por la comisión evaluadora, para completar los pasos administrativos correspondientes y avanzar posteriormente con la adjudicación de los trabajos."
+          "El objeto fue visto en la zona de rompiente y generó curiosidad entre los vecinos, quienes compartieron bromas e intentaron deducir su origen. Una enorme estructura esférica de color negro apareció en las últimas horas sobre la playa del balneario San Cayetano y llamó la atención de quienes caminaban por la zona.",
+          "En la imagen que circuló en redes sociales se observa a una persona junto al objeto dentro de la zona de rompiente, acompañada por una consigna que invitaba a adivinar su origen solo con respuestas incorrectas. Noticia relacionadas Avanza la construcción de la Escuela Técnica de San Cayetano con una inversión de $25,3 millones 28 de septiembre de 2026 Alerta por una falsa búsqueda laboral de McCain que circula en Facebook 27 de septiembre de 2026 La publicación despertó una gran cantidad de reacciones y comentarios."
         ],
-        "generated": "2026-09-29T09:41:33.226085+00:00"
+        "generated": "2026-09-29T16:27:21.088973+00:00"
+      }
+    },
+    {
+      "key": "busqueda desesperada mar desaparecieron dos kayakistas pedir auxilio telefono",
+      "title": "Búsqueda desesperada en el mar: desaparecieron dos kayakistas tras pedir auxilio por teléfono",
+      "score": 1.2,
+      "sources_count": 1,
+      "first_seen": "2026-09-29T16:26:20.544471+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/busqueda-desesperada-en-el-mar-desaparecieron-dos-kayakistas-tras-pedir-auxilio-por-telefo.webp",
+      "articles": [
+        {
+          "portal": "Diario Necochea",
+          "title": "Búsqueda desesperada en el mar: desaparecieron dos kayakistas tras pedir auxilio por teléfono",
+          "url": "https://diarionecochea.com/2026/09/22/busqueda-desesperada-en-el-mar-desaparecieron-dos-kayakistas-tras-pedir-auxilio-por-telefono/",
+          "published_at": null,
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Los hombres entraron al agua a las 10:00 del lunes y, al ser arrastrados por la corriente, pidieron auxilio por teléfono antes de que el fuerte viento complicara los rastrillajes de la Prefectura. Prefectura Naval Argentina lleva adelante un operativo de búsqueda para dar con el paradero de dos hombres que ingresaron al mar en kayak el lunes por la mañana en la localidad de Santa Teresita y no lograron retornar a la orilla.",
+          "La alerta se desencadenó tras el pedido de auxilio telefónico de uno de los navegantes, aunque las labores de rescate se encuentran condicionadas por los intensos vientos y las desfavorables condiciones climáticas en la zona."
+        ],
+        "generated": "2026-09-29T16:27:22.401214+00:00"
+      }
+    },
+    {
+      "key": "comenzo diplomatura estrategias abordajes comunitarios salud mental",
+      "title": "Comenzó la Diplomatura en Estrategias para Abordajes Comunitarios en Salud Mental",
+      "score": 1.2,
+      "sources_count": 1,
+      "first_seen": "2026-09-29T16:26:20.544471+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/diplomatura-salud-mental-comunitaria-arranca-cupo-xpusc-1.jpg",
+      "articles": [
+        {
+          "portal": "Diario Necochea",
+          "title": "Comenzó la Diplomatura en Estrategias para Abordajes Comunitarios en Salud Mental",
+          "url": "https://diarionecochea.com/2026/09/21/comenzo-el-dictado-de-la-diplomatura-universitaria-en-estrategias-para-abordajes-comunitarios-en-salud-mental/",
+          "published_at": null,
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Melisa Eriksen, de la Secretaría de Gobierno y Hacienda, destacó la alianza del intendente Gargaglione, el ministro Bianco y la UNL vía Programa Puentes. Esta cooperación permite lanzar la formación en salud mental pese a la difícil situación económica provincial. Con cupo completo, se puso en marcha en San Cayetano la Diplomatura Universitaria en «Estrategias para Abordajes Comunitarios en Salud Mental».",
+          "La propuesta formativa generó una enorme expectativa y comenzó sus clases a sala llena. Noticia relacionadas Avanza la construcción de la Escuela Técnica de San Cayetano con una inversión de $25,3 millones 28 de septiembre de 2026 Alerta por una falsa búsqueda laboral de McCain que circula en Facebook 27 de septiembre de 2026 El encuentro inaugural estuvo a cargo del trabajador social Luciano Ciccolella, quien dictó el módulo «Introducción a la Salud Mental Comunitaria»."
+        ],
+        "generated": "2026-09-29T16:27:23.839707+00:00"
       }
     }
   ]
