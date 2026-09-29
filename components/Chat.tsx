@@ -27,6 +27,7 @@ export default function Chat() {
   const [loading, setLoading] = useState(false);
   const [ready, setReady] = useState(false);
   const listRef = useRef<HTMLUListElement>(null);
+  const panelRef = useRef<HTMLDivElement>(null);
 
   const load = useCallback(async () => {
     try {
@@ -47,6 +48,20 @@ export default function Chat() {
         const interval = setInterval(load, 3000);
         return () => clearInterval(interval);
       }, [load]);
+
+  // Al abrir el panel, y al pasar a modo "Crear cuenta" (que agrega un input mas),
+  // el campo de nombre de usuario puede quedar por debajo del pliegue. Se
+  // calcula el scroll a mano en vez de usar scrollIntoView: este solo deja el
+  // elemento "dentro de pantalla", no centrado, y cuando el documento ya esta
+  // al final (movil) no alcanza a moverlo.
+  useEffect(() => {
+    if (!showAuth) return;
+    const el = panelRef.current;
+    if (!el) return;
+    const r = el.getBoundingClientRect();
+    const centrado = window.scrollY + r.top - (window.innerHeight - r.height) / 2;
+    window.scrollTo({ top: Math.max(0, Math.round(centrado)), behavior: "smooth" });
+  }, [showAuth, authMode]);
 
   useEffect(() => {
     const el = listRef.current;
@@ -112,7 +127,7 @@ export default function Chat() {
       // Ahora el marco se dibuja siempre y el estado va adentro.
 
   return (
-    <section style={{ marginTop: 32, padding: 16, background: "#0e1320", border: "1px solid #223051", borderRadius: 10 }}>
+    <section style={{ marginTop: 32, padding: 16, background: "#0e1320", border: "1px solid #223051", borderRadius: 10, display: "flex", flexDirection: "column", maxHeight: "calc(100vh - 96px)" }}>
       <h3 style={{ color: "#00e5ff", margin: "0 0 12px" }}>Chat global</h3>
 
         {!ready && (
@@ -121,7 +136,7 @@ export default function Chat() {
           </p>
         )}
 
-      <ul ref={listRef} style={{ height: 300, overflowY: "auto", background: "#07090f", padding: 10, borderRadius: 8, border: "1px solid #223051", listStyle: "none", margin: "0 0 12px" }}>
+      <ul ref={listRef} style={{ flex: "1 1 auto", minHeight: 60, maxHeight: 300, overflowY: "auto", background: "#07090f", padding: 10, borderRadius: 8, border: "1px solid #223051", listStyle: "none", margin: "0 0 12px" }}>
         {messages.length === 0 && (
           <li style={{ color: "#7f8db0", fontSize: "0.85rem" }}>Todavía no hay mensajes.</li>
         )}
@@ -166,24 +181,7 @@ export default function Chat() {
       {notice && <p style={{ color: "#ffb86b", fontSize: "0.8rem", margin: "10px 0 0" }}>{notice}</p>}
 
       {showAuth && !email && (
-        <div
-          role="dialog"
-          aria-modal="true"
-          aria-label="Acceso al chat"
-          onClick={(e) => { if (e.target === e.currentTarget) setShowAuth(false); }}
-          style={{
-            position: "fixed", inset: 0, zIndex: 1000,
-            background: "rgba(4,7,14,0.78)",
-            display: "flex", alignItems: "center", justifyContent: "center",
-            padding: 16, boxSizing: "border-box",
-          }}
-        >
-        <div style={{
-          background: "#161b22", padding: 15, borderRadius: 8,
-          border: "1px solid #30363d",
-          width: "100%", maxWidth: 340,
-          maxHeight: "100%", overflowY: "auto", boxSizing: "border-box",
-        }}>
+        <div ref={panelRef} style={{ background: "#161b22", padding: 15, borderRadius: 8, border: "1px solid #30363d", marginTop: 12 }}>
           <div style={{ display: "flex", justifyContent: "space-between", marginBottom: 8 }}>
             <span style={{ color: "#00e5ff", fontSize: "0.9rem", fontWeight: 700 }}>Logueate</span>
             <button onClick={() => setShowAuth(false)} style={{ background: "none", border: "none", color: "#7f8db0", cursor: "pointer" }}>✕</button>
@@ -213,7 +211,6 @@ export default function Chat() {
                     style={{ flex: 1, padding: 8, borderRadius: 6, border: "1px solid #00e5ff", background: "transparent", color: "#00e5ff", fontWeight: 700, cursor: "pointer" }}>Crear cuenta</button>
                 </div>
               )}
-        </div>
         </div>
       )}
     </section>
