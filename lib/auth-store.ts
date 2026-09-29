@@ -85,29 +85,77 @@ export function getToken(): string {
 /**
  * Valida el token guardado contra el servidor y publica la sesion.
  * Si el token no sirve, cierra la sesion en todos los componentes.
- */
-export async function validate(): Promise<boolean> {
-  const t = getToken();
-  if (!t) {
-    endSession();
-    return false;
-  }
-  try {
-    const res = await fetch("/api/auth/session", {
-      headers: { Authorization: `Bearer ${t}` },
-    });
-    if (!res.ok) {
-      endSession();
-      return false;
+    /**
+     * Sincroniza entre pestanas y ventanas.
+     *
+     * La sesion vive en una variable de modulo, y cada pestana del navegador
+     * carga su propia copia: sin esto, iniciar sesion en el chat dejaba a los
+     * comentarios de otra pestana mostrando el formulario de ingreso, con el
+     * token ya guardado en localStorage pero la pantalla vieja.
+     *
+     * El evento "storage" solo se dispara en las OTRAS pestanas (en la que
+     * escribio no se dispara nunca), asi que alcanza con escucharlo y volver
+     * a validar contra el servidor.
+     */
+    if (typeof window !== "undefined") {
+      window.addEventListener("storage", (e) => {
+        if (e.key !== TOKEN_KEY) return;
+        const nuevo = e.newValue ?? "";
+        if (nuevo === token) return;
+        if (!nuevo) {
+          endSession();
+          return;
+        }
+        token = nuevo;
+        void validate();
+      });
     }
-    const d = await res.json();
-    if (!d?.email) {
-      endSession();
-      return false;
+    
+    /**
+     * Valida el token guardado contra el servidor y publica la sesion.
+     * Si el token no sirve, cierra la sesion en todos los componentes.
+     */
+    export async function validate(): Promise<boolean> {
+      // Se lee siempre de localStorage y no de la variable de modulo: si otra
+      // pestana acaba de escribir un token distinto, aca todavia puede seguir
+      // el viejo y la validacion daria un falso negativo.
+      let t = "";
+      try {
+        t = localStorage.getItem(TOKEN_KEY) ?? "";
+      } catch {
+        t = "";
+      }
+      token = t;
+      if (!t) {
+        endSession();
+        return false;
+      }
+      try {
+        const res = await fetch("/api/auth/session", {
+          headers: { Authorization: `Bearer ${t}` },
+        });
+        if (!res.ok) {
+          endSession();
+          return false;
+        }
+        const d = await res.json();
+        if (!d?.email) {
+          endSession();
+          return false;
+        }
+        // Si mientras esperabamos la respuesta se cerro sesion, o se escribio
+        // otro token (otra pestana, o el propio "salir"), este validate ya
+        // esta vencido: publicar aca te volvia a loguear sin querer.
+        let actual = "";
+        try {
+          actual = localStorage.getItem(TOKEN_KEY) ?? "";
+        } catch {
+          actual = "";
+        }
+        if (actual !== t) return false;
+        startSession({ email: d.email, nickname: d.nickname ?? "" }, t);
+        return true;
+      } catch {
+        return false;
+      }
     }
-    startSession({ email: d.email, nickname: d.nickname ?? "" }, t);
-    return true;
-  } catch {
-    return false;
-  }
-}
