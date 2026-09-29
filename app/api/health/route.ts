@@ -34,15 +34,18 @@ export async function GET() {
   if (resolvedUrl && SUPABASE_CONFIGURED) {
     const admin = supabaseAdmin();
     if (admin) {
-      // La tabla principal es chat_messages. La vieja "comments" ya no existe
-      // en este proyecto y consultarla hacia fallar todo el chequeo.
-      const { error } = await admin.from("chat_messages").select("id").limit(1);
-      if (error) {
-        result.db = `ERROR: ${error.message}`;
-      } else {
-        result.db = "OK";
-        result.tables = { chat_messages: "OK" };
+      // Las tres tablas del proyecto: comentarios, chat y bloqueos.
+      const tables: Record<string, string> = {};
+      let firstError: string | null = null;
+
+      for (const name of ["comments", "chat_messages", "banned_users"]) {
+        const { error } = await admin.from(name).select("*").limit(1);
+        tables[name] = error ? `ERROR: ${error.message}` : "OK";
+        if (error && !firstError) firstError = error.message;
       }
+
+      result.tables = tables;
+      result.db = firstError ? `ERROR: ${firstError}` : "OK";
     }
   } else {
     result.db = "SKIPPED (faltan variables)";
