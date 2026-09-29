@@ -18,7 +18,6 @@ export default function Chat() {
   const sesion = useSyncExternalStore(subscribe, getSession, () => null);
   const email = sesion?.email ?? "";
   const nickname = sesion?.nickname ?? "";
-  const [showAuth, setShowAuth] = useState(false);
   const [authEmail, setAuthEmail] = useState("");
   const [authPass, setAuthPass] = useState("");
   const [authNick, setAuthNick] = useState("");
@@ -55,13 +54,12 @@ export default function Chat() {
   // elemento "dentro de pantalla", no centrado, y cuando el documento ya esta
   // al final (movil) no alcanza a moverlo.
   useEffect(() => {
-    if (!showAuth) return;
     const el = panelRef.current;
     if (!el) return;
     const r = el.getBoundingClientRect();
     const centrado = window.scrollY + r.top - (window.innerHeight - r.height) / 2;
     window.scrollTo({ top: Math.max(0, Math.round(centrado)), behavior: "smooth" });
-  }, [showAuth, authMode]);
+      }, [authMode, ready]);
 
   useEffect(() => {
     const el = listRef.current;
@@ -90,7 +88,6 @@ export default function Chat() {
       if (!res.ok) { setNotice(`⚠️ ${data.error ?? "No se pudo completar"}`); return; }
       if (!data.token) { setNotice(`✅ ${data.error ?? "Cuenta creada. Ya podés iniciar sesión."}`); return; }
       startSession({ email: data.email, nickname: data.nickname ?? "" }, data.token);
-      setShowAuth(false);
     } catch { setNotice("⚠️ No se pudo conectar con el servidor."); }
     setLoading(false);
   };
@@ -102,7 +99,7 @@ export default function Chat() {
   const send = async () => {
     const clean = body.trim();
     if (!clean) return;
-    if (!email) { setShowAuth(true); setNotice("Iniciá sesión para chatear."); return; }
+        if (!email) { setNotice("Iniciá sesión para chatear."); return; }
     const token = getToken();
 
     setBody("");
@@ -150,69 +147,62 @@ export default function Chat() {
         ))}
       </ul>
 
-      {email ? (
-        <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", fontSize: "0.8rem", color: "#7f8db0", marginBottom: 8 }}>
-          <span>Conectado como <strong>{maskAuthor(email)}</strong></span>
-          <button onClick={logout} style={{ background: "none", border: "none", color: "#00e5ff", cursor: "pointer", padding: 0 }}>salir</button>
-        </div>
-      ) : (
-        <p style={{ fontSize: "0.8rem", color: "#7f8db0", margin: "0 0 8px" }}>
-          <button onClick={() => { setShowAuth(true); setNotice(""); }} style={{ background: "none", border: "none", color: "#00e5ff", cursor: "pointer", padding: 0 }}>
-            Iniciá sesión para chatear
-          </button>
-        </p>
-      )}
+          {email ? (
+            <div style={{ fontSize: "0.8rem", color: "#7f8db0", margin: "0 0 8px" }}>
+              Conectado como <strong>{maskAuthor(email)}</strong>
+              {" · "}
+              <button onClick={logout} style={{ background: "none", border: "none", color: "#00e5ff", cursor: "pointer", padding: 0 }}>salir</button>
+            </div>
+          ) : null}
 
-      {email && (
-        <div style={{ marginBottom: 8, fontSize: "0.8rem", color: "#7f8db0" }}>
-          Hablando como <strong style={{ color: "#00e5ff" }}>{nickname || email}</strong>
-        </div>
-      )}
+          {/* <form> nativo: Enter envia de forma nativa y confiable */}
+          <form onSubmit={(e) => { e.preventDefault(); void send(); }}>
+            <input
+              type="text" placeholder="Escribí un mensaje..." value={body} maxLength={500}
+              onChange={(e) => setBody(e.target.value)}
+              style={{ width: "100%", padding: 10, boxSizing: "border-box", borderRadius: 6, border: "1px solid #00e5ff", background: "#07090f", color: "#d9e4f5" }}
+            />
+          </form>
 
-      {/* <form> nativo: Enter envía de forma nativa y confiable */}
-      <form onSubmit={(e) => { e.preventDefault(); void send(); }}>
-        <input
-          type="text" placeholder="Escribí un mensaje..." value={body} maxLength={500}
-          onChange={(e) => setBody(e.target.value)}
-          style={{ width: "100%", padding: 10, boxSizing: "border-box", borderRadius: 6, border: "1px solid #00e5ff", background: "#07090f", color: "#d9e4f5" }}
-        />
-      </form>
+          {notice && <p style={{ color: "#ffb86b", fontSize: "0.8rem", margin: "10px 0 0" }}>{notice}</p>}
 
-      {notice && <p style={{ color: "#ffb86b", fontSize: "0.8rem", margin: "10px 0 0" }}>{notice}</p>}
-
-      {showAuth && !email && (
-        <div ref={panelRef} style={{ background: "#161b22", padding: 15, borderRadius: 8, border: "1px solid #30363d", marginTop: 12 }}>
-          <div style={{ display: "flex", justifyContent: "space-between", marginBottom: 8 }}>
-            <span style={{ color: "#00e5ff", fontSize: "0.9rem", fontWeight: 700 }}>Logueate</span>
-            <button onClick={() => setShowAuth(false)} style={{ background: "none", border: "none", color: "#7f8db0", cursor: "pointer" }}>✕</button>
-          </div>
-          <input type="email" placeholder="tu@email.com" value={authEmail} autoComplete="email"
-            onChange={(e) => setAuthEmail(e.target.value)}
-            style={{ width: "100%", padding: 8, marginBottom: 8, boxSizing: "border-box", borderRadius: 6, border: "1px solid #223051", background: "#07090f", color: "#d9e4f5" }} />
-          <input type="password" placeholder="contraseña (mín. 6)" value={authPass} autoComplete="current-password"
-            onChange={(e) => setAuthPass(e.target.value)}
-            style={{ width: "100%", padding: 8, marginBottom: 10, boxSizing: "border-box", borderRadius: 6, border: "1px solid #223051", background: "#07090f", color: "#d9e4f5" }} />
+          {/* El formulario se dibuja siempre que no haya sesion, igual que en los
+              comentarios. Antes habia que tocar "Inicia sesion para chatear" y ahi
+              recien aparecia: si ese boton no se veia o no respondia, el campo de
+              nombre de usuario no llegaba a existir. */}
+          {!email && (
+            <div ref={panelRef} style={{ background: "#161b22", padding: 15, borderRadius: 8, border: "1px solid #30363d", marginTop: 12 }}>
+              <p style={{ margin: "0 0 8px", color: "#d9e4f5", fontSize: "0.9rem" }}>
+                {authMode === "signup" ? "Creá tu cuenta:" : "Ingresá para chatear:"}
+              </p>
+              <input type="email" placeholder="tu@email.com" value={authEmail} autoComplete="email"
+                onChange={(e) => setAuthEmail(e.target.value)}
+                style={{ width: "100%", padding: 8, marginBottom: 8, boxSizing: "border-box", borderRadius: 6, border: "1px solid #223051", background: "#07090f", color: "#d9e4f5" }} />
+              <input type="password" placeholder="contraseña (mín. 6)" value={authPass} autoComplete="current-password"
+                onChange={(e) => setAuthPass(e.target.value)}
+                style={{ width: "100%", padding: 8, marginBottom: 10, boxSizing: "border-box", borderRadius: 6, border: "1px solid #223051", background: "#07090f", color: "#d9e4f5" }} />
               {authMode === "signup" ? (
                 <>
                   <input type="text" placeholder="nombre de usuario" value={authNick} maxLength={20}
-                    autoComplete="nickname" onChange={(e) => setAuthNick(e.target.value)} style={{ width: "100%", padding: 8, marginBottom: 8, boxSizing: "border-box", borderRadius: 6, border: "1px solid #223051", background: "#07090f", color: "#d9e4f5" }} />
+                    autoComplete="nickname" onChange={(e) => setAuthNick(e.target.value)}
+                    style={{ width: "100%", padding: 8, marginBottom: 10, boxSizing: "border-box", borderRadius: 6, border: "1px solid #223051", background: "#07090f", color: "#d9e4f5" }} />
                   <div style={{ display: "flex", gap: 8 }}>
-                    <button onClick={() => { setAuthMode("login"); setNotice(""); }} disabled={loading}
+                    <button type="button" onClick={() => { setAuthMode("login"); setNotice(""); }} disabled={loading}
                       style={{ flex: 1, padding: 8, borderRadius: 6, border: "1px solid #223051", background: "transparent", color: "#7f8db0", fontWeight: 700, cursor: "pointer" }}>Volver</button>
-                    <button onClick={() => void submitAuth("signup")} disabled={loading}
+                    <button type="button" onClick={() => void submitAuth("signup")} disabled={loading}
                       style={{ flex: 1, padding: 8, borderRadius: 6, border: "none", background: "#00e5ff", color: "#0e1320", fontWeight: 700, cursor: "pointer" }}>Crear cuenta</button>
                   </div>
                 </>
               ) : (
                 <div style={{ display: "flex", gap: 8 }}>
-                  <button onClick={() => void submitAuth("login")} disabled={loading}
+                  <button type="button" onClick={() => void submitAuth("login")} disabled={loading}
                     style={{ flex: 1, padding: 8, borderRadius: 6, border: "none", background: "#00e5ff", color: "#0e1320", fontWeight: 700, cursor: "pointer" }}>Entrar</button>
-                  <button onClick={() => { setAuthMode("signup"); setNotice(""); }} disabled={loading}
+                  <button type="button" onClick={() => { setAuthMode("signup"); setNotice(""); }} disabled={loading}
                     style={{ flex: 1, padding: 8, borderRadius: 6, border: "1px solid #00e5ff", background: "transparent", color: "#00e5ff", fontWeight: 700, cursor: "pointer" }}>Crear cuenta</button>
                 </div>
               )}
-        </div>
-      )}
+            </div>
+          )}
     </section>
   );
 }
