@@ -70,6 +70,11 @@ export default function Chat() {
   }, [messages]);
 
   const submitAuth = async (mode: "login" | "signup") => {
+    // Aviso local: no tiene sentido pegarle al server sin nombre de usuario.
+    if (mode === "signup" && !authNick.trim()) {
+      setNotice("⚠️ Escribi un nombre de usuario (2 a 20 caracteres).");
+      return;
+    }
     setLoading(true);
     setNotice("");
     try {
@@ -190,17 +195,25 @@ export default function Chat() {
           <input type="password" placeholder="contraseña (mín. 6)" value={authPass} autoComplete="current-password"
             onChange={(e) => setAuthPass(e.target.value)}
             style={{ width: "100%", padding: 8, marginBottom: 10, boxSizing: "border-box", borderRadius: 6, border: "1px solid #223051", background: "#07090f", color: "#d9e4f5" }} />
-              {authMode === "signup" && (
-                <input type="text" placeholder="nombre de usuario" value={authNick} maxLength={20}
-                  autoComplete="nickname" onChange={(e) => setAuthNick(e.target.value)}
-                  style={{ width: "100%", padding: 8, marginBottom: 8, boxSizing: "border-box", borderRadius: 6, border: "1px solid #223051", background: "#07090f", color: "#d9e4f5" }} />
+              {authMode === "signup" ? (
+                <>
+                  <input type="text" placeholder="nombre de usuario" value={authNick} maxLength={20}
+                    autoComplete="nickname" onChange={(e) => setAuthNick(e.target.value)} />
+                  <div style={{ display: "flex", gap: 8 }}>
+                    <button onClick={() => { setAuthMode("login"); setNotice(""); }} disabled={loading}
+                      style={{ flex: 1, padding: 8, borderRadius: 6, border: "1px solid #223051", background: "transparent", color: "#7f8db0", fontWeight: 700, cursor: "pointer" }}>Volver</button>
+                    <button onClick={() => void submitAuth("signup")} disabled={loading}
+                      style={{ flex: 1, padding: 8, borderRadius: 6, border: "none", background: "#00e5ff", color: "#0e1320", fontWeight: 700, cursor: "pointer" }}>Crear cuenta</button>
+                  </div>
+                </>
+              ) : (
+                <div style={{ display: "flex", gap: 8 }}>
+                  <button onClick={() => void submitAuth("login")} disabled={loading}
+                    style={{ flex: 1, padding: 8, borderRadius: 6, border: "none", background: "#00e5ff", color: "#0e1320", fontWeight: 700, cursor: "pointer" }}>Entrar</button>
+                  <button onClick={() => { setAuthMode("signup"); setNotice(""); }} disabled={loading}
+                    style={{ flex: 1, padding: 8, borderRadius: 6, border: "1px solid #00e5ff", background: "transparent", color: "#00e5ff", fontWeight: 700, cursor: "pointer" }}>Crear cuenta</button>
+                </div>
               )}
-          <div style={{ display: "flex", gap: 8 }}>
-            <button onClick={() => { setAuthMode("login"); void submitAuth("login"); }} disabled={loading}
-              style={{ flex: 1, padding: 8, borderRadius: 6, border: "none", background: "#00e5ff", color: "#0e1320", fontWeight: 700, cursor: "pointer" }}>Entrar</button>
-            <button onClick={() => { setAuthMode("signup"); void submitAuth("signup"); }} disabled={loading}
-              style={{ flex: 1, padding: 8, borderRadius: 6, border: "1px solid #00e5ff", background: "transparent", color: "#00e5ff", fontWeight: 700, cursor: "pointer" }}>Crear cuenta</button>
-          </div>
         </div>
       )}
     </section>

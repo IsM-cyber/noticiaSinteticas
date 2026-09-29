@@ -73,6 +73,11 @@ export default function Comments({ storyKey }: { storyKey: string }) {
   }, [open, loaded, load]);
 
   const submitAuth = async (mode: "login" | "signup") => {
+    // Aviso local: no tiene sentido pegarle al server sin nombre de usuario.
+    if (mode === "signup" && !authNick.trim()) {
+      setNotice("⚠️ Escribi un nombre de usuario (2 a 20 caracteres).");
+      return;
+    }
     setLoading(true);
     setNotice("");
     try {
@@ -152,15 +157,21 @@ export default function Comments({ storyKey }: { storyKey: string }) {
                 onChange={(e) => setAuthEmail(e.target.value)} />
               <input type="password" placeholder="contraseña (mín. 6)" value={authPass} autoComplete="current-password"
                 onChange={(e) => setAuthPass(e.target.value)} />
-              {authMode === "signup" && (
-                <input type="text" placeholder="nombre de usuario" value={authNick} maxLength={20}
-                  autoComplete="nickname" onChange={(e) => setAuthNick(e.target.value)}
-                  style={{ width: "100%", padding: 8, marginBottom: 8, boxSizing: "border-box", borderRadius: 6, border: "1px solid #223051", background: "#07090f", color: "#d9e4f5" }} />
+              {authMode === "signup" ? (
+                <>
+                  <input type="text" placeholder="nombre de usuario" value={authNick} maxLength={20}
+                    autoComplete="nickname" onChange={(e) => setAuthNick(e.target.value)} />
+                  <div className="comments-buttons">
+                    <button onClick={() => { setAuthMode("login"); setNotice(""); }} disabled={loading}>Volver</button>
+                    <button onClick={() => void submitAuth("signup")} disabled={loading}>Crear cuenta</button>
+                  </div>
+                </>
+              ) : (
+                <div className="comments-buttons">
+                  <button onClick={() => void submitAuth("login")} disabled={loading}>Entrar</button>
+                  <button onClick={() => { setAuthMode("signup"); setNotice(""); }} disabled={loading}>Crear cuenta</button>
+                </div>
               )}
-              <div className="comments-buttons">
-                <button onClick={() => { setAuthMode("login"); void submitAuth("login"); }} disabled={loading}>Entrar</button>
-                <button onClick={() => { setAuthMode("signup"); void submitAuth("signup"); }} disabled={loading}>Crear cuenta</button>
-              </div>
             </div>
           ) : (
             <div className="comments-auth">
