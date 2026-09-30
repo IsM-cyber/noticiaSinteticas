@@ -1,14 +1,7 @@
-// Módulo SOLO para el navegador: nunca importar las claves secretas acá.
-import { createClient, SupabaseClient } from "@supabase/supabase-js";
-
-const URL = process.env.NEXT_PUBLIC_SUPABASE_URL ?? "";
-const ANON_KEY = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY ?? "";
-
-export const COMMENTS_CONFIGURED = Boolean(URL && ANON_KEY);
-
-export function supabaseBrowser(): SupabaseClient {
-  return createClient(URL, ANON_KEY);
-}
+// Utilidades compartidas entre cliente y servidor.
+// IMPORTANTE: este módulo NO crea clientes de Supabase a propósito.
+// El navegador nunca habla directo con Supabase (la red local no resuelve
+// el dominio), todo pasa por las rutas /api/* del servidor.
 
 export type CommentRow = {
   id: number;

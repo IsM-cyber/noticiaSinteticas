@@ -1,11 +1,8 @@
 "use client";
 
-import { useCallback, useEffect, useState } from "react";
-import {
-  COMMENTS_CONFIGURED,
-  maskAuthor,
-  supabaseBrowser,
-} from "@/lib/comments-client";
+import { useCallback, useEffect, useRef, useState, useSyncExternalStore } from "react";
+import { getSession, subscribe, startSession, endSession, getToken, validate } from "@/lib/auth-store";
+import { maskAuthor } from "@/lib/comments-client";
 
 type CommentItem = {
   id: number;
@@ -18,211 +15,169 @@ export default function Comments({ storyKey }: { storyKey: string }) {
   const [open, setOpen] = useState(false);
   const [loaded, setLoaded] = useState(false);
   const [comments, setComments] = useState<CommentItem[]>([]);
-  const [enabled, setEnabled] = useState(COMMENTS_CONFIGURED);
-  const [session, setSession] = useState<{ email: string; token: string } | null>(null);
+  // Sesion compartida: si te logueas en el chat, los comentarios se enteran al instante.
+  const sesion = useSyncExternalStore(subscribe, getSession, () => null);
+  const email = sesion?.email ?? "";
   const [body, setBody] = useState("");
   const [authEmail, setAuthEmail] = useState("");
   const [authPass, setAuthPass] = useState("");
-  const [nickname, setNickname] = useState("");
-  const [authMode, setAuthMode] = useState<"login" | "signup">("login");
+  const [authNick, setAuthNick] = useState("");
+  const nickname = sesion?.nickname ?? "";
   const [notice, setNotice] = useState("");
   const [loading, setLoading] = useState(false);
+  // El formulario de ingreso no esta siempre a la vista: aparece recien cuando se
+  // intenta comentar sin sesion, no antes.
+  const [showAuth, setShowAuth] = useState(false);
+  const nickRef = useRef<HTMLInputElement>(null);
+
+  // El panel se abre en el momento del intento, y el campo de nombre queda
+  // debajo de la vista: sin esto hay que scrollear a mano para encontrarlo. El
+  // foco lo trae de una y de paso lo deja listo para escribir.
+  useEffect(() => {
+    if (showAuth) nickRef.current?.focus();
+  }, [showAuth]);
 
   const load = useCallback(async () => {
     try {
-      const res = await fetch(`/api/comments?story=${encodeURIComponent(storyKey)}`);
-      if (res.status === 501) {
-        setEnabled(false);
-        return;
-      }
-      if (res.ok) {
-        const data = await res.json();
-        setComments(data.comments ?? []);
-      }
-    } catch {
-      /* sin comentarios, sin drama */
-    }
+      const res = await fetch(`/api/comments?story=${encodeURIComponent(storyKey)}`, { cache: "no-store" });
+      if (!res.ok) return;
+      const data = await res.json();
+      setComments(data.comments ?? []);
+    } catch { /* la página nunca se rompe por esto */ }
   }, [storyKey]);
 
   useEffect(() => {
-    if (!COMMENTS_CONFIGURED) {
-      setEnabled(false);
-      return;
-    }
-    // la sesión es local y barata; la lista de comentarios se baja recién al abrir
-    supabaseBrowser().auth.getSession().then(({ data }) => {
-      if (data.session) {
-        setSession({
-          email: data.session.user.email ?? "",
-          token: data.session.access_token,
-        });
-      }
-    });
-    // nombre visible elegido por el usuario (persiste en su navegador)
-    try {
-      setNickname(localStorage.getItem("ns_nick") ?? "");
-    } catch {
-      /* sin localStorage, sin drama */
-    }
-    // eslint-disable-next-line react-hooks/exhaustive-deps
+    // Valida el token guardado y publica la sesion en el store compartido:
+    // el chat y los comentarios ven el mismo login al instante.
+    void validate();
   }, []);
 
-  if (!enabled) return null;
-
   const toggle = async () => {
-    if (!open && !loaded) {
-      setLoaded(true);
-      await load();
-    }
+    if (!open && !loaded) { setLoaded(true); await load(); }
     setOpen((o) => !o);
   };
 
+  // Los comentarios se releen cada 8s mientras el panel esta abierto: si no,
+  // lo que escribe otra maquina no aparece hasta que recargues a mano. El
+  // chat ya refresca cada 3s por el mismo motivo.
+  useEffect(() => {
+    if (!open || !loaded) return;
+    const id = setInterval(() => { void load(); }, 8000);
+    return () => clearInterval(id);
+  }, [open, loaded, load]);
+
   const submitAuth = async (mode: "login" | "signup") => {
-    setLoading(true);
-    setNotice("");
-    const sb = supabaseBrowser();
-    const result =
-      mode === "signup"
-        ? await sb.auth.signUp({ email: authEmail, password: authPass })
-        : await sb.auth.signInWithPassword({ email: authEmail, password: authPass });
-    setLoading(false);
-    if (result.error) {
-      setNotice(`⚠️ ${result.error.message}`);
+    // Aviso local: no tiene sentido pegarle al server sin nombre de usuario.
+    if (mode === "signup" && !authNick.trim()) {
+      setNotice("⚠️ Escribi un nombre de usuario (2 a 20 caracteres).");
       return;
     }
-    const ses = await sb.auth.getSession();
-    if (ses.data.session) {
-      setSession({ email: ses.data.session.user.email ?? "", token: ses.data.session.access_token });
-      setNotice(mode === "signup" ? "Cuenta creada. Ya podés comentar." : "Sesión iniciada.");
-    } else if (mode === "signup") {
-      setNotice("Revisá tu email para confirmar la cuenta.");
-    }
+    setLoading(true);
+    setNotice("");
+    try {
+      const res = await fetch(`/api/auth/${mode}`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          email: authEmail,
+          password: authPass,
+          nickname: mode === "signup" ? authNick : undefined,
+        }),
+      });
+      const data = await res.json();
+      if (!res.ok) { setNotice(`⚠️ ${data.error ?? "No se pudo completar"}`); return; }
+      if (!data.token) { setNotice("✅ Cuenta creada. Ahora iniciá sesión."); return; }
+      startSession({ email: data.email, nickname: data.nickname ?? "" }, data.token);
+    } catch { setNotice("⚠️ No se pudo conectar con el servidor."); }
+    setLoading(false);
   };
 
   const submitComment = async () => {
-    if (!session) return;
+    if (!body.trim()) return;
+    // Sin sesion el formulario se abre en el momento del intento, no de antemano.
+    if (!email) {
+      setShowAuth(true);
+      setNotice("Ingresá para comentar.");
+      return;
+    }
+    const token = getToken();
     setLoading(true);
     setNotice("");
     try {
       const res = await fetch("/api/comments", {
         method: "POST",
-        headers: { "Content-Type": "application/json", Authorization: `Bearer ${session.token}` },
-        body: JSON.stringify({ story: storyKey, body, author: nickname }),
+        headers: { "Content-Type": "application/json", Authorization: `Bearer ${token}` },
+        body: JSON.stringify({ story: storyKey, body }),
       });
       const data = await res.json();
-      setNotice(data.message ?? data.error ?? "Error");
-      if (res.ok) {
-        setBody("");
-        load(); // publicación instantánea: el comentario aparece ya
-      }
-    } catch {
-      setNotice("Error de red. Probá de nuevo.");
-    }
+      if (!res.ok) { setNotice(`⚠️ ${data.error ?? "No se pudo publicar"}`); return; }
+      setBody("");
+      setNotice("Comentario publicado.");
+      load();
+    } catch { setNotice("⚠️ Error de red."); }
     setLoading(false);
   };
 
-  const report = async (id: number) => {
-    await fetch("/api/comments/report", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ id }),
-    });
-  };
-
-  const logout = async () => {
-    await supabaseBrowser().auth.signOut();
-    setSession(null);
-  };
+  const logout = () => { endSession(); };
 
   return (
     <div className="comments-wrap">
       <button className="comments-toggle" onClick={toggle}>
         💬 Comentarios{comments.length > 0 ? ` (${comments.length})` : ""}
       </button>
+
       {open && (
         <section className="comments">
           <div className="comments-head">
             <h3>Comentarios</h3>
-            <button className="comments-link" onClick={() => setOpen(false)}>
-              ocultar ✕
-            </button>
+            <button className="comments-link" onClick={() => setOpen(false)}>ocultar ✕</button>
           </div>
-          {comments.length === 0 && <p className="comments-empty">Todavía no hay comentarios. ¡Animate!</p>}
-      <ul className="comments-list">
-        {comments.map((c) => (
-          <li key={c.id}>
-            <div className="comments-meta">
-              <strong>{maskAuthor(c.author)}</strong>
-              <span>{new Date(c.created_at).toLocaleString("es-AR")}</span>
-              <button onClick={() => report(c.id)} title="Reportar comentario">⚑</button>
-            </div>
-            <p>{c.body}</p>
-          </li>
-        ))}
-      </ul>
 
-      {!session ? (
-        <div className="comments-auth">
-          <p>Ingresá para comentar:</p>
-          <input
-            type="email"
-            placeholder="tu@email.com"
-            value={authEmail}
-            onChange={(e) => setAuthEmail(e.target.value)}
-          />
-          <input
-            type="password"
-            placeholder="contraseña"
-            value={authPass}
-            onChange={(e) => setAuthPass(e.target.value)}
-          />
-          <div className="comments-buttons">
-            <button onClick={() => submitAuth("login")} disabled={loading}>
-              Entrar
-            </button>
-            <button onClick={() => submitAuth("signup")} disabled={loading}>
-              Crear cuenta
-            </button>
+          {comments.length === 0
+            ? <p className="comments-empty">Todavía no hay comentarios. ¡Animate!</p>
+            : (
+              <ul className="comments-list">
+                {comments.map((c) => (
+                  <li key={c.id}>
+                    <div className="comments-meta">
+                      <strong>{c.author}</strong>
+                      <span>{new Date(c.created_at).toLocaleString("es-AR")}</span>
+                    </div>
+                    <p>{c.body}</p>
+                  </li>
+                ))}
+              </ul>
+            )}
+
+          {email && (
+            <p className="comments-auth-line">Conectado como <strong>{nickname || maskAuthor(email)}</strong> <button type="button" onClick={logout} className="comments-link">salir</button></p>
+          )}
+    
+          {!email && showAuth && (
+            <div className="comments-auth">
+              <p>Ingresá para comentar:</p>
+              <input type="email" placeholder="tu@email.com" value={authEmail} autoComplete="email"
+                onChange={(e) => setAuthEmail(e.target.value)} />
+              <input type="password" placeholder="contraseña (mín. 6)" value={authPass} autoComplete="current-password"
+                onChange={(e) => setAuthPass(e.target.value)} />
+                  <input ref={nickRef} type="text" placeholder="nombre de usuario" value={authNick} maxLength={20}
+                    autoComplete="nickname" onChange={(e) => setAuthNick(e.target.value)} />
+                  <div className="comments-buttons">
+                    <button type="button" onClick={() => void submitAuth("login")} disabled={loading}>Entrar</button>
+                    <button type="button" onClick={() => void submitAuth("signup")} disabled={loading}>Crear cuenta</button>
+                  </div>
+            </div>
+          )}
+    
+          <div className="comments-auth">
+            <textarea rows={3} placeholder="Comentario..." value={body} maxLength={1000}
+              onChange={(e) => setBody(e.target.value)} />
+            <div className="comments-buttons">
+              <button type="button" onClick={submitComment} disabled={loading || !body.trim()}>Comentar</button>
+            </div>
           </div>
-          <p className="comments-hint">
-            La primera vez tocá «Crear cuenta». Los comentarios se publican al instante. Si ves algo raro, reportalo con ⚑.
-          </p>
-        </div>
-      ) : (
-        <div className="comments-auth">
-          <p>
-            Logueado como {maskAuthor(session.email)}{" "}
-            <button onClick={logout} className="comments-link">salir</button>
-          </p>
-          <input
-            type="text"
-            maxLength={30}
-            placeholder="Tu nombre (lo ven los demás)"
-            value={nickname}
-            onChange={(e) => {
-              setNickname(e.target.value);
-              try {
-                localStorage.setItem("ns_nick", e.target.value);
-              } catch {
-                /* sin localStorage, sin drama */
-              }
-            }}
-          />
-          <textarea
-            rows={3}
-            placeholder="Escribí tu comentario… (máx. 1000 caracteres)"
-            value={body}
-            maxLength={1000}
-            onChange={(e) => setBody(e.target.value)}
-          />
-          <div className="comments-buttons">
-            <button onClick={submitComment} disabled={loading || !body.trim()}>
-              Comentar
-            </button>
-          </div>
-        </div>
-      )}
-      {notice && <p className="comments-notice">{notice}</p>}
+
+          {notice && <p className="comments-notice">{notice}</p>}
         </section>
       )}
     </div>

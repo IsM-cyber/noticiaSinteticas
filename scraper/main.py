@@ -11,7 +11,7 @@ from .cluster import cluster
 from .config import MAX_SUMMARIES, SOURCES
 from .continuity import inherit_keys
 from .fetch import fetch_all, fetch_body
-from .rank import rank
+from .rank import apply_rotation, carry_appearance, mark_published, rank
 from .summarize import build_summary
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -66,12 +66,37 @@ def _load_previous_stories() -> list[dict]:
     return payload.get("stories", [])
 
 
+def _first_seen_index(previous_stories: list[dict]) -> dict[str, str]:
+    """URL -> cuándo la vimos por primera vez.
+
+    `first_seen` tiene que sobrevivir entre corridas. Si se recalculara en
+    cada vuelta, un portal que no informa fecha haría que sus notas nacieran
+    nuevas cada 30 minutos y no se caerían nunca del ranking.
+    """
+    index: dict[str, str] = {}
+    for story in previous_stories:
+        for article in story.get("articles", []):
+            url = article.get("url")
+            seen = article.get("first_seen")
+            if not url or not seen:
+                continue
+            if url not in index or seen < index[url]:
+                index[url] = seen
+    return index
+
+
 def run() -> dict:
     now = dt.datetime.now(dt.timezone.utc)
 
+    previous = _load_previous_stories()
+    seen_before = _first_seen_index(previous)
+
     articles, errors = fetch_all()
     for article in articles:
-        article["first_seen"] = now.isoformat()
+        # la primera vez que la vimos, o ahora si es nueva
+        article["first_seen"] = seen_before.get(
+            article.get("url") or "", now.isoformat()
+        )
 
     stories = cluster(articles)
     top = rank(stories, now=now)
@@ -85,7 +110,13 @@ def run() -> dict:
         print(f"→ {before - len(top)} noticia(s) sin texto posible: eliminadas del ranking")
 
     # heredar claves del ranking anterior (los comentarios sobreviven a los cambios de titular)
-    top = inherit_keys(top, _load_previous_stories())
+    top = inherit_keys(top, previous)
+
+    # la rotación va DESPUÉS de heredar claves: si una noticia conserva
+    # la clave vieja, tiene que conservar también su cuenta de apariciones
+    carry_appearance(top, previous)
+    top = apply_rotation(top, now)
+    mark_published(top, now)
 
     payload = {
         "generated_at": now.isoformat(),

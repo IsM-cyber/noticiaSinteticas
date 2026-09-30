@@ -43,6 +43,28 @@ def _jaccard(a: set[str], b: set[str]) -> float:
     return len(a & b) / len(union)
 
 
+def _article_tokens(article: dict) -> set[str]:
+    return _tokenize(normalize_title(article.get("title") or ""))
+
+
+def _latest_dt(story: dict) -> dt.datetime | None:
+    """La publicación más reciente del grupo (la que define cuándo es la noticia)."""
+    stamps = [d for d in (_parse_dt(a.get("published_at")) for a in story["articles"]) if d]
+    return max(stamps) if stamps else None
+
+
+def _same_story(s1: dict, s2: dict, threshold: float) -> bool:
+    """¿Algún titular de un grupo se parece a algún titular del otro?
+
+    Se comparan los titulares reales y no la clave del grupo: la clave es el
+    título del artículo que entró primero, así que compararla daba resultados
+    distintos según el orden en que llegaron los feeds.
+    """
+    toks1 = [_article_tokens(a) for a in s1["articles"]]
+    toks2 = [_article_tokens(a) for a in s2["articles"]]
+    return any(_jaccard(t1, t2) >= threshold for t1 in toks1 for t2 in toks2)
+
+
 def cluster(articles: list[dict]) -> list[dict]:
     """Devuelve stories: {"key": título normalizado, "articles": [artículo, ...]}.
 
@@ -79,21 +101,24 @@ def cluster(articles: list[dict]) -> list[dict]:
             by_key[key] = story
             stories.append(story)
 
-    singles = [s for s in stories if len(s["articles"]) == 1]
+    # Se comparan TODOS los grupos, no solo los que tienen un artículo. Antes un
+    # grupo que ya tenía dos artículos quedaba fuera de la lista y nunca podía
+    # fusionarse: la misma noticia aparecía partida en dos filas de la portada.
     merged_ids: set[int] = set()
 
-    for i, s1 in enumerate(singles):
+    for i, s1 in enumerate(stories):
         if id(s1) in merged_ids:
             continue
-        d1 = _parse_dt(s1["articles"][0].get("published_at"))
-        for s2 in singles[i + 1:]:
+        d1 = _latest_dt(s1)
+        for s2 in stories[i + 1:]:
             if id(s2) in merged_ids:
                 continue
-            d2 = _parse_dt(s2["articles"][0].get("published_at"))
+            d2 = _latest_dt(s2)
             if d1 and d2 and abs(d1 - d2) > dt.timedelta(hours=CLUSTER_WINDOW_HOURS):
                 continue
-            if _jaccard(_tokenize(s1["key"]), _tokenize(s2["key"])) >= JACCARD_THRESHOLD:
+            if _same_story(s1, s2, JACCARD_THRESHOLD):
                 s1["articles"].extend(s2["articles"])
                 merged_ids.add(id(s2))
+                d1 = _latest_dt(s1)
 
     return [s for s in stories if id(s) not in merged_ids]

@@ -1,33 +1,28 @@
 import { NextRequest, NextResponse } from "next/server";
 import {
   supabaseAdmin,
-  ADMIN_EMAIL,
+  publicAuthor,
+  safeAuthor,
+  trustedAuthor,
   SUPABASE_CONFIGURED,
-} from "@/lib/comments";
+} from "@/lib/auth";
 
 export const dynamic = "force-dynamic";
 
 /**
- * Nombre público de un comentario:
- * - el editor se muestra como "Editor" (su email jamás sale del servidor)
- * - los demás: "ab*****@gmail.com" (ofuscado, nunca el email completo)
+ * El autor nunca sale completo: el editor es "Editor" y el resto va enmascarado.
+ * El enmascarado se hace en el servidor, no en el cliente.
  */
-function publicAuthor(author: string): string {
-  if (author.toLowerCase() === ADMIN_EMAIL.toLowerCase()) return "Editor";
-  const [name, domain] = author.split("@");
-  if (!domain) return author;
-  return `${name.slice(0, 2)}*****@${domain}`;
-}
-
-/** GET /api/comments?story=CLAVE — comentarios aprobados de una noticia */
 export async function GET(req: NextRequest) {
-  if (!SUPABASE_CONFIGURED) {
-    return NextResponse.json({ error: "comentarios no configurados" }, { status: 501 });
-  }
+  if (!SUPABASE_CONFIGURED) return NextResponse.json({ comments: [] });
+
   const story = req.nextUrl.searchParams.get("story") ?? "";
   if (!story) return NextResponse.json({ error: "falta story" }, { status: 400 });
 
-  const { data, error } = await supabaseAdmin()
+  const admin = supabaseAdmin();
+  if (!admin) return NextResponse.json({ comments: [] });
+
+  const { data, error } = await admin
     .from("comments")
     .select("id, author, body, created_at")
     .eq("story_key", story)
@@ -40,62 +35,49 @@ export async function GET(req: NextRequest) {
   });
 }
 
-/** POST /api/comments — crear comentario (requiere sesión activa) */
+/** Crear comentario. Requiere sesión válida y no estar baneado. */
 export async function POST(req: NextRequest) {
   if (!SUPABASE_CONFIGURED) {
     return NextResponse.json({ error: "comentarios no configurados" }, { status: 501 });
   }
+
   const token = req.headers.get("authorization")?.replace("Bearer ", "");
   if (!token) return NextResponse.json({ error: "no logueado" }, { status: 401 });
 
-  const { data: user, error: authError } = await supabaseAdmin().auth.getUser(token);
-  if (authError || !user.user) {
-    return NextResponse.json({ error: "sesión inválida" }, { status: 401 });
-  }
+  const admin = supabaseAdmin();
+  if (!admin) return NextResponse.json({ error: "error de sistema" }, { status: 500 });
 
-  // ¿usuario bloqueado por el editor?
+  const { data: user, error: authError } = await admin.auth.getUser(token);
+  if (authError || !user.user) return NextResponse.json({ error: "sesión inválida" }, { status: 401 });
+
   const rawEmail = user.user.email ?? "";
-  const { data: bannedByUser } = await supabaseAdmin()
-    .from("banned_users")
-    .select("user_id")
-    .eq("user_id", user.user.id)
-    .maybeSingle();
+
+  // ¿Bloqueado por id o por email?
+  const { data: bannedByUser } = await admin
+    .from("banned_users").select("user_id").eq("user_id", user.user.id).maybeSingle();
   const { data: bannedByEmail } = rawEmail
-    ? await supabaseAdmin().from("banned_users").select("user_id").eq("email", rawEmail).maybeSingle()
+    ? await admin.from("banned_users").select("user_id").eq("email", rawEmail).maybeSingle()
     : { data: null };
   if (bannedByUser || bannedByEmail) {
     return NextResponse.json({ error: "Tu cuenta fue bloqueada por el editor." }, { status: 403 });
   }
 
-  const { story, body, author } = await req.json();
-  if (!story || !body || typeof body !== "string" || body.trim().length < 1 ||
-      body.trim().length > 1000) {
+  const { story, body, author } = (await req.json()) as {
+    story?: string; body?: string; author?: string;
+  };
+  const clean = (body ?? "").trim();
+  if (!story || clean.length < 1 || clean.length > 1000) {
     return NextResponse.json({ error: "comentario inválido" }, { status: 400 });
   }
 
-  // nombre visible: el usuario elige uno ("Tu nombre"); si no, email enmascarado
-  let visibleName = typeof author === "string" ? author.trim().slice(0, 30) : "";
-  visibleName = visibleName.replace(/[\u0000-\u001f\u007f]/g, "").trim();
-  if (visibleName.includes("@")) { // por si pegan un email como nombre: se enmascara
-    const [n, d] = visibleName.split("@");
-    visibleName = d ? `${n.slice(0, 2)}*****@${d}` : n;
-  }
-
-  const isEditor = rawEmail.toLowerCase() === ADMIN_EMAIL.toLowerCase();
-  const masked = (() => {
-    const [n, d] = rawEmail.split("@");
-    return d ? `${n.slice(0, 2)}*****@${d}` : "anónimo";
-  })();
-  const safeAuthor = isEditor ? "Editor" : visibleName || masked;
-
-  const { error } = await supabaseAdmin().from("comments").insert({
+  const { error } = await admin.from("comments").insert({
     story_key: story,
     user_id: user.user.id,
-    author: safeAuthor,
-    body: body.trim(),
+    author: trustedAuthor(user.user),
+    body: clean,
     status: "approved",
   });
 
   if (error) return NextResponse.json({ error: error.message }, { status: 500 });
-  return NextResponse.json({ ok: true, message: "Comentario publicado " }, { status: 201 });
+  return NextResponse.json({ ok: true, message: "Comentario publicado" }, { status: 201 });
 }

@@ -44,3 +44,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# respaldos y pruebas locales
+*.bak
+*.orig
+*.rej
+.github-token

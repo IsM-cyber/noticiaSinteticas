@@ -1,13 +1,4 @@
 {
-  "name": "ns-tmp",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "eslint"
-  },
   "dependencies": {
     "@supabase/supabase-js": "^2.112.3",
     "next": "16.3.1",
@@ -21,5 +12,14 @@
     "eslint": "^9",
     "eslint-config-next": "16.3.1",
     "typescript": "^5"
-  }
+  },
+  "name": "ns-tmp",
+  "private": true,
+  "scripts": {
+    "build": "next build",
+    "dev": "node server.js",
+    "lint": "eslint",
+    "start": "NODE_ENV=production node server.js"
+  },
+  "version": "0.1.0"
 }
