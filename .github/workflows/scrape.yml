@@ -1,72 +1,73 @@
- name: scrape                                                                                                                                       
- on:                                                                                                                                                 
-     schedule:                                                                                                                                         
-       - cron: "13,43 * * * *"                                                                                                                         
-     workflow_dispatch:                                                                                                                                
-                                                                                                                                                       
-   concurrency:                                                                                                                                        
-     group: scrape                                                                                                                                     
-     cancel-in-progress: false                                                                                                                         
-                                                                                                                                                       
-   permissions:                                                                                                                                        
-     contents: write                                                                                                                                   
-     actions: write                                                                                                                                    
-                                                                                                                                                       
-   jobs:                                                                                                                                               
-     scrape:                                                                                                                                           
-       runs-on: ubuntu-latest                                                                                                                          
-       timeout-minutes: 340                                                                                                                            
-                                                                                                                                                       
-       steps:                                                                                                                                          
-         - uses: actions/checkout@v5                                                                                                                   
-           with:                                                                                                                                       
-             ref: main                                                                                                                                 
-                                                                                                                                                       
-         - uses: actions/setup-python@v6                                                                                                               
-           with:                                                                                                                                       
-             python-version: "3.11"                                                                                                                    
-                                                                                                                                                       
-         - name: Instalar dependencias                                                                                                                 
-           run: pip install -r scraper/requirements.txt                                                                                                
-                                                                                                                                                       
-         - name: Correr el robot cada 30 minutos                                                                                                       
-           run: |                                                                                                                                      
-             git config user.name "noticias-sinteticas-bot"                                                                                            
-             git config user.email "bot@localhost"                                                                                                     
-                                                                                                                                                       
-             for i in $(seq 1 10); do                                                                                                                  
-               echo "--- vuelta $i de 10, $(date -u +%H:%M) UTC"                                                                                       
-                                                                                                                                                       
-               git fetch origin main                                                                                                                   
-               git reset --hard origin/main                                                                                                            
-                                                                                                                                                       
-               if python -m scraper.main; then                                                                                                         
-                 git add data/news.json                                                                                                                
-                 if git diff --cached --quiet; then                                                                                                    
-                   echo "    las noticias no cambiaron, no se commitea"                                                                                
-                 else                                                                                                                                  
-                   git commit -m "chore: actualizar ranking $(date -u +%Y-%m-%dT%H:%M)"                                                                
-                   git push                                                                                                                            
-                   echo "    commiteado"                                                                                                               
-                 fi                                                                                                                                    
-               else                                                                                                                                    
-                 echo "    el robot fallo en esta vuelta, se sigue"                                                                                    
-               fi                                                                                                                                      
-                                                                                                                                                       
-               if [ "$i" -lt 10 ]; then                                                                                                                
-                 mins=$(date -u +%M)                                                                                                                   
-                 secs=$(date -u +%S)                                                                                                                   
-                 resto=$(( 30 - mins % 30 ))                                                                                                           
-                 echo "    durmiendo $(( resto*60 - secs ))s"                                                                                          
-                 sleep $(( resto*60 - secs ))                                                                                                          
-               fi                                                                                                                                      
-             done                                                                                                                                      
-                                                                                                                                                       
-         - name: Relanzarse para seguir                                                                                                                
-           if: success()                                                                                                                               
-           run: |                                                                                                                                      
-             curl -s -o /dev/null -w "relanzando: HTTP %{http_code}\n" -X POST \                                                                       
-               -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \                                                                                
-               -H "Accept: application/vnd.github+json" \                                                                                              
-               https://api.github.com/repos/IsM-cyber/noticiaSinteticas/actions/workflows/scrape.yml/dispatches \                                      
-               -d '{"ref":"main"}'
+name: scrape
+
+on:
+  schedule:
+    - cron: "13,43 * * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: main
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependencias
+        run: pip install -r scraper/requirements.txt
+
+      - name: Correr el robot cada 30 minutos
+        run: |
+          git config user.name "noticias-sinteticas-bot"
+          git config user.email "bot@localhost"
+
+          for i in $(seq 1 10); do
+            echo "--- vuelta $i de 10, $(date -u +%H:%M) UTC"
+
+            git fetch origin main
+            git reset --hard origin/main
+
+            if python -m scraper.main; then
+              git add data/news.json
+              if git diff --cached --quiet; then
+                echo "    las noticias no cambiaron, no se commitea"
+              else
+                git commit -m "chore: actualizar ranking $(date -u +%Y-%m-%dT%H:%M)"
+                git push
+                echo "    commiteado"
+              fi
+            else
+              echo "    el robot fallo en esta vuelta, se sigue"
+            fi
+
+            if [ "$i" -lt 10 ]; then
+              mins=$(date -u +%M)
+              secs=$(date -u +%S)
+              resto=$(( 30 - mins % 30 ))
+              echo "    durmiendo $(( resto*60 - secs ))s"
+              sleep $(( resto*60 - secs ))
+            fi
+          done
+
+      - name: Relanzarse para seguir
+        if: success()
+        run: |
+          curl -s -o /dev/null -w "relanzando: HTTP %{http_code}\n" -X POST \
+            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/IsM-cyber/noticiaSinteticas/actions/workflows/scrape.yml/dispatches \
+            -d '{"ref":"main"}'
