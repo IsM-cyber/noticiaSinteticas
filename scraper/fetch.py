@@ -351,6 +351,20 @@ def fetch_all() -> tuple[list[dict], list[str]]:
             errors.append(f"{source['name']}: {exc}")
             print(f"[fail] {source['name']}: {exc}")
             continue
+
+        # Un 200 sin articulos casi nunca es que la fuente se vacio: es el CDN
+        # entregando la pagina a medias. Se reintenta una vez antes de darla por
+        # perdida, con la misma espera que usa _get.
+        if not items:
+            print(f"[reintento] {source['name']}: vino vacio, se reintenta")
+            time.sleep(RETRY_BACKOFF_S)
+            try:
+                items = fetch_source(source)
+            except Exception as exc:
+                errors.append(f"{source['name']}: {exc}")
+                print(f"[fail] {source['name']}: {exc}")
+                continue
+
         if not items:
             # Una fuente que responde 200 pero no trae nada esta caida igual.
             # Antes contaba como [ok] con 0 articulos y el error se perdia: el
