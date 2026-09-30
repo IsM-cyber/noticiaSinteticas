@@ -22,7 +22,6 @@ export default function Comments({ storyKey }: { storyKey: string }) {
   const [authEmail, setAuthEmail] = useState("");
   const [authPass, setAuthPass] = useState("");
   const [authNick, setAuthNick] = useState("");
-  const [authMode, setAuthMode] = useState<"login" | "signup">("login");
   const nickname = sesion?.nickname ?? "";
   const [notice, setNotice] = useState("");
   const [loading, setLoading] = useState(false);
@@ -35,8 +34,8 @@ export default function Comments({ storyKey }: { storyKey: string }) {
   // debajo de la vista: sin esto hay que scrollear a mano para encontrarlo. El
   // foco lo trae de una y de paso lo deja listo para escribir.
   useEffect(() => {
-    if (authMode === "signup" && showAuth) nickRef.current?.focus();
-  }, [authMode, showAuth]);
+    if (showAuth) nickRef.current?.focus();
+  }, [showAuth]);
 
   const load = useCallback(async () => {
     try {
@@ -161,21 +160,12 @@ export default function Comments({ storyKey }: { storyKey: string }) {
                 onChange={(e) => setAuthEmail(e.target.value)} />
               <input type="password" placeholder="contraseña (mín. 6)" value={authPass} autoComplete="current-password"
                 onChange={(e) => setAuthPass(e.target.value)} />
-              {authMode === "signup" ? (
-                <>
                   <input ref={nickRef} type="text" placeholder="nombre de usuario" value={authNick} maxLength={20}
                     autoComplete="nickname" onChange={(e) => setAuthNick(e.target.value)} />
                   <div className="comments-buttons">
-                    <button type="button" onClick={() => { setAuthMode("login"); setNotice(""); }} disabled={loading}>Volver</button>
+                    <button type="button" onClick={() => void submitAuth("login")} disabled={loading}>Entrar</button>
                     <button type="button" onClick={() => void submitAuth("signup")} disabled={loading}>Crear cuenta</button>
                   </div>
-                </>
-              ) : (
-                <div className="comments-buttons">
-                  <button type="button" onClick={() => void submitAuth("login")} disabled={loading}>Entrar</button>
-                  <button type="button" onClick={() => { setAuthMode("signup"); setNotice(""); }} disabled={loading}>Crear cuenta</button>
-                </div>
-              )}
             </div>
           )}
     

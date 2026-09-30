@@ -21,7 +21,6 @@ export default function Chat() {
   const [authEmail, setAuthEmail] = useState("");
   const [authPass, setAuthPass] = useState("");
   const [authNick, setAuthNick] = useState("");
-  const [authMode, setAuthMode] = useState<"login" | "signup">("login");
   const [notice, setNotice] = useState("");
   // El panel de ingreso no esta a la vista hasta que se intenta chatear sin
   // sesion: si esta siempre, ocupa media pantalla sin que nadie lo pidiera.
@@ -63,14 +62,14 @@ export default function Chat() {
     const r = el.getBoundingClientRect();
     const centrado = window.scrollY + r.top - (window.innerHeight - r.height) / 2;
     window.scrollTo({ top: Math.max(0, Math.round(centrado)), behavior: "smooth" });
-      }, [authMode, showAuth, ready]);
+      }, [showAuth, ready]);
 
   // El scroll de arriba es suave y sobre una pagina de 24.000px tarda: el campo
   // queda fuera de pantalla durante toda la animacion. El foco lo trae de una,
   // sin animacion que se pueda cortar, y de paso queda listo para escribir.
   useEffect(() => {
-    if (authMode === "signup" && showAuth) nickRef.current?.focus();
-  }, [authMode, showAuth]);
+    if (showAuth) nickRef.current?.focus();
+  }, [showAuth]);
 
   useEffect(() => {
     const el = listRef.current;
@@ -189,7 +188,7 @@ export default function Chat() {
               {!email && showAuth && (
             <div ref={panelRef} style={{ background: "#161b22", padding: 15, borderRadius: 8, border: "1px solid #30363d", marginTop: 12 }}>
               <p style={{ margin: "0 0 8px", color: "#d9e4f5", fontSize: "0.9rem" }}>
-                {authMode === "signup" ? "Creá tu cuenta:" : "Ingresá para chatear:"}
+                Ingresá para chatear:
               </p>
               <input type="email" placeholder="tu@email.com" value={authEmail} autoComplete="email"
                 onChange={(e) => setAuthEmail(e.target.value)}
@@ -197,26 +196,15 @@ export default function Chat() {
               <input type="password" placeholder="contraseña (mín. 6)" value={authPass} autoComplete="current-password"
                 onChange={(e) => setAuthPass(e.target.value)}
                 style={{ width: "100%", padding: 8, marginBottom: 10, boxSizing: "border-box", borderRadius: 6, border: "1px solid #223051", background: "#07090f", color: "#d9e4f5" }} />
-              {authMode === "signup" ? (
-                <>
                   <input ref={nickRef} type="text" placeholder="nombre de usuario" value={authNick} maxLength={20}
                     autoComplete="nickname" onChange={(e) => setAuthNick(e.target.value)}
                     style={{ width: "100%", padding: 8, marginBottom: 10, boxSizing: "border-box", borderRadius: 6, border: "1px solid #223051", background: "#07090f", color: "#d9e4f5" }} />
                   <div style={{ display: "flex", gap: 8 }}>
-                    <button type="button" onClick={() => { setAuthMode("login"); setNotice(""); }} disabled={loading}
-                      style={{ flex: 1, padding: 8, borderRadius: 6, border: "1px solid #223051", background: "transparent", color: "#7f8db0", fontWeight: 700, cursor: "pointer" }}>Volver</button>
+                    <button type="button" onClick={() => void submitAuth("login")} disabled={loading}
+                      style={{ flex: 1, padding: 8, borderRadius: 6, border: "none", background: "#00e5ff", color: "#0e1320", fontWeight: 700, cursor: "pointer" }}>Entrar</button>
                     <button type="button" onClick={() => void submitAuth("signup")} disabled={loading}
-                      style={{ flex: 1, padding: 8, borderRadius: 6, border: "none", background: "#00e5ff", color: "#0e1320", fontWeight: 700, cursor: "pointer" }}>Crear cuenta</button>
+                      style={{ flex: 1, padding: 8, borderRadius: 6, background: "transparent", border: "1px solid #00e5ff", color: "#00e5ff", fontWeight: 700, cursor: "pointer" }}>Crear cuenta</button>
                   </div>
-                </>
-              ) : (
-                <div style={{ display: "flex", gap: 8 }}>
-                  <button type="button" onClick={() => void submitAuth("login")} disabled={loading}
-                    style={{ flex: 1, padding: 8, borderRadius: 6, border: "none", background: "#00e5ff", color: "#0e1320", fontWeight: 700, cursor: "pointer" }}>Entrar</button>
-                  <button type="button" onClick={() => { setAuthMode("signup"); setNotice(""); }} disabled={loading}
-                    style={{ flex: 1, padding: 8, borderRadius: 6, border: "1px solid #00e5ff", background: "transparent", color: "#00e5ff", fontWeight: 700, cursor: "pointer" }}>Crear cuenta</button>
-                </div>
-              )}
             </div>
           )}
     </section>
