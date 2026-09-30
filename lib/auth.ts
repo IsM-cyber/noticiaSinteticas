@@ -81,7 +81,7 @@ export function safeNickname(raw: unknown): string {
   if (typeof raw !== "string") return "";
   const clean = raw.replace(/[\x00-\x1f\x7f]/g, "").replace(/\s+/g, " ").trim();
   if (clean.length < 2 || clean.length > 20) return "";
-  if (!/^[\p{L}\p{N}_ ]+$/u.test(clean)) return "";
+  if (!/^[\p{L}\p{N}_ \-.]+$/u.test(clean)) return "";
   if (clean.toLowerCase() === RESERVED_NICK) return "";
   return clean;
 }

@@ -34,7 +34,7 @@ export async function POST(req: NextRequest) {
   const nick = safeNickname(nickname);
   if (!nick) {
     return NextResponse.json(
-      { error: "Elegi un nombre de usuario de 2 a 20 caracteres (letras, numeros o guion bajo)" },
+      { error: "El nombre de usuario solo puede contener letras, números, espacios, guiones, puntos o guiones bajos (2 a 20 caracteres)." },
       { status: 400 },
     );
   }
