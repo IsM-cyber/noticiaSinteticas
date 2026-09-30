@@ -1,14 +1,59 @@
 {
-  "generated_at": "2026-09-30T20:00:00.722691+00:00",
-  "article_count": 135,
-  "fetch_errors": [
-    "Diario Necochea: respondio pero devolvio 0 articulos"
-  ],
+  "generated_at": "2026-09-30T20:24:41.833165+00:00",
+  "article_count": 175,
+  "fetch_errors": [],
   "stories": [
+    {
+      "key": "aprehendieron hombre amenazas carabina aire comprimido escuela claraz",
+      "title": "Aprehendieron a un hombre por amenazas con una carabina de aire comprimido en una escuela de Claraz",
+      "score": 1.437,
+      "sources_count": 3,
+      "first_seen": "2026-09-30T12:38:19+00:00",
+      "image": "https://cdnartic.ar/ZagKVPu2xgjBHUg5zKphdcWozOU=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/09/claraz_aprehendido.webp",
+      "articles": [
+        {
+          "portal": "Ecos Diarios",
+          "title": "Aprehendieron a un hombre por amenazas con una carabina de aire comprimido en una escuela de Claraz",
+          "url": "https://elecos.com.ar/aprehendieron-a-un-hombre-por-amenazas-con-una-carabina-de-aire-comprimido-en-una-escuela-de-claraz",
+          "published_at": "2026-09-30T12:38:19+00:00",
+          "first_seen": "2026-09-30T19:44:19.194187+00:00",
+          "category": "13",
+          "image": "https://cdnartic.ar/ZagKVPu2xgjBHUg5zKphdcWozOU=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/09/claraz_aprehendido.webp"
+        },
+        {
+          "portal": "Diario Necochea",
+          "title": "Alerta en Claraz: aprehendieron a un hombre que amenazó a una escuela con un aire comprimido",
+          "url": "https://diarionecochea.com/2026/09/30/alerta-en-claraz-aprehendieron-a-un-hombre-que-amenazo-a-una-escuela-con-un-aire-comprimido/",
+          "published_at": "2026-09-30T13:25:54+00:00",
+          "first_seen": "2026-09-30T20:24:41.833165+00:00",
+          "category": "Destacada",
+          "image": "https://diarionecochea.com/wp-content/uploads/2026/09/aprehendieron-a-un-hombre-con-una-carabina-de-aire-comprimido-en-una-escuela-de-claraz.webp"
+        },
+        {
+          "portal": "TSN Necochea",
+          "title": "Un hombre ingresó a una escuela de Claraz con una carabina",
+          "url": "https://tsnnecochea.com.ar/locales/un-hombre-ingreso-a-una-escuela-de-claraz-con-una-carabina-238467/",
+          "published_at": "2026-09-30T19:43:13+00:00",
+          "first_seen": "2026-09-30T19:44:19.194187+00:00",
+          "category": "amenazas",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/09/IMG-20260930-WA0032.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Efectivos desplegaron una búsqueda por los alrededores, obligando al sospechoso a deshacerse del arma comprimida antes de ser interceptado y puesto a disposición de la fiscalía interviniente para aclarar el hecho. Un hombre de 32 años fue aprehendido en la localidad de Claraz luego de un operativo desplegado por efectivos policiales tras un llamado que alertaba sobre la presencia de un sujeto que habría ingresado a un establecimiento educativo portando una carabina de aire comprimido.",
+          "Noticia relacionadas Robaron cobre de una instalación de gas y un hombre quedó retenido 30 de septiembre de 2026 Hallaron al hombre desaparecido tendido y mojado dentro del Parque Miguel Lillo 29 de septiembre de 2026 El episodio se registró en inmediaciones de la Escuela de Educación Primaria N.º 16, donde, según se informó, el individuo habría intimidado al personal y a los alumnos. Ante la alerta, efectivos de la Subcomisaría Juan N."
+        ],
+        "generated": "2026-09-30T20:25:13.463836+00:00"
+      },
+      "apariciones": 3,
+      "ultima_impresion": "2026-09-30T20:24:41.833165+00:00",
+      "penalizacion": 0.495
+    },
     {
       "key": "ernesto povilaitis giovazzino designado presidente consorcio gestion puerto quequen",
       "title": "Ernesto Povilaitis Giovazzino fue designado presidente del Consorcio de Gestión de Puerto Quequén",
-      "score": 2.003,
+      "score": 1.274,
       "sources_count": 3,
       "first_seen": "2026-09-30T12:12:33+00:00",
       "image": "https://cdnartic.ar/_Vi88e1nkJVkW27oJ4y4TFSWhJ8=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/09/kicillof_y_povilaitis.webp",
@@ -55,16 +100,190 @@
           "El Gobierno de la provincia de Buenos Aires formalizó la designación de Ernesto Povilaitis Giovazzino como nuevo presidente del Consorcio de Gestión del Puerto de Quequén, mediante el Decreto N.º 1865/2026, firmado por el gobernador Axel Kicillof y publicado el 29 de septiembre. La norma establece que Povilaitis Giovazzino integrará el Directorio del Consorcio en representación del Gobierno bonaerense y determina expresamente que ejercerá la presidencia del organismo. La designación tiene vigencia desde el 25 de agosto de 2026.",
           "Reemplaza a Jimena López El nombramiento se produce tras la renuncia de María Jimena López, quien ocupaba la representación de la Provincia en el Directorio y ejercía la presidencia del Consorcio de Gestión de Puerto Quequén. Su dimisión había sido aceptada previamente mediante el Decreto N.º 3168/25, dando paso al proceso para definir a su reemplazante."
         ],
-        "generated": "2026-09-30T20:00:17.182286+00:00"
+        "generated": "2026-09-30T20:25:34.796447+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-09-30T20:00:00.722691+00:00",
-      "penalizacion": 0.752
+      "apariciones": 3,
+      "ultima_impresion": "2026-09-30T20:24:41.833165+00:00",
+      "penalizacion": 0.495
+    },
+    {
+      "key": "cronograma festejos 145 aniversario necochea",
+      "title": "Ya está el cronograma de los festejos por el 145 aniversario de Necochea",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-09-30T20:24:41.833165+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/14bf9939981df329b861d2bc2a487a92b65ef84f.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Ya está el cronograma de los festejos por el 145 aniversario de Necochea",
+          "url": "https://necocheadigital.com/nota/119750/ya-esta-el-cronograma-de-los-festejos-por-el-145-aniversario-de-necochea/",
+          "published_at": null,
+          "first_seen": "2026-09-30T20:24:41.833165+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La cuenta regresiva ya comenzó y la Municipalidad ultima los detalles para celebrar los 145 años de Necochea con tres jornadas especiales: sábado 10, domingo 11 y lunes 12 de octubre , con una agenda pensada para todas las edades y propuestas que se extenderán durante todo el fin de semana largo, aunque el lunes tendrá el aliciente de poder ver el acto protocolar, el desfile cívico tradicionalista y el infaltable corte de la torta de cumpleaños. En cuanto a la parte musical y demás espectáculos , el sábado 10 la música comenzará a las 18.30 con Agustín Funes DJ, para continuar a las 19 con Julia Annechini, a las 20 con Litio y cerrar a las 21 con Trasnochados.",
+          "El domingo 11 , desde las 19, será el turno de Clavija Sachera, seguida a las 20 por La Rutera y, a las 21, Los Borbotones. El lunes 12 , día central de los festejos, tendrá además las actividades tradicionales del aniversario."
+        ],
+        "generated": "2026-09-30T20:26:51.119805+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-09-30T20:24:41.833165+00:00"
+    },
+    {
+      "key": "ejecutivo prorroga servicio transporte mientras prepara nuevo llamado licitacion",
+      "title": "El Ejecutivo prorroga el servicio de transporte mientras prepara un nuevo llamado a licitación",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-09-30T20:24:41.833165+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/ee008b6658e123e5b5212cb71922246a70e137c7.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "El Ejecutivo prorroga el servicio de transporte mientras prepara un nuevo llamado a licitación",
+          "url": "https://necocheadigital.com/nota/119749/el-ejecutivo-prorroga-el-servicio-de-transporte-mientras-prepara-un-nuevo-llamado-a-licitacion/",
+          "published_at": null,
+          "first_seen": "2026-09-30T20:24:41.833165+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La medida establece una extensión de 150 días corridos, contados desde el vencimiento de la prórroga acordada en julio , o hasta la suscripción del nuevo contrato de concesión y el correspondiente inicio del servicio, lo que ocurra primero. La prórroga alcanza a las líneas 510, 511, 512, 513, 514, 515, 517 y 518 y sus respectivos ramales. Asimismo, se mantiene la prestación de las líneas 502 y 503, en las mismas condiciones vigentes.",
+          "La decisión se adopta luego de que dos llamados a licitación resultaran desiertos por falta de interesados. Frente a este escenario, el Departamento Ejecutivo trabaja en un nuevo proceso licitatorio, con modificaciones a las exigencias y requisitos establecidos anteriormente, y ya cuenta con un nuevo proyecto de Pliego de Bases y Condiciones."
+        ],
+        "generated": "2026-09-30T20:26:52.727786+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-09-30T20:24:41.833165+00:00"
+    },
+    {
+      "key": "necochea estuvo presente feria internacional turismo",
+      "title": "Necochea estuvo presente en la Feria Internacional de Turismo",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-09-30T20:24:41.833165+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260930111753_30-09-foto-necochea-fit2.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Necochea estuvo presente en la Feria Internacional de Turismo",
+          "url": "https://necocheadigital.com/nota/119748/necochea-estuvo-presente-en-la-feria-internacional-de-turismo/",
+          "published_at": null,
+          "first_seen": "2026-09-30T20:24:41.833165+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Necochea estuvo presente en la 30° edición de la Feria Internacional de Turismo (FIT) , que se desarrolló del 26 al 29 de septiembre en La Rural de Buenos Aires, ante una convocatoria que superó los 100 mil visitantes durante el último fin de semana. Con el concepto “Necochea Deportiva” como eje central, el distrito presentó una propuesta destinada a mostrar el potencial de Necochea y Quequén como un destino para practicar, entrenar, competir y disfrutar del deporte durante todo el año.",
+          "El stand 1038 fue durante el fin de semana un punto de encuentro con el público general y, durante las jornadas del lunes y martes, recibió a operadores, prestadores, empresas y profesionales de la industria turística."
+        ],
+        "generated": "2026-09-30T20:26:53.888189+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-09-30T20:24:41.833165+00:00"
+    },
+    {
+      "key": "juegan miercoles pendientes liga necochea futbol",
+      "title": "Se juegan este miércoles los pendientes de la Liga Necochea de Fútbol",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-09-30T20:24:41.833165+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260930111641_whatsapp-image-2026-09-30-at-11-16-30.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Se juegan este miércoles los pendientes de la Liga Necochea de Fútbol",
+          "url": "https://necocheadigital.com/nota/119747/se-juegan-este-miercoles-los-pendientes-de-la-liga-necochea-de-futbol/",
+          "published_at": null,
+          "first_seen": "2026-09-30T20:24:41.833165+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La Liga Necochea de Fútbol completa este miércoles la decimoctava jornada de su certamen oficial. Con dos duelos reprogramados por los compromisos del Torneo Regional Federal Amateur, la Zona A reacomoda su tabla de posiciones en una jornada que promete emociones tanto por la tarde como por la noche. Tarde de alta tensión en el \"Vasco\" Iparraguirre Desde las 16:00, Villa Díaz Vélez recibe a Ministerio bajo la supervisión arbitral de Lucas González.",
+          "El equipo local marcha escolta con 35 puntos y busca recuperarse de su reciente caída 2-1 ante Sportivo San Cayetano, donde el gol de Lautaro Ruiz Martínez no alcanzó frente a los tantos de Bautista Salina y Facundo Leiva. Del otro lado, Ministerio —dirigido por Gustavo Tridón— se ubica tercero con 32 unidades (a la par de Mataderos) e intenta pasar la página tras tropezar 1-0 con Villa del Parque."
+        ],
+        "generated": "2026-09-30T20:26:55.041072+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-09-30T20:24:41.833165+00:00"
+    },
+    {
+      "key": "festival infantil empieza tomar forma tendra anticipo 10 octubre",
+      "title": "El Festival Infantil empieza a tomar forma y tendrá su anticipo el 10 de octubre",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-09-30T20:24:41.833165+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/3632ab7e880a4a99324ceb012c63b4784442d319.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "El Festival Infantil empieza a tomar forma y tendrá su anticipo el 10 de octubre",
+          "url": "https://necocheadigital.com/nota/119745/el-festival-infantil-empieza-a-tomar-forma-y-tendra-su-anticipo-el-10-de-octubre/",
+          "published_at": null,
+          "first_seen": "2026-09-30T20:24:41.833165+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Mientras Necochea se prepara para celebrar el próximo 12 de octubre sus 145 años , el área de Cultura municipal ya trabaja en otro de los acontecimientos tradicionales del calendario local: el Festival Infantil . El director de Cultura de la Municipalidad, Juan Gamba , confirmó en diálogo con el programa Voces de la Tarde , que conduce Jorge Gómez por Radio Noticias Necochea , que el próximo sábado 10 de octubre, a las 17 , se realizará una presentación especial que funcionará como anticipo de la próxima edición del festival.",
+          "Será, según explicó, una suerte de “backstage” de la propuesta que se desarrollará durante el verano, con espectáculo incluido y la presentación del lema, la fecha y el lugar elegidos. Gamba mantuvo deliberadamente en reserva algunos de esos detalles, aunque confirmó que la realización será en febrero de 2027 ."
+        ],
+        "generated": "2026-09-30T20:26:55.754645+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-09-30T20:24:41.833165+00:00"
+    },
+    {
+      "key": "zona fria advierten impacto facturas gas sera mayor muchos imaginan",
+      "title": "Zona Fría: advierten que el impacto sobre las facturas de gas será mayor al que muchos imaginan",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-09-30T20:24:41.833165+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/f41cc97b69044ab8580818a0a187c2d92932579a.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Zona Fría: advierten que el impacto sobre las facturas de gas será mayor al que muchos imaginan",
+          "url": "https://necocheadigital.com/nota/119744/zona-fria-advierten-que-el-impacto-sobre-las-facturas-de-gas-sera-mayor-al-que-muchos-imaginan/",
+          "published_at": null,
+          "first_seen": "2026-09-30T20:24:41.833165+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La eliminación del beneficio de Zona Fría para los usuarios residenciales de gas natural de Necochea y de buena parte del Sudeste y Sudoeste bonaerense abre una discusión que va mucho más allá de una modificación en la factura. Para quienes vienen siguiendo desde hace años la evolución de las tarifas de los servicios públicos, el cambio supone la desaparición de un mecanismo que había sido establecido teniendo en cuenta las condiciones climáticas de una extensa región del país.",
+          "Silvia Jensen , integrante de la Red Multisectorial que realiza un seguimiento de las tarifas de luz y gas, explicó este martes 29 de septiembre, en Voces de la Tarde , el programa que conduce Jorge Gómez por Radio Noticias Necochea 97.3 FM , cuáles serán las diferencias entre el régimen de Zona Fría y el esquema de subsidios que continuará vigente. Uno de los puntos centrales de su explicación fue que ambos mecanismos no son equivalentes ."
+        ],
+        "generated": "2026-09-30T20:26:56.478478+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-09-30T20:24:41.833165+00:00"
     },
     {
       "key": "prorrogaron servicio colectivos 150 dias",
       "title": "Prorrogaron el servicio de Colectivos por 150 dias",
-      "score": 1.439,
+      "score": 0.915,
       "sources_count": 2,
       "first_seen": "2026-09-30T15:39:00+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2024/05/8cb16220-9a77-49ff-a916-a9578eb1ec36.jpg",
@@ -93,228 +312,161 @@
           "TSN Necochea | ‹ VOLVER | Locales | 150 dias | Acuerdo Prorrogaron el servicio de Colectivos por 150 dias Lo firmaron el Departamento Ejecutivo y la compañía de Transporte Necochea Por Ale Sanchez 30/09/2026 · 04:28 PM Foto Maximiliano Ferreyra - Nuestro Pueblo Quequén Agregar TSN Necochea en A dos días de vencer el actual periodo de concesión, la Compañía de Transportes Necochea y la Municipalidad rubricaron una nueva prórroga del servicio de transporte público de pasajeros por 150 días. Este convenio también se indica que el plazo de la prórroga pueden ser los 150 días corridos o hasta tanto se firme un nuevo contrato de concesión del Servicio de Transporte Público de Pasajeros.",
           "En esta prórroga se obliga a la empresa a prestar el servicio con al menos 30 unidades y un máximo de 36. La empresa también se compromete a cumplir con regularidad dichos servicios."
         ],
-        "generated": "2026-09-30T20:00:19.638396+00:00"
+        "generated": "2026-09-30T20:25:36.616659+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-09-30T20:00:00.722691+00:00",
-      "penalizacion": 0.752
+      "apariciones": 3,
+      "ultima_impresion": "2026-09-30T20:24:41.833165+00:00",
+      "penalizacion": 0.495
     },
     {
-      "key": "aprehendieron hombre amenazas carabina aire comprimido escuela claraz",
-      "title": "Aprehendieron a un hombre por amenazas con una carabina de aire comprimido en una escuela de Claraz",
-      "score": 1.272,
-      "sources_count": 2,
-      "first_seen": "2026-09-30T12:38:19+00:00",
-      "image": "https://cdnartic.ar/ZagKVPu2xgjBHUg5zKphdcWozOU=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/09/claraz_aprehendido.webp",
-      "articles": [
-        {
-          "portal": "Ecos Diarios",
-          "title": "Aprehendieron a un hombre por amenazas con una carabina de aire comprimido en una escuela de Claraz",
-          "url": "https://elecos.com.ar/aprehendieron-a-un-hombre-por-amenazas-con-una-carabina-de-aire-comprimido-en-una-escuela-de-claraz",
-          "published_at": "2026-09-30T12:38:19+00:00",
-          "first_seen": "2026-09-30T19:44:19.194187+00:00",
-          "category": "13",
-          "image": "https://cdnartic.ar/ZagKVPu2xgjBHUg5zKphdcWozOU=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/09/claraz_aprehendido.webp"
-        },
-        {
-          "portal": "TSN Necochea",
-          "title": "Un hombre ingresó a una escuela de Claraz con una carabina",
-          "url": "https://tsnnecochea.com.ar/locales/un-hombre-ingreso-a-una-escuela-de-claraz-con-una-carabina-238467/",
-          "published_at": "2026-09-30T19:43:13+00:00",
-          "first_seen": "2026-09-30T19:44:19.194187+00:00",
-          "category": "amenazas",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/09/IMG-20260930-WA0032.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Locales | amenazas | Peligroso Un hombre ingresó a una escuela de Claraz con una carabina Fue aprehendido. El origen de esta situación fue un episodio de amenazas Por Redacción TSN 30/09/2026 · 04:43 PM Agregar TSN Necochea en Un hombre de 32 años fue aprehendido en la localidad de Claraz luego de un operativo desplegado por efectivos policiales tras un llamado que alertaba sobre la presencia de un sujeto que habría ingresado a un establecimiento educativo portando una carabina de aire comprimido. El episodio se registró en inmediaciones de la Escuela de Educación Primaria N.º 16, donde, según se informó, el individuo habría intimidado al personal y a los alumnos.",
-          "Ante la alerta, efectivos de la Subcomisaría Juan N. Fernández se constituyeron en el lugar. Al arribar, el sospechoso ya no se encontraba en el establecimiento, por lo que se inició una recorrida por la zona para dar con su paradero."
-        ],
-        "generated": "2026-09-30T20:00:22.566562+00:00"
-      },
-      "apariciones": 2,
-      "ultima_impresion": "2026-09-30T20:00:00.722691+00:00",
-      "penalizacion": 0.752
-    },
-    {
-      "key": "caso bautista coronel rechazaron sobreseimiento imputado jueces apartaron causa",
-      "title": "Caso Bautista Coronel: rechazaron el sobreseimiento del imputado y los jueces se apartaron de la causa",
-      "score": 1.1,
+      "key": "kicillof puso exfuncionario rojas frente puerto quequen",
+      "title": "Kicillof puso a un exfuncionario de Rojas al frente de Puerto Quequén",
+      "score": 0.699,
       "sources_count": 1,
-      "first_seen": "2026-09-30T20:00:00.722691+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260929120420_sede-de-la-fiscalia-penal-juvenil-de-necochea.jpg",
+      "first_seen": "2026-09-30T13:55:20+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/kicillof-puso-a-un-exfuncionario-de-rojas-al-frente-de-puerto-quequen.webp",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Caso Bautista Coronel: rechazaron el sobreseimiento del imputado y los jueces se apartaron de la causa",
-          "url": "https://necocheadigital.com/nota/119737/caso-bautista-coronel-rechazaron-el-sobreseimiento-del-imputado-y-los-jueces-se-apartaron-de-la-causa/",
-          "published_at": null,
-          "first_seen": "2026-09-30T20:00:00.722691+00:00",
-          "category": null,
-          "image": null
+          "portal": "Diario Necochea",
+          "title": "Kicillof puso a un exfuncionario de Rojas al frente de Puerto Quequén",
+          "url": "https://diarionecochea.com/2026/09/30/kicillof-puso-a-un-exfuncionario-de-rojas-al-frente-de-puerto-quequen/",
+          "published_at": "2026-09-30T13:55:20+00:00",
+          "first_seen": "2026-09-30T20:24:41.833165+00:00",
+          "category": "Locales",
+          "image": "https://diarionecochea.com/wp-content/uploads/2026/09/kicillof-puso-a-un-exfuncionario-de-rojas-al-frente-de-puerto-quequen.webp"
         }
       ],
       "summary": {
         "paragraphs": [
-          "De manera paralela, los tres magistrados intervinientes (Nicolás Lamberti de Necochea, Luis Surjet de Azul y Marcos Milano de Dolores) decidieron apartarse del expediente. Ante este apartamiento masivo, el Poder Judicial deberá sortear a nuevos jueces especializados del Fuero Penal Juvenil, quienes pertenecerían a otros departamentos judiciales de la Provincia de Buenos Aires para garantizar la imparcialidad del proceso.",
-          "Previo a la resolución, la fiscal Verónica Posse (Fiscalía del Fuero Penal Juvenil) había elevado una propuesta de juicio abreviado. Al no alcanzarse un acuerdo entre las partes, la causa se encamina a debate público: salvo que surjan nuevos planteos dilatorios, el juicio oral deberá comenzar antes del próximo 26 de octubre."
+          "La medida completó la transición iniciada a fines de 2025 y reflejó la estrecha articulación entre la Comuna y la Provincia , proyectando al exfuncionario municipal al frente de las principales decisiones marítimas. El Gobierno de la Provincia de Buenos Aires formalizó la designación del abogado Ernesto Povilaitis Giovazzino como presidente del Consorcio de Gestión de Puerto Quequén .",
+          "La medida quedó establecida mediante el Decreto Nº 1865/2026, que lo incorpora al Directorio en representación del Ejecutivo bonaerense y determina que ejercerá la titularidad del organismo. Noticia relacionadas El histórico Teatro Auditórium será recorrido este viernes antes de la subasta judicial 30 de septiembre de 2026 Así se veía la Rambla de Necochea cuando brillaba en sus años de gloria 30 de septiembre de 2026 La designación tiene vigencia retroactiva desde el 25 de agosto de 2026."
         ],
-        "generated": "2026-09-30T20:00:32.124083+00:00"
+        "generated": "2026-09-30T20:27:21.265320+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-09-30T20:00:00.722691+00:00"
+      "ultima_impresion": "2026-09-30T20:24:41.833165+00:00"
     },
     {
-      "key": "milei dijo quinta olivos base militar aseguro deporto 30 mil terroristas",
-      "title": "Milei dijo que la Quinta de Olivos es una “base militar” y aseguró que deportó a 30 mil “terroristas”",
-      "score": 1.1,
+      "key": "historico teatro auditorium sera recorrido viernes antes subasta judicial",
+      "title": "El histórico Teatro Auditórium será recorrido este viernes antes de la subasta judicial",
+      "score": 0.659,
       "sources_count": 1,
-      "first_seen": "2026-09-30T20:00:00.722691+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260929085309_captura.jpg",
+      "first_seen": "2026-09-30T13:13:06+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/el-historico-auditorio-de-necochea-sera-recorrido-este-viernes-antes-de-la-subasta-judicia.webp",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Milei dijo que la Quinta de Olivos es una “base militar” y aseguró que deportó a 30 mil “terroristas”",
-          "url": "https://necocheadigital.com/nota/119735/milei-dijo-que-la-quinta-de-olivos-es-una-base-militar-y-aseguro-que-deporto-a-30-mil-terroristas/",
-          "published_at": null,
-          "first_seen": "2026-09-30T20:00:00.722691+00:00",
-          "category": null,
-          "image": null
+          "portal": "Diario Necochea",
+          "title": "El histórico Teatro Auditórium será recorrido este viernes antes de la subasta judicial",
+          "url": "https://diarionecochea.com/2026/09/30/el-historico-auditorio-de-necochea-sera-recorrido-este-viernes-antes-de-la-subasta-judicial/",
+          "published_at": "2026-09-30T13:13:06+00:00",
+          "first_seen": "2026-09-30T20:24:41.833165+00:00",
+          "category": "Locales",
+          "image": "https://diarionecochea.com/wp-content/uploads/2026/09/el-historico-auditorio-de-necochea-sera-recorrido-este-viernes-antes-de-la-subasta-judicia.webp"
         }
       ],
       "summary": {
         "paragraphs": [
-          "Luego de participar de la Asamblea General de las Naciones Unidas , el presidente Javier Milei brindó una entrevista al periodista Luis Majul en la que abordó su seguridad personal, la situación económica y las cifras de deportaciones que atribuyó a su Gobierno. Uno de los puntos que generó mayor repercusión fue su explicación sobre la situación de la Quinta de Olivos , cuya seguridad pasó recientemente a estar bajo responsabilidad de la Casa Militar. “ Hoy la Quinta de Olivos es una base militar y recibe un tratamiento de una base militar ”, afirmó Milei.",
-          "El Presidente vinculó la decisión con cuestiones de seguridad y aseguró: “ Tengo algunos enemigos pesados en el mundo ”. Según explicó, la residencia cuenta ahora con medidas de seguridad más estrictas que las que tenía anteriormente."
+          "La recorrida está prevista para el mediodía y permitirá conocer el estado actual del inmueble, que permanece abandonado y conserva sectores vinculados con su antiguo funcionamiento. El histórico Auditorio de Necochea será escenario este viernes al mediodía de una nueva visita, en el marco del proceso relacionado con su próxima subasta judicial. La recorrida permitirá observar el estado actual del edificio, que permanece abandonado y muestra un marcado deterioro.",
+          "Noticia relacionadas Kicillof puso a un exfuncionario de Rojas al frente de Puerto Quequén 30 de septiembre de 2026 Así se veía la Rambla de Necochea cuando brillaba en sus años de gloria 30 de septiembre de 2026 La construcción conserva distintos elementos que permiten reconocer el uso que tuvo durante años como teatro y casino. En el acceso todavía puede leerse la inscripción “Teatro Auditorium Casino”, junto con la referencia a una sala destinada a grandes espectáculos."
         ],
-        "generated": "2026-09-30T20:00:33.287308+00:00"
+        "generated": "2026-09-30T20:27:22.623163+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-09-30T20:00:00.722691+00:00"
+      "ultima_impresion": "2026-09-30T20:24:41.833165+00:00"
     },
     {
-      "key": "siempre estuvo nuestra idea hacer fiesta fiesta iba hacer",
-      "title": "“Siempre estuvo en nuestra idea hacer la fiesta. La fiesta se iba a hacer, sí o sí”",
-      "score": 1.1,
+      "key": "asi veia rambla necochea cuando brillaba anos gloria",
+      "title": "Así se veía la Rambla de Necochea cuando brillaba en sus años de gloria",
+      "score": 0.638,
       "sources_count": 1,
-      "first_seen": "2026-09-30T20:00:00.722691+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/290d9e7f0b04ea4a3f3fcf363c073225b378aa47.jpg",
+      "first_seen": "2026-09-30T12:50:15+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/asi-se-veia-la-playa-de-necochea-cuando-la-antigua-rambla-dominaba-el-paisaje-de-la-costa.webp",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "“Siempre estuvo en nuestra idea hacer la fiesta. La fiesta se iba a hacer, sí o sí”",
-          "url": "https://necocheadigital.com/nota/119734/siempre-estuvo-en-nuestra-idea-hacer-la-fiesta-la-fiesta-se-iba-a-hacer-si-o-si/",
-          "published_at": null,
-          "first_seen": "2026-09-30T20:00:00.722691+00:00",
-          "category": null,
-          "image": null
+          "portal": "Diario Necochea",
+          "title": "Así se veía la Rambla de Necochea cuando brillaba en sus años de gloria",
+          "url": "https://diarionecochea.com/2026/09/30/asi-se-veia-la-playa-de-necochea-cuando-la-antigua-rambla-dominaba-el-paisaje-de-la-costa/",
+          "published_at": "2026-09-30T12:50:15+00:00",
+          "first_seen": "2026-09-30T20:24:41.833165+00:00",
+          "category": "Locales",
+          "image": "https://diarionecochea.com/wp-content/uploads/2026/09/asi-se-veia-la-playa-de-necochea-cuando-la-antigua-rambla-dominaba-el-paisaje-de-la-costa.webp"
         }
       ],
       "summary": {
         "paragraphs": [
-          "Después de dos suspensiones provocadas por las condiciones climáticas, la Fiesta de Quequén ya tiene nueva fecha . La celebración por el aniversario de la ciudad se realizará finalmente el sábado 7 y domingo 8 de noviembre en la plaza Hipólito Yrigoyen. La confirmación fue realizada por el delegado municipal de Quequén, Mario Wilgenhoff , durante una entrevista en “Voces de la Tarde” , programa que conduce Jorge Gómez por Radio Noticias Necochea 97.3 FM . “ Siempre estuvo en nuestra idea hacer la fiesta.",
-          "La fiesta se iba a hacer, sí o sí. Era cuestión de encontrar la fecha ”, señaló Wilgenhoff al referirse a las sucesivas postergaciones. El acto protocolar por el aniversario había podido realizarse el 3 de agosto , pero las actividades previstas para la celebración popular debieron suspenderse por el mal tiempo."
+          "Una conserva una escena de gran movimiento junto al mar y permite observar detalles de la vida cotidiana, desde los espacios para descansar hasta la circulación de los visitantes. Una fotografía histórica muestra una postal de la Rambla de Necochea en una época muy distinta a la actual, con la playa colmada de veraneantes, sombrillas, carpas y familias reunidas frente al mar.",
+          "En aquellos años, las personas disfrutaban de las vacaciones sin teléfonos celulares, sin la presencia de la inteligencia artificial y ni siquiera con acceso a internet. En la imagen se distingue la antigua Rambla Municipal, situada en la zona de avenida 2 y calle 83, una edificación que durante décadas ocupó un lugar central en la vida turística de la ciudad ."
         ],
-        "generated": "2026-09-30T20:00:34.454380+00:00"
+        "generated": "2026-09-30T20:27:23.996410+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-09-30T20:00:00.722691+00:00"
+      "ultima_impresion": "2026-09-30T20:24:41.833165+00:00"
     },
     {
-      "key": "karamawi abrio preventa carpas sombrillas mirada puesta verano",
-      "title": "Karamawi abrió la preventa de carpas y sombrillas con la mirada puesta en el verano",
-      "score": 1.1,
+      "key": "puerto quequen recibio primera vez buque velas rigidas propulsion eolica",
+      "title": "Puerto Quequén recibió por primera vez a un buque con velas rígidas de propulsión eólica",
+      "score": 0.628,
       "sources_count": 1,
-      "first_seen": "2026-09-30T20:00:00.722691+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/86b015b0bc5ee1b7ddeba53a2179adc2157d8305.jpg",
+      "first_seen": "2026-09-30T12:38:39+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/puerto-quequen-recibio-por-primera-vez-a-un-buque-con-velas-rigidas-de-propulsion-eolica.webp",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Karamawi abrió la preventa de carpas y sombrillas con la mirada puesta en el verano",
-          "url": "https://necocheadigital.com/nota/119733/karamawi-abrio-la-preventa-de-carpas-y-sombrillas-con-la-mirada-puesta-en-el-verano/",
-          "published_at": null,
-          "first_seen": "2026-09-30T20:00:00.722691+00:00",
-          "category": null,
-          "image": null
+          "portal": "Diario Necochea",
+          "title": "Puerto Quequén recibió por primera vez a un buque con velas rígidas de propulsión eólica",
+          "url": "https://diarionecochea.com/2026/09/30/puerto-quequen-recibio-por-primera-vez-a-un-buque-con-velas-rigidas-de-propulsion-eolica/",
+          "published_at": "2026-09-30T12:38:39+00:00",
+          "first_seen": "2026-09-30T20:24:41.833165+00:00",
+          "category": "Locales",
+          "image": "https://diarionecochea.com/wp-content/uploads/2026/09/puerto-quequen-recibio-por-primera-vez-a-un-buque-con-velas-rigidas-de-propulsion-eolica.webp"
         }
       ],
       "summary": {
         "paragraphs": [
-          "Septiembre es, para quienes explotan servicios turísticos de playa, el momento de comenzar a preparar la temporada de verano. En Karamawi , una de las concesiones ubicadas en el sector sudoeste del frente costero de Necochea, ese movimiento ya comenzó con tareas de mantenimiento, recuperación de instalaciones y, especialmente, el lanzamiento de la primera preventa de carpas y sombrillas para quienes quieran asegurarse desde ahora un lugar durante el verano.",
-          "César “Zurdo” González , integrante del grupo empresario a cargo de la concesión, explicó que esta primera etapa de comercialización se extenderá hasta el próximo 8 de octubre y estará dirigida especialmente a los clientes que ya concurrieron durante la temporada pasada. El valor establecido para esta primera preventa es de $1.200.000 por una unidad de sombra —carpa o sombrilla— desde diciembre hasta Semana Santa de 2027 , con estacionamiento incluido."
+          "La embarcación Santiago I amarró el domingo con 14.145 toneladas de fertilizante líquido y estrenó en la estación marítima local una tecnología de succión que permite ahorrar hasta un 15 % de combustible. Puerto Quequén recibió el domingo 27 de septiembre de 2026 al buque tanque y quimiquero Santiago I, una embarcación equipada con cuatro velas de succión eSAIL®, un sistema que utiliza la fuerza del viento para asistir al motor principal y reducir su consumo de combustible.",
+          "Noticia relacionadas Kicillof puso a un exfuncionario de Rojas al frente de Puerto Quequén 30 de septiembre de 2026 El histórico Teatro Auditórium será recorrido este viernes antes de la subasta judicial 30 de septiembre de 2026 El ingreso se produjo a las 20:00 y estuvo vinculado con una operación de 14.145 toneladas de UAN , según los datos difundidos sobre la actividad portuaria."
         ],
-        "generated": "2026-09-30T20:00:35.181810+00:00"
+        "generated": "2026-09-30T20:27:25.322456+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-09-30T20:00:00.722691+00:00"
+      "ultima_impresion": "2026-09-30T20:24:41.833165+00:00"
     },
     {
-      "key": "lluvia fin nino podria convertir fenomeno potente ultimos 40 anos primavera",
-      "title": "Lluvia sin fin: “El Niño” se podría convertir en el fenómeno más potente de los últimos 40 años esta primavera",
-      "score": 1.1,
+      "key": "robaron cobre instalacion gas hombre quedo retenido",
+      "title": "Robaron cobre de una instalación de gas y un hombre quedó retenido",
+      "score": 0.583,
       "sources_count": 1,
-      "first_seen": "2026-09-30T20:00:00.722691+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260929120950_whatsapp-image-2026-09-29-at-12-09-25.jpg",
+      "first_seen": "2026-09-30T11:44:39+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/09/robaron-cobre-de-una-instalacion-de-gas-y-un-hombre-quedo-retenido.webp",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Lluvia sin fin: “El Niño” se podría convertir en el fenómeno más potente de los últimos 40 años esta primavera",
-          "url": "https://necocheadigital.com/nota/119738/lluvia-sin-fin-el-nino-se-podria-convertir-en-el-fenomeno-mas-potente-de-los-ultimos-40-anos-esta-primavera/",
-          "published_at": null,
-          "first_seen": "2026-09-30T20:00:00.722691+00:00",
-          "category": null,
-          "image": null
+          "portal": "Diario Necochea",
+          "title": "Robaron cobre de una instalación de gas y un hombre quedó retenido",
+          "url": "https://diarionecochea.com/2026/09/30/robaron-cobre-de-una-instalacion-de-gas-y-un-hombre-quedo-retenido/",
+          "published_at": "2026-09-30T11:44:39+00:00",
+          "first_seen": "2026-09-30T20:24:41.833165+00:00",
+          "category": "Policiales",
+          "image": "https://diarionecochea.com/wp-content/uploads/2026/09/robaron-cobre-de-una-instalacion-de-gas-y-un-hombre-quedo-retenido.webp"
         }
       ],
       "summary": {
         "paragraphs": [
-          "Los efectos de un fenómeno de “El Niño” muy severo y que se potenciarían más en los próximos meses llegan a nuestro país durante la primavera y, de acuerdo con los pronósticos, se esperan más lluvias que las habituales para la mayor parte del país, particularmente, sobre el Litoral, lo que aumenta el riesgo de crecidas de los ríos e inundaciones. Según un informe al que tuvo acceso la Agencia Noticias Argentinas , se espera que se convierta en el fenómeno más potente registrado en las últimas cuatro décadas y se extenderá por lo menos hasta febrero de 2027.",
-          "“Venimos de un invierno en el que los efectos del Niño ya se habían empezado a sentir, con temperaturas en promedio más moderadas y con lluvias más intensas en varias regiones”, expresó Matilde Rusticucci, investigadora del CONICET y profesora emérita del Departamento de Ciencias de la Atmósfera y los Océanos de la Facultad de Ciencias Exactas y Naturales de la UBA."
+          "Vecinos habían visto a dos personas salir de una construcción y poco después se advirtió la falta de una pieza en el sector de calle 60. Durante la madrugada, vecinos alertaron sobre la presencia de dos hombres vestidos de negro y con capuchas que habían salido de una casa en construcción y se dirigían hacia el frente. Poco después, se conoció una denuncia por la sustracción del cobre de una instalación de gas.",
+          "Noticia relacionadas Alerta en Claraz: aprehendieron a un hombre que amenazó a una escuela con un aire comprimido 30 de septiembre de 2026 Hallaron al hombre desaparecido tendido y mojado dentro del Parque Miguel Lillo 29 de septiembre de 2026 El episodio tuvo lugar en el sector de calle 60, donde también se indicó que una persona había sustraído una pieza del medidor de gas. El propietario se comunicó con Gas Pampeana por la situación y se informó que el elemento faltante correspondía a una instalación de gas."
         ],
-        "generated": "2026-09-30T20:00:36.320416+00:00"
+        "generated": "2026-09-30T20:27:26.596706+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-09-30T20:00:00.722691+00:00"
-    },
-    {
-      "key": "intendente recibio coordinadora unicen analizar presente futuro sede quequen",
-      "title": "El Intendente recibió a la coordinadora de la UNICEN para analizar el presente y futuro de la sede Quequén",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-09-30T20:00:00.722691+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260929180242_29-09-foto-rojas-sureda.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "El Intendente recibió a la coordinadora de la UNICEN para analizar el presente y futuro de la sede Quequén",
-          "url": "https://necocheadigital.com/nota/119742/el-intendente-recibio-a-la-coordinadora-de-la-unicen-para-analizar-el-presente-y-futuro-de-la-sede-quequen/",
-          "published_at": null,
-          "first_seen": "2026-09-30T20:00:00.722691+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Sureda, quien asumió hace cuatro meses al frente de la unidad, compartió con el jefe comunal los principales lineamientos de trabajo que se vienen impulsando junto al equipo, con la mirada puesta en consolidar a la sede Quequén como un espacio de referencia para la formación, la investigación y la vinculación con el sector productivo. Uno de los aspectos destacados durante la reunión fue el perfil particular de la formación en logística que se dicta en Quequén, que incorpora una orientación en logística urbana que la diferencia de otras propuestas académicas similares del país.",
-          "“Ello requiere de personas que sepan de logística”, sostuvo la coordinadora, quien destacó además que los egresados de la carrera cuentan con posibilidades de inserción laboral tanto en empresas del país como en distintos lugares del mundo."
-        ],
-        "generated": "2026-09-30T20:00:37.427287+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-09-30T20:00:00.722691+00:00"
+      "ultima_impresion": "2026-09-30T20:24:41.833165+00:00"
     },
     {
       "key": "facultades da intendente emergencia transporte publico",
       "title": "Qué facultades da al Intendente la emergencia para el transporte público",
-      "score": 0.811,
+      "score": 0.516,
       "sources_count": 1,
       "first_seen": "2026-09-30T18:43:04+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/09/IMG_20260930_140611-scaled.webp",
@@ -334,16 +486,16 @@
           "TSN Necochea | ‹ VOLVER | Locales | concejo | Votación Qué facultades da al Intendente la emergencia para el transporte público Fue aprobada por mayoría en la sesión del Concejo Deliberante Por Redacción TSN 30/09/2026 · 03:43 PM Agregar TSN Necochea en El Concejo Deliberante aprobó por mayoría declarar, por 90 días, la emergencia económica y operativa del servicio de transporte público de pasajeros. Avalaron está propuesta los concejales de Fuerza Patria, UCR, La Libertad Avanza y de Avanza Necochea , mientras que la rechazaron los bloques de Nueva Necochea, ACT y Fuerza Patria MDF.",
           "En el proyecto señalan que “ Esto tiene como objetivo garantizar la continuidad de la prestación de los servicios a los usuarios y la conservación de las fuentes de empleo a los trabajadores”."
         ],
-        "generated": "2026-09-30T20:00:38.519892+00:00"
+        "generated": "2026-09-30T20:26:57.574873+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-09-30T20:00:00.722691+00:00",
-      "penalizacion": 0.752
+      "apariciones": 3,
+      "ultima_impresion": "2026-09-30T20:24:41.833165+00:00",
+      "penalizacion": 0.495
     },
     {
       "key": "casa obra teatro independiente lleva dos anos cuestionando mandatos mujeres",
       "title": "“La Casa”: una obra de teatro independiente que lleva dos años cuestionando los mandatos sobre las mujeres",
-      "score": 0.699,
+      "score": 0.444,
       "sources_count": 1,
       "first_seen": "2026-09-30T19:06:47+00:00",
       "image": "https://diarionq.com.ar/wp-content/uploads/2026/09/54ce2ade-dfaa-48e7-b800-68c66856b39e-edited.jpg",
@@ -363,16 +515,16 @@
           "La obra de Leonela Laborde y Milagros Cabrera se presentará este viernes a las 21 en la Usina Popular Cooperativa. El unipersonal, que reúne varios personajes, textos, proyecciones y objetos escénicos, aborda el trabajo doméstico, los mandatos y los roles que históricamente se asignaron a las mujeres. Después de dos años de recorrido por diferentes escenarios, La Casa llega este viernes a una nueva función en la Usina Popular Cooperativa, donde se presentará a las 21 .",
           "La obra nació del trabajo conjunto de Leonela Laborde y Milagros Cabrera, dos amigas y colegas que transformaron experiencias cotidianas en una propuesta teatral que invita a reflexionar sobre los roles asignados a las mujeres y las tareas vinculadas con el cuidado del hogar y la familia. “Es muy difícil sostener una obra tanto tiempo y más en teatro independiente”, señalaron durante una entrevista en Cerrando la Mañana ."
         ],
-        "generated": "2026-09-30T20:00:40.898026+00:00"
+        "generated": "2026-09-30T20:27:01.123039+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-09-30T20:00:00.722691+00:00",
-      "penalizacion": 0.752
+      "apariciones": 3,
+      "ultima_impresion": "2026-09-30T20:24:41.833165+00:00",
+      "penalizacion": 0.495
     },
     {
       "key": "viene fiesta aniversario necochea dio conocer cronograma actividades",
       "title": "Se viene la fiesta por el aniversario de Necochea y se dio a conocer el cronograma de actividades",
-      "score": 0.697,
+      "score": 0.443,
       "sources_count": 1,
       "first_seen": "2026-09-30T16:54:33+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2023/09/27-09-FOTO-ARCHIVO-Aniversario-Necochea-01.jpg",
@@ -392,16 +544,16 @@
           "TSN Necochea | ‹ VOLVER | Generales | Dardo Rocha | Agenda Se viene la fiesta por el aniversario de Necochea y se dio a conocer el cronograma de actividades Del sábado 10 al lunes 12 de octubre, los vecinos celebrarán los 145 años de la ciudad en la Plaza Dardo Rocha. Por Redacción TSN 30/09/2026 · 01:54 PM Agregar TSN Necochea en Hay fechas que se esperan con ganas y el aniversario de Necochea es, sin dudas, una de ellas.",
           "La Plaza Dardo Rocha volverá a ser el gran punto de encuentro para compartir en familia, disfrutar de música en vivo, recorrer ferias, comer algo rico y ser parte de las tradiciones que cada año reúnen a los necochenses."
         ],
-        "generated": "2026-09-30T20:00:41.651170+00:00"
+        "generated": "2026-09-30T20:27:02.214644+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-09-30T20:00:00.722691+00:00",
-      "penalizacion": 0.752
+      "apariciones": 3,
+      "ultima_impresion": "2026-09-30T20:24:41.833165+00:00",
+      "penalizacion": 0.495
     },
     {
       "key": "avanza recambio 472 luminarias proyectan nuevas obras infraestructura necochea",
       "title": "Avanza el recambio de 1.472 luminarias y se proyectan nuevas obras de infraestructura en Necochea",
-      "score": 0.691,
+      "score": 0.439,
       "sources_count": 1,
       "first_seen": "2026-09-30T18:59:32+00:00",
       "image": "https://diarionq.com.ar/wp-content/uploads/2026/09/a84b1b43-6db6-427a-af68-e38afc4950fb.jpg",
@@ -421,16 +573,16 @@
           "El secretario de Planeamiento, Obras y Servicios Públicos, Adrián Furno, repasó el avance del plan de iluminación, las obras de bacheo, la situación de la Terminal y el futuro del complejo Casino. También se refirió a la necesidad de articular entre Municipio, Provincia y Nación para concretar obras de mayor escala. El plan de modernización del alumbrado público continúa avanzando en Necochea y Quequén con una nueva etapa que contempla el recambio de 1.472 luminarias de sodio y mercurio por tecnología LED en distintos barrios.",
           "El secretario de Planeamiento, Obras y Servicios Públicos, Adrián Furno, explicó en Cerrando la Mañana que la obra forma parte del Fondo de Emergencia y Fortalecimiento de la Inversión Municipal (FEFIM) , financiado por la Provincia de Buenos Aires. El proyecto cuenta con un presupuesto oficial de $375 millones y forma parte de un plan de inversión de $625 millones que también incluye trabajos de bacheo."
         ],
-        "generated": "2026-09-30T20:00:44.655193+00:00"
+        "generated": "2026-09-30T20:27:04.912993+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-09-30T20:00:00.722691+00:00",
-      "penalizacion": 0.752
+      "apariciones": 3,
+      "ultima_impresion": "2026-09-30T20:24:41.833165+00:00",
+      "penalizacion": 0.495
     },
     {
       "key": "intensa agenda cultural proximos dias necochea",
       "title": "Una intensa agenda cultural para los próximos días en Necochea",
-      "score": 0.677,
+      "score": 0.431,
       "sources_count": 1,
       "first_seen": "2026-09-30T18:44:56+00:00",
       "image": null,
@@ -450,16 +602,16 @@
           "Presentaciones de libros, muestras fotográficas, el Salón Anual de Arte Ángel Murga y una nueva edición de “Después del Cole” forman parte de la programación. Además, se trabaja en la puesta en valor de la azotea del edificio para sumar un nuevo espacio destinado a actividades y encuentros. Presentaciones de libros, muestras, propuestas para chicos y una nueva edición del tradicional Salón Anual de Arte Ángel Ignacio Murga forman parte de la intensa agenda cultural prevista para los próximos días en Necochea.",
           "Como cada miércoles, Alberto Franco pasó por Esta Mañana para repasar las actividades de la Biblioteca Popular Andrés Ferreyra y el Centro Cultural de Necochea, además de adelantar algunos proyectos que se encuentran en marcha. Este miércoles, a las 18, se realizará una nueva jornada de “Después del Cole”, propuesta que se desarrolla en articulación con el Instituto Superior de Formación Docente y Técnica Nº 31."
         ],
-        "generated": "2026-09-30T20:00:47.433492+00:00"
+        "generated": "2026-09-30T20:27:08.065511+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-09-30T20:00:00.722691+00:00",
-      "penalizacion": 0.752
+      "apariciones": 3,
+      "ultima_impresion": "2026-09-30T20:24:41.833165+00:00",
+      "penalizacion": 0.495
     },
     {
       "key": "alejandro garcia presenta mi amiga muerte libro transformar dolor nueva mirada vida",
       "title": "Alejandro García presenta “Mi amiga la muerte”, un libro para transformar el dolor en una nueva mirada sobre la vida",
-      "score": 0.638,
+      "score": 0.406,
       "sources_count": 1,
       "first_seen": "2026-09-30T18:02:28+00:00",
       "image": "https://diarionq.com.ar/wp-content/uploads/2026/09/ebb72872-a4e9-4d60-aea2-a71f3e5c13cd.jpg",
@@ -479,16 +631,16 @@
           "El escritor necochense presentará el próximo 23 de octubre su sexto libro, una obra que reúne siete testimonios sobre experiencias cercanas a la muerte y procesos de duelo. “El propósito es aliviar un poco a todas esas personas que están pasando por un momento difícil”, explicó. La literatura puede convertirse en una herramienta para buscar respuestas, atravesar experiencias personales y también acompañar a otros en momentos difíciles.",
           "Ese es el camino que eligió Alejandro García , escritor necochense y trabajador vinculado al sector oleaginoso, quien el próximo 23 de octubre presentará su sexto libro, titulado Mi amiga la muerte. La obra nació a partir de una inquietud personal que García arrastra desde hace casi tres décadas y que estuvo marcada por distintas experiencias de pérdida."
         ],
-        "generated": "2026-09-30T20:00:50.520476+00:00"
+        "generated": "2026-09-30T20:27:10.372457+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-09-30T20:00:00.722691+00:00",
-      "penalizacion": 0.752
+      "apariciones": 3,
+      "ultima_impresion": "2026-09-30T20:24:41.833165+00:00",
+      "penalizacion": 0.495
     },
     {
       "key": "ciberdelincuencia sexual redes sociales importancia prevenir generar confianza hijos",
       "title": "Ciberdelincuencia sexual y redes sociales: la importancia de prevenir y generar confianza con los hijos",
-      "score": 0.627,
+      "score": 0.398,
       "sources_count": 1,
       "first_seen": "2026-09-30T17:48:56+00:00",
       "image": "https://diarionq.com.ar/wp-content/uploads/2026/09/4d474727-2886-40bc-ac27-914e4e95e3c5.jpg",
@@ -508,16 +660,16 @@
           "La licenciada en Criminalística Natalia Barneche abordó junto al criminólogo español José Navarro Esteve los riesgos que enfrentan niños y adolescentes en internet. Grooming, sexting, ciberacoso y extorsión fueron algunos de los temas analizados durante la entrevista.",
           "Como ocurre cada 15 días, la licenciada en Criminalística Natalia Barneche volvió a participar de Esta Mañana, por Multimedios NQ, para abordar temas vinculados con la criminalística y la prevención. En esta oportunidad, la columna contó con la participación, mediante una videollamada desde España, del criminólogo José Navarro Esteve , especialista en victimología, abuso sexual infantil y delitos vinculados con las redes sociales."
         ],
-        "generated": "2026-09-30T20:00:53.391713+00:00"
+        "generated": "2026-09-30T20:27:13.311032+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-09-30T20:00:00.722691+00:00",
-      "penalizacion": 0.752
+      "apariciones": 3,
+      "ultima_impresion": "2026-09-30T20:24:41.833165+00:00",
+      "penalizacion": 0.495
     },
     {
       "key": "aumentaron homicidios dolosos necochea 2025 tasa local supero promedio bonaerense",
       "title": "Aumentaron los homicidios dolosos en Necochea durante 2025 y la tasa local superó al promedio bonaerense",
-      "score": 0.62,
+      "score": 0.394,
       "sources_count": 1,
       "first_seen": "2026-09-30T15:30:11+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2023/10/f685x385-35918_73611_5050.jpg",
@@ -537,16 +689,16 @@
           "TSN Necochea | ‹ VOLVER | Locales | cifras | Estadisticas Aumentaron los homicidios dolosos en Necochea durante 2025 y la tasa local superó al promedio bonaerense El distrito registró siete víctimas fatales frente a las dos de 2024. Aunque cayeron los robos y hurtos totales, subieron los hechos agravados y los delitos contra la integridad sexual.",
           "Por Redacción TSN 30/09/2026 · 12:30 PM Móviles policiales Agregar TSN Necochea en El distrito de Necochea cerró el año 2025 con un total de siete víctimas de homicidios dolosos , lo que representa un incremento de cinco hechos con respecto a las dos muertes violentas registradas en 2024. De este modo, la tasa local trepó a 6,9 víctimas cada 100.000 habitantes , ubicándose por encima del promedio provincial."
         ],
-        "generated": "2026-09-30T20:00:54.506626+00:00"
+        "generated": "2026-09-30T20:27:14.427309+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-09-30T20:00:00.722691+00:00",
-      "penalizacion": 0.752
+      "apariciones": 3,
+      "ultima_impresion": "2026-09-30T20:24:41.833165+00:00",
+      "penalizacion": 0.495
     },
     {
       "key": "va ano registraron 990 mil casos enfermedad tipo influenza",
       "title": "En lo que va del año, se registraron más de 990 mil casos de enfermedad tipo influenza",
-      "score": 0.577,
+      "score": 0.367,
       "sources_count": 1,
       "first_seen": "2026-09-30T14:37:25+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/06/Gripe-resfrios-Bronquitis-12.webp",
@@ -566,16 +718,16 @@
           "TSN Necochea | ‹ VOLVER | Generales | enfermedades | Salud En lo que va del año, se registraron más de 990 mil casos de enfermedad tipo influenza Esta cifra representa el mayor número de notificaciones del período 2016–2026. También se notificaron 9.167 nuevos casos de neumonía con un total anual de 122.808.",
           "Por Redacción TSN 30/09/2026 · 11:37 AM La gripe es una de las enfermedades respiratorias. Fotografía: Agencia Noticias Argentinas/archivo Agregar TSN Necochea en El Boletín Epidemiológico Nacional (BEN) correspondiente a la semana epidemiológica (SE) 37 informó que, entre las SE 34 y 36, se notificaron 71.802 nuevos casos de enfermedad tipo influenza (ETI) y el total registrado en lo que va del año es de 992.803 casos , lo que representa el mayor número de notificaciones del período 2016–2026."
         ],
-        "generated": "2026-09-30T20:00:56.917108+00:00"
+        "generated": "2026-09-30T20:27:16.752591+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-09-30T20:00:00.722691+00:00",
-      "penalizacion": 0.752
+      "apariciones": 3,
+      "ultima_impresion": "2026-09-30T20:24:41.833165+00:00",
+      "penalizacion": 0.495
     },
     {
       "key": "inspeccion remises terminal todo tienen presentar titulares",
       "title": "Inspección de remises en la Terminal: todo lo que tienen que presentar los titulares",
-      "score": 0.568,
+      "score": 0.361,
       "sources_count": 1,
       "first_seen": "2026-09-30T14:27:01+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2023/09/09-06-FOTO-inspecc-obligatoria-remises2.jpeg",
@@ -595,127 +747,11 @@
           "TSN Necochea | ‹ VOLVER | Locales | controles | Transporte Inspección de remises en la Terminal: todo lo que tienen que presentar los titulares El trámite correspondiente al quinto bimestre se hará de 9 a 13. Exigen VTV al día, credenciales, higiene de la unidad y sistemas de seguridad activos para seguir prestando servicio. Por Redacción TSN 30/09/2026 · 11:27 AM Inspección de remises Agregar TSN Necochea en La Dirección de Transporte de la Municipalidad de Necochea convocó a todos los vehículos habilitados como remís a cumplir con la inspección obligatoria del quinto bimestre, que se realizará del lunes 5 al viernes 9 de octubre.",
           "​Los controles se llevarán a cabo de 9 a 13 horas en el estacionamiento de carga y descarga de la Terminal de Ómnibus (Avenida 58 y Jesuita Cardiel). ​ Documentación obligatoria a presentar: ​ Cédula Verde a nombre del titular de la habilitación. ​ VTV vigente como transporte público."
         ],
-        "generated": "2026-09-30T20:00:57.668240+00:00"
+        "generated": "2026-09-30T20:27:17.883354+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-09-30T20:00:00.722691+00:00",
-      "penalizacion": 0.752
-    },
-    {
-      "key": "nito escobar rumbo mundial ironman vida atravesada triatlon nuevo desafio hawai",
-      "title": "Nito Escobar, rumbo al Mundial de Ironman: una vida atravesada por el triatlón y un nuevo desafío en Hawái",
-      "score": 0.417,
-      "sources_count": 1,
-      "first_seen": "2026-09-30T12:54:25+00:00",
-      "image": null,
-      "articles": [
-        {
-          "portal": "Diario NQ",
-          "title": "Nito Escobar, rumbo al Mundial de Ironman: una vida atravesada por el triatlón y un nuevo desafío en Hawái",
-          "url": "https://diarionq.com.ar/nito-escobar-rumbo-al-mundial-de-ironman-una-vida-atravesada-por-el-triatlon-y-un-nuevo-desafio-en-hawai/",
-          "published_at": "2026-09-30T12:54:25+00:00",
-          "first_seen": "2026-09-30T19:44:19.194187+00:00",
-          "category": "Deportes",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El experimentado triatleta necochense se prepara para cumplir uno de los grandes sueños de su trayectoria deportiva: participar del Campeonato Mundial de Ironman en Hawái. Será el primer necochense en competir en un Mundial de larga distancia y llegará a la cita después de haber completado 12 Ironman en distintos lugares del mundo y haber competido en cinco continentes. Nito Escobar está a punto de vivir uno de los momentos más importantes de su extensa trayectoria deportiva.",
-          "El próximo desafío será nada menos que el Mundial de Ironman de Hawái, la competencia que reúne a algunos de los mejores triatletas de larga distancia del mundo y que representa la máxima aspiración para quienes practican esta disciplina. En diálogo con Zoom El Deportivo, Escobar contó detalles de su preparación, repasó sus casi dos décadas vinculadas al Ironman y habló de las emociones que genera llegar a una competencia de semejante magnitud."
-        ],
-        "generated": "2026-09-30T20:01:00.768217+00:00"
-      },
-      "apariciones": 2,
-      "ultima_impresion": "2026-09-30T20:00:00.722691+00:00",
-      "penalizacion": 0.752
-    },
-    {
-      "key": "corte suprema anula medida cautelar habilita venta tierras rurales extranjeros argentina",
-      "title": "La Corte Suprema anula la medida cautelar y habilita la venta de tierras rurales a extranjeros en Argentina",
-      "score": 0.356,
-      "sources_count": 1,
-      "first_seen": "2026-09-30T11:01:28+00:00",
-      "image": null,
-      "articles": [
-        {
-          "portal": "Necochea News",
-          "title": "La Corte Suprema anula la medida cautelar y habilita la venta de tierras rurales a extranjeros en Argentina",
-          "url": "https://necocheanews.com.ar/corte-suprema-anula-la-medida-cautelar-y-habilita-la-venta-de-tierras-rurales-a-extranjeros-en-argentina/",
-          "published_at": "2026-09-30T11:01:28+00:00",
-          "first_seen": "2026-09-30T19:44:19.194187+00:00",
-          "category": "NACIONALES",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La máxima autoridad judicial revocó la restricción que impedía la compra de parcelas agrícolas por parte de no residentes, reactivando el artículo 154 del DNU 70/2023 y abriendo el mercado agrario a la inversión extranjera. La decisión se produce tras la polémica generada por el decreto de necesidad y urgencia 70/2023, firmado por el presidente Javier Milei, que había derogado la Ley de Tierras Rurales.",
-          "La medida cautelar que impedía la venta de tierras a extranjeros había sido mantenida por la Cámara Federal de La Plata, que había declarado inconstitucional la parte del decreto que regulaba la propiedad de la tierra. En una resolución de ocho páginas, los magistrados Horacio Rosatti, Ricardo Lorenzetti y Carlos Rosenkrantz argumentaron que la acción de amparo colectiva presentada por el Centro de Excombatientes Islas Malvinas de La Plata (CECIM) carecía de legitimación."
-        ],
-        "generated": "2026-09-30T20:01:01.818408+00:00"
-      },
-      "apariciones": 2,
-      "ultima_impresion": "2026-09-30T20:00:00.722691+00:00",
-      "penalizacion": 0.752
-    },
-    {
-      "key": "peregrinacion lujan 2026 fecha clima todo hay saber",
-      "title": "Peregrinación a Luján 2026: fecha, clima y todo lo que hay que saber",
-      "score": 0.353,
-      "sources_count": 1,
-      "first_seen": "2026-09-30T10:56:25+00:00",
-      "image": null,
-      "articles": [
-        {
-          "portal": "Necochea News",
-          "title": "Peregrinación a Luján 2026: fecha, clima y todo lo que hay que saber",
-          "url": "https://necocheanews.com.ar/52a-peregrinacion-juvenil-a-lujan-se-realizara-los-3-y-4-de-octubre-de-2026/",
-          "published_at": "2026-09-30T10:56:25+00:00",
-          "first_seen": "2026-09-30T19:44:19.194187+00:00",
-          "category": "NACIONALES",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "*La caminata de 60 km partirá de Liniers y concluirá en la Basílica de Luján bajo el lema “Madre, en tu abrazo nos reconocemos hermanos”, con temperaturas máximas de 20 °C y escasas probabilidades de lluvia.* La 52ª Peregrinación Juvenil a Luján tendrá lugar el sábado 3 y el domingo 4 de octubre. El recorrido, gratuito y de aproximadamente 60 kilómetros, iniciará en el barrio porteño de Liniers y terminará en la Basílica de Luján. El evento se desarrollará bajo el lema “Madre, en tu abrazo nos reconocemos hermanos”.",
-          "Desarrollo de la peregrinación La salida oficial será el sábado a las 10:00 h, cuando la imagen de la Virgen será trasladada desde el Santuario de San Cayetano. Para garantizar la seguridad de los miles de participantes, la organización dispondrá a lo largo del trayecto de puestos de hidratación, asistencia médica y acompañamiento."
-        ],
-        "generated": "2026-09-30T20:01:02.856284+00:00"
-      },
-      "apariciones": 2,
-      "ultima_impresion": "2026-09-30T20:00:00.722691+00:00",
-      "penalizacion": 0.752
-    },
-    {
-      "key": "anses automatiza verificacion escolaridad liberar 20 retenido auh partir noviembre",
-      "title": "ANSES automatiza la verificación de escolaridad para liberar el 20 % retenido de la AUH a partir del 1 de noviembre",
-      "score": 0.339,
-      "sources_count": 1,
-      "first_seen": "2026-09-30T10:27:02+00:00",
-      "image": null,
-      "articles": [
-        {
-          "portal": "Necochea News",
-          "title": "ANSES automatiza la verificación de escolaridad para liberar el 20 % retenido de la AUH a partir del 1 de noviembre",
-          "url": "https://necocheanews.com.ar/anses-automatiza-la-verificacion-de-escolaridad-para-liberar-el-20-retenido-de-la-auh-a-partir-del-1-de-noviembre/",
-          "published_at": "2026-09-30T10:27:02+00:00",
-          "first_seen": "2026-09-30T19:44:19.194187+00:00",
-          "category": "NACIONALES",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "A partir del 1 de noviembre de 2026 la Administración Nacional de la Seguridad Social (ANSES) dejará de exigir la Libreta AUH y comprobará automáticamente la condición educativa de los beneficiarios mediante información que la Secretaría de Educación remitirá al organismo. La nueva normativa, contenida en la Resolución 290/2026 publicada en el Boletín Oficial, establece que el 20 % de la Asignación Universal por Hijo (AUH) quedará disponible una vez que ANSES confirme el cumplimiento de los requisitos de escolaridad.",
-          "El intercambio de datos se realizará de forma segura entre la Secretaría de Educación del Ministerio de Capital Humano y la ANSES, abarcando tanto establecimientos públicos como privados que estén incorporados a la enseñanza oficial."
-        ],
-        "generated": "2026-09-30T20:01:03.768391+00:00"
-      },
-      "apariciones": 2,
-      "ultima_impresion": "2026-09-30T20:00:00.722691+00:00",
-      "penalizacion": 0.752
+      "apariciones": 3,
+      "ultima_impresion": "2026-09-30T20:24:41.833165+00:00",
+      "penalizacion": 0.495
     }
   ]
 }
