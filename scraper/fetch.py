@@ -22,7 +22,12 @@ from bs4 import BeautifulSoup
 
 from .config import SOURCES, USER_AGENT
 
-HEADERS = {"User-Agent": USER_AGENT}
+HEADERS = {
+    "User-Agent": USER_AGENT,
+    "Referer": "https://www.google.com/",
+    "Accept-Language": "es-ES,es;q=0.9,en-US;q=0.8,en;q=0.7",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+}
 
 MAX_ITEMS_PER_SOURCE = 40
 # Diario Necochea corta la conexion TLS a veces (SSLEOFError) sin que el
