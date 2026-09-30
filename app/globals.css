@@ -364,3 +364,32 @@ body::before {
 .chat-row button:disabled { opacity: 0.4; cursor: default; }
 .chat-hint { margin: 8px 0 0; font-size: 0.75rem; color: var(--muted); }
 .chat-notice { margin: 8px 0 0; font-size: 0.8rem; color: var(--magenta); }
+
+/* Barra de scroll del chat, con los colores de la pagina en vez de la gris del
+   navegador. Clase aparte y no .chat-list a proposito: esa ya existe y trae
+   margins propios para los mensajes, que aqui estan puestos en linea. */
+.chat-scroll::-webkit-scrollbar {
+  width: 10px;
+}
+
+.chat-scroll::-webkit-scrollbar-track {
+  background: #0e1320;
+  border: 2px solid #07090f;
+  border-radius: 8px;
+}
+
+.chat-scroll::-webkit-scrollbar-thumb {
+  background: #223051;
+  border: 2px solid #07090f;
+  border-radius: 8px;
+}
+
+.chat-scroll::-webkit-scrollbar-thumb:hover {
+  background: #00e5ff;
+}
+
+/* Firefox */
+.chat-scroll {
+  scrollbar-width: thin;
+  scrollbar-color: #223051 #0e1320;
+}

@@ -150,7 +150,7 @@ export default function Chat() {
           </p>
         )}
 
-      <ul ref={listRef} style={{ flex: "1 1 auto", minHeight: 60, maxHeight: 300, overflowY: "auto", background: "#07090f", padding: 10, borderRadius: 8, border: "1px solid #223051", listStyle: "none", margin: "0 0 12px" }}>
+      <ul ref={listRef} className="chat-scroll" style={{ flex: "1 1 auto", minHeight: 60, maxHeight: 300, overflowY: "auto", background: "#07090f", padding: 10, borderRadius: 8, border: "1px solid #223051", listStyle: "none", margin: "0 0 12px" }}>
         {messages.length === 0 && (
           <li style={{ color: "#7f8db0", fontSize: "0.85rem" }}>Todavía no hay mensajes.</li>
         )}
@@ -166,7 +166,7 @@ export default function Chat() {
 
           {email ? (
             <div style={{ fontSize: "0.8rem", color: "#7f8db0", margin: "0 0 8px" }}>
-              Conectado como <strong>{maskAuthor(email)}</strong>
+              Conectado como <strong>{nickname || maskAuthor(email)}</strong>
               {" · "}
               <button onClick={logout} style={{ background: "none", border: "none", color: "#00e5ff", cursor: "pointer", padding: 0 }}>salir</button>
             </div>
