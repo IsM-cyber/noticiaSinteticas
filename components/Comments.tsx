@@ -1,9 +1,8 @@
 "use client";
 
-import { useCallback, useEffect, useState, useSyncExternalStore } from "react";
-import { getSession, subscribe, endSession, getToken, validate } from "@/lib/auth-store";
+import { useCallback, useEffect, useRef, useState, useSyncExternalStore } from "react";
+import { getSession, subscribe, startSession, endSession, getToken, validate } from "@/lib/auth-store";
 import { maskAuthor } from "@/lib/comments-client";
-import AuthPanel from "@/components/AuthPanel";
 
 type CommentItem = {
   id: number;
@@ -20,12 +19,24 @@ export default function Comments({ storyKey }: { storyKey: string }) {
   const sesion = useSyncExternalStore(subscribe, getSession, () => null);
   const email = sesion?.email ?? "";
   const [body, setBody] = useState("");
+  const [authEmail, setAuthEmail] = useState("");
+  const [authPass, setAuthPass] = useState("");
+  const [authNick, setAuthNick] = useState("");
+  const [authMode, setAuthMode] = useState<"login" | "signup">("login");
   const nickname = sesion?.nickname ?? "";
   const [notice, setNotice] = useState("");
   const [loading, setLoading] = useState(false);
   // El formulario de ingreso no esta siempre a la vista: aparece recien cuando se
   // intenta comentar sin sesion, no antes.
   const [showAuth, setShowAuth] = useState(false);
+  const nickRef = useRef<HTMLInputElement>(null);
+
+  // El panel se abre en el momento del intento, y el campo de nombre queda
+  // debajo de la vista: sin esto hay que scrollear a mano para encontrarlo. El
+  // foco lo trae de una y de paso lo deja listo para escribir.
+  useEffect(() => {
+    if (authMode === "signup" && showAuth) nickRef.current?.focus();
+  }, [authMode, showAuth]);
 
   const load = useCallback(async () => {
     try {
@@ -56,6 +67,31 @@ export default function Comments({ storyKey }: { storyKey: string }) {
     return () => clearInterval(id);
   }, [open, loaded, load]);
 
+  const submitAuth = async (mode: "login" | "signup") => {
+    // Aviso local: no tiene sentido pegarle al server sin nombre de usuario.
+    if (mode === "signup" && !authNick.trim()) {
+      setNotice("⚠️ Escribi un nombre de usuario (2 a 20 caracteres).");
+      return;
+    }
+    setLoading(true);
+    setNotice("");
+    try {
+      const res = await fetch(`/api/auth/${mode}`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          email: authEmail,
+          password: authPass,
+          nickname: mode === "signup" ? authNick : undefined,
+        }),
+      });
+      const data = await res.json();
+      if (!res.ok) { setNotice(`⚠️ ${data.error ?? "No se pudo completar"}`); return; }
+      if (!data.token) { setNotice("✅ Cuenta creada. Ahora iniciá sesión."); return; }
+      startSession({ email: data.email, nickname: data.nickname ?? "" }, data.token);
+    } catch { setNotice("⚠️ No se pudo conectar con el servidor."); }
+    setLoading(false);
+  };
 
   const submitComment = async () => {
     if (!body.trim()) return;
@@ -118,10 +154,31 @@ export default function Comments({ storyKey }: { storyKey: string }) {
             <p className="comments-auth-line">Conectado como <strong>{nickname || maskAuthor(email)}</strong> <button type="button" onClick={logout} className="comments-link">salir</button></p>
           )}
     
-      {!email && showAuth && (
-        <AuthPanel titulo="Ingresá para comentar" onClose={() => setShowAuth(false)} />
-      )}
-
+          {!email && showAuth && (
+            <div className="comments-auth">
+              <p>Ingresá para comentar:</p>
+              <input type="email" placeholder="tu@email.com" value={authEmail} autoComplete="email"
+                onChange={(e) => setAuthEmail(e.target.value)} />
+              <input type="password" placeholder="contraseña (mín. 6)" value={authPass} autoComplete="current-password"
+                onChange={(e) => setAuthPass(e.target.value)} />
+              {authMode === "signup" ? (
+                <>
+                  <input ref={nickRef} type="text" placeholder="nombre de usuario" value={authNick} maxLength={20}
+                    autoComplete="nickname" onChange={(e) => setAuthNick(e.target.value)} />
+                  <div className="comments-buttons">
+                    <button type="button" onClick={() => { setAuthMode("login"); setNotice(""); }} disabled={loading}>Volver</button>
+                    <button type="button" onClick={() => void submitAuth("signup")} disabled={loading}>Crear cuenta</button>
+                  </div>
+                </>
+              ) : (
+                <div className="comments-buttons">
+                  <button type="button" onClick={() => void submitAuth("login")} disabled={loading}>Entrar</button>
+                  <button type="button" onClick={() => { setAuthMode("signup"); setNotice(""); }} disabled={loading}>Crear cuenta</button>
+                </div>
+              )}
+            </div>
+          )}
+    
           <div className="comments-auth">
             <textarea rows={3} placeholder="Comentario..." value={body} maxLength={1000}
               onChange={(e) => setBody(e.target.value)} />
