@@ -26,6 +26,18 @@ def _jaccard(a: set[str], b: set[str]) -> float:
     return len(a & b) / len(union) if union else 0.0
 
 
+def _heredar_contadores(previous: dict | None, story: dict) -> None:
+    """La noticia nueva toma de la vieja cuántas veces salió y cuándo.
+
+    Sin esto, cambiarle el titular a una noticia reiniciaría su cuenta de
+    apariciones y volvería a la portada como si fuera nueva.
+    """
+    if not previous:
+        return
+    story["apariciones"] = previous.get("apariciones") or 0
+    story["ultima_impresion"] = previous.get("ultima_impresion")
+
+
 def inherit_keys(new_stories: list[dict], old_stories: list[dict] | None) -> list[dict]:
     """A cada noticia nueva le reutiliza la clave de la noticia vieja más
     parecida, si el solapamiento supera el umbral. Una clave vieja solo
@@ -44,6 +56,7 @@ def inherit_keys(new_stories: list[dict], old_stories: list[dict] | None) -> lis
     if not old:
         return new_stories
 
+    old_raw = {s.get("key"): s for s in old_stories if s.get("key")}
     old_by_key = {o["key"] for o in old}
     used_old_keys: set[str] = set()
 
@@ -53,6 +66,7 @@ def inherit_keys(new_stories: list[dict], old_stories: list[dict] | None) -> lis
 
         if key in old_by_key and key not in used_old_keys:
             used_old_keys.add(key)
+            _heredar_contadores(old_raw.get(key), story)
             continue
 
         best_key, best_score = None, 0.0
@@ -66,5 +80,6 @@ def inherit_keys(new_stories: list[dict], old_stories: list[dict] | None) -> lis
         if best_key and best_score >= CONTINUITY_THRESHOLD:
             used_old_keys.add(best_key)
             story["key"] = best_key
+            _heredar_contadores(old_raw.get(best_key), story)
 
     return new_stories
