@@ -82,40 +82,25 @@ export function getToken(): string {
   return token;
 }
 
-/**
- * Valida el token guardado contra el servidor y publica la sesion.
- * Si el token no sirve, cierra la sesion en todos los componentes.
-    /**
-     * Sincroniza entre pestanas y ventanas.
-     *
-     * La sesion vive en una variable de modulo, y cada pestana del navegador
-     * carga su propia copia: sin esto, iniciar sesion en el chat dejaba a los
-     * comentarios de otra pestana mostrando el formulario de ingreso, con el
-     * token ya guardado en localStorage pero la pantalla vieja.
-     *
-     * El evento "storage" solo se dispara en las OTRAS pestanas (en la que
-     * escribio no se dispara nunca), asi que alcanza con escucharlo y volver
-     * a validar contra el servidor.
-     */
-    if (typeof window !== "undefined") {
-      window.addEventListener("storage", (e) => {
-        if (e.key !== TOKEN_KEY) return;
-        const nuevo = e.newValue ?? "";
-        if (nuevo === token) return;
-        if (!nuevo) {
-          endSession();
-          return;
-        }
-        token = nuevo;
-        void validate();
+        /**
+         * Valida el token guardado contra el servidor y publica la sesion.
+         *
+         * Todas las llamadas comparten la misma peticion: la pagina monta 29 cajas
+         * de comentarios mas el chat, y cada una validaba por su cuenta. Eso son 30
+         * peticiones identicas en paralelo al cargar, todas escribiendo sobre el
+         * mismo estado. Con una sola vez alcanza y sobra.
+         */
+        let enCurso: Promise<boolean> | null = null;
+
+    export function validate(): Promise<boolean> {
+      if (enCurso) return enCurso;
+      enCurso = validar().finally(() => {
+        enCurso = null;
       });
+      return enCurso;
     }
-    
-    /**
-     * Valida el token guardado contra el servidor y publica la sesion.
-     * Si el token no sirve, cierra la sesion en todos los componentes.
-     */
-    export async function validate(): Promise<boolean> {
+
+    async function validar(): Promise<boolean> {
       // Se lee siempre de localStorage y no de la variable de modulo: si otra
       // pestana acaba de escribir un token distinto, aca todavia puede seguir
       // el viejo y la validacion daria un falso negativo.
@@ -125,7 +110,12 @@ export function getToken(): string {
       } catch {
         t = "";
       }
-      token = t;
+          // OJO: aca NO se escribe la variable de modulo "token". Esta validacion
+          // tarda, y para cuando responde la sesion ya puede haber cambiado: alguien
+          // salio y entro con otro usuario. Escribirla aca volvia a colar el token
+          // viejo, y la pantalla decia una cosa mientras las peticiones de los
+          // comentarios iban con la otra. El token se escribe recien en startSession,
+          // que ya checkea que el token guardado siga siendo el mismo.
       if (!t) {
         endSession();
         return false;
