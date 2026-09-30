@@ -25,8 +25,12 @@ from .config import SOURCES, USER_AGENT
 HEADERS = {"User-Agent": USER_AGENT}
 
 MAX_ITEMS_PER_SOURCE = 40
-RETRY_ATTEMPTS = 2
-RETRY_BACKOFF_S = 2.0
+# Diario Necochea corta la conexion TLS a veces (SSLEOFError) sin que el
+# sitio este caido: responde 200 al rato. Con 2 intentos y 2s de espera no
+# llegaba a recuperarse y la fuente se perdia entera. Con 4 intentos y
+# espera de 3s, 6s y 9s aguanta esos cortes sin resignarse.
+RETRY_ATTEMPTS = 4
+RETRY_BACKOFF_S = 3.0
 POLITE_SLEEP_S = 0.4
 
 JINA_PREFIX = "https://r.jina.ai/"   # lector gratuito que trae páginas por su propia IP
@@ -95,7 +99,8 @@ def _get(url: str) -> requests.Response:
         except Exception:
             if attempt == RETRY_ATTEMPTS - 1:
                 raise
-            time.sleep(RETRY_BACKOFF_S)
+            # espera creciente entre intentos: 3s, 6s, 9s
+            time.sleep(RETRY_BACKOFF_S * (attempt + 1))
     raise RuntimeError("sin reintentos disponibles")  # no debería pasar
 
 RSC_CHUNK_RE = re.compile(r'self\.__next_f\.push\(\[1,"(.*?)"\]\)</script>', re.S)
