@@ -29,7 +29,7 @@ def _falla_veces(n, error=None):
     """Devuelve una funcion get que falla las primeras n llamadas."""
     llamadas = {"n": 0}
 
-    def get(url, headers=None, timeout=None):
+    def get(url, headers=None, timeout=None, params=None):
         llamadas["n"] += 1
         if llamadas["n"] <= n:
             raise (error or requests.ConnectionError("corte de TLS"))
@@ -93,7 +93,7 @@ def test_reintenta_un_503(monkeypatch, sin_dormir):
     """Los 5xx tambien se reintentan, como los 403 y 429 de siempre."""
     estados = iter([503, 503, 200])
 
-    def get(url, headers=None, timeout=None):
+    def get(url, headers=None, timeout=None, params=None):
         return _FakeResponse(next(estados))
 
     monkeypatch.setattr(fetch.requests, "get", get)

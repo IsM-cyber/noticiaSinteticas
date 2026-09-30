@@ -20,12 +20,12 @@ SOURCES = [
     },
     {
         "name": "Diario Necochea",
-        "type": "html",
+        # Antes raspaba la portada y se caia seguido: un CDN que entrega el
+        # HTML a medias deja 0 articulos sin avisar. El tema es WordPress, asi
+        # que va por la API: JSON con fecha GMT real, imagen y cuerpo.
+        "type": "wpjson",
         "url": "https://diarionecochea.com",
         "weight": 1.2,
-        "article_selector": "article.jeg_post",
-        "title_selector": "h3.jeg_post_title a, h2.jeg_post_title a",
-        "body_selector": "div.entry-content",
     },
     {
         "name": "Necochea Digital",

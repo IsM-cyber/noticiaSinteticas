@@ -88,11 +88,11 @@ def _jina_listing(source: dict, url: str) -> list[dict]:
     return out
 
 
-def _get(url: str) -> requests.Response:
+def _get(url: str, params: dict | None = None) -> requests.Response:
     """GET con reintento automático ante bloqueos (403/429/5xx)."""
     for attempt in range(RETRY_ATTEMPTS):
         try:
-            resp = requests.get(url, headers=HEADERS, timeout=25)
+            resp = requests.get(url, headers=HEADERS, timeout=25, params=params)
             if resp.status_code in (403, 429) or resp.status_code >= 500:
                 raise requests.HTTPError(f"HTTP {resp.status_code}", response=resp)
             return resp
@@ -125,6 +125,8 @@ def fetch_source(source: dict) -> list[dict]:
     try:
         if kind == "rss":
             return _fetch_rss(source)
+        if kind == "wpjson":
+            return _fetch_wpjson(source)
         if kind == "html":
             return _fetch_html(source)
         if kind == "rsc":
@@ -191,6 +193,82 @@ def _body_from_feed(entry) -> str | None:
     if entry.get("description"):
         return entry["description"]
     return None
+
+
+def _fetch_wpjson(source: dict) -> list[dict]:
+    """WordPress REST API: estructura en vez de HTML.
+
+    Es la fuente que mas se caia. Raspando la portada, un CDN que entrega la
+    pagina a medias deja 0 articulos sin avisar. La API devuelve JSON con fecha
+    GMT real, imagen destacada y cuerpo, y no depende de que las clases del
+    tema sigan como estaban.
+    """
+    url = source["url"].rstrip("/") + "/wp-json/wp/v2/posts"
+    try:
+        resp = _get(url, params={"per_page": MAX_ITEMS_PER_SOURCE, "_embed": "1"})
+        resp.raise_for_status()
+        posts = resp.json()
+    except Exception:
+        if source.get("jina_fallback"):
+            items = _jina_listing(source, source["url"])
+            if items:
+                print(f"  [jina] {source['name']}: {len(items)} articulos via r.jina.ai")
+                return items
+        raise
+    if not isinstance(posts, list):
+        raise ValueError(f"la API devolvio {type(posts).__name__}, no una lista")
+
+    out = []
+    for post in posts:
+        title = _clean((post.get("title") or {}).get("rendered"))
+        link = (post.get("link") or "").strip()
+        if not title or not link:
+            continue
+
+        # date_gmt viene sin zona ("2026-09-30T13:55:20"). El agrupador
+        # mezcla fechas de distintas fuentes y las resta entre si: si una
+        # llega sin zona y otra con zona, revienta el scraper entero. Va
+        # siempre en UTC, que es lo que dice el nombre del campo.
+        published = post.get("date_gmt") or post.get("date")
+        if published:
+            try:
+                momento = dt.datetime.fromisoformat(
+                    str(published).replace("Z", "+00:00")
+                )
+                if momento.tzinfo is None:
+                    momento = momento.replace(tzinfo=dt.timezone.utc)
+                published = momento.isoformat()
+            except ValueError:
+                published = None
+        else:
+            published = None
+
+        category = None
+        terms = (post.get("_embedded") or {}).get("wp:term") or []
+        if terms and isinstance(terms[0], list) and terms[0]:
+            category = _clean(terms[0][0].get("name") or "")
+
+        image = None
+        media = (post.get("_embedded") or {}).get("wp:featuredmedia") or []
+        if media and isinstance(media[0], dict):
+            image = media[0].get("source_url") or None
+
+        body = (post.get("excerpt") or {}).get("rendered") or ""
+        content = (post.get("content") or {}).get("rendered") or ""
+        if len(content) > len(body):
+            body = content
+        texto = _clean(re.sub(r"<[^>]+>", " ", body))[:1200]
+
+        out.append({
+            "portal": source["name"],
+            "title": title,
+            "url": link,
+            "published_at": published,
+            "category": category,
+            "body": texto or None,
+            "image": image,
+        })
+    return out
 
 
 def _fetch_html(source: dict) -> list[dict]:
