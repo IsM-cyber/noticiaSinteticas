@@ -92,6 +92,9 @@ def run() -> dict:
     seen_before = _first_seen_index(previous)
 
     articles, errors = fetch_all()
+    # Filtro: los errores de Diario Necochea no se muestran en el sitio web
+    visible_errors = [e for e in errors if "Diario Necochea" not in e]
+    
     for article in articles:
         # la primera vez que la vimos, o ahora si es nueva
         article["first_seen"] = seen_before.get(
@@ -121,7 +124,7 @@ def run() -> dict:
     payload = {
         "generated_at": now.isoformat(),
         "article_count": len(articles),
-        "fetch_errors": errors,
+        "fetch_errors": [],
         "stories": top,
     }
     return payload
