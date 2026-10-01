@@ -1,7 +1,22 @@
 import { loadNews, timeAgo } from "@/lib/stories";
 import { SITE_NAME_PARTS, SITE_TAGLINE, SITE_FOOTNOTE } from "@/lib/site";
+import { Metadata } from "next";
 import Comments from "@/components/Comments";
 import Chat from "@/components/Chat";
+
+export async function generateMetadata(): Promise<Metadata> {
+  const data = await loadNews();
+  const title = `${SITE_NAME_PARTS.join(" ")} - ${SITE_TAGLINE}`;
+  return {
+    title,
+    description: `Resumen de noticias de Necochea actualizado hace ${timeAgo(data.generated_at)}. ${data.article_count} artículos analizados.`,
+    openGraph: {
+      title,
+      description: `Las noticias más relevantes de hoy en Necochea.`,
+      type: "website",
+    },
+  };
+}
 
 export const dynamic = "force-dynamic";
 
