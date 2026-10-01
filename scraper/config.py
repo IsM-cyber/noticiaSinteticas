@@ -19,16 +19,6 @@ SOURCES = [
         "weight": 1.3,
     },
     {
-        "name": "Diario Necochea",
-        # Antes raspaba la portada y se caia seguido: un CDN que entrega el
-        # HTML a medias deja 0 articulos sin avisar. El tema es WordPress, asi
-        # que va por la API: JSON con fecha GMT real, imagen y cuerpo.
-        "type": "wpjson",
-        "url": "https://diarionecochea.com",
-        "weight": 1.2,
-        "jina_fallback": True,
-    },
-    {
         "name": "Necochea Digital",
         "type": "html",
         "url": "https://necocheadigital.com",
