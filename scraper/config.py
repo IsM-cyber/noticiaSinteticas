@@ -26,6 +26,7 @@ SOURCES = [
         "type": "wpjson",
         "url": "https://diarionecochea.com",
         "weight": 1.2,
+        "jina_fallback": True,
     },
     {
         "name": "Necochea Digital",
@@ -57,6 +58,7 @@ SOURCES = [
         "type": "rss",
         "url": "https://nden.com.ar/rss",
         "weight": 1.0,
+        "jina_fallback": True,
     },
     {
         "name": "Necochea News",
