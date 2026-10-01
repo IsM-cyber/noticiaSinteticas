@@ -1,13 +1,51 @@
 {
-  "generated_at": "2026-10-01T15:00:00.798990+00:00",
+  "generated_at": "2026-10-01T15:30:01.053613+00:00",
   "article_count": 175,
   "fetch_errors": [],
   "stories": [
     {
+      "key": "transporte concejo deliberante refrendo prorroga 150 dias",
+      "title": "Transporte: el Concejo Deliberante refrendó la prórroga por 150 días",
+      "score": 2.918,
+      "sources_count": 2,
+      "first_seen": "2026-10-01T15:10:11+00:00",
+      "image": "https://cdnartic.ar/87tRClUvFMDbNQR_QFchXWjlPy0=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/10/comision_transporte.webp",
+      "articles": [
+        {
+          "portal": "Ecos Diarios",
+          "title": "Transporte: el Concejo Deliberante refrendó la prórroga por 150 días",
+          "url": "https://elecos.com.ar/transporte-el-concejodeliberante-refrendo-la-prorroga-por-150-dias",
+          "published_at": "2026-10-01T15:10:11+00:00",
+          "first_seen": "2026-10-01T15:30:01.053613+00:00",
+          "category": "14",
+          "image": "https://cdnartic.ar/87tRClUvFMDbNQR_QFchXWjlPy0=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/10/comision_transporte.webp"
+        },
+        {
+          "portal": "Necochea Digital",
+          "title": "El Concejo Deliberante declaró la Emergencia del Transporte Público por 90 días",
+          "url": "https://necocheadigital.com/nota/119752/el-concejo-deliberante-declaro-la-emergencia-del-transporte-publico-por-90-dias/",
+          "published_at": null,
+          "first_seen": "2026-10-01T15:30:01.053613+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Prohibición de cuidacoches y limpiaparabrisas Por iniciativa original de La Libertad Avanza —y con el respaldo de la ACT, la UCR, Fuerza Patria y Avanza Necochea—, se aprobó la ordenanza que prohíbe el trabajo informal de cuidacoches (comúnmente denominados «trapitos») y la limpieza de parabrisas y ventanillas en semáforos. Alcance e intenciones: La medida busca erradicar la actividad en la vía pública, un tema que generó debates en comisiones sobre la situación social de quienes la realizan.",
+          "Excepción contemplada: El Departamento Ejecutivo quedará facultado para otorgar autorizaciones precarias y excepcionales para el cuidado voluntario de vehículos estacionados, siempre que cuente con el consentimiento explícito del conductor o propietario. Pase al Ejecutivo: El expediente se remite al intendente Arturo Rojas para su promulgación o veto."
+        ],
+        "generated": "2026-10-01T15:31:16.821507+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-01T15:30:01.053613+00:00"
+    },
+    {
       "key": "accidente avenida 59 70 motociclista trasladado hospital",
       "title": "Accidente en avenida 59 y 70: un motociclista fue trasladado al hospital",
-      "score": 1.399,
-      "sources_count": 2,
+      "score": 1.24,
+      "sources_count": 3,
       "first_seen": "2026-10-01T12:31:45+00:00",
       "image": "https://cdnartic.ar/eQMqbf7ubHV2y-S8C8jGI3477Ow=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/10/accidente.webp",
       "articles": [
@@ -28,6 +66,15 @@
           "first_seen": "2026-10-01T14:00:00.370684+00:00",
           "category": "accidente",
           "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/IMG-20261001-WA0015.webp"
+        },
+        {
+          "portal": "Noticias de Necochea",
+          "title": "Fuerte choque en avenida 59 y 70: un motociclista terminó hospitalizado",
+          "url": "https://nden.com.ar/nota/38269/fuerte-choque-en-avenida-59-y-70-un-motociclista-termino-hospitalizado",
+          "published_at": "2026-10-01T15:22:00+00:00",
+          "first_seen": "2026-10-01T15:30:01.053613+00:00",
+          "category": null,
+          "image": "http://nden.com.ar/uploads/noticias/5/2026/10/0c5704569b267342cdafdc81b78ec993b2441118.jpg"
         }
       ],
       "summary": {
@@ -35,16 +82,45 @@
           "TSN Necochea | ‹ VOLVER | Locales | accidente | Siniestro vial Un motociclista fue hospitalizado tras un choque en avenida 59 y 70 El conductor de una moto debió ser asistido y trasladado al Hospital Municipal luego de colisionar contra una camioneta. En el lugar intervinieron Tránsito, Policía y personal del SAME. Por Redacción TSN 01/10/2026 · 10:57 AM Agregar TSN Necochea en Un motociclista debió ser trasladado al Hospital Municipal Doctor Emilio Ferreyra tras protagonizar un fuerte accidente de tránsito en la intersección de avenida 59 y calle 70 .",
           "​Por causas que aún se intentan establecer, una motocicleta Brava 110 cc colisionó contra una camioneta Ford EcoSport . Como consecuencia del golpe, el conductor del rodado menor sufrió heridas y fue asistido en el lugar por el SAME , que posteriormente dispuso su traslado al nosocomio local."
         ],
-        "generated": "2026-10-01T15:00:54.106258+00:00"
+        "generated": "2026-10-01T15:30:57.512596+00:00"
       },
-      "apariciones": 3,
-      "ultima_impresion": "2026-10-01T15:00:00.798990+00:00",
-      "penalizacion": 0.55
+      "apariciones": 4,
+      "ultima_impresion": "2026-10-01T15:30:01.053613+00:00",
+      "penalizacion": 0.303
+    },
+    {
+      "key": "extendieron vigencia moratoria municipal 18 diciembre",
+      "title": "Extendieron la vigencia de la moratoria municipal hasta el 18 de diciembre",
+      "score": 1.188,
+      "sources_count": 1,
+      "first_seen": "2026-10-01T15:22:29+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2023/09/06-01-FOTO-moratoria-1021x580-1.jpg",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Extendieron la vigencia de la moratoria municipal hasta el 18 de diciembre",
+          "url": "https://tsnnecochea.com.ar/generales/extendieron-la-vigencia-de-la-moratoria-municipal-hasta-el-18-de-diciembre-238533/",
+          "published_at": "2026-10-01T15:22:29+00:00",
+          "first_seen": "2026-10-01T15:30:01.053613+00:00",
+          "category": "agencia",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2023/09/06-01-FOTO-moratoria-1021x580-1.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Generales | agencia | Recaudación Extendieron la vigencia de la moratoria municipal hasta el 18 de diciembre Así lo comunicó el municipio este jueves. Además, ya opera el primer vencimiento del anticipo/cuota 10 de la Tasa por Servicios Urbanos y Rurales, cuyo pago en término cuenta con una bonificación del 30%.",
+          "Por Redacción TSN 01/10/2026 · 12:22 PM Agregar TSN Necochea en La Municipalidad de Necochea informa, a través de la Agencia de Recaudación, que ha sido prorrogado el Régimen de Recuperación de Deudas y Facilidades de Pago hasta el 18 de diciembre de 2026 , inclusive."
+        ],
+        "generated": "2026-10-01T15:32:02.047630+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-01T15:30:01.053613+00:00"
     },
     {
       "key": "quien piloto apunalado vuelo flydubai salvo tripulacion",
       "title": "Quién es el piloto que fue apuñalado durante un vuelo de Flydubai y salvó a la tripulación",
-      "score": 1.189,
+      "score": 1.14,
       "sources_count": 1,
       "first_seen": "2026-10-01T14:53:22+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/10/quien-es-el-piloto-que-fue-apunalado-durante-un-vuelo-de-flydubai-y-salvo-a-la-tripulacion.webp",
@@ -64,16 +140,16 @@
           "El capitán Smit Machchhar fue herido varias veces durante el vuelo FZ1073, logró abrir la puerta de la cabina y permitió que pasajeros redujeran al presunto atacante. El primer ministro de Israel, Benjamin Netanyahu, calificó de “verdadero héroe” al piloto indio Smit Machchhar, quien fue apuñalado por su copiloto durante el vuelo FZ1073 de Flydubai, que debió aterrizar de emergencia en Arabia Saudita.",
           "El piloto, pese a sus heridas, logró abrir la puerta de la cabina y permitió que pasajeros y tripulantes redujeran al atacante. Noticia relacionadas Un piloto apuñaló a otro durante un vuelo de Dubái a Tel Aviv y el avión aterrizó de emergencia 30 de septiembre de 2026 Cristina Kirchner presentó un planteo ante la ONU para revisar su condena en la causa Vialidad 29 de septiembre de 2026 “Mi saludo al piloto indio Capitán Smit Machchhar por su extraordinario valor ."
         ],
-        "generated": "2026-10-01T15:02:22.282789+00:00"
+        "generated": "2026-10-01T15:32:37.133205+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-01T15:00:00.798990+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-10-01T15:30:01.053613+00:00",
+      "penalizacion": 1.0
     },
     {
       "key": "pronostico trimestral smn esperan lluvias superiores promedio fin ano",
       "title": "Pronóstico trimestral del SMN: se esperan lluvias superiores al promedio hasta fin de año",
-      "score": 1.169,
+      "score": 1.121,
       "sources_count": 1,
       "first_seen": "2026-10-01T14:41:14+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2024/06/GRANIZO-03-190037_600x315.jpg",
@@ -93,16 +169,342 @@
           "TSN Necochea | ‹ VOLVER | Locales | El Niño | El clima Pronóstico trimestral del SMN: se esperan lluvias superiores al promedio hasta fin de año La región del Litoral (más alta probabilidad), oeste de Santa Fe, Córdoba, centro-sur de Cuyo, La Pampa, oeste de Buenos Aires y noreste de Patagonia serán las zonas más afectadas por las precipitaciones.",
           "Por Redacción TSN 01/10/2026 · 11:41 AM Alerta del Servicio Meteorológico Nacional Agregar TSN Necochea en El Servicio Meteorológico Nacional anticipó en su Pronóstico Climático Trimestral que se esperan “lluvias superiores a lo normal” para octubre, noviembre y diciembre de 2026 , lo que implica que “El Niño” continuará vigente en los próximos meses."
         ],
-        "generated": "2026-10-01T15:02:23.287477+00:00"
+        "generated": "2026-10-01T15:32:38.148344+00:00"
+      },
+      "apariciones": 2,
+      "ultima_impresion": "2026-10-01T15:30:01.053613+00:00",
+      "penalizacion": 1.0
+    },
+    {
+      "key": "micros oficialismo nueva necochea cuestiono oposicion tratamiento prorroga",
+      "title": "Micros: el oficialismo de Nueva Necochea cuestionó a la oposición por el tratamiento de la prórroga",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-01T15:30:01.053613+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/cdfd48cf9829a1b1fbe6c84128e80ef2850f572e.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Micros: el oficialismo de Nueva Necochea cuestionó a la oposición por el tratamiento de la prórroga",
+          "url": "https://necocheadigital.com/nota/119758/micros-el-oficialismo-de-nueva-necochea-cuestiono-a-la-oposicion-por-el-tratamiento-de-la-prorroga/",
+          "published_at": null,
+          "first_seen": "2026-10-01T15:30:01.053613+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La sesión ordinaria del Concejo Deliberante de Necochea tuvo este miércoles 30 de septiembre una extensión de varias horas y volvió a colocar al transporte público de pasajeros en el centro de una fuerte discusión política. Apenas concluido el debate, los concejales de Nueva Necochea, Gabriela Espinosa y Rodrigo Tabárez , visitaron Voces de la Tarde , programa que conduce Jorge Gómez por Radio Noticias Necochea 97.3 , donde repasaron lo ocurrido y cuestionaron particularmente el tratamiento que tuvo la continuidad de los colectivos.",
+          "El escenario estuvo marcado por dos decisiones que avanzaron en paralelo. Por un lado, el Departamento Ejecutivo acordó con la Compañía de Transportes Necochea una nueva prórroga de 150 días , contados desde el vencimiento del acuerdo vigente, o hasta que comience a prestar servicio un nuevo concesionario."
+        ],
+        "generated": "2026-10-01T15:32:41.199563+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-01T15:00:00.798990+00:00"
+      "ultima_impresion": "2026-10-01T15:30:01.053613+00:00"
+    },
+    {
+      "key": "habra paro docente toda provincia jueves reclamo violencia escuelas",
+      "title": "Habrá paro docente en toda la Provincia este jueves en reclamo por la violencia en las escuelas",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-01T15:30:01.053613+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260930181015_paro-docente-aula-vacia.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Habrá paro docente en toda la Provincia este jueves en reclamo por la violencia en las escuelas",
+          "url": "https://necocheadigital.com/nota/119754/habra-paro-docente-en-toda-la-provincia-este-jueves-en-reclamo-por-la-violencia-en-las-escuelas/",
+          "published_at": null,
+          "first_seen": "2026-10-01T15:30:01.053613+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El motivo central de esta decisión se fundamenta en la creciente preocupación por los graves episodios de inseguridad y violencia registrados recientemente dentro y fuera de las aulas. Los sindicatos expresaron que la agresividad social está permeando de forma directa en las comunidades educativas, afectando la integridad física y psicológica de los trabajadores de la educación.",
+          "Entre las situaciones más críticas reportadas en los últimos días se destaca lo ocurrido en San Miguel, donde la madre de una alumna ingresó al establecimiento, atacó a una docente arrojándole aerosol y la golpeó físicamente. A este hecho se suma lo acontecido en Hurlingham, lugar en el que familiares de un estudiante irrumpieron en la institución para agredir a la directora y perseguir a una maestra."
+        ],
+        "generated": "2026-10-01T15:32:42.281043+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-01T15:30:01.053613+00:00"
+    },
+    {
+      "key": "cronograma festejos 145 aniversario necochea",
+      "title": "Ya está el cronograma de los festejos por el 145 aniversario de Necochea",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-01T15:30:01.053613+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/14bf9939981df329b861d2bc2a487a92b65ef84f.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Ya está el cronograma de los festejos por el 145 aniversario de Necochea",
+          "url": "https://necocheadigital.com/nota/119750/ya-esta-el-cronograma-de-los-festejos-por-el-145-aniversario-de-necochea/",
+          "published_at": null,
+          "first_seen": "2026-10-01T15:30:01.053613+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La cuenta regresiva ya comenzó y la Municipalidad ultima los detalles para celebrar los 145 años de Necochea con tres jornadas especiales: sábado 10, domingo 11 y lunes 12 de octubre , con una agenda pensada para todas las edades y propuestas que se extenderán durante todo el fin de semana largo, aunque el lunes tendrá el aliciente de poder ver el acto protocolar, el desfile cívico tradicionalista y el infaltable corte de la torta de cumpleaños. En cuanto a la parte musical y demás espectáculos , el sábado 10 la música comenzará a las 18.30 con Agustín Funes DJ, para continuar a las 19 con Julia Annechini, a las 20 con Litio y cerrar a las 21 con Trasnochados.",
+          "El domingo 11 , desde las 19, será el turno de Clavija Sachera, seguida a las 20 por La Rutera y, a las 21, Los Borbotones. El lunes 12 , día central de los festejos, tendrá además las actividades tradicionales del aniversario."
+        ],
+        "generated": "2026-10-01T15:32:43.385811+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-01T15:30:01.053613+00:00"
+    },
+    {
+      "key": "juegan miercoles pendientes liga necochea futbol",
+      "title": "Se juegan este miércoles los pendientes de la Liga Necochea de Fútbol",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-01T15:30:01.053613+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/09/20260930111641_whatsapp-image-2026-09-30-at-11-16-30.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Se juegan este miércoles los pendientes de la Liga Necochea de Fútbol",
+          "url": "https://necocheadigital.com/nota/119747/se-juegan-este-miercoles-los-pendientes-de-la-liga-necochea-de-futbol/",
+          "published_at": null,
+          "first_seen": "2026-10-01T15:30:01.053613+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La Liga Necochea de Fútbol completa este miércoles la decimoctava jornada de su certamen oficial. Con dos duelos reprogramados por los compromisos del Torneo Regional Federal Amateur, la Zona A reacomoda su tabla de posiciones en una jornada que promete emociones tanto por la tarde como por la noche. Tarde de alta tensión en el \"Vasco\" Iparraguirre Desde las 16:00, Villa Díaz Vélez recibe a Ministerio bajo la supervisión arbitral de Lucas González.",
+          "El equipo local marcha escolta con 35 puntos y busca recuperarse de su reciente caída 2-1 ante Sportivo San Cayetano, donde el gol de Lautaro Ruiz Martínez no alcanzó frente a los tantos de Bautista Salina y Facundo Leiva. Del otro lado, Ministerio —dirigido por Gustavo Tridón— se ubica tercero con 32 unidades (a la par de Mataderos) e intenta pasar la página tras tropezar 1-0 con Villa del Parque."
+        ],
+        "generated": "2026-10-01T15:32:44.457859+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-01T15:30:01.053613+00:00"
+    },
+    {
+      "key": "franco colapinto vuelve f1 sepang dias horarios polemica dejo azerbaiyan",
+      "title": "Franco Colapinto vuelve a la F1 en Sepang: días, horarios y la polémica que dejó Azerbaiyán",
+      "score": 1.096,
+      "sources_count": 1,
+      "first_seen": "2026-10-01T14:24:31+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/03/franco-colapinto-alpine-a526-1.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Franco Colapinto vuelve a la F1 en Sepang: días, horarios y la polémica que dejó Azerbaiyán",
+          "url": "https://tsnnecochea.com.ar/deportes/franco-colapinto-vuelve-a-la-f1-en-sepang-dias-horarios-y-la-polemica-que-dejo-azerbaiyan-238540/",
+          "published_at": "2026-10-01T14:24:31+00:00",
+          "first_seen": "2026-10-01T15:30:01.053613+00:00",
+          "category": "Alpine",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/03/franco-colapinto-alpine-a526-1.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Deportes | Alpine | Fórmula 1 Franco Colapinto vuelve a la F1 en Sepang: días, horarios y la polémica que dejó Azerbaiyán El piloto argentino disputará la decimosexta fecha del campeonato en el trazado de Malasia, sede elegida para el GP de Bahréin. Mirá el cronograma completo para seguirlo en vivo durante la madrugada. Por Redacción TSN 01/10/2026 · 11:24 AM Agregar TSN Necochea en Franco Colapinto vuelve a correr en Fórmula 1 este fin de semana en el Gran Premio de Bahréin , correspondiente a la decimosexta fecha del campeonato.",
+          "La actividad llega después de su paso por Azerbaiyán y se suma a su temporada en Alpine, en la que ya había buscado sostener su gran momento en la máxima categoría . El Gran Premio mantendrá el nombre de Bahréin, aunque por la guerra en Medio Oriente se disputará en el Circuito Internacional de Sepang , trazado que cuenta con 15 curvas y una extensión de 5,543 kilómetros."
+        ],
+        "generated": "2026-10-01T15:32:45.462728+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-01T15:30:01.053613+00:00"
+    },
+    {
+      "key": "pustilnick propone avanzar regulacion cuidacoches reclama definiciones transporte publico",
+      "title": "Pustilnick propone avanzar en la regulación de los cuidacoches y reclama definiciones sobre el transporte público",
+      "score": 0.982,
+      "sources_count": 1,
+      "first_seen": "2026-10-01T15:16:48+00:00",
+      "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/1986000b-41a2-42c6-ad4b-7cff3fef0a39.jpg",
+      "articles": [
+        {
+          "portal": "Diario NQ",
+          "title": "Pustilnick propone avanzar en la regulación de los cuidacoches y reclama definiciones sobre el transporte público",
+          "url": "https://diarionq.com.ar/pustilnick-propone-avanzar-en-la-regulacion-de-los-cuidacoches-y-reclama-definiciones-sobre-el-transporte-publico/",
+          "published_at": "2026-10-01T15:16:48+00:00",
+          "first_seen": "2026-10-01T15:30:01.053613+00:00",
+          "category": "La ciudad",
+          "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/1986000b-41a2-42c6-ad4b-7cff3fef0a39.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La concejala de Transformadora analizó en una entrevista en “Esta Mañana” los principales temas tratados en el Concejo Deliberante. La prórroga del servicio de colectivos por 150 días, la situación de los cuidacoches, el estado de las calles y la necesidad de implementar turnos online en el sistema de salud fueron algunos de los ejes de la charla. La actualidad del Concejo Deliberante de Necochea y distintas problemáticas que preocupan a los vecinos fueron los temas centrales de la entrevista a la concejala Betiana Pustilnick , del espacio Transformadora, en el programa “Esta Mañana”.",
+          "Durante la conversación, la edil se refirió a las últimas decisiones legislativas y planteó la necesidad de avanzar en respuestas concretas para las demandas de la comunidad. Uno de los asuntos principales fue la continuidad del transporte público de pasajeros, luego de que se acordara una nueva prórroga del servicio por 150 días."
+        ],
+        "generated": "2026-10-01T15:33:00.843003+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-01T15:30:01.053613+00:00"
+    },
+    {
+      "key": "arqueria historica deporte cultura tradiciones ancestrales",
+      "title": "La arquería histórica, entre el deporte, la cultura y las tradiciones ancestrales",
+      "score": 0.97,
+      "sources_count": 1,
+      "first_seen": "2026-10-01T15:07:58+00:00",
+      "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/05f667a7-461e-4639-8a0b-a1cf1a6b5c02.jpg",
+      "articles": [
+        {
+          "portal": "Diario NQ",
+          "title": "La arquería histórica, entre el deporte, la cultura y las tradiciones ancestrales",
+          "url": "https://diarionq.com.ar/la-arqueria-historica-entre-el-deporte-la-cultura-y-las-tradiciones-ancestrales/",
+          "published_at": "2026-10-01T15:07:58+00:00",
+          "first_seen": "2026-10-01T15:30:01.053613+00:00",
+          "category": "Deportes",
+          "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/05f667a7-461e-4639-8a0b-a1cf1a6b5c02.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Gastón Bávaro, de la escuela Rama Negra de Necochea, habló sobre la participación de la arquera argentina Carolina Escalada en el Mundial de Arquería 3D en Estados Unidos, el valor cultural de la disciplina y las próximas actividades previstas en la ciudad. La arquería es mucho más que apuntar y acertar en un blanco. Detrás de cada arco y de cada técnica hay una historia, una identidad y tradiciones que atraviesan generaciones.",
+          "Esa mirada fue uno de los ejes de la entrevista a Gastón Bávaro, integrante de la escuela de arquería histórica Rama Negra de Necochea, quien compartió las novedades de la disciplina y destacó su dimensión deportiva y cultural. Uno de los temas centrales fue la participación de la arquera argentina Carolina Escalada en el Mundial de World Archery 3D 2026, que se desarrolla en Estados Unidos."
+        ],
+        "generated": "2026-10-01T15:33:04.497244+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-01T15:30:01.053613+00:00"
+    },
+    {
+      "key": "newcochea va clasificacion semifinales ultima fecha benito juarez",
+      "title": "Newcochea va por la clasificación a semifinales en la última fecha en Benito Juárez",
+      "score": 0.963,
+      "sources_count": 1,
+      "first_seen": "2026-10-01T15:03:00+00:00",
+      "image": "http://nden.com.ar/uploads/noticias/5/2026/10/0c5fc887aaddb2863b744db764fbbf9babb672cf.jpg",
+      "articles": [
+        {
+          "portal": "Noticias de Necochea",
+          "title": "Newcochea va por la clasificación a semifinales en la última fecha en Benito Juárez",
+          "url": "https://nden.com.ar/nota/38268/newcochea-va-por-la-clasificacion-a-semifinales-en-la-ultima-fecha-en-benito-juarez",
+          "published_at": "2026-10-01T15:03:00+00:00",
+          "first_seen": "2026-10-01T15:30:01.053613+00:00",
+          "category": null,
+          "image": "http://nden.com.ar/uploads/noticias/5/2026/10/0c5fc887aaddb2863b744db764fbbf9babb672cf.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "ESPACIO PÚBLICO Si ya había sanciones, ¿qué cambia en Necochea con la prohibición de los “trapitos”?"
+        ],
+        "generated": "2026-10-01T15:33:05.780816+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-01T15:30:01.053613+00:00"
+    },
+    {
+      "key": "carlos agostini golf deporte no discrimina puede compartir todas generaciones",
+      "title": "Carlos Agostini: “El golf es un deporte que no discrimina y que se puede compartir con todas las generaciones",
+      "score": 0.959,
+      "sources_count": 1,
+      "first_seen": "2026-10-01T14:59:37+00:00",
+      "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/9d107210-b884-4b9f-86bc-352dbacce603.jpg",
+      "articles": [
+        {
+          "portal": "Diario NQ",
+          "title": "Carlos Agostini: “El golf es un deporte que no discrimina y que se puede compartir con todas las generaciones",
+          "url": "https://diarionq.com.ar/carlos-agostini-el-golf-es-un-deporte-que-no-discrimina-y-que-se-puede-compartir-con-todas-las-generaciones/",
+          "published_at": "2026-10-01T14:59:37+00:00",
+          "first_seen": "2026-10-01T15:00:00.798990+00:00",
+          "category": "Deportes",
+          "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/9d107210-b884-4b9f-86bc-352dbacce603.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "En el micro de los miércoles dedicado al Necochea Golf Club, el integrante de la comisión directiva compartió su experiencia en la actividad, destacó el crecimiento del club, las obras que se llevan adelante y las posibilidades que ofrece este deporte para personas de todas las edades. El golf tiene algo especial: permite compartir una misma cancha, una misma pasión y muchas horas de encuentro sin que la edad sea un límite.",
+          "Esa es una de las características que destaca Carlos Agostini, integrante de la comisión directiva del Necochea Golf Club y jugador habitual, quien pasó por el micro de los miércoles dedicado a la institución para conversar sobre su vínculo con este deporte y la actualidad de la entidad. Con varios años de trabajo dentro de la comisión directiva, Agostini explicó que su participación responde al compromiso de colaborar con un club que requiere mucho esfuerzo, mantenimiento y dedicación."
+        ],
+        "generated": "2026-10-01T15:33:09.235048+00:00"
+      },
+      "apariciones": 2,
+      "ultima_impresion": "2026-10-01T15:30:01.053613+00:00",
+      "penalizacion": 1.0
+    },
+    {
+      "key": "hay estado abandono total fleteros llevaron reclamo hcd",
+      "title": "“Hay un estado de abandono total”: los fleteros llevaron su reclamo al HCD",
+      "score": 0.92,
+      "sources_count": 1,
+      "first_seen": "2026-10-01T14:30:00+00:00",
+      "image": "http://nden.com.ar/uploads/noticias/5/2026/10/20261001113041_05-so.jpg",
+      "articles": [
+        {
+          "portal": "Noticias de Necochea",
+          "title": "“Hay un estado de abandono total”: los fleteros llevaron su reclamo al HCD",
+          "url": "https://nden.com.ar/nota/38267/hay-un-estado-de-abandono-total-los-fleteros-llevaron-su-reclamo-al-hcd",
+          "published_at": "2026-10-01T14:30:00+00:00",
+          "first_seen": "2026-10-01T15:00:00.798990+00:00",
+          "category": null,
+          "image": "http://nden.com.ar/uploads/noticias/5/2026/10/20261001113041_05-so.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "ESPACIO PÚBLICO Si ya había sanciones, ¿qué cambia en Necochea con la prohibición de los “trapitos”?"
+        ],
+        "generated": "2026-10-01T15:33:10.336586+00:00"
+      },
+      "apariciones": 2,
+      "ultima_impresion": "2026-10-01T15:30:01.053613+00:00",
+      "penalizacion": 1.0
+    },
+    {
+      "key": "sabe tierra reprogramo vuelta parque lillo sera sabado 10 octubre",
+      "title": "Sabe la Tierra reprograma su vuelta al Parque Miguel Lillo para el 10 de octubre",
+      "score": 0.701,
+      "sources_count": 2,
+      "first_seen": "2026-10-01T13:27:00+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2024/03/Captura-de-pantalla-2024-03-28-101951.jpg",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Sabe la Tierra reprograma su vuelta al Parque Miguel Lillo para el 10 de octubre",
+          "url": "https://tsnnecochea.com.ar/generales/sabe-la-tierra-reprograma-su-vuelta-al-parque-miguel-lillo-para-el-10-de-octubre-238530/",
+          "published_at": "2026-10-01T15:02:54+00:00",
+          "first_seen": "2026-10-01T15:30:01.053613+00:00",
+          "category": "encuentro",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2024/03/Captura-de-pantalla-2024-03-28-101951.jpg"
+        },
+        {
+          "portal": "Noticias de Necochea",
+          "title": "Sabe la Tierra reprogramó su vuelta al Parque Lillo: será el sábado 10 de octubre",
+          "url": "https://nden.com.ar/nota/38262/sabe-la-tierra-reprogramo-su-vuelta-al-parque-lillo-sera-el-sabado-10-de-octubre",
+          "published_at": "2026-10-01T13:27:00+00:00",
+          "first_seen": "2026-10-01T14:00:00.370684+00:00",
+          "category": null,
+          "image": "http://nden.com.ar/uploads/noticias/5/2026/10/0ead92ff7e7352f386a9d81c4bb94ed4fcf6199f.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Generales | encuentro | Alimentos saludables Sabe la Tierra reprograma su vuelta al Parque Miguel Lillo para el 10 de octubre Tras despedir sus ediciones de invierno bajo techo, Sabe la Tierra reprogramó su vuelta al Parque Miguel Lillo. Por Redacción TSN 01/10/2026 · 12:02 PM Sabe la Tierra Agregar TSN Necochea en Debido a las condiciones climáticas, el mercado de consumo consciente y alimentos saludables postergó su reapertura al aire libre, originalmente prevista para el sábado 3 de octubre. La nueva cita será el sábado 10 de octubre en su espacio habitual de Calle 89 y 10.",
+          "A partir de esa jornada, vecinos y visitantes podrán volver a disfrutar de los puestos en un entorno natural. Además, a las 12 hs se dictará un taller de compostaje gratuito a cargo de Willy Gutiérrez Valencia."
+        ],
+        "generated": "2026-10-01T15:31:18.592868+00:00"
+      },
+      "apariciones": 4,
+      "ultima_impresion": "2026-10-01T15:30:01.053613+00:00",
+      "penalizacion": 0.303
     },
     {
       "key": "choque cada dia motociclista termino hospitalizado chocar camioneta",
       "title": "El choque de cada día: un motociclista terminó hospitalizado al impactar con una camioneta",
-      "score": 1.149,
+      "score": 0.606,
       "sources_count": 1,
       "first_seen": "2026-10-01T14:28:52+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2025/10/same-ambulancia.jpg",
@@ -122,16 +524,16 @@
           "El siniestro vial movilizó a personal de Tránsito, Policía y emergencias para ordenar la circulación e iniciar las actuaciones, luego de que el SAME atendiera al motociclista accidentado y dispusiera su internación. Un motociclista sufrió heridas y debió ser derivado al Hospital Municipal Doctor Emilio Ferreyra luego de participar en un severo choque registrado en el cruce de la avenida 59 y la calle 70.",
           "Noticia relacionadas Prisión preventiva para los acusados por la muerte de Antonella Álvarez 1 de octubre de 2026 Buscado por una causa en Necochea, quedó detenido en Olavarría tras un robo a una carnicería 1 de octubre de 2026 El hecho se produjo cuando, por motivos que todavía son materia de investigación, una moto Brava de 110 centímetros cúbicos impactó contra una camioneta Ford EcoSport. Debido al impacto, el hombre que manejaba el vehículo de menor porte resultó con lesiones."
         ],
-        "generated": "2026-10-01T15:02:24.809073+00:00"
+        "generated": "2026-10-01T15:32:40.141083+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-10-01T15:00:00.798990+00:00",
-      "penalizacion": 1.0
+      "apariciones": 3,
+      "ultima_impresion": "2026-10-01T15:30:01.053613+00:00",
+      "penalizacion": 0.55
     },
     {
       "key": "calendario pagos anses necochea quequen cuando cobra cada beneficiario octubre",
       "title": "Calendario de pagos de ANSES para Necochea y Quequén: cuándo cobra cada beneficiario en octubre",
-      "score": 1.13,
+      "score": 0.596,
       "sources_count": 1,
       "first_seen": "2026-10-01T14:16:39+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2023/11/Anses-Creditos.webp",
@@ -151,16 +553,16 @@
           "TSN Necochea | ‹ VOLVER | Generales | ANSES | ANSES Calendario de pagos de ANSES para Necochea y Quequén: cuándo cobra cada beneficiario en octubre El cronograma completo para jubilados, pensionados y asignaciones en el distrito. Conocé la fecha exacta que te corresponde según el número de documento.",
           "Por Redacción TSN 01/10/2026 · 11:16 AM La ANSES renueva el bono y paga septiembre Agregar TSN Necochea en ANSES dio a conocer el cronograma completo de pagos correspondiente a octubre para jubilados, pensionados y titulares de asignaciones. Desde el organismo recordaron que el dinero queda depositado en las cuentas bancarias a partir de la fecha indicativa, por lo que no es necesario asistir presencialmente a las sucursales del distrito el mismo día."
         ],
-        "generated": "2026-10-01T15:02:26.192029+00:00"
+        "generated": "2026-10-01T15:32:46.585549+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-10-01T15:00:00.798990+00:00",
-      "penalizacion": 1.0
+      "apariciones": 3,
+      "ultima_impresion": "2026-10-01T15:30:01.053613+00:00",
+      "penalizacion": 0.55
     },
     {
       "key": "diputados comienza debatir proyecto endurece penas operar malvinas",
       "title": "Diputados comienza a debatir el proyecto que endurece las penas por operar en Malvinas",
-      "score": 1.124,
+      "score": 0.593,
       "sources_count": 1,
       "first_seen": "2026-10-01T14:12:51+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/10/diputados-comienza-a-debatir-el-proyecto-que-endurece-las-penas-por-operar-en-malvinas.webp",
@@ -180,16 +582,16 @@
           "La Cámara de Diputados iniciará este miércoles el debate en comisión de un proyecto del Gobierno que amplía las sanciones por explotar recursos en las zonas reclamadas por la Argentina. La Cámara de Diputados abrirá este miércoles a las 12 el debate en comisión del proyecto de Defensa de la Soberanía Nacional enviado por el Gobierno de Javier Milei.",
           "La iniciativa endurece las sanciones contra empresas y personas que exploten recursos naturales en las Islas Malvinas y en los espacios marítimos e insulares reclamados por la Argentina sin autorización nacional. Noticia relacionadas El Concejo Deliberante de Necochea aprobó la ordenanza que prohíbe los \"trapitos\" y limpiavidrios 1 de octubre de 2026 Máximo Kirchner fue retenido durante dos horas en un control policial en San Luis 30 de septiembre de 2026 El proyecto será analizado en un plenario conjunto de las comisiones de Defensa Nacional, Legislación Penal y Relaciones Exteriores y Culto."
         ],
-        "generated": "2026-10-01T15:02:27.766989+00:00"
+        "generated": "2026-10-01T15:32:48.083535+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-10-01T15:00:00.798990+00:00",
-      "penalizacion": 1.0
+      "apariciones": 3,
+      "ultima_impresion": "2026-10-01T15:30:01.053613+00:00",
+      "penalizacion": 0.55
     },
     {
       "key": "postergan noviembre suba impuestos combustibles sostener consumo",
       "title": "Postergan hasta noviembre la suba de impuestos a los combustibles para sostener el consumo",
-      "score": 1.12,
+      "score": 0.591,
       "sources_count": 1,
       "first_seen": "2026-10-01T14:10:05+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2024/05/estacion-servicio-combustibles.jpg",
@@ -209,16 +611,16 @@
           "El Gobierno trasladó a noviembre los aumentos impositivos que debían comenzar el 1° de octubre y que alcanzan a la nafta y el gasoil. El Gobierno volvió a postergar la actualización de los impuestos a los combustibles y trasladó al 1° de noviembre los incrementos que debían comenzar a aplicarse desde octubre.",
           "La medida alcanza a la nafta sin plomo, la nafta virgen y el gasoil. Noticia relacionadas Bono de $70.000 para jubilados en octubre: cómo queda el monto según cada titular 28 de septiembre de 2026 Crisis en Toledo: Inversores chinos compran locales en venta de la cadena de supermercados 26 de septiembre de 2026 El Gobierno justificó la postergación en la necesidad de continuar estimulando el crecimiento de la economía dentro de un esquema fiscal sostenible."
         ],
-        "generated": "2026-10-01T15:02:30.422422+00:00"
+        "generated": "2026-10-01T15:32:51.654144+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-10-01T15:00:00.798990+00:00",
-      "penalizacion": 1.0
+      "apariciones": 3,
+      "ultima_impresion": "2026-10-01T15:30:01.053613+00:00",
+      "penalizacion": 0.55
     },
     {
       "key": "prision preventiva acusados muerte antonella alvarez",
       "title": "Prisión preventiva para los acusados por la muerte de Antonella Álvarez",
-      "score": 1.103,
+      "score": 0.582,
       "sources_count": 1,
       "first_seen": "2026-10-01T13:59:02+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/10/destacada-padres-antonella-alvarez.jpg",
@@ -238,132 +640,16 @@
           "La familia de la víctima informó a Diario Necochea la concreción de la prisión preventiva para los dos imputados. A uno de ellos, Ricardo Brandi, se lo estaría investigando también por una causa de presunto comercio de estupefacientes.",
           "Una vez más, surgieron novedades en la causa judicial que investiga la muerte de Antonella Álvarez. Cabe recordar que la ciudadana necochense de 28 años, fue hallada muerta en marzo, en la vivienda que compartía con su pareja, ubicada en calle 41 al 3500."
         ],
-        "generated": "2026-10-01T15:02:37.002170+00:00"
+        "generated": "2026-10-01T15:32:53.958159+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-10-01T15:00:00.798990+00:00",
-      "penalizacion": 1.0
-    },
-    {
-      "key": "cual seria sentido emergencia tenes continuidad facundo croci cuestiono concejales defendio prorroga micros",
-      "title": "“¿Cuál sería el sentido de la emergencia si ya tenés la continuidad?”: Facundo Croci cuestionó a los concejales y defendió la prórroga de los micros",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-01T15:00:00.798990+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/a416b906ffaf5396d14b79f615d0d7d9818c0a56.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "“¿Cuál sería el sentido de la emergencia si ya tenés la continuidad?”: Facundo Croci cuestionó a los concejales y defendió la prórroga de los micros",
-          "url": "https://necocheadigital.com/nota/119756/cual-seria-el-sentido-de-la-emergencia-si-ya-tenes-la-continuidad-facundo-croci-cuestiono-a-los-concejales-y-defendio-la-prorroga-de-los-micros/",
-          "published_at": null,
-          "first_seen": "2026-10-01T15:00:00.798990+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La discusión por el futuro del transporte público de pasajeros sumó este miércoles 30 de septiembre un nuevo capítulo, esta vez con fuertes cuestionamientos desde el Departamento Ejecutivo hacia distintos sectores de la oposición en el Concejo Deliberante. Facundo Croci, director de Transporte de la Municipalidad de Necochea , defendió la prórroga acordada con la Compañía de Transportes Necochea y cuestionó el sentido de la emergencia aprobada por mayoría durante la extensa sesión del cuerpo.",
-          "En diálogo con Voces de la Tarde , programa que conduce Jorge Gómez por Radio Noticias Necochea 97.3 , Croci sostuvo que los concejales ya conocían antes del inicio de la sesión que el intendente Arturo Rojas había firmado, ad referéndum del Concejo , una extensión de la concesión por 150 días o hasta que comience a prestar servicio un nuevo concesionario."
-        ],
-        "generated": "2026-10-01T15:02:37.714841+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-01T15:00:00.798990+00:00"
-    },
-    {
-      "key": "feliz crisis comercial historica hoteleros gastronomicos advierten cierres caida consumo",
-      "title": "La Feliz, en una crisis comercial histórica: hoteleros y gastronómicos advierten por cierres y caída del consumo",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-01T15:00:00.798990+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/fd4083b942166f00e6096223eca3ad3957e515c8.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "La Feliz, en una crisis comercial histórica: hoteleros y gastronómicos advierten por cierres y caída del consumo",
-          "url": "https://necocheadigital.com/nota/119761/la-feliz-en-una-crisis-comercial-historica-hoteleros-y-gastronomicos-advierten-por-cierres-y-caida-del-consumo/",
-          "published_at": null,
-          "first_seen": "2026-10-01T15:00:00.798990+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Mar del Plata atraviesa un escenario de preocupación entre los sectores hotelero, gastronómico y comercial , en un contexto marcado por la caída del consumo, el cierre de establecimientos, el aumento de los costos y las dificultades para trasladar esas subas a los precios. El diagnóstico fue expuesto en los últimos días por referentes del sector en distintos ámbitos. El presidente de la Asociación Empresaria Hotelera Gastronómica (AEHG) de Mar del Plata y coordinador del sector en la provincia de Buenos Aires, Hernán Szkrohal , llevó el reclamo a la Cámara de Diputados y pidió medidas concretas para sostener a los establecimientos.",
-          "La situación se suma a otras señales de retracción de la actividad comercial. Días atrás, durante el Día del Empleado de Comercio, el sindicato estimó un acatamiento cercano al 80% y destacó la fuerte cantidad de locales cerrados en los principales paseos comerciales de la ciudad."
-        ],
-        "generated": "2026-10-01T15:02:38.827437+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-01T15:00:00.798990+00:00"
-    },
-    {
-      "key": "emergencia transporte contradiccion dificil explicar concejo",
-      "title": "La emergencia del transporte y una contradicción difícil de explicar en el Concejo",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-01T15:00:00.798990+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/809686bccdeef13401123172bdb8b462a1706511.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "La emergencia del transporte y una contradicción difícil de explicar en el Concejo",
-          "url": "https://necocheadigital.com/nota/119755/la-emergencia-del-transporte-y-una-contradiccion-dificil-de-explicar-en-el-concejo/",
-          "published_at": null,
-          "first_seen": "2026-10-01T15:00:00.798990+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La discusión por el transporte público de Necochea dejó este miércoles una situación que, más allá de las posiciones políticas de cada bloque, merece ser analizada desde la lógica y la coherencia de las decisiones tomadas. El Concejo Deliberante aprobó la emergencia del transporte público, aunque el escenario que se pretendía resolver ya tenía, al menos parcialmente, una solución acordada: durante la mañana, el Departamento Ejecutivo y la Compañía de Transportes Necochea habían firmado una prórroga por 150 días, destinada a garantizar la continuidad del servicio mientras se avanza hacia una nueva concesión.",
-          "La prórroga fue firmada antes de la votación de la emergencia y quedó sujeta al posterior refrendo del Concejo Deliberante. La información sobre ese acuerdo, según se planteó durante la jornada, ya había sido comunicada a los concejales antes del inicio de la sesión."
-        ],
-        "generated": "2026-10-01T15:02:40.312605+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-01T15:00:00.798990+00:00"
-    },
-    {
-      "key": "necochea prepara ambicioso plan iluminacion alcanzaria 92 zonas urbanas",
-      "title": "Necochea prepara un ambicioso plan de iluminación que alcanzaría al 92% de las zonas urbanas",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-01T15:00:00.798990+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/23e65fc54b478f79f9617cec85c0c0da3ae001e8.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Necochea prepara un ambicioso plan de iluminación que alcanzaría al 92% de las zonas urbanas",
-          "url": "https://necocheadigital.com/nota/119759/necochea-prepara-un-ambicioso-plan-de-iluminacion-que-alcanzaria-al-92-de-las-zonas-urbanas/",
-          "published_at": null,
-          "first_seen": "2026-10-01T15:00:00.798990+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El municipio de Necochea avanza con un plan integral de iluminación que, de concretarse las dos etapas previstas, permitirá llevar luminarias LED a una parte sustancial de las zonas urbanas. El objetivo oficial es alcanzar aproximadamente al 92% de la iluminación existente , según explicó Adrián Furno, secretario de Planeamiento, Obras y Servicios Públicos. En diálogo este martes 29 de septiembre con Voces de la Tarde , el programa que conduce Jorge Gómez por Radio Noticias Necochea 97.3 FM , Furno confirmó que está prácticamente listo el contrato correspondiente a una primera licitación financiada con recursos del Fondo de Infraestructura Municipal (FEFIM) .",
-          "La obra demandará 294 millones de pesos e incluye la provisión y colocación de 1.472 luminarias LED . El funcionario señaló que la firma del contrato con la empresa adjudicataria se concretaría la próxima semana."
-        ],
-        "generated": "2026-10-01T15:02:41.360121+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-01T15:00:00.798990+00:00"
+      "apariciones": 3,
+      "ultima_impresion": "2026-10-01T15:30:01.053613+00:00",
+      "penalizacion": 0.55
     },
     {
       "key": "consorcio gestion puerto quequen recibio estudiantes villa devoto",
       "title": "El Consorcio de Gestión del Puerto Quequén recibió a estudiantes de Villa Devoto",
-      "score": 1.049,
+      "score": 0.553,
       "sources_count": 4,
       "first_seen": "2026-10-01T12:36:10+00:00",
       "image": "https://cdnartic.ar/fo_EHBjJCI_LULmZO03fqGtwKM4=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/10/puerto_quequen.webp",
@@ -410,73 +696,16 @@
           "El Consorcio de Gestión del Puerto Quequén recibió a un grupo de 43 estudiantes de 3° año de la Escuela del Mirador , ubicada en el barrio porteño de Villa Devoto , en el marco de una salida educativa destinada a acercar a las nuevas generaciones al funcionamiento de la actividad portuaria. La delegación escolar estuvo acompañada por los docentes Juan Baroffio y Wanda Metzler y fue recibida en el Salón de Usos Múltiples (SUM) del Consorcio, donde se desarrolló una presentación a cargo de personal del Departamento de Comunicación Institucional .",
           "Durante la jornada, los estudiantes tuvieron la posibilidad de interactuar con profesionales de Puerto Quequén y conocer distintos aspectos vinculados con el funcionamiento del complejo portuario."
         ],
-        "generated": "2026-10-01T15:00:34.899595+00:00"
+        "generated": "2026-10-01T15:30:37.560487+00:00"
       },
-      "apariciones": 5,
-      "ultima_impresion": "2026-10-01T15:00:00.798990+00:00",
-      "penalizacion": 0.166
-    },
-    {
-      "key": "carlos agostini golf deporte no discrimina puede compartir todas generaciones",
-      "title": "Carlos Agostini: “El golf es un deporte que no discrimina y que se puede compartir con todas las generaciones",
-      "score": 0.999,
-      "sources_count": 1,
-      "first_seen": "2026-10-01T14:59:37+00:00",
-      "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/9d107210-b884-4b9f-86bc-352dbacce603.jpg",
-      "articles": [
-        {
-          "portal": "Diario NQ",
-          "title": "Carlos Agostini: “El golf es un deporte que no discrimina y que se puede compartir con todas las generaciones",
-          "url": "https://diarionq.com.ar/carlos-agostini-el-golf-es-un-deporte-que-no-discrimina-y-que-se-puede-compartir-con-todas-las-generaciones/",
-          "published_at": "2026-10-01T14:59:37+00:00",
-          "first_seen": "2026-10-01T15:00:00.798990+00:00",
-          "category": "Deportes",
-          "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/9d107210-b884-4b9f-86bc-352dbacce603.jpg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "En el micro de los miércoles dedicado al Necochea Golf Club, el integrante de la comisión directiva compartió su experiencia en la actividad, destacó el crecimiento del club, las obras que se llevan adelante y las posibilidades que ofrece este deporte para personas de todas las edades. El golf tiene algo especial: permite compartir una misma cancha, una misma pasión y muchas horas de encuentro sin que la edad sea un límite.",
-          "Esa es una de las características que destaca Carlos Agostini, integrante de la comisión directiva del Necochea Golf Club y jugador habitual, quien pasó por el micro de los miércoles dedicado a la institución para conversar sobre su vínculo con este deporte y la actualidad de la entidad. Con varios años de trabajo dentro de la comisión directiva, Agostini explicó que su participación responde al compromiso de colaborar con un club que requiere mucho esfuerzo, mantenimiento y dedicación."
-        ],
-        "generated": "2026-10-01T15:02:55.237328+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-01T15:00:00.798990+00:00"
-    },
-    {
-      "key": "hay estado abandono total fleteros llevaron reclamo hcd",
-      "title": "“Hay un estado de abandono total”: los fleteros llevaron su reclamo al HCD",
-      "score": 0.959,
-      "sources_count": 1,
-      "first_seen": "2026-10-01T14:30:00+00:00",
-      "image": "http://nden.com.ar/uploads/noticias/5/2026/10/20261001113041_05-so.jpg",
-      "articles": [
-        {
-          "portal": "Noticias de Necochea",
-          "title": "“Hay un estado de abandono total”: los fleteros llevaron su reclamo al HCD",
-          "url": "https://nden.com.ar/nota/38267/hay-un-estado-de-abandono-total-los-fleteros-llevaron-su-reclamo-al-hcd",
-          "published_at": "2026-10-01T14:30:00+00:00",
-          "first_seen": "2026-10-01T15:00:00.798990+00:00",
-          "category": null,
-          "image": "http://nden.com.ar/uploads/noticias/5/2026/10/20261001113041_05-so.jpg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "ESPACIO PÚBLICO Si ya había sanciones, ¿qué cambia en Necochea con la prohibición de los “trapitos”?"
-        ],
-        "generated": "2026-10-01T15:02:57.302464+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-01T15:00:00.798990+00:00"
+      "apariciones": 6,
+      "ultima_impresion": "2026-10-01T15:30:01.053613+00:00",
+      "penalizacion": 0.092
     },
     {
       "key": "docentes paran jueves provincia reclamar medidas violencia escuelas",
       "title": "Docentes paran este jueves en la Provincia para reclamar medidas contra la violencia en las escuelas",
-      "score": 0.701,
+      "score": 0.37,
       "sources_count": 2,
       "first_seen": "2026-10-01T13:30:00.754937+00:00",
       "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261001093746_escuela-25-millones-de-pesos.jpg",
@@ -505,101 +734,16 @@
           "Los hechos de violencia contra docentes que se vienen registrando en distintos establecimientos educativos de la provincia de Buenos Aires derivaron en una medida de fuerza que este jueves tendrá alcance provincial. UDOCBA, Suteba, FEB y AMET convocaron a un paro docente bajo una consigna que busca poner en primer plano una situación que, según advierten desde los gremios, se ha agravado durante las últimas semanas: “Queremos una sociedad que cuide a quienes enseñan.",
           "Basta de violencia contra las y los docentes”. La titular de UDOCBA Necochea, Paola Real , explicó en diálogo con Voces de la Tarde , programa que conduce Jorge Gómez por Radio Noticias Necochea 97.3 , que la medida responde a una sucesión de episodios registrados en diferentes distritos bonaerenses, varios de los cuales derivaron previamente en paros distritales."
         ],
-        "generated": "2026-10-01T15:00:55.412799+00:00"
+        "generated": "2026-10-01T15:31:20.043589+00:00"
       },
-      "apariciones": 4,
-      "ultima_impresion": "2026-10-01T15:00:00.798990+00:00",
-      "penalizacion": 0.303
-    },
-    {
-      "key": "inferiores primera necochense ciro garcia goni da salto velez superliga",
-      "title": "De las inferiores a Primera: el necochense Ciro García Goñi da el salto con Vélez a la Superliga",
-      "score": 0.604,
-      "sources_count": 1,
-      "first_seen": "2026-10-01T13:55:48+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/Foto-Ciro-Garcia-Goni-Velez.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "De las inferiores a Primera: el necochense Ciro García Goñi da el salto con Vélez a la Superliga",
-          "url": "https://tsnnecochea.com.ar/deportes/de-las-inferiores-a-primera-el-necochense-ciro-garcia-goni-da-el-salto-con-velez-a-la-superliga-238515/",
-          "published_at": "2026-10-01T13:55:48+00:00",
-          "first_seen": "2026-10-01T14:00:00.370684+00:00",
-          "category": "Ciro Garcia Goñi",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/Foto-Ciro-Garcia-Goni-Velez.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Deportes | Ciro Garcia Goñi | Vóley De las inferiores a Primera: el necochense Ciro García Goñi da el salto con Vélez a la Superliga El joven armador formado en la Escuela Municipal de Vóley, fue promovido al plantel superior del Fortín para disputar la temporada 2026/27.",
-          "Por Agustin Betancor 01/10/2026 · 10:55 AM Ciro García Goñi jugará la Superliga Agregar TSN Necochea en El vóley de Vélez Sarsfield confirmó una noticia que tiene como protagonista al deporte necochense: Ciro García Goñi integrará el plantel de Primera del Fortín durante la temporada 2026/27 de la Superliga Argentina de Voleibol , dando así un nuevo paso en una carrera que comenzó en las canchas de Necochea y continuó durante los últimos años en las inferiores de la institución de Liniers."
-        ],
-        "generated": "2026-10-01T15:02:42.365530+00:00"
-      },
-      "apariciones": 3,
-      "ultima_impresion": "2026-10-01T15:00:00.798990+00:00",
-      "penalizacion": 0.55
-    },
-    {
-      "key": "san cayetano abre eximicion tasas quienes pueden pedirla cuando",
-      "title": "San Cayetano abre una eximición de tasas: quiénes pueden pedirla y hasta cuándo",
-      "score": 0.491,
-      "sources_count": 1,
-      "first_seen": "2026-10-01T13:38:00+00:00",
-      "image": "http://nden.com.ar/uploads/noticias/5/2026/10/20261001103840_dsc0009-1536x1024.jpg",
-      "articles": [
-        {
-          "portal": "Noticias de Necochea",
-          "title": "San Cayetano abre una eximición de tasas: quiénes pueden pedirla y hasta cuándo",
-          "url": "https://nden.com.ar/nota/38264/san-cayetano-abre-una-eximicion-de-tasas-quienes-pueden-pedirla-y-hasta-cuando",
-          "published_at": "2026-10-01T13:38:00+00:00",
-          "first_seen": "2026-10-01T14:00:00.370684+00:00",
-          "category": null,
-          "image": "http://nden.com.ar/uploads/noticias/5/2026/10/20261001103840_dsc0009-1536x1024.jpg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "ESPACIO PÚBLICO Si ya había sanciones, ¿qué cambia en Necochea con la prohibición de los “trapitos”?"
-        ],
-        "generated": "2026-10-01T15:03:00.767521+00:00"
-      },
-      "apariciones": 3,
-      "ultima_impresion": "2026-10-01T15:00:00.798990+00:00",
-      "penalizacion": 0.55
-    },
-    {
-      "key": "sabe tierra reprogramo vuelta parque lillo sera sabado 10 octubre",
-      "title": "Sabe la Tierra reprogramó su vuelta al Parque Lillo: será el sábado 10 de octubre",
-      "score": 0.483,
-      "sources_count": 1,
-      "first_seen": "2026-10-01T13:27:00+00:00",
-      "image": "http://nden.com.ar/uploads/noticias/5/2026/10/0ead92ff7e7352f386a9d81c4bb94ed4fcf6199f.jpg",
-      "articles": [
-        {
-          "portal": "Noticias de Necochea",
-          "title": "Sabe la Tierra reprogramó su vuelta al Parque Lillo: será el sábado 10 de octubre",
-          "url": "https://nden.com.ar/nota/38262/sabe-la-tierra-reprogramo-su-vuelta-al-parque-lillo-sera-el-sabado-10-de-octubre",
-          "published_at": "2026-10-01T13:27:00+00:00",
-          "first_seen": "2026-10-01T14:00:00.370684+00:00",
-          "category": null,
-          "image": "http://nden.com.ar/uploads/noticias/5/2026/10/0ead92ff7e7352f386a9d81c4bb94ed4fcf6199f.jpg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "ESPACIO PÚBLICO Si ya había sanciones, ¿qué cambia en Necochea con la prohibición de los “trapitos”?"
-        ],
-        "generated": "2026-10-01T15:03:01.469264+00:00"
-      },
-      "apariciones": 3,
-      "ultima_impresion": "2026-10-01T15:00:00.798990+00:00",
-      "penalizacion": 0.55
+      "apariciones": 5,
+      "ultima_impresion": "2026-10-01T15:30:01.053613+00:00",
+      "penalizacion": 0.166
     },
     {
       "key": "necochense gonzalo irazoqui seguira siendo presidente agencia dib",
       "title": "El necochense Gonzalo Irazoqui seguirá siendo presidente de la Agencia DIB",
-      "score": 0.372,
+      "score": 0.196,
       "sources_count": 2,
       "first_seen": "2026-10-01T13:04:39.795190+00:00",
       "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/2a64ed618d37ab87bdf18c04db0f895108dcba03.jpg",
@@ -628,16 +772,16 @@
           "La Agencia Diarios Bonaerenses (DIB) renovó sus autoridades durante una asamblea realizada en la ciudad de La Plata , en la que Gonzalo Julián Irazoqui , representante de Ecos Diarios de Necochea, fue ratificado como presidente de la entidad. De esta manera, el periodista y directivo necochense continuará al frente de la agencia de noticias bonaerense , consolidando la representación de un medio de nuestra ciudad en la conducción de una institución con más de tres décadas de trayectoria. Como vicepresidenta fue designada Ramona Maciel , representante de La Voz del Pueblo de Tres Arroyos.",
           "Además, Fernando Curas , de El Norte de San Nicolás, continuará como director, al igual que Enrique Iommi . Renovación y nuevos proyectos Luego de la asamblea, las autoridades de DIB recorrieron las obras de remodelación de las oficinas de la agencia en la capital provincial ."
         ],
-        "generated": "2026-10-01T15:00:57.183624+00:00"
+        "generated": "2026-10-01T15:31:22.312983+00:00"
       },
-      "apariciones": 5,
-      "ultima_impresion": "2026-10-01T15:00:00.798990+00:00",
-      "penalizacion": 0.166
+      "apariciones": 6,
+      "ultima_impresion": "2026-10-01T15:30:01.053613+00:00",
+      "penalizacion": 0.092
     },
     {
       "key": "buscado causa necochea quedo detenido olavarria robo carniceria",
       "title": "Buscado por una causa en Necochea, quedó detenido en Olavarría tras un robo a una carnicería",
-      "score": 0.319,
+      "score": 0.168,
       "sources_count": 1,
       "first_seen": "2026-10-01T13:27:24+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/10/buscado-por-una-causa-en-necochea-quedo-detenido-en-olavarria-tras-un-robo-a-una-carniceri.webp",
@@ -657,44 +801,16 @@
           "El individuo fue identificado por efectivos de la UTOI durante los operativos de saturación del fin de semana y quedó a disposición de la Justicia por una causa de hurto en grado de tentativa.",
           "Un hombre que era buscado en el marco de una causa judicial tramitada ante el Juzgado Correccional N.º 1 de Necochea fue interceptado durante uno de los operativos de saturación realizados por la Unidad Táctica de Operaciones Inmediatas (UTOI) en distintos sectores de la ciudad durante el último fin de semana."
         ],
-        "generated": "2026-10-01T15:02:51.526300+00:00"
+        "generated": "2026-10-01T15:32:55.373530+00:00"
       },
-      "apariciones": 4,
-      "ultima_impresion": "2026-10-01T15:00:00.798990+00:00",
-      "penalizacion": 0.303
-    },
-    {
-      "key": "hermetica v8 almafuerte clave folclorica ramanegra duo vuelve necochea",
-      "title": "Hermética, V8 y Almafuerte en clave folclórica: Ramanegra Dúo vuelve a Necochea",
-      "score": 0.257,
-      "sources_count": 1,
-      "first_seen": "2026-10-01T13:01:00+00:00",
-      "image": "http://nden.com.ar/uploads/noticias/5/2026/10/20261001100137_502522414-2490555487960226-4489559421861671066-n.jpg",
-      "articles": [
-        {
-          "portal": "Noticias de Necochea",
-          "title": "Hermética, V8 y Almafuerte en clave folclórica: Ramanegra Dúo vuelve a Necochea",
-          "url": "https://nden.com.ar/nota/38260/hermetica-v8-y-almafuerte-en-clave-folclorica-ramanegra-duo-vuelve-a-necochea",
-          "published_at": "2026-10-01T13:01:00+00:00",
-          "first_seen": "2026-10-01T13:30:00.754937+00:00",
-          "category": null,
-          "image": "http://nden.com.ar/uploads/noticias/5/2026/10/20261001100137_502522414-2490555487960226-4489559421861671066-n.jpg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "ESPACIO PÚBLICO Si ya había sanciones, ¿qué cambia en Necochea con la prohibición de los “trapitos”?"
-        ],
-        "generated": "2026-10-01T15:03:02.407387+00:00"
-      },
-      "apariciones": 4,
-      "ultima_impresion": "2026-10-01T15:00:00.798990+00:00",
-      "penalizacion": 0.303
+      "apariciones": 5,
+      "ultima_impresion": "2026-10-01T15:30:01.053613+00:00",
+      "penalizacion": 0.166
     },
     {
       "key": "ejecutivo prorroga servicio transporte mientras prepara nuevo llamado licitacion",
       "title": "El Ejecutivo prepara un nuevo llamado a licitación del servicio de colectivos",
-      "score": 0.189,
+      "score": 0.099,
       "sources_count": 2,
       "first_seen": "2026-10-01T11:00:01.110827+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/17-03-FOTO-micros-azules.webp",
@@ -723,69 +839,11 @@
           "TSN Necochea | ‹ VOLVER | Locales | colectivos | Tras la prorroga El Ejecutivo prepara un nuevo llamado a licitación del servicio de colectivos Está conformando el pliego que próximamente enviará al Concejo Deliberante Por Redacción TSN 01/10/2026 · 08:37 AM Agregar TSN Necochea en El Departamento Ejecutivo trabaja en un nuevo proceso licitatorio, con modificaciones a las exigencias y requisitos establecidos anteriormente, y ya cuenta con un nuevo proyecto de Pliego de Bases y Condiciones.",
           "En ese sentido, la semana próxima el Ejecutivo prevé elevar el nuevo llamado a consideración del Honorable Concejo Deliberante, para solicitar la autorización correspondiente y continuar avanzando hacia una nueva concesión del servicio de transporte urbano de pasajeros de Necochea y Quequén."
         ],
-        "generated": "2026-10-01T15:00:58.849664+00:00"
+        "generated": "2026-10-01T15:31:24.540409+00:00"
       },
-      "apariciones": 6,
-      "ultima_impresion": "2026-10-01T15:00:00.798990+00:00",
-      "penalizacion": 0.092
-    },
-    {
-      "key": "futbol local dos empates jornada miercoles completaron fecha 18",
-      "title": "Fútbol local: dos empates en la jornada del miércoles completaron la fecha 18",
-      "score": 0.16,
-      "sources_count": 1,
-      "first_seen": "2026-10-01T12:19:08+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/Foto-previa-clasico-San-Cayetano.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Fútbol local: dos empates en la jornada del miércoles completaron la fecha 18",
-          "url": "https://tsnnecochea.com.ar/deportes/futbol-local-dos-empates-en-la-noche-del-miercoles-completaron-la-fecha-18-238510/",
-          "published_at": "2026-10-01T12:19:08+00:00",
-          "first_seen": "2026-10-01T13:04:39.795190+00:00",
-          "category": "Campeonato",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/Foto-previa-clasico-San-Cayetano.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Deportes | Campeonato | Liga Necochea de Fútbol Fútbol local: dos empates en la jornada del miércoles completaron la fecha 18 Villa Díaz Vélez y Ministerio no se sacaron diferencias, mientras que el clásico de San Cayetano también terminó en tablas. Por Redacción TSN 01/10/2026 · 09:19 AM El clásico nocturno en el estadio de Sportivo se vivió con un clima distinto Agregar TSN Necochea en La zona A del Campeonato “Giuseppe Portugal” de la Liga Necochea de Fútbol se puso al día en la jornada del miércoles con dos empates que no modificaron para nada los primeros puestos del grupo.",
-          "Por la tarde igualaron 0-0 Villa Díaz Vélez y Ministerio en el estadio “Vasco Iparraguirre”, mientras que por la noche, en un marco muy atrapante en el estadio “Felipe Serafini”, Sportivo e Independiente empataron el clásico de San Cayetano 1 a 1 ."
-        ],
-        "generated": "2026-10-01T15:02:56.221674+00:00"
-      },
-      "apariciones": 5,
-      "ultima_impresion": "2026-10-01T15:00:00.798990+00:00",
-      "penalizacion": 0.166
-    },
-    {
-      "key": "accidente av 58 calle 73 motociclista debio trasladado hospital chocar auto",
-      "title": "Accidente en Av. 58 y calle 73: un motociclista debió ser trasladado al hospital tras chocar con un auto",
-      "score": 0.156,
-      "sources_count": 1,
-      "first_seen": "2026-10-01T12:00:13+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/4df6502d-33fc-446d-b2ef-cdbb19882bc8.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Accidente en Av. 58 y calle 73: un motociclista debió ser trasladado al hospital tras chocar con un auto",
-          "url": "https://tsnnecochea.com.ar/locales/accidente-vial-en-av-58-y-calle-73-un-motociclista-debio-ser-trasladado-al-hospital-tras-chocar-con-un-auto-238493/",
-          "published_at": "2026-10-01T12:00:13+00:00",
-          "first_seen": "2026-10-01T13:04:39.795190+00:00",
-          "category": "automovil",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/4df6502d-33fc-446d-b2ef-cdbb19882bc8.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Locales | automovil | Tránsito Accidente en Av. 58 y calle 73: un motociclista debió ser trasladado al hospital tras chocar con un auto El siniestro fue detectado por las cámaras del Centro de Operaciones y Monitoreo (COM). En el lugar trabajó personal de Defensa Civil, Tránsito y la Policía para asistir al conductor herido.",
-          "Por Redacción TSN 01/10/2026 · 09:00 AM Agregar TSN Necochea en Un operativo conjunto de asistencia y control de tránsito se desplegó durante la tarde de este lunes en la intersección de la Avenida 58 y calle 73 , luego de que un automóvil y una motocicleta protagonizaran un fuerte choque en la vía pública. La alerta sobre el siniestro vial fue emitida en primera instancia por operadores del Centro de Operaciones y Monitoreo (COM) , quienes detectaron el choque a través de las cámaras de videovigilancia e inmediatamente coordinaron el envío de los equipos de emergencia hacia la zona."
-        ],
-        "generated": "2026-10-01T15:02:58.717492+00:00"
-      },
-      "apariciones": 5,
-      "ultima_impresion": "2026-10-01T15:00:00.798990+00:00",
-      "penalizacion": 0.166
+      "apariciones": 7,
+      "ultima_impresion": "2026-10-01T15:30:01.053613+00:00",
+      "penalizacion": 0.05
     }
   ]
 }
