@@ -1,137 +1,183 @@
 {
-  "generated_at": "2026-10-02T01:30:00.902203+00:00",
+  "generated_at": "2026-10-02T02:00:00.680461+00:00",
   "article_count": 175,
   "fetch_errors": [],
   "stories": [
     {
-      "key": "lionel scaloni dio gusto recibio historico johnny benedictis predio ezeiza",
-      "title": "Lionel Scaloni se dio el gusto: recibió al histórico Johnny De Benedictis en el predio de Ezeiza",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-02T01:30:00.902203+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/71f451bbf8489936ead9ab2f548824fb1360d4ad.jpg",
+      "key": "ernesto povilaitis asumio presidencia puerto quequen inicio gestion",
+      "title": "Ernesto Povilaitis asumió la presidencia de Puerto Quequén y ya inició su gestión",
+      "score": 1.976,
+      "sources_count": 3,
+      "first_seen": "2026-10-01T15:44:00+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261001124721_whatsapp-image-2026-10-01-at-12-42-54-pm.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Lionel Scaloni se dio el gusto: recibió al histórico Johnny De Benedictis en el predio de Ezeiza",
-          "url": "https://necocheadigital.com/nota/119768/lionel-scaloni-se-dio-el-gusto-recibio-al-historico-johnny-de-benedictis-en-el-predio-de-ezeiza/",
+          "title": "Ernesto Povilaitis asumió la presidencia de Puerto Quequén y ya inició su gestión",
+          "url": "https://necocheadigital.com/nota/119766/ernesto-povilaitis-asumio-la-presidencia-de-puerto-quequen-y-ya-inicio-su-gestion/",
           "published_at": null,
-          "first_seen": "2026-10-02T01:30:00.902203+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Johnny llegó acompañado por su hijo Juan Bautista y representantes de la Asociación de Corredores de Turismo Carretera (ACTC), quienes aprovecharon la estadía del seleccionado para entregarle un reconocimiento formal al DT campeón del mundo. \"Vinimos con la ACTC a traerle un presente a Scaloni. Y como él había manifestado que era hincha de mi papá cuando corría, vinimos junto a él.",
-          "Charlamos un rato en el predio\", contó Pamperito en diálogo con Estación K2, destacando además la \"humildad\" del entrenador en sus redes sociales. Una historia que nació en 2021 La raíz de esta reunión se remonta a una entrevista concedida por Scaloni a Olé en 2021, donde sorprendió al confesar su fanatismo por el TC y por el estilo de manejo de Johnny: “Siempre me apasionó de toda la vida cómo piloteaba De Benedictis."
-        ],
-        "generated": "2026-10-02T01:32:10.026258+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-02T01:30:00.902203+00:00"
-    },
-    {
-      "key": "dos motociclistas debieron trasladados hospital sufrir fuertes accidentes transito necochea",
-      "title": "Dos motociclistas debieron ser trasladados al Hospital tras sufrir fuertes accidentes de tránsito en Necochea",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-02T01:30:00.902203+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261001113750_whatsapp-image-2026-10-01-at-11-37-33-1.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Dos motociclistas debieron ser trasladados al Hospital tras sufrir fuertes accidentes de tránsito en Necochea",
-          "url": "https://necocheadigital.com/nota/119764/dos-motociclistas-debieron-ser-trasladados-al-hospital-tras-sufrir-fuertes-accidentes-de-transito-en-necochea/",
-          "published_at": null,
-          "first_seen": "2026-10-02T01:30:00.902203+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El primero de los hechos tuvo lugar en la intersección de la avenida 58 y calle 73, cuando una motocicleta guiada por un joven colisionó fuertemente contra un automóvil por causas que se tratan de establecer. La alerta fue emitida en primera instancia por operadores del Centro de Operaciones y Monitoreo (COM), quienes detectaron el momento del choque a través de las cámaras de videovigilancia e inmediatamente coordinaron el envío de las unidades de emergencia hacia la zona.",
-          "Al arribar al sitio del siniestro, agentes de la Dirección General de Defensa Civil le brindaron los primeros auxilios al conductor del rodado menor. Dada la gravedad de los golpes recibidos durante la caída, los profesionales médicos dispusieron su traslado en ambulancia al nosocomio local para realizarle estudios de mayor complejidad."
-        ],
-        "generated": "2026-10-02T01:32:11.241570+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-02T01:30:00.902203+00:00"
-    },
-    {
-      "key": "liga necochea futbol completo fecha 18 dos empates zona",
-      "title": "Liga Necochea de Fútbol: se completó la fecha 18 con dos empates en la Zona A",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-02T01:30:00.902203+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261001114329_whatsapp-image-2026-10-01-at-11-43-14-1.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Liga Necochea de Fútbol: se completó la fecha 18 con dos empates en la Zona A",
-          "url": "https://necocheadigital.com/nota/119765/liga-necochea-de-futbol-se-completo-la-fecha-18-con-dos-empates-en-la-zona-a/",
-          "published_at": null,
-          "first_seen": "2026-10-02T01:30:00.902203+00:00",
+          "first_seen": "2026-10-02T02:00:00.680461+00:00",
           "category": null,
           "image": null
         },
         {
           "portal": "Necochea Digital",
-          "title": "Se disputó parcialmente la fecha 18 de la Liga Necochea de Fútbol",
-          "url": "https://necocheadigital.com/nota/119725/se-disputo-parcialmente-la-fecha-18-de-la-liga-necochea-de-futbol/",
+          "title": "Ernesto Povilaitis Giovazzino fue designado presidente del Consorcio de Gestión de Puerto Quequén",
+          "url": "https://necocheadigital.com/nota/119746/ernesto-povilaitis-giovazzino-fue-designado-presidente-del-consorcio-de-gestion-de-puerto-quequen/",
           "published_at": null,
-          "first_seen": "2026-10-02T01:30:00.902203+00:00",
+          "first_seen": "2026-10-02T02:00:00.680461+00:00",
           "category": null,
+          "image": null
+        },
+        {
+          "portal": "Noticias de Necochea",
+          "title": "Ernesto Povilaitis asumió la presidencia de Puerto Quequén y comenzó su gestión",
+          "url": "https://nden.com.ar/nota/38271/ernesto-povilaitis-asumio-la-presidencia-de-puerto-quequen-y-comenzo-su-gestion",
+          "published_at": "2026-10-01T15:44:00+00:00",
+          "first_seen": "2026-10-02T02:00:00.680461+00:00",
+          "category": null,
+          "image": "http://nden.com.ar/uploads/noticias/5/2026/10/20261001124429_whatsapp-image-2026-10-01-at-12-42-54-pm.jpg"
+        },
+        {
+          "portal": "Necochea News",
+          "title": "El Dr. Ernesto Povilaitis asumió y comenzó su gestión al frente de Puerto Quequén",
+          "url": "https://necocheanews.com.ar/el-dr-ernesto-povilaitis-asumio-y-comenzo-su-gestion-al-frente-de-puerto-quequen/",
+          "published_at": "2026-10-01T16:23:30+00:00",
+          "first_seen": "2026-10-02T02:00:00.680461+00:00",
+          "category": "LOCALES",
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "En el estadio Jorge “Vasco” Iparraguirre, Villa Díaz Vélez y Ministerio igualaron 0 a 0 en un partido picante que terminó con cuatro expulsados. En el conjunto local vieron la tarjeta roja Jonathan Ríos y Luciano Farías (desde el banco de suplentes), mientras que en la visita se fueron expulsados Fabián Cufré y el ayudante de campo Emilio Saffarano. El punto cosechado le sirvió a Villa Díaz Vélez para cortar una seguidilla de cinco derrotas consecutivas entre el certamen local y el Torneo Regional Federal Amateur.",
-          "En tanto, el \"Decano\" sumó una unidad clave para mantenerse en el tercer escalón de la tabla. Por su parte, el clásico de San Cayetano disputado en el Nuevo Felipe Serafini finalizó 1 a 1 entre Sportivo e Independiente. El \"Chimango\" se puso en ventaja durante la primera parte con un gol de tiro libre de Iñaki Iparraguirre, mientras que Facundo Leiva marcó la paridad definitiva para el Albirrojo en el complemento."
+          "Ernesto Povilaitis asumió formalmente la presidencia del Consorcio de Gestión de Puerto Quequén , luego de la firma del decreto mediante el cual el gobernador bonaerense Axel Kicillof oficializó su designación. Con su llegada a la conducción del organismo, Povilaitis inició de inmediato una agenda de trabajo que tuvo como primera actividad una recorrida por las diferentes áreas del Consorcio, con el objetivo de tomar contacto directo con el funcionamiento de la estación portuaria. Durante su primera jornada, el flamante presidente se presentó ante los trabajadores, saludó a los empleados y mantuvo distintos encuentros con quienes desarrollan diariamente sus tareas en las dependencias de Puerto Quequén.",
+          "La actividad contó también con la presencia del intendente de Necochea, Dr. Arturo Rojas , y del director gremial del Consorcio, Juan Carlos Peralta ."
         ],
-        "generated": "2026-10-02T01:32:13.180585+00:00"
+        "generated": "2026-10-02T02:00:19.944176+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-02T01:30:00.902203+00:00"
+      "ultima_impresion": "2026-10-02T02:00:00.680461+00:00"
     },
     {
-      "key": "emergencia transporte contradiccion dificil explicar concejo",
-      "title": "La emergencia del transporte y una contradicción difícil de explicar en el Concejo",
+      "key": "concejo deliberante refrendo prorroga 150 dias servicio colectivos",
+      "title": "El Concejo Deliberante refrendó la prórroga por 150 días del servicio de colectivos",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-10-02T01:30:00.902203+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/809686bccdeef13401123172bdb8b462a1706511.jpg",
+      "first_seen": "2026-10-02T02:00:00.680461+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261001172047_whatsapp-image-2026-10-01-at-17-20-13.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "La emergencia del transporte y una contradicción difícil de explicar en el Concejo",
-          "url": "https://necocheadigital.com/nota/119755/la-emergencia-del-transporte-y-una-contradiccion-dificil-de-explicar-en-el-concejo/",
+          "title": "El Concejo Deliberante refrendó la prórroga por 150 días del servicio de colectivos",
+          "url": "https://necocheadigital.com/nota/119769/el-concejo-deliberante-refrendo-la-prorroga-por-150-dias-del-servicio-de-colectivos/",
           "published_at": null,
-          "first_seen": "2026-10-02T01:30:00.902203+00:00",
+          "first_seen": "2026-10-02T02:00:00.680461+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "La discusión por el transporte público de Necochea dejó este miércoles una situación que, más allá de las posiciones políticas de cada bloque, merece ser analizada desde la lógica y la coherencia de las decisiones tomadas. El Concejo Deliberante aprobó la emergencia del transporte público, aunque el escenario que se pretendía resolver ya tenía, al menos parcialmente, una solución acordada: durante la mañana, el Departamento Ejecutivo y la Compañía de Transportes Necochea habían firmado una prórroga por 150 días, destinada a garantizar la continuidad del servicio mientras se avanza hacia una nueva concesión.",
-          "La prórroga fue firmada antes de la votación de la emergencia y quedó sujeta al posterior refrendo del Concejo Deliberante. La información sobre ese acuerdo, según se planteó durante la jornada, ya había sido comunicada a los concejales antes del inicio de la sesión."
+          "La medida busca dar una respuesta inmediata al vencimiento del plazo de 90 días de la extensión anterior y garantizar la continuidad de las líneas 502, 503, 510, 511, 512, 513, 514, 515, 517 y 518 junto a sus respectivos ramales. El aval legislativo se concretó tras reunirse la Comisión de Transporte del HCD, presidia por el concejal Julián Kristiansen (FP-MDF), para abordar el expediente que se había presentado sobre tablas durante la 11° Sesión Ordinaria sin haberse tratado en ese momento.",
+          "Al respecto, Kristiansen explicó que la convocatoria respondió a la urgencia del plazo para asegurar la prestación en el distrito tras haber quedado desiertos los dos llamados a licitación anteriores por falta de oferentes: “Lo que garantizamos con esto es la continuidad del servicio."
         ],
-        "generated": "2026-10-02T01:32:13.906217+00:00"
+        "generated": "2026-10-02T02:02:14.757695+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-02T01:30:00.902203+00:00"
+      "ultima_impresion": "2026-10-02T02:00:00.680461+00:00"
+    },
+    {
+      "key": "cual seria sentido emergencia tenes continuidad facundo croci cuestiono concejales defendio prorroga micros",
+      "title": "“¿Cuál sería el sentido de la emergencia si ya tenés la continuidad?”: Facundo Croci cuestionó a los concejales y defendió la prórroga de los micros",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-02T02:00:00.680461+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/a416b906ffaf5396d14b79f615d0d7d9818c0a56.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "“¿Cuál sería el sentido de la emergencia si ya tenés la continuidad?”: Facundo Croci cuestionó a los concejales y defendió la prórroga de los micros",
+          "url": "https://necocheadigital.com/nota/119756/cual-seria-el-sentido-de-la-emergencia-si-ya-tenes-la-continuidad-facundo-croci-cuestiono-a-los-concejales-y-defendio-la-prorroga-de-los-micros/",
+          "published_at": null,
+          "first_seen": "2026-10-02T02:00:00.680461+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La discusión por el futuro del transporte público de pasajeros sumó este miércoles 30 de septiembre un nuevo capítulo, esta vez con fuertes cuestionamientos desde el Departamento Ejecutivo hacia distintos sectores de la oposición en el Concejo Deliberante. Facundo Croci, director de Transporte de la Municipalidad de Necochea , defendió la prórroga acordada con la Compañía de Transportes Necochea y cuestionó el sentido de la emergencia aprobada por mayoría durante la extensa sesión del cuerpo.",
+          "En diálogo con Voces de la Tarde , programa que conduce Jorge Gómez por Radio Noticias Necochea 97.3 , Croci sostuvo que los concejales ya conocían antes del inicio de la sesión que el intendente Arturo Rojas había firmado, ad referéndum del Concejo , una extensión de la concesión por 150 días o hasta que comience a prestar servicio un nuevo concesionario."
+        ],
+        "generated": "2026-10-02T02:02:16.008007+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-02T02:00:00.680461+00:00"
+    },
+    {
+      "key": "feliz crisis comercial historica hoteleros gastronomicos advierten cierres caida consumo",
+      "title": "La Feliz, en una crisis comercial histórica: hoteleros y gastronómicos advierten por cierres y caída del consumo",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-02T02:00:00.680461+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/fd4083b942166f00e6096223eca3ad3957e515c8.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "La Feliz, en una crisis comercial histórica: hoteleros y gastronómicos advierten por cierres y caída del consumo",
+          "url": "https://necocheadigital.com/nota/119761/la-feliz-en-una-crisis-comercial-historica-hoteleros-y-gastronomicos-advierten-por-cierres-y-caida-del-consumo/",
+          "published_at": null,
+          "first_seen": "2026-10-02T02:00:00.680461+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Mar del Plata atraviesa un escenario de preocupación entre los sectores hotelero, gastronómico y comercial , en un contexto marcado por la caída del consumo, el cierre de establecimientos, el aumento de los costos y las dificultades para trasladar esas subas a los precios. El diagnóstico fue expuesto en los últimos días por referentes del sector en distintos ámbitos. El presidente de la Asociación Empresaria Hotelera Gastronómica (AEHG) de Mar del Plata y coordinador del sector en la provincia de Buenos Aires, Hernán Szkrohal , llevó el reclamo a la Cámara de Diputados y pidió medidas concretas para sostener a los establecimientos.",
+          "La situación se suma a otras señales de retracción de la actividad comercial. Días atrás, durante el Día del Empleado de Comercio, el sindicato estimó un acatamiento cercano al 80% y destacó la fuerte cantidad de locales cerrados en los principales paseos comerciales de la ciudad."
+        ],
+        "generated": "2026-10-02T02:02:17.237718+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-02T02:00:00.680461+00:00"
+    },
+    {
+      "key": "lionel scaloni hablo pasion ford conocer johnny benedictis",
+      "title": "Lionel Scaloni habló de su pasión por Ford tras conocer a Johnny De Benedictis",
+      "score": 0.982,
+      "sources_count": 1,
+      "first_seen": "2026-10-02T01:47:00+00:00",
+      "image": "http://nden.com.ar/uploads/noticias/5/2026/10/a05cefab859ae074bafa61732f400d2b3b210f9c.jpg",
+      "articles": [
+        {
+          "portal": "Noticias de Necochea",
+          "title": "Lionel Scaloni habló de su pasión por Ford tras conocer a Johnny De Benedictis",
+          "url": "https://nden.com.ar/nota/38273/lionel-scaloni-hablo-de-su-pasion-por-ford-tras-conocer-a-johnny-de-benedictis",
+          "published_at": "2026-10-02T01:47:00+00:00",
+          "first_seen": "2026-10-02T02:00:00.680461+00:00",
+          "category": null,
+          "image": "http://nden.com.ar/uploads/noticias/5/2026/10/a05cefab859ae074bafa61732f400d2b3b210f9c.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TRANSPORTE PÚBLICO El HCD refrendó la prórroga por 150 días para la Compañía de Transportes Necochea"
+        ],
+        "generated": "2026-10-02T02:02:20.142690+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-02T02:00:00.680461+00:00"
     },
     {
       "key": "extienden moratoria diciembre opera vencimiento cuota 10 30 bonificacion",
       "title": "Extienden la moratoria hasta diciembre y opera el vencimiento de la cuota 10 con un 30% de bonificación",
-      "score": 0.366,
+      "score": 0.193,
       "sources_count": 2,
       "first_seen": "2026-10-01T23:23:14+00:00",
       "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261001112057_12-04-foto-vencimiento-tasas-agencia-recaudacion.jpg",
@@ -160,16 +206,16 @@
           "La Municipalidad de Necochea informa, a través de la Agencia de Recaudación, que ha sido prorrogado el Régimen de Recuperación de Deudas y Facilidades de Pago hasta el 18 de diciembre de 2026 , inclusive. Desde la Agencia confirmaron que la prórroga mantiene en todos sus términos las condiciones originales del régimen, incluyendo los descuentos sobre intereses y recargos según la modalidad de pago elegida: -Pago al contado o hasta en 1 cuota: 80% de descuento -Hasta 5 cuotas: 60% de descuento -Hasta 11 cuotas: 40% de descuento Se recuerda que el pago requiere un anticipo del 20% sobre el total de la deuda a regularizar, y el saldo se abona en cuotas mensuales y consecutivas con vencimiento el día 15 de cada mes.",
           "Asimismo, para acceder al beneficio los contribuyentes deben tener cumplidas las obligaciones fiscales del año 2026 correspondientes al tributo que se regulariza."
         ],
-        "generated": "2026-10-02T01:30:14.359837+00:00"
+        "generated": "2026-10-02T02:00:16.276347+00:00"
       },
-      "apariciones": 5,
-      "ultima_impresion": "2026-10-02T01:30:00.902203+00:00",
-      "penalizacion": 0.166
+      "apariciones": 6,
+      "ultima_impresion": "2026-10-02T02:00:00.680461+00:00",
+      "penalizacion": 0.091
     },
     {
       "key": "violo restriccion ingreso casa expareja bebe ocho meses",
       "title": "Violó la restricción e ingresó a la casa de su expareja con una bebé de ocho meses",
-      "score": 0.319,
+      "score": 0.169,
       "sources_count": 1,
       "first_seen": "2026-10-01T23:57:58+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/10/violo-la-restriccion-e-ingreso-a-la-casa-de-su-expareja-con-una-bebe-de-ocho-meses.webp",
@@ -189,16 +235,16 @@
           "El llamado de emergencia motivó el despliegue del Comando de Patrullas en calle 64, donde los efectivos constataron la infracción a la orden judicial e ingresaron para aprehender al sujeto y ponerlo a disposición de la fiscalía. Un hombre de 27 años fue aprehendido en Necochea tras ser hallado en el domicilio de su expareja, pese a encontrarse vigente una medida cautelar que le impedía acercarse.",
           "Noticia relacionadas El choque de cada día: un motociclista terminó hospitalizado al impactar con una camioneta 1 de octubre de 2026 Prisión preventiva para los acusados por la muerte de Antonella Álvarez 1 de octubre de 2026 El procedimiento se inició a partir de un alerta recibido a través del 911, que motivó la intervención de personal del Comando de Patrullas Necochea."
         ],
-        "generated": "2026-10-02T01:32:15.339751+00:00"
+        "generated": "2026-10-02T02:02:18.850086+00:00"
       },
-      "apariciones": 4,
-      "ultima_impresion": "2026-10-02T01:30:00.902203+00:00",
-      "penalizacion": 0.303
+      "apariciones": 5,
+      "ultima_impresion": "2026-10-02T02:00:00.680461+00:00",
+      "penalizacion": 0.166
     },
     {
       "key": "gonzalo irazoqui reelecto frente diarios bonaerenses medio no adapte nuevos tiempos va apagando",
       "title": "Gonzalo Irazoqui fue reelecto al frente de Diarios Bonaerenses: “El medio que no se adapte a los nuevos tiempos se va apagando”",
-      "score": 0.266,
+      "score": 0.14,
       "sources_count": 1,
       "first_seen": "2026-10-01T23:56:33+00:00",
       "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/IMG_9224.jpg",
@@ -218,45 +264,16 @@
           "El empresario necochense y titular de Ecos Diarios continuará por un nuevo período al frente de la entidad que nuclea a 85 medios de comunicación de la provincia de Buenos Aires. En diálogo con el periodist Miguel Abálsamo en NEC Radio 98.3, del multimedio NQ , habló sobre los desafíos que atraviesa la industria, la transformación digital y la necesidad de adaptarse a las nuevas formas de comunicación.",
           "El empresario necochense Gonzalo Irazoqui , titular de Ecos Diarios, fue reelecto como presidente de Diarios Bonaerenses (DIB) , entidad con más de tres décadas de trayectoria y que actualmente representa a unos 85 medios de comunicación de distintos puntos de la provincia de Buenos Aires ."
         ],
-        "generated": "2026-10-02T01:32:27.247403+00:00"
+        "generated": "2026-10-02T02:02:28.091976+00:00"
       },
-      "apariciones": 4,
-      "ultima_impresion": "2026-10-02T01:30:00.902203+00:00",
-      "penalizacion": 0.303
-    },
-    {
-      "key": "choque cada dia motociclista termino hospitalizado impactar camioneta",
-      "title": "El choque de cada día: un motociclista terminó hospitalizado al impactar con una camioneta",
-      "score": 0.263,
-      "sources_count": 1,
-      "first_seen": "2026-10-01T14:28:52+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2025/10/same-ambulancia.jpg",
-      "articles": [
-        {
-          "portal": "Diario Necochea",
-          "title": "El choque de cada día: un motociclista terminó hospitalizado al impactar con una camioneta",
-          "url": "https://diarionecochea.com/2026/10/01/el-choque-de-cada-dia-un-motociclista-termino-hospitalizado-al-chocar-con-una-camioneta/",
-          "published_at": "2026-10-01T14:28:52+00:00",
-          "first_seen": "2026-10-02T00:30:00.763207+00:00",
-          "category": "Policiales",
-          "image": "https://diarionecochea.com/wp-content/uploads/2025/10/same-ambulancia.jpg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El siniestro vial movilizó a personal de Tránsito, Policía y emergencias para ordenar la circulación e iniciar las actuaciones, luego de que el SAME atendiera al motociclista accidentado y dispusiera su internación. Un motociclista sufrió heridas y debió ser derivado al Hospital Municipal Doctor Emilio Ferreyra luego de participar en un severo choque registrado en el cruce de la avenida 59 y la calle 70.",
-          "Noticia relacionadas Violó la restricción e ingresó a la casa de su expareja con una bebé de ocho meses 1 de octubre de 2026 Prisión preventiva para los acusados por la muerte de Antonella Álvarez 1 de octubre de 2026 El hecho se produjo cuando, por motivos que todavía son materia de investigación, una moto Brava de 110 centímetros cúbicos impactó contra una camioneta Ford EcoSport. Debido al impacto, el hombre que manejaba el vehículo de menor porte resultó con lesiones."
-        ],
-        "generated": "2026-10-02T01:32:52.954088+00:00"
-      },
-      "apariciones": 3,
-      "ultima_impresion": "2026-10-02T01:30:00.902203+00:00",
-      "penalizacion": 0.55
+      "apariciones": 5,
+      "ultima_impresion": "2026-10-02T02:00:00.680461+00:00",
+      "penalizacion": 0.166
     },
     {
       "key": "oficializaron povilaitis frente puerto lanzo advertencia vamos dar baja",
       "title": "Oficializaron a Povilaitis al frente del Puerto y ya lanzó una advertencia: \"Vamos a dar de baja...\"",
-      "score": 0.166,
+      "score": 0.088,
       "sources_count": 1,
       "first_seen": "2026-10-01T23:18:58+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/10/oficializaron-a-povilaitis-al-frente-de-puerto-quequen-y-ya-lanzo-una-advertencia.webp",
@@ -276,16 +293,16 @@
           "Su designación fue formalizada por el Gobierno bonaerense y comenzó la gestión con una recorrida por las distintas áreas del Consorcio junto a Arturo Rojas . El exsecretario de Legal y Técnica de Arturo Rojas inició este jueves su gestión en el organismo portuario.",
           "Meses atrás había manifestado que se revisarían contratos y que algunas pautas publicitarias serían dadas de baja. Noticia relacionadas Diputados comienza a debatir el proyecto que endurece las penas por operar en Malvinas 1 de octubre de 2026 El Concejo Deliberante de Necochea aprobó la ordenanza que prohíbe los \"trapitos\" y limpiavidrios 1 de octubre de 2026 Ernesto Povilaitis Giovazzino quedó formalmente al frente del Consorcio de Gestión de Puerto Quequén luego de que el Gobierno de la Provincia de Buenos Aires oficializara su designación mediante el Decreto 1865/2026, publicado este jueves en el Boletín Oficial."
         ],
-        "generated": "2026-10-02T01:32:16.798632+00:00"
+        "generated": "2026-10-02T02:02:21.600147+00:00"
       },
-      "apariciones": 5,
-      "ultima_impresion": "2026-10-02T01:30:00.902203+00:00",
-      "penalizacion": 0.166
+      "apariciones": 6,
+      "ultima_impresion": "2026-10-02T02:00:00.680461+00:00",
+      "penalizacion": 0.091
     },
     {
       "key": "encuesta 2027 pesar descontento economico milei sostiene mano mano parejo oposicion",
       "title": "Encuesta 2027: A pesar del descontento económico, Milei sostiene un mano a mano parejo con la oposición",
-      "score": 0.165,
+      "score": 0.087,
       "sources_count": 1,
       "first_seen": "2026-10-01T23:12:45+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/09/Elecciones-UrnaDNI2025.jpg",
@@ -305,16 +322,16 @@
           "TSN Necochea | ‹ VOLVER | Nación | Elecciones 2027 Encuesta 2027: A pesar del descontento económico, Milei sostiene un mano a mano parejo con la oposición Aunque el 54% de los consultados percibe que la economía empeoró respecto al año pasado, el oficialismo conserva su piso electoral y pelea voto a voto la preferencia ciudadana frente al peronismo. Por Redacción TSN 01/10/2026 · 08:12 PM Agregar TSN Necochea en Una nueva encuesta volvió a mostrar un escenario electoral extremadamente parejo para las presidenciales de 2027, con diferencias mínimas entre el oficialismo y el peronismo de apenas 9 décimas de punto, y resultados ajustados también en eventuales balotajes entre el presidente Javier Milei, el gobernador Axel Kicillof y Sergio Massa.",
           "​El relevamiento fue realizado por la consultora Synopsis entre el 8 y el 15 de septiembre sobre 1.257 casos a nivel nacional y tiene un margen de error de +/- 2,8 puntos porcentuales."
         ],
-        "generated": "2026-10-02T01:32:17.996293+00:00"
+        "generated": "2026-10-02T02:02:22.812435+00:00"
       },
-      "apariciones": 5,
-      "ultima_impresion": "2026-10-02T01:30:00.902203+00:00",
-      "penalizacion": 0.166
+      "apariciones": 6,
+      "ultima_impresion": "2026-10-02T02:00:00.680461+00:00",
+      "penalizacion": 0.091
     },
     {
       "key": "municipalidad extendio moratoria 18 diciembre",
       "title": "LA MUNICIPALIDAD EXTENDIÒ LA MORATORIA HASTA EL 18 DE DICIEMBRE.",
-      "score": 0.137,
+      "score": 0.072,
       "sources_count": 1,
       "first_seen": "2026-10-01T23:12:11+00:00",
       "image": null,
@@ -334,16 +351,16 @@
           "Generales LA MUNICIPALIDAD EXTENDIÒ LA MORATORIA HASTA EL 18 DE DICIEMBRE. Por admin - 1 octubre, 2026 0 2 Facebook Twitter Pinterest WhatsApp Necochea.- Se extendió la moratoria hasta diciembre y opera el vencimiento de la cuota 10 con un 30% de bonificación. El Régimen de Recuperación de Deudas y Facilidades de Pago se extendió hasta el 18 de diciembre del corriente año.",
           "La Municipalidad de Necochea informó a través de la Agencia de Recaudación, que ha sido prorrogado el Régimen de Recuperación de Deudas y Facilidades de Pago hasta el 18 de diciembre de 2026 , inclusive. Desde el área confirmaron que la prórroga mantiene en todos sus términos las condiciones originales del régimen, incluyendo los descuentos sobre intereses y recargos según la modalidad de pago elegida: -Pago al contado o hasta en 1 cuota: 80% de descuento -Hasta 5 cuotas: 60% de descuento -Hasta 11 cuotas: 40% de descuento."
         ],
-        "generated": "2026-10-02T01:32:30.378165+00:00"
+        "generated": "2026-10-02T02:02:31.230179+00:00"
       },
-      "apariciones": 5,
-      "ultima_impresion": "2026-10-02T01:30:00.902203+00:00",
-      "penalizacion": 0.166
+      "apariciones": 6,
+      "ultima_impresion": "2026-10-02T02:00:00.680461+00:00",
+      "penalizacion": 0.091
     },
     {
       "key": "sabe tierra vuelve parque miguel lillo",
       "title": "SABE LA TIERRA VUELVE AL PARQUE MIGUEL LILLO.",
-      "score": 0.075,
+      "score": 0.04,
       "sources_count": 1,
       "first_seen": "2026-10-01T23:06:47+00:00",
       "image": null,
@@ -363,16 +380,16 @@
           "Generales SABE LA TIERRA VUELVE AL PARQUE MIGUEL LILLO. Por admin - 1 octubre, 2026 0 3 Facebook Twitter Pinterest WhatsApp Necochea .- La feria de consumo consciente postergó por razones climáticas la jornada prevista para este sábado. La nueva cita será de 10 a 14:30 horas en la calle 89 esquina Av. La jornada marcará el regreso formal del mercado a su formato al aire libre, luego de las ediciones de invierno realizadas bajo techo.",
           "Taller gratuito de compostaje Ese mismo sábado, a las 12, se realizará un taller gratuito de compostaje a cargo de Willy Gutiérrez Valencia. La actividad se sumará a los habituales puestos del mercado y estará abierta a quienes quieran acercarse a conocer herramientas y prácticas vinculadas con el aprovechamiento de residuos orgánicos. Sabe la Tierra promueve el consumo responsable, la economía local y el encuentro directo entre productores y vecinos."
         ],
-        "generated": "2026-10-02T01:32:31.123663+00:00"
+        "generated": "2026-10-02T02:02:31.996205+00:00"
       },
-      "apariciones": 6,
-      "ultima_impresion": "2026-10-02T01:30:00.902203+00:00",
-      "penalizacion": 0.092
+      "apariciones": 7,
+      "ultima_impresion": "2026-10-02T02:00:00.680461+00:00",
+      "penalizacion": 0.05
     },
     {
       "key": "quien piloto apunalado vuelo flydubai salvo tripulacion",
       "title": "Quién es el piloto que fue apuñalado durante un vuelo de Flydubai y salvó a la tripulación",
-      "score": 0.045,
+      "score": 0.024,
       "sources_count": 1,
       "first_seen": "2026-10-01T14:53:22+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/10/quien-es-el-piloto-que-fue-apunalado-durante-un-vuelo-de-flydubai-y-salvo-a-la-tripulacion.webp",
@@ -392,16 +409,16 @@
           "El capitán Smit Machchhar fue herido varias veces durante el vuelo FZ1073, logró abrir la puerta de la cabina y permitió que pasajeros redujeran al presunto atacante. El primer ministro de Israel, Benjamin Netanyahu, calificó de “verdadero héroe” al piloto indio Smit Machchhar, quien fue apuñalado por su copiloto durante el vuelo FZ1073 de Flydubai, que debió aterrizar de emergencia en Arabia Saudita.",
           "El piloto, pese a sus heridas, logró abrir la puerta de la cabina y permitió que pasajeros y tripulantes redujeran al atacante. Noticia relacionadas Un piloto apuñaló a otro durante un vuelo de Dubái a Tel Aviv y el avión aterrizó de emergencia 30 de septiembre de 2026 Cristina Kirchner presentó un planteo ante la ONU para revisar su condena en la causa Vialidad 29 de septiembre de 2026 “Mi saludo al piloto indio Capitán Smit Machchhar por su extraordinario valor ."
         ],
-        "generated": "2026-10-02T01:32:50.795294+00:00"
+        "generated": "2026-10-02T02:02:53.421726+00:00"
       },
-      "apariciones": 6,
-      "ultima_impresion": "2026-10-02T01:30:00.902203+00:00",
-      "penalizacion": 0.092
+      "apariciones": 7,
+      "ultima_impresion": "2026-10-02T02:00:00.680461+00:00",
+      "penalizacion": 0.05
     },
     {
       "key": "otorgaron detencion hombre entro escuela arma fuego",
       "title": "Otorgaron la detención al hombre que entró a una escuela con un arma de fuego",
-      "score": 0.026,
+      "score": 0.014,
       "sources_count": 1,
       "first_seen": "2026-10-01T22:39:36+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-30-at-10.08.48.webp",
@@ -421,16 +438,16 @@
           "TSN Necochea | ‹ VOLVER | Locales | arma | Juzgado de Garantías Otorgaron la detención al hombre que entró a una escuela con un arma de fuego Fue en la Escuela n° 16 de Claraz. Lo pidio el fiscal Por Redacción TSN 01/10/2026 · 07:39 PM Agregar TSN Necochea en A requerimiento del fiscal Guillermo Sabatini, el Juzgado de Garantías otorgó la detención de un hombre de 32 años, imputado por los delitos de Intimidación Pública y Desobediencia. El sujeto ingresó armado con una carabina a la Escuela N.º 16 de Claraz , buscando a su expareja, empleada de la institución, a quien ya había amenazado. Tras amedrentar al personal y a los alumnos, el hombre se dio a la fuga.",
           "Minutos después fue aprehendido por efectivos de la Subcomisaría de Juan N. Fernández en un camino rural. El fiscal le tomó declaración y solicitó inmediatamente su detención."
         ],
-        "generated": "2026-10-02T01:32:19.163410+00:00"
+        "generated": "2026-10-02T02:02:24.013910+00:00"
       },
-      "apariciones": 8,
-      "ultima_impresion": "2026-10-02T01:30:00.902203+00:00",
-      "penalizacion": 0.028
+      "apariciones": 9,
+      "ultima_impresion": "2026-10-02T02:00:00.680461+00:00",
+      "penalizacion": 0.015
     },
     {
       "key": "ley tierras corte justifico fallo siente victima odio descalificacion",
       "title": "LEY DE TIERRAS: LA CORTE JUSTIFICÒ EL FALLO PORQUE SE SIENTE VÌCTIMA DE «ODIO Y DESCALIFICACIÒN».",
-      "score": 0.022,
+      "score": 0.012,
       "sources_count": 1,
       "first_seen": "2026-10-01T22:54:53+00:00",
       "image": null,
@@ -450,16 +467,16 @@
           "Generales LEY DE TIERRAS: LA CORTE JUSTIFICÒ EL FALLO PORQUE SE SIENTE VÌCTIMA DE «ODIO Y DESCALIFICACIÒN». Por admin - 1 octubre, 2026 0 6 Facebook Twitter Pinterest WhatsApp Caba .- La Corte Suprema de Justicia intentó despegarse del fallo sobre la Ley de Tierras y aseguró que la discusión sobre el DNU queda en manos de Diputados Tras el masivo repudio, el máximo tribunal emitió un comunicado en el que denuncia ser víctima de «descalificación» y «odio» y señala que el fallo «tampoco impide que toda persona que considere que el régimen legal de tierras es inconstitucional, peticione una medida cautelar, cuya procedencia decidirá un juez competente».",
           "«En el caso sólo se decidió un aspecto procesal, que se refiere a la legitimación de una asociación para obtener una medida cautelar y se ajusta estrictamente a todos los precedentes de esta Corte Suprema."
         ],
-        "generated": "2026-10-02T01:32:31.893703+00:00"
+        "generated": "2026-10-02T02:02:32.737728+00:00"
       },
-      "apariciones": 8,
-      "ultima_impresion": "2026-10-02T01:30:00.902203+00:00",
-      "penalizacion": 0.028
+      "apariciones": 9,
+      "ultima_impresion": "2026-10-02T02:00:00.680461+00:00",
+      "penalizacion": 0.015
     },
     {
       "key": "transforma mesa familiar consumo pollo supero carne vacuna primera vez",
       "title": "Se transforma la mesa familiar: el consumo de pollo superó al de carne vacuna por primera vez",
-      "score": 0.004,
+      "score": 0.002,
       "sources_count": 1,
       "first_seen": "2026-10-01T21:24:12+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/06/pollo.webp",
@@ -479,16 +496,16 @@
           "TSN Necochea | ‹ VOLVER | Locales | Argentina | Consumo Se transforma la mesa familiar: el consumo de pollo superó al de carne vacuna por primera vez Un relevamiento del IERAL refleja un cambio de época que ya se siente en las carnicerías y pollerías locales. La diferencia de precios consolidó a la carne aviar como la principal opción en los hogares. Por Redacción TSN 01/10/2026 · 06:24 PM Agregar TSN Necochea en Por primera vez en la historia económica de Argentina, la carne aviar superó a la vacuna en el balance anual de consumo , de acuerdo con el último informe del Instituto de Estudios sobre la Realidad Argentina y Latinoamericana (IERAL).",
           "​Las cifras precisaron que, entre agosto de 2025 y julio de 2026, el consumo de carne aviar trepó a los 47 kilos por habitante y aventajó por un estrecho pero significativo margen a la carne vacuna, que cerró el mismo período en 46,7 kilos . ​La noticia no tomó por sorpresa al sector."
         ],
-        "generated": "2026-10-02T01:32:28.436582+00:00"
+        "generated": "2026-10-02T02:02:29.283646+00:00"
       },
-      "apariciones": 11,
-      "ultima_impresion": "2026-10-02T01:30:00.902203+00:00",
-      "penalizacion": 0.005
+      "apariciones": 12,
+      "ultima_impresion": "2026-10-02T02:00:00.680461+00:00",
+      "penalizacion": 0.003
     },
     {
       "key": "tragedia muerto herido choque frontal camioneta camion",
       "title": "Tragedia: un muerto y un herido por el choque frontal entre una camioneta y un camión",
-      "score": 0.004,
+      "score": 0.002,
       "sources_count": 1,
       "first_seen": "2026-10-01T21:03:48+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/Screenshot_20261001_180109_Chrome.webp",
@@ -508,16 +525,16 @@
           "TSN Necochea | ‹ VOLVER | Nación | accidente | Brandsen Tragedia: un muerto y un herido por el choque frontal entre una camioneta y un camión La víctima fatal, identificada como Hernán Argerich, de 66 años, viajaba en el asiento del acompañante del rodado de menor porte. Por Redacción TSN 01/10/2026 · 06:03 PM Fatal choque en Brandsen. Foto: Agencia NA Agregar TSN Necochea en Un hombre de 66 años murió este jueves luego de chocar su camioneta con un camión en la Ruta 2, a la altura del partido bonaerense de Brandsen, mientras que el conductor del rodado de menor porte resultó gravemente herido .",
           "Fatal choque en Brandsen. Foto: Agencia NA Fuentes policiales informaron que el hecho ocurrió durante esta mañana en el kilómetro 54, donde la víctima, identificada como Hernán Argerich y quien viajaba en el asiento del acompañante de una Volkswagen T-Cross, falleció como consecuencia del fuerte impacto."
         ],
-        "generated": "2026-10-02T01:32:29.630548+00:00"
+        "generated": "2026-10-02T02:02:30.471622+00:00"
       },
-      "apariciones": 11,
-      "ultima_impresion": "2026-10-02T01:30:00.902203+00:00",
-      "penalizacion": 0.005
+      "apariciones": 12,
+      "ultima_impresion": "2026-10-02T02:00:00.680461+00:00",
+      "penalizacion": 0.003
     },
     {
       "key": "alineamiento libertad avanza sebastian pareja baja tensiones ratifica diego santilli como candidato gobernador bonaerense",
       "title": "Sebastián Pareja ratificó a Diego Santilli como el candidato a gobernador de La Libertad Avanza",
-      "score": 0.003,
+      "score": 0.001,
       "sources_count": 2,
       "first_seen": "2026-10-01T23:28:08+00:00",
       "image": "https://cdnartic.ar/sEsZKH7DTlkxjfjXhviJZFHUZBE=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/10/el_diputado_nacional_sebastian_pareja.webp",
@@ -544,12 +561,12 @@
       "summary": {
         "paragraphs": [
           "Inicio / Nacional Nacional Alineamiento en La Libertad Avanza: Sebastián Pareja baja tensiones y ratifica a Diego Santilli como candidato a gobernador bonaerense De cara al escenario electoral de 2027, el armador de La Libertad Avanza en la provincia de Buenos Aires, Sebastián Pareja, desestimó por el momento sus aspiraciones personales a encabezar la boleta provincial y dio un fuerte respaldo a Diego Santilli como el principal nombre de la administración nacional para disputar la Gobernación bonaerense.",
-          "Redacción jueves, 1 de octubre de 2026 · 36 lecturas En declaraciones mediáticas, el dirigente libertario argumentó que el espacio debe priorizar la unidad y evitar desgastes en disputas internas antes de definir la estrategia en el principal bastión electoral del país."
+          "Redacción jueves, 1 de octubre de 2026 · 38 lecturas En declaraciones mediáticas, el dirigente libertario argumentó que el espacio debe priorizar la unidad y evitar desgastes en disputas internas antes de definir la estrategia en el principal bastión electoral del país."
         ],
-        "generated": "2026-10-02T01:30:34.568206+00:00"
+        "generated": "2026-10-02T02:00:40.207952+00:00"
       },
-      "apariciones": 13,
-      "ultima_impresion": "2026-10-02T01:30:00.902203+00:00",
+      "apariciones": 14,
+      "ultima_impresion": "2026-10-02T02:00:00.680461+00:00",
       "penalizacion": 0.001
     },
     {
@@ -575,39 +592,10 @@
           "TSN Necochea | ‹ VOLVER | Campo | Transporte | Transporte Multaron a dos camioneros por provocarle severos daños a caminos rurales Ocurrió este jueves en el partido de Lobería, en los accesos a San Manuel y Arenas Verdes. Los transportistas, oriundos de Cañuelas y Balcarce, circularon sin respetar las restricciones por mal clima. Por Redacción TSN 01/10/2026 · 05:13 PM Agregar TSN Necochea en ​La Municipalidad de Lobería labró actas de infracción a dos transportistas que circulaban con vehículos de gran porte y provocaron severos daños en la red vial del distrito.",
           "​Las contravenciones se detectaron este jueves en dos puntos clave: uno de los camiones transitaba por el camino rural hacia San Manuel , mientras que el otro lo hacía por la calle de acceso a Arenas Verdes . ​Según informaron las autoridades, los conductores sancionados son oriundos de Cañuelas y Balcarce ."
         ],
-        "generated": "2026-10-02T01:32:33.113762+00:00"
-      },
-      "apariciones": 13,
-      "ultima_impresion": "2026-10-02T01:30:00.902203+00:00",
-      "penalizacion": 0.001
-    },
-    {
-      "key": "crimen alejandro fiorito otorgan arresto domiciliario patricia fiorita",
-      "title": "Crimen de Alejandro Fiorito: otorgan el arresto domiciliario a Patricia Astesano",
-      "score": 0.001,
-      "sources_count": 1,
-      "first_seen": "2026-10-01T19:40:26+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/1_l4Rbvjo_720x0__1.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Crimen de Alejandro Fiorito: otorgan el arresto domiciliario a Patricia Astesano",
-          "url": "https://tsnnecochea.com.ar/locales/crimen-de-alejandro-fiorito-otorgan-el-arresto-domiciliario-a-patricia-fiorita-238571/",
-          "published_at": "2026-10-01T19:40:26+00:00",
-          "first_seen": "2026-10-01T20:00:01.109212+00:00",
-          "category": "fiscalía",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/1_l4Rbvjo_720x0__1.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Locales | fiscalía | Fiscalía Crimen de Alejandro Fiorito: otorgan el arresto domiciliario a Patricia Astesano ​La medida aún no se hizo efectiva a la espera del dispositivo electrónico. El fiscal Carlos Larrarte continúa con los peritajes balísticos y la reconstrucción del hecho ocurrido en Quequén. Por Redacción TSN 01/10/2026 · 04:40 PM Alejandra Fiorito Agregar TSN Necochea en Patricia Astesano , principal acusada por el crimen de Alejandra Fiorito, recibió el beneficio del arresto domiciliario.",
-          "Sin embargo, por el momento continúa detenida en la Unidad Penal N°50 de Batán , a la espera de la colocación de la pulsera electrónica, requisito previo para concretar el traslado a su domicilio. Mientras tanto, la Fiscalía continúa avanzando con distintas pericias en la investigación. Ya se realizaron estudios balísticos sobre el arma secuestrada."
-        ],
-        "generated": "2026-10-02T01:32:34.301155+00:00"
+        "generated": "2026-10-02T02:02:33.945291+00:00"
       },
       "apariciones": 14,
-      "ultima_impresion": "2026-10-02T01:30:00.902203+00:00",
+      "ultima_impresion": "2026-10-02T02:00:00.680461+00:00",
       "penalizacion": 0.001
     },
     {
@@ -651,10 +639,39 @@
           "El Consorcio de Gestión del Puerto Quequén recibió a un grupo de 43 estudiantes de 3° año de la Escuela del Mirador , ubicada en el barrio porteño de Villa Devoto , en el marco de una salida educativa destinada a acercar a las nuevas generaciones al funcionamiento de la actividad portuaria. La delegación escolar estuvo acompañada por los docentes Juan Baroffio y Wanda Metzler y fue recibida en el Salón de Usos Múltiples (SUM) del Consorcio, donde se desarrolló una presentación a cargo de personal del Departamento de Comunicación Institucional .",
           "Durante la jornada, los estudiantes tuvieron la posibilidad de interactuar con profesionales de Puerto Quequén y conocer distintos aspectos vinculados con el funcionamiento del complejo portuario."
         ],
-        "generated": "2026-10-02T01:30:37.568359+00:00"
+        "generated": "2026-10-02T02:00:42.342547+00:00"
       },
-      "apariciones": 30,
-      "ultima_impresion": "2026-10-02T01:30:00.902203+00:00",
+      "apariciones": 31,
+      "ultima_impresion": "2026-10-02T02:00:00.680461+00:00",
+      "penalizacion": 0.0
+    },
+    {
+      "key": "crimen alejandro fiorito otorgan arresto domiciliario patricia fiorita",
+      "title": "Crimen de Alejandro Fiorito: otorgan el arresto domiciliario a Patricia Astesano",
+      "score": 0.0,
+      "sources_count": 1,
+      "first_seen": "2026-10-01T19:40:26+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/1_l4Rbvjo_720x0__1.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Crimen de Alejandro Fiorito: otorgan el arresto domiciliario a Patricia Astesano",
+          "url": "https://tsnnecochea.com.ar/locales/crimen-de-alejandro-fiorito-otorgan-el-arresto-domiciliario-a-patricia-fiorita-238571/",
+          "published_at": "2026-10-01T19:40:26+00:00",
+          "first_seen": "2026-10-01T20:00:01.109212+00:00",
+          "category": "fiscalía",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/1_l4Rbvjo_720x0__1.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Locales | fiscalía | Fiscalía Crimen de Alejandro Fiorito: otorgan el arresto domiciliario a Patricia Astesano ​La medida aún no se hizo efectiva a la espera del dispositivo electrónico. El fiscal Carlos Larrarte continúa con los peritajes balísticos y la reconstrucción del hecho ocurrido en Quequén. Por Redacción TSN 01/10/2026 · 04:40 PM Alejandra Fiorito Agregar TSN Necochea en Patricia Astesano , principal acusada por el crimen de Alejandra Fiorito, recibió el beneficio del arresto domiciliario.",
+          "Sin embargo, por el momento continúa detenida en la Unidad Penal N°50 de Batán , a la espera de la colocación de la pulsera electrónica, requisito previo para concretar el traslado a su domicilio. Mientras tanto, la Fiscalía continúa avanzando con distintas pericias en la investigación. Ya se realizaron estudios balísticos sobre el arma secuestrada."
+        ],
+        "generated": "2026-10-02T02:02:35.136328+00:00"
+      },
+      "apariciones": 15,
+      "ultima_impresion": "2026-10-02T02:00:00.680461+00:00",
       "penalizacion": 0.0
     },
     {
@@ -680,10 +697,10 @@
           "El concejal de La Libertad Avanza se refirió a la prohibición de la actividad de cuidacoches y limpiavidrios en Necochea, detalló las excepciones que podrá autorizar el Ejecutivo y cuestionó la falta de avances en el nuevo pliego del transporte urbano. También habló sobre el estacionamiento medido y el ordenamiento de la ciudad. El concejal de La Libertad Avanza, Eduardo Caballero, visitó los estudios de NEC Radio, donde analizó distintos temas abordados recientemente en el Concejo Deliberante de Necochea.",
           "Entre ellos, se refirió a la ordenanza vinculada con la actividad de los cuidacoches informales, la emergencia del transporte público y el funcionamiento del estacionamiento medido. Durante la entrevista, el edil sostuvo que su espacio impulsa una agenda centrada en el ordenamiento urbano, la seguridad y la recuperación de los espacios públicos."
         ],
-        "generated": "2026-10-02T01:32:38.558657+00:00"
+        "generated": "2026-10-02T02:02:39.052622+00:00"
       },
-      "apariciones": 15,
-      "ultima_impresion": "2026-10-02T01:30:00.902203+00:00",
+      "apariciones": 16,
+      "ultima_impresion": "2026-10-02T02:00:00.680461+00:00",
       "penalizacion": 0.0
     },
     {
@@ -709,10 +726,10 @@
           "Con más de 25 años de trayectoria, la emprendedora y artesana local diseña y fabrica carteras, billeteras, sobres, calzado y distintos productos en cuero. Ahora prepara la apertura de un nuevo espacio comercial de cara a la temporada de verano. La pasión por crear y diseñar acompañó a Beatriz Di Fonzo desde muy joven y terminó convirtiéndose en un emprendimiento que lleva más de dos décadas de crecimiento. Actualmente, su propuesta abarca marroquinería, carteras, billeteras, sobres, calzado y distintos productos realizados artesanalmente.",
           "Durante una visita a los estudios de Multimedios, Beatriz repasó sus comienzos y contó que empezó a trabajar con la costura alrededor de los 22 años, luego de quedarse sin empleo y mientras estudiaba para chef. “Desde chica me encantaba coser, hacerle la ropa a las muñecas. Ya me había dado cuenta de que el diseño y la costura eran lo mío”, recordó."
         ],
-        "generated": "2026-10-02T01:32:42.478950+00:00"
+        "generated": "2026-10-02T02:02:43.173749+00:00"
       },
-      "apariciones": 16,
-      "ultima_impresion": "2026-10-02T01:30:00.902203+00:00",
+      "apariciones": 17,
+      "ultima_impresion": "2026-10-02T02:00:00.680461+00:00",
       "penalizacion": 0.0
     },
     {
@@ -738,10 +755,10 @@
           "La actividad será este domingo 4 de octubre en el Espacio Cultural, con la participación del grupo de danzas danesas Summer Fall, Papel Nonos y representantes de las colectividades italiana, española y danesa. También habrá propuestas gastronómicas y espectáculos de folclore y tango. San Cayetano se prepara para vivir este domingo 4 de octubre una jornada especial en el marco de la celebración del Día del Inmigrante , una propuesta que además se anticipa a un nuevo aniversario de la autonomía del distrito.",
           "En diálogo con Esta Mañana, la directora de Cultura de San Cayetano, Ana Mancino, brindó detalles de la actividad y destacó el trabajo realizado para reunir a distintas instituciones y colectividades. Uno de los atractivos principales será la presentación de Papel Nonos , quienes ya habían preparado el año pasado un espectáculo basado en las historias de los inmigrantes, pero que tuvo una única presentación."
         ],
-        "generated": "2026-10-02T01:32:45.775325+00:00"
+        "generated": "2026-10-02T02:02:47.425684+00:00"
       },
-      "apariciones": 17,
-      "ultima_impresion": "2026-10-02T01:30:00.902203+00:00",
+      "apariciones": 18,
+      "ultima_impresion": "2026-10-02T02:00:00.680461+00:00",
       "penalizacion": 0.0
     },
     {
@@ -767,10 +784,10 @@
           "En una entrevista en “Esta Mañana”, la profesora Natalia Mailland y las estudiantes Agustina Giampaoli y Lucía Llinas compartieron la experiencia del proyecto Clubes TED-Ed, que tendrá su encuentro de cierre este jueves a las 10 en el Centro de Acopiadores. A través de charlas personales, 12 estudiantes del Instituto Secundario Argentino Danés Altamira y del Complejo Educativo Ítalo-Argentino expondrán sus ideas, inquietudes y reflexiones sobre distintas situaciones de la vida cotidiana.",
           "Hay encuentros que permiten descubrir cuánto tienen para decir los jóvenes cuando encuentran un espacio donde expresarse y, sobre todo, cuando alguien está dispuesto a escucharlos. Esa fue una de las ideas que atravesó la entrevista realizada en el programa “Esta Mañana”, donde la profesora Natalia Mailland llegó acompañada por Agustina Giampaoli y Lucía Llinás para compartir el trabajo que vienen desarrollando en el marco de Clubes TED-Ed."
         ],
-        "generated": "2026-10-02T01:32:49.211052+00:00"
+        "generated": "2026-10-02T02:02:51.404964+00:00"
       },
-      "apariciones": 17,
-      "ultima_impresion": "2026-10-02T01:30:00.902203+00:00",
+      "apariciones": 18,
+      "ultima_impresion": "2026-10-02T02:00:00.680461+00:00",
       "penalizacion": 0.0
     }
   ]
