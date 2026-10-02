@@ -1,12 +1,41 @@
 {
-  "generated_at": "2026-10-02T14:00:01.624081+00:00",
+  "generated_at": "2026-10-02T14:30:00.558519+00:00",
   "article_count": 175,
   "fetch_errors": [],
   "stories": [
     {
+      "key": "puerto quequen recibio visita estudiantes portenos marco programa educativo",
+      "title": "Puerto Quequén recibió la visita de estudiantes porteños en el marco de su programa educativo",
+      "score": 1.179,
+      "sources_count": 1,
+      "first_seen": "2026-10-02T14:17:25+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-01-at-09.32.38.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Puerto Quequén recibió la visita de estudiantes porteños en el marco de su programa educativo",
+          "url": "https://tsnnecochea.com.ar/educacion/puerto-quequen-recibio-la-visita-de-estudiantes-portenos-en-el-marco-de-su-programa-educativo-238605/",
+          "published_at": "2026-10-02T14:17:25+00:00",
+          "first_seen": "2026-10-02T14:30:00.558519+00:00",
+          "category": "estudiantes",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-01-at-09.32.38.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Educación | estudiantes | Formación Puerto Quequén recibió la visita de estudiantes porteños en el marco de su programa educativo Una delegación de 43 alumnos de 3° año de la Escuela del Mirador, proveniente de Villa Devoto, participó de una jornada pedagógica en el SUM Por Redacción TSN 02/10/2026 · 11:17 AM Agregar TSN Necochea en En el marco de sus iniciativas de vinculación con la comunidad e instituciones educativas, el Consorcio de Gestión del Puerto Quequén fue sede de una salida educativa recibiendo a un grupo de 43 estudiantes de 3° año de la Escuela del Mirador, ubicada en el barrio porteño de Villa Devoto.",
+          "La delegación escolar, acompañada por los docentes Juan Baroffio y Wanda Metzler, asistió al Salón de Usos Múltiples (SUM) del Consorcio, donde presenciaron una presentación organizada por personal del Departamento de Comunicación Institucional."
+        ],
+        "generated": "2026-10-02T14:30:18.129511+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-02T14:30:00.558519+00:00"
+    },
+    {
       "key": "guia descuentos cuenta dni aprovechar comercios necochea quequen",
       "title": "Guía de descuentos con Cuenta DNI para aprovechar en los comercios de Necochea y Quequén",
-      "score": 1.153,
+      "score": 1.106,
       "sources_count": 1,
       "first_seen": "2026-10-02T13:31:27+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/04/1743734186350.webp",
@@ -26,16 +55,247 @@
           "TSN Necochea | ‹ VOLVER | Generales | carnicerías | Promociones y descuentos Guía de descuentos con Cuenta DNI para aprovechar en los comercios de Necochea y Quequén Desde compras diarias y pet shops hasta gastronomía del fin de semana, la billetera del Banco Provincia renueva sus beneficios para octubre e incorpora rebajas exclusivas en cadenas de supermercados. Por Redacción TSN 02/10/2026 · 10:31 AM Cuenta DNI Agregar TSN Necochea en La Comunidad Cuenta DNI tendrá durante octubre una amplia variedad de descuentos en distintos comercios y servicios de Necochea, Quequén y toda la provincia de Buenos Aires.",
           "​Entre las promociones vigentes se encuentran beneficios para compras en comercios de cercanía, ferias y mercados bonaerenses, gastronomía, pet shops, librerías, farmacias y perfumerías, además de descuentos especiales en marcas y supermercados."
         ],
-        "generated": "2026-10-02T14:01:55.573735+00:00"
+        "generated": "2026-10-02T14:31:50.372018+00:00"
+      },
+      "apariciones": 2,
+      "ultima_impresion": "2026-10-02T14:30:00.558519+00:00",
+      "penalizacion": 1.0
+    },
+    {
+      "key": "toledo llega octubre dudas salarios comercio sigue perdiendo empleos",
+      "title": "Toledo llega a octubre con dudas sobre los salarios y el comercio sigue perdiendo empleos",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-02T14:30:00.558519+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/b1796b1fb3c71c3d503b3bc7fe88420a2b2b22a5.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Toledo llega a octubre con dudas sobre los salarios y el comercio sigue perdiendo empleos",
+          "url": "https://necocheadigital.com/nota/119776/toledo-llega-a-octubre-con-dudas-sobre-los-salarios-y-el-comercio-sigue-perdiendo-empleos/",
+          "published_at": null,
+          "first_seen": "2026-10-02T14:30:00.558519+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El comienzo de octubre volvió a poner bajo la lupa la situación de los trabajadores de Toledo , ante la incertidumbre existente respecto del pago de los salarios correspondientes a septiembre. La cadena supermercadista, que mantiene tres establecimientos en Necochea, todavía no pudo garantizar al Sindicato de Empleados de Comercio que contará la semana próxima con los fondos necesarios para afrontar los haberes en tiempo y forma. Leonardo Fiscina , secretario gremial del Sindicato de Empleados de Comercio de Necochea, explicó que mantuvo contacto con referentes de la empresa, aunque sin obtener una confirmación concreta.",
+          "El plazo legal para el pago se extiende hasta los primeros días hábiles del mes y, según indicó, la fecha prevista sería el próximo martes. “Todavía estamos en la incertidumbre."
+        ],
+        "generated": "2026-10-02T14:31:52.867649+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-02T14:00:01.624081+00:00"
+      "ultima_impresion": "2026-10-02T14:30:00.558519+00:00"
+    },
+    {
+      "key": "necochea fortalece coordinacion organismos posibles emergencias climaticas",
+      "title": "Necochea fortalece la coordinación entre organismos ante posibles emergencias climáticas",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-02T14:30:00.558519+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/5a87668dbc2144263e3d4acc2ea8a49209076773.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Necochea fortalece la coordinación entre organismos ante posibles emergencias climáticas",
+          "url": "https://necocheadigital.com/nota/119775/necochea-fortalece-la-coordinacion-entre-organismos-ante-posibles-emergencias-climaticas/",
+          "published_at": null,
+          "first_seen": "2026-10-02T14:30:00.558519+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La Municipalidad de Necochea reunió a representantes de distintas áreas y organismos con el objetivo de fortalecer la coordinación y establecer criterios comunes de actuación ante posibles emergencias climáticas . El encuentro se desarrolló en las instalaciones del Centro Operativo de Monitoreo (COM) y fue convocado por la Secretaría de Desarrollo Humano y Políticas Sociales.",
+          "Participaron funcionarios y representantes de esa dependencia, Defensa Civil, Prevención y el 147, además de Cruz Roja, autoridades del sistema educativo, el Consejo Escolar y la Dirección Provincial de Hidráulica, encabezada por Florencia Vecchia. Durante la reunión se analizaron las experiencias recogidas a partir de los últimos episodios meteorológicos registrados en el distrito y se planteó la necesidad de mejorar los mecanismos de comunicación y respuesta entre las diferentes instituciones."
+        ],
+        "generated": "2026-10-02T14:31:53.588187+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-02T14:30:00.558519+00:00"
+    },
+    {
+      "key": "tunel 02 teatro paris transforma espacio arte musica experiencias audiovisuales",
+      "title": "Túnel 02: el Teatro París se transforma en un espacio para el arte, la música y las experiencias audiovisuales",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-02T14:30:00.558519+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/1c1c4dbed7440ec337d66802945b3d11dd1cfbbb.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Túnel 02: el Teatro París se transforma en un espacio para el arte, la música y las experiencias audiovisuales",
+          "url": "https://necocheadigital.com/nota/119771/tunel-02-el-teatro-paris-se-transforma-en-un-espacio-para-el-arte-la-musica-y-las-experiencias-audiovisuales/",
+          "published_at": null,
+          "first_seen": "2026-10-02T14:30:00.558519+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El Teatro París será escenario este viernes 2 de octubre de una nueva propuesta cultural que busca ampliar los espacios de circulación artística en Necochea. Desde las 18 , se llevará adelante Túnel 02 , segunda edición del ciclo de muestras visuales y sonoras. La iniciativa es gestionada y dirigida por Lucía Achem y propone utilizar distintos sectores del Teatro París y Kansbar como espacios de exposición y encuentro, incorporando lugares que habitualmente no forman parte de los circuitos tradicionales de muestras.",
+          "En esta edición participarán más de 14 artistas locales y de ciudades vecinas , con trabajos vinculados a las artes visuales, la instalación, la fotografía, el sonido y las prácticas audiovisuales. Una muestra con artistas de La Plata Uno de los principales ejes de la jornada será “La materia del gesto” , una exposición curada por Juan Manuel Fiuzza y Celica Véliz , que reúne a 12 artistas provenientes de La Plata."
+        ],
+        "generated": "2026-10-02T14:31:54.285109+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-02T14:30:00.558519+00:00"
+    },
+    {
+      "key": "construccion perdio casi 000 empleos formales julio volvio niveles inferiores 2025",
+      "title": "La construcción perdió casi 4.000 empleos formales en julio y volvió a niveles inferiores a los de 2025",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-02T14:30:00.558519+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/504907f5f7c60c3baeb54b3f86177f4e6c4e9a64.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "La construcción perdió casi 4.000 empleos formales en julio y volvió a niveles inferiores a los de 2025",
+          "url": "https://necocheadigital.com/nota/119774/la-construccion-perdio-casi-4-000-empleos-formales-en-julio-y-volvio-a-niveles-inferiores-a-los-de-2025/",
+          "published_at": null,
+          "first_seen": "2026-10-02T14:30:00.558519+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El empleo formal en la industria de la construcción registró un nuevo retroceso durante julio. Según un informe elaborado por el Instituto de Estadística y Registro de la Industria de la Construcción (IERIC), el sector contabilizó 352.511 trabajadores registrados , lo que representa una disminución del 1,1% respecto de junio y la pérdida de alrededor de 4.000 puestos de trabajo. La baja también marcó un cambio en la evolución interanual.",
+          "Después de 15 meses consecutivos con variaciones positivas , el empleo formal de la construcción quedó 1% por debajo del nivel registrado en julio de 2025 . Además, la cantidad de trabajadores se ubicó 11,5% por debajo del promedio histórico para julio , calculado en 398.380 empleos a partir de los registros disponibles desde 2011, con excepción de los años 2020 y 2021. A pesar de la caída registrada durante julio, el balance de los primeros siete meses de 2026 todavía muestra una evolución positiva."
+        ],
+        "generated": "2026-10-02T14:31:55.579529+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-02T14:30:00.558519+00:00"
+    },
+    {
+      "key": "60 anos iriberri historia ligada campo mirada estrategica puerto quequen",
+      "title": "60 años de Iriberri: una historia ligada al campo y una mirada estratégica sobre Puerto Quequén",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-02T14:30:00.558519+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/4bdbcc18acfcc4aadf8820297fb8ce1b44080e0a.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "60 años de Iriberri: una historia ligada al campo y una mirada estratégica sobre Puerto Quequén",
+          "url": "https://necocheadigital.com/nota/119773/60-anos-de-iriberri-una-historia-ligada-al-campo-y-una-mirada-estrategica-sobre-puerto-quequen/",
+          "published_at": null,
+          "first_seen": "2026-10-02T14:30:00.558519+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Sesenta años representan mucho más que una fecha para una empresa. Son seis décadas de transformaciones económicas, tecnológicas y productivas, pero también de una relación sostenida con los productores y con una región cuya actividad agropecuaria tiene en Puerto Quequén uno de sus principales puntos de salida al mundo. En ese marco, Juan Bautista Iriberri , integrante de la firma Juan Leoncio Iriberri Sociedad en Comandita por Acciones, repasó la historia de la empresa durante una entrevista en Voces de la Tarde , programa conducido por Jorge Gómez por Radio Noticias Necochea 97.3 .",
+          "La compañía nació en 1966 y actualmente tiene entre sus principales actividades la comercialización de granos, con una especialización particularmente importante en cebada cervecera . La firma cuenta además con una planta de silos en Necochea."
+        ],
+        "generated": "2026-10-02T14:31:56.334736+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-02T14:30:00.558519+00:00"
+    },
+    {
+      "key": "maquinas mates suenos historia dos barberos necochenses",
+      "title": "Entre máquinas, mates y sueños: La historia de dos barberos necochenses",
+      "score": 0.998,
+      "sources_count": 1,
+      "first_seen": "2026-10-02T14:28:50+00:00",
+      "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/706545d1-08de-477e-ad41-8166ead16bd3.jpg",
+      "articles": [
+        {
+          "portal": "Diario NQ",
+          "title": "Entre máquinas, mates y sueños: La historia de dos barberos necochenses",
+          "url": "https://diarionq.com.ar/entre-maquinas-mates-y-suenos-la-historia-de-dos-barberos-necochenses/",
+          "published_at": "2026-10-02T14:28:50+00:00",
+          "first_seen": "2026-10-02T14:30:00.558519+00:00",
+          "category": "Interés General",
+          "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/706545d1-08de-477e-ad41-8166ead16bd3.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Nicolás Toñanes y Alexis Dibiase pasaron por los micrófonos de la radio y compartieron mucho más que los secretos de la barbería. Entre anécdotas, clientes que se convierten en amigos y una historia de superación, hablaron del oficio, del trabajo en equipo y de la importancia de volver a empezar cuando la vida pone a prueba. Hay lugares donde uno va a cortarse el pelo y otros donde, además, encuentra una charla, un mate, una ronda de amigos y un rato para desconectarse de todo.",
+          "Las barberías se han convertido en espacios de encuentro, especialmente entre los más jóvenes, aunque cada vez son más las personas de distintas edades que eligen esta experiencia. De eso hablaron Nicolás Toñanes y Alexis Dibiase durante su visita a Esta Mañana, en una entrevista que comenzó recorriendo las particularidades de un oficio que crece en Necochea y Quequén, pero que terminó dejando una historia de esfuerzo, compañerismo y superación."
+        ],
+        "generated": "2026-10-02T14:32:23.152963+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-02T14:30:00.558519+00:00"
+    },
+    {
+      "key": "realizaran inspeccion ocular auditorio casino antes subasta",
+      "title": "Realizarán una inspección ocular del Auditorio del Casino antes de la subasta",
+      "score": 0.965,
+      "sources_count": 1,
+      "first_seen": "2026-10-02T14:04:32+00:00",
+      "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/fc8dbc98-648d-411b-adc3-e865200fd322.jpg",
+      "articles": [
+        {
+          "portal": "Diario NQ",
+          "title": "Realizarán una inspección ocular del Auditorio del Casino antes de la subasta",
+          "url": "https://diarionq.com.ar/realizaran-una-inspeccion-ocular-del-auditorio-del-casino-antes-de-la-subasta/",
+          "published_at": "2026-10-02T14:04:32+00:00",
+          "first_seen": "2026-10-02T14:30:00.558519+00:00",
+          "category": "Destacadas",
+          "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/fc8dbc98-648d-411b-adc3-e865200fd322.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Este jueves 2 de octubre, a las 12, se llevará adelante un recorrido por las instalaciones del Teatro Auditorio del Complejo Casino de Necochea. La visita está destinada a las personas interesadas en participar de la subasta y permitirá conocer el estado actual del inmueble. En el marco del proceso previo a la subasta del Teatro Auditorio del Complejo Casino de Necochea, este jueves 2 de octubre, a las 12, se realizará una inspección ocular de las instalaciones para que los posibles interesados puedan observar las condiciones en las que se encuentra el edificio.",
+          "Así lo confirmó el martillero público Sergio Marcelo Gertie, quien explicó que la actividad se desarrollará de acuerdo con lo establecido en el decreto correspondiente. El punto de encuentro será junto al acceso a la sala de juegos del Casino, desde donde comenzará el recorrido por el sector del auditorio."
+        ],
+        "generated": "2026-10-02T14:32:30.568557+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-02T14:30:00.558519+00:00"
+    },
+    {
+      "key": "family jump abrio necochea camas elasticas juegos diversion toda familia",
+      "title": "Family Jump abrió en Necochea: camas elásticas, juegos y diversión para toda la familia",
+      "score": 0.914,
+      "sources_count": 1,
+      "first_seen": "2026-10-02T13:25:00+00:00",
+      "image": "http://nden.com.ar/uploads/noticias/5/2026/10/eae2551f8d510eff26dcc782450c275d80ef4fd2.jpg",
+      "articles": [
+        {
+          "portal": "Noticias de Necochea",
+          "title": "Family Jump abrió en Necochea: camas elásticas, juegos y diversión para toda la familia",
+          "url": "https://nden.com.ar/nota/38277/family-jump-abrio-en-necochea-camas-elasticas-juegos-y-diversion-para-toda-la-familia",
+          "published_at": "2026-10-02T13:25:00+00:00",
+          "first_seen": "2026-10-02T14:00:01.624081+00:00",
+          "category": null,
+          "image": "http://nden.com.ar/uploads/noticias/5/2026/10/eae2551f8d510eff26dcc782450c275d80ef4fd2.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "ENTRETENIMIENTO Family Jump abrió en Necochea: camas elásticas, juegos y diversión para toda la familia"
+        ],
+        "generated": "2026-10-02T14:32:31.946343+00:00"
+      },
+      "apariciones": 2,
+      "ultima_impresion": "2026-10-02T14:30:00.558519+00:00",
+      "penalizacion": 1.0
     },
     {
       "key": "ramon santamarina cumple hoy 116 anos pueblo prepara festejar sabado",
       "title": "Ramón Santamarina cumple hoy 116 años y el pueblo se prepara para festejar este sábado",
-      "score": 1.151,
+      "score": 0.607,
       "sources_count": 1,
       "first_seen": "2026-10-02T13:29:57+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/02-10-FOTO-trabajos-Santamarina2.webp",
@@ -55,16 +315,16 @@
           "TSN Necochea | ‹ VOLVER | Generales | aniversario | Distrito Ramón Santamarina cumple hoy 116 años y el pueblo se prepara para festejar este sábado La localidad que nació 1910 en las chacras pertenecientes a la entonces estancia San Francisco. Por Redacción TSN 02/10/2026 · 10:29 AM Agregar TSN Necochea en Este viernes 2 de octubre se cumplen 116 años de la fundación de Ramón Santamarina , localidad integrante del distrito de Necochea, cuya población se prepara para festejar en unión este sábado 3.",
           "En vísperas de este nuevo festejo de aniversario, desde la Delegación Municipal encabezada por Virginia Hefner se han realizado trabajos a lo largo de las últimas semanas para acondicionar y embellecer cada uno de los espacios de la localidad. Se realizaron tareas de pintura en varios sectores y corte de pasto en los espacios públicos que recibirán parte de las actividades de celebración."
         ],
-        "generated": "2026-10-02T14:01:56.881686+00:00"
+        "generated": "2026-10-02T14:31:51.610626+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-10-02T14:00:01.624081+00:00",
-      "penalizacion": 1.0
+      "apariciones": 3,
+      "ultima_impresion": "2026-10-02T14:30:00.558519+00:00",
+      "penalizacion": 0.55
     },
     {
       "key": "video filmo 140 km destruyo camioneta admitio estaba escabio",
       "title": "VIDEO: se filmó a 140 km/h, destruyó la camioneta y admitió: “Estaba escabio”",
-      "score": 1.122,
+      "score": 0.592,
       "sources_count": 1,
       "first_seen": "2026-10-02T13:11:24+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/Screenshot_20261002_101102_Chrome.webp",
@@ -84,189 +344,16 @@
           "TSN Necochea | ‹ VOLVER | Nación | Virales VIDEO: se filmó a 140 km/h, destruyó la camioneta y admitió: “Estaba escabio” El brutal choque ocurrió en Escobar y las imágenes se viralizaron en las últimas horas. El conductor y su acompañante debieron ser internados. Por Redacción TSN 02/10/2026 · 10:11 AM Agregar TSN Necochea en Un joven se filmó mientras manejaba a 140km/h a bordo de su camioneta Jeep Renegade en Escobar, cuando perdió el control y chocó contra un poste de luz .",
           "Horas después admitió en un audio de WhatsApp que estaba borracho y bajo los efectos de las drogas. This browser does not support the video element. El siniestro, que pudo haber terminado de manera fatal, tuvo lugar el domingo 27 de septiembre, pero las imágenes se conocieron en las últimas horas y muestran al joven, de 20 años, mientras conducía a alta velocidad en la intersección de las calles Boote y Jacarandá, en la zona de Loma Verde."
         ],
-        "generated": "2026-10-02T14:01:58.072090+00:00"
+        "generated": "2026-10-02T14:31:57.584228+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-10-02T14:00:01.624081+00:00",
-      "penalizacion": 1.0
-    },
-    {
-      "key": "juan vidal llevo concejo preocupacion zona fria pidio incluir cuidacoches",
-      "title": "Juan Vidal llevó al Concejo la preocupación por la zona fría y pidió “incluir” a los cuidacoches",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-02T14:00:01.624081+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/0512139bd04642e17d47cfd13b003af443b6bb70.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Juan Vidal llevó al Concejo la preocupación por la zona fría y pidió “incluir” a los cuidacoches",
-          "url": "https://necocheadigital.com/nota/119777/juan-vidal-llevo-al-concejo-la-preocupacion-por-la-zona-fria-y-pidio-incluir-a-los-cuidacoches/",
-          "published_at": null,
-          "first_seen": "2026-10-02T14:00:01.624081+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Juan Manuel Vidal llegó al Concejo Deliberante de Necochea con una preocupación concreta: las consecuencias que tendrá para los vecinos de la región la eliminación del beneficio de zona fría en las facturas de gas. Pero detrás de su exposición en la Banca Abierta del miércoles pasado apareció también una mirada más amplia sobre una realidad que, según describió, atraviesan distintos sectores de la economía popular: ingresos que apenas alcanzan para vivir, jubilados que deben continuar trabajando y familias que buscan distintas alternativas para completar sus ingresos.",
-          "Vidal es organizador de la feria itinerante La Soberana , que actualmente reúne alrededor de diez puestos y se instala en distintos sectores de Necochea y Quequén. Trabaja junto a su esposa: ella elabora conservas y él produce panificados."
-        ],
-        "generated": "2026-10-02T14:02:00.057037+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-02T14:00:01.624081+00:00"
-    },
-    {
-      "key": "accidente quequen motociclista trasladada hospital choque",
-      "title": "Accidente en Quequén: una motociclista fue trasladada al hospital tras un choque",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-02T14:00:01.624081+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/ba50867a1ec170767017b9ac5acd413ef0c513a4.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Accidente en Quequén: una motociclista fue trasladada al hospital tras un choque",
-          "url": "https://necocheadigital.com/nota/119770/accidente-en-quequen-una-motociclista-fue-trasladada-al-hospital-tras-un-choque/",
-          "published_at": null,
-          "first_seen": "2026-10-02T14:00:01.624081+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Un siniestro vial se registró este jueves por la noche en Quequén , cuando un automóvil Volkswagen Gol y un motovehículo protagonizaron un accidente en la intersección de las calles 521 y 570 . El hecho ocurrió pasadas las 20:40 y, al momento de la llegada de las autoridades, el motovehículo ya no se encontraba en el lugar. La conductora de la moto presentaba lesiones de consideración , por lo que recibió las primeras atenciones por parte de personal de la Dirección General de Defensa Civil .",
-          "Los efectivos trabajaron en la estabilización de la mujer mientras se aguardaba la llegada de una unidad sanitaria. Minutos después arribó una ambulancia del SAME , cuyo personal continuó con la asistencia y dispuso el traslado de urgencia de la motociclista al nosocomio local , donde quedó a disposición de los profesionales médicos."
-        ],
-        "generated": "2026-10-02T14:02:00.804063+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-02T14:00:01.624081+00:00"
-    },
-    {
-      "key": "concejo deliberante refrendo prorroga 150 dias servicio colectivos",
-      "title": "El Concejo Deliberante refrendó la prórroga por 150 días del servicio de colectivos",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-02T14:00:01.624081+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261001172047_whatsapp-image-2026-10-01-at-17-20-13.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "El Concejo Deliberante refrendó la prórroga por 150 días del servicio de colectivos",
-          "url": "https://necocheadigital.com/nota/119769/el-concejo-deliberante-refrendo-la-prorroga-por-150-dias-del-servicio-de-colectivos/",
-          "published_at": null,
-          "first_seen": "2026-10-02T14:00:01.624081+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La medida busca dar una respuesta inmediata al vencimiento del plazo de 90 días de la extensión anterior y garantizar la continuidad de las líneas 502, 503, 510, 511, 512, 513, 514, 515, 517 y 518 junto a sus respectivos ramales. El aval legislativo se concretó tras reunirse la Comisión de Transporte del HCD, presidia por el concejal Julián Kristiansen (FP-MDF), para abordar el expediente que se había presentado sobre tablas durante la 11° Sesión Ordinaria sin haberse tratado en ese momento.",
-          "Al respecto, Kristiansen explicó que la convocatoria respondió a la urgencia del plazo para asegurar la prestación en el distrito tras haber quedado desiertos los dos llamados a licitación anteriores por falta de oferentes: “Lo que garantizamos con esto es la continuidad del servicio."
-        ],
-        "generated": "2026-10-02T14:02:01.499522+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-02T14:00:01.624081+00:00"
-    },
-    {
-      "key": "lionel scaloni dio gusto recibio historico johnny benedictis predio ezeiza",
-      "title": "Lionel Scaloni se dio el gusto: recibió al histórico Johnny De Benedictis en el predio de Ezeiza",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-02T14:00:01.624081+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/71f451bbf8489936ead9ab2f548824fb1360d4ad.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Lionel Scaloni se dio el gusto: recibió al histórico Johnny De Benedictis en el predio de Ezeiza",
-          "url": "https://necocheadigital.com/nota/119768/lionel-scaloni-se-dio-el-gusto-recibio-al-historico-johnny-de-benedictis-en-el-predio-de-ezeiza/",
-          "published_at": null,
-          "first_seen": "2026-10-02T14:00:01.624081+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Johnny llegó acompañado por su hijo Juan Bautista y representantes de la Asociación de Corredores de Turismo Carretera (ACTC), quienes aprovecharon la estadía del seleccionado para entregarle un reconocimiento formal al DT campeón del mundo. \"Vinimos con la ACTC a traerle un presente a Scaloni. Y como él había manifestado que era hincha de mi papá cuando corría, vinimos junto a él.",
-          "Charlamos un rato en el predio\", contó Pamperito en diálogo con Estación K2, destacando además la \"humildad\" del entrenador en sus redes sociales. Una historia que nació en 2021 La raíz de esta reunión se remonta a una entrevista concedida por Scaloni a Olé en 2021, donde sorprendió al confesar su fanatismo por el TC y por el estilo de manejo de Johnny: “Siempre me apasionó de toda la vida cómo piloteaba De Benedictis."
-        ],
-        "generated": "2026-10-02T14:02:02.196249+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-02T14:00:01.624081+00:00"
-    },
-    {
-      "key": "liga necochea futbol completo fecha 18 dos empates zona",
-      "title": "Liga Necochea de Fútbol: se completó la fecha 18 con dos empates en la Zona A",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-02T14:00:01.624081+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261001114329_whatsapp-image-2026-10-01-at-11-43-14-1.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Liga Necochea de Fútbol: se completó la fecha 18 con dos empates en la Zona A",
-          "url": "https://necocheadigital.com/nota/119765/liga-necochea-de-futbol-se-completo-la-fecha-18-con-dos-empates-en-la-zona-a/",
-          "published_at": null,
-          "first_seen": "2026-10-02T14:00:01.624081+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "En el estadio Jorge “Vasco” Iparraguirre, Villa Díaz Vélez y Ministerio igualaron 0 a 0 en un partido picante que terminó con cuatro expulsados. En el conjunto local vieron la tarjeta roja Jonathan Ríos y Luciano Farías (desde el banco de suplentes), mientras que en la visita se fueron expulsados Fabián Cufré y el ayudante de campo Emilio Saffarano. El punto cosechado le sirvió a Villa Díaz Vélez para cortar una seguidilla de cinco derrotas consecutivas entre el certamen local y el Torneo Regional Federal Amateur.",
-          "En tanto, el \"Decano\" sumó una unidad clave para mantenerse en el tercer escalón de la tabla. Por su parte, el clásico de San Cayetano disputado en el Nuevo Felipe Serafini finalizó 1 a 1 entre Sportivo e Independiente. El \"Chimango\" se puso en ventaja durante la primera parte con un gol de tiro libre de Iñaki Iparraguirre, mientras que Facundo Leiva marcó la paridad definitiva para el Albirrojo en el complemento."
-        ],
-        "generated": "2026-10-02T14:02:03.538634+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-02T14:00:01.624081+00:00"
-    },
-    {
-      "key": "family jump abrio necochea camas elasticas juegos diversion toda familia",
-      "title": "Family Jump abrió en Necochea: camas elásticas, juegos y diversión para toda la familia",
-      "score": 0.953,
-      "sources_count": 1,
-      "first_seen": "2026-10-02T13:25:00+00:00",
-      "image": "http://nden.com.ar/uploads/noticias/5/2026/10/eae2551f8d510eff26dcc782450c275d80ef4fd2.jpg",
-      "articles": [
-        {
-          "portal": "Noticias de Necochea",
-          "title": "Family Jump abrió en Necochea: camas elásticas, juegos y diversión para toda la familia",
-          "url": "https://nden.com.ar/nota/38277/family-jump-abrio-en-necochea-camas-elasticas-juegos-y-diversion-para-toda-la-familia",
-          "published_at": "2026-10-02T13:25:00+00:00",
-          "first_seen": "2026-10-02T14:00:01.624081+00:00",
-          "category": null,
-          "image": "http://nden.com.ar/uploads/noticias/5/2026/10/eae2551f8d510eff26dcc782450c275d80ef4fd2.jpg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "ENTRETENIMIENTO Family Jump abrió en Necochea: camas elásticas, juegos y diversión para toda la familia"
-        ],
-        "generated": "2026-10-02T14:02:27.066768+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-02T14:00:01.624081+00:00"
+      "apariciones": 3,
+      "ultima_impresion": "2026-10-02T14:30:00.558519+00:00",
+      "penalizacion": 0.55
     },
     {
       "key": "busca trabajar manera conjunta prevenir situaciones inseguridad",
       "title": "“Lo que se busca es trabajar de manera conjunta para prevenir situaciones de inseguridad”",
-      "score": 0.608,
+      "score": 0.321,
       "sources_count": 1,
       "first_seen": "2026-10-02T13:00:43+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/15-SO.webp",
@@ -286,16 +373,16 @@
           "TSN Necochea | ‹ VOLVER | Locales | 911 | Concejo “Lo que se busca es trabajar de manera conjunta para prevenir situaciones de inseguridad” Afirmó Marcelo Rivero. También destacó la emergencia del transporte Por Redacción TSN 02/10/2026 · 10:00 AM Agregar TSN Necochea en El concejal de Fuerza Patria, Marcelo Rivero, se refirió a los principales temas tratados en la última sesión del Concejo Deliberante de Necochea, entre ellos la emergencia del transporte público y la creación del Consejo Municipal de Seguridad Ciudadana.",
           "Respecto del transporte, Rivero explicó que se aprobó una ordenanza que declara la emergencia del servicio por 90 días, ante el vencimiento de la actual concesión previsto para el 2 de octubre."
         ],
-        "generated": "2026-10-02T14:01:58.815048+00:00"
+        "generated": "2026-10-02T14:31:58.767687+00:00"
       },
-      "apariciones": 3,
-      "ultima_impresion": "2026-10-02T14:00:01.624081+00:00",
-      "penalizacion": 0.55
+      "apariciones": 4,
+      "ultima_impresion": "2026-10-02T14:30:00.558519+00:00",
+      "penalizacion": 0.302
     },
     {
       "key": "juan manuel valle obtuvo dos certificados internacionales",
       "title": "Juan Manuel Del Valle obtuvo dos certificados internacionales",
-      "score": 0.278,
+      "score": 0.147,
       "sources_count": 1,
       "first_seen": "2026-10-02T12:58:39+00:00",
       "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/c4aa93a1-69f8-405c-b5fa-c7a9f5b58edb.jpg",
@@ -315,16 +402,16 @@
           "El Maestro necochense, VIII Dan y vicepresidente de FEDART, recibió los certificados internacionales como umpire Clase A de Taekwon-Do tradicional y adaptado, tras aprobar los exámenes con 30 respuestas correctas sobre 30. Además, repasó sus próximas actividades, el trabajo de la federación y los desafíos para fortalecer la disciplina en el interior del país.",
           "El maestro Juan Manuel del Valle, VIII Dan de Taekwon-Do y vicepresidente de la Federación Argentina de Taekwon-Do (FEDAR), visitó los estudios de Zoom El Deportivo, donde compartió su satisfacción por haber obtenido dos certificaciones internacionales que reconocen su trayectoria y sus conocimientos en la disciplina. Durante la entrevista, Del Valle confirmó que recibió los certificados que lo acreditan como umpire internacional Clase A en Taekwon-Do tradicional y Taekwon-Do adaptado, luego de participar de dos jornadas de capacitación y superar las evaluaciones correspondientes."
         ],
-        "generated": "2026-10-02T14:02:32.133470+00:00"
+        "generated": "2026-10-02T14:32:37.136832+00:00"
       },
-      "apariciones": 4,
-      "ultima_impresion": "2026-10-02T14:00:01.624081+00:00",
-      "penalizacion": 0.303
+      "apariciones": 5,
+      "ultima_impresion": "2026-10-02T14:30:00.558519+00:00",
+      "penalizacion": 0.166
     },
     {
       "key": "ministerio nueva comision desafios ano centenario",
       "title": "Ministerio: Nueva comisión y desafíos en el año del centenario",
-      "score": 0.273,
+      "score": 0.144,
       "sources_count": 1,
       "first_seen": "2026-10-02T12:46:03+00:00",
       "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/ee55bf88-f4d7-4c8c-a7e4-87118e1fc231.jpg",
@@ -344,16 +431,16 @@
           "Mario Wilgenhoff y Verónica Palacios repasaron los desafíos de la nueva conducción del Club Ministerio de Quequén, el presente deportivo de la institución y los preparativos para la cena aniversario por los 100 años, que se realizará el próximo 31 de octubre en el Centro Vasco. El Club Ministerio de Quequén atraviesa un año especial, marcado por la celebración de su centenario y por un presente deportivo que genera expectativas.",
           "En ese contexto, Mario Wilgenhoff y Verónica Palacios, integrantes de la nueva comisión directiva, visitaron los estudios de Zoom El Deportivo donde hablaron sobre los objetivos de la gestión, la situación económica de la institución, el trabajo de los colaboradores y los preparativos para la gran cena aniversario. Mario Wilgenhoff explicó que, si bien ya cuenta con experiencia en la conducción del club, la actual comisión asumió hace pocas semanas y se encontró con importantes desafíos por delante."
         ],
-        "generated": "2026-10-02T14:02:35.959859+00:00"
+        "generated": "2026-10-02T14:32:41.014156+00:00"
       },
-      "apariciones": 4,
-      "ultima_impresion": "2026-10-02T14:00:01.624081+00:00",
-      "penalizacion": 0.303
+      "apariciones": 5,
+      "ultima_impresion": "2026-10-02T14:30:00.558519+00:00",
+      "penalizacion": 0.166
     },
     {
       "key": "franco colapinto cierra ultimo segunda practica gp bahrein sepang",
       "title": "Franco Colapinto cierra último en la segunda práctica del GP de Bahréin en Sepang",
-      "score": 0.271,
+      "score": 0.143,
       "sources_count": 1,
       "first_seen": "2026-10-02T12:41:27+00:00",
       "image": null,
@@ -373,16 +460,16 @@
           "El argentino terminó 22.º en la FP2 del Gran Premio de Bahréin, disputado este fin de semana en el circuito de Sepang, mientras Alpine priorizó el trabajo de ritmo de carrera bajo condiciones de calor extremo. En la segunda sesión libre, Charles Leclerc se impuso con un tiempo de 1:37.528, seguido por Isack Hadjar a 0,099 s y Lando Norris a 0,137 s. Pierre Gasly, compañero de equipo de Colapinto, quedó décimo.",
           "El piloto argentino completó 18 vueltas y cerró la práctica en la última posición (22.º), tras haber ocupado el puesto 19.º en la FP1 con un tiempo de 1:40.531. Alpine explicó que el programa de la jornada estuvo orientado a recoger datos para la carrera del domingo, trabajando con neumáticos medios al inicio y blandos después, en lugar de buscar vueltas rápidas de clasificación. En la FP1, Max Verstappen lideró la sesión con 1:37.520, seguido por George Russell y Isack Hadjar."
         ],
-        "generated": "2026-10-02T14:02:37.004744+00:00"
+        "generated": "2026-10-02T14:32:42.125984+00:00"
       },
-      "apariciones": 4,
-      "ultima_impresion": "2026-10-02T14:00:01.624081+00:00",
-      "penalizacion": 0.303
+      "apariciones": 5,
+      "ultima_impresion": "2026-10-02T14:30:00.558519+00:00",
+      "penalizacion": 0.166
     },
     {
       "key": "extienden moratoria diciembre opera vencimiento cuota 10 30 bonificacion",
       "title": "Extienden la moratoria hasta diciembre y opera el vencimiento de la cuota 10 con un 30% de bonificación",
-      "score": 0.229,
+      "score": 0.121,
       "sources_count": 3,
       "first_seen": "2026-10-01T23:23:14+00:00",
       "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261001112057_12-04-foto-vencimiento-tasas-agencia-recaudacion.jpg",
@@ -420,16 +507,16 @@
           "La Municipalidad de Necochea informa, a través de la Agencia de Recaudación, que ha sido prorrogado el Régimen de Recuperación de Deudas y Facilidades de Pago hasta el 18 de diciembre de 2026 , inclusive. Desde la Agencia confirmaron que la prórroga mantiene en todos sus términos las condiciones originales del régimen, incluyendo los descuentos sobre intereses y recargos según la modalidad de pago elegida: -Pago al contado o hasta en 1 cuota: 80% de descuento -Hasta 5 cuotas: 60% de descuento -Hasta 11 cuotas: 40% de descuento Se recuerda que el pago requiere un anticipo del 20% sobre el total de la deuda a regularizar, y el saldo se abona en cuotas mensuales y consecutivas con vencimiento el día 15 de cada mes.",
           "Asimismo, para acceder al beneficio los contribuyentes deben tener cumplidas las obligaciones fiscales del año 2026 correspondientes al tributo que se regulariza."
         ],
-        "generated": "2026-10-02T14:00:23.385759+00:00"
+        "generated": "2026-10-02T14:30:16.854408+00:00"
       },
-      "apariciones": 5,
-      "ultima_impresion": "2026-10-02T14:00:01.624081+00:00",
-      "penalizacion": 0.166
+      "apariciones": 6,
+      "ultima_impresion": "2026-10-02T14:30:00.558519+00:00",
+      "penalizacion": 0.091
     },
     {
       "key": "cumplen 125 anos primera institucion bancaria ciudad",
       "title": "Se cumplen 125 años de la primera institución bancaria de la ciudad",
-      "score": 0.174,
+      "score": 0.092,
       "sources_count": 1,
       "first_seen": "2026-10-02T12:20:12+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/Banco-Nacion-historica.webp",
@@ -449,45 +536,16 @@
           "TSN Necochea | ‹ VOLVER | Generales | banco | Efemérides locales Se cumplen 125 años de la primera institución bancaria de la ciudad El Banco de la Nación Argentina había sido fundado en 1891 y una década después arribó a Necochea. Por Redacción TSN 02/10/2026 · 09:20 AM Agregar TSN Necochea en En su habitual espacio de efemérides, el área de Museos del Parque Miguel Lillo rememoró los orígenes del Banco Nación en Necochea.",
           "El 2 de octubre de 1901 abría sus puertas la primera institución bancaria del partido de Necochea , con la inauguración de la sucursal del Banco de la Nación . El Banco de la Nación Argentina fue fundado en 1891 por iniciativa del presidente Carlos Pellegrini, como un medio para afrontar los embates de una devastadora crisis económica que afectaba, en especial, al sistema bancario existente en ese momento."
         ],
-        "generated": "2026-10-02T14:02:23.021397+00:00"
+        "generated": "2026-10-02T14:32:18.106442+00:00"
       },
-      "apariciones": 5,
-      "ultima_impresion": "2026-10-02T14:00:01.624081+00:00",
-      "penalizacion": 0.166
-    },
-    {
-      "key": "scaloni deshizo elogios johnny benedictis disfrute mucho me emociona estar lado",
-      "title": "Scaloni se deshizo en elogios con Johnny De Benedictis: “Lo disfruté mucho y me emociona estar al lado de él”",
-      "score": 0.169,
-      "sources_count": 1,
-      "first_seen": "2026-10-02T12:00:59+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/Scaloni-Johnny-De-Benedictis.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Scaloni se deshizo en elogios con Johnny De Benedictis: “Lo disfruté mucho y me emociona estar al lado de él”",
-          "url": "https://tsnnecochea.com.ar/deportes/scaloni-se-deshizo-en-elogios-con-johnny-de-benedictis-lo-disfrute-mucho-y-me-emociona-estar-al-lado-de-el-238615/",
-          "published_at": "2026-10-02T12:00:59+00:00",
-          "first_seen": "2026-10-02T12:30:01.358173+00:00",
-          "category": "Jonhny De Benedictis",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/Scaloni-Johnny-De-Benedictis.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Deportes | Jonhny De Benedictis | Encuentro de figuras Scaloni se deshizo en elogios con Johnny De Benedictis: “Lo disfruté mucho y me emociona estar al lado de él” En la nota realizada por la ACTC, el técnico de la Selección Argentina rememoró su pasión por el Turismo Carretera, y en particular, su gusto por el piloto de Necochea.",
-          "Por Redacción TSN 02/10/2026 · 09:00 AM Agregar TSN Necochea en Durante el particular encuentro del jueves en el predio de la AFA, en vísperas de la fecha de Turismo Carretera en San Nicolás y en medio del descanso de las fechas FIFA, el entrenador de la Selección Argentina, Lionel Scaloni, se deshizo en elogios para con el necochense Jonhnny De Benedictis , quien era uno de sus pilotos preferidos cuando de chico miraba el TC."
-        ],
-        "generated": "2026-10-02T14:02:24.277867+00:00"
-      },
-      "apariciones": 5,
-      "ultima_impresion": "2026-10-02T14:00:01.624081+00:00",
-      "penalizacion": 0.166
+      "apariciones": 6,
+      "ultima_impresion": "2026-10-02T14:30:00.558519+00:00",
+      "penalizacion": 0.091
     },
     {
       "key": "exclusivo humming airways prepara llegada necochea vuelos aeroparque",
       "title": "Exclusivo: Humming Airways prepara su llegada a Necochea con vuelos a Aeroparque",
-      "score": 0.169,
+      "score": 0.089,
       "sources_count": 1,
       "first_seen": "2026-10-02T12:00:27+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/10/exclusivo-humming-airways-prepara-su-llegada-a-necochea-con-vuelos-a-aeroparque.webp",
@@ -507,16 +565,16 @@
           "La aerolínea ya definió dos frecuencias semanales y trabaja en una etapa comercial para conocer la cantidad de pasajeros frecuentes antes de poner en marcha la nueva conexión. Mientras en Necochea circulan versiones y adelantos sobre distintos eventos que aún no fueron confirmados , Diario Necochea da a conocer en exclusiva la noticia que podría ser la más importante del año para nuestra ciudad y la zona.",
           "Noticia relacionadas Cómo estará el clima este viernes en Necochea y Quequén 2 de octubre de 2026 Comenzaron a demoler la histórica edificación de Jamming en Quequén 30 de septiembre de 2026 Según adelantaron desde Humming Airways a este medio, la compañía avanza en el desarrollo de una nueva conexión aérea directa entre el Aeroparque Jorge Newbery y el Aeródromo Edgardo Hugo Yelpo, que funcionaría como terminal de referencia para Necochea, Quequén y toda la zona de influencia."
         ],
-        "generated": "2026-10-02T14:02:25.718980+00:00"
+        "generated": "2026-10-02T14:32:26.840139+00:00"
       },
-      "apariciones": 5,
-      "ultima_impresion": "2026-10-02T14:00:01.624081+00:00",
-      "penalizacion": 0.166
+      "apariciones": 6,
+      "ultima_impresion": "2026-10-02T14:30:00.558519+00:00",
+      "penalizacion": 0.091
     },
     {
       "key": "espert anses tramitar jubilacion tiene solo anos aportes",
       "title": "Espert fue a Anses para tramitar su jubilación: tiene sólo 5 años de aportes",
-      "score": 0.145,
+      "score": 0.077,
       "sources_count": 1,
       "first_seen": "2026-10-02T12:22:57+00:00",
       "image": null,
@@ -536,16 +594,16 @@
           "El economista y exdiputado fue fotografiado en una oficina de la Administración Nacional de la Seguridad Social mientras comenzaba el proceso para acceder a la jubilación mínima, pese a haber registrado apenas cinco años de contribuciones. José Luis Espert apareció en público el martes 29 de septiembre en una sede de ANSES, donde se le vio firmando la documentación necesaria para solicitar la jubilación.",
           "Según los datos mostrados por Radio Gráfica, con los aportes que tiene registrados le corresponde la pensión mínima del régimen general. El dirigente, conocido por criticar en reiteradas oportunidades a quienes se jubilan sin cumplir los treinta años de aportes exigidos, había denunciado en marzo de 2024 la supuesta “jubilación masiva” mediante moratorias."
         ],
-        "generated": "2026-10-02T14:02:37.724898+00:00"
+        "generated": "2026-10-02T14:32:43.185227+00:00"
       },
-      "apariciones": 5,
-      "ultima_impresion": "2026-10-02T14:00:01.624081+00:00",
-      "penalizacion": 0.166
+      "apariciones": 6,
+      "ultima_impresion": "2026-10-02T14:30:00.558519+00:00",
+      "penalizacion": 0.091
     },
     {
       "key": "river plate tiene dos vias asegurar cupo copa libertadores 2027",
       "title": "River Plate tiene dos vías para asegurar cupo a la Copa Libertadores 2027",
-      "score": 0.145,
+      "score": 0.076,
       "sources_count": 1,
       "first_seen": "2026-10-02T12:19:10+00:00",
       "image": null,
@@ -565,16 +623,16 @@
           "Con seis partidos pendientes del Torneo Clausura, el Millonario debe cerrar la temporada sin margen de error para volver a la máxima competencia continental del próximo año. River Plate llegó al tramo final del calendario sin participación internacional tras ser eliminado de la Copa Argentina y de la Sudamericana. Ante esta situación, el técnico Leonardo Ponzio cuenta con dos alternativas para clasificar a la Copa Libertadores 2027: triunfar en el Torneo Clausura o depender de la tabla anual.",
           "Camino 1 – Ganar el Torneo Clausura El objetivo más directo, aunque también el más exigente, es alzarse campeón del Clausura. El equipo ocupa el octavo puesto de la Zona B, el último lugar que permite el acceso a los playoffs. Para asegurar una plaza en los octavos de final, River debe sumar los puntos necesarios y, de avanzar, ganar todos los encuentros de la fase final, ya que solo el campeón garantiza el boleto a la Libertadores."
         ],
-        "generated": "2026-10-02T14:02:38.762584+00:00"
+        "generated": "2026-10-02T14:32:44.251716+00:00"
       },
-      "apariciones": 5,
-      "ultima_impresion": "2026-10-02T14:00:01.624081+00:00",
-      "penalizacion": 0.166
+      "apariciones": 6,
+      "ultima_impresion": "2026-10-02T14:30:00.558519+00:00",
+      "penalizacion": 0.091
     },
     {
       "key": "carrio denuncio penalmente milei ataques periodista",
       "title": "Carrió denunció penalmente a Milei por los ataques a una periodista",
-      "score": 0.143,
+      "score": 0.075,
       "sources_count": 1,
       "first_seen": "2026-10-02T12:09:26+00:00",
       "image": null,
@@ -594,16 +652,16 @@
           "Elisa Carrió, exdiputada de la Coalición Cívica, presentó una causa penal contra el presidente Javier Milei tras los agravios que este dirigió a la periodista María Eugenia Duffard, calificándolos como abuso de autoridad y violencia de género en sus vertientes digital, mediática e institucional. Carrió acusa al mandatario de haber utilizado expresiones como “zurda inmunda” y “basura corrupta”, calificándolas de violación a tratados internacionales que protegen los derechos de las mujeres.",
           "En la denuncia solicitó la intervención de la Unidad Fiscal Especializada en Violencia contra las Mujeres (UFEM) para que se investiguen los hechos y se determinen posibles responsabilidades penales. La periodista Duffard, que conduce un programa en Infobae TV, rechazó las acusaciones de Milei, que la había señalado como defensora del kirchnerismo y cómplice de actos de corrupción."
         ],
-        "generated": "2026-10-02T14:02:39.483510+00:00"
+        "generated": "2026-10-02T14:32:45.325166+00:00"
       },
-      "apariciones": 5,
-      "ultima_impresion": "2026-10-02T14:00:01.624081+00:00",
-      "penalizacion": 0.166
+      "apariciones": 6,
+      "ultima_impresion": "2026-10-02T14:30:00.558519+00:00",
+      "penalizacion": 0.091
     },
     {
       "key": "diputados oposicion busca avanzar dnu 70 23 emergencia discapacidad",
       "title": "Diputados: la oposición busca avanzar contra el DNU 70/23 y la emergencia en discapacidad",
-      "score": 0.141,
+      "score": 0.075,
       "sources_count": 1,
       "first_seen": "2026-10-02T12:02:34+00:00",
       "image": null,
@@ -623,16 +681,16 @@
           "La oposición en la Cámara de Diputados convocó una sesión especial para el jueves 15 de octubre, con el objetivo de tratar la extensión de la emergencia en discapacidad, la morosidad y el endeudamiento familiar, y de impulsar la derogación del Decreto de Necesidad y Urgencia 70/23 impulsado por el gobierno de Javier Milei. La sesión contará con la participación del peronismo, Provincias Unidas, la Coalición Cívica, la izquierda y otros bloques opositores, que buscarán reunir los 129 diputados necesarios para habilitar el debate.",
           "La fecha coincide con la marcha universitaria que reclama mayor financiamiento para las universidades, los docentes y los hospitales universitarios. Contexto del DNU 70/23 El impulso de la oposición se intensificó tras la decisión de la Corte Suprema que restableció el artículo 154, el cual elimina los límites a la venta de tierras a extranjeros."
         ],
-        "generated": "2026-10-02T14:02:40.528481+00:00"
+        "generated": "2026-10-02T14:32:46.372309+00:00"
       },
-      "apariciones": 5,
-      "ultima_impresion": "2026-10-02T14:00:01.624081+00:00",
-      "penalizacion": 0.166
+      "apariciones": 6,
+      "ultima_impresion": "2026-10-02T14:30:00.558519+00:00",
+      "penalizacion": 0.091
     },
     {
       "key": "motociclista sufrio heridas graves chocar auto quequen",
       "title": "Una motociclista sufrió heridas graves al chocar contra un auto en Quequén",
-      "score": 0.047,
+      "score": 0.025,
       "sources_count": 1,
       "first_seen": "2026-10-02T11:05:54+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/10/accidente-quequen-dc.jpg",
@@ -652,40 +710,11 @@
           "Personal de Defensa Civil la asistió y estabilizó en el cruce de 521 y 570, antes de que una ambulancia del SAME la trasladara de urgencia al hospital local para recibir atención médica. Una motociclista sufrió lesiones de consideración pasadas las 20:40 de este viernes tras chocar contra un automóvil en la intersección de las calles 521 y 570, en la localidad de Quequén .",
           "Noticia relacionadas Violó la restricción e ingresó a la casa de su expareja con una bebé de ocho meses 1 de octubre de 2026 El choque de cada día: un motociclista terminó hospitalizado al impactar con una camioneta 1 de octubre de 2026 El choque involucró a un Volkswagen Gol y a un motovehículo que ya no se encontraba en el lugar cuando arribaron las fuerzas de seguridad. Personal de la Dirección General de Defensa Civil acudió a la escena del hecho para brindar los primeros auxilios a la conductora herida, a quien lograron estabilizar a los pocos minutos."
         ],
-        "generated": "2026-10-02T14:02:28.408345+00:00"
+        "generated": "2026-10-02T14:32:33.365493+00:00"
       },
-      "apariciones": 7,
-      "ultima_impresion": "2026-10-02T14:00:01.624081+00:00",
-      "penalizacion": 0.05
-    },
-    {
-      "key": "violo restriccion ingreso casa expareja bebe ocho meses",
-      "title": "Violó la restricción e ingresó a la casa de su expareja con una bebé de ocho meses",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-10-01T23:57:58+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/10/violo-la-restriccion-e-ingreso-a-la-casa-de-su-expareja-con-una-bebe-de-ocho-meses.webp",
-      "articles": [
-        {
-          "portal": "Diario Necochea",
-          "title": "Violó la restricción e ingresó a la casa de su expareja con una bebé de ocho meses",
-          "url": "https://diarionecochea.com/2026/10/01/violo-la-restriccion-e-ingreso-a-la-casa-de-su-expareja-con-una-bebe-de-ocho-meses/",
-          "published_at": "2026-10-01T23:57:58+00:00",
-          "first_seen": "2026-10-02T00:00:00.981168+00:00",
-          "category": "Policiales",
-          "image": "https://diarionecochea.com/wp-content/uploads/2026/10/violo-la-restriccion-e-ingreso-a-la-casa-de-su-expareja-con-una-bebe-de-ocho-meses.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El llamado de emergencia motivó el despliegue del Comando de Patrullas en calle 64, donde los efectivos constataron la infracción a la orden judicial e ingresaron para aprehender al sujeto y ponerlo a disposición de la fiscalía. Un hombre de 27 años fue aprehendido en Necochea tras ser hallado en el domicilio de su expareja, pese a encontrarse vigente una medida cautelar que le impedía acercarse.",
-          "Noticia relacionadas Una motociclista sufrió heridas graves al chocar contra un auto en Quequén 2 de octubre de 2026 El choque de cada día: un motociclista terminó hospitalizado al impactar con una camioneta 1 de octubre de 2026 El procedimiento se inició a partir de un alerta recibido a través del 911, que motivó la intervención de personal del Comando de Patrullas Necochea."
-        ],
-        "generated": "2026-10-02T14:02:42.279138+00:00"
-      },
-      "apariciones": 23,
-      "ultima_impresion": "2026-10-02T14:00:01.624081+00:00",
-      "penalizacion": 0.0
+      "apariciones": 8,
+      "ultima_impresion": "2026-10-02T14:30:00.558519+00:00",
+      "penalizacion": 0.028
     }
   ]
 }
