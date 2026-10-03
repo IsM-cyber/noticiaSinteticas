@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-03T16:00:01.322700+00:00",
+  "generated_at": "2026-10-03T16:30:00.861761+00:00",
   "article_count": 175,
   "fetch_errors": [],
   "stories": [
     {
       "key": "principio incendio madrugada gomeria quequen",
       "title": "Principio de incendio durante la madrugada en una gomería de Quequén",
-      "score": 4.473,
+      "score": 2.36,
       "sources_count": 3,
       "first_seen": "2026-10-03T14:04:46+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/10/principio-de-incendio-durante-la-madrugada-en-una-gomeria-de-quequen.webp",
@@ -44,16 +44,45 @@
           "El fuego se inició en un sector de las instalaciones ubicadas en 552 y 573, donde rápidamente comenzó el operativo para controlar la situación. Pasadas las 5 de la madrugada de este sábado se registró un principio de incendio en una gomería ubicada en la intersección de las calles 552 y 573, en Quequén .",
           "Noticia relacionadas Trasladaron a Bahía Blanca a un ciclista que chocó contra un camión en Ruta 228 3 de octubre de 2026 Un vehículo quedó envuelto en llamas en la esquina de 78 y 37 3 de octubre de 2026 El foco ígneo se inició en un sector de las instalaciones del comercio y generó la intervención de los servicios de emergencia durante las primeras horas de la jornada. Ante la situación, se desplazó personal del Cuartel de Bomberos de Quequén, que trabajó para controlar el fuego y evitar que las llamas se extendieran hacia otros sectores del establecimiento."
         ],
-        "generated": "2026-10-03T16:00:16.888730+00:00"
+        "generated": "2026-10-03T16:30:16.858980+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-10-03T16:00:01.322700+00:00",
-      "penalizacion": 1.0
+      "apariciones": 3,
+      "ultima_impresion": "2026-10-03T16:30:00.861761+00:00",
+      "penalizacion": 0.55
+    },
+    {
+      "key": "incendio vehicular necochea vw voyage quemo 78 37",
+      "title": "Incendio vehicular en Necochea: un VW Voyage se quemó en 78 y 37",
+      "score": 1.167,
+      "sources_count": 1,
+      "first_seen": "2026-10-03T16:09:59+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/IMG-20261003-WA0012-1.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Incendio vehicular en Necochea: un VW Voyage se quemó en 78 y 37",
+          "url": "https://tsnnecochea.com.ar/locales/incendio-vehicular-en-necochea-un-vw-voyage-se-quemo-en-78-y-37-238742/",
+          "published_at": "2026-10-03T16:09:59+00:00",
+          "first_seen": "2026-10-03T16:30:00.861761+00:00",
+          "category": "bomberos",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/IMG-20261003-WA0012-1.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Locales | bomberos | Incidente vial Incendio vehicular en Necochea: un VW Voyage se quemó en 78 y 37 El hecho movilizó a personal del Cuartel de Bomberos local. Pese a que el coche tenía equipo de gas, el fuego fue controlado sin lamentar heridos. Por Redacción TSN 03/10/2026 · 01:09 PM Agregar TSN Necochea en Un importante despliegue de emergencia se registró este viernes por la tarde en la zona de calles 78 y 37 , tras el incendio de un automóvil en plena vía pública.",
+          "​Por motivos que aún se investigan, un Volkswagen Voyage comenzó a arder de manera repentina, lo que motivó el rápido llamado de los vecinos al sistema de emergencias. ​Al lugar acudió una dotación del Cuartel de Bomberos de Necochea , cuyos efectivos lograron sofocar las llamas. La intervención requería extrema precaución debido a que el rodado contaba con equipo de GNC , lo que representaba un riesgo latente de explosión."
+        ],
+        "generated": "2026-10-03T16:30:36.249142+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-03T16:30:00.861761+00:00"
     },
     {
       "key": "tarifas electricas provincia distribuidoras apelaron fallo congelo aumentos",
       "title": "Tarifas eléctricas: la Provincia y las distribuidoras apelaron el fallo que congeló los aumentos",
-      "score": 1.153,
+      "score": 1.106,
       "sources_count": 1,
       "first_seen": "2026-10-03T15:31:21+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/08/Servicios-Tarifas-Hogares-123.jpg",
@@ -73,16 +102,190 @@
           "TSN Necochea | ‹ VOLVER | Locales | energía eléctrica | Servicios Tarifas eléctricas: la Provincia y las distribuidoras apelaron el fallo que congeló los aumentos El Gobierno bonaerense y las empresas EDEN, EDEA, EDES y EDELAP acudieron a la Cámara de Apelaciones de Mar del Plata para revertir la medida cautelar que frenó las subas y ordenaba devolver lo cobrado. La disputa por la falta de audiencias públicas queda ahora en manos de la Justicia de alzada.",
           "Por Redacción TSN 03/10/2026 · 12:31 PM Tarifas energéticas suben más que la inflación Fotografía: Agencia Noticias Argentinas / Archivo. Agregar TSN Necochea en El Gobierno bonaerense y las cuatro principales distribuidoras eléctricas que operan en el territorio (EDEN, EDEA , EDES y EDELAP) apelaron formalmente el fallo judicial que congeló las subas y obligaba a reajustar los valores a los cuadros tarifarios previos."
         ],
-        "generated": "2026-10-03T16:00:54.379618+00:00"
+        "generated": "2026-10-03T16:31:13.608120+00:00"
+      },
+      "apariciones": 2,
+      "ultima_impresion": "2026-10-03T16:30:00.861761+00:00",
+      "penalizacion": 1.0
+    },
+    {
+      "key": "ejecutivo anticipo vetara creacion consejo municipal seguridad",
+      "title": "El Ejecutivo anticipó que vetará la creación del Consejo Municipal de Seguridad",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-03T16:30:00.861761+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/432ad0af158996a2c69c9df39ad9ed87f44c5c5f.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "El Ejecutivo anticipó que vetará la creación del Consejo Municipal de Seguridad",
+          "url": "https://necocheadigital.com/nota/119785/el-ejecutivo-anticipo-que-vetara-la-creacion-del-consejo-municipal-de-seguridad/",
+          "published_at": null,
+          "first_seen": "2026-10-03T16:30:00.861761+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El Departamento Ejecutivo municipal se encamina a vetar en su totalidad la ordenanza aprobada por mayoría esta semana por el Concejo Deliberante de Necochea , mediante la cual se propone crear un Consejo Municipal de Seguridad en el ámbito del gobierno comunal. Así lo anticipó el secretario de Gobierno, Jorge Martínez , durante una entrevista en Voces de la Tarde , programa conducido por Jorge Gómez por Radio Noticias Necochea.",
+          "El funcionario explicó que el expediente será sometido previamente a un análisis jurídico por parte del área de Legal y Técnica, aunque adelantó que existe un “gran porcentaje” de posibilidades de que la norma sea vetada. Martínez sostuvo que el principal argumento estará relacionado con las facultades que la ordenanza pretende imponer al Departamento Ejecutivo y, particularmente, al intendente ."
+        ],
+        "generated": "2026-10-03T16:31:32.606843+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-03T16:00:01.322700+00:00"
+      "ultima_impresion": "2026-10-03T16:30:00.861761+00:00"
+    },
+    {
+      "key": "barrena pidio provincia reemplazo jefe distrital educacion loberia",
+      "title": "Barrena pidió a la Provincia el reemplazo del jefe distrital de Educación de Lobería",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-03T16:30:00.861761+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/93167c950d30639c4ebc9773b5430fd2cee8a7af.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Barrena pidió a la Provincia el reemplazo del jefe distrital de Educación de Lobería",
+          "url": "https://necocheadigital.com/nota/119786/barrena-pidio-a-la-provincia-el-reemplazo-del-jefe-distrital-de-educacion-de-loberia/",
+          "published_at": null,
+          "first_seen": "2026-10-03T16:30:00.861761+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El intendente de Lobería, Pablo Barrena , volvió a reclamar públicamente a las autoridades de la provincia de Buenos Aires el reemplazo del jefe distrital de Educación, Alejandro Rivada , a quien cuestionó por lo que considera una indebida intervención de la política partidaria en el ámbito escolar y por una serie de decisiones que, según afirmó, afectan la relación entre el municipio y las instituciones educativas. En diálogo con Voces de la Tarde , programa conducido por Jorge Gómez por Radio Noticias Necochea, Barrena explicó que el conflicto se remonta al comienzo de su gestión y que Rivada ya ocupaba el cargo cuando asumió como intendente.",
+          "Según relató, en una oportunidad debió recurrir al entonces director general de Cultura y Educación bonaerense, Alberto Sileoni , para poder ingresar a establecimientos educativos que pretendía recorrer."
+        ],
+        "generated": "2026-10-03T16:31:33.749526+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-03T16:30:00.861761+00:00"
+    },
+    {
+      "key": "necochea fortalece coordinacion organismos posibles emergencias climaticas",
+      "title": "Necochea fortalece la coordinación entre organismos ante posibles emergencias climáticas",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-03T16:30:00.861761+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/5a87668dbc2144263e3d4acc2ea8a49209076773.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Necochea fortalece la coordinación entre organismos ante posibles emergencias climáticas",
+          "url": "https://necocheadigital.com/nota/119775/necochea-fortalece-la-coordinacion-entre-organismos-ante-posibles-emergencias-climaticas/",
+          "published_at": null,
+          "first_seen": "2026-10-03T16:30:00.861761+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La Municipalidad de Necochea reunió a representantes de distintas áreas y organismos con el objetivo de fortalecer la coordinación y establecer criterios comunes de actuación ante posibles emergencias climáticas . El encuentro se desarrolló en las instalaciones del Centro Operativo de Monitoreo (COM) y fue convocado por la Secretaría de Desarrollo Humano y Políticas Sociales.",
+          "Participaron funcionarios y representantes de esa dependencia, Defensa Civil, Prevención y el 147, además de Cruz Roja, autoridades del sistema educativo, el Consejo Escolar y la Dirección Provincial de Hidráulica, encabezada por Florencia Vecchia. Durante la reunión se analizaron las experiencias recogidas a partir de los últimos episodios meteorológicos registrados en el distrito y se planteó la necesidad de mejorar los mecanismos de comunicación y respuesta entre las diferentes instituciones."
+        ],
+        "generated": "2026-10-03T16:31:34.885976+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-03T16:30:00.861761+00:00"
+    },
+    {
+      "key": "juan vidal llevo concejo preocupacion zona fria pidio incluir cuidacoches",
+      "title": "Juan Vidal llevó al Concejo la preocupación por la zona fría y pidió “incluir” a los cuidacoches",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-03T16:30:00.861761+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/0512139bd04642e17d47cfd13b003af443b6bb70.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Juan Vidal llevó al Concejo la preocupación por la zona fría y pidió “incluir” a los cuidacoches",
+          "url": "https://necocheadigital.com/nota/119777/juan-vidal-llevo-al-concejo-la-preocupacion-por-la-zona-fria-y-pidio-incluir-a-los-cuidacoches/",
+          "published_at": null,
+          "first_seen": "2026-10-03T16:30:00.861761+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Juan Manuel Vidal llegó al Concejo Deliberante de Necochea con una preocupación concreta: las consecuencias que tendrá para los vecinos de la región la eliminación del beneficio de zona fría en las facturas de gas. Pero detrás de su exposición en la Banca Abierta del miércoles pasado apareció también una mirada más amplia sobre una realidad que, según describió, atraviesan distintos sectores de la economía popular: ingresos que apenas alcanzan para vivir, jubilados que deben continuar trabajando y familias que buscan distintas alternativas para completar sus ingresos.",
+          "Vidal es organizador de la feria itinerante La Soberana , que actualmente reúne alrededor de diez puestos y se instala en distintos sectores de Necochea y Quequén. Trabaja junto a su esposa: ella elabora conservas y él produce panificados."
+        ],
+        "generated": "2026-10-03T16:31:35.986599+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-03T16:30:00.861761+00:00"
+    },
+    {
+      "key": "construccion perdio casi 000 empleos formales julio volvio niveles inferiores 2025",
+      "title": "La construcción perdió casi 4.000 empleos formales en julio y volvió a niveles inferiores a los de 2025",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-03T16:30:00.861761+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/504907f5f7c60c3baeb54b3f86177f4e6c4e9a64.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "La construcción perdió casi 4.000 empleos formales en julio y volvió a niveles inferiores a los de 2025",
+          "url": "https://necocheadigital.com/nota/119774/la-construccion-perdio-casi-4-000-empleos-formales-en-julio-y-volvio-a-niveles-inferiores-a-los-de-2025/",
+          "published_at": null,
+          "first_seen": "2026-10-03T16:30:00.861761+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El empleo formal en la industria de la construcción registró un nuevo retroceso durante julio. Según un informe elaborado por el Instituto de Estadística y Registro de la Industria de la Construcción (IERIC), el sector contabilizó 352.511 trabajadores registrados , lo que representa una disminución del 1,1% respecto de junio y la pérdida de alrededor de 4.000 puestos de trabajo. La baja también marcó un cambio en la evolución interanual.",
+          "Después de 15 meses consecutivos con variaciones positivas , el empleo formal de la construcción quedó 1% por debajo del nivel registrado en julio de 2025 . Además, la cantidad de trabajadores se ubicó 11,5% por debajo del promedio histórico para julio , calculado en 398.380 empleos a partir de los registros disponibles desde 2011, con excepción de los años 2020 y 2021. A pesar de la caída registrada durante julio, el balance de los primeros siete meses de 2026 todavía muestra una evolución positiva."
+        ],
+        "generated": "2026-10-03T16:31:37.105557+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-03T16:30:00.861761+00:00"
+    },
+    {
+      "key": "lionel scaloni dio gusto recibio historico johnny benedictis predio ezeiza",
+      "title": "Lionel Scaloni se dio el gusto: recibió al histórico Johnny De Benedictis en el predio de Ezeiza",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-03T16:30:00.861761+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/71f451bbf8489936ead9ab2f548824fb1360d4ad.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Lionel Scaloni se dio el gusto: recibió al histórico Johnny De Benedictis en el predio de Ezeiza",
+          "url": "https://necocheadigital.com/nota/119768/lionel-scaloni-se-dio-el-gusto-recibio-al-historico-johnny-de-benedictis-en-el-predio-de-ezeiza/",
+          "published_at": null,
+          "first_seen": "2026-10-03T16:30:00.861761+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Johnny llegó acompañado por su hijo Juan Bautista y representantes de la Asociación de Corredores de Turismo Carretera (ACTC), quienes aprovecharon la estadía del seleccionado para entregarle un reconocimiento formal al DT campeón del mundo. \"Vinimos con la ACTC a traerle un presente a Scaloni. Y como él había manifestado que era hincha de mi papá cuando corría, vinimos junto a él.",
+          "Charlamos un rato en el predio\", contó Pamperito en diálogo con Estación K2, destacando además la \"humildad\" del entrenador en sus redes sociales. Una historia que nació en 2021 La raíz de esta reunión se remonta a una entrevista concedida por Scaloni a Olé en 2021, donde sorprendió al confesar su fanatismo por el TC y por el estilo de manejo de Johnny: “Siempre me apasionó de toda la vida cómo piloteaba De Benedictis."
+        ],
+        "generated": "2026-10-03T16:31:37.758885+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-03T16:30:00.861761+00:00"
     },
     {
       "key": "trasladaron bahia blanca ciclista choco camion ruta 228",
       "title": "Trasladaron a Bahía Blanca a un ciclista que chocó contra un camión en Ruta 228",
-      "score": 1.148,
+      "score": 0.605,
       "sources_count": 1,
       "first_seen": "2026-10-03T15:27:50+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/10/trasladaron-a-bahia-blanca-a-un-ciclista-que-choco-contra-un-camion-en-ruta-228.webp",
@@ -102,190 +305,16 @@
           "El ciclista circulaba por un cruce durante la tarde del viernes, donde impactó contra un camión y terminó derivado a un centro médico bahiense en estado grave. Un ciclista que sufrió politraumatismos y un sangrado en la cabeza tras chocar contra un camión en Tres Arroyos fue derivado de urgencia a un hospital de Bahía Blanca.",
           "El violento impacto se registró durante las primeras horas de la tarde del viernes. Noticia relacionadas Principio de incendio durante la madrugada en una gomería de Quequén 3 de octubre de 2026 Un vehículo quedó envuelto en llamas en la esquina de 78 y 37 3 de octubre de 2026 El herido, identificado como Rodrigo Romero, intentaba atravesar la Ruta Nacional 228 a la altura de la intersección con Monteagudo cuando se produjo la colisión con el vehículo de carga, según reportaron medios locales y el portal LU24.com.ar ."
         ],
-        "generated": "2026-10-03T16:00:56.311618+00:00"
+        "generated": "2026-10-03T16:31:31.554628+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-10-03T16:00:01.322700+00:00",
-      "penalizacion": 1.0
-    },
-    {
-      "key": "subasta teatro auditorium realizo primera recorrida formal presencia potenciales compradores",
-      "title": "Subasta del Teatro Auditórium: Se realizó la primera recorrida formal sin la presencia de potenciales compradores",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-03T16:00:01.322700+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261002170732_whatsapp-image-2026-10-02-at-17-07-18.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Subasta del Teatro Auditórium: Se realizó la primera recorrida formal sin la presencia de potenciales compradores",
-          "url": "https://necocheadigital.com/nota/119782/subasta-del-teatro-auditorium-se-realizo-la-primera-recorrida-formal-sin-la-presencia-de-potenciales-compradores/",
-          "published_at": null,
-          "first_seen": "2026-10-03T16:00:01.322700+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La recorrida estuvo encabezada por el martillero público sorteado para la operación, Sergio Marcelo Gertie, junto a Romina Casal, presidenta del Colegio de Martilleros y Corredores Públicos de Necochea, e integrantes de la comisión directiva institucional. A pesar de ser una instancia oficial del cronograma para conocer las instalaciones, no se registraron potenciales oferentes durante la jornada. Al respecto, Gertie restó importancia a la ausencia de interesados en esta primera etapa, señalando que se trata de un acto formal y recordando que en la subasta de las otras parcelas del Complejo Casino ocurrió una situación similar, donde los compradores aparecieron sobre el cierre del plazo de inscripción.",
-          "Detalles del inmueble y condiciones de venta Superficie y estado: La Parcela C abarca aproximadamente 2.910 metros cuadrados. El edificio se encuentra desocupado y presenta severos deterioros derivados del incendio sufrido en 2020."
-        ],
-        "generated": "2026-10-03T16:00:56.963618+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-03T16:00:01.322700+00:00"
-    },
-    {
-      "key": "otorgaron prision domiciliaria patricia astesano crimen alejandra fiorito",
-      "title": "Otorgaron prisión domiciliaria a Patricia Astesano por el crimen de Alejandra Fiorito",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-03T16:00:01.322700+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261002172624_20260129221138-whatsapp-image-2026-01-29-at-10-06-15-pm.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Otorgaron prisión domiciliaria a Patricia Astesano por el crimen de Alejandra Fiorito",
-          "url": "https://necocheadigital.com/nota/119784/otorgaron-prision-domiciliaria-a-patricia-astesano-por-el-crimen-de-alejandra-fiorito/",
-          "published_at": null,
-          "first_seen": "2026-10-03T16:00:01.322700+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Patricia Astesano, la principal acusada por el homicidio de Alejandra Fiorito ocurrido en Quequén, obtuvo en las últimas horas el beneficio del arresto domiciliario. La resolución judicial le otorga este esquema moratorio a la imputada, aunque la medida aún no se hizo efectiva en la práctica. Por el momento, Astesano continúa alojada en la Unidad Penal N° 50 de Batán a la espera de la colocación del dispositivo de monitoreo con pulsera o tobillera electrónica, una condición que resulta indispensable para que las autoridades puedan concretar su traslado al domicilio fijado.",
-          "En paralelo a la definición sobre las condiciones de detención de la acusada, la fiscalía a cargo del Dr. Carlos Larrarte avanza de manera sostenida con la etapa probatoria para esclarecer la mecánica y la secuencia del trágico hecho."
-        ],
-        "generated": "2026-10-03T16:00:58.050580+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-03T16:00:01.322700+00:00"
-    },
-    {
-      "key": "toledo llega octubre dudas salarios comercio sigue perdiendo empleos",
-      "title": "Toledo llega a octubre con dudas sobre los salarios y el comercio sigue perdiendo empleos",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-03T16:00:01.322700+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/b1796b1fb3c71c3d503b3bc7fe88420a2b2b22a5.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Toledo llega a octubre con dudas sobre los salarios y el comercio sigue perdiendo empleos",
-          "url": "https://necocheadigital.com/nota/119776/toledo-llega-a-octubre-con-dudas-sobre-los-salarios-y-el-comercio-sigue-perdiendo-empleos/",
-          "published_at": null,
-          "first_seen": "2026-10-03T16:00:01.322700+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El comienzo de octubre volvió a poner bajo la lupa la situación de los trabajadores de Toledo , ante la incertidumbre existente respecto del pago de los salarios correspondientes a septiembre. La cadena supermercadista, que mantiene tres establecimientos en Necochea, todavía no pudo garantizar al Sindicato de Empleados de Comercio que contará la semana próxima con los fondos necesarios para afrontar los haberes en tiempo y forma. Leonardo Fiscina , secretario gremial del Sindicato de Empleados de Comercio de Necochea, explicó que mantuvo contacto con referentes de la empresa, aunque sin obtener una confirmación concreta.",
-          "El plazo legal para el pago se extiende hasta los primeros días hábiles del mes y, según indicó, la fecha prevista sería el próximo martes. “Todavía estamos en la incertidumbre."
-        ],
-        "generated": "2026-10-03T16:00:59.138798+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-03T16:00:01.322700+00:00"
-    },
-    {
-      "key": "60 anos iriberri historia ligada campo mirada estrategica puerto quequen",
-      "title": "60 años de Iriberri: una historia ligada al campo y una mirada estratégica sobre Puerto Quequén",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-03T16:00:01.322700+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/4bdbcc18acfcc4aadf8820297fb8ce1b44080e0a.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "60 años de Iriberri: una historia ligada al campo y una mirada estratégica sobre Puerto Quequén",
-          "url": "https://necocheadigital.com/nota/119773/60-anos-de-iriberri-una-historia-ligada-al-campo-y-una-mirada-estrategica-sobre-puerto-quequen/",
-          "published_at": null,
-          "first_seen": "2026-10-03T16:00:01.322700+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Sesenta años representan mucho más que una fecha para una empresa. Son seis décadas de transformaciones económicas, tecnológicas y productivas, pero también de una relación sostenida con los productores y con una región cuya actividad agropecuaria tiene en Puerto Quequén uno de sus principales puntos de salida al mundo. En ese marco, Juan Bautista Iriberri , integrante de la firma Juan Leoncio Iriberri Sociedad en Comandita por Acciones, repasó la historia de la empresa durante una entrevista en Voces de la Tarde , programa conducido por Jorge Gómez por Radio Noticias Necochea 97.3 .",
-          "La compañía nació en 1966 y actualmente tiene entre sus principales actividades la comercialización de granos, con una especialización particularmente importante en cebada cervecera . La firma cuenta además con una planta de silos en Necochea."
-        ],
-        "generated": "2026-10-03T16:01:00.235697+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-03T16:00:01.322700+00:00"
-    },
-    {
-      "key": "paro docente ponerle freno violencia escuelas",
-      "title": "Un paro docente para ponerle un freno a la violencia en las escuelas",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-03T16:00:01.322700+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/fe6cebb2daba4b65ccd7714eae5e963d183082df.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Un paro docente para ponerle un freno a la violencia en las escuelas",
-          "url": "https://necocheadigital.com/nota/119772/un-paro-docente-para-ponerle-un-freno-a-la-violencia-en-las-escuelas/",
-          "published_at": null,
-          "first_seen": "2026-10-03T16:00:01.322700+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Más del 90% de adhesión , según la evaluación realizada por SUTEBA Necochea, registró el paro docente de 24 horas llevado adelante este jueves 1° de octubre en el distrito. La medida de fuerza tuvo como eje central el reclamo de respuestas concretas frente a los reiterados episodios de violencia que afectan a trabajadores y trabajadoras de la educación en distintos puntos de la provincia de Buenos Aires.",
-          "Así lo explicó la secretaria general de SUTEBA Necochea, Ana Larrañaga , durante una entrevista en Voces de la Tarde , programa conducido por Jorge Gómez por Radio Noticias Necochea 97.3 . La dirigente sostuvo que en Necochea las escuelas estuvieron “ prácticamente cerradas ” y señaló que las situaciones de violencia registradas en las últimas semanas “ subieron exponencialmente ” en distintos distritos bonaerenses."
-        ],
-        "generated": "2026-10-03T16:01:01.324913+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-03T16:00:01.322700+00:00"
-    },
-    {
-      "key": "concejo deliberante refrendo prorroga 150 dias servicio colectivos",
-      "title": "El Concejo Deliberante refrendó la prórroga por 150 días del servicio de colectivos",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-03T16:00:01.322700+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261001172047_whatsapp-image-2026-10-01-at-17-20-13.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "El Concejo Deliberante refrendó la prórroga por 150 días del servicio de colectivos",
-          "url": "https://necocheadigital.com/nota/119769/el-concejo-deliberante-refrendo-la-prorroga-por-150-dias-del-servicio-de-colectivos/",
-          "published_at": null,
-          "first_seen": "2026-10-03T16:00:01.322700+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La medida busca dar una respuesta inmediata al vencimiento del plazo de 90 días de la extensión anterior y garantizar la continuidad de las líneas 502, 503, 510, 511, 512, 513, 514, 515, 517 y 518 junto a sus respectivos ramales. El aval legislativo se concretó tras reunirse la Comisión de Transporte del HCD, presidia por el concejal Julián Kristiansen (FP-MDF), para abordar el expediente que se había presentado sobre tablas durante la 11° Sesión Ordinaria sin haberse tratado en ese momento.",
-          "Al respecto, Kristiansen explicó que la convocatoria respondió a la urgencia del plazo para asegurar la prestación en el distrito tras haber quedado desiertos los dos llamados a licitación anteriores por falta de oferentes: “Lo que garantizamos con esto es la continuidad del servicio."
-        ],
-        "generated": "2026-10-03T16:01:02.434891+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-03T16:00:01.322700+00:00"
+      "apariciones": 3,
+      "ultima_impresion": "2026-10-03T16:30:00.861761+00:00",
+      "penalizacion": 0.55
     },
     {
       "key": "todo suspendido sabado futbol primera liga social",
       "title": "Todo suspendido para este sábado: ni fútbol de Primera, ni Liga Social",
-      "score": 0.308,
+      "score": 0.162,
       "sources_count": 1,
       "first_seen": "2026-10-03T14:01:08+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2023/11/pelota-futbol-lluvia-canchajpg.jpg",
@@ -305,16 +334,16 @@
           "TSN Necochea | ‹ VOLVER | Deportes | Clima | Lluvias Todo suspendido para este sábado: ni fútbol de Primera, ni Liga Social Las condiciones las pone el clima y este sábado no rodará la pelota. Por Redacción TSN 03/10/2026 · 11:01 AM Agregar TSN Necochea en Sobre las 11 de la mañana de este sábado, y conforme al compás de espera que había planteado para estudiar el panorama del campo de juego, la Liga Necochea de Fútbol decidió suspender el único juego de Primera División previsto para este sábado por la fecha 19 del Campeonato Giuseppe Portugal, entre Rivadavia y Jorge Newbery de Lobería .",
           "Esto se suma a la decisión más tempranera de suspender el fútbol infantil y también el femenino."
         ],
-        "generated": "2026-10-03T16:02:15.989013+00:00"
+        "generated": "2026-10-03T16:32:33.212190+00:00"
       },
-      "apariciones": 4,
-      "ultima_impresion": "2026-10-03T16:00:01.322700+00:00",
-      "penalizacion": 0.303
+      "apariciones": 5,
+      "ultima_impresion": "2026-10-03T16:30:00.861761+00:00",
+      "penalizacion": 0.166
     },
     {
       "key": "provincia capacita rescatistas fenomeno nino",
       "title": "La Provincia capacita a rescatistas ante el fenómeno de El Niño",
-      "score": 0.308,
+      "score": 0.162,
       "sources_count": 1,
       "first_seen": "2026-10-03T14:00:45+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/rescate-1024x682-1.webp",
@@ -334,16 +363,16 @@
           "TSN Necochea | ‹ VOLVER | Generales | El Niño | Buenos Aires La Provincia capacita a rescatistas ante el fenómeno de El Niño Realizó una jornada de entrenamiento en rescate acuático. Por Redacción TSN 03/10/2026 · 11:00 AM Agregar TSN Necochea en En el marco de las acciones de prevención ante posibles eventos climáticos vinculados al fenómeno de El Niño , el Ministerio de Desarrollo de la Comunidad de la Provincia de Buenos Aires llevó adelante en Benavídez una jornada de entrenamiento y perfeccionamiento en prácticas de rescate e intervención acuática.",
           "La actividad reunió a rescatistas, brigadas y organizaciones de la sociedad civil para fortalecer la capacidad de respuesta y la coordinación en situaciones de emergencia. La iniciativa fue impulsada por la Dirección de Intervención Social en la Emergencia que funciona bajo la órbita de la Subsecretaría de Organización Comunitaria que conduce Santiago Fidanza."
         ],
-        "generated": "2026-10-03T16:02:17.046119+00:00"
+        "generated": "2026-10-03T16:32:34.242906+00:00"
       },
-      "apariciones": 4,
-      "ultima_impresion": "2026-10-03T16:00:01.322700+00:00",
-      "penalizacion": 0.303
+      "apariciones": 5,
+      "ultima_impresion": "2026-10-03T16:30:00.861761+00:00",
+      "penalizacion": 0.166
     },
     {
       "key": "franco colapinto largara fondo bahrein confia remontar",
       "title": "Franco Colapinto largará desde el fondo en Bahréin, pero confía en remontar",
-      "score": 0.304,
+      "score": 0.16,
       "sources_count": 1,
       "first_seen": "2026-10-03T13:52:27+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/07/franco-colapinto_862x485Belg.webp",
@@ -363,16 +392,16 @@
           "TSN Necochea | ‹ VOLVER | Deportes | Alpine | Fórmula 1 Franco Colapinto largará desde el fondo en Bahréin, pero confía en remontar El argentino largará relegado tras sufrir penalizaciones por cambio de motor y sanciones acumuladas. A pesar del escenario complejo, aseguró que el circuito permite sobrepasos y busca maximizar el rendimiento de su auto en carrera.",
           "Por Redacción TSN 03/10/2026 · 10:52 AM Agregar TSN Necochea en El piloto argentino Franco Colapinto se mostró esperanzado de cara a la carrera del Gran Premio de Bahréin de Fórmula 1 y aseguró que, a pesar de partir desde los últimos lugares de la grilla, “se puede remontar”. Colapinto había completado una sesión de clasificación posicionándose en el decimoquinto lugar, pero deberá largar relegado en el clasificador producto de las sanciones acumuladas por el cambio de componentes en el motor de combustión interna de su monoplaza."
         ],
-        "generated": "2026-10-03T16:02:18.122528+00:00"
+        "generated": "2026-10-03T16:32:35.239116+00:00"
       },
-      "apariciones": 4,
-      "ultima_impresion": "2026-10-03T16:00:01.322700+00:00",
-      "penalizacion": 0.303
+      "apariciones": 5,
+      "ultima_impresion": "2026-10-03T16:30:00.861761+00:00",
+      "penalizacion": 0.166
     },
     {
       "key": "suspendieron partidos infantiles femeninos lluvia",
       "title": "Suspendieron los partidos infantiles y femeninos por la lluvia",
-      "score": 0.29,
+      "score": 0.153,
       "sources_count": 1,
       "first_seen": "2026-10-03T13:18:14+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2023/07/futbol-lluvia-1.jpg",
@@ -392,16 +421,16 @@
           "La lluvia obligó a suspender la actividad infantil y femenina por el estado de las canchas, mientras que la Primera División quedó sujeta a una inspección para definir qué ocurrirá con Rivadavia-Newbery. La Liga suspendió este sábado 3 de octubre todos los partidos correspondientes a las divisiones infantiles y al torneo femenino debido a las condiciones climáticas adversas y al estado de los campos de juego.",
           "La medida fue adoptada de manera preventiva ante la acumulación de agua y la falta de condiciones adecuadas para disputar los encuentros."
         ],
-        "generated": "2026-10-03T16:02:19.722748+00:00"
+        "generated": "2026-10-03T16:32:42.257683+00:00"
       },
-      "apariciones": 4,
-      "ultima_impresion": "2026-10-03T16:00:01.322700+00:00",
-      "penalizacion": 0.303
+      "apariciones": 5,
+      "ultima_impresion": "2026-10-03T16:30:00.861761+00:00",
+      "penalizacion": 0.166
     },
     {
       "key": "sabado inestable necochea quequen lluvias manana viento fuerte mejora noche",
       "title": "Sábado inestable en Necochea y Quequén: lluvias por la mañana y viento fuerte, pero mejora hacia la noche",
-      "score": 0.285,
+      "score": 0.15,
       "sources_count": 1,
       "first_seen": "2026-10-03T13:05:30+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/03/ab5369b4-325d-49c7-a633-221e88a66c77.jpg",
@@ -421,45 +450,16 @@
           "TSN Necochea | ‹ VOLVER | Locales | lluvias | Pronóstico del tiempo Sábado inestable en Necochea y Quequén: lluvias por la mañana y viento fuerte, pero mejora hacia la noche El Servicio Meteorológico Nacional anticipa una jornada que irá de menor a mayor en la costa del distrito: tras una mañana fría y lluviosa con ráfagas de hasta 50 km/h, las condiciones irán mejorando gradualmente hacia la tarde y la noche, alcanzando una máxima de 16 °C. Por Redacción TSN 03/10/2026 · 10:05 AM Agregar TSN Necochea en El fin de semana comienza con un escenario meteorológico cambiante para Necochea y Quequén.",
           "De acuerdo al último reporte del Servicio Meteorológico Nacional (SMN) para este sábado 3 de octubre, la costa del distrito atravesará un pasaje de inestabilidad durante las primeras horas del día, aunque el panorama tenderá a estabilizarse con el correr de la jornada."
         ],
-        "generated": "2026-10-03T16:02:20.426664+00:00"
+        "generated": "2026-10-03T16:32:43.324664+00:00"
       },
-      "apariciones": 4,
-      "ultima_impresion": "2026-10-03T16:00:01.322700+00:00",
-      "penalizacion": 0.303
-    },
-    {
-      "key": "obra esencial comenzara campo scout necochense pocos dias",
-      "title": "Qué obra esencial comenzará en el campo Scout necochense en pocos días",
-      "score": 0.283,
-      "sources_count": 1,
-      "first_seen": "2026-10-03T13:00:12+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/02-10-FOTO-Rojas-Scout.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Qué obra esencial comenzará en el campo Scout necochense en pocos días",
-          "url": "https://tsnnecochea.com.ar/generales/que-obra-esencial-comenzara-en-el-campo-scout-necochense-en-pocos-dias-238712/",
-          "published_at": "2026-10-03T13:00:12+00:00",
-          "first_seen": "2026-10-03T14:53:11.277792+00:00",
-          "category": "intendente",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/02-10-FOTO-Rojas-Scout.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Generales | intendente | Instituciones Qué obra esencial comenzará en el campo Scout necochense en pocos días El municipio y Scout Argentina avanzan con una obra clave acordada al renovar el comodato del Centro Scout de la avenida 10 y 139.",
-          "Por Redacción TSN 03/10/2026 · 10:00 AM El intendente Rojas junto al director de Infraestructura provincial, la concejal Espinosa y autoridades nacionales de Scout Agregar TSN Necochea en En el marco de la articulación institucional entre el municipio de Necochea y la Asociación Civil Scout Argentina, el intendente Arturo Rojas mantuvo este viernes una reunión con autoridades locales y nacionales de la organización para avanzar en el inicio de una importante obra en el predio del Centro Scout, ubicado en avenida 10 y 139 del Parque Miguel Lillo."
-        ],
-        "generated": "2026-10-03T16:02:21.439001+00:00"
-      },
-      "apariciones": 4,
-      "ultima_impresion": "2026-10-03T16:00:01.322700+00:00",
-      "penalizacion": 0.303
+      "apariciones": 5,
+      "ultima_impresion": "2026-10-03T16:30:00.861761+00:00",
+      "penalizacion": 0.166
     },
     {
       "key": "lluvia obligo suspender futbol sabado duelo rivadavia newbery",
       "title": "La lluvia obligó a suspender el fútbol de este sábado y el duelo entre Rivadavia y Newbery",
-      "score": 0.276,
+      "score": 0.145,
       "sources_count": 1,
       "first_seen": "2026-10-03T14:52:32+00:00",
       "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f55e.png",
@@ -479,16 +479,16 @@
           "La Liga Necochea de Fútbol suspendió toda la actividad de fútbol infantojuvenil, divisiones inferiores y fútbol femenino prevista para este sábado 3 de octubre. Además, quedó postergado el encuentro de Primera División entre Rivadavia y Jorge Newbery por el estado del campo de juego. La fecha 19 continuará este domingo, con transmisión central de Multimedio NQ y Nec Radio 98.3 desde el clásico entre Estación Quequén y Defensores Puerto Quequén.",
           "Las precipitaciones registradas y los pronósticos de lluvia para la jornada obligaron a la Mesa Directiva de la Liga Necochea de Fútbol a suspender distintas actividades previstas para este sábado. En primer término, la entidad informó la suspensión de la totalidad de los encuentros de fútbol infantojuvenil, divisiones inferiores y fútbol femenino programados para este sábado 3 de octubre."
         ],
-        "generated": "2026-10-03T16:02:25.602241+00:00"
+        "generated": "2026-10-03T16:32:47.139552+00:00"
       },
-      "apariciones": 4,
-      "ultima_impresion": "2026-10-03T16:00:01.322700+00:00",
-      "penalizacion": 0.303
+      "apariciones": 5,
+      "ultima_impresion": "2026-10-03T16:30:00.861761+00:00",
+      "penalizacion": 0.166
     },
     {
       "key": "tarifas luz necochea provincia electricas apelaron freno subas",
       "title": "Tarifas de luz en Necochea: la Provincia y las eléctricas apelaron el freno a las subas",
-      "score": 0.085,
+      "score": 0.045,
       "sources_count": 1,
       "first_seen": "2026-10-03T00:47:00+00:00",
       "image": "http://nden.com.ar/uploads/noticias/5/2026/10/20261002215100_comunicado-emitio-la-usina-popular.jpg",
@@ -507,16 +507,16 @@
         "paragraphs": [
           "POLÍTICA BONAERENSE Un necochense podría llegar al Senado: Valiante, en la disputa por el lugar de Montenegro"
         ],
-        "generated": "2026-10-03T16:02:47.741753+00:00"
+        "generated": "2026-10-03T16:32:59.838673+00:00"
       },
-      "apariciones": 4,
-      "ultima_impresion": "2026-10-03T16:00:01.322700+00:00",
-      "penalizacion": 0.303
+      "apariciones": 5,
+      "ultima_impresion": "2026-10-03T16:30:00.861761+00:00",
+      "penalizacion": 0.166
     },
     {
       "key": "vehiculo quedo envuelto llamas esquina 78 37",
       "title": "Un vehículo quedó envuelto en llamas en la esquina de 78 y 37",
-      "score": 0.002,
+      "score": 0.001,
       "sources_count": 1,
       "first_seen": "2026-10-03T00:29:09+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/10/un-vehiculo-quedo-envuelto-en-llamas-en-la-esquina-de-78-y-37.webp",
@@ -536,11 +536,11 @@
           "El hecho ocurrió este viernes por la noche en el barrio Norte de Necochea. El conductor logró salir del vehículo y no se registraron heridos, aunque el automóvil quedó seriamente afectado por las llamas. Noticia relacionadas Trasladaron a Bahía Blanca a un ciclista que chocó contra un camión en Ruta 228 3 de octubre de 2026 Principio de incendio durante la madrugada en una gomería de Quequén 3 de octubre de 2026 Un automóvil se incendió este viernes por la noche en la intersección de las calles 78 y 37, en el barrio Norte de Necochea, y debió intervenir una dotación del Cuartel de Bomberos para controlar el fuego.",
           "El siniestro ocurrió alrededor de las 20.15, cuando se advirtió que un vehículo se estaba incendiando mientras permanecía en la vía pública. Frente a la situación, se desplegó un operativo de emergencia y se solicitó la presencia de Bomberos."
         ],
-        "generated": "2026-10-03T16:02:32.306058+00:00"
+        "generated": "2026-10-03T16:32:50.654827+00:00"
       },
-      "apariciones": 11,
-      "ultima_impresion": "2026-10-03T16:00:01.322700+00:00",
-      "penalizacion": 0.005
+      "apariciones": 12,
+      "ultima_impresion": "2026-10-03T16:30:00.861761+00:00",
+      "penalizacion": 0.003
     },
     {
       "key": "esperan lluvias sabado mejora domingo",
@@ -565,11 +565,11 @@
           "Esta noche la lluvia y el viento fuerte persisten, el sábado trae chubascos y vientos cambiantes, mientras que el domingo se perfila como el día más cálido y seco de la jornada.",
           "En la noche de este viernes, Necochea y Quequén se encuentran bajo tormentas aisladas que mantienen el cielo cubierto y la humedad alta; la temperatura ronda los 13°, con vientos del noreste de 23 a 31 km/h y ráfagas que pueden superar los 50 km/h, lo que genera una sensación de frío inesperado y hace necesario protegerse del viento."
         ],
-        "generated": "2026-10-03T16:02:41.076625+00:00"
+        "generated": "2026-10-03T16:32:56.375927+00:00"
       },
-      "apariciones": 11,
-      "ultima_impresion": "2026-10-03T16:00:01.322700+00:00",
-      "penalizacion": 0.005
+      "apariciones": 12,
+      "ultima_impresion": "2026-10-03T16:30:00.861761+00:00",
+      "penalizacion": 0.003
     },
     {
       "key": "javier milei cerro gira paris inversiones superan 27 000 millones dolares",
@@ -594,11 +594,11 @@
           "Todo comenzó con un encuentro en el Palacio del Elíseo y continuó en la Torre Eiffel, donde confirmaron desarrollos energéticos y un programa inédito para que extranjeros obtengan la residencia en el país. El presidente Javier Milei dio por finalizada su gira por Francia con el cierre formal de la Argentina Week en París, donde se confirmaron inversiones estratégicas por más de USD 27.000 millones.",
           "La cumbre de negocios, que culminó con una gala en el primer nivel de la Torre Eiffel, convocó a autoridades nacionales, mandatarios provinciales y líderes de firmas multinacionales de Europa."
         ],
-        "generated": "2026-10-03T16:02:47.037709+00:00"
+        "generated": "2026-10-03T16:32:59.127551+00:00"
       },
-      "apariciones": 11,
-      "ultima_impresion": "2026-10-03T16:00:01.322700+00:00",
-      "penalizacion": 0.005
+      "apariciones": 12,
+      "ultima_impresion": "2026-10-03T16:30:00.861761+00:00",
+      "penalizacion": 0.003
     },
     {
       "key": "diez anos nden valor contar pasa cerca",
@@ -622,10 +622,10 @@
         "paragraphs": [
           "CONECTIVIDAD AÉREA De Necochea a Aeroparque en 70 minutos: la propuesta de Humming y cuánto costaría viajar"
         ],
-        "generated": "2026-10-03T16:02:26.757418+00:00"
+        "generated": "2026-10-03T16:32:47.869505+00:00"
       },
-      "apariciones": 19,
-      "ultima_impresion": "2026-10-03T16:00:01.322700+00:00",
+      "apariciones": 20,
+      "ultima_impresion": "2026-10-03T16:30:00.861761+00:00",
       "penalizacion": 0.0
     },
     {
@@ -650,10 +650,10 @@
         "paragraphs": [
           "CONECTIVIDAD AÉREA De Necochea a Aeroparque en 70 minutos: la propuesta de Humming y cuánto costaría viajar"
         ],
-        "generated": "2026-10-03T16:02:27.878215+00:00"
+        "generated": "2026-10-03T16:32:48.936964+00:00"
       },
-      "apariciones": 26,
-      "ultima_impresion": "2026-10-03T16:00:01.322700+00:00",
+      "apariciones": 27,
+      "ultima_impresion": "2026-10-03T16:30:00.861761+00:00",
       "penalizacion": 0.0
     },
     {
@@ -678,10 +678,10 @@
         "paragraphs": [
           "POLÍTICA BONAERENSE Un necochense podría llegar al Senado: Valiante, en la disputa por el lugar de Montenegro"
         ],
-        "generated": "2026-10-03T16:02:33.430903+00:00"
+        "generated": "2026-10-03T16:32:51.778549+00:00"
       },
-      "apariciones": 32,
-      "ultima_impresion": "2026-10-03T16:00:01.322700+00:00",
+      "apariciones": 33,
+      "ultima_impresion": "2026-10-03T16:30:00.861761+00:00",
       "penalizacion": 0.0
     },
     {
@@ -706,10 +706,10 @@
         "paragraphs": [
           "POLÍTICA BONAERENSE Un necochense podría llegar al Senado: Valiante, en la disputa por el lugar de Montenegro"
         ],
-        "generated": "2026-10-03T16:02:48.417781+00:00"
+        "generated": "2026-10-03T16:33:00.514431+00:00"
       },
-      "apariciones": 29,
-      "ultima_impresion": "2026-10-03T16:00:01.322700+00:00",
+      "apariciones": 30,
+      "ultima_impresion": "2026-10-03T16:30:00.861761+00:00",
       "penalizacion": 0.0
     }
   ]
