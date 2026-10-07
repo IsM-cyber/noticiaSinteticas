@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-07T21:30:01.267769+00:00",
+  "generated_at": "2026-10-07T22:00:00.960758+00:00",
   "article_count": 175,
   "fetch_errors": [],
   "stories": [
     {
       "key": "murio cantante piero 81 anos destacada trayectoria artistica",
       "title": "Murió el cantante Piero a los 81 años tras una destacada trayectoria artística",
-      "score": 2.637,
+      "score": 2.529,
       "sources_count": 2,
       "first_seen": "2026-10-07T19:57:04+00:00",
       "image": "https://cdnartic.ar/MOcttBUAyDWishOhUt91_NAcgB0=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/10/piero.webp",
@@ -35,16 +35,16 @@
           "Piero De Benedictis, conocido artísticamente como Piero , murió este miércoles 7 de octubre a los 81 años. El cantautor, cuya obra unió la canción popular con la mirada social y política, dejó títulos que atravesaron generaciones, como “Mi viejo”, “Para el pueblo lo que es del pueblo”, “Llegando llegaste”, “Pedro Nadie” y “Que se vayan ellos”. Nacido como Piero Antonio Franco De Benedictis el 19 de abril de 1945 en Gallipoli, en la región italiana de Apulia , llegó a la Argentina cuando tenía tres años junto a su familia.",
           "Primero vivió en Banfield, en el sur del conurbano bonaerense, y luego se instaló en Allen, Río Negro. Ese recorrido entre la inmigración, el interior patagónico y la vida urbana de Buenos Aires formó parte de un universo que más tarde aparecería en sus canciones. De Italia a Río Negro, los primeros años de una voz singular En Allen cursó la escuela primaria y tuvo sus primeras experiencias musicales."
         ],
-        "generated": "2026-10-07T21:30:38.171108+00:00"
+        "generated": "2026-10-07T22:00:41.482055+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-07T21:30:01.267769+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-10-07T22:00:00.960758+00:00",
+      "penalizacion": 1.0
     },
     {
       "key": "incorporo cirujana hospital municipal san cayetano",
       "title": "Se incorporó una cirujana al hospital municipal de San Cayetano",
-      "score": 1.776,
+      "score": 1.704,
       "sources_count": 2,
       "first_seen": "2026-10-07T14:43:14+00:00",
       "image": "https://cdnartic.ar/wtl4g9PBwF6bvCTMFcpNkyI1p-o=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/10/san_cayetano.webp",
@@ -73,16 +73,103 @@
           "La entrega fue firmada por la Secretaria de Salud, Daniela Skaarup, y la Directora Administrativa del Hospital , Adriana Morlio, quienes destacaron su efecto inmediato en la atención. Con ella, la Cooperadora supera los 83 millones de pesos invertidos.",
           "La Comisión Directiva de la Asociación Cooperadora del Hospital Municipal concretó una nueva entrega de instrumental, equipamiento e insumos destinados a optimizar la atención en distintas áreas y servicios de la institución. Noticia relacionadas San Cayetano remata maquinarias, vehículos y chatarra municipal 7 de octubre de 2026 Arranca el taller \"Emprender con propósito\" para emprendedores y artesanos 7 de octubre de 2026 En esta oportunidad, la inversión total es de $ 8.700.000, monto recaudado gracias al aporte constante de la comunidad a través de donaciones particulares y la venta del bono contribución."
         ],
-        "generated": "2026-10-07T21:31:44.789546+00:00"
+        "generated": "2026-10-07T22:01:44.130198+00:00"
+      },
+      "apariciones": 2,
+      "ultima_impresion": "2026-10-07T22:00:00.960758+00:00",
+      "penalizacion": 1.0
+    },
+    {
+      "key": "robaron radiador alargue hombre ingreso lugar otro esperaba moto",
+      "title": "Robaron un radiador y un alargue: un hombre ingresó al lugar y otro lo esperaba en moto",
+      "score": 1.195,
+      "sources_count": 1,
+      "first_seen": "2026-10-07T21:56:45+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2024/10/Captura-de-pantalla-2024-10-07-122826.jpg",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Robaron un radiador y un alargue: un hombre ingresó al lugar y otro lo esperaba en moto",
+          "url": "https://tsnnecochea.com.ar/locales/robaron-un-radiador-y-un-alargue-un-hombre-ingreso-al-lugar-y-otro-lo-esperaba-en-moto-239079/",
+          "published_at": "2026-10-07T21:56:45+00:00",
+          "first_seen": "2026-10-07T22:00:00.960758+00:00",
+          "category": "Alargue",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2024/10/Captura-de-pantalla-2024-10-07-122826.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Locales | Alargue | Este mediodía Robaron un radiador y un alargue: un hombre ingresó al lugar y otro lo esperaba en moto Actuaron en consonancia para cometer el delito Por Redacción TSN 07/10/2026 · 06:56 PM Móvil policial Agregar TSN Necochea en Un hecho de robo se registró este miércoles alrededor de las 12:25 del mediodía, en la zona de calle 515 y 540. Según se informó, un hombre ingresó al lugar y sustrajo un radiador y un alargue, mientras que otro masculino lo esperaba a bordo de una moto, para luego darse a la fuga.",
+          "Se investiga el hecho y s e procura determinar la identidad de los responsables. ALARGUE RADIADOR ROBO Seguinos en redes"
+        ],
+        "generated": "2026-10-07T22:02:05.663236+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-07T21:30:01.267769+00:00"
+      "ultima_impresion": "2026-10-07T22:00:00.960758+00:00"
+    },
+    {
+      "key": "murio piero 81 anos uno artistas marco generaciones musica popular",
+      "title": "Murió Piero a los 81 años: uno de los artistas que marcó generaciones en la música popular",
+      "score": 1.182,
+      "sources_count": 1,
+      "first_seen": "2026-10-07T21:49:01+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/Screenshot_20261007_184732_Chrome.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Murió Piero a los 81 años: uno de los artistas que marcó generaciones en la música popular",
+          "url": "https://tsnnecochea.com.ar/espectaculos/murio-piero-a-los-81-anos-uno-de-los-artistas-que-marco-generaciones-en-la-musica-popular-239080/",
+          "published_at": "2026-10-07T21:49:01+00:00",
+          "first_seen": "2026-10-07T22:00:00.960758+00:00",
+          "category": "fallecimiento",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/Screenshot_20261007_184732_Chrome.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Espectáculos | fallecimiento | Entretenimiento Murió Piero a los 81 años: uno de los artistas que marcó generaciones en la música popular El artista dejó una huella imborrable que marcó a generaciones. Por Redacción TSN 07/10/2026 · 06:49 PM Agregar TSN Necochea en El cantante y compositor Piero de Benedectis murió a los 81 años , durante las primeras horas de la mañana de este miércoles , según comunicó la cuenta oficial del músico que dejó una huella imborrable y marcó a generaciones con la canción popular.",
+          "El autor de clásicos como “Mi viejo” y “Para el pueblo lo que es del pueblo”, habría atravesado graves problemas de salud durante el último año y, según se supo en las últimas horas, permanecía internado en el Hospital Italiano . El perfil de Instagram “Piero Cantautor” anunció esta tarde: “ Con profundo dolor, comunicamos el fallecimiento de nuestro querido Piero."
+        ],
+        "generated": "2026-10-07T22:02:25.255298+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-07T22:00:00.960758+00:00"
+    },
+    {
+      "key": "buscaban camioneta robada quequen hallaron autos pedido secuestro armas carne vacuna",
+      "title": "Buscaban una camioneta robada en Quequén y hallaron autos con pedido de secuestro, armas y carne vacuna",
+      "score": 1.154,
+      "sources_count": 1,
+      "first_seen": "2026-10-07T21:32:09+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/10/buscaban-una-camioneta-robada-en-quequen-y-hallaron-autos-con-pedido-de-secuestro-armas-y.webp",
+      "articles": [
+        {
+          "portal": "Diario Necochea",
+          "title": "Buscaban una camioneta robada en Quequén y hallaron autos con pedido de secuestro, armas y carne vacuna",
+          "url": "https://diarionecochea.com/2026/10/07/buscaban-una-camioneta-robada-en-quequen-y-hallaron-autos-con-pedido-de-secuestro-armas-y-carne-vacuna/",
+          "published_at": "2026-10-07T21:32:09+00:00",
+          "first_seen": "2026-10-07T22:00:00.960758+00:00",
+          "category": "Policiales",
+          "image": "https://diarionecochea.com/wp-content/uploads/2026/10/buscaban-una-camioneta-robada-en-quequen-y-hallaron-autos-con-pedido-de-secuestro-armas-y.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Tras la denuncia por el asalto del 22 de julio, la DDI realizó dos allanamientos en Necochea donde capturó a dos hombres y secuestró un Corsa, una Kangoo, una pistola calibre .22 y elementos de faena.",
+          "En el marco de una investigación iniciada a raíz del robo de una camioneta Toyota Hilux ocurrido en Quequén , personal de la DDI Necochea realizó dos allanamientos en esta ciudad, donde logró la detención de un hombre sobre quien pesaba una orden de captura y la aprehensión de otro sujeto."
+        ],
+        "generated": "2026-10-07T22:02:28.509532+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-07T22:00:00.960758+00:00"
     },
     {
       "key": "lluvias intensas afectan ciudad seguiran todo jueves",
       "title": "Las lluvias intensas que afectan a la ciudad seguirán durante todo el jueves",
-      "score": 1.176,
+      "score": 1.128,
       "sources_count": 1,
       "first_seen": "2026-10-07T21:15:16+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/10/lluvias-intensas-y-viento-del-este-azotan-necochea-y-quequen.webp",
@@ -102,16 +189,16 @@
           "Las ráfagas del sureste superarán los 50 km/h durante la mañana del jueves y se recomienda evitar desplazamientos innecesarios hasta que la intensidad del viento disminuya. Al caer la noche de miércoles, Necochea y Quequén se verán atrapados bajo un frente húmedo que trae lluvias fuertes y un viento del este que sopla entre 32 y 41 km/h, con ráfagas que alcanzarán los 60‑69 km/h.",
           "La temperatura ronda los 11°, y el termómetro no bajará mucho más durante la madrugada. Noticia relacionadas El monumento a Mariano Necochea fue declarado Patrimonio Histórico Provincial 7 de octubre de 2026 Alerta amarilla en Necochea y la zona: se esperan lluvias y fuertes vientos 7 de octubre de 2026 El viento, constante y algo brusco, se sentirá especialmente en la costa y en las áreas abiertas, donde las ráfagas pueden mover ramas y dificultar la marcha de los peatones."
         ],
-        "generated": "2026-10-07T21:32:23.260678+00:00"
+        "generated": "2026-10-07T22:02:30.706056+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-07T21:30:01.267769+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-10-07T22:00:00.960758+00:00",
+      "penalizacion": 1.0
     },
     {
       "key": "trata regalo recibio messi parte benin destinado antonela rocuzzo",
       "title": "De qué se trata el regalo que recibió Messi por parte de Benín y que está destinado a Antonela Rocuzzo",
-      "score": 1.154,
+      "score": 1.107,
       "sources_count": 1,
       "first_seen": "2026-10-07T21:01:45+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/Obsequio-a-Messi.webp",
@@ -131,190 +218,190 @@
           "TSN Necochea | ‹ VOLVER | Deportes | antonela | Despedida al 10 De qué se trata el regalo que recibió Messi por parte de Benín y que está destinado a Antonela Rocuzzo En la previa de su despedida con la Selección, el astro argentino recibió una serie de presentes inéditos por parte de la delegación africana en el tradicional sorteo de capitanes. Por Redacción TSN 07/10/2026 · 06:01 PM Agregar TSN Necochea en El protocolo previo al silbatazo inicial del duelo ante Benín dejó una postal inolvidable en la despedida de Lionel Messi de la Selección argentina.",
           "En el instante de la foto oficial y la elección de campo, el capitán albiceleste fue sorprendido por el volante visitante Sessi D’Almeida, quien ensayó unas palabras en español para hacerle entrega de una serie de recuerdos atípicos: una carta firmada por el plantel africano, una rosa y una estatuilla de profundo valor cultural."
         ],
-        "generated": "2026-10-07T21:32:24.300631+00:00"
+        "generated": "2026-10-07T22:02:31.907944+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-07T21:30:01.267769+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-10-07T22:00:00.960758+00:00",
+      "penalizacion": 1.0
     },
     {
-      "key": "balnearios necochea lanzaron preventa hay cautela proxima temporada",
-      "title": "Balnearios de Necochea ya lanzaron la preventa y hay cautela por la próxima temporada",
+      "key": "sabado presentara 67 festival infantil marco festejos aniversario necochea",
+      "title": "Este sábado se presentará el 67° Festival Infantil en el marco de los festejos del aniversario de Necochea",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-10-07T21:30:01.267769+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261007080010_30-01-foto-ocupacion-turistica-turismo-playa-verano-01.jpg",
+      "first_seen": "2026-10-07T22:00:00.960758+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261007175450_12-10-foto-festival-anticipo.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Balnearios de Necochea ya lanzaron la preventa y hay cautela por la próxima temporada",
-          "url": "https://necocheadigital.com/nota/119823/balnearios-de-necochea-ya-lanzaron-la-preventa-y-hay-cautela-por-la-proxima-temporada/",
+          "title": "Este sábado se presentará el 67° Festival Infantil en el marco de los festejos del aniversario de Necochea",
+          "url": "https://necocheadigital.com/nota/119830/este-sabado-se-presentara-el-67-deg-festival-infantil-en-el-marco-de-los-festejos-del-aniversario-de-necochea/",
           "published_at": null,
-          "first_seen": "2026-10-07T21:30:01.267769+00:00",
+          "first_seen": "2026-10-07T22:00:00.960758+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "A poco más de dos meses del comienzo del verano, los balnearios de Necochea y Quequén ya pusieron en marcha la preventa de sus servicios para la temporada 2026/27. Carpas, sombrillas y estacionamiento comenzaron a comercializarse con valores de referencia y distintas promociones para quienes anticipen la contratación.",
-          "Alberto Condenanza, presidente de la Asociación de Balnearios de Necochea y Quequén, explicó que la preventa comenzó aproximadamente una semana atrás y que, dependiendo de cada establecimiento, se extenderá durante los primeros días o semanas de octubre. “En líneas generales se está respondiendo muy bien”, señaló durante una entrevista en Voces de la Tarde , el programa que conduce Jorge Gómez por Radio Noticias Necochea."
+          "El cumpleaños de Necochea volverá a tener un anticipo muy especial de uno de los acontecimientos más esperados por las familias de la ciudad . Como sucede cada año, el aniversario será el punto de partida para comenzar a palpitar una nueva edición del Festival Infantil , cuya propuesta para el verano de 2027 se presentará este sábado 10 de octubre. La cita será desde las 15 en la Plaza de las Infancias, ubicada en 59 entre 58 y 56, uno de los cuatro espacios temáticos preparados para disfrutar de los festejos por los 145 años de Necochea.",
+          "El director de Cultura, Juan Gamba , anticipó que el área ya está trabajando en la presentación que marcará oficialmente el comienzo del camino hacia el próximo Festival Infantil. “Como todos los años, en el cumpleaños de Necochea vamos a estar presentando el lanzamiento del Festival Infantil."
         ],
-        "generated": "2026-10-07T21:32:28.027144+00:00"
+        "generated": "2026-10-07T22:02:32.642020+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-07T21:30:01.267769+00:00"
+      "ultima_impresion": "2026-10-07T22:00:00.960758+00:00"
     },
     {
-      "key": "torneo regional amateur ministerio independiente san cayetano conocen rivales segunda fase",
-      "title": "Torneo Regional Amateur: Ministerio e Independiente San Cayetano ya conocen a sus rivales para la segunda fase",
+      "key": "motociclista resulto hospitalizado chocar auto quequen",
+      "title": "Un motociclista resultó hospitalizado tras chocar contra un auto en Quequén",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-10-07T21:30:01.267769+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261006122022_whatsapp-image-2026-10-06-at-12-19-50.jpg",
+      "first_seen": "2026-10-07T22:00:00.960758+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261007113304_whatsapp-image-2026-10-07-at-11-31-41.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Torneo Regional Amateur: Ministerio e Independiente San Cayetano ya conocen a sus rivales para la segunda fase",
-          "url": "https://necocheadigital.com/nota/119819/torneo-regional-amateur-ministerio-e-independiente-san-cayetano-ya-conocen-a-sus-rivales-para-la-segunda-fase/",
+          "title": "Un motociclista resultó hospitalizado tras chocar contra un auto en Quequén",
+          "url": "https://necocheadigital.com/nota/119827/un-motociclista-resulto-hospitalizado-tras-chocar-contra-un-auto-en-quequen/",
           "published_at": null,
-          "first_seen": "2026-10-07T21:30:01.267769+00:00",
+          "first_seen": "2026-10-07T22:00:00.960758+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "El Consejo Federal de la AFA confirmó los cruces correspondientes a la segunda instancia (octavos de final) del Torneo Regional Federal Amateur, el certamen organizado por el ente rector del fútbol argentino que otorga cuatro ascensos al Torneo Federal A 2026. Tras la culminación de la primera fase, Ministerio e Independiente San Cayetano, los dos representantes que continúan en competencia por parte de la Liga Necochea de Fútbol, ya conocen el camino a recorrer en los playoffs de la Región Pampeana Sur. Por el lado de Ministerio de Quequén, el \"Decano\" completó una primera ronda ideal tras adjudicarse el primer lugar de la Zona 5.",
-          "Esta posición le otorgó la ventaja de definir la llave de octavos en condición de local. Su rival será Quilmes de Mar del Plata, conjunto que logró la clasificación tras avanzar entre los mejores segundos."
+          "Un violento siniestro vial se registró en la tarde de este martes en la localidad de Quequén, cuando una motocicleta y un automóvil colisionaron en la intersección de la avenida 578 y calle 541 , una esquina que cuenta con sistema de semáforos. Involucrados y asistencia médica El choque se produjo alrededor de las 17:45 entre una motocicleta Honda de 150 cc, conducida por un joven de 23 años , y un Chevrolet Agile al mando de una mujer. Como consecuencia del impacto, la moto registró importantes daños materiales y el conductor del rodado menor quedó tendido en el asfalto con traumatismos varios.",
+          "Agentes de Defensa Civil acudieron rápidamente al lugar para brindarle las primeras atenciones. Minutos más tarde, el joven fue trasladado en una ambulancia al Hospital Municipal para ser evaluado por los profesionales de salud. En tanto, la conductora del automóvil no sufrió lesiones."
         ],
-        "generated": "2026-10-07T21:32:29.107478+00:00"
+        "generated": "2026-10-07T22:02:33.693763+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-07T21:30:01.267769+00:00"
+      "ultima_impresion": "2026-10-07T22:00:00.960758+00:00"
     },
     {
-      "key": "economista diputada julia strada brindara necochea charla economia argentina actual",
-      "title": "La economista y diputada Julia Strada brindará en Necochea la charla \"La economía en la Argentina actual\"",
+      "key": "liga necochea completa fecha 19 tres duelos decisivos zona",
+      "title": "La Liga Necochea completa la fecha 19 con tres duelos decisivos en la Zona A",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-10-07T21:30:01.267769+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261006121636_strada-julia-def.jpg",
+      "first_seen": "2026-10-07T22:00:00.960758+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261007112619_whatsapp-image-2026-10-07-at-11-26-05.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "La economista y diputada Julia Strada brindará en Necochea la charla \"La economía en la Argentina actual\"",
-          "url": "https://necocheadigital.com/nota/119818/la-economista-y-diputada-julia-strada-brindara-en-necochea-la-charla-la-economia-en-la-argentina-actual/",
+          "title": "La Liga Necochea completa la fecha 19 con tres duelos decisivos en la Zona A",
+          "url": "https://necocheadigital.com/nota/119825/la-liga-necochea-completa-la-fecha-19-con-tres-duelos-decisivos-en-la-zona-a/",
           "published_at": null,
-          "first_seen": "2026-10-07T21:30:01.267769+00:00",
+          "first_seen": "2026-10-07T22:00:00.960758+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "En el marco de un ciclo de exposiciones y debates sobre la realidad nacional, la doctora en Economía y diputada nacional Julia Strada visitará la ciudad de Necochea para encabezar la charla ciudadana denominada “La economía en la Argentina actual: ¿Orden macro o tierra arrasada?”. El evento, de carácter abierto y con entrada libre a toda la comunidad, se llevará a cabo este viernes 9 de octubre a partir de las 18:00 horas en la sede del Centro Cultural Necochea – Biblioteca Popular Andrés Ferreyra, ubicada en calle 54 N° 3062.",
-          "La propuesta busca conformar un espacio de análisis participativo y de reflexión para abordar en conjunto la situación económica actual del país a partir de los interrogantes planteados en el título de la convocatoria. La iniciativa apunta a promover la discusión técnica y política sobre el rumbo económico, convocando a trabajadores, profesionales, comerciantes, dirigentes y vecinos en general."
+          "La pelota vuelve a rodar en el fútbol local para cerrar la decimonovena jornada del Torneo Oficial “Sergio ‘Giuseppe’ Portugal”. Tras las suspensiones del fin de semana por las inclemencias del tiempo, la Liga Necochea de Fútbol disputará este miércoles los tres cotejos pendientes de la Zona A en San Cayetano, Quequén y Necochea. La agenda del miércoles: cruces, posiciones y autoridades 15:30 hs | Independiente (San Cayetano) vs. Villa Díaz Vélez Estadio: Juan Bautista Marlats (San Cayetano) Árbitro: Miguel Amuchastegui Panorama: Choque directo en lo más alto de la tabla.",
+          "El conjunto sancayetanense lidera la Zona A con 38 puntos y busca hacer valer la localía frente al escolta \"Naranja\", que marcha segundo con 36 unidades. 16:30 hs | Ministerio vs. Mataderos Estadio: Ministerio (Quequén) Árbitro: Cristian Maldonado Panorama: Mano a mano en los puestos de vanguardia."
         ],
-        "generated": "2026-10-07T21:32:29.844745+00:00"
+        "generated": "2026-10-07T22:02:34.818347+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-07T21:30:01.267769+00:00"
+      "ultima_impresion": "2026-10-07T22:00:00.960758+00:00"
     },
     {
-      "key": "sebastian steinbach vocero libertario quequen desaparecio redes",
-      "title": "¿Qué fue de Sebastián Steinbach, el “vocero” libertario de Quequén que desapareció de las redes?",
+      "key": "nuevo pliego colectivos ejecutivo prepara cambios recorridos frecuencias",
+      "title": "Nuevo pliego para los colectivos: el Ejecutivo prepara cambios en recorridos y frecuencias",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-10-07T21:30:01.267769+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261006074004_chatgpt-image-6-oct-2026-07-39-42.png",
+      "first_seen": "2026-10-07T22:00:00.960758+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/b5d3c2c4713897b3118f3fd8857371e60d52671c.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "¿Qué fue de Sebastián Steinbach, el “vocero” libertario de Quequén que desapareció de las redes?",
-          "url": "https://necocheadigital.com/nota/119813/que-fue-de-sebastian-steinbach-el-vocero-libertario-de-quequen-que-desaparecio-de-las-redes/",
+          "title": "Nuevo pliego para los colectivos: el Ejecutivo prepara cambios en recorridos y frecuencias",
+          "url": "https://necocheadigital.com/nota/119812/nuevo-pliego-para-los-colectivos-el-ejecutivo-prepara-cambios-en-recorridos-y-frecuencias/",
           "published_at": null,
-          "first_seen": "2026-10-07T21:30:01.267769+00:00",
+          "first_seen": "2026-10-07T22:00:00.960758+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "Durante algunos meses, Sebastián Steinbach se convirtió en una particular figura de la comunicación política local. Desde una cuenta de Instagram denominada “Vocería La Libertad Avanza Necochea” con apenas 172 seguidores , el joven de Quequén buscó convertirse en una suerte de versión local de Manuel Adorni. La fórmula era bastante reconocible: cámara fija, Steinbach sentado o parado frente al celular, tono serio, frases contundentes y una comunicación que intentaba reproducir el estilo del entonces vocero presidencial. La misión parecía clara: defender y explicar las posiciones del espacio libertario en Necochea , especialmente las iniciativas de sus concejales.",
-          "O, mejor dicho, algo dejó de pasar: Steinbach dejó de aparecer . Su última publicación registrada fue el 23 de febrero y desde entonces la cuenta quedó prácticamente en silencio. No hubo despedida, comunicado, conferencia de prensa ni siquiera un “seguimos después de la pausa”."
+          "El Departamento Ejecutivo de Necochea tiene previsto presentar esta semana ante el Concejo Deliberante el nuevo pliego para licitar el servicio de transporte público de pasajeros , luego de que los dos llamados realizados durante el año quedaran desiertos por falta de oferentes. La presentación se produce después de que el Concejo refrendara la nueva prórroga por 150 días de la concesión a la Compañía de Transportes Necochea S.A., mientras se avanza en la elaboración de una nueva licitación.",
+          "El proyecto quedará ahora bajo análisis de los concejales, quienes podrán realizar observaciones y plantear modificaciones antes de avanzar con el proceso licitatorio. Más frecuencia donde hay mayor demanda Uno de los principales cambios que se analizan está relacionado con la organización de las frecuencias."
         ],
-        "generated": "2026-10-07T21:32:31.026654+00:00"
+        "generated": "2026-10-07T22:02:35.555580+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-07T21:30:01.267769+00:00"
+      "ultima_impresion": "2026-10-07T22:00:00.960758+00:00"
     },
     {
-      "key": "detuvieron hombre acusado amenazar pareja arma fuego operativo policial necochea",
-      "title": "Detuvieron a un hombre acusado de amenazar a su pareja con un arma de fuego tras un operativo policial en Necochea",
+      "key": "carpa rancho barro ciudad portuaria",
+      "title": "De una carpa y un rancho de barro a una ciudad portuaria",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-10-07T21:30:01.267769+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261006120959_whatsapp-image-2026-10-06-at-12-09-47.jpg",
+      "first_seen": "2026-10-07T22:00:00.960758+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/25d218bafb49fe2198dacfd5dd0b2b2731696fb8.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Detuvieron a un hombre acusado de amenazar a su pareja con un arma de fuego tras un operativo policial en Necochea",
-          "url": "https://necocheadigital.com/nota/119817/detuvieron-a-un-hombre-acusado-de-amenazar-a-su-pareja-con-un-arma-de-fuego-tras-un-operativo-policial-en-necochea/",
+          "title": "De una carpa y un rancho de barro a una ciudad portuaria",
+          "url": "https://necocheadigital.com/nota/119822/de-una-carpa-y-un-rancho-de-barro-a-una-ciudad-portuaria/",
           "published_at": null,
-          "first_seen": "2026-10-07T21:30:01.267769+00:00",
+          "first_seen": "2026-10-07T22:00:00.960758+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "Un hombre fue aprehendido en las últimas horas acusado del delito de amenazas calificadas y tenencia ilegal de arma de fuego, en el marco de un episodio de violencia de género ocurrido en la ciudad de Necochea. La intervención policial comenzó a partir de la denuncia presentada por la víctima, quien alertó a las autoridades tras haber sido amedrentada por quien sería su pareja.",
-          "Con la información recabada, personal de la Comisaría Tercera e integrantes del Comando de Patrullas iniciaron las tareas de rastreo que derivaron en la localización del sospechoso mientras se desplazaba a bordo de su automóvil en la vía pública. Hallazgo del arma y peritajes Con la debida autorización de la Unidad Funcional de Instrucción (UFI) N° 10 —especializada en violencia de género—, los efectivos procedieron a efectuar una requisa exhaustiva sobre el vehículo del imputado."
+          "¿Cómo era Necochea el 12 de octubre de 1881? La pregunta permite dimensionar cuánto cambió la ciudad en estos 145 años. Según las investigaciones del historiador Martín Petersen, aquel día la futura Necochea era todavía un pequeño asentamiento ubicado en las cercanías del río Quequén Grande. Sin embargo, su fundación tuvo una característica particular: estuvo acompañada por una verdadera fiesta popular.",
+          "Petersen recordó, en el programa Voces de la Tarde , que conduce Jorge Gómez por Radio Noticias Necochea, que el proceso que desembocó en la creación del pueblo estuvo atravesado por intereses políticos, económicos y territoriales. La cercanía con el río y el mar resultaba estratégica, especialmente porque todavía no existían ferrocarriles ni grandes caminos que conectaran la región con Buenos Aires. La vía natural para sacar la producción era el puerto."
         ],
-        "generated": "2026-10-07T21:32:32.126731+00:00"
+        "generated": "2026-10-07T22:02:36.641358+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-07T21:30:01.267769+00:00"
+      "ultima_impresion": "2026-10-07T22:00:00.960758+00:00"
     },
     {
-      "key": "principio incendio gomeria quequen no hubo heridos",
-      "title": "Principio de incendio en una gomería de Quequén: no hubo heridos",
+      "key": "plaza folclore tradicion clasico festejar cumpleanos ciudad",
+      "title": "La Plaza del Folclore y la Tradición, un clásico para festejar el cumpleaños de la ciudad",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-10-07T21:30:01.267769+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/112a9cb94c379f2711fe5403f3d9452b547af74b.jpg",
+      "first_seen": "2026-10-07T22:00:00.960758+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261006180933_19-10-foto-artistas-locales-142-aniversario-necochea-07.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Principio de incendio en una gomería de Quequén: no hubo heridos",
-          "url": "https://necocheadigital.com/nota/119787/principio-de-incendio-en-una-gomeria-de-quequen-no-hubo-heridos/",
+          "title": "La Plaza del Folclore y la Tradición, un clásico para festejar el cumpleaños de la ciudad",
+          "url": "https://necocheadigital.com/nota/119820/la-plaza-del-folclore-y-la-tradicion-un-clasico-para-festejar-el-cumpleanos-de-la-ciudad/",
           "published_at": null,
-          "first_seen": "2026-10-07T21:30:01.267769+00:00",
+          "first_seen": "2026-10-07T22:00:00.960758+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "Un principio de incendio se registró durante la madrugada de este sábado en una gomería de Quequén , ubicada en la intersección de las calles 552 y 573 . El hecho ocurrió pasadas las 5:00 , cuando se detectó un foco ígneo en un sector de las instalaciones del comercio. Ante la emergencia, acudió rápidamente personal de Bomberos de Quequén , junto con agentes de la Dirección General de Defensa Civil , quienes trabajaron para contener y controlar el incendio.",
-          "La rápida intervención permitió evitar que el fuego se propagara hacia otros sectores del establecimiento. Según se informó, solo se registraron daños materiales y no hubo personas heridas como consecuencia del incidente. Las circunstancias en las que se inició el fuego serán materia de las actuaciones correspondientes."
+          "Entre las múltiples actividades que se desarrollarán en la Plaza Dardo Rocha con motivo del 145º aniversario de Necochea, la Plaza del Folclore y la Tradición será uno de los espacios destinados a reunir a la comunidad tradicionalista y a las familias que quieran disfrutar de la música y las danzas populares. En esta edición, la propuesta tendrá lugar en la plazoleta ubicada frente a la Municipalidad, en calle 56-58 entre 59 y 61, y comenzará a las 15, tanto el sábado 10 como el domingo 11 de octubre .",
+          "Con la posibilidad de llevar la reposera y el mate, el público podrá disfrutar de varias horas de folclore de la mano de artistas locales, en un espacio pensado para compartir, encontrarse y celebrar el cumpleaños de la ciudad a través de nuestras tradiciones. El cronograma Sábado 10: Franco Laterza, Alma Pacha, Turay Canto, Jorge Centeno, Bere Albelo, Facundo Moreno Trío y Clavija Sachera."
         ],
-        "generated": "2026-10-07T21:32:33.189472+00:00"
+        "generated": "2026-10-07T22:02:37.769975+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-07T21:30:01.267769+00:00"
+      "ultima_impresion": "2026-10-07T22:00:00.960758+00:00"
     },
     {
       "key": "infantiles defensores quequen sumaron emotivo reconocimiento lionel messi",
       "title": "Los infantiles de Defensores de Quequén se sumaron al emotivo reconocimiento a Lionel Messi",
-      "score": 0.045,
+      "score": 0.024,
       "sources_count": 1,
       "first_seen": "2026-10-07T18:02:59+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/839960862_2075827766692162_1568373105308321825_n.webp",
@@ -334,16 +421,16 @@
           "TSN Necochea | ‹ VOLVER | Deportes | Defensores de Quequén | Fútbol Los infantiles de Defensores de Quequén se sumaron al emotivo reconocimiento a Lionel Messi El plantel que conduce Gonzalo López dedicó un sentido mensaje al capitán de la Selección Argentina. Remarcaron los valores de esfuerzo, trabajo y humildad como legado para los más chicos. Por Redacción TSN 07/10/2026 · 03:02 PM Agregar TSN Necochea en El impacto de la figura de Lionel Messi trasciende fronteras y categorías, alcanzando de manera profunda a las escuelas de formación de nuestro distrito.",
           "En las últimas horas, las divisiones infantiles del club Defensores de Quequén expresaron una emotiva dedicatoria dirigida al rosarino. La iniciativa, impulsada junto al entrenador Gonzalo López , buscó poner en valor el significado del astro argentino como referente deportivo y humano para los niños y niñas que dan sus primeros pasos en el fútbol local."
         ],
-        "generated": "2026-10-07T21:32:34.283689+00:00"
+        "generated": "2026-10-07T22:02:41.533843+00:00"
       },
-      "apariciones": 7,
-      "ultima_impresion": "2026-10-07T21:30:01.267769+00:00",
-      "penalizacion": 0.05
+      "apariciones": 8,
+      "ultima_impresion": "2026-10-07T22:00:00.960758+00:00",
+      "penalizacion": 0.028
     },
     {
       "key": "fiesta necochea comenzara palpitarse festival infantil",
       "title": "En la Fiesta de Necochea comenzará a palpitarse el Festival Infantil",
-      "score": 0.025,
+      "score": 0.013,
       "sources_count": 1,
       "first_seen": "2026-10-07T17:54:35+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/12-10-FOTO-Festival-anticipo.webp",
@@ -363,16 +450,16 @@
           "TSN Necochea | ‹ VOLVER | Generales | aniversario | El sábado En la Fiesta de Necochea comenzará a palpitarse el Festival Infantil Se presentará el lema, de qué se trata y habrá trajes nuevos Por Redacción TSN 07/10/2026 · 02:54 PM Agregar TSN Necochea en Este sábado 10 de octubre , la Plaza de las Infancias será uno de los cuatro espacios temáticos de la celebración por los 145 años de la ciudad. Desde las 15 habrá propuestas para chicos y familias y, a las 17, Cultura presentará oficialmente el lema y las novedades del 67° Festival Infantil, que llegará en el verano de 2027 .",
           "El cumpleaños de Necochea volverá a tener un anticipo muy especial de uno de los acontecimientos más esperados por las familias de la ciudad . Como sucede cada año, el aniversario será el punto de partida para comenzar a palpitar una nueva edición del Festival Infantil , cuya propuesta para el verano de 2027 se presentará este sábado 10 de octubre."
         ],
-        "generated": "2026-10-07T21:32:35.058114+00:00"
+        "generated": "2026-10-07T22:02:42.558922+00:00"
       },
-      "apariciones": 8,
-      "ultima_impresion": "2026-10-07T21:30:01.267769+00:00",
-      "penalizacion": 0.028
+      "apariciones": 9,
+      "ultima_impresion": "2026-10-07T22:00:00.960758+00:00",
+      "penalizacion": 0.015
     },
     {
       "key": "transito secuestro camioneta conductor estaba inhabilitado manejar",
       "title": "Tránsito secuestró una camioneta: el conductor estaba inhabilitado para manejar",
-      "score": 0.024,
+      "score": 0.013,
       "sources_count": 1,
       "first_seen": "2026-10-07T17:42:29+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-14.07.20.webp",
@@ -392,16 +479,16 @@
           "TSN Necochea | ‹ VOLVER | Locales | camioneta | Infracción Tránsito secuestró una camioneta: el conductor estaba inhabilitado para manejar El hombre se encontraba inhabilitado para conducir hasta mayo de 2027. Por Redacción TSN 07/10/2026 · 02:42 PM Agregar TSN Necochea en Personal de Tránsito procedió al secuestro de una camioneta luego de constatar que su conductor circulaba sin licencia de conducir vigente. El joven ya había sufrido el secuestro de otro vehículo en 2025, luego de que se le realizará una alcoholemia con resultado positivo. Además, el conductor se encontraba inhabilitado para conducir hasta mayo de 2027.",
           "Ante esta nueva infracción, el personal de Tránsito intervino y procedió al secuestro del vehículo. La grúa de Trave realizó el traslado de la camioneta hasta el predio municipal, donde quedó a disposición de las autoridades correspondientes. CAMIONETA OPERATIVO TRÁNSITO Seguinos en redes"
         ],
-        "generated": "2026-10-07T21:32:36.108048+00:00"
+        "generated": "2026-10-07T22:02:44.051552+00:00"
       },
-      "apariciones": 8,
-      "ultima_impresion": "2026-10-07T21:30:01.267769+00:00",
-      "penalizacion": 0.028
+      "apariciones": 9,
+      "ultima_impresion": "2026-10-07T22:00:00.960758+00:00",
+      "penalizacion": 0.015
     },
     {
       "key": "descubrieron toyota corolla robado mar plata circulaba patentes falsas",
       "title": "Descubrieron un Toyota Corolla robado en Mar del Plata que circulaba con patentes falsas",
-      "score": 0.021,
+      "score": 0.011,
       "sources_count": 3,
       "first_seen": "2026-10-07T12:42:42+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/10/descubrieron-toyota-corolla-robado-en-mar-del-plata-que-circulaba-con-patentes-falsas.webp",
@@ -439,54 +526,16 @@
           "Efectivos de la Comisaría Tercera revisaron el auto estacionado y notaron que la numeración de los cristales no coincidía con las chapas colocadas, confirmando el pedido de secuestro. En el marco del Operativo Saturación, personal del GTO de la Comisaría Tercera de Necochea detectó un vehículo estacionado que presentaba un pedido de secuestro activo por robo automotor.",
           "Noticia relacionadas Delincuentes encerraron a tres jóvenes en el baño y les robaron armas, efectivo y consolas 7 de octubre de 2026 Detuvieron a hombre por amenazas y por portar revólver 6 de octubre de 2026 El procedimiento se realizó en calle 81 entre 6 y 8, donde los efectivos verificaron un Toyota Corolla Hybrid de color blanco. Si bien el dominio colocado no registraba impedimentos, la numeración de los cristales permitió establecer que el rodado poseía pedido de secuestro vigente, solicitado en el marco de una causa por Robo Automotor iniciada en Mar del Plata ."
         ],
-        "generated": "2026-10-07T21:30:46.010301+00:00"
+        "generated": "2026-10-07T22:00:45.104481+00:00"
       },
-      "apariciones": 10,
-      "ultima_impresion": "2026-10-07T21:30:01.267769+00:00",
-      "penalizacion": 0.008
-    },
-    {
-      "key": "uta pidio acelerar nuevo pliego transporte colectivos",
-      "title": "La UTA pidió acelerar el nuevo pliego del transporte de micros",
-      "score": 0.003,
-      "sources_count": 2,
-      "first_seen": "2026-10-07T16:00:00.601368+00:00",
-      "image": "https://cdnartic.ar/VdqDr4tHp86OKbqzcusjKV2Pk5U=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/10/evangelina_almada.webp",
-      "articles": [
-        {
-          "portal": "Ecos Diarios",
-          "title": "La UTA pidió acelerar el nuevo pliego del transporte de micros",
-          "url": "https://elecos.com.ar/la-uta-pidio-acelerar-el-nuevo-pliego-del-transporte-de-micros",
-          "published_at": "2026-10-07T16:15:20+00:00",
-          "first_seen": "2026-10-07T16:30:00.468723+00:00",
-          "category": "14",
-          "image": "https://cdnartic.ar/VdqDr4tHp86OKbqzcusjKV2Pk5U=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/10/evangelina_almada.webp"
-        },
-        {
-          "portal": "Necochea Digital",
-          "title": "La UTA pidió acelerar el nuevo pliego del transporte de colectivos",
-          "url": "https://necocheadigital.com/nota/119828/la-uta-pidio-acelerar-el-nuevo-pliego-del-transporte-de-colectivos/",
-          "published_at": null,
-          "first_seen": "2026-10-07T16:00:00.601368+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La situación del transporte urbano de pasajeros volvió a ocupar un lugar central en la agenda política de Necochea. Este martes 6 de octubre, la Comisión de Transporte del Concejo Deliberante recibió al delegado de la Unión Tranviarios Automotor (UTA) de Mar del Plata y a trabajadores de la empresa local , quienes expusieron la situación laboral que atraviesan y reclamaron avanzar con rapidez hacia una nueva licitación del servicio. La reunión fue presidida en esta oportunidad por la concejala Evangelina Almada , de Fuerza Patria-MDF, ante la ausencia del titular de la comisión, Julián Kristiansen.",
-          "Uno de los principales planteos estuvo relacionado con la situación salarial. Los trabajadores manifestaron su preocupación por las demoras en el pago de los sueldos y del medio aguinaldo , y cuestionaron que la reciente prórroga de la concesión y la declaración de emergencia del transporte no constituyen una solución de fondo."
-        ],
-        "generated": "2026-10-07T21:31:05.247742+00:00"
-      },
-      "apariciones": 13,
-      "ultima_impresion": "2026-10-07T21:30:01.267769+00:00",
-      "penalizacion": 0.001
+      "apariciones": 11,
+      "ultima_impresion": "2026-10-07T22:00:00.960758+00:00",
+      "penalizacion": 0.005
     },
     {
       "key": "monumento mariano necochea declarado patrimonio historico provincial",
       "title": "El monumento a Mariano Necochea fue declarado Patrimonio Histórico Provincial",
-      "score": 0.002,
+      "score": 0.001,
       "sources_count": 3,
       "first_seen": "2026-10-07T15:03:31+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/10/el-monumento-a-mariano-necochea-fue-declarado-patrimonio-historico-provincial.webp",
@@ -524,18 +573,56 @@
           "La obra ecuestre de la Plaza Dardo Rocha quedó incorporada al patrimonio cultural bonaerense y ahora buscan que también sea reconocida como Monumento Histórico Nacional. El monumento ecuestre al general Mariano Pascual Necochea fue declarado Patrimonio Histórico Provincial después de un proceso de gestiones que se extendió durante casi 40 años.",
           "La obra, ubicada en la Plaza Dardo Rocha, quedó incorporada al patrimonio cultural de la Provincia de Buenos Aires y ahora el objetivo es conseguir su reconocimiento como Monumento Histórico Nacional. Noticia relacionadas Las lluvias intensas que afectan a la ciudad seguirán durante todo el jueves 7 de octubre de 2026 Alerta amarilla en Necochea y la zona: se esperan lluvias y fuertes vientos 7 de octubre de 2026 La obra se encuentra en la intersección de las avenidas 59 y 58, en un sector identificado en el proyecto legislativo como el “Mojón cero de la ciudad ”."
         ],
-        "generated": "2026-10-07T21:30:18.803962+00:00"
+        "generated": "2026-10-07T22:00:22.084528+00:00"
+      },
+      "apariciones": 15,
+      "ultima_impresion": "2026-10-07T22:00:00.960758+00:00",
+      "penalizacion": 0.0
+    },
+    {
+      "key": "uta pidio acelerar nuevo pliego transporte colectivos",
+      "title": "La UTA pidió acelerar el nuevo pliego del transporte de micros",
+      "score": 0.001,
+      "sources_count": 2,
+      "first_seen": "2026-10-07T16:00:00.601368+00:00",
+      "image": "https://cdnartic.ar/VdqDr4tHp86OKbqzcusjKV2Pk5U=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/10/evangelina_almada.webp",
+      "articles": [
+        {
+          "portal": "Ecos Diarios",
+          "title": "La UTA pidió acelerar el nuevo pliego del transporte de micros",
+          "url": "https://elecos.com.ar/la-uta-pidio-acelerar-el-nuevo-pliego-del-transporte-de-micros",
+          "published_at": "2026-10-07T16:15:20+00:00",
+          "first_seen": "2026-10-07T16:30:00.468723+00:00",
+          "category": "14",
+          "image": "https://cdnartic.ar/VdqDr4tHp86OKbqzcusjKV2Pk5U=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/10/evangelina_almada.webp"
+        },
+        {
+          "portal": "Necochea Digital",
+          "title": "La UTA pidió acelerar el nuevo pliego del transporte de colectivos",
+          "url": "https://necocheadigital.com/nota/119828/la-uta-pidio-acelerar-el-nuevo-pliego-del-transporte-de-colectivos/",
+          "published_at": null,
+          "first_seen": "2026-10-07T16:00:00.601368+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La situación del transporte urbano de pasajeros volvió a ocupar un lugar central en la agenda política de Necochea. Este martes 6 de octubre, la Comisión de Transporte del Concejo Deliberante recibió al delegado de la Unión Tranviarios Automotor (UTA) de Mar del Plata y a trabajadores de la empresa local , quienes expusieron la situación laboral que atraviesan y reclamaron avanzar con rapidez hacia una nueva licitación del servicio. La reunión fue presidida en esta oportunidad por la concejala Evangelina Almada , de Fuerza Patria-MDF, ante la ausencia del titular de la comisión, Julián Kristiansen.",
+          "Uno de los principales planteos estuvo relacionado con la situación salarial. Los trabajadores manifestaron su preocupación por las demoras en el pago de los sueldos y del medio aguinaldo , y cuestionaron que la reciente prórroga de la concesión y la declaración de emergencia del transporte no constituyen una solución de fondo."
+        ],
+        "generated": "2026-10-07T22:01:04.641570+00:00"
       },
       "apariciones": 14,
-      "ultima_impresion": "2026-10-07T21:30:01.267769+00:00",
+      "ultima_impresion": "2026-10-07T22:00:00.960758+00:00",
       "penalizacion": 0.001
     },
     {
       "key": "alerta amarilla necochea zona esperan lluvias fuertes vientos",
       "title": "Alerta amarilla en Necochea y la zona: se esperan lluvias y fuertes vientos",
       "score": 0.0,
-      "sources_count": 3,
-      "first_seen": "2026-10-07T13:03:57+00:00",
+      "sources_count": 2,
+      "first_seen": "2026-10-07T13:35:12+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/10/tormenta-av2-scaled.jpg",
       "articles": [
         {
@@ -546,15 +633,6 @@
           "first_seen": "2026-10-07T14:00:00.432041+00:00",
           "category": "Locales",
           "image": "https://diarionecochea.com/wp-content/uploads/2026/10/tormenta-av2-scaled.jpg"
-        },
-        {
-          "portal": "TSN Necochea",
-          "title": "Emiten alerta amarillo por lluvias intensas y fuertes vientos para este miércoles en Necochea y Quequén",
-          "url": "https://tsnnecochea.com.ar/locales/emiten-alerta-amarillo-por-lluvias-intensas-y-fuertes-vientos-para-este-miercoles-en-necochea-y-quequen-239010/",
-          "published_at": "2026-10-07T13:03:57+00:00",
-          "first_seen": "2026-10-07T13:14:38.460325+00:00",
-          "category": "Alerta amarilla",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2023/12/tormenta-necochea.webp"
         },
         {
           "portal": "Necochea Digital",
@@ -571,10 +649,10 @@
           "El aviso del SMN prevé precipitaciones persistentes e intensas durante este miércoles, con posibilidad de registros superiores en algunos sectores. El Servicio Meteorológico Nacional emitió un alerta amarillo por lluvias para la costa de Lobería, la costa de Necochea, la costa de San Cayetano y la costa de Tres Arroyos.",
           "El informe fue generado este miércoles 7 de octubre. De acuerdo con el pronóstico, durante este miércoles se prevén condiciones de inestabilidad en la región, con un nivel amarillo para las lluvias durante parte de la jornada."
         ],
-        "generated": "2026-10-07T21:30:42.620745+00:00"
+        "generated": "2026-10-07T22:01:46.104648+00:00"
       },
-      "apariciones": 17,
-      "ultima_impresion": "2026-10-07T21:30:01.267769+00:00",
+      "apariciones": 18,
+      "ultima_impresion": "2026-10-07T22:00:00.960758+00:00",
       "penalizacion": 0.0
     },
     {
@@ -609,97 +687,10 @@
           "El capitán cerró su etapa en Buenos Aires con un penal, homenajes y una noche de fuerte emoción frente a más de 87 mil personas. Lionel Messi vivió el martes 6 de octubre de 2026 su despedida de la Selección Argentina en Buenos Aires. En el estadio Monumental, el capitán cerró su presentación con la camiseta celeste y blanca con un triunfo 3-0 sobre Benín y un gol de penal, el número 126 de su carrera internacional.",
           "Noticia relacionadas Messi se despide de la Selección ante Benín: así será la gran fiesta en el Monumental 6 de octubre de 2026 Ministerio empató 1-1 ante Villa Díaz Vélez y terminó líder invicto de la Zona 5 6 de octubre de 2026 La jornada reunió a más de 87 mil personas que disfrutaron, cantaron, gritaron y lloraron por el último partido de Messi con la Selección en Buenos Aires. El encuentro comenzó a las 20 y tuvo como árbitro al chileno Fernando Véjar."
         ],
-        "generated": "2026-10-07T21:32:26.932013+00:00"
+        "generated": "2026-10-07T22:02:40.291828+00:00"
       },
-      "apariciones": 19,
-      "ultima_impresion": "2026-10-07T21:30:01.267769+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "san cayetano remata maquinarias vehiculos chatarra municipal",
-      "title": "San Cayetano remata maquinarias, vehículos y chatarra municipal",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-10-07T14:50:21+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/10/san-cayetano-subasta-maquinarias-vehiculos-chatarr-0lpfq-1.jpg",
-      "articles": [
-        {
-          "portal": "Diario Necochea",
-          "title": "San Cayetano remata maquinarias, vehículos y chatarra municipal",
-          "url": "https://diarionecochea.com/2026/10/07/san-cayetano-remata-maquinarias-vehiculos-y-chatarra-municipal/",
-          "published_at": "2026-10-07T14:50:21+00:00",
-          "first_seen": "2026-10-07T15:00:01.231634+00:00",
-          "category": "Regionales",
-          "image": "https://diarionecochea.com/wp-content/uploads/2026/10/san-cayetano-subasta-maquinarias-vehiculos-chatarr-0lpfq-1.jpg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Los interesados pueden consultar condiciones de venta llamando a los martilleros Cintia Comunelli, Leandro Videla, Manuel Armentia y Joaquín Urdampilleta. La lista completa de bienes está disponible para descarga en PDF.",
-          "Por cuenta y orden de la Municipalidad de San Cayetano, el viernes 16 de octubre a las 10:00 horas en el predio del C.P.R, se realizará una subasta pública de maquinarias, herramientas, vehiculos y chatarra. Noticia relacionadas Arranca el taller \"Emprender con propósito\" para emprendedores y artesanos 7 de octubre de 2026 La Escuela N° 12 Almafuerte de El Carretero celebró sus 75 años 7 de octubre de 2026 Entre los bienes a rematar figuran motoniveladoras, palas cargadoras, tractores, camiones, tanques para combustible, rodillo de arrastre, automóviles, herramientas, motores y chatarra en general."
-        ],
-        "generated": "2026-10-07T21:32:40.400985+00:00"
-      },
-      "apariciones": 15,
-      "ultima_impresion": "2026-10-07T21:30:01.267769+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "necochenses fueron protagonistas exigente jornada mtb series mdq",
-      "title": "Los necochenses fueron protagonistas en una exigente jornada del MTB Series MDQ",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-10-07T14:36:22+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/Foto-Llanos-Diaz.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Los necochenses fueron protagonistas en una exigente jornada del MTB Series MDQ",
-          "url": "https://tsnnecochea.com.ar/deportes/los-necochenses-fueron-protagonistas-en-una-exigente-jornada-del-mtb-series-mdq-239054/",
-          "published_at": "2026-10-07T14:36:22+00:00",
-          "first_seen": "2026-10-07T15:00:01.231634+00:00",
-          "category": "Ciclismo",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/Foto-Llanos-Diaz.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Deportes | Ciclismo | Ciclismo Los necochenses fueron protagonistas en una exigente jornada del MTB Series MDQ El MTB Series MDQ tuvo una exigente jornada en el circuito Los Difuntos, donde los representantes de Necochea afrontaron 38 kilómetros y 1.275 metros de desnivel acumulado, con campo arado y fuerte viento sur como grandes obstáculos. Por Redacción TSN 07/10/2026 · 11:36 AM Llanos y Díaz hicieron el 1-2 en la categoría más competitiva Agregar TSN Necochea en El pasado domingo 4 de octubre, el circuito Los Difuntos, en Mar del Plata, puso a prueba a los corredores del MTB Series MDQ con uno de esos trazados que obligan a sacar todo lo que queda.",
-          "Fueron 38 kilómetros distribuidos en cinco vueltas de 7,6 kilómetros, con 1.275 metros de desnivel acumulado y un terreno de campo arado que, acompañado por un fuerte viento sur, convirtió cada vuelta en un desafío."
-        ],
-        "generated": "2026-10-07T21:32:41.512091+00:00"
-      },
-      "apariciones": 15,
-      "ultima_impresion": "2026-10-07T21:30:01.267769+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "alerta deudas 30 familias refinanciadas no puede sostener pagos",
-      "title": "Alerta por deudas: el 30% de las familias refinanciadas no puede sostener los pagos",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-10-07T13:45:24+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/Morosidad-deudas-1.avif",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Alerta por deudas: el 30% de las familias refinanciadas no puede sostener los pagos",
-          "url": "https://tsnnecochea.com.ar/generales/alerta-por-deudas-el-30-de-las-familias-refinanciadas-no-puede-sostener-los-pagos-239051/",
-          "published_at": "2026-10-07T13:45:24+00:00",
-          "first_seen": "2026-10-07T14:00:00.432041+00:00",
-          "category": "credito",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/Morosidad-deudas-1.avif"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Generales | credito | Economía Alerta por deudas: el 30% de las familias refinanciadas no puede sostener los pagos Las entidades financieras advierten que los planes de pago no alcanzan para frenar la morosidad ante la falta de recuperación del salario. El Congreso debate proyectos para frenar el impacto en los hogares. Por Redacción TSN 07/10/2026 · 10:45 AM La morosidad de las familias preocupa.",
-          "Foto: Agencia NA (Freepik) Agregar TSN Necochea en La morosidad de los hogares sigue en niveles altos y ahora suma una nueva señal de alerta: una parte de los clientes que habían logrado refinanciar sus deudas volvió a incumplir los pagos . La reincidencia empieza a preocupar a las entidades financieras, justo cuando algunos indicadores comenzaban a mostrar un techo para el deterioro."
-        ],
-        "generated": "2026-10-07T21:32:42.287650+00:00"
-      },
-      "apariciones": 17,
-      "ultima_impresion": "2026-10-07T21:30:01.267769+00:00",
+      "apariciones": 20,
+      "ultima_impresion": "2026-10-07T22:00:00.960758+00:00",
       "penalizacion": 0.0
     },
     {
@@ -725,10 +716,10 @@
           "El Centro Cultural de la Biblioteca Popular Andrés Ferreyra cierra el ciclo “Después del Cole” con una jornada especial de pijamas y pantuflas, mientras mantiene abiertas sus puertas con muestras, arte y nuevas propuestas para celebrar el aniversario de la ciudad. Hay lugares que no necesitan demasiadas explicaciones para entender por qué forman parte de la identidad de una ciudad. El Centro Cultural de Necochea, junto a la Biblioteca Popular Andrés Ferreyra, es uno de ellos.",
           "Un espacio donde conviven chicos, familias, artistas, fotógrafos, historiadores y vecinos con ganas de encontrarse, aprender y compartir. Este miércoles, esa historia cotidiana tendrá un cierre particular con la última jornada del año de “Después del Cole” , uno de los ciclos que se fue instalando entre las propuestas más convocantes de la institución. La despedida será con una consigna especial: pijamas y pantuflas ."
         ],
-        "generated": "2026-10-07T21:32:44.832790+00:00"
+        "generated": "2026-10-07T22:02:50.369729+00:00"
       },
-      "apariciones": 15,
-      "ultima_impresion": "2026-10-07T21:30:01.267769+00:00",
+      "apariciones": 16,
+      "ultima_impresion": "2026-10-07T22:00:00.960758+00:00",
       "penalizacion": 0.0
     },
     {
@@ -754,10 +745,10 @@
           "Julia Merlo pasó por “La Mañana del Multimedios” para contar las novedades de Cyrano, que ya se prepara para la temporada con propuestas en Necochea y Quequén y una participación especial en la 22ª Fiesta Nacional del Postre de Balcarce. La gran novedad: por primera vez, la tradicional torta helada serrana podrá disfrutarse también en porciones. Hay sabores que se convierten en parte de la memoria de una ciudad.",
           "Y en Cyrano saben que detrás de cada helado también hay una historia, una familia y una manera de acompañar los momentos cotidianos. Julia Merlo visitó “Esta Mañana” y llegó con varias novedades bajo el brazo. La principal tiene destino Balcarce, donde este fin de semana se realizará la 22ª Fiesta Nacional del Postre, del 9 al 12 de octubre."
         ],
-        "generated": "2026-10-07T21:32:48.213512+00:00"
+        "generated": "2026-10-07T22:02:53.071801+00:00"
       },
-      "apariciones": 16,
-      "ultima_impresion": "2026-10-07T21:30:01.267769+00:00",
+      "apariciones": 17,
+      "ultima_impresion": "2026-10-07T22:00:00.960758+00:00",
       "penalizacion": 0.0
     },
     {
@@ -782,10 +773,10 @@
         "paragraphs": [
           "EL ÚLTIMO PARTIDO Messi se despidió de la Selección: el pedido que dejó para la nueva etapa de Argentina"
         ],
-        "generated": "2026-10-07T21:32:49.342421+00:00"
+        "generated": "2026-10-07T22:02:53.840851+00:00"
       },
-      "apariciones": 16,
-      "ultima_impresion": "2026-10-07T21:30:01.267769+00:00",
+      "apariciones": 17,
+      "ultima_impresion": "2026-10-07T22:00:00.960758+00:00",
       "penalizacion": 0.0
     }
   ]
