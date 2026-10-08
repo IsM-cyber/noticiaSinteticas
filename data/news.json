@@ -1,128 +1,195 @@
 {
-  "generated_at": "2026-10-08T19:30:01.307610+00:00",
+  "generated_at": "2026-10-08T20:00:00.883255+00:00",
   "article_count": 175,
   "fetch_errors": [],
   "stories": [
     {
-      "key": "libertario montenegro vuelve intendencia medio ola robos",
-      "title": "El Libertario Montenegro vuelve a la intendencia en medio de una ola de robos",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-08T19:30:01.307610+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/f6c9e007cc09f498efde6d7517f9d3f50a43346f.jpg",
+      "key": "llaman concurso incorporar guardavidas plantel municipal",
+      "title": "Llaman a concurso para incorporar guardavidas al plantel municipal",
+      "score": 2.872,
+      "sources_count": 2,
+      "first_seen": "2026-10-08T19:28:37+00:00",
+      "image": "https://cdnartic.ar/xv7p2NVkBqLQ8pAGubDlSdRwdLQ=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2025/03/nuevo_organigrama_para_los_guardavidas_a_partir_de_hoy.jpg",
       "articles": [
         {
+          "portal": "Ecos Diarios",
+          "title": "Llaman a concurso para incorporar guardavidas al plantel municipal",
+          "url": "https://elecos.com.ar/llaman-a-concurso-para-incorporar-guardavidas-al-plantel-municipal",
+          "published_at": "2026-10-08T19:28:37+00:00",
+          "first_seen": "2026-10-08T20:00:00.883255+00:00",
+          "category": "14",
+          "image": "https://cdnartic.ar/xv7p2NVkBqLQ8pAGubDlSdRwdLQ=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2025/03/nuevo_organigrama_para_los_guardavidas_a_partir_de_hoy.jpg"
+        },
+        {
           "portal": "Necochea Digital",
-          "title": "El Libertario Montenegro vuelve a la intendencia en medio de una ola de robos",
-          "url": "https://necocheadigital.com/nota/119834/el-libertario-montenegro-vuelve-a-la-intendencia-en-medio-de-una-ola-de-robos/",
+          "title": "Llaman a concurso para incorporar guardavidas al plantel municipal de cara a la temporada",
+          "url": "https://necocheadigital.com/nota/119837/llaman-a-concurso-para-incorporar-guardavidas-al-plantel-municipal-de-cara-a-la-temporada/",
           "published_at": null,
-          "first_seen": "2026-10-08T19:30:01.307610+00:00",
+          "first_seen": "2026-10-08T20:00:00.883255+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "Guillermo Montenegro volvió a ponerse al frente de la Municipalidad de General Pueyrredon , después de casi diez meses de licencia para desempeñarse como senador bonaerense. Su regreso se produce en un contexto marcado por una creciente preocupación por la inseguridad y una sucesión de hechos delictivos en distintos sectores de Mar del Plata. El retorno quedó formalizado luego de que el Senado bonaerense aprobara su licencia y el Concejo Deliberante de General Pueyrredon hiciera lo propio con la finalización de su licencia como intendente.",
-          "De esta manera, Montenegro retomó el mandato para el que había sido reelegido en 2023. En su primera conferencia de prensa tras reasumir, realizada en el Centro de Operaciones y Monitoreo (COM) , el jefe comunal explicó que tomó la decisión fundamentalmente por la situación de seguridad."
+          "A través de un decreto firmado por el intendente Arturo Rojas y el secretario de Gobierno, Jorge Martínez, la Municipalidad de Necochea lanza un llamado a Concurso para aquellos postulantes que quieran incorporarse al plantel mensualizado de Guardavidas para la próxima temporada 2026/27 .",
+          "El ingreso por concurso se establece para postulantes entre los primeros 150 inscriptos en el orden de mérito de la Bolsa de Trabajo de la Asociación de Guardavidas Necochea Quequén , teniendo en consideración, además del puntaje inicial que registren en ese reglamento, un puntaje extra adicional por la realización de diferentes pruebas a efectos del ingreso de cada uno de los años en que se realice el concurso, según dispone en este caso la Ordenanza 11759/25."
         ],
-        "generated": "2026-10-08T19:32:14.058299+00:00"
+        "generated": "2026-10-08T20:00:35.771572+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-08T19:30:01.307610+00:00"
+      "ultima_impresion": "2026-10-08T20:00:00.883255+00:00"
     },
     {
-      "key": "nacion redujo fondos enviados provincia 2026 kicillof recibio 13 billones",
-      "title": "Nación redujo en 0,4% los fondos enviados a la Provincia durante 2026: Kicillof recibió $13,3 billones",
+      "key": "realizara muestra artistica viernes concejo deliberante",
+      "title": "Se realizará una muestra artística este viernes en el Concejo Deliberante",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-10-08T19:30:01.307610+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/1a92ad5f6ae7b49398f1b993db73a35e5afc94ed.jpg",
+      "first_seen": "2026-10-08T20:00:00.883255+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261008165846_foto-municipalidad-archivo.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Nación redujo en 0,4% los fondos enviados a la Provincia durante 2026: Kicillof recibió $13,3 billones",
-          "url": "https://necocheadigital.com/nota/119835/nacion-redujo-en-0-4-los-fondos-enviados-a-la-provincia-durante-2026-kicillof-recibio-13-3-billones/",
+          "title": "Se realizará una muestra artística este viernes en el Concejo Deliberante",
+          "url": "https://necocheadigital.com/nota/119838/se-realizara-una-muestra-artistica-este-viernes-en-el-concejo-deliberante/",
           "published_at": null,
-          "first_seen": "2026-10-08T19:30:01.307610+00:00",
+          "first_seen": "2026-10-08T20:00:00.883255+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "La discusión por los recursos que recibe la Provincia de Buenos Aires volvió a instalarse en la agenda política luego de conocerse un informe que analiza el flujo de fondos enviados por la Nación durante los primeros nueve meses de 2026. El trabajo fue elaborado por el exsenador bonaerense Marcelo Daletto y toma como referencia datos del Ministerio de Economía nacional. Según el relevamiento, entre enero y septiembre la Provincia recibió $13,3 billones en transferencias automáticas , un 32,8% más que en el mismo período de 2025 en términos nominales.",
-          "Sin embargo, al descontar el efecto de la inflación, el incremento se transforma en una caída real del 0,4% . El análisis se concentra exclusivamente en los recursos que la Nación distribuye de manera automática, de acuerdo con la Ley de Coparticipación Federal 23.548 y otras leyes especiales , y deja afuera las transferencias discrecionales."
+          "El Centro Cultural Municipal de Necochea, dependiente de la Dirección General de Educación Municipal , realizará este viernes 9 de octubre, desde las 15, una muestra abierta y gratuita a la comunidad en el Honorable Concejo Deliberante de Necochea, en el marco del programa Concejo Cerca , la Semana de las Artes y el 145º Aniversario de la ciudad. La propuesta busca acercar al ámbito legislativo el trabajo realizado por estudiantes y docentes, poniendo en valor al arte como parte esencial de la vida comunitaria.",
+          "Durante la jornada se desarrollarán distintas actividades: Música: -Escuela Municipal de Rock “Norberto Pappo Napolitano”: presentación de estudiantes del taller de guitarra, a cargo del tallerista Nicolás Altieri. -Coro Provincial: interpretación de dos canciones a cargo de integrantes del coro juvenil."
         ],
-        "generated": "2026-10-08T19:32:14.778661+00:00"
+        "generated": "2026-10-08T20:02:19.138644+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-08T19:30:01.307610+00:00"
+      "ultima_impresion": "2026-10-08T20:00:00.883255+00:00"
     },
     {
-      "key": "cuando aprender transforma ayuda proyectos cafiel alumnos llegan comunidad",
-      "title": "Cuando aprender se transforma en ayuda: los proyectos de Cafiel y sus alumnos que llegan a la comunidad",
+      "key": "liga necochea completa fecha 19 tres duelos decisivos zona",
+      "title": "La Liga Necochea completa la fecha 19 con tres duelos decisivos en la Zona A",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-10-08T19:30:01.307610+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261008064939_20220629123855-whatsapp-image-2022-06-28-at-10-39-32-pm.jpg",
+      "first_seen": "2026-10-08T20:00:00.883255+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261007112619_whatsapp-image-2026-10-07-at-11-26-05.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Cuando aprender se transforma en ayuda: los proyectos de Cafiel y sus alumnos que llegan a la comunidad",
-          "url": "https://necocheadigital.com/nota/119833/cuando-aprender-se-transforma-en-ayuda-los-proyectos-de-cafiel-y-sus-alumnos-que-llegan-a-la-comunidad/",
+          "title": "La Liga Necochea completa la fecha 19 con tres duelos decisivos en la Zona A",
+          "url": "https://necocheadigital.com/nota/119825/la-liga-necochea-completa-la-fecha-19-con-tres-duelos-decisivos-en-la-zona-a/",
           "published_at": null,
-          "first_seen": "2026-10-08T19:30:01.307610+00:00",
+          "first_seen": "2026-10-08T20:00:00.883255+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "La enseñanza técnica puede trascender las paredes de un aula cuando los conocimientos adquiridos se convierten en soluciones para la comunidad. Esa es la premisa que desde hace años impulsa el profesor Norberto “Tano” Cafiel junto a sus alumnos del Centro de Formación Profesional N° 402 de Necochea . El trabajo combina capacitación, innovación y compromiso social.",
-          "Una modalidad que ya tuvo distintos antecedentes en la ciudad y el distrito, con proyectos de iluminación solar y generación de energía desarrollados por estudiantes en espacios públicos e instituciones. La propia Legislatura bonaerense reconoció en 2021 a Cafiel y a un grupo de exalumnos del CFP 402 por su labor solidaria vinculada con las energías renovables. Actualmente, el grupo continúa avanzando con nuevos proyectos."
+          "La pelota vuelve a rodar en el fútbol local para cerrar la decimonovena jornada del Torneo Oficial “Sergio ‘Giuseppe’ Portugal”. Tras las suspensiones del fin de semana por las inclemencias del tiempo, la Liga Necochea de Fútbol disputará este miércoles los tres cotejos pendientes de la Zona A en San Cayetano, Quequén y Necochea. La agenda del miércoles: cruces, posiciones y autoridades 15:30 hs | Independiente (San Cayetano) vs. Villa Díaz Vélez Estadio: Juan Bautista Marlats (San Cayetano) Árbitro: Miguel Amuchastegui Panorama: Choque directo en lo más alto de la tabla.",
+          "El conjunto sancayetanense lidera la Zona A con 38 puntos y busca hacer valer la localía frente al escolta \"Naranja\", que marcha segundo con 36 unidades. 16:30 hs | Ministerio vs. Mataderos Estadio: Ministerio (Quequén) Árbitro: Cristian Maldonado Panorama: Mano a mano en los puestos de vanguardia."
         ],
-        "generated": "2026-10-08T19:32:15.954378+00:00"
+        "generated": "2026-10-08T20:02:20.248544+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-08T19:30:01.307610+00:00"
+      "ultima_impresion": "2026-10-08T20:00:00.883255+00:00"
     },
     {
-      "key": "recuperaron camioneta robada quequen hubo dos allanamientos secuestraron vehiculos arma carne",
-      "title": "Recuperaron la camioneta robada en Quequén y hubo dos allanamientos: secuestraron vehículos, un arma y carne",
+      "key": "uta pidio acelerar nuevo pliego transporte colectivos",
+      "title": "La UTA pidió acelerar el nuevo pliego del transporte de colectivos",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-10-08T19:30:01.307610+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/1b1503e0622ad113d758853be1c91edcabe5f451.jpg",
+      "first_seen": "2026-10-08T20:00:00.883255+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261007115216_09-ct.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Recuperaron la camioneta robada en Quequén y hubo dos allanamientos: secuestraron vehículos, un arma y carne",
-          "url": "https://necocheadigital.com/nota/119832/recuperaron-la-camioneta-robada-en-quequen-y-hubo-dos-allanamientos-secuestraron-vehiculos-un-arma-y-carne/",
+          "title": "La UTA pidió acelerar el nuevo pliego del transporte de colectivos",
+          "url": "https://necocheadigital.com/nota/119828/la-uta-pidio-acelerar-el-nuevo-pliego-del-transporte-de-colectivos/",
           "published_at": null,
-          "first_seen": "2026-10-08T19:30:01.307610+00:00",
+          "first_seen": "2026-10-08T20:00:00.883255+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "La investigación por el robo de una Toyota Hilux ocurrido en Quequén derivó en dos allanamientos realizados por personal de la DDI Necochea , que permitieron avanzar sobre la causa y, además, detectar otros vehículos que tenían pedidos de secuestro activos. Como resultado de los procedimientos, un hombre de 22 años fue detenido debido a que sobre él pesaba una orden de captura vinculada con la investigación, mientras que otro hombre, de 44 años , fue aprehendido. Ambos quedaron vinculados, en principio, a una causa por encubrimiento relacionada con los vehículos encontrados.",
-          "La investigación se había iniciado tras una denuncia presentada el 22 de julio , luego de que dos delincuentes sustrajeran una Toyota Hilux en Quequén. De acuerdo con la denuncia, uno de los autores habría intimidado con un arma de fuego a un hombre que permanecía dentro del vehículo."
+          "La situación del transporte urbano de pasajeros volvió a ocupar un lugar central en la agenda política de Necochea. Este martes 6 de octubre, la Comisión de Transporte del Concejo Deliberante recibió al delegado de la Unión Tranviarios Automotor (UTA) de Mar del Plata y a trabajadores de la empresa local , quienes expusieron la situación laboral que atraviesan y reclamaron avanzar con rapidez hacia una nueva licitación del servicio. La reunión fue presidida en esta oportunidad por la concejala Evangelina Almada , de Fuerza Patria-MDF, ante la ausencia del titular de la comisión, Julián Kristiansen.",
+          "Uno de los principales planteos estuvo relacionado con la situación salarial. Los trabajadores manifestaron su preocupación por las demoras en el pago de los sueldos y del medio aguinaldo , y cuestionaron que la reciente prórroga de la concesión y la declaración de emergencia del transporte no constituyen una solución de fondo."
         ],
-        "generated": "2026-10-08T19:32:17.098166+00:00"
+        "generated": "2026-10-08T20:02:21.352601+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-08T19:30:01.307610+00:00"
+      "ultima_impresion": "2026-10-08T20:00:00.883255+00:00"
+    },
+    {
+      "key": "balnearios necochea lanzaron preventa hay cautela proxima temporada",
+      "title": "Balnearios de Necochea ya lanzaron la preventa y hay cautela por la próxima temporada",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-08T20:00:00.883255+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261007080010_30-01-foto-ocupacion-turistica-turismo-playa-verano-01.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Balnearios de Necochea ya lanzaron la preventa y hay cautela por la próxima temporada",
+          "url": "https://necocheadigital.com/nota/119823/balnearios-de-necochea-ya-lanzaron-la-preventa-y-hay-cautela-por-la-proxima-temporada/",
+          "published_at": null,
+          "first_seen": "2026-10-08T20:00:00.883255+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "A poco más de dos meses del comienzo del verano, los balnearios de Necochea y Quequén ya pusieron en marcha la preventa de sus servicios para la temporada 2026/27. Carpas, sombrillas y estacionamiento comenzaron a comercializarse con valores de referencia y distintas promociones para quienes anticipen la contratación.",
+          "Alberto Condenanza, presidente de la Asociación de Balnearios de Necochea y Quequén, explicó que la preventa comenzó aproximadamente una semana atrás y que, dependiendo de cada establecimiento, se extenderá durante los primeros días o semanas de octubre. “En líneas generales se está respondiendo muy bien”, señaló durante una entrevista en Voces de la Tarde , el programa que conduce Jorge Gómez por Radio Noticias Necochea."
+        ],
+        "generated": "2026-10-08T20:02:22.037393+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-08T20:00:00.883255+00:00"
+    },
+    {
+      "key": "jeep inicio preventa avenger cuanto costara argentina",
+      "title": "Jeep inició la preventa del Avenger: cuánto costará en Argentina",
+      "score": 0.952,
+      "sources_count": 1,
+      "first_seen": "2026-10-08T17:13:01+00:00",
+      "image": "https://diarionecochea.com/wp-content/uploads/2026/10/jeep-inicio-la-preventa-del-avenger-su-nuevo-suv-hibrido-que-llegara-a-la-argentina.webp",
+      "articles": [
+        {
+          "portal": "Diario Necochea",
+          "title": "Jeep inició la preventa del Avenger: cuánto costará en Argentina",
+          "url": "https://diarionecochea.com/2026/10/08/jeep-inicio-la-preventa-del-avenger-su-nuevo-suv-hibrido-que-llegara-a-la-argentina/",
+          "published_at": "2026-10-08T17:13:01+00:00",
+          "first_seen": "2026-10-08T17:30:01.333251+00:00",
+          "category": "Nacionales",
+          "image": "https://diarionecochea.com/wp-content/uploads/2026/10/jeep-inicio-la-preventa-del-avenger-su-nuevo-suv-hibrido-que-llegara-a-la-argentina.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El nuevo SUV compacto de Jeep podrá reservarse desde la red oficial de concesionarios con una seña de $500.000 y será presentado al público el 21 de octubre. Jeep Argentina comenzó la preventa del nuevo Avenger, un SUV compacto con motorización electrificada que estará disponible en las versiones Altitude, Longitude y Limited. Las tres incorporan un sistema híbrido MHEV de 12V y el motor 1.0 Turbo de 120 CV.",
+          "Noticia relacionadas Los costos del transporte de cargas subieron 30,3 % en lo que va del 2026 6 de octubre de 2026 Milei viajará a Estados Unidos en octubre para participar de una gala en Washington 6 de octubre de 2026 El modelo podrá reservarse a través de la red de concesionarios oficiales con una reserva anticipada de $500.000. Su presentación al público argentino está prevista para el 21 de octubre."
+        ],
+        "generated": "2026-10-08T20:02:25.459704+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-08T20:00:00.883255+00:00"
     },
     {
       "key": "cuerpo como territorio encuentro encuentro docentes estudianets",
       "title": "“El cuerpo como territorio de encuentro”: encuentro entre docentes y estudianets",
-      "score": 0.378,
+      "score": 0.331,
       "sources_count": 1,
       "first_seen": "2026-10-08T18:54:23+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/08-10-FOTO-Taller-El-Cuerpo2.webp",
@@ -142,16 +209,16 @@
           "TSN Necochea | ‹ VOLVER | Educación | cuerpo | Municipales “El cuerpo como territorio de encuentro”: encuentro entre docentes y estudianets Participaron maestras de Nivel Inicial, maestras de 1.º y 2.º grado y estudiantes de profesorado Por Redacción TSN 08/10/2026 · 03:54 PM Agregar TSN Necochea en El pasado martes, el Salón de Actos de la Municipalidad fue escenario del taller “El cuerpo como territorio de encuentro” , una propuesta de formación destinada a docentes y estudiantes de profesorados. Del encuentro participaron docentes de Nivel Inicial, maestras de 1.º y 2.º grado y estudiantes de profesorado, quienes compartieron una tarde de juego, exploración y reflexión en torno a la disponibilidad corporal docente.",
           "La propuesta invitó a recuperar el cuerpo propio como territorio de percepción, comunicación, vínculo y acción pedagógica, generando un espacio de intercambio y aprendizaje."
         ],
-        "generated": "2026-10-08T19:32:12.863138+00:00"
+        "generated": "2026-10-08T20:02:23.102419+00:00"
       },
-      "apariciones": 3,
-      "ultima_impresion": "2026-10-08T19:30:01.307610+00:00",
-      "penalizacion": 0.331
+      "apariciones": 4,
+      "ultima_impresion": "2026-10-08T20:00:00.883255+00:00",
+      "penalizacion": 0.302
     },
     {
       "key": "proponen ampliar prohibicion vehiculos generen ruidos molestos",
       "title": "Proponen ampliar la prohibición de vehículos que generen ruidos molestos",
-      "score": 0.105,
+      "score": 0.092,
       "sources_count": 1,
       "first_seen": "2026-10-08T17:51:14+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/images-1.webp",
@@ -171,45 +238,16 @@
           "TSN Necochea | ‹ VOLVER | Locales | adultos mayores | Concejo Proponen ampliar la prohibición de vehículos que generen ruidos molestos Nueva Necochea presentó la propuesta en el Concejo Deliberante Por Redacción TSN 08/10/2026 · 02:51 PM Agregar TSN Necochea en El bloque de Nueva Necochea presentó un proyecto para modificar la ordenanza vigente sobre escapes libres y ampliar su alcance a otros dispositivos que generan contaminación acústica. El concejal Rodrigo Tabárez explicó que la normativa, sancionada en 2018, contempla actualmente a los vehículos que circulan con escape libre, pero consideró necesario actualizarla frente a la aparición de nuevos sistemas.",
           "La propuesta incorpora la figura de “sistema expansivo” y establece que cualquier dispositivo que genere un incremento de la contaminación acústica pueda ser objeto de infracción por parte de las autoridades competentes."
         ],
-        "generated": "2026-10-08T19:32:18.172309+00:00"
+        "generated": "2026-10-08T20:02:24.209710+00:00"
       },
-      "apariciones": 5,
-      "ultima_impresion": "2026-10-08T19:30:01.307610+00:00",
-      "penalizacion": 0.1
-    },
-    {
-      "key": "jeep inicio preventa avenger nuevo suv hibrido llegara argentina",
-      "title": "Jeep inició la preventa del Avenger, su nuevo SUV híbrido que llegará a la Argentina",
-      "score": 0.03,
-      "sources_count": 1,
-      "first_seen": "2026-10-08T17:13:01+00:00",
-      "image": "https://diarionecochea.com/wp-content/uploads/2026/10/jeep-inicio-la-preventa-del-avenger-su-nuevo-suv-hibrido-que-llegara-a-la-argentina.webp",
-      "articles": [
-        {
-          "portal": "Diario Necochea",
-          "title": "Jeep inició la preventa del Avenger, su nuevo SUV híbrido que llegará a la Argentina",
-          "url": "https://diarionecochea.com/2026/10/08/jeep-inicio-la-preventa-del-avenger-su-nuevo-suv-hibrido-que-llegara-a-la-argentina/",
-          "published_at": "2026-10-08T17:13:01+00:00",
-          "first_seen": "2026-10-08T17:30:01.333251+00:00",
-          "category": "Nacionales",
-          "image": "https://diarionecochea.com/wp-content/uploads/2026/10/jeep-inicio-la-preventa-del-avenger-su-nuevo-suv-hibrido-que-llegara-a-la-argentina.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El nuevo SUV compacto de Jeep podrá reservarse desde la red oficial de concesionarios con una seña de $500.000 y será presentado al público el 21 de octubre. Jeep Argentina comenzó la preventa del nuevo Avenger, un SUV compacto con motorización electrificada que estará disponible en las versiones Altitude, Longitude y Limited. Las tres incorporan un sistema híbrido MHEV de 12V y el motor 1.0 Turbo de 120 CV.",
-          "Noticia relacionadas Los costos del transporte de cargas subieron 30,3 % en lo que va del 2026 6 de octubre de 2026 Milei viajará a Estados Unidos en octubre para participar de una gala en Washington 6 de octubre de 2026 El modelo podrá reservarse a través de la red de concesionarios oficiales con una reserva anticipada de $500.000. Su presentación al público argentino está prevista para el 21 de octubre. El Avenger fue desarrollado por Stellantis en América del Sur y se produce en el Polo Industrial de Porto Real, Brasil."
-        ],
-        "generated": "2026-10-08T19:32:19.479683+00:00"
-      },
-      "apariciones": 7,
-      "ultima_impresion": "2026-10-08T19:30:01.307610+00:00",
-      "penalizacion": 0.03
+      "apariciones": 6,
+      "ultima_impresion": "2026-10-08T20:00:00.883255+00:00",
+      "penalizacion": 0.091
     },
     {
       "key": "lollapalooza 2027 confirmo line up pueden comprar pases",
       "title": "Lollapalooza 2027 confirmó su line up y ya se pueden comprar los pases",
-      "score": 0.03,
+      "score": 0.026,
       "sources_count": 1,
       "first_seen": "2026-10-08T17:11:39+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/10/lollapalooza-2027-confirmo-su-line-up-y-ya-se-pueden-comprar-los-pases.webp",
@@ -229,16 +267,16 @@
           "Lollapalooza confirmó la grilla de su duodécima edición en Argentina, que se realizará del 12 al 14 de marzo de 2027 en el Hipódromo de San Isidro. Travis Scott, Charli xcx, The Killers, TINI y David Guetta encabezarán Lollapalooza 2027. También estarán Queens of the Stone Age, The Neighbourhood, Rawayana, Fontaines D.C.",
           "y Sombr, entre otros artistas nacionales e internacionales. Noticia relacionadas Google copió el mapa neuronal de una mosca y ya lo usan para jugar al Doom 14 de septiembre de 2026 Netflix enfrenta una demanda millonaria por el robo de la copia maestra de una película de Nicolas Cage 30 de julio de 2026 El festival se realizará el viernes 12, sábado 13 y domingo 14 de marzo de 2027 en el Hipódromo de San Isidro, que volverá a contar con cinco escenarios y espacios como Espíritu Verde, Rock & Recycle, Kidzapalooza, El Túnel, Casitas y La Playita."
         ],
-        "generated": "2026-10-08T19:32:20.734946+00:00"
+        "generated": "2026-10-08T20:02:26.668244+00:00"
       },
-      "apariciones": 7,
-      "ultima_impresion": "2026-10-08T19:30:01.307610+00:00",
-      "penalizacion": 0.03
+      "apariciones": 8,
+      "ultima_impresion": "2026-10-08T20:00:00.883255+00:00",
+      "penalizacion": 0.028
     },
     {
       "key": "oportunidad formarse trabajar marina mercante abrio inscripcion 2027",
       "title": "Una oportunidad para formarse y trabajar en la Marina Mercante: abrió la inscripción para 2027",
-      "score": 0.016,
+      "score": 0.014,
       "sources_count": 1,
       "first_seen": "2026-10-08T16:59:41+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2024/01/prefectura.webp",
@@ -258,16 +296,16 @@
           "TSN Necochea | ‹ VOLVER | Generales | Marina Mercante | Quequén Una oportunidad para formarse y trabajar en la Marina Mercante: abrió la inscripción para 2027 La propuesta corresponde al ciclo lectivo 2027 de las Escuelas de Formación y Capacitación para el Personal Embarcado de la Marina Mercante (EFOCAPEMM). Por Redacción TSN 08/10/2026 · 01:59 PM Agregar TSN Necochea en La Prefectura Naval Argentina con asiento en Quequén abrió la convocatoria para quienes quieran formarse y obtener la habilitación para desempeñarse como personal embarcado de la Marina Mercante .",
           "La propuesta corresponde al ciclo lectivo 2027 de las Escuelas de Formación y Capacitación para el Personal Embarcado de la Marina Mercante (EFOCAPEMM). La inscripción permanecerá abierta hasta el 13 de noviembre y contempla los cursos de Marinero y Auxiliar de Máquinas Navales, ambos con una duración de ocho meses."
         ],
-        "generated": "2026-10-08T19:32:21.810783+00:00"
+        "generated": "2026-10-08T20:02:27.731581+00:00"
       },
-      "apariciones": 8,
-      "ultima_impresion": "2026-10-08T19:30:01.307610+00:00",
-      "penalizacion": 0.017
+      "apariciones": 9,
+      "ultima_impresion": "2026-10-08T20:00:00.883255+00:00",
+      "penalizacion": 0.015
     },
     {
       "key": "chocaron dos autos avenida 58 calle 65 solo danos materiales",
       "title": "Chocaron dos autos en avenida 58 y calle 65: sólo daños materiales",
-      "score": 0.016,
+      "score": 0.014,
       "sources_count": 1,
       "first_seen": "2026-10-08T16:56:04+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-08-at-13.53.33.webp",
@@ -287,16 +325,16 @@
           "TSN Necochea | ‹ VOLVER | Locales | accidente | Accidente Chocaron dos autos en avenida 58 y calle 65: sólo daños materiales Ocurrió este mediodía Por Redacción TSN 08/10/2026 · 01:56 PM Agregar TSN Necochea en Durante el mediodía de este jueves se registró un choque entre dos automóviles en la intersección de Avenida 58 y calle 65. Como consecuencia del impacto, solo se registraron daños materiales, sin personas heridas.",
           "En el lugar trabajó personal de Tránsito y Policía, realizando las tareas correspondientes. ACCIDENTE CHOQUE TRÁNSITO Seguinos en redes"
         ],
-        "generated": "2026-10-08T19:32:22.505347+00:00"
+        "generated": "2026-10-08T20:02:28.436911+00:00"
       },
-      "apariciones": 8,
-      "ultima_impresion": "2026-10-08T19:30:01.307610+00:00",
-      "penalizacion": 0.017
+      "apariciones": 9,
+      "ultima_impresion": "2026-10-08T20:00:00.883255+00:00",
+      "penalizacion": 0.015
     },
     {
       "key": "aumentan peajes cuanto cuesta viajar auto necochea buenos aires",
       "title": "Aumentan los peajes: cuánto cuesta viajar en auto a Necochea desde Buenos Aires",
-      "score": 0.016,
+      "score": 0.014,
       "sources_count": 1,
       "first_seen": "2026-10-08T16:48:20+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/10/aumentan-los-peajes-a-la-costa-atlantica-cuanto-cuesta-viajar-a-necochea.webp",
@@ -316,16 +354,16 @@
           "La actualización de los peajes de AUBASA comenzará a regir este viernes 9 de octubre. El aumento de las tarifas de peajes en las rutas que conectan la Ciudad de Buenos Aires con la Costa Atlántica impactará en los costos de viaje para quienes se desplacen en vehículo particular. Esta actualización, que comenzará a regir a partir del 9 de octubre, se produce en un contexto de mayor circulación vehicular debido al fin de semana largo.",
           "Los incrementos afectan principalmente a las estaciones de peaje ubicadas en la Autopista Buenos Aires-La Plata y la Ruta 2, rutas clave para quienes se dirigen a destinos turísticos como Necochea y Mar del Plata . Además, se mantienen beneficios para quienes utilicen el sistema TelePASE y para quienes viajen."
         ],
-        "generated": "2026-10-08T19:32:23.886270+00:00"
+        "generated": "2026-10-08T20:02:29.742452+00:00"
       },
-      "apariciones": 8,
-      "ultima_impresion": "2026-10-08T19:30:01.307610+00:00",
-      "penalizacion": 0.017
+      "apariciones": 9,
+      "ultima_impresion": "2026-10-08T20:00:00.883255+00:00",
+      "penalizacion": 0.015
     },
     {
       "key": "licitacion desierta sala juegos casino necochea",
       "title": "Oficialmente la Provincia declaró desierta el llamado a licitación por la sala de juegos del Casino",
-      "score": 0.016,
+      "score": 0.014,
       "sources_count": 1,
       "first_seen": "2026-10-08T16:37:22+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/07/Casino-Necochea-juego.webp",
@@ -345,16 +383,16 @@
           "TSN Necochea | ‹ VOLVER | Locales | Casinos | Lotería y Casinos Oficialmente la Provincia declaró desierta el llamado a licitación por la sala de juegos del Casino El proceso se había llevado adelante en julio de 2025. Por Redacción TSN 08/10/2026 · 01:37 PM Agregar TSN Necochea en Más de un año después del llamado a licitación, el gobierno de la provincia de Buenos Aires -en forma oficial- dejó desierta la licitación para modernizar y operar la sala de juegos de Casino de necochea. Esto también incluía la explotación de las máquinas tragamonedas por 20 años.",
           "Este es un mero proceso administrativo después que en el proceso licitatorio no hubo ofertas para la sala de nuestra ciudad. Vale recordar que este proceso licitatorio fue en julio de 2025. Ahora se espera ver qué decisión tomará el Instituto de Lotería de Casinos de la provincia de Buenos Aires con el futuro de la sala de juego."
         ],
-        "generated": "2026-10-08T19:32:24.947337+00:00"
+        "generated": "2026-10-08T20:02:30.441164+00:00"
       },
-      "apariciones": 8,
-      "ultima_impresion": "2026-10-08T19:30:01.307610+00:00",
-      "penalizacion": 0.017
+      "apariciones": 9,
+      "ultima_impresion": "2026-10-08T20:00:00.883255+00:00",
+      "penalizacion": 0.015
     },
     {
       "key": "franco colapinto afronta gp singapur busca volver sumar puntos",
       "title": "Franco Colapinto afronta el GP de Singapur y busca volver a sumar puntos",
-      "score": 0.016,
+      "score": 0.014,
       "sources_count": 1,
       "first_seen": "2026-10-08T16:36:07+00:00",
       "image": "https://diarionecochea.com/wp-content/uploads/2026/10/franco-colapinto-afronta-el-gp-de-singapur-con-confianza-en-alpine-y-busca-volver-a-sumar-puntos.jpg",
@@ -374,16 +412,16 @@
           "El argentino disputará su tercera carrera en Marina Bay, donde nunca consiguió unidades. Alpine llega sexto en el campeonato de constructores y buscará acercarse a Racing Bulls.",
           "Franco Colapinto se prepara para disputar desde este viernes el Gran Premio de Singapur, la 17.ª fecha de la temporada 2026 de Fórmula 1, con confianza en el rendimiento de Alpine y el objetivo de aprovechar la evolución que mostró el auto en las últimas carreras. El argentino, de 23 años y piloto del monoplaza número 43, llega 12.º en el campeonato con 27 puntos después de 16 Grandes Premios."
         ],
-        "generated": "2026-10-08T19:32:26.204115+00:00"
+        "generated": "2026-10-08T20:02:32.293947+00:00"
       },
-      "apariciones": 8,
-      "ultima_impresion": "2026-10-08T19:30:01.307610+00:00",
-      "penalizacion": 0.017
+      "apariciones": 9,
+      "ultima_impresion": "2026-10-08T20:00:00.883255+00:00",
+      "penalizacion": 0.015
     },
     {
       "key": "brasil espana estados unidos analisis ramiro caro figueroa mundo politico movimiento",
       "title": "Brasil, España y Estados Unidos: el análisis de Ramiro Caro Figueroa sobre un mundo político en movimiento",
-      "score": 0.007,
+      "score": 0.006,
       "sources_count": 1,
       "first_seen": "2026-10-08T16:26:29+00:00",
       "image": null,
@@ -403,11 +441,11 @@
           "El politólogo y columnista Ramiro Caro Figueroa analizó en Cerrando la Mañana el escenario internacional, con especial atención a la segunda vuelta presidencial en Brasil entre Lula da Silva y Flávio Bolsonaro, además de la situación política de España y los desafíos que enfrenta Donald Trump en Estados Unidos. La política internacional atraviesa semanas de fuerte movimiento y, en América Latina, Brasil aparece nuevamente como uno de los principales focos de atención.",
           "En ese contexto, el politólogo e historiador Ramiro Caro Figueroa, columnista habitual de Cerrando la Mañana, analizó el escenario que dejó la primera vuelta de las elecciones brasileñas y las perspectivas hacia el balotaje del próximo 25 de octubre. Flávio Bolsonaro, hijo del expresidente Jair Bolsonaro, terminó primero en la primera vuelta con el 47,03% de los votos, mientras que el actual presidente Luiz Inácio Lula da Silva obtuvo el 45,16%."
         ],
-        "generated": "2026-10-08T19:32:33.248474+00:00"
+        "generated": "2026-10-08T20:02:39.887056+00:00"
       },
-      "apariciones": 9,
-      "ultima_impresion": "2026-10-08T19:30:01.307610+00:00",
-      "penalizacion": 0.009
+      "apariciones": 10,
+      "ultima_impresion": "2026-10-08T20:00:00.883255+00:00",
+      "penalizacion": 0.008
     },
     {
       "key": "nino seguira intensificandose cuando alcanzaria punto algido",
@@ -432,16 +470,16 @@
           "TSN Necochea | ‹ VOLVER | Campo | ciclogénesis | El tiempo El Niño seguirá intensificándose: ¿cuándo alcanzaría su punto álgido? Se dio a conocer este jueves el resumen del informe actualizado de la Organización Mundial de Meteorología (OMM) sobre este fenómeno.",
           "Por Redacción TSN 08/10/2026 · 12:44 PM Se prevé que llegue un “Súper Niño” a las regiones más cálidas de Argentina. Foto: Agencia NA (IA) Agregar TSN Necochea en La Organización Meteorológica Mundial (OMM) dio a conocer este jueves el último reporte sobre el estado de situación respecto del fenómeno de El Niño y reveló que “seguirá intensificándose antes de alcanzar su punto álgido, previsto para diciembre” y que “es probable que conlleve temperaturas superiores a la media en gran parte del planeta”."
         ],
-        "generated": "2026-10-08T19:32:27.301421+00:00"
+        "generated": "2026-10-08T20:02:33.393523+00:00"
       },
-      "apariciones": 10,
-      "ultima_impresion": "2026-10-08T19:30:01.307610+00:00",
+      "apariciones": 11,
+      "ultima_impresion": "2026-10-08T20:00:00.883255+00:00",
       "penalizacion": 0.005
     },
     {
       "key": "tuyen sale esquina lleva fabrica necochea gran barata",
       "title": "Tuyen sale de la esquina y lleva la fábrica a Necochea con una gran barata",
-      "score": 0.004,
+      "score": 0.003,
       "sources_count": 1,
       "first_seen": "2026-10-08T15:39:18+00:00",
       "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/bcbefe9b-a91b-4a16-a95f-b1bb589c2a4c.jpg",
@@ -461,16 +499,16 @@
           "El emprendimiento de avenida 58 y 69, que ya lleva dos años y medio en Necochea, prepara una propuesta especial para este fin de semana en el Club Boca. Habrá productos directos de fábrica, precios promocionales, descuentos, sorteos y una amplia variedad de sábanas, acolchados, toallas, almohadas, mantas y artículos para el hogar. Hay historias de emprendimientos que también son historias de cambios de vida. La de Guadalupe Ponsirenas es una de ellas.",
           "Llegó desde Buenos Aires a Necochea junto a sus dos hijos, buscando un cambio y una nueva manera de vivir. Y hace dos años y medio abrió las puertas de Tuyen, en la esquina de avenida 58 y 69. La propuesta nació de una historia familiar."
         ],
-        "generated": "2026-10-08T19:32:36.073162+00:00"
+        "generated": "2026-10-08T20:02:42.428252+00:00"
       },
-      "apariciones": 10,
-      "ultima_impresion": "2026-10-08T19:30:01.307610+00:00",
+      "apariciones": 11,
+      "ultima_impresion": "2026-10-08T20:00:00.883255+00:00",
       "penalizacion": 0.005
     },
     {
       "key": "revelo dejo cocaina ahora continuidad como intendente investigacion",
       "title": "Reveló que dejó la cocaína y ahora su continuidad como intendente está bajo investigación",
-      "score": 0.004,
+      "score": 0.003,
       "sources_count": 1,
       "first_seen": "2026-10-08T15:38:00+00:00",
       "image": "http://nden.com.ar/uploads/noticias/5/2026/10/20261008124440_nebot-1068x710.jpg",
@@ -489,10 +527,10 @@
         "paragraphs": [
           "POLÉMICA EN SAAVEDRA Reveló que dejó la cocaína y ahora su continuidad como intendente está bajo investigación"
         ],
-        "generated": "2026-10-08T19:32:36.778003+00:00"
+        "generated": "2026-10-08T20:02:43.156427+00:00"
       },
-      "apariciones": 10,
-      "ultima_impresion": "2026-10-08T19:30:01.307610+00:00",
+      "apariciones": 11,
+      "ultima_impresion": "2026-10-08T20:00:00.883255+00:00",
       "penalizacion": 0.005
     },
     {
@@ -536,10 +574,10 @@
           "La Municipalidad de Necochea decidió postergar los festejos del 145° aniversario para garantizar el desarrollo adecuado de las actividades. Por las malas condiciones climáticas previstas para los próximos días, la Municipalidad de Necochea decidió postergar y reprogramar los festejos por el 145° aniversario de la ciudad . Noticia relacionadas Los choferes expusieron ante el Concejo los problemas salariales 8 de octubre de 2026 Cómo estará el clima este jueves en Necochea y Quequén 8 de octubre de 2026 Según explicaron desde la comuna, la medida busca garantizar el desarrollo de las actividades programadas y asegurar que el público pueda disfrutar de la celebración en óptimas condiciones.",
           "La nueva fecha de los festejos, junto con la grilla detallada del evento, se anunciará en los próximos días a través de los canales oficiales del municipio. Alerta amarilla en Necochea y la zona: se esperan lluvias y fuertes vientos"
         ],
-        "generated": "2026-10-08T19:30:14.874279+00:00"
+        "generated": "2026-10-08T20:00:41.089267+00:00"
       },
-      "apariciones": 14,
-      "ultima_impresion": "2026-10-08T19:30:01.307610+00:00",
+      "apariciones": 15,
+      "ultima_impresion": "2026-10-08T20:00:00.883255+00:00",
       "penalizacion": 0.0
     },
     {
@@ -583,10 +621,10 @@
           "La medida alcanzará a agentes que cobren hasta $2,5 millones. Además, los haberes de octubre se pagarán el 27 y habrá asueto municipal el 10 de noviembre. La Municipalidad de San Cayetano anunció un paquete de medidas para los trabajadores comunales que incluye un bono no remunerativo de $300.000, el adelanto del pago de los salarios correspondientes a octubre y un asueto por el Día del Empleado Municipal.",
           "El bono se abonará el 6 de noviembre y alcanzará a los agentes cuyos salarios no superen los $2.500.000, sin computar las horas extras. Noticia relacionadas Aumentan los peajes: cuánto cuesta viajar en auto a Necochea desde Buenos Aires 8 de octubre de 2026 San Cayetano remata maquinarias, vehículos y chatarra municipal 7 de octubre de 2026 La medida excluye del beneficio a la planta política y a los concejales. Además, los sueldos de octubre serán depositados de manera anticipada el martes 27 de octubre."
         ],
-        "generated": "2026-10-08T19:32:30.918985+00:00"
+        "generated": "2026-10-08T20:02:37.048807+00:00"
       },
-      "apariciones": 13,
-      "ultima_impresion": "2026-10-08T19:30:01.307610+00:00",
+      "apariciones": 14,
+      "ultima_impresion": "2026-10-08T20:00:00.883255+00:00",
       "penalizacion": 0.001
     },
     {
@@ -621,10 +659,10 @@
           "Piero De Benedictis, conocido artísticamente como Piero , murió este miércoles 7 de octubre a los 81 años. El cantautor, cuya obra unió la canción popular con la mirada social y política, dejó títulos que atravesaron generaciones, como “Mi viejo”, “Para el pueblo lo que es del pueblo”, “Llegando llegaste”, “Pedro Nadie” y “Que se vayan ellos”. Nacido como Piero Antonio Franco De Benedictis el 19 de abril de 1945 en Gallipoli, en la región italiana de Apulia , llegó a la Argentina cuando tenía tres años junto a su familia.",
           "Primero vivió en Banfield, en el sur del conurbano bonaerense, y luego se instaló en Allen, Río Negro. Ese recorrido entre la inmigración, el interior patagónico y la vida urbana de Buenos Aires formó parte de un universo que más tarde aparecería en sus canciones. De Italia a Río Negro, los primeros años de una voz singular En Allen cursó la escuela primaria y tuvo sus primeras experiencias musicales."
         ],
-        "generated": "2026-10-08T19:30:17.377894+00:00"
+        "generated": "2026-10-08T20:00:42.854552+00:00"
       },
-      "apariciones": 16,
-      "ultima_impresion": "2026-10-08T19:30:01.307610+00:00",
+      "apariciones": 17,
+      "ultima_impresion": "2026-10-08T20:00:00.883255+00:00",
       "penalizacion": 0.0
     },
     {
@@ -659,10 +697,10 @@
           "La ciudad se prepara para vivir un hito deportivo y turístico sin precedentes. Del jueves 8 al lunes 12 de octubre de 2026, Necochea será la sede central de la Liga Nacional de Cestoball de Primera División Femenina A , el torneo más relevante del calendario de la Confederación Argentina de Cestoball (CAC).",
           "Con el Club Centro Vasco como institución anfitriona y organizadora a nivel local, las mejores exponentes de la disciplina desembarcarán en la costa bonaerense para disputar la codiciada corona nacional. El certamen reunirá a 16 delegaciones de distintas provincias y la Ciudad Autónoma de Buenos Aires , configurando un formato sumamente federal que movilizará a cientos de jugadoras, cuerpos técnicos, dirigentes y simpatizantes durante todo el fin de semana largo."
         ],
-        "generated": "2026-10-08T19:30:21.568900+00:00"
+        "generated": "2026-10-08T20:00:46.287958+00:00"
       },
-      "apariciones": 19,
-      "ultima_impresion": "2026-10-08T19:30:01.307610+00:00",
+      "apariciones": 20,
+      "ultima_impresion": "2026-10-08T20:00:00.883255+00:00",
       "penalizacion": 0.0
     },
     {
@@ -688,10 +726,10 @@
           "La banda necochense lleva entre ocho y nueve años de recorrido, con una propuesta basada en canciones propias que mezclan rock y pop y cuentan historias de la ciudad y de la vida. Este sábado se presentarán desde las 22.30 en Geiser, con entrada gratuita. Hay bandas que nacen de un proyecto musical y otras que nacen de una historia. Múnich Rock parece tener un poco de las dos cosas.",
           "Porque detrás de sus canciones hay años de ensayos, cambios de integrantes, encuentros entre amigos y, sobre todo, historias que tienen a Necochea como escenario. Tachi Hernández es uno de los integrantes fundadores de la banda y pasó por los micrófonos de Esta Mañana para contar cómo nació este proyecto que lleva aproximadamente ocho o nueve años de camino recorrido. La formación actual está integrada por Sergio Baitero, Ian Vázquez en guitarras, Sebastián Herrera en piano y sintetizadores, Nelson Aguinera en bajo y Tachi Hernández."
         ],
-        "generated": "2026-10-08T19:32:40.587262+00:00"
+        "generated": "2026-10-08T20:02:47.213491+00:00"
       },
-      "apariciones": 14,
-      "ultima_impresion": "2026-10-08T19:30:01.307610+00:00",
+      "apariciones": 15,
+      "ultima_impresion": "2026-10-08T20:00:00.883255+00:00",
       "penalizacion": 0.0
     },
     {
@@ -717,10 +755,10 @@
           "Marys Moreira tiene 59 años, es peluquera y hace casi un año recibió el diagnóstico de Parkinson. En una entrevista en Esta Mañana , decidió contar su historia para visibilizar una enfermedad que, según explicó, todavía está rodeada de muchos prejuicios y desconocimiento. Su mensaje fue claro: reconocer los síntomas, consultar a tiempo, buscar apoyo y no dejar de hacer aquellas cosas que hacen bien. Marys Moreira siempre fue una mujer de movimiento.",
           "Peluquera durante 44 años, activa, inquieta, de esas personas acostumbradas a resolver y hacer todo por sí mismas. Pero hace casi un año su cuerpo empezó a darle señales que, en principio, no pudo relacionar con una enfermedad neurológica. Todo comenzó con cansancio y dolor en el lado derecho."
         ],
-        "generated": "2026-10-08T19:32:43.180448+00:00"
+        "generated": "2026-10-08T20:02:49.885224+00:00"
       },
-      "apariciones": 15,
-      "ultima_impresion": "2026-10-08T19:30:01.307610+00:00",
+      "apariciones": 16,
+      "ultima_impresion": "2026-10-08T20:00:00.883255+00:00",
       "penalizacion": 0.0
     }
   ]
