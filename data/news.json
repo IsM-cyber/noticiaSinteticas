@@ -1,12 +1,41 @@
 {
-  "generated_at": "2026-10-10T14:30:01.250968+00:00",
+  "generated_at": "2026-10-10T15:00:00.698059+00:00",
   "article_count": 135,
   "fetch_errors": [],
   "stories": [
     {
+      "key": "atencion manejar cambian prioridades paso avenidas necochea quequen",
+      "title": "Atención al manejar: cambian las prioridades de paso en las avenidas de Necochea y Quequén",
+      "score": 1.173,
+      "sources_count": 1,
+      "first_seen": "2026-10-10T14:43:47+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2023/09/17-01-FOTO-Control-Transito-Seguridad-Vial-Provincia-2.jpg",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Atención al manejar: cambian las prioridades de paso en las avenidas de Necochea y Quequén",
+          "url": "https://tsnnecochea.com.ar/locales/atencion-al-manejar-cambian-las-prioridades-de-paso-en-las-avenidas-de-necochea-y-quequen-239330/",
+          "published_at": "2026-10-10T14:43:47+00:00",
+          "first_seen": "2026-10-10T15:00:00.698059+00:00",
+          "category": "avenidad",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2023/09/17-01-FOTO-Control-Transito-Seguridad-Vial-Provincia-2.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Locales | avenidad | Tránsito Atención al manejar: cambian las prioridades de paso en las avenidas de Necochea y Quequén El Senado bonaerense aprobó la reforma que elimina la prioridad de la derecha frente a vías principales. Quienes ingresen desde calles secundarias a avenidas o rutas deberán frenar a cero. Por Redacción TSN 10/10/2026 · 11:43 AM Agregar TSN Necochea en La reforma legislativa elimina un histórico vacío normativo que generaba dudas cotidianas entre los automovilistas al llegar a una esquina o empalme vial.",
+          "Hasta la sanción de esta ley, el texto provincial no aclaraba de forma taxativa qué sucedía cuando un vehículo avanzaba por la derecha desde una calle secundaria e intentaba incorporarse a una vía principal. ¿Qué cambia en las calles de Necochea y Quequén?"
+        ],
+        "generated": "2026-10-10T15:00:39.171339+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-10T15:00:00.698059+00:00"
+    },
+    {
       "key": "sucedera estacionamiento medido necochea lunes",
       "title": "Qué sucederá con el estacionamiento medido en Necochea este lunes",
-      "score": 1.152,
+      "score": 1.105,
       "sources_count": 1,
       "first_seen": "2026-10-10T14:00:51+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2024/08/23-05-FOTO-Estacionamiento-Medido-Centro-01.jpeg",
@@ -26,16 +55,219 @@
           "TSN Necochea | ‹ VOLVER | Generales | Estacionamiento | Centro Qué sucederá con el estacionamiento medido en Necochea este lunes Informaron lo que pasará con el SEM durante el feriado por el aniversario de la ciudad. Por Redacción TSN 10/10/2026 · 11:00 AM Agregar TSN Necochea en La Dirección General de Relaciones con la Comunidad de la Municipalidad de Necochea informó que este lunes 12 de octubre no estará en funcionamiento el servicio de Estacionamiento Medido en el centro de la ciudad , ni abrirá la oficina de atención al público.",
           "La medida se enmarca en la celebración del 145° aniversario de Necochea y el feriado por el Día de la Raza, de acuerdo con lo establecido por la Ordenanza Municipal N° 8951/16. La normativa dispone que el servicio funciona de lunes a sábados, de 9 a 21, excepto domingos, feriados y asuetos municipales."
         ],
-        "generated": "2026-10-10T14:31:12.381375+00:00"
+        "generated": "2026-10-10T15:01:16.903052+00:00"
+      },
+      "apariciones": 2,
+      "ultima_impresion": "2026-10-10T15:00:00.698059+00:00",
+      "penalizacion": 1.0
+    },
+    {
+      "key": "ejecutivo presento nuevo pliego licitacion colectivos 20 anos concesion minimo 16 unidades",
+      "title": "El Ejecutivo presentó el nuevo pliego para la licitación de colectivos: 20 años de concesión y un mínimo de 16 unidades",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-10T15:00:00.698059+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261009171546_colectivo-verde.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "El Ejecutivo presentó el nuevo pliego para la licitación de colectivos: 20 años de concesión y un mínimo de 16 unidades",
+          "url": "https://necocheadigital.com/nota/119854/el-ejecutivo-presento-el-nuevo-pliego-para-la-licitacion-de-colectivos-20-anos-de-concesion-y-un-minimo-de-16-unidades/",
+          "published_at": null,
+          "first_seen": "2026-10-10T15:00:00.698059+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El tratamiento del pliego para el transporte público urbano inició una etapa clave en el Concejo Deliberante tras la presentación formal efectuada por el Departamento Ejecutivo. El borrador delinea los parámetros operativos y contractuales con los que se busca adjudicar la prestación del servicio por dos décadas, e incluye la posibilidad de una prórroga adicional de seis años y ocho meses a criterio del municipio.",
+          "Entre los principales cambios operativos se destaca la reducción en la exigencia del parque móvil, que pasa de un máximo de 60 colectivos a un esquema acotado de entre 16 y 30 unidades, con capacidad mínima de 20 asientos. Respecto de las condiciones del parque automotor, el borrador remite a las normativas nacional y provincial, permitiendo colectivos con más de 10 años de antigüedad siempre que cuenten con la Verificación Técnica Vehicular (VTV) aprobada y que el promedio general de la flota no supere los 15 años."
+        ],
+        "generated": "2026-10-10T15:01:35.730562+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-10T14:30:01.250968+00:00"
+      "ultima_impresion": "2026-10-10T15:00:00.698059+00:00"
+    },
+    {
+      "key": "inoperancia corrupcion banco central perdio 023 millones dolares operaciones reservas oro",
+      "title": "¿Inoperancia o corrupción? El Banco Central perdió 1.023 millones de dólares en operaciones con reservas de oro",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-10T15:00:00.698059+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261009170950_whatsapp-image-2026-10-09-at-17-09-34.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "¿Inoperancia o corrupción? El Banco Central perdió 1.023 millones de dólares en operaciones con reservas de oro",
+          "url": "https://necocheadigital.com/nota/119853/inoperancia-o-corrupcion-el-banco-central-perdio-1-023-millones-de-dolares-en-operaciones-con-reservas-de-oro/",
+          "published_at": null,
+          "first_seen": "2026-10-10T15:00:00.698059+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Un informe de la Auditoría General de la Nación reveló que la entidad arriesgó reservas físicas en operaciones de derivados con pérdidas récord. Entre la justificación oficial de un \"error de cálculo\" y el hermetismo por el traslado del metal al exterior, el organismo de control analiza el rol de la conducción. El manejo de las reservas del Banco Central de la República Argentina (BCRA) quedó en el centro del debate tras la difusión de un informe de la Auditoría General de la Nación (AGN).",
+          "La revisión de los Estados Contables al 31 de diciembre de 2025 registró un resultado negativo de 1.023 millones de dólares (unos 1,5 billones de pesos) bajo la gestión de Santiago Bausili, generado por operaciones con instrumentos financieros derivados que expusieron el patrimonio de la entidad. La maniobra consistió en utilizar reservas físicas de oro como respaldo para realizar transacciones vinculadas a la evolución del precio internacional del metal."
+        ],
+        "generated": "2026-10-10T15:01:36.979621+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-10T15:00:00.698059+00:00"
+    },
+    {
+      "key": "retinografo brindara horario extendido venidero martes hospital irurzun",
+      "title": "El Retinógrafo brindará un horario extendido el venidero martes en el Hospital Irurzun",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-10T15:00:00.698059+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261009163813_21-09-foto-retinar-irurzun2.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "El Retinógrafo brindará un horario extendido el venidero martes en el Hospital Irurzun",
+          "url": "https://necocheadigital.com/nota/119851/el-retinografo-brindara-un-horario-extendido-el-venidero-martes-en-el-hospital-irurzun/",
+          "published_at": null,
+          "first_seen": "2026-10-10T15:00:00.698059+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La Municipalidad de Necochea recuerda que el retinógrafo público se encuentra disponible todos los lunes y martes, de 8 a 13, en el Hospital Municipal “José Irurzun” de Quequén . Además, este martes 13 se realizará un operativo con horario extendido, de 8 a 20 , para continuar acercando este servicio gratuito a la comunidad. La iniciativa forma parte del Programa Retinar, que se desarrolla de manera articulada entre la Secretaría de Salud municipal y el Ministerio de Salud de la Provincia de Buenos Aires, con el objetivo de detectar posibles alteraciones en la retina, especialmente en personas con diabetes.",
+          "El estudio es rápido, indoloro y demora menos de cinco minutos . No requiere una preparación compleja y permite evaluar el estado de la retina para contribuir a la detección temprana de posibles complicaciones visuales."
+        ],
+        "generated": "2026-10-10T15:01:38.193421+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-10T15:00:00.698059+00:00"
+    },
+    {
+      "key": "detuvieron quequen hombre pedido captura privacion ilegal libertad",
+      "title": "Detuvieron en Quequén a un hombre con pedido de captura por privación ilegal de la libertad",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-10T15:00:00.698059+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261009172333_whatsapp-image-2026-10-09-at-17-23-23.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Detuvieron en Quequén a un hombre con pedido de captura por privación ilegal de la libertad",
+          "url": "https://necocheadigital.com/nota/119855/detuvieron-en-quequen-a-un-hombre-con-pedido-de-captura-por-privacion-ilegal-de-la-libertad/",
+          "published_at": null,
+          "first_seen": "2026-10-10T15:00:00.698059+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Personal del Grupo Táctico Operativo (GTO) de la Comisaría Segunda de Necochea concretó la detención de un hombre de 25 años que registraba una orden de captura vigente por el delito de privación ilegal de la libertad calificada. La aprehensión se produjo en el marco de las tareas de patrullaje y prevención ciudadana desarrolladas en la localidad de Quequén. El procedimiento tuvo lugar en la intersección de las calles 574 y 525.",
+          "Durante una recorrida de rutina, los efectivos interceptaron al sujeto e ingresaron sus datos filiatorios en los sistemas informáticos policiales, confirmando la orden de detención activa dispuesta por el Juzgado en lo Correccional N.º 1 del Departamento Judicial Necochea. Tras la verificación de la medida judicial, los uniformados procedieron a la aprehensión del imputado sin que se registraran incidentes."
+        ],
+        "generated": "2026-10-10T15:01:38.897423+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-10T15:00:00.698059+00:00"
+    },
+    {
+      "key": "obras publicas licitacion escuela tecnica preocupacion estado calles lluvias",
+      "title": "Obras públicas: licitación para la Escuela Técnica Nº 2 y preocupación por el estado de las calles tras las lluvias",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-10T15:00:00.698059+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/3462f23ae1ba9473c88dd1a109a29f1941d220a8.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Obras públicas: licitación para la Escuela Técnica Nº 2 y preocupación por el estado de las calles tras las lluvias",
+          "url": "https://necocheadigital.com/nota/119846/obras-publicas-licitacion-para-la-escuela-tecnica-n-2-y-preocupacion-por-el-estado-de-las-calles-tras-las-lluvias/",
+          "published_at": null,
+          "first_seen": "2026-10-10T15:00:00.698059+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El intercambio de experiencias entre municipios, el avance de una obra largamente esperada y las complicaciones que provoca el clima en la red vial fueron algunos de los temas abordados por el subsecretario de Obras Públicas de la Municipalidad de Necochea, arquitecto Lisandro Dones. El funcionario fue entrevistado el miércoles 7 de octubre en el programa “Voces de la Tarde” , que conduce Jorge Gómez por Radio Noticias Necochea , donde repasó distintos aspectos vinculados con la gestión de infraestructura en el distrito.",
+          "Experiencias de gestión entre municipios Dones se refirió inicialmente al encuentro de secretarios y subsecretarios de Obras Públicas de distintos municipios bonaerenses, realizado en el partido de Malvinas Argentinas. Durante la jornada, las distintas administraciones expusieron proyectos, problemáticas y alternativas implementadas en sus respectivos distritos."
+        ],
+        "generated": "2026-10-10T15:01:40.126525+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-10T15:00:00.698059+00:00"
+    },
+    {
+      "key": "llaman concurso incorporar guardavidas plantel municipal cara temporada",
+      "title": "Llaman a concurso para incorporar guardavidas al plantel municipal de cara a la temporada",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-10T15:00:00.698059+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261008165601_13-03-foto-archivo-guardavidas.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Llaman a concurso para incorporar guardavidas al plantel municipal de cara a la temporada",
+          "url": "https://necocheadigital.com/nota/119837/llaman-a-concurso-para-incorporar-guardavidas-al-plantel-municipal-de-cara-a-la-temporada/",
+          "published_at": null,
+          "first_seen": "2026-10-10T15:00:00.698059+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "A través de un decreto firmado por el intendente Arturo Rojas y el secretario de Gobierno, Jorge Martínez, la Municipalidad de Necochea lanza un llamado a Concurso para aquellos postulantes que quieran incorporarse al plantel mensualizado de Guardavidas para la próxima temporada 2026/27 .",
+          "El ingreso por concurso se establece para postulantes entre los primeros 150 inscriptos en el orden de mérito de la Bolsa de Trabajo de la Asociación de Guardavidas Necochea Quequén , teniendo en consideración, además del puntaje inicial que registren en ese reglamento, un puntaje extra adicional por la realización de diferentes pruebas a efectos del ingreso de cada uno de los años en que se realice el concurso, según dispone en este caso la Ordenanza 11759/25."
+        ],
+        "generated": "2026-10-10T15:01:40.806117+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-10T15:00:00.698059+00:00"
+    },
+    {
+      "key": "julia strada necochea argentina convirtiendo galpon importados",
+      "title": "Julia Strada en Necochea: \"Argentina se está convirtiendo en un galpón de importados\"",
+      "score": 1.0,
+      "sources_count": 1,
+      "first_seen": "2026-10-10T17:37:50+00:00",
+      "image": "https://res.cloudinary.com/dsugba4yh/image/upload/v1791643661/julia_em5cwq.png",
+      "articles": [
+        {
+          "portal": "Informate Necochea",
+          "title": "Julia Strada en Necochea: \"Argentina se está convirtiendo en un galpón de importados\"",
+          "url": "https://informatenecochea.com/noticia/julia-strada-en-necochea-argentina-se-esta-convirtiendo-en-un-galpon-de-importados",
+          "published_at": "2026-10-10T17:37:50+00:00",
+          "first_seen": "2026-10-10T15:00:00.698059+00:00",
+          "category": "Local",
+          "image": "https://res.cloudinary.com/dsugba4yh/image/upload/v1791643661/julia_em5cwq.png"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Inicio / Local Local Julia Strada en Necochea: \"Argentina se está convirtiendo en un galpón de importados\" La economista y diputada nacional por Fuerza Patria, Julia Strada, encabezó una charla abierta en el Centro Cultural de Necochea bajo el título \"¿Orden macro o tierra arrasada?\", donde cuestionó severamente la orientación del modelo económico impulsado por el Gobierno nacional y advirtió sobre la destrucción del entramado fabril.",
+          "Redacción sábado, 10 de octubre de 2026 · 8 lecturas Durante su paso por la ciudad —que incluyó reuniones con dirigentes del radicalismo alfonsinista, visitas a escuelas técnicas y a la cooperativa Engraucoop—, la legisladora sostuvo que el supuesto equilibrio macroeconómico se sostiene sobre un escenario micro devastado por el endeudamiento familiar, la pérdida de poder adquisitivo y el cierre definitivo de industrias locales."
+        ],
+        "generated": "2026-10-10T15:02:39.696582+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-10T15:00:00.698059+00:00"
     },
     {
       "key": "quequen mira medios nacionales tn destaco propuesta voluntariado frente mar",
       "title": "Quequén en la mira de los medios nacionales: TN destacó la propuesta de voluntariado frente al mar",
-      "score": 1.14,
+      "score": 0.602,
       "sources_count": 1,
       "first_seen": "2026-10-10T13:53:17+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/Monte-pasubio-1.avif",
@@ -55,190 +287,16 @@
           "TSN Necochea | ‹ VOLVER | Generales | playas | Turismo Quequén en la mira de los medios nacionales: TN destacó la propuesta de voluntariado frente al mar Un conocido complejo del frente marítimo ofrece hospedaje a cambio de tareas en recepción. La iniciativa fue portada en el portal nacional y refleja la atracción de nuestras playas para el turismo joven. Por Redacción TSN 10/10/2026 · 10:53 AM Además de alojamiento gratuito, los voluntarios tendrán dos días libres para recorrer la zona.",
           "(Foto: Monte Pasubio) Agregar TSN Necochea en La trascendencia y el atractivo de las playas del distrito volvieron a hacer eco en la prensa nacional. En las últimas horas, el sitio de noticias TN dedicó una nota de color a una propuesta de turismo colaborativo que se desarrolla en el frente marítimo de Quequén , destacando al destino como una de las alternativas más elegidas de la Costa Atlántica para combinar viaje y trabajo a bajo costo ."
         ],
-        "generated": "2026-10-10T14:31:49.981239+00:00"
+        "generated": "2026-10-10T15:02:00.211624+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-10-10T14:30:01.250968+00:00",
-      "penalizacion": 1.0
-    },
-    {
-      "key": "causa maradona pidieron doce anos luque diez forlini ocho cosachov",
-      "title": "Causa Maradona: pidieron doce años para Luque, diez para Forlini y ocho para Cosachov",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-10T14:30:01.250968+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261009165155_luque-forlini-y-cosachov-maradona-1200x675.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Causa Maradona: pidieron doce años para Luque, diez para Forlini y ocho para Cosachov",
-          "url": "https://necocheadigital.com/nota/119852/causa-maradona-pidieron-doce-anos-para-luque-diez-para-forlini-y-ocho-para-cosachov/",
-          "published_at": null,
-          "first_seen": "2026-10-10T14:30:01.250968+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Los fiscales Patricio Ferrari y Cosme Iribarren pidieron 12 años de cárcel para el neurocirujano Leopoldo Luque durante los alegatos en el juicio por la muerte de Diego Maradona. También solicitaron 10 años para la coordinadora de Swiss Medical, Nancy Forlini, y 8 años para la psiquiatra Agustina Cosachov. Gestión judicial Por su parte, pidieron cinco años de prisión para Carlos Díaz y la inhabilitación para ejercer por 10 años su actividad profesional. Para Ricardo Almirón y Mariano Perroni, solicitaron cuarto años de prisión, con inhabilitación de 8 años para ejercer su profesión.",
-          "Además, adelantaron que no presentarán cargos contra Pedro Di Spagna, el médico clínico que atendió al exfutbolista. “Es el único que hizo lo que tenía que hacer. Di Spagna no tiene responsabilidad penal en el caso."
-        ],
-        "generated": "2026-10-10T14:32:27.564340+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-10T14:30:01.250968+00:00"
-    },
-    {
-      "key": "escuela cumple 132 anos abre puertas celebrar junto toda comunidad",
-      "title": "La Escuela N° 4 cumple 132 años y abre sus puertas para celebrar junto a toda la comunidad",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-10T14:30:01.250968+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/9d7ce7480024a400a50527e5fd30241a45812dc5.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "La Escuela N° 4 cumple 132 años y abre sus puertas para celebrar junto a toda la comunidad",
-          "url": "https://necocheadigital.com/nota/119844/la-escuela-n-deg-4-cumple-132-anos-y-abre-sus-puertas-para-celebrar-junto-a-toda-la-comunidad/",
-          "published_at": null,
-          "first_seen": "2026-10-10T14:30:01.250968+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La Escuela Primaria N° 4 “Manuel y José Mariño” de Necochea se prepara para celebrar sus 132 años de trayectoria con una jornada que combinará música, folclore, encuentros y recuerdos. La celebración se realizará este viernes 9 de octubre desde las 17 , en el salón de usos múltiples del establecimiento, ubicado en calle 69, y tendrá como protagonistas a integrantes de la comunidad educativa, exalumnos, familias y vecinos.",
-          "La directora María de los Ángeles Elía invitó a quienes hayan formado parte de la institución a acercarse y compartir el aniversario. “Las puertas de la escuela están siempre abiertas, así que esta es una linda oportunidad para compartir”, señaló durante una entrevista con el programa Voces de la Tarde que conduce Jorge Gómez por Radio Noticias Necochea.."
-        ],
-        "generated": "2026-10-10T14:32:28.852900+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-10T14:30:01.250968+00:00"
-    },
-    {
-      "key": "municipio prepara nuevo intento licitar transporte urbano necochea",
-      "title": "El Municipio prepara un nuevo intento para licitar el transporte urbano de Necochea",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-10T14:30:01.250968+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261009061928_17-03-foto-micros-azules-6.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "El Municipio prepara un nuevo intento para licitar el transporte urbano de Necochea",
-          "url": "https://necocheadigital.com/nota/119845/el-municipio-prepara-un-nuevo-intento-para-licitar-el-transporte-urbano-de-necochea/",
-          "published_at": null,
-          "first_seen": "2026-10-10T14:30:01.250968+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El Ejecutivo municipal de Necochea volverá a intentar avanzar con la licitación del transporte urbano de pasajeros. Este viernes 9 de octubre, a las 11, presentará ante la Comisión de Transporte del Concejo Deliberante un nuevo borrador del pliego, que incorpora modificaciones respecto de las convocatorias anteriores. La información fue confirmada por Silvina Jensen , presidenta del bloque de concejales de Nueva Necochea, durante una entrevista realizada en el programa Voces de la Tarde , que conduce Jorge Gómez por Radio Noticias Necochea .",
-          "La propuesta fue elaborada por el área municipal encabezada por Facundo Croci y, según explicó Jensen, todavía resta una última revisión de la Secretaría de Legales. Las modificaciones planteadas serían principalmente de carácter técnico y buscarían mejorar las posibilidades de que la nueva convocatoria resulte atractiva para las empresas."
-        ],
-        "generated": "2026-10-10T14:32:29.580031+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-10T14:30:01.250968+00:00"
-    },
-    {
-      "key": "ley prohibicion uso celulares escuelas bonaerenses",
-      "title": "Ya es Ley la prohibición del uso de celulares en las escuelas bonaerenses",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-10T14:30:01.250968+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261008170448_cipolletti-uso-de-celulares-en-las-aulas-colegio-estudiantes-salto-2-e1728752625705.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Ya es Ley la prohibición del uso de celulares en las escuelas bonaerenses",
-          "url": "https://necocheadigital.com/nota/119839/ya-es-ley-la-prohibicion-del-uso-de-celulares-en-las-escuelas-bonaerenses/",
-          "published_at": null,
-          "first_seen": "2026-10-10T14:30:01.250968+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Los alumnos de las escuelas secundarias de toda la provincia de Buenos Aires ya no podrán utilizar teléfonos celulares durante la jornada escolar, según dispone una nueva ley sancionada por la Legislatura bonaerense. Tras varios meses de debate parlamentario y discusión pública, el Senado convirtió en ley el proyecto presentado originalmente por el diputado Martín Rozas (Unión y Libertad), el cual ya contaba con la aprobación previa de la Cámara baja.",
-          "La nueva normativa no establece una prohibición absoluta: los estudiantes únicamente estarán habilitados a usar sus dispositivos si cuentan con la autorización explícita del docente a cargo y siempre que sea dentro del marco de una actividad con fines estrictamente pedagógicos."
-        ],
-        "generated": "2026-10-10T14:32:30.320031+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-10T14:30:01.250968+00:00"
-    },
-    {
-      "key": "concejo deliberante debate proyectos seguridad claraz regulacion ruidos molestos canos escape",
-      "title": "El Concejo Deliberante debate proyectos sobre seguridad en Claraz y la regulación de ruidos molestos por caños de escape",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-10T14:30:01.250968+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261008172212_whatsapp-image-2026-10-08-at-17-22-01.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "El Concejo Deliberante debate proyectos sobre seguridad en Claraz y la regulación de ruidos molestos por caños de escape",
-          "url": "https://necocheadigital.com/nota/119842/el-concejo-deliberante-debate-proyectos-sobre-seguridad-en-claraz-y-la-regulacion-de-ruidos-molestos-por-canos-de-escape/",
-          "published_at": null,
-          "first_seen": "2026-10-10T14:30:01.250968+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "En el marco de la Comisión de Seguridad del Concejo Deliberante, presidida por la concejal María José Hegui, se abordaron dos iniciativas clave vinculadas a la seguridad ciudadana y el control del espacio público en el distrito: el refuerzo de la presencia policial en el interior del municipio y un proyecto de ordenanza para endurecer las sanciones contra los vehículos que generan contaminación acústica.",
-          "Avances para instalar una posta policial en Claraz y Balneario Los Ángeles Durante la comisión, a la que asistieron el secretario de Gobierno, Jorge Martínez, y autoridades de educación, se evaluó la situación en Claraz tras un hecho delictivo en el que una persona ingresó armada a una escuela local, generando alarma en la comunidad educativa."
-        ],
-        "generated": "2026-10-10T14:32:31.597164+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-10T14:30:01.250968+00:00"
-    },
-    {
-      "key": "liga necochea villa diaz velez recupero liderazgo vibrante ilumino tarde lluviosa quequen",
-      "title": "Liga Necochea: Villa Díaz Vélez recuperó el liderazgo y un vibrante 4-4 iluminó la tarde lluviosa en Quequén",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-10T14:30:01.250968+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261008171322_whatsapp-image-2026-10-08-at-17-12-06.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Liga Necochea: Villa Díaz Vélez recuperó el liderazgo y un vibrante 4-4 iluminó la tarde lluviosa en Quequén",
-          "url": "https://necocheadigital.com/nota/119840/liga-necochea-villa-diaz-velez-recupero-el-liderazgo-y-un-vibrante-4-4-ilumino-la-tarde-lluviosa-en-quequen/",
-          "published_at": null,
-          "first_seen": "2026-10-10T14:30:01.250968+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "En el Estadio Juan Bautista Marlats, Villa Díaz Vélez logró una victoria clave por 3-2 frente a Independiente de San Cayetano que le permitió arrebatarle el liderazgo del grupo. El \"Naranja\" comenzó ganando 2-0 con goles de Lautaro Ruiz Martínez y Benjamín Vallejo, pero el \"Chimango\" logró reaccionar y emparejar las acciones a los 40' del segundo tiempo mediante los tantos de Bautista Pérez y Nahuel Arce. Sin embargo, cerca del final, Tomás Moro apareció para sellar el 3-2 definitivo que le devolvió la cima a la visita.",
-          "En el estadio de Ministerio se vivió un partido inolvidable. El conjunto local dominó la primera mitad y se fue al descanso arriba por 4-1 gracias a los goles de Agustín Bolado, Franco Mendoza, Pablo Larrea y Néstor Benítez. En el complemento, Mataderos reaccionó de manera espectacular y logró empatar 4-4 con un doblete de Ezequiel Cérica, un tanto de Benjamín Vargas y un gol en contra (atribuido a Miguel Iragüen)."
-        ],
-        "generated": "2026-10-10T14:32:32.299456+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-10T14:30:01.250968+00:00"
+      "apariciones": 3,
+      "ultima_impresion": "2026-10-10T15:00:00.698059+00:00",
+      "penalizacion": 0.55
     },
     {
       "key": "intendente reunio integrantes camuzzi proyectos ampliar red gas",
       "title": "El Municipio y Camuzzi analizaron proyectos de ampliación de la red de gas",
-      "score": 0.681,
+      "score": 0.359,
       "sources_count": 2,
       "first_seen": "2026-10-10T11:33:48+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/09-10-FOTO-Rojas-Camuzzi.webp",
@@ -267,16 +325,16 @@
           "TSN Necochea | ‹ VOLVER | Generales | camuzzi | Necochea El Municipio y Camuzzi analizaron proyectos de ampliación de la red de gas El encuentro permitió avanzar en conversaciones preliminares sobre la ampliación de redes y nuevos proyectos de infraestructura para distintos sectores de Necochea y Quequén. Por Redacción TSN 10/10/2026 · 08:33 AM Agregar TSN Necochea en El intendente Arturo Rojas recibió en su despacho a representantes de Camuzzi Gas Pampeana , en el marco de las gestiones que impulsa el Municipio para evaluar futuras obras de infraestructura y ampliar la cobertura del servicio de gas en el distrito.",
           "Del encuentro participaron también el secretario de Planeamiento, Obras y Servicios Públicos, Adrián Furno, y el subsecretario de Obras Públicas, Lisandro Dones ."
         ],
-        "generated": "2026-10-10T14:30:34.655241+00:00"
+        "generated": "2026-10-10T15:00:37.863680+00:00"
       },
-      "apariciones": 4,
-      "ultima_impresion": "2026-10-10T14:30:01.250968+00:00",
-      "penalizacion": 0.303
+      "apariciones": 5,
+      "ultima_impresion": "2026-10-10T15:00:00.698059+00:00",
+      "penalizacion": 0.166
     },
     {
       "key": "continua sabado pleno liga nacional femenina cestobol ciudad",
       "title": "Continúa este sábado a pleno la Liga Nacional Femenina de Cestobol en la ciudad",
-      "score": 0.575,
+      "score": 0.303,
       "sources_count": 1,
       "first_seen": "2026-10-10T12:50:16+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/Screenshot_20261010_0934372.webp",
@@ -296,16 +354,16 @@
           "TSN Necochea | ‹ VOLVER | Deportes | Centro Vasco | Deporte Continúa este sábado a pleno la Liga Nacional Femenina de Cestobol en la ciudad Con el cuadro de cuartos de final, se desarrolla la tercera jornada de competencias. Por Redacción TSN 10/10/2026 · 09:50 AM Primera División de Centro Vasco de Necochea. Agregar TSN Necochea en Necochea respira cestobol a pleno en este fin de semana largo con la Liga Nacional femenina de Primera División , con acción desde el pasado jueves hasta el venidero lunes 12 de octubre en diferentes escenarios de la ciudad.",
           "En la jornada de este sábado, desde temprano se juegan partidos por cuartos de final para posicionarse del 9° al 16° puesto, mientras que por la tarde se jugarán los encuentros del 1° al 8°. Toda la transmisión se puede seguir por el canal de YouTube Cestoball Argentina."
         ],
-        "generated": "2026-10-10T14:32:33.629241+00:00"
+        "generated": "2026-10-10T15:02:37.909267+00:00"
       },
-      "apariciones": 3,
-      "ultima_impresion": "2026-10-10T14:30:01.250968+00:00",
-      "penalizacion": 0.55
+      "apariciones": 4,
+      "ultima_impresion": "2026-10-10T15:00:00.698059+00:00",
+      "penalizacion": 0.302
     },
     {
       "key": "escondidos inodoro hallan 200 millones oro allanamientos",
       "title": "Escondidos en un inodoro: hallan más de $1.200 millones en oro durante allanamientos",
-      "score": 0.546,
+      "score": 0.288,
       "sources_count": 1,
       "first_seen": "2026-10-10T12:12:45+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/IMG-20261009-WA0004.webp",
@@ -325,45 +383,16 @@
           "TSN Necochea | ‹ VOLVER | Nación | allanamiento | Prefectura Escondidos en un inodoro: hallan más de $1.200 millones en oro durante allanamientos El operativo lo llevó a cabo Inteligencia Criminal de Prefectura en Santa Cruz. Incautaron cuatro lingotes de más de dos kilos y medio, un vehículo y elementos de prueba. Por Redacción TSN 10/10/2026 · 09:12 AM Agregar TSN Necochea en ​Efectivos de la Prefectura Naval Argentina secuestraron un millonario botín compuesto por lingotes de oro, un vehículo y teléfonos celulares tras realizar dos allanamientos en la ciudad de Caleta Olivia, provincia de Santa Cruz .",
           "El valor total de lo incautado supera los 1.200 millones de pesos . This browser does not support the video element. ​El hallazgo principal ocurrió en el primer domicilio inspeccionado: ocultos dentro del depósito de agua del inodoro de un baño en desuso, los agentes encontraron cuatro lingotes de oro con un peso superior a los 2,5 kilos ."
         ],
-        "generated": "2026-10-10T14:32:34.859342+00:00"
+        "generated": "2026-10-10T15:02:40.980442+00:00"
       },
-      "apariciones": 3,
-      "ultima_impresion": "2026-10-10T14:30:01.250968+00:00",
-      "penalizacion": 0.55
-    },
-    {
-      "key": "liga comunico como sera actividad futbolistica fin semana",
-      "title": "La Liga comunicó cómo será la actividad futbolística del fin de semana",
-      "score": 0.532,
-      "sources_count": 1,
-      "first_seen": "2026-10-10T11:55:09+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2023/09/20220820120727_futbol-pelota-cancha-mataderos-2.jpg",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "La Liga comunicó cómo será la actividad futbolística del fin de semana",
-          "url": "https://tsnnecochea.com.ar/deportes/la-liga-comunico-como-sera-la-actividad-futbolistica-del-fin-de-semana-239306/",
-          "published_at": "2026-10-10T11:55:09+00:00",
-          "first_seen": "2026-10-10T13:33:04.767606+00:00",
-          "category": "futbol",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2023/09/20220820120727_futbol-pelota-cancha-mataderos-2.jpg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Deportes | futbol | Fútbol local La Liga comunicó cómo será la actividad futbolística del fin de semana El clima obliga a hacer algunas modificaciones en la programación. Por Redacción TSN 10/10/2026 · 08:55 AM Agregar TSN Necochea en La Liga Necochea de Fútbol informó este sábado por la mañana que, tras las inspecciones realizadas en los campos de juego de los clubes que actuarán como locales, la Mesa Directiva ha determinado que la actividad programada para este fin de semana se desarrollará con normalidad, salvo los siguientes encuentros, que quedan suspendidos: Fútbol Infanto Juvenil – Independiente de Lobería vs. Fútbol Femenino – Independiente de San Cayetano vs.",
-          "El resto de los encuentros se disputará en los días y horarios establecidos. La reprogramación de los partidos suspendidos será comunicada oportunamente."
-        ],
-        "generated": "2026-10-10T14:32:36.126566+00:00"
-      },
-      "apariciones": 3,
-      "ultima_impresion": "2026-10-10T14:30:01.250968+00:00",
-      "penalizacion": 0.55
+      "apariciones": 4,
+      "ultima_impresion": "2026-10-10T15:00:00.698059+00:00",
+      "penalizacion": 0.302
     },
     {
       "key": "liga necochea futbol confirmo actividad fin semana tres partidos suspendidos",
       "title": "La Liga Necochea de Fútbol confirmó la actividad del fin de semana: tres partidos suspendidos",
-      "score": 0.04,
+      "score": 0.021,
       "sources_count": 1,
       "first_seen": "2026-10-10T11:51:53+00:00",
       "image": null,
@@ -383,11 +412,11 @@
           "La Liga Necochea de Fútbol informa que, tras las inspecciones realizadas en los campos de juego de los clubes que actuarán como locales, la Mesa Directiva ha determinado que la actividad programada para este fin de semana se desarrollará con normalidad, salvo los siguientes encuentros, que quedan suspendidos: Fútbol Infanto Juvenil Independiente de Lobería vs. Fútbol Femenino Independiente de San Cayetano vs.",
           "El resto de los encuentros se disputará en los días y horarios establecidos. La reprogramación de los partidos suspendidos será comunicada oportunamente."
         ],
-        "generated": "2026-10-10T14:32:40.130185+00:00"
+        "generated": "2026-10-10T15:02:43.866109+00:00"
       },
-      "apariciones": 7,
-      "ultima_impresion": "2026-10-10T14:30:01.250968+00:00",
-      "penalizacion": 0.05
+      "apariciones": 8,
+      "ultima_impresion": "2026-10-10T15:00:00.698059+00:00",
+      "penalizacion": 0.028
     },
     {
       "key": "municipalidad informo servicio retinografo brindara martes 13 20 horas",
@@ -412,10 +441,10 @@
           "Locales Política Regionales LA MUNICIPALIDAD INFORMÒ QUE EL SERVICIO DEL RETINÒGRAFO SE BRINDARÀ EL MARTES 13 DE 8 A 20 HORAS. Por admin - 9 octubre, 2026 0 2 Facebook Twitter Pinterest WhatsApp Necochea.- El Retinógrafo brindará un horario extendido el próximo martes en el Hospital Irurzun. El servicio gratuito funciona habitualmente los lunes y martes, de 8 a 13 horas y este martes 13 atenderá de 8 a 20 para facilitar el acceso de más vecinos al estudio.",
           "La Municipalidad de Necochea recuerda que el retinógrafo público està disponible todos los lunes y martes, de 8 a 13 horas, en el Hospital Municipal “José Irurzun” de Quequén . Además, este martes 13 se realizará un operativo con horario extendido, de 8 a 20 horas , para continuar acercando este servicio gratuito a la comunidad."
         ],
-        "generated": "2026-10-10T14:32:44.408452+00:00"
+        "generated": "2026-10-10T15:02:49.336133+00:00"
       },
-      "apariciones": 34,
-      "ultima_impresion": "2026-10-10T14:30:01.250968+00:00",
+      "apariciones": 35,
+      "ultima_impresion": "2026-10-10T15:00:00.698059+00:00",
       "penalizacion": 0.0
     },
     {
@@ -441,10 +470,10 @@
           "Locales Nacionales Política LA CORTE SUPREMA DE JUSTICIA PUSO EN VIGENCIA DE NUEVO LA LEY DE TIERRAS. Por admin - 9 octubre, 2026 0 5 Facebook Twitter Pinterest WhatsApp Caba .- La Corte suspendió la derogación de la Ley de Tierras y ordenó que la causa siga en Bariloche. Fue con una mayoría integrada por Rosatti, Lorenzetti y los conjueces Barroetaveña y Pérez Curci. Fuerte voto en disidencia de Carlos Rosenkrantz.",
           "La Corte Suprema de Justicia volvió a poner en vigencia este viernes la Ley de Tierras. Fue en el marco de un acuerdo extraordinario convocado el jueves a la tarde y gracias al voto de los cortesanos Horacio Rosatti, Ricardo Lorenzetti, los conjueces Diego Barroetaveña y Juan Ignacio Pérez Curci. Carlos Rosenkrantz, por su parte, votó en disidencia."
         ],
-        "generated": "2026-10-10T14:32:45.186755+00:00"
+        "generated": "2026-10-10T15:02:50.103710+00:00"
       },
-      "apariciones": 37,
-      "ultima_impresion": "2026-10-10T14:30:01.250968+00:00",
+      "apariciones": 38,
+      "ultima_impresion": "2026-10-10T15:00:00.698059+00:00",
       "penalizacion": 0.0
     },
     {
@@ -468,12 +497,12 @@
       "summary": {
         "paragraphs": [
           "Inicio / Nacional Nacional ¿Argentina cara o barata en dólares?: la lupa sobre los precios locales frente a la región Un reciente relevamiento del *Índice Mensual de Precios Relativos de Fundar* analizó la competitividad de los precios locales medidos en moneda estadounidense respecto a América Latina y el mundo. Tras un período de siete meses consecutivos de encarecimiento en dólares —acumulando una suba del 24% entre octubre de 2025 y mayo de 2026—, el país registró en junio y julio una leve corrección a la baja del 2,1% acumulado, ubicando a la Argentina un 1,7% por debajo del promedio regional.",
-          "Redacción viernes, 9 de octubre de 2026 · 109 lecturas Sin embargo, las proyecciones para agosto marcan una nueva aceleración del costo de vida en dólares debido a una inflación en pesos (1,7%) que volvió a superar la pauta del tipo de cambio oficial (1%). La radiografía regional: ¿en qué puesto queda el país?"
+          "Redacción viernes, 9 de octubre de 2026 · 115 lecturas Sin embargo, las proyecciones para agosto marcan una nueva aceleración del costo de vida en dólares debido a una inflación en pesos (1,7%) que volvió a superar la pauta del tipo de cambio oficial (1%). La radiografía regional: ¿en qué puesto queda el país?"
         ],
-        "generated": "2026-10-10T14:32:46.721160+00:00"
+        "generated": "2026-10-10T15:02:52.917332+00:00"
       },
-      "apariciones": 47,
-      "ultima_impresion": "2026-10-10T14:30:01.250968+00:00",
+      "apariciones": 48,
+      "ultima_impresion": "2026-10-10T15:00:00.698059+00:00",
       "penalizacion": 0.0
     },
     {
@@ -496,13 +525,13 @@
       ],
       "summary": {
         "paragraphs": [
-          "Inicio / Nacional Nacional Cumbre en Olivos tras la tensión: Milei y Bullrich se reunieron para limar asperezas En un intento por ordenar la interna oficialista, el presidente Javier Milei y la senadora Patricia Bullrich encabezaron un extenso desayuno de trabajo en la Quinta de Olivos. El encuentro, que se extendió por más de dos horas, buscó encauzar la relación política luego de una seguidilla de desencuentros y críticas públicas por parte de la jefa del bloque de La Libertad Avanza en el Senado. Redacción viernes, 9 de octubre de 2026 · 121 lecturas \"Conversación profunda con el Presidente.",
+          "Inicio / Nacional Nacional Cumbre en Olivos tras la tensión: Milei y Bullrich se reunieron para limar asperezas En un intento por ordenar la interna oficialista, el presidente Javier Milei y la senadora Patricia Bullrich encabezaron un extenso desayuno de trabajo en la Quinta de Olivos. El encuentro, que se extendió por más de dos horas, buscó encauzar la relación política luego de una seguidilla de desencuentros y críticas públicas por parte de la jefa del bloque de La Libertad Avanza en el Senado. Redacción viernes, 9 de octubre de 2026 · 124 lecturas \"Conversación profunda con el Presidente.",
           "Hablamos de todo lo que vengo planteando, con total sinceridad\", publicó la legisladora en sus redes sociales al finalizar la reunión. Por su parte, el mandatario nacional compartió una postal del encuentro acompañada por un conciso mensaje: \"Desayuno de trabajo con Patricia Bullrich en Olivos para hablar de todos los temas a fondo: MAGA\"."
         ],
-        "generated": "2026-10-10T14:32:48.147662+00:00"
+        "generated": "2026-10-10T15:02:54.764215+00:00"
       },
-      "apariciones": 48,
-      "ultima_impresion": "2026-10-10T14:30:01.250968+00:00",
+      "apariciones": 49,
+      "ultima_impresion": "2026-10-10T15:00:00.698059+00:00",
       "penalizacion": 0.0
     },
     {
@@ -528,10 +557,10 @@
           "En su habitual columna, la sommelier de té compartió alternativas para disfrutar esta infusión de una manera diferente, con y sin alcohol. Desde un gin tonic con hielo de té hasta bebidas naturales para los chicos, invitó a explorar las posibilidades de una bebida que va mucho más allá de la tradicional taza caliente. ¿Quién dijo que el té solamente se toma caliente y a la hora de la merienda?",
           "En una nueva edición de su columna, Anabela Sironi, especialista y sommelier de té, sorprendió con una propuesta que combinó aromas, sabores y creatividad: tragos preparados con té, ideales para compartir durante los días de calor, en la playa o en una reunión con amigos. La mesa se convirtió en una pequeña barra de degustación. Entre jugo natural de naranja, hielo, infusiones y gin, Anabela mostró cómo incorporar el té a diferentes bebidas y aprovechar la variedad de perfiles aromáticos que ofrecen sus hebras y blends."
         ],
-        "generated": "2026-10-10T14:32:51.112682+00:00"
+        "generated": "2026-10-10T15:02:57.634674+00:00"
       },
-      "apariciones": 48,
-      "ultima_impresion": "2026-10-10T14:30:01.250968+00:00",
+      "apariciones": 49,
+      "ultima_impresion": "2026-10-10T15:00:00.698059+00:00",
       "penalizacion": 0.0
     },
     {
@@ -557,39 +586,10 @@
           "La licenciada en Psicopedagogía trabaja en un proyecto que busca impulsar la incorporación de esta disciplina en los Centros de Atención Primaria de la Salud (CAPS) de Necochea. Destacó que los problemas de aprendizaje atraviesan todas las etapas de la vida y que el abordaje psicopedagógico no debe limitarse al ámbito escolar.",
           "La incorporación de la psicopedagogía en los centros de salud es una de las propuestas que busca instalar la licenciada Águeda Barroso, quien se encuentra trabajando en un proyecto para visibilizar el rol de esta disciplina dentro del sistema sanitario y analizar sus posibles aportes en los Centros de Atención Primaria de la Salud (CAPS) de Necochea. Durante una entrevista radial, la profesional explicó que actualmente está elaborando una iniciativa centrada en la importancia de contar con psicopedagogos en estos espacios, a los que considera una puerta de entrada al sistema de salud."
         ],
-        "generated": "2026-10-10T14:32:54.287711+00:00"
-      },
-      "apariciones": 50,
-      "ultima_impresion": "2026-10-10T14:30:01.250968+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "nancy guelfi vida dedicada educacion fisica deporte pasion ensenar",
-      "title": "Nancy Guelfi: una vida dedicada a la educación física, el deporte y la pasión por enseñar",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-10-09T16:56:55+00:00",
-      "image": null,
-      "articles": [
-        {
-          "portal": "Diario NQ",
-          "title": "Nancy Guelfi: una vida dedicada a la educación física, el deporte y la pasión por enseñar",
-          "url": "https://diarionq.com.ar/nancy-guelfi-una-vida-dedicada-a-la-educacion-fisica-el-deporte-y-la-pasion-por-ensenar/",
-          "published_at": "2026-10-09T16:56:55+00:00",
-          "first_seen": "2026-10-09T17:00:00.823734+00:00",
-          "category": "Deportes",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "En el Día del Profesor de Educación Física, la reconocida docente de Necochea repasó su trayectoria, recordó a quienes marcaron su camino y compartió su experiencia en las escuelas, la actividad municipal y el ámbito privado. Aunque se jubiló hace dos años de la actividad formal, continúa trabajando con propuestas que disfruta y que forman parte de su vida. Cada 8 de octubre se celebra el Día del Profesor de Educación Física, una fecha que invita a reconocer el trabajo de quienes promueven el deporte, el movimiento y los hábitos saludables.",
-          "En ese marco, la profesora Nancy Guelfi, una referente de la disciplina en Necochea, compartió una charla en Zoom El Deportivo, donde repasó una historia atravesada por la vocación, el aprendizaje y el vínculo con sus alumnos. Su pasión por el deporte nació durante la infancia, cuando acompañaba a su padre a la cancha para ver partidos de fútbol."
-        ],
-        "generated": "2026-10-10T14:32:57.016366+00:00"
+        "generated": "2026-10-10T15:03:00.594186+00:00"
       },
       "apariciones": 51,
-      "ultima_impresion": "2026-10-10T14:30:01.250968+00:00",
+      "ultima_impresion": "2026-10-10T15:00:00.698059+00:00",
       "penalizacion": 0.0
     }
   ]
