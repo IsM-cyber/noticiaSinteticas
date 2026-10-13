@@ -1,12 +1,369 @@
 {
-  "generated_at": "2026-10-12T21:00:00.794891+00:00",
-  "article_count": 115,
+  "generated_at": "2026-10-13T01:59:12.770549+00:00",
+  "article_count": 135,
   "fetch_errors": [],
   "stories": [
     {
+      "key": "motociclista sufrio heridas chocar auto",
+      "title": "Un motociclista sufrió heridas tras chocar contra un auto",
+      "score": 2.187,
+      "sources_count": 2,
+      "first_seen": "2026-10-12T22:11:33+00:00",
+      "image": "https://cdnartic.ar/OjuQ-PeGnUEVHCmGPLz-nHKAXJw=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/10/accidente_en_la_avenida_75_con_un_motociclista_herido_1.webp",
+      "articles": [
+        {
+          "portal": "Ecos Diarios",
+          "title": "Un motociclista sufrió heridas tras chocar contra un auto",
+          "url": "https://elecos.com.ar/un-motociclista-sufrio-heridas-tras-chocar-contra-un-auto",
+          "published_at": "2026-10-12T22:11:33+00:00",
+          "first_seen": "2026-10-13T01:59:12.770549+00:00",
+          "category": "13",
+          "image": "https://cdnartic.ar/OjuQ-PeGnUEVHCmGPLz-nHKAXJw=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/10/accidente_en_la_avenida_75_con_un_motociclista_herido_1.webp"
+        },
+        {
+          "portal": "Necochea Digital",
+          "title": "Un motociclista resultó hospitalizado tras chocar contra un auto en Quequén",
+          "url": "https://necocheadigital.com/nota/119827/un-motociclista-resulto-hospitalizado-tras-chocar-contra-un-auto-en-quequen/",
+          "published_at": null,
+          "first_seen": "2026-10-13T01:59:12.770549+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Un violento siniestro vial se registró en la tarde de este martes en la localidad de Quequén, cuando una motocicleta y un automóvil colisionaron en la intersección de la avenida 578 y calle 541 , una esquina que cuenta con sistema de semáforos. Involucrados y asistencia médica El choque se produjo alrededor de las 17:45 entre una motocicleta Honda de 150 cc, conducida por un joven de 23 años , y un Chevrolet Agile al mando de una mujer. Como consecuencia del impacto, la moto registró importantes daños materiales y el conductor del rodado menor quedó tendido en el asfalto con traumatismos varios.",
+          "Agentes de Defensa Civil acudieron rápidamente al lugar para brindarle las primeras atenciones. Minutos más tarde, el joven fue trasladado en una ambulancia al Hospital Municipal para ser evaluado por los profesionales de salud. En tanto, la conductora del automóvil no sufrió lesiones."
+        ],
+        "generated": "2026-10-13T02:00:00.808513+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-13T01:59:12.770549+00:00"
+    },
+    {
+      "key": "justicia rechazo detencion acusado robar cooperativa engraucoop quequen",
+      "title": "La Justicia rechazó la detención del acusado de robar en la cooperativa Engraucoop de Quequén",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-13T01:59:12.770549+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261012135107_whatsapp-image-2026-10-12-at-13-50-35.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "La Justicia rechazó la detención del acusado de robar en la cooperativa Engraucoop de Quequén",
+          "url": "https://necocheadigital.com/nota/119865/la-justicia-rechazo-la-detencion-del-acusado-de-robar-en-la-cooperativa-engraucoop-de-quequen/",
+          "published_at": null,
+          "first_seen": "2026-10-13T01:59:12.770549+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El hecho ocurrió durante la madrugada del pasado 4 de octubre y quedó registrado por las cámaras de seguridad del exterior del edificio. Según la investigación judicial y policial, el sujeto escaló un paredón para ingresar al predio, rompió un vidrio para acceder al interior y provocó daños en los equipos de videovigilancia antes de sustraer diversos elementos.",
+          "A raíz de las pruebas recolectadas, personal de la Seccional Segunda de Policía realizó un allanamiento en una vivienda de la calle 517 al 2000, donde aprehendió al sospechoso. Tras ser trasladado a la sede judicial, el acusado compareció en la audiencia del artículo 308 del Código Procesal Penal asistido por el defensor oficial Gonzalo Piñeyro y se negó a prestar declaración."
+        ],
+        "generated": "2026-10-13T02:01:34.122806+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-13T01:59:12.770549+00:00"
+    },
+    {
+      "key": "liga necochea rivadavia goleo jorge newbery fecha 19 completo cuadro zona",
+      "title": "Liga Necochea: Rivadavia goleó a Jorge Newbery y la fecha 19 completó su cuadro en la Zona A",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-13T01:59:12.770549+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261012134617_whatsapp-image-2026-10-12-at-13-46-02.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Liga Necochea: Rivadavia goleó a Jorge Newbery y la fecha 19 completó su cuadro en la Zona A",
+          "url": "https://necocheadigital.com/nota/119864/liga-necochea-rivadavia-goleo-a-jorge-newbery-y-la-fecha-19-completo-su-cuadro-en-la-zona-a/",
+          "published_at": null,
+          "first_seen": "2026-10-13T01:59:12.770549+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La decimonovena fecha del Torneo \"Sergio 'Giuseppe' Portugal\" 2026 de la Liga Necochea de Fútbol tuvo un amplio desarrollo en ambas zonas con cotejos decisivos para las aspiraciones de cada equipo. Por la Zona A, en el Estadio Panamericano y tras varias postergaciones por mal tiempo, Rivadavia venció 3 a 0 a Jorge Newbery de Lobería con un tanto de Lucio Velázquez a los 20 minutos de juego y un doblete de Carlos Álvarez a los 25 y 30 del complemento.",
+          "Con este resultado, el conjunto necochense alcanzó los 21 puntos y mantiene expectativas de dar pelea en las fechas finales de la fase regular, mientras que el conjunto loberense quedó sexto con 25 unidades. En la misma zona, Sportivo San Cayetano dio el golpe como visitante al superar 2 a 0 a Villa del Parque con goles de Facundo Leiva y Thiago Oronó, alcanzando los 29 puntos en la tabla."
+        ],
+        "generated": "2026-10-13T02:01:34.831432+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-13T01:59:12.770549+00:00"
+    },
+    {
+      "key": "regional federal amateur jornadas adversas ida ministerio independiente sc",
+      "title": "Regional Federal Amateur: jornadas adversas en la ida para Ministerio e Independiente SC",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-13T01:59:12.770549+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261012132941_whatsapp-image-2026-10-12-at-13-29-24.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Regional Federal Amateur: jornadas adversas en la ida para Ministerio e Independiente SC",
+          "url": "https://necocheadigital.com/nota/119863/regional-federal-amateur-jornadas-adversas-en-la-ida-para-ministerio-e-independiente-sc/",
+          "published_at": null,
+          "first_seen": "2026-10-13T01:59:12.770549+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Ministerio sufrió una dura goleada en Mar del Plata En el Estadio José Piantoni, Ministerio cayo derrotado por 4-0 frente a Quilmes de Mar del Plata. El conjunto de Quequén, dirigido por Gustavo Tridón, logró sostener un planteo defensivo ordenado durante la primera mitad, cediendo poco terreno e incluso generando aproximaciones de peligro en el área rival. Sin embargo, la paridad se desmoronó en el complemento.",
+          "El equipo marplatense golpeó de entrada y por duplicado a través de Juan Hernández y Bruno Vallejo. Sobre el cierre del encuentro, Julián Duhalde y Kevin Collazo convirtieron prácticamente debajo del arco defendido por Emanuel Gaytán para sellar el 4-0 definitivo. Con este abultado resultado en contra, el \"Decano\" afrontará un importante desafío el próximo domingo 18 de octubre , cuando reciba a Quilmes como local en Quequén con la meta de dar vuelta la serie para seguir compitiendo en la cuarta categoría del fútbol argentino."
+        ],
+        "generated": "2026-10-13T02:01:35.551503+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-13T01:59:12.770549+00:00"
+    },
+    {
+      "key": "necochea busca ampliar sanciones escapes adulterados ruidos molestos",
+      "title": "Necochea busca ampliar las sanciones por escapes adulterados y ruidos molestos",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-13T01:59:12.770549+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/9c9bdf99e17af1fb35ce1d8b85e04a5b6bbd44a1.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Necochea busca ampliar las sanciones por escapes adulterados y ruidos molestos",
+          "url": "https://necocheadigital.com/nota/119858/necochea-busca-ampliar-las-sanciones-por-escapes-adulterados-y-ruidos-molestos/",
+          "published_at": null,
+          "first_seen": "2026-10-13T01:59:12.770549+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El Concejo Deliberante de Necochea se prepara para debatir una modificación de la normativa que regula los ruidos molestos provocados por motocicletas y automotores. La propuesta, impulsada por el bloque de Nueva Necochea, apunta a ampliar las infracciones contempladas y fortalecer las facultades municipales para actuar frente a escapes libres, adulterados y otros mecanismos que incrementan el sonido de los vehículos.",
+          "Los alcances del proyecto fueron explicados por el concejal Rodrigo Tabarez durante una entrevista en el programa “Voces de la Tarde”, que conduce Jorge Gómez por Radio Noticias Necochea , donde sostuvo que la regulación actual necesita adaptarse a las nuevas modalidades utilizadas para aumentar el ruido de las motocicletas. La iniciativa propone actualizar la ordenanza de 2018 e incorporar el concepto de sistemas expansivos , en referencia a dispositivos que incrementan la emisión sonora."
+        ],
+        "generated": "2026-10-13T02:01:36.257038+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-13T01:59:12.770549+00:00"
+    },
+    {
+      "key": "ejecutivo presento nuevo pliego licitacion colectivos 20 anos concesion minimo 16 unidades",
+      "title": "El Ejecutivo presentó el nuevo pliego para la licitación de colectivos: 20 años de concesión y un mínimo de 16 unidades",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-13T01:59:12.770549+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261009171546_colectivo-verde.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "El Ejecutivo presentó el nuevo pliego para la licitación de colectivos: 20 años de concesión y un mínimo de 16 unidades",
+          "url": "https://necocheadigital.com/nota/119854/el-ejecutivo-presento-el-nuevo-pliego-para-la-licitacion-de-colectivos-20-anos-de-concesion-y-un-minimo-de-16-unidades/",
+          "published_at": null,
+          "first_seen": "2026-10-13T01:59:12.770549+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El tratamiento del pliego para el transporte público urbano inició una etapa clave en el Concejo Deliberante tras la presentación formal efectuada por el Departamento Ejecutivo. El borrador delinea los parámetros operativos y contractuales con los que se busca adjudicar la prestación del servicio por dos décadas, e incluye la posibilidad de una prórroga adicional de seis años y ocho meses a criterio del municipio.",
+          "Entre los principales cambios operativos se destaca la reducción en la exigencia del parque móvil, que pasa de un máximo de 60 colectivos a un esquema acotado de entre 16 y 30 unidades, con capacidad mínima de 20 asientos. Respecto de las condiciones del parque automotor, el borrador remite a las normativas nacional y provincial, permitiendo colectivos con más de 10 años de antigüedad siempre que cuenten con la Verificación Técnica Vehicular (VTV) aprobada y que el promedio general de la flota no supere los 15 años."
+        ],
+        "generated": "2026-10-13T02:01:36.965564+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-13T01:59:12.770549+00:00"
+    },
+    {
+      "key": "intendente reunio integrantes camuzzi proyectos ampliar red gas",
+      "title": "El Intendente se reunió con integrantes de Camuzzi por proyectos para ampliar la red de gas",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-13T01:59:12.770549+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261009162957_09-10-foto-rojas-camuzzi2.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "El Intendente se reunió con integrantes de Camuzzi por proyectos para ampliar la red de gas",
+          "url": "https://necocheadigital.com/nota/119849/el-intendente-se-reunio-con-integrantes-de-camuzzi-por-proyectos-para-ampliar-la-red-de-gas/",
+          "published_at": null,
+          "first_seen": "2026-10-13T01:59:12.770549+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El intendente Arturo Rojas recibió este viernes en su despacho a representantes de Camuzzi Gas Pampeana , en el marco de las gestiones que impulsa el Municipio para evaluar futuras obras de infraestructura y ampliar la cobertura del servicio de gas en el distrito. Del encuentro participaron también el secretario de Planeamiento, Obras y Servicios Públicos, Adrián Furno, y el subsecretario de Obras Públicas, Lisandro Dones .",
+          "Durante la reunión se analizaron posibles proyectos de ampliación de redes y nuevas intervenciones que la empresa evalúa desarrollar, con especial atención a los sectores de Necochea y Quequén que requieren mejoras en la infraestructura de gas. La agenda de trabajo apunta a establecer una planificación estratégica que acompañe el crecimiento urbano, particularmente hacia la zona sur de ambas localidades, y permita identificar las necesidades de los usuarios en materia de acceso al servicio."
+        ],
+        "generated": "2026-10-13T02:01:37.660137+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-13T01:59:12.770549+00:00"
+    },
+    {
+      "key": "tenia perimetral intento escapar policia auto termino rejas",
+      "title": "Tenía perimetral, intentó escapar de la Policía en auto y terminó tras las rejas",
+      "score": 1.073,
+      "sources_count": 1,
+      "first_seen": "2026-10-13T00:38:45+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/Screenshot_20261012_213811_Gallery.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Tenía perimetral, intentó escapar de la Policía en auto y terminó tras las rejas",
+          "url": "https://tsnnecochea.com.ar/policiales/tenia-perimetral-intento-escapar-de-la-policia-en-auto-y-termino-tras-las-rejas-239502/",
+          "published_at": "2026-10-13T00:38:45+00:00",
+          "first_seen": "2026-10-13T01:59:12.770549+00:00",
+          "category": "detencion",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/Screenshot_20261012_213811_Gallery.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Policiales | detencion | Procedimiento policial Tenía perimetral, intentó escapar de la Policía en auto y terminó tras las rejas Personal de la Comisaría de San Cayetano lo interceptó tras una breve persecución. Interviene la UFI N° 10 del Departamento Judicial de Necochea. Por Redacción TSN 12/10/2026 · 09:38 PM Agregar TSN Necochea en ​Un hombre de 33 años fue detenido en San Cayetano luego de violar una orden de restricción de acercamiento hacia su expareja e intentar darse a la fuga de la Policía.",
+          "This browser does not support the video element. ​El hecho ocurrió cuando efectivos patrullaban la zona de calle Moreno y 54 y detectaron un Peugeot rojo (dominio HIS-946). Al advertir la presencia de los uniformados, el conductor realizó maniobras evasivas, lo que dio origen a una breve persecución que culminó en Avenida Azpesteguia y calle 56 Bis ."
+        ],
+        "generated": "2026-10-13T02:01:38.736657+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-13T01:59:12.770549+00:00"
+    },
+    {
+      "key": "ex funcionario vasco josu legarreta presentara libro gernika argentina centro basco",
+      "title": "El ex funcionario vasco Josu Legarreta presentará su libro “Gernika en Argentina” en el Centro Basco",
+      "score": 0.884,
+      "sources_count": 1,
+      "first_seen": "2026-10-12T22:18:55+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2024/08/201202141050111355464693_600.jpg",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "El ex funcionario vasco Josu Legarreta presentará su libro “Gernika en Argentina” en el Centro Basco",
+          "url": "https://tsnnecochea.com.ar/generales/el-ex-funcionario-vasco-josu-legarreta-presentara-su-libro-gernika-en-argentina-en-el-centro-basco-239499/",
+          "published_at": "2026-10-12T22:18:55+00:00",
+          "first_seen": "2026-10-13T01:59:12.770549+00:00",
+          "category": "Centro Basco",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2024/08/201202141050111355464693_600.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Generales | Centro Basco | Propuesta cultural El ex funcionario vasco Josu Legarreta presentará su libro “Gernika en Argentina” en el Centro Basco La obra repasa la huella y el arraigo de la colectividad en el país. La cita cultural será este jueves 15 de octubre a las 19 hs en las instalaciones del Euzko Etxea de Necochea.",
+          "Por Redacción TSN 12/10/2026 · 07:18 PM Centro Vasco de Necochea Agregar TSN Necochea en El Centro Basco Euzko Etxea de Necochea albergará este jueves 15 de octubre un destacado encuentro cultural con la visita de Josu Legarreta Bilbao , ex director del Programa de Relaciones con los Centros Vascos del Gobierno Vasco, quien presentará formalmente su obra literaria en la ciudad. El evento propone un espacio de reencuentro con las raíces, la memoria colectiva y la vigencia del patrimonio vasco en el territorio bonaerense y nacional."
+        ],
+        "generated": "2026-10-13T02:01:39.478040+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-13T01:59:12.770549+00:00"
+    },
+    {
+      "key": "fin semana largo turistas estadias cortas balance dispar provincia",
+      "title": "Fin de semana largo: más turistas, estadías cortas y un balance dispar en la Provincia",
+      "score": 0.85,
+      "sources_count": 1,
+      "first_seen": "2026-10-12T21:50:43+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/02/Costa-verano-1.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Fin de semana largo: más turistas, estadías cortas y un balance dispar en la Provincia",
+          "url": "https://tsnnecochea.com.ar/generales/fin-de-semana-largo-mas-turistas-estadias-cortas-y-un-balance-dispar-en-la-provincia-239497/",
+          "published_at": "2026-10-12T21:50:43+00:00",
+          "first_seen": "2026-10-13T01:59:12.770549+00:00",
+          "category": "fin de semana largo",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/02/Costa-verano-1.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Generales | fin de semana largo | Movimiento Fin de semana largo: más turistas, estadías cortas y un balance dispar en la Provincia Según CAME, casi 1,5 millones de personas viajaron por el país y el impacto económico superó los $313.000 millones. En territorio bonaerense, Mar del Plata tuvo reservas iniciales de entre el 45% y el 50%, mientras que Chascomús superó el 60%, con una mejora a partir de las llegadas de último momento.",
+          "Por Redacción TSN 12/10/2026 · 06:50 PM Agregar TSN Necochea en El último fin de semana largo por el 12 de octubre dejó un movimiento turístico importante en todo el país, aunque con resultados dispares entre los destinos y un consumo condicionado por el clima y la duración de los viajes."
+        ],
+        "generated": "2026-10-13T02:01:40.220056+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-13T01:59:12.770549+00:00"
+    },
+    {
+      "key": "rosca politica necochense",
+      "title": "La “rosca” política necochense",
+      "score": 0.836,
+      "sources_count": 1,
+      "first_seen": "2026-10-12T23:50:05+00:00",
+      "image": null,
+      "articles": [
+        {
+          "portal": "Diario NQ",
+          "title": "La “rosca” política necochense",
+          "url": "https://diarionq.com.ar/la-rosca-politica-necochense-51/",
+          "published_at": "2026-10-12T23:50:05+00:00",
+          "first_seen": "2026-10-13T01:59:12.770549+00:00",
+          "category": "Política",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Por Miguel Abálsamo La vuelta a las reelecciones indefinidas de los intendentes de la provincia de Buenos Aires, derogando la ley de Massa-Vidal, como implementaron demagógicamente cuando la administración “vidalista” bonaerense trataba de demostrar una blancura política ante la sociedad, mientras a esa misma sociedad le resbaló el tema, ni siquiera nunca fue interés y solamente creó más dificultades en cada uno de los 135 distritos, privándole a la gente votar la continuidad de un intendente o mandarlo a su casa desde el cuarto oscuro.",
+          "La mitad de la biblioteca asegura que finalmente habrá cambio de ley y la vuelta a las reelecciones indefinidas, y la otra mitad cree que será difícil, con algo visible: la cantidad de intendentes que en voz alta o en voz baja aspiran a ese cambio de ley, sean del partido político que sean."
+        ],
+        "generated": "2026-10-13T02:01:43.330553+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-13T01:59:12.770549+00:00"
+    },
+    {
+      "key": "brindaran charla ciberdelitos seguridad digital concejo deliberante",
+      "title": "Brindarán una charla sobre ciberdelitos y seguridad digital en el Concejo Deliberante",
+      "score": 0.819,
+      "sources_count": 1,
+      "first_seen": "2026-10-12T21:23:58+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2024/10/22-10-FOTO-Ilustrativa-Ciberdelitos-Mayores-2.jpg",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Brindarán una charla sobre ciberdelitos y seguridad digital en el Concejo Deliberante",
+          "url": "https://tsnnecochea.com.ar/generales/brindaran-una-charla-sobre-ciberdelitos-y-seguridad-digital-en-el-concejo-deliberante-239495/",
+          "published_at": "2026-10-12T21:23:58+00:00",
+          "first_seen": "2026-10-13T01:59:12.770549+00:00",
+          "category": "Concejo delibernate",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2024/10/22-10-FOTO-Ilustrativa-Ciberdelitos-Mayores-2.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Generales | Concejo delibernate | Actividad Brindarán una charla sobre ciberdelitos y seguridad digital en el Concejo Deliberante Organizada en el marco del programa \"Concejo Cerca\", la jornada abordará los riesgos en redes sociales y herramientas de protección para niños y adolescentes Por Redacción TSN 12/10/2026 · 06:23 PM Agregar TSN Necochea en El Honorable Concejo Deliberante de Necochea lanzó una convocatoria abierta a la comunidad para participar de una jornada de capacitación y concientización focalizada en la seguridad en el entorno digital y el resguardo de niños, niñas y adolescentes.",
+          "La actividad, titulada “Los peligros de las redes sociales: Delitos informáticos y cómo proteger a tus hijos” , se enmarca en las acciones del programa institucional “Concejo Cerca” , orientado a vincular al cuerpo deliberativo con las problemáticas y demandas del distrito."
+        ],
+        "generated": "2026-10-13T02:01:44.074892+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-13T01:59:12.770549+00:00"
+    },
+    {
       "key": "gimnasia goleo defensores pq campeonato local quedo dia",
       "title": "Gimnasia goleó a Defensores PQ y el campeonato local quedó al día",
-      "score": 1.189,
+      "score": 0.784,
       "sources_count": 1,
       "first_seen": "2026-10-12T20:53:11+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/Screenshot_20261012_1743152.webp",
@@ -26,16 +383,16 @@
           "TSN Necochea | ‹ VOLVER | Deportes | futbol | Liga Necochea de Fútbol Gimnasia goleó a Defensores PQ y el campeonato local quedó al día Se jugó el pendiente de la fecha 16. Por Redacción TSN 12/10/2026 · 05:53 PM Goleada de Gimnasia Agregar TSN Necochea en En la tarde gris de este lunes 12 de octubre, en el marco del 145° aniversario de la ciudad de Necochea, el Campeonato “Giuseppe Portugal” de Primera División de la Liga Necochea de Fútbol se puso al día con una goleada de Gimnasia por 5-1 sobre Defensores de Puerto Quequén , válido por la fecha 16 de la zona B.",
           "Jonathan Balquín en dos ocasiones, Dylan Veloso, Nehemías Estarli y Dylan Benavidez fueron los autores de los goles de Gimnasia , que goleó como visitante en el Estadio “Claudio Ortie” a Defensores PQ, cuyo gol fue obra de Román Guzmán."
         ],
-        "generated": "2026-10-12T21:00:36.246004+00:00"
+        "generated": "2026-10-13T02:01:44.803295+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-12T21:00:00.794891+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-10-13T01:59:12.770549+00:00",
+      "penalizacion": 1.0
     },
     {
       "key": "inauguraban 1964 monumento uno fundadores ciudad",
       "title": "Inauguraban en 1964 el monumento a uno de los fundadores de la ciudad",
-      "score": 1.152,
+      "score": 0.76,
       "sources_count": 1,
       "first_seen": "2026-10-12T20:30:41+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2024/07/Dia-Nacional-de-los-Monumentos-Murga2017-1-25-800x455-1.jpg",
@@ -55,315 +412,16 @@
           "TSN Necochea | ‹ VOLVER | Generales | aniversario | Ángel I. Murga Inauguraban en 1964 el monumento a uno de los fundadores de la ciudad Un 12 de octubre en el centro de Necochea, hace 62 años. Por Redacción TSN 12/10/2026 · 05:30 PM Don Ángel Ignacio Murga Agregar TSN Necochea en En la esquina de avenida 58 y calle 61, en pleno centro de Necochea, un monumento recuerda a Ángel Ignacio Murga , una de las figuras fundamentales de la fundación de la ciudad.",
           "La obra fue inaugurada el 12 de octubre de 1964, durante los festejos por un nuevo aniversario de Necochea , y su historia guarda un importante gesto colectivo. El escultor platense Franco Fúrfaro fue el encargado de realizar el monumento y donó su trabajo . Para afrontar los gastos de fundición y las placas conmemorativas, una comisión de vecinos organizó la denominada “campaña del bronce”, que convocó a la comunidad a colaborar con el proyecto."
         ],
-        "generated": "2026-10-12T21:00:55.987146+00:00"
+        "generated": "2026-10-13T02:01:45.541379+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-12T21:00:00.794891+00:00"
-    },
-    {
-      "key": "dama mar escultura contempla atlantico lomada necochea",
-      "title": "La Dama del Mar, una escultura que contempla el Atlántico desde una lomada de Necochea",
-      "score": 1.104,
-      "sources_count": 1,
-      "first_seen": "2026-10-12T20:00:18+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/Screenshot_20261012_1147312.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "La Dama del Mar, una escultura que contempla el Atlántico desde una lomada de Necochea",
-          "url": "https://tsnnecochea.com.ar/generales/la-dama-del-mar-una-escultura-que-contempla-el-atlantico-desde-una-lomada-de-necochea-239470/",
-          "published_at": "2026-10-12T20:00:18+00:00",
-          "first_seen": "2026-10-12T21:00:00.794891+00:00",
-          "category": "aniversario",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/Screenshot_20261012_1147312.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Generales | aniversario | Efeméride local La Dama del Mar, una escultura que contempla el Atlántico desde una lomada de Necochea La obra fue inaugurada el 12 de octubre de 2009. Por Redacción TSN 12/10/2026 · 05:00 PM Agregar TSN Necochea en Entre los pasillos del Complejo Casino de Necochea, en el centro de una fuente y con el mar como telón de fondo, una figura femenina parece contemplar el horizonte.",
-          "La Dama del Mar , una de las esculturas que forman parte del paisaje de la ciudad, fue inaugurada un día como hoy, el 12 de octubre de 2009 , en el marco de un nuevo aniversario de Necochea. Su presencia invita a imaginarla como una guardiana del Atlántico, apostada sobre una lomada frente a la costa necochense."
-        ],
-        "generated": "2026-10-12T21:01:15.474381+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-12T21:00:00.794891+00:00"
-    },
-    {
-      "key": "necochea cumple 145 anos seremos capaces volver faro",
-      "title": "Necochea cumple 145 años: ¿seremos capaces de volver a ser un faro?",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-12T21:00:00.794891+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/93a8b4ceda9934851377a1c38314dd83f7d92cd4.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Necochea cumple 145 años: ¿seremos capaces de volver a ser un faro?",
-          "url": "https://necocheadigital.com/nota/119868/necochea-cumple-145-anos-seremos-capaces-de-volver-a-ser-un-faro/",
-          "published_at": null,
-          "first_seen": "2026-10-12T21:00:00.794891+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Somos una ciudad joven si nos comparamos con tantas otras del mundo. Tenemos una ubicación privilegiada, un puerto de enorme importancia, un campo productivo, el mar, las playas, un parque extraordinario y una comunidad que, a lo largo de su historia, fue capaz de construir oportunidades. Sin embargo, tener recursos y posibilidades no significa, necesariamente, saber aprovecharlos. Por eso, en este aniversario, me parece oportuno preguntarnos: ¿qué somos como ciudad?",
-          "Necochea atraviesa un momento particular, en un país que vive una profunda transformación económica, con dificultades para el comercio, la producción y el sostenimiento de numerosas actividades. Cambian las formas de comprar, vender, trabajar y relacionarnos. Algunas actividades pierden terreno, otras buscan adaptarse y surgen desafíos que nos obligan a repensar el futuro."
-        ],
-        "generated": "2026-10-12T21:01:16.207680+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-12T21:00:00.794891+00:00"
-    },
-    {
-      "key": "crisis productiva buenos aires cerraron 400 unidades productivas perdieron 106 000 empleos",
-      "title": "Crisis productiva en Buenos Aires: cerraron más de 8.400 unidades productivas y se perdieron 106.000 empleos",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-12T21:00:00.794891+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/61c860fababf2998f3a8b5a10ae51318b404eff4.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Crisis productiva en Buenos Aires: cerraron más de 8.400 unidades productivas y se perdieron 106.000 empleos",
-          "url": "https://necocheadigital.com/nota/119861/crisis-productiva-en-buenos-aires-cerraron-mas-de-8-400-unidades-productivas-y-se-perdieron-106-000-empleos/",
-          "published_at": null,
-          "first_seen": "2026-10-12T21:00:00.794891+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La crisis económica continúa generando dificultades para el entramado productivo bonaerense, con empresas que reducen su actividad, comercios que enfrentan una fuerte caída de las ventas y trabajadores que pierden sus puestos en un mercado laboral cada vez más complejo. De acuerdo con un relevamiento del Centro de Economía Política Argentina (CEPA), elaborado a partir de estadísticas oficiales, entre noviembre de 2023 y mayo de 2026 la provincia de Buenos Aires perdió 8.465 unidades productivas y 106.136 puestos de trabajo registrados .",
-          "Las cifras reflejan el impacto sobre empresas de distintos tamaños y sectores durante los primeros años de la gestión de Javier Milei. Entre los factores que condicionan la actividad aparecen la debilidad del consumo interno, los costos de producción, las dificultades de financiamiento y la apertura de las importaciones."
-        ],
-        "generated": "2026-10-12T21:01:17.565236+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-12T21:00:00.794891+00:00"
-    },
-    {
-      "key": "entro ventana vivienda necochea termino aprehendido",
-      "title": "Entró por una ventana a una vivienda de Necochea y terminó aprehendido",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-12T21:00:00.794891+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/84c011ef4885ec5235f6d18f899bd7f5c0f252d0.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Entró por una ventana a una vivienda de Necochea y terminó aprehendido",
-          "url": "https://necocheadigital.com/nota/119860/entro-por-una-ventana-a-una-vivienda-de-necochea-y-termino-aprehendido/",
-          "published_at": null,
-          "first_seen": "2026-10-12T21:00:00.794891+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Un hombre fue aprehendido en Necochea luego de ingresar a una vivienda tras romper una ventana del frente. Durante el episodio sufrió lesiones que obligaron a solicitar asistencia médica. El hecho ocurrió en un domicilio de calle 36 al 4400, dentro de la jurisdicción de la Comisaría Tercera, luego de que se recibiera un alerta a través del sistema de emergencias 911.",
-          "De acuerdo con la información del procedimiento, el propietario se encontraba durmiendo cuando fue sorprendido por el intruso. Al llegar al lugar, los efectivos policiales constataron la situación y observaron que el hombre presentaba manchas de sangre en distintas partes del cuerpo. Ante las lesiones, se solicitó una ambulancia que trasladó al aprehendido para que recibiera atención médica."
-        ],
-        "generated": "2026-10-12T21:01:18.272574+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-12T21:00:00.794891+00:00"
-    },
-    {
-      "key": "necochea cumple 145 anos historia fundacion festejos esperan nueva fecha",
-      "title": "Necochea cumple 145 años: la historia de su fundación y los festejos que esperan nueva fecha",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-12T21:00:00.794891+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/f2cc0cac8645876aca5aea13db0c3365851576bd.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Necochea cumple 145 años: la historia de su fundación y los festejos que esperan nueva fecha",
-          "url": "https://necocheadigital.com/nota/119859/necochea-cumple-145-anos-la-historia-de-su-fundacion-y-los-festejos-que-esperan-nueva-fecha/",
-          "published_at": null,
-          "first_seen": "2026-10-12T21:00:00.794891+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Necochea celebra este lunes su 145° aniversario , al cumplirse un nuevo año de aquel 12 de octubre de 1881 en el que se fundó el pueblo que se convertiría en la cabecera del distrito. La conmemoración llega con una modificación en el calendario de actividades: los festejos que estaban previstos para este fin de semana en la plaza Dardo Rocha fueron reprogramados debido a las condiciones climáticas anunciadas. Desde el Municipio se informó que la nueva fecha será comunicada en los próximos días.",
-          "Pese a la postergación, el aniversario constituye una oportunidad para volver sobre los acontecimientos que dieron origen a la ciudad y recordar a quienes participaron de aquella jornada fundacional. El día en que nació Necochea El miércoles 12 de octubre de 1881 fue una jornada ventosa, aunque acompañada por un sol agradable."
-        ],
-        "generated": "2026-10-12T21:01:19.021652+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-12T21:00:00.794891+00:00"
-    },
-    {
-      "key": "seguridad verano municipio analiza refuerzos prepara operativos distintos puntos distrito",
-      "title": "Seguridad para el verano: el Municipio analiza refuerzos y prepara operativos en distintos puntos del distrito",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-12T21:00:00.794891+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261010132042_29-01-foto-com-vazquez-superintendencia-de-comunicaciones-01.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Seguridad para el verano: el Municipio analiza refuerzos y prepara operativos en distintos puntos del distrito",
-          "url": "https://necocheadigital.com/nota/119857/seguridad-para-el-verano-el-municipio-analiza-refuerzos-y-prepara-operativos-en-distintos-puntos-del-distrito/",
-          "published_at": null,
-          "first_seen": "2026-10-12T21:00:00.794891+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Con la temporada de verano cada vez más cerca, el Municipio de Necochea comenzó a delinear las acciones de prevención y seguridad, a la espera de definiciones de la Provincia sobre la implementación del Operativo Sol. En paralelo, se evalúan necesidades en distintas localidades y se trabaja en la organización de eventos que convocarán a una importante cantidad de personas. Los temas fueron abordados por el subsecretario de Prevención y Monitoreo municipal, Ángel Vázquez, durante una entrevista en el programa “Voces de la Tarde”, que conduce Jorge Gómez por Radio Noticias Necochea .",
-          "El funcionario explicó que todavía no hay anuncios oficiales sobre el dispositivo provincial para el verano. Mientras tanto, el área municipal revisa los antecedentes de temporadas anteriores y mantiene reuniones para identificar aspectos que requieren ajustes o mejoras."
-        ],
-        "generated": "2026-10-12T21:01:20.376296+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-12T21:00:00.794891+00:00"
-    },
-    {
-      "key": "ruta 88 mama anita pidio acelerar autovia reclamo medidas urgentes seguridad",
-      "title": "Ruta 88: la mamá de Anita pidió acelerar la autovía y reclamó medidas urgentes de seguridad",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-12T21:00:00.794891+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261010131839_20260804122017-whatsapp-image-2026-08-04-at-12-20-04.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Ruta 88: la mamá de Anita pidió acelerar la autovía y reclamó medidas urgentes de seguridad",
-          "url": "https://necocheadigital.com/nota/119856/ruta-88-la-mama-de-anita-pidio-acelerar-la-autovia-y-reclamo-medidas-urgentes-de-seguridad/",
-          "published_at": null,
-          "first_seen": "2026-10-12T21:00:00.794891+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La lucha por transformar la ruta provincial 88 en una autovía continúa sumando gestiones y reclamos. Andrea Rondanina, mamá de Anita Peralta Rondanina, la adolescente que falleció en un siniestro vial sobre ese corredor, destacó los avances anunciados por el Gobierno bonaerense, aunque remarcó que el desafío será convertir el proyecto en una obra concreta.",
-          "Durante una entrevista realizada este viernes 9 de octubre en “Voces de la Tarde”, el programa que conduce Jorge Gómez por Radio Noticias Necochea 97.3 FM , Rondanina contó que mantuvo una comunicación con el ministro de Infraestructura bonaerense, Gabriel Katopodis, quien le transmitió detalles sobre los relevamientos y estudios que se llevan adelante. “Él está apurando todo lo que puede, el tema de que se haga lo antes posible”, señaló, al referirse al compromiso de finalizar el proyecto técnico de la autovía entre Mar del Plata y Quequén antes de que termine 2026."
-        ],
-        "generated": "2026-10-12T21:01:21.704857+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-12T21:00:00.794891+00:00"
-    },
-    {
-      "key": "quequen investigan muerte hombre hallado vida patio casa",
-      "title": "Investigan el hallazgo sin vida de un hombre en el patio de su casa en Quequén",
-      "score": 0.411,
-      "sources_count": 2,
-      "first_seen": "2026-10-12T12:00:59+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/03/policia-728x407-1.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Investigan el hallazgo sin vida de un hombre en el patio de su casa en Quequén",
-          "url": "https://tsnnecochea.com.ar/locales/investigan-el-hallazgo-sin-vida-de-un-hombre-en-el-patio-de-su-casa-en-quequen-239446/",
-          "published_at": "2026-10-12T12:00:59+00:00",
-          "first_seen": "2026-10-12T19:46:53.592543+00:00",
-          "category": "policia",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/03/policia-728x407-1.webp"
-        },
-        {
-          "portal": "Necochea Digital",
-          "title": "Quequén: investigan la muerte de un hombre hallado sin vida en el patio de su casa",
-          "url": "https://necocheadigital.com/nota/119867/quequen-investigan-la-muerte-de-un-hombre-hallado-sin-vida-en-el-patio-de-su-casa/",
-          "published_at": null,
-          "first_seen": "2026-10-12T19:46:53.592543+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Locales | policia Investigan el hallazgo sin vida de un hombre en el patio de su casa en Quequén La víctima, se había evadido del Hospital Taraborelli horas antes. La Policía Científica trabaja en el lugar para determinar las causas de la muerte y el origen de las lesiones encontradas. Por Redacción TSN 12/10/2026 · 09:00 AM Agregar TSN Necochea en Efectivos policiales y peritos forenses investigan las circunstancias en torno al fallecimiento de un hombre de 80 años, cuyo cuerpo fue encontrado sin vida en el patio de su finca ubicada en la calle 561 al 4100, en Quequén.",
-          "El aviso inicial fue dado por un vecino de la zona a través de una llamada a la central de emergencias 911 . Al arribar las primeras dotaciones policiales, constataron la presencia del hombre sin signos vitales y con lesiones compatibles con mordeduras de canino en una de sus extremidades inferiores."
-        ],
-        "generated": "2026-10-12T21:00:34.890483+00:00"
-      },
-      "apariciones": 4,
-      "ultima_impresion": "2026-10-12T21:00:00.794891+00:00",
-      "penalizacion": 0.303
-    },
-    {
-      "key": "encontraron ballena yubarta muerta playa cientificos analizaran motivos",
-      "title": "Encontraron una ballena yubarta muerta en la playa y científicos analizarán los motivos",
-      "score": 0.224,
-      "sources_count": 1,
-      "first_seen": "2026-10-12T15:10:54+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/Screenshot_20261012_115929_Instagram.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Encontraron una ballena yubarta muerta en la playa y científicos analizarán los motivos",
-          "url": "https://tsnnecochea.com.ar/generales/encontraron-una-ballena-yubarta-muerta-en-la-playa-y-cientificos-analizaran-los-motivos-239462/",
-          "published_at": "2026-10-12T15:10:54+00:00",
-          "first_seen": "2026-10-12T19:46:53.592543+00:00",
-          "category": "ballena jorobada",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/Screenshot_20261012_115929_Instagram.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Generales | ballena jorobada | Ballena jorobada Encontraron una ballena yubarta muerta en la playa y científicos analizarán los motivos Ocurrió este domingo entre Mar de Cobo y Mar Chiquita. Un equipo de mamíferos marinos intervendrá para realizar los estudios correspondientes. Por Redacción TSN 12/10/2026 · 12:10 PM Agregar TSN Necochea en Una ballena jorobada , también conocida como yubarta, fue hallada sin vida en una playa ubicada entre Mar de Cobo y Mar Chiquita , en el vecino partido balneario.",
-          "El hallazgo se produjo este domingo y movilizó a especialistas en mamíferos marinos para investigar las circunstancias del hecho. https://www.instagram.com/p/DeUpNspm6BO/?psln=bWptOGNjeDJpbTBv ​Según informó la Reserva Natural Provincial Mar Chiquita a través de sus redes sociales, se trata de un ejemplar de la especie Megaptera novaeangliae que quedó varado sobre la costa ."
-        ],
-        "generated": "2026-10-12T21:02:17.761498+00:00"
-      },
-      "apariciones": 4,
-      "ultima_impresion": "2026-10-12T21:00:00.794891+00:00",
-      "penalizacion": 0.303
-    },
-    {
-      "key": "12 octubre inauguraba institucion emblema ciudad biblioteca popular andres ferreyra",
-      "title": "Un 12 de octubre se inauguraba una institución emblema de la ciudad: la Biblioteca Popular “Andrés Ferreyra”",
-      "score": 0.22,
-      "sources_count": 1,
-      "first_seen": "2026-10-12T15:00:05+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2023/12/305201564_6195373717146700_4701859362901751165_n.jpg",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Un 12 de octubre se inauguraba una institución emblema de la ciudad: la Biblioteca Popular “Andrés Ferreyra”",
-          "url": "https://tsnnecochea.com.ar/generales/un-12-de-octubre-se-inauguraba-una-institucion-emblema-de-la-ciudad-la-biblioteca-popular-andres-ferreyra-239467/",
-          "published_at": "2026-10-12T15:00:05+00:00",
-          "first_seen": "2026-10-12T19:46:53.592543+00:00",
-          "category": "biblioteca",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2023/12/305201564_6195373717146700_4701859362901751165_n.jpg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Generales | biblioteca | Instituciones Un 12 de octubre se inauguraba una institución emblema de la ciudad: la Biblioteca Popular “Andrés Ferreyra” La institución fue creada en 1907, cuando la ciudad de Necochea cumplía apenas 26 años de vida. Por Redacción TSN 12/10/2026 · 12:00 PM Centro cultural - biblioteca popular Andrés Ferreyra Agregar TSN Necochea en Este 12 de octubre, la Biblioteca Popular “Andrés Ferreyra” cumple 119 años de historia , acompañando la vida cultural de Necochea y a generaciones de lectores que encontraron en sus libros un espacio para aprender, estudiar y disfrutar de la literatura.",
-          "La institución fue creada el 12 de octubre de 1907 por la Asociación de Maestros de la Provincia de Buenos Aires, que ofreció a Necochea su primera biblioteca popular, apenas 26 años después de la fundación de la ciudad ."
-        ],
-        "generated": "2026-10-12T21:02:19.153376+00:00"
-      },
-      "apariciones": 4,
-      "ultima_impresion": "2026-10-12T21:00:00.794891+00:00",
-      "penalizacion": 0.303
+      "apariciones": 2,
+      "ultima_impresion": "2026-10-13T01:59:12.770549+00:00",
+      "penalizacion": 1.0
     },
     {
       "key": "destacada participacion laprida buenos aires titulos obtenidos",
       "title": "Destacada participación en Laprida y Buenos Aires, con títulos obtenidos",
-      "score": 0.079,
+      "score": 0.312,
       "sources_count": 1,
       "first_seen": "2026-10-12T11:59:57+00:00",
       "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/8e5f9cb9-136e-4001-b354-8aa777670268.jpg",
@@ -383,112 +441,16 @@
           "El equipo de Team Saravia – Dojo Serpiente Necochea tuvo una destacada participación en dos eventos de deportes de combate, con importantes victorias, títulos obtenidos y nuevas experiencias para sus competidores. En la ciudad de Laprida, durante el evento Laprida Fight Night, los representantes del equipo demostraron el trabajo, la disciplina y el compromiso desarrollados durante los entrenamientos. RESULTADOS EN LAPRIDA – LAPRIDA FIGHT NIGHT Francisco Pedernera: realizó una exhibición en la que pudo demostrar todo lo entrenado. Fátima Inostroza: ganó P.F.M.",
           "Juan Fernández: perdió P.K.O. Dylan Piñeyro: ganó P.F.M. Alejandro Cimino: perdió P.F.U."
         ],
-        "generated": "2026-10-12T21:02:40.456260+00:00"
+        "generated": "2026-10-13T02:04:33.520893+00:00"
       },
-      "apariciones": 5,
-      "ultima_impresion": "2026-10-12T21:00:00.794891+00:00",
-      "penalizacion": 0.166
-    },
-    {
-      "key": "estacionamiento medido no funcionara lunes 12 octubre",
-      "title": "El Estacionamiento Medido no funcionará este lunes 12 de octubre",
-      "score": 0.064,
-      "sources_count": 2,
-      "first_seen": "2026-10-11T15:18:30+00:00",
-      "image": null,
-      "articles": [
-        {
-          "portal": "Necochea News",
-          "title": "El Estacionamiento Medido no funcionará este lunes 12 de octubre",
-          "url": "https://necocheanews.com.ar/estacionamiento-medido-permanecera-cerrado-el-lunes-12-de-octubre-por-feriado/",
-          "published_at": "2026-10-12T10:20:41+00:00",
-          "first_seen": "2026-10-12T10:30:00.585358+00:00",
-          "category": "LOCALES",
-          "image": null
-        },
-        {
-          "portal": "Diario NQ",
-          "title": "El Estacionamiento Medido no funcionará este lunes 12 de octubre",
-          "url": "https://diarionq.com.ar/el-estacionamiento-medido-no-funcionara-este-lunes-12-de-octubre/",
-          "published_at": "2026-10-11T15:18:30+00:00",
-          "first_seen": "2026-10-11T15:30:00.511320+00:00",
-          "category": "La ciudad",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La Municipalidad de Necochea suspende el servicio y la oficina de atención al público en el centro, en el marco del 145° aniversario de la ciudad y el feriado nacional. La Dirección General de Relaciones con la Comunidad informó que el lunes 12 de octubre el Estacionamiento Medido del centro de Necochea no funcionará y la oficina de atención al público permanecerá sin actividad.",
-          "La medida se enmarca en la celebración del 145° aniversario de Necochea y el feriado nacional, conforme a lo dispuesto por la Ordenanza Municipal N° 8951/16, que establece que el servicio opera de lunes a sábado, de 9 a 21 hs, y queda suspendido los domingos, feriados y asuetos municipales. Los vecinos que necesiten realizar consultas o presentar reclamos sobre el Estacionamiento Medido pueden hacerlo las 24 horas a través de la línea 147, por WhatsApp al +54 9 3764 500055 o enviando un correo a 147necochea@gmail.com."
-        ],
-        "generated": "2026-10-12T21:02:48.637441+00:00"
-      },
-      "apariciones": 4,
-      "ultima_impresion": "2026-10-12T21:00:00.794891+00:00",
-      "penalizacion": 0.303
-    },
-    {
-      "key": "maria virginia sosa mar plata abandonada inseguridad extiende localidades vecinas",
-      "title": "María Virginia Sosa: “Mar del Plata está abandonada y la inseguridad se extiende a las localidades vecinas”",
-      "score": 0.023,
-      "sources_count": 1,
-      "first_seen": "2026-10-11T13:59:21+00:00",
-      "image": null,
-      "articles": [
-        {
-          "portal": "Diario NQ",
-          "title": "María Virginia Sosa: “Mar del Plata está abandonada y la inseguridad se extiende a las localidades vecinas”",
-          "url": "https://diarionq.com.ar/maria-virginia-sosa-mar-del-plata-esta-abandonada-y-la-inseguridad-se-extiende-a-las-localidades-vecinas/",
-          "published_at": "2026-10-11T13:59:21+00:00",
-          "first_seen": "2026-10-12T19:46:53.592543+00:00",
-          "category": "La Región",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La periodista marplatense analizó la situación laboral y de seguridad que atraviesa Mar del Plata, cuestionó la falta de respuestas políticas y advirtió sobre el impacto de la delincuencia y el narcotráfico en ciudades de la región, entre ellas Necochea, Lobería y Balcarce. La situación social, económica y de seguridad de Mar del Plata fue el eje de una entrevista con la periodista María Virginia Sosa, quien describió un escenario complejo, marcado por la desocupación, las dificultades para llegar a fin de mes y el crecimiento de los hechos delictivos.",
-          "Además, advirtió que la problemática comienza a sentirse con fuerza en las localidades cercanas. Durante la charla, Sosa hizo referencia a las extensas filas de personas que se presentaron para conseguir puestos de trabajo vinculados con espectáculos y eventos."
-        ],
-        "generated": "2026-10-12T21:03:00.284210+00:00"
-      },
-      "apariciones": 4,
-      "ultima_impresion": "2026-10-12T21:00:00.794891+00:00",
-      "penalizacion": 0.303
-    },
-    {
-      "key": "pena ombu celebra 63 anos historia gran noche folclore",
-      "title": "La Peña El Ombú celebra 63 años de historia con una gran noche de folclore",
-      "score": 0.023,
-      "sources_count": 1,
-      "first_seen": "2026-10-11T13:50:57+00:00",
-      "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/830325298_18116627014871601_5391807779848727075_n.jpg",
-      "articles": [
-        {
-          "portal": "Diario NQ",
-          "title": "La Peña El Ombú celebra 63 años de historia con una gran noche de folclore",
-          "url": "https://diarionq.com.ar/la-pena-el-ombu-celebra-63-anos-de-historia-con-una-gran-noche-de-folclore/",
-          "published_at": "2026-10-11T13:50:57+00:00",
-          "first_seen": "2026-10-12T19:46:53.592543+00:00",
-          "category": "Interés General",
-          "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/830325298_18116627014871601_5391807779848727075_n.jpg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La tradicional agrupación de Necochea realizará su encuentro el sábado 17, desde las 20.30, con la participación de 86 bailarines, artistas invitados y una apertura especial junto a la Banda Municipal. Las entradas anticipadas cuestan $15.000. La Peña El Ombú se prepara para vivir una nueva edición de su tradicional encuentro folclórico, una celebración que reúne a distintas generaciones de bailarines y mantiene viva una de las expresiones culturales más arraigadas de Necochea.",
-          "En diálogo radial, el profesor Emilio Cajaravilla compartió los detalles de los preparativos y destacó el intenso trabajo que se realiza durante las semanas previas para que cada integrante pueda participar con su vestuario y disfrutar de una noche especial. La agrupación contará con alrededor de 86 bailarines, desde pequeños de apenas tres años hasta adultos que llevan décadas vinculados con el folclore."
-        ],
-        "generated": "2026-10-12T21:03:03.859431+00:00"
-      },
-      "apariciones": 4,
-      "ultima_impresion": "2026-10-12T21:00:00.794891+00:00",
-      "penalizacion": 0.303
+      "apariciones": 6,
+      "ultima_impresion": "2026-10-13T01:59:12.770549+00:00",
+      "penalizacion": 1.0
     },
     {
       "key": "franco colapinto abandona gp singapur falla transmision",
       "title": "Franco Colapinto abandona el GP de Singapur por falla en la transmisión",
-      "score": 0.011,
+      "score": 0.269,
       "sources_count": 1,
       "first_seen": "2026-10-12T10:13:23+00:00",
       "image": null,
@@ -508,16 +470,16 @@
           "El piloto argentino sufrió su segundo abandono de la temporada y prometió “resetearse” para volver más fuerte en las próximas carreras en EE. Franco Colapinto vio truncada su participación en el Gran Premio de Singapur de Fórmula 1 cuando, en la vuelta 32 del circuito callejero de Marina Bay, su Alpine se detuvo por un problema en la transmisión. El monoplaza quedó inmóvil en tres ruedas y el piloto tuvo que abandonar la pista para evitar una neutralización. Tras el incidente, el pilarense declaró a los micrófonos de ESPN: “Un problema de transmisión.",
           "No iba ni para atrás el auto, me quedé en tres ruedas. Hay que entender qué pasó. Dos problemas en un mismo fin de semana… Hay que volver con el equipo, trabajar y estar más fuerte”."
         ],
-        "generated": "2026-10-12T21:02:41.849250+00:00"
+        "generated": "2026-10-13T02:04:34.714856+00:00"
       },
-      "apariciones": 8,
-      "ultima_impresion": "2026-10-12T21:00:00.794891+00:00",
-      "penalizacion": 0.028
+      "apariciones": 9,
+      "ultima_impresion": "2026-10-13T01:59:12.770549+00:00",
+      "penalizacion": 1.0
     },
     {
       "key": "racing cae belgrano avellaneda aleja playoffs",
       "title": "Racing cae 2-0 ante Belgrano en Avellaneda y se aleja de los playoffs",
-      "score": 0.011,
+      "score": 0.268,
       "sources_count": 1,
       "first_seen": "2026-10-12T10:10:55+00:00",
       "image": null,
@@ -537,16 +499,16 @@
           "El Pirata se impuso en el Cilindro con goles de Lucas Zelarayán y Franco Vázquez, mientras Racing quedó 13.º en la Zona B con 11 puntos. Racing perdió 2 a 0 frente a Belgrano en el Estadio Cilindro de Avellaneda, complicando de forma decisiva sus posibilidades de clasificar a la siguiente fase del Torneo Clausura. El primer tanto lo anotó Lucas Zelarayán a los 40 minutos del primer tiempo, tras una jugada de toque corto que le permitió disparar un zurdazo cruzado desde fuera del área.",
           "En el segundo tiempo, el árbitro Yael Falcón Pérez anuló un gol de Emiliano Rigoni, que había rematado de cabeza tras un centro de Juan Velázquez, por una supuesta falta cometida contra el visitante. El gol fue revisado en la pantalla del VAR y se confirmó la sanción. El segundo y definitivo gol del Pirata llegó en el tiempo de descuento, a los cinco minutos de la adición, cuando Franco Vázquez definió con precisión frente al arquero Cambeses."
         ],
-        "generated": "2026-10-12T21:02:43.165960+00:00"
+        "generated": "2026-10-13T02:04:35.975303+00:00"
       },
-      "apariciones": 8,
-      "ultima_impresion": "2026-10-12T21:00:00.794891+00:00",
-      "penalizacion": 0.028
+      "apariciones": 9,
+      "ultima_impresion": "2026-10-13T01:59:12.770549+00:00",
+      "penalizacion": 1.0
     },
     {
       "key": "independiente talleres empatan kempes mantienen zona clasificacion",
       "title": "Independiente y Talleres empatan 0-0 en el Kempes y se mantienen en zona de clasificación",
-      "score": 0.011,
+      "score": 0.267,
       "sources_count": 1,
       "first_seen": "2026-10-12T10:08:14+00:00",
       "image": null,
@@ -566,156 +528,49 @@
           "En la duodécima fecha del Torneo Clausura, ambos equipos se repartieron los puntos tras un partido escaso de ocasiones y un gol anulado por VAR. El Rojo igualó 0 a 0 con el Matador en el Estadio Mario Alberto Kempes, manteniéndose en la zona de clasificación del certamen. El encuentro se caracterizó por la falta de contundencia y pocas oportunidades claras de gol. En el tiempo de descuento, Banegas disparó de media distancia y el balón cruzó la línea, pero el árbitro Zunino anuló el tanto tras la señal del VAR que indicó un fuera de juego de Montiel en la jugada.",
           "La primera emoción del partido la generó un tiro libre de Montiel que se estrelló en el travesaño. Por su parte, Talleres buscó espacios a espaldas de Abaldo y Banegas; un disparo desviado de Rick y un cabezazo de Depietri obligaron al arquero Rey a intervenir. En la segunda mitad, Independiente mostró mayor determinación."
         ],
-        "generated": "2026-10-12T21:02:44.510423+00:00"
+        "generated": "2026-10-13T02:04:37.251013+00:00"
       },
-      "apariciones": 8,
-      "ultima_impresion": "2026-10-12T21:00:00.794891+00:00",
-      "penalizacion": 0.028
+      "apariciones": 9,
+      "ultima_impresion": "2026-10-13T01:59:12.770549+00:00",
+      "penalizacion": 1.0
     },
     {
-      "key": "julia strada necochea argentina convirtiendo galpon importados",
-      "title": "Julia Strada en Necochea: \"Argentina se está convirtiendo en un galpón de importados\"",
-      "score": 0.004,
-      "sources_count": 1,
-      "first_seen": "2026-10-10T17:37:50+00:00",
-      "image": "https://res.cloudinary.com/dsugba4yh/image/upload/v1791643661/julia_em5cwq.png",
+      "key": "papa leon xiv sera operado nodulo pulmonar antes visita argentina",
+      "title": "El Papa León XIV será operado de un nódulo pulmonar antes de su visita a Argentina",
+      "score": 0.139,
+      "sources_count": 2,
+      "first_seen": "2026-10-11T15:17:17+00:00",
+      "image": null,
       "articles": [
         {
-          "portal": "Informate Necochea",
-          "title": "Julia Strada en Necochea: \"Argentina se está convirtiendo en un galpón de importados\"",
-          "url": "https://informatenecochea.com/noticia/julia-strada-en-necochea-argentina-se-esta-convirtiendo-en-un-galpon-de-importados",
-          "published_at": "2026-10-10T17:37:50+00:00",
-          "first_seen": "2026-10-12T19:46:53.592543+00:00",
-          "category": "Local",
-          "image": "https://res.cloudinary.com/dsugba4yh/image/upload/v1791643661/julia_em5cwq.png"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Inicio / Local Local Julia Strada en Necochea: \"Argentina se está convirtiendo en un galpón de importados\" La economista y diputada nacional por Fuerza Patria, Julia Strada, encabezó una charla abierta en el Centro Cultural de Necochea bajo el título \"¿Orden macro o tierra arrasada?\", donde cuestionó severamente la orientación del modelo económico impulsado por el Gobierno nacional y advirtió sobre la destrucción del entramado fabril.",
-          "Redacción sábado, 10 de octubre de 2026 · 169 lecturas Durante su paso por la ciudad —que incluyó reuniones con dirigentes del radicalismo alfonsinista, visitas a escuelas técnicas y a la cooperativa Engraucoop—, la legisladora sostuvo que el supuesto equilibrio macroeconómico se sostiene sobre un escenario micro devastado por el endeudamiento familiar, la pérdida de poder adquisitivo y el cierre definitivo de industrias locales."
-        ],
-        "generated": "2026-10-12T21:03:06.688787+00:00"
-      },
-      "apariciones": 4,
-      "ultima_impresion": "2026-10-12T21:00:00.794891+00:00",
-      "penalizacion": 0.303
-    },
-    {
-      "key": "transporte publico necochea ejecutivo envio nuevo pliego concesion 20 anos cambios recorridos",
-      "title": "Transporte público en Necochea: el Ejecutivo envió el nuevo pliego con concesión a 20 años y cambios de recorridos",
-      "score": 0.003,
-      "sources_count": 1,
-      "first_seen": "2026-10-10T15:09:39+00:00",
-      "image": "https://res.cloudinary.com/dsugba4yh/image/upload/v1791644953/colectivo_hok1vr.png",
-      "articles": [
-        {
-          "portal": "Informate Necochea",
-          "title": "Transporte público en Necochea: el Ejecutivo envió el nuevo pliego con concesión a 20 años y cambios de recorridos",
-          "url": "https://informatenecochea.com/noticia/transporte-publico-en-necochea-el-ejecutivo-envio-el-nuevo-pliego-con-concesion-a-20-anos-y-cambios-de-recorridos",
-          "published_at": "2026-10-10T15:09:39+00:00",
-          "first_seen": "2026-10-12T19:46:53.592543+00:00",
-          "category": "Local",
-          "image": "https://res.cloudinary.com/dsugba4yh/image/upload/v1791644953/colectivo_hok1vr.png"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Inicio / Local Local Transporte público en Necochea: el Ejecutivo envió el nuevo pliego con concesión a 20 años y cambios de recorridos El Departamento Ejecutivo municipal presentó ante el Concejo Deliberante el proyecto de pliego licitatorio para el servicio de transporte público de pasajeros de Necochea y Quequén. El texto comenzó a ser analizado en la Comisión de Transporte y fija las condiciones operativas, el plazo de concesión y el mapa de líneas que regirán el sistema en las próximas décadas.",
-          "Redacción sábado, 10 de octubre de 2026 · 153 lecturas Para agilizar su tratamiento y buscar la aprobación en la sesión ordinaria de esta semana, los concejales acordaron mantener una reunión de trabajo este lunes a las 11. Puntos clave de la propuesta Plazo de concesión: El contrato se establece por un período de 20 años, con opción a una prórroga de hasta 6 años y 8 meses adicionales a criterio del Municipio."
-        ],
-        "generated": "2026-10-12T21:03:08.532998+00:00"
-      },
-      "apariciones": 4,
-      "ultima_impresion": "2026-10-12T21:00:00.794891+00:00",
-      "penalizacion": 0.303
-    },
-    {
-      "key": "leandro guevara brillo balcarce segundo general primero categoria",
-      "title": "Leandro Guevara brilló en Balcarce: segundo en la general y primero en su categoría",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-10-11T23:17:14+00:00",
-      "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/211c7584-bdba-4bce-b5c1-ed7518826b1d.jpg",
-      "articles": [
+          "portal": "Necochea News",
+          "title": "El Papa León XIV será operado de un nódulo pulmonar antes de su visita a Argentina",
+          "url": "https://necocheanews.com.ar/el-papa-leon-xiv-sera-operado-de-un-nodulo-pulmonar-antes-de-su-visita-a-argentina/",
+          "published_at": "2026-10-12T10:15:02+00:00",
+          "first_seen": "2026-10-13T01:59:12.770549+00:00",
+          "category": "ACTUALIDAD",
+          "image": null
+        },
         {
           "portal": "Diario NQ",
-          "title": "Leandro Guevara brilló en Balcarce: segundo en la general y primero en su categoría",
-          "url": "https://diarionq.com.ar/leandro-guevara-brillo-en-balcarce-segundo-en-la-general-y-primero-en-su-categoria/",
-          "published_at": "2026-10-11T23:17:14+00:00",
-          "first_seen": "2026-10-11T23:30:01.249843+00:00",
-          "category": "Deportes",
-          "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/211c7584-bdba-4bce-b5c1-ed7518826b1d.jpg"
+          "title": "Preocupación por la salud de León XIV: será operado de un nódulo pulmonar antes de su viaje a la Argentina",
+          "url": "https://diarionq.com.ar/preocupacion-por-la-salud-de-leon-xiv-sera-operado-de-un-nodulo-pulmonar-antes-de-su-viaje-a-la-argentina/",
+          "published_at": "2026-10-11T15:17:17+00:00",
+          "first_seen": "2026-10-13T01:59:12.770549+00:00",
+          "category": "Destacadas",
+          "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "El atleta completó los 25 kilómetros de la UTTD Balcarce, con 816 metros de desnivel positivo, y logró un destacado resultado en su carrera número 18 de 2026. Además, agradeció el acompañamiento recibido y destacó la organización del evento. Leandro Guevara tuvo una destacada actuación en la UTTD Balcarce, donde consiguió el segundo puesto en la clasificación general y se quedó con el primer lugar en su categoría en la prueba de 25 kilómetros, que contó con 816 metros de desnivel positivo.",
-          "A través de sus redes sociales, el atleta expresó su alegría por el resultado y destacó la experiencia de volver a competir en Balcarce, en una jornada que calificó como una de las más lindas de la temporada. La competencia representó su carrera número 18 en lo que va de 2026, un dato que refleja su continuidad y dedicación al running y al trail running."
+          "El pontífice anunció que la intervención, prevista para los próximos días, requerirá una hospitalización de una semana y no alterará su agenda en Buenos Aires del 8 al 11 de noviembre. El domingo, al concluir la oración mariana del Ángelus, el Papa León XIV informó que los médicos le detectaron un nódulo en uno de sus pulmones, en una fase inicial y bien localizado. “Consideran oportuno intervenir y, siguiendo sus consejos, decidí operarlo para extirparlo”, declaró desde la ventana de su despacho en el Palacio Apostólico.",
+          "La operación está programada para los próximos días en el Hospital Gemelli de Roma. Según Matteo Bruni, director de la Sala de Prensa del Vaticano, el postoperatorio durará alrededor de una semana, tiempo suficiente para que el Santo Padre se recupere antes de emprender su viaje apostólico. León XIV, de 71 años, fue elegido pontífice el 8 de mayo de 2025, convirtiéndose en el primer estadounidense en ocupar el cargo."
         ],
-        "generated": "2026-10-12T21:02:51.636241+00:00"
+        "generated": "2026-10-13T02:04:41.447277+00:00"
       },
-      "apariciones": 33,
-      "ultima_impresion": "2026-10-12T21:00:00.794891+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "gimnasia villa diaz velez tendran desafio historico river plate tigre copa federal senior",
-      "title": "Gimnasia y Villa Díaz Vélez tendrán un desafío histórico ante River Plate y Tigre por la Copa Federal Senior",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-10-11T14:34:22+00:00",
-      "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/b861525c-94ba-41c0-b89a-b66c6af6baa4.jpg",
-      "articles": [
-        {
-          "portal": "Diario NQ",
-          "title": "Gimnasia y Villa Díaz Vélez tendrán un desafío histórico ante River Plate y Tigre por la Copa Federal Senior",
-          "url": "https://diarionq.com.ar/gimnasia-y-villa-diaz-velez-tendran-un-desafio-historico-ante-river-plate-y-tigre-por-la-copa-federal-senior/",
-          "published_at": "2026-10-11T14:34:22+00:00",
-          "first_seen": "2026-10-11T15:00:00.932838+00:00",
-          "category": "Deportes",
-          "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/b861525c-94ba-41c0-b89a-b66c6af6baa4.jpg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Los equipos de Necochea jugarán este lunes 12 de octubre frente a dos instituciones del fútbol argentino que cuentan con destacadas figuras y exjugadores profesionales. En diálogo con Zoom El Deportivo, Marcos Barón, presidente de la Liga Senior de Necochea, destacó la importancia de estos encuentros y el valor de la experiencia para los futbolistas de la región. El fútbol senior de Necochea tendrá una nueva oportunidad de vivir una experiencia deportiva de gran relevancia.",
-          "Gimnasia y Esgrima y Villa Díaz Vélez afrontarán este lunes dos compromisos correspondientes a la Copa Federal, una competencia que cruza a equipos del interior del país con conjuntos de Buenos Aires. En esta instancia, Gimnasia se medirá con River Plate, mientras que Villa Díaz Vélez enfrentará a Tigre. Ambos encuentros se disputarán en predios utilizados por las instituciones para el desarrollo de sus actividades futbolísticas."
-        ],
-        "generated": "2026-10-12T21:02:54.763468+00:00"
-      },
-      "apariciones": 47,
-      "ultima_impresion": "2026-10-12T21:00:00.794891+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "lucas cossio triatleta necochense ubico mejores medio ironman buenos aires",
-      "title": "Lucas Cossio, el triatleta necochense que se ubicó entre los mejores en el Medio Ironman de Buenos Aires",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-10-11T14:28:33+00:00",
-      "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/08f2c416-d22d-4524-8443-c21a75a306eb.jpg",
-      "articles": [
-        {
-          "portal": "Diario NQ",
-          "title": "Lucas Cossio, el triatleta necochense que se ubicó entre los mejores en el Medio Ironman de Buenos Aires",
-          "url": "https://diarionq.com.ar/lucas-cossio-el-triatleta-necochense-que-se-ubico-entre-los-mejores-en-el-medio-ironman-de-buenos-aires/",
-          "published_at": "2026-10-11T14:28:33+00:00",
-          "first_seen": "2026-10-11T14:30:00.450740+00:00",
-          "category": "Deportes",
-          "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/08f2c416-d22d-4524-8443-c21a75a306eb.jpg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El deportista local finalizó 17° en la clasificación general y logró mejorar casi cuatro minutos su mejor marca personal. En su visita a Zoom El Deportivo, destacó el cambio de entrenador, contó cómo afronta una disciplina de alta exigencia y reconoció que su gran sueño es competir en un Mundial. El triatleta necochense Lucas Cossio atraviesa un gran momento deportivo.",
-          "Su reciente participación en el Medio Ironman de Buenos Aires dejó un resultado que superó sus expectativas: terminó en el puesto 17 de la clasificación general, entre aproximadamente 1.300 competidores, y mejoró notablemente su tiempo personal. Durante su visita a los estudios de Zoom El Deportivo, Cossio expresó su satisfacción por el rendimiento y explicó que uno de sus principales objetivos era bajar su marca. Su mejor registro anterior era de 4 horas y 16 minutos, y en esta oportunidad consiguió reducirlo en casi cuatro minutos."
-        ],
-        "generated": "2026-10-12T21:02:57.504531+00:00"
-      },
-      "apariciones": 48,
-      "ultima_impresion": "2026-10-12T21:00:00.794891+00:00",
-      "penalizacion": 0.0
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-13T01:59:12.770549+00:00"
     }
   ]
 }
