@@ -1,12 +1,41 @@
 {
-  "generated_at": "2026-10-14T04:00:01.178605+00:00",
+  "generated_at": "2026-10-14T04:30:01.135551+00:00",
   "article_count": 135,
   "fetch_errors": [],
   "stories": [
     {
+      "key": "como estara tiempo miercoles necochea quequen",
+      "title": "Cómo estará el tiempo este miércoles en Necochea y Quequén",
+      "score": 1.164,
+      "sources_count": 1,
+      "first_seen": "2026-10-14T04:08:20+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/04/istockphoto-982222848-612x612-1.jpg",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Cómo estará el tiempo este miércoles en Necochea y Quequén",
+          "url": "https://tsnnecochea.com.ar/locales/como-estara-el-tiempo-este-miercoles-en-necochea-y-quequen-16-239607/",
+          "published_at": "2026-10-14T04:08:20+00:00",
+          "first_seen": "2026-10-14T04:30:01.135551+00:00",
+          "category": "humedad",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/04/istockphoto-982222848-612x612-1.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Locales | humedad | Tiempo Cómo estará el tiempo este miércoles en Necochea y Quequén Datos aportados por el Servicio Meteorológico Nacional Por Redacción TSN 14/10/2026 · 01:08 AM Agregar TSN Necochea en El pronóstico del Servicio Meteorológico Nacional para este miércoles 14 de octubre en Necochea indica una temperatura máxima de 14°C y una mínima de 8° C, con vientos del Este a 22 km/h. Por la madrugada, la temperatura será de 8° C. El viento es del cuadrante Este a una velocidad que puede llegar a 22 km/h, con el cielo mayormente nublado.",
+          "En la mañana la temperatura será de 12° C, el viento soplará del cuadrante Este a una velocidad que puede llegar a 22 km/h, con lluvias aisladas. Por la tarde se espera una temperatura máxima de alrededor de 14 grados, el viento soplará del sector Sudeste a una velocidad que pueden llegar a los 22 kilómetros y chaparrones."
+        ],
+        "generated": "2026-10-14T04:31:05.159372+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-14T04:30:01.135551+00:00"
+    },
+    {
       "key": "gobierno mantiene operativo recibir papa no descarta cambios preparativos",
       "title": "El Gobierno mantiene operativo para recibir al Papa y no descarta cambios en los preparativos",
-      "score": 1.196,
+      "score": 1.147,
       "sources_count": 1,
       "first_seen": "2026-10-14T03:57:20+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/540-3.avif",
@@ -26,16 +55,190 @@
           "TSN Necochea | ‹ VOLVER | Generales | gobierno nacional | Visita El Gobierno mantiene operativo para recibir al Papa y no descarta cambios en los preparativos La ministra de Seguridad, Alejandra Monteoliva reiteró que la orden de la administración nacional es “seguir trabajando” en el operativo para recibir al Pontífice. Por Redacción TSN 14/10/2026 · 12:57 AM Agregar TSN Necochea en La ministra de Seguridad, Alejandra Monteoliva, fue una de los funcionarios del Gobierno nacional que habló sobre la salud del papa León XIV , e hizo foco en su visita a la Argentina, aunque admitió que podría haber cambios en cuanto a los preparativos.",
           "En declaraciones televisivas reproducidas por la Agencia Noticias Argentinas, la titular de la cartera de Seguridad sostuvo: “Hasta que no haya una respuesta oficial del Vaticano, seguimos trabajando porque es un dispositivo impresionante”."
         ],
-        "generated": "2026-10-14T04:01:07.152696+00:00"
+        "generated": "2026-10-14T04:31:05.968291+00:00"
+      },
+      "apariciones": 2,
+      "ultima_impresion": "2026-10-14T04:30:01.135551+00:00",
+      "penalizacion": 1.0
+    },
+    {
+      "key": "sueno hollywood caos organizativo cuando necochea convirtio springfield",
+      "title": "Entre el sueño de Hollywood y el caos organizativo: cuando Necochea se convirtió en Springfield",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-14T04:30:01.135551+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261013122220_whatsapp-image-2026-10-13-at-12-22-08.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Entre el sueño de Hollywood y el caos organizativo: cuando Necochea se convirtió en Springfield",
+          "url": "https://necocheadigital.com/nota/119876/entre-el-sueno-de-hollywood-y-el-caos-organizativo-cuando-necochea-se-convirtio-en-springfield/",
+          "published_at": null,
+          "first_seen": "2026-10-14T04:30:01.135551+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La empresa \"Alfa Producciones\" había lanzado una convocatoria de extras para rodar apenas ocho minutos de una película. De boca en boca corrió el rumor de que se pagaban 40 pesos por día —una cifra muy codiciada en aquel 1996— y que los jóvenes compartirían set nada menos que con Tom Cruise, Jean-Claude Van Damme y Michael J. La ilusión del éxito fácil y la visita de estrellas internacionales bastaron para desatar la fiebre colectiva.",
+          "Madrugada de mates, empujones y rumores disparatados A las dos de la mañana del día fijado, el primer vecino ya hacía fila en la puerta del teatro sobre la calle 54. Para las nueve de la mañana, la vereda estaba copada por más de 300 adolescentes de entre 15 y 16 años improvisando ruedas de mate con galletitas. El ambiente de camaradería duró poco: cuando un grupo intentó colarse a los empujones, se desató la primera trifulca de la jornada."
+        ],
+        "generated": "2026-10-14T04:31:44.786943+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-14T04:00:01.178605+00:00"
+      "ultima_impresion": "2026-10-14T04:30:01.135551+00:00"
+    },
+    {
+      "key": "avanza concejo deliberante analisis nuevo pliego transporte publico colectivos",
+      "title": "Avanza en el Concejo Deliberante el análisis del nuevo pliego para el transporte público de colectivos",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-14T04:30:01.135551+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261013121633_24-04-foto-colectivo-azul.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Avanza en el Concejo Deliberante el análisis del nuevo pliego para el transporte público de colectivos",
+          "url": "https://necocheadigital.com/nota/119875/avanza-en-el-concejo-deliberante-el-analisis-del-nuevo-pliego-para-el-transporte-publico-de-colectivos/",
+          "published_at": null,
+          "first_seen": "2026-10-14T04:30:01.135551+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Los ediles mantuvieron reuniones de trabajo en la Comisión de Transporte incluso durante el feriado del lunes. La intención de los bloques es introducir modificaciones clave antes de elevar el texto definitivo al recinto para su votación. Un contrato a 20 años y un esquema de nueve líneas Uno de los puntos centrales del proyecto oficial es el plazo de concesión. Se propone un contrato de 20 años con posibilidad de una prórroga de 6 años y 8 meses adicionales, siempre que el municipio lo considere conveniente.",
+          "En cuanto a los recorridos, el pliego contempla nueve líneas. Las líneas 502, 510, 511 y 512 serán de cumplimiento obligatorio para los oferentes. En el caso de la 502, las empresas podrán optar por cubrir los ramales A y C, o bien la totalidad de sus tres ramales."
+        ],
+        "generated": "2026-10-14T04:31:45.559340+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-14T04:30:01.135551+00:00"
+    },
+    {
+      "key": "detuvieron via publica hombre 52 anos pedido captura necochea",
+      "title": "Detuvieron en la vía pública a un hombre de 52 años con pedido de captura en Necochea",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-14T04:30:01.135551+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/acbb934877cc0f3664c3f1bf0f03b8d074228323.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Detuvieron en la vía pública a un hombre de 52 años con pedido de captura en Necochea",
+          "url": "https://necocheadigital.com/nota/119872/detuvieron-en-la-via-publica-a-un-hombre-de-52-anos-con-pedido-de-captura-en-necochea/",
+          "published_at": null,
+          "first_seen": "2026-10-14T04:30:01.135551+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El procedimiento se desarrolló alrededor de las 22:20, luego de que el sistema de emergencias CATE 911 alertara sobre una discusión entre dos personas en la vía pública. A partir del aviso, efectivos del Comando de Patrullas se dirigieron al lugar e identificaron a ambos hombres. Al verificar los datos personales de uno de ellos en el sistema informático policial, constataron que tenía un pedido de captura vigente desde el 13 de agosto de 2026 , en el marco de una causa judicial.",
+          "Ante esa situación, el hombre, de 52 años, fue trasladado a la dependencia policial correspondiente y se dio intervención al tribunal que había solicitado su captura. Finalmente, la autoridad judicial dispuso su detención y la realización de las actuaciones legales correspondientes. Evitar repetir detención y capturaReemplazar frases burocráticas"
+        ],
+        "generated": "2026-10-14T04:31:46.728281+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-14T04:30:01.135551+00:00"
+    },
+    {
+      "key": "municipalidad necochea abrio busquedas laborales profesionales enfermeria",
+      "title": "La Municipalidad de Necochea abrió búsquedas laborales para profesionales de Enfermería",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-14T04:30:01.135551+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261012130630_enfermera.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "La Municipalidad de Necochea abrió búsquedas laborales para profesionales de Enfermería",
+          "url": "https://necocheadigital.com/nota/119862/la-municipalidad-de-necochea-abrio-busquedas-laborales-para-profesionales-de-enfermeria/",
+          "published_at": null,
+          "first_seen": "2026-10-14T04:30:01.135551+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La Municipalidad de Necochea, a través de la Secretaría de Salud, anunció la apertura de convocatorias laborales destinadas a cubrir puestos de Enfermera/o en las Unidades Sanitarias de las localidades de Claraz y La Dulce. Requisitos generales Para participar del proceso de selección de ambas plazas, los/as postulantes deberán contar con: -Título habilitante. -Matrícula profesional vigente. En cuanto a tareas y especificaciones del puesto, en ambos casos las funciones principales a desarrollar en los centros de salud locales incluyen: -Atención de pacientes en general.",
+          "-Derivaciones al Hospital Municipal “Dr. -Asistencia en situaciones de complejidad, internación y atención de adultos mayores. Carga horaria por localidad: -Unidad Sanitaria de Claraz: Carga laboral de 48 horas semanales (de lunes a sábados y/o francos rotativos)."
+        ],
+        "generated": "2026-10-14T04:31:47.485279+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-14T04:30:01.135551+00:00"
+    },
+    {
+      "key": "regional federal amateur jornadas adversas ida ministerio independiente sc",
+      "title": "Regional Federal Amateur: jornadas adversas en la ida para Ministerio e Independiente SC",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-14T04:30:01.135551+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261012132941_whatsapp-image-2026-10-12-at-13-29-24.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Regional Federal Amateur: jornadas adversas en la ida para Ministerio e Independiente SC",
+          "url": "https://necocheadigital.com/nota/119863/regional-federal-amateur-jornadas-adversas-en-la-ida-para-ministerio-e-independiente-sc/",
+          "published_at": null,
+          "first_seen": "2026-10-14T04:30:01.135551+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Ministerio sufrió una dura goleada en Mar del Plata En el Estadio José Piantoni, Ministerio cayo derrotado por 4-0 frente a Quilmes de Mar del Plata. El conjunto de Quequén, dirigido por Gustavo Tridón, logró sostener un planteo defensivo ordenado durante la primera mitad, cediendo poco terreno e incluso generando aproximaciones de peligro en el área rival. Sin embargo, la paridad se desmoronó en el complemento.",
+          "El equipo marplatense golpeó de entrada y por duplicado a través de Juan Hernández y Bruno Vallejo. Sobre el cierre del encuentro, Julián Duhalde y Kevin Collazo convirtieron prácticamente debajo del arco defendido por Emanuel Gaytán para sellar el 4-0 definitivo. Con este abultado resultado en contra, el \"Decano\" afrontará un importante desafío el próximo domingo 18 de octubre , cuando reciba a Quilmes como local en Quequén con la meta de dar vuelta la serie para seguir compitiendo en la cuarta categoría del fútbol argentino."
+        ],
+        "generated": "2026-10-14T04:31:48.248133+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-14T04:30:01.135551+00:00"
+    },
+    {
+      "key": "necochea cumple 145 anos seremos capaces volver faro",
+      "title": "Necochea cumple 145 años: ¿seremos capaces de volver a ser un faro?",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-14T04:30:01.135551+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/93a8b4ceda9934851377a1c38314dd83f7d92cd4.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Necochea cumple 145 años: ¿seremos capaces de volver a ser un faro?",
+          "url": "https://necocheadigital.com/nota/119868/necochea-cumple-145-anos-seremos-capaces-de-volver-a-ser-un-faro/",
+          "published_at": null,
+          "first_seen": "2026-10-14T04:30:01.135551+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Somos una ciudad joven si nos comparamos con tantas otras del mundo. Tenemos una ubicación privilegiada, un puerto de enorme importancia, un campo productivo, el mar, las playas, un parque extraordinario y una comunidad que, a lo largo de su historia, fue capaz de construir oportunidades. Sin embargo, tener recursos y posibilidades no significa, necesariamente, saber aprovecharlos. Por eso, en este aniversario, me parece oportuno preguntarnos: ¿qué somos como ciudad?",
+          "Necochea atraviesa un momento particular, en un país que vive una profunda transformación económica, con dificultades para el comercio, la producción y el sostenimiento de numerosas actividades. Cambian las formas de comprar, vender, trabajar y relacionarnos. Algunas actividades pierden terreno, otras buscan adaptarse y surgen desafíos que nos obligan a repensar el futuro."
+        ],
+        "generated": "2026-10-14T04:31:49.014808+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-14T04:30:01.135551+00:00"
     },
     {
       "key": "urgente busquedad adolescentes 13 anos nuestra ciduad",
       "title": "Urgente busquedad de un adolescentes de 13 años en nuestra ciduad",
-      "score": 1.125,
+      "score": 0.593,
       "sources_count": 1,
       "first_seen": "2026-10-14T03:13:19+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-13-at-22.56.17.webp",
@@ -55,190 +258,16 @@
           "TSN Necochea | ‹ VOLVER | Locales | Adolescente | Llamado a la solidaridad Urgente busquedad de un adolescentes de 13 años en nuestra ciduad Se ausentó de su domicilio y no regresó Por Redacción TSN 14/10/2026 · 12:13 AM Agregar TSN Necochea en Se solicita la colaboración de la comunidad para dar con el paradero de Benjamín Bautista Gómez, de 13 años, quien se ausentó de su domicilio y no regresó. El adolescente salió alrededor de las 7 de la mañana, de su vivienda rumbo a la Escuela de Educación Secundaria Técnica N.º 2, ubicada en Jesuita Cardiel y calle 46 . Finalizada la jornada escolar, a las 17:45, se retiró del establecimiento, pero no regresó a su hogar. Características físicas y vestimenta: – Edad: 13 años.",
           "– Estatura: aproximadamente 1,50 metros. – Cabello: oscuro y semilargo. – Vestía una remera blanca, pantalón tipo jogging gris y una campera verde con capucha."
         ],
-        "generated": "2026-10-14T04:02:04.255091+00:00"
+        "generated": "2026-10-14T04:32:08.907220+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-10-14T04:00:01.178605+00:00",
-      "penalizacion": 1.0
-    },
-    {
-      "key": "brindaran charla abierta ciberdelitos redes sociales",
-      "title": "Brindarán una charla abierta sobre ciberdelitos y redes sociales",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-14T04:00:01.178605+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/7dd7d8f892b0d74796c2c40adec9f228ccde72ef.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Brindarán una charla abierta sobre ciberdelitos y redes sociales",
-          "url": "https://necocheadigital.com/nota/119878/brindaran-una-charla-abierta-sobre-ciberdelitos-y-redes-sociales/",
-          "published_at": null,
-          "first_seen": "2026-10-14T04:00:01.178605+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El Honorable Concejo Deliberante lanzó una convocatoria abierta a toda la comunidad para participar de una jornada de capacitación y concientización focalizada en la seguridad en el entorno digital y el resguardo de niños, niñas y adolescentes. La actividad se realizará este viernes 16 de octubre, a las 15, en el salón de sesiones de la sede del cuerpo deliberativo, ubicado en Calle 56 N° 2945.",
-          "Bajo el título “Los peligros de las redes sociales: delitos informáticos y cómo proteger a tus hijos”, la propuesta es organizada e impulsada en el marco de las acciones del programa institucional “Concejo Cerca”, orientado a vincular al cuerpo deliberativo con las distintas problemáticas y demandas del distrito. La jornada es de acceso libre y gratuito, abierta a todo público y no requiere inscripción previa."
-        ],
-        "generated": "2026-10-14T04:02:05.718546+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-14T04:00:01.178605+00:00"
-    },
-    {
-      "key": "gobierno promulgo reforma zona fria finalizan descuentos automaticos gas viene fuerte impacto necochea",
-      "title": "El Gobierno promulgó la reforma de la Zona Fría: finalizan los descuentos automáticos de gas y se viene un fuerte impacto en Necochea",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-14T04:00:01.178605+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/5deb008993655a3585f4cc546894bf7c632fb069.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "El Gobierno promulgó la reforma de la Zona Fría: finalizan los descuentos automáticos de gas y se viene un fuerte impacto en Necochea",
-          "url": "https://necocheadigital.com/nota/119874/el-gobierno-promulgo-la-reforma-de-la-zona-fria-finalizan-los-descuentos-automaticos-de-gas-y-se-viene-un-fuerte-impacto-en-necochea/",
-          "published_at": null,
-          "first_seen": "2026-10-14T04:00:01.178605+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Con esta decisión, el Estado busca ahorrar unos 400 millones de dólares anuales a costa de encarecer de manera directa el servicio de gas para más de 3,3 millones de hogares en 11 provincias. La normativa deroga los artículos fundamentales de la Ley 27.637 y modifica el artículo 75 de la Ley 25.565, restringiendo el Fondo Fiduciario para Subsidios de Consumos de Gas. De este modo, los subsidios dejarán de ser un derecho universal de las zonas de clima frío o templado frío para transformarse en un sistema fuertemente acotado, donde residir en una ciudad fría ya no garantiza ningún tipo de alivio tarifario.",
-          "Necochea entre los distritos más perjudicados En la provincia de Buenos Aires, el recorte golpea de lleno a 1,2 millones de hogares distribuidos en 94 municipios . Ciudades de la Costa Atlántica y del interior bonaerense como Mar del Plata, Bahía Blanca, Tandil, Olavarría y Necochea quedan excluidas del beneficio geográfico automático."
-        ],
-        "generated": "2026-10-14T04:02:07.111906+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-14T04:00:01.178605+00:00"
-    },
-    {
-      "key": "milei respaldo caputo nego cambios economia rumores renuncia",
-      "title": "Milei respaldó a Caputo y negó cambios en Economía tras los rumores de renuncia",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-14T04:00:01.178605+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/f8a6907d5ef7f76e1af2f5e6f6d5c4975a148f47.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Milei respaldó a Caputo y negó cambios en Economía tras los rumores de renuncia",
-          "url": "https://necocheadigital.com/nota/119871/milei-respaldo-a-caputo-y-nego-cambios-en-economia-tras-los-rumores-de-renuncia/",
-          "published_at": null,
-          "first_seen": "2026-10-14T04:00:01.178605+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El presidente Javier Milei salió a despejar las versiones sobre una eventual salida de Luis “Toto” Caputo del Ministerio de Economía y ratificó su respaldo al funcionario, en medio de las especulaciones que se extendieron durante los últimos días en la Casa Rosada. “Es una pelotudez del tamaño de una casa. Yo tengo una relación simbiótica con Caputo”, afirmó Milei este lunes en una entrevista con Radio Mitre.",
-          "Además, sostuvo que ambos mantienen una visión compartida sobre la política económica y que se entienden sin necesidad de mayores explicaciones. El mandatario cuestionó especialmente que las versiones sobre una posible renuncia surgieran cuando Caputo se prepara para mantener contactos con la directora gerente del Fondo Monetario Internacional (FMI), Kristalina Georgieva, durante su viaje a Tailandia."
-        ],
-        "generated": "2026-10-14T04:02:07.936597+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-14T04:00:01.178605+00:00"
-    },
-    {
-      "key": "quequen investigan muerte hombre hallado vida patio casa",
-      "title": "Quequén: investigan la muerte de un hombre hallado sin vida en el patio de su casa",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-14T04:00:01.178605+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261012141813_whatsapp-image-2026-10-12-at-14-17-58.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Quequén: investigan la muerte de un hombre hallado sin vida en el patio de su casa",
-          "url": "https://necocheadigital.com/nota/119867/quequen-investigan-la-muerte-de-un-hombre-hallado-sin-vida-en-el-patio-de-su-casa/",
-          "published_at": null,
-          "first_seen": "2026-10-14T04:00:01.178605+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Efectivos del Comando de Patrullas y peritos de la Policía Científica trabajan en el domicilio de la calle 561 al 4100, en Quequén, tras el hallazgo sin vida de Juan Omar Bellavía, de 80 años, en el patio de su propiedad. El aviso inicial a la central de emergencias 911 fue realizado por un vecino del sector, quien advirtió la presencia del cuerpo y alertó que la víctima presentaba lesiones compatibles con mordeduras de canino en una de sus extremidades inferiores.",
-          "De acuerdo con las primeras averiguaciones policiales, el octogenario se encontraba internado en el Hospital Provincial Neuropsiquiátrico “Domingo Taraborelli”, establecimiento asistencial del cual se había evadido sin autorización durante la jornada del jueves."
-        ],
-        "generated": "2026-10-14T04:02:09.152083+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-14T04:00:01.178605+00:00"
-    },
-    {
-      "key": "crisis productiva buenos aires cerraron 400 unidades productivas perdieron 106 000 empleos",
-      "title": "Crisis productiva en Buenos Aires: cerraron más de 8.400 unidades productivas y se perdieron 106.000 empleos",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-14T04:00:01.178605+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/61c860fababf2998f3a8b5a10ae51318b404eff4.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Crisis productiva en Buenos Aires: cerraron más de 8.400 unidades productivas y se perdieron 106.000 empleos",
-          "url": "https://necocheadigital.com/nota/119861/crisis-productiva-en-buenos-aires-cerraron-mas-de-8-400-unidades-productivas-y-se-perdieron-106-000-empleos/",
-          "published_at": null,
-          "first_seen": "2026-10-14T04:00:01.178605+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La crisis económica continúa generando dificultades para el entramado productivo bonaerense, con empresas que reducen su actividad, comercios que enfrentan una fuerte caída de las ventas y trabajadores que pierden sus puestos en un mercado laboral cada vez más complejo. De acuerdo con un relevamiento del Centro de Economía Política Argentina (CEPA), elaborado a partir de estadísticas oficiales, entre noviembre de 2023 y mayo de 2026 la provincia de Buenos Aires perdió 8.465 unidades productivas y 106.136 puestos de trabajo registrados .",
-          "Las cifras reflejan el impacto sobre empresas de distintos tamaños y sectores durante los primeros años de la gestión de Javier Milei. Entre los factores que condicionan la actividad aparecen la debilidad del consumo interno, los costos de producción, las dificultades de financiamiento y la apertura de las importaciones."
-        ],
-        "generated": "2026-10-14T04:02:10.349126+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-14T04:00:01.178605+00:00"
-    },
-    {
-      "key": "paro docente gremios docentes unicen paran marchan jueves necochea quequen",
-      "title": "Paro docente :Gremios docentes y la UNICEN paran y marchan este jueves en Necochea y Quequén",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-14T04:00:01.178605+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261012140559_whatsapp-image-2026-10-12-at-14-05-44.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Paro docente :Gremios docentes y la UNICEN paran y marchan este jueves en Necochea y Quequén",
-          "url": "https://necocheadigital.com/nota/119866/paro-docente-gremios-docentes-y-la-unicen-paran-y-marchan-este-jueves-en-necochea-y-quequen/",
-          "published_at": null,
-          "first_seen": "2026-10-14T04:00:01.178605+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "En el marco de una jornada de protesta de alcance nacional y de la Quinta Marcha Federal Universitaria, las organizaciones sindicales del sector docente bonaerense y la comunidad académica local diagramaron un plan de lucha conjunto que tendrá un fuerte impacto en las aulas y en las calles de Necochea y Quequén este jueves 15 de octubre. La medida combinará un paro total de actividades por 24 horas en los establecimientos de educación obligatoria y una manifestación masiva impulsada por diversos sectores educativos, la cual se concentrará a partir de las 17 en las inmediaciones de la Plaza Dardo Rocha.",
-          "El cese de tareas en el sistema educativo estatal provincial cuenta con la ratificación formal de las cúpulas del Sindicato Unificado de Trabajadores de la Educación de Buenos Aires (Suteba) y la Federación de Educadores Bonaerenses (FEB), en sintonía con el llamado a nivel nacional impulsado por la Ctera."
-        ],
-        "generated": "2026-10-14T04:02:11.530004+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-14T04:00:01.178605+00:00"
+      "apariciones": 3,
+      "ultima_impresion": "2026-10-14T04:30:01.135551+00:00",
+      "penalizacion": 0.55
     },
     {
       "key": "robaron cartera iphone 16 campera durnate evento fin semana",
       "title": "Robaron una cartera, un iphone 16 y una campera durnate un evento el fin de semana",
-      "score": 0.013,
+      "score": 0.007,
       "sources_count": 1,
       "first_seen": "2026-10-14T00:17:46+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2024/10/Captura-de-pantalla-2024-10-07-122826.jpg",
@@ -258,16 +287,16 @@
           "TSN Necochea | ‹ VOLVER | Locales | Madrugada Robaron una cartera, un iphone 16 y una campera durnate un evento el fin de semana La víctima participaba de Jornadas Deportivas de Funcionarios y Magistrados de la provincia de Buenos Aires Por Redacción TSN 13/10/2026 · 09:17 PM Móvil policial Agregar TSN Necochea en Un hecho de hurto fue denunciado tras un evento realizado en un local nocturno ubicado en la Villa Díaz Vélez de nuestra ciudad, durante la noche del sábado 10 de octubre. Una mujer de 33 años participaba de las Jornadas Deportivas de Funcionarios y Magistrados de la provincia de Buenos Aires .",
           "Cerca de las 22, dejó sus pertenencias sobre una mesa ubicada al costado de la pista de baile."
         ],
-        "generated": "2026-10-14T04:03:08.370739+00:00"
+        "generated": "2026-10-14T04:33:06.011145+00:00"
       },
-      "apariciones": 9,
-      "ultima_impresion": "2026-10-14T04:00:01.178605+00:00",
-      "penalizacion": 0.015
+      "apariciones": 10,
+      "ultima_impresion": "2026-10-14T04:30:01.135551+00:00",
+      "penalizacion": 0.008
     },
     {
       "key": "inflacion septiembre acumula 23 va ano",
       "title": "La inflación de septiembre fue del 1,9% y acumula un 23,6% en lo que va del año",
-      "score": 0.006,
+      "score": 0.003,
       "sources_count": 1,
       "first_seen": "2026-10-13T23:59:21+00:00",
       "image": null,
@@ -287,49 +316,11 @@
           "El Instituto Nacional de Estadística y Censos (Indec) informó este martes que la inflación de septiembre fue del 1,9%, lo que representa una aceleración respecto de agosto, cuando el Índice de Precios al Consumidor (IPC) había registrado una suba del 1,7%. Con este resultado, la inflación acumulada durante los primeros nueve meses de 2026 alcanzó el 23,6%, mientras que la variación interanual se ubicó en el 33,4%. Los rubros que más aumentaron La división que registró el mayor incremento durante septiembre fue Vivienda, agua, electricidad, gas y otros combustibles, con una suba del 3,1%.",
           "En segundo lugar se ubicó Educación, con un aumento del 3%, seguida por Comunicación, que registró un 2,5%. También superaron el promedio general los rubros Salud, con un 2,4%, y Alimentos y bebidas no alcohólicas, con un incremento del 2%."
         ],
-        "generated": "2026-10-14T04:03:58.000638+00:00"
+        "generated": "2026-10-14T04:33:58.095369+00:00"
       },
-      "apariciones": 10,
-      "ultima_impresion": "2026-10-14T04:00:01.178605+00:00",
-      "penalizacion": 0.008
-    },
-    {
-      "key": "inflacion acelero septiembre acumulo 33 ultimos doce meses",
-      "title": "La inflación se aceleró al 1,9% en septiembre y acumuló 33,4% en doce meses",
-      "score": 0.001,
-      "sources_count": 2,
-      "first_seen": "2026-10-13T19:36:03+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/08/Inflacion-precios-1.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "La inflación se aceleró al 1,9% en septiembre y acumuló 33,4% en doce meses",
-          "url": "https://tsnnecochea.com.ar/nacion/la-inflacion-se-acelero-al-19-en-septiembre-y-acumulo-334-en-doce-meses-239584/",
-          "published_at": "2026-10-13T19:36:03+00:00",
-          "first_seen": "2026-10-13T21:49:22.705447+00:00",
-          "category": "alimentos",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/08/Inflacion-precios-1.webp"
-        },
-        {
-          "portal": "Necochea Digital",
-          "title": "La inflación se aceleró al 1,9% en septiembre y acumuló 33,4% en los últimos doce meses",
-          "url": "https://necocheadigital.com/nota/119877/la-inflacion-se-acelero-al-1-9-en-septiembre-y-acumulo-33-4-en-los-ultimos-doce-meses/",
-          "published_at": null,
-          "first_seen": "2026-10-13T21:49:22.705447+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Nación | alimentos | INDEC La inflación se aceleró al 1,9% en septiembre y acumuló 33,4% en doce meses El IPC del noveno mes registró una suba de 0,2 puntos porcentuales respecto a agosto. El rubro de alimentos presionó al alza. Por Redacción TSN 13/10/2026 · 04:36 PM Los precios se aceleraron en julio en CABA Fotografía: Agencia Noticias Argentinas / Archivo.",
-          "Agregar TSN Necochea en La inflación de septiembre se aceleró al 1,9% y acumuló una variación de 33,4% con respecto al mismo mes del año anterior. El precio de los alimentos se movió en el arranque de septiembre Foto: Agencia NA (Damián Dopacio/Ilustrativa) Según informó el Instituto Nacional de Estadística y Censos (INDEC) , el Índice de Precios al Consumidor (IPC) acumulado de 2026 fue de 23,6% . Con este resultado, la tendencia de la inflación continúa en un vaivén iniciado en julio (2,1%) ."
-        ],
-        "generated": "2026-10-14T04:01:06.347637+00:00"
-      },
-      "apariciones": 15,
-      "ultima_impresion": "2026-10-14T04:00:01.178605+00:00",
-      "penalizacion": 0.0
+      "apariciones": 11,
+      "ultima_impresion": "2026-10-14T04:30:01.135551+00:00",
+      "penalizacion": 0.005
     },
     {
       "key": "necochea presente cordoba 56 edicion congreso anual faped preside santiago veiga",
@@ -381,57 +372,48 @@
           "TSN Necochea | ‹ VOLVER | Deportes | congreso | Reunión Necochea presente en Córdoba en la 56 edición del Congreso anual de la Faped que preside Santiago Veiga También hay una comitiva del Círculo de periodistas Deportivos Por Redacción TSN 13/10/2026 · 03:19 PM Agregar TSN Necochea en Con la presencia de 15 círculos de periodistas deportivos de todo el país, entre ellos Necochea, la Faped ( Federación Argentina de Periodistas Deportivos) mantiene esta semana su Congreso anual, en esta oportunidad en la Provincia de Córdoba.",
           "Esta mañana, la comitiva se trasladó a la “vieja” Legislatura de la capital cordobesa, donde se desarrolló el acto de apertura de esta 56 edición y la asamblea ordinaria donde se aprobó la memoria y balance anual, al tiempo que se destacó que la Faped ahora sí cuenta con personería jurídica, trámite que tuvo lugar en nuestra ciudad con la firma de los círculos de Necochea, San Pedro y Chubut."
         ],
-        "generated": "2026-10-14T04:01:00.737830+00:00"
+        "generated": "2026-10-14T04:31:01.835910+00:00"
       },
-      "apariciones": 19,
-      "ultima_impresion": "2026-10-14T04:00:01.178605+00:00",
+      "apariciones": 20,
+      "ultima_impresion": "2026-10-14T04:30:01.135551+00:00",
       "penalizacion": 0.0
     },
     {
-      "key": "realizaran maraton mamografica 18 horas octubre rosa",
-      "title": "Realizarán maratón mamográfica de 18 horas por el Octubre Rosa",
+      "key": "inflacion acelero septiembre acumulo 33 ultimos doce meses",
+      "title": "La inflación se aceleró al 1,9% en septiembre y acumuló 33,4% en doce meses",
       "score": 0.0,
-      "sources_count": 3,
-      "first_seen": "2026-10-13T16:11:23+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/1772c6306aca36be62285a69ae9647350ee0a363.webp",
+      "sources_count": 2,
+      "first_seen": "2026-10-13T19:36:03+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/08/Inflacion-precios-1.webp",
       "articles": [
         {
           "portal": "TSN Necochea",
-          "title": "Realizarán maratón mamográfica de 18 horas por el Octubre Rosa",
-          "url": "https://tsnnecochea.com.ar/locales/realizaran-maraton-mamografica-de-18-horas-por-el-octubre-rosa-239559/",
-          "published_at": "2026-10-13T17:56:01+00:00",
-          "first_seen": "2026-10-13T18:00:01.349289+00:00",
-          "category": "Hospital Irúrzun",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/1772c6306aca36be62285a69ae9647350ee0a363.webp"
+          "title": "La inflación se aceleró al 1,9% en septiembre y acumuló 33,4% en doce meses",
+          "url": "https://tsnnecochea.com.ar/nacion/la-inflacion-se-acelero-al-19-en-septiembre-y-acumulo-334-en-doce-meses-239584/",
+          "published_at": "2026-10-13T19:36:03+00:00",
+          "first_seen": "2026-10-13T21:49:22.705447+00:00",
+          "category": "alimentos",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/08/Inflacion-precios-1.webp"
         },
         {
           "portal": "Necochea Digital",
-          "title": "El martes próximo se realizará un maratón mamográfica de 18 horas por el Octubre Rosa",
-          "url": "https://necocheadigital.com/nota/119880/el-martes-proximo-se-realizara-un-maraton-mamografica-de-18-horas-por-el-octubre-rosa/",
+          "title": "La inflación se aceleró al 1,9% en septiembre y acumuló 33,4% en los últimos doce meses",
+          "url": "https://necocheadigital.com/nota/119877/la-inflacion-se-acelero-al-1-9-en-septiembre-y-acumulo-33-4-en-los-ultimos-doce-meses/",
           "published_at": null,
           "first_seen": "2026-10-13T21:49:22.705447+00:00",
           "category": null,
-          "image": null
-        },
-        {
-          "portal": "Necochea News",
-          "title": "Maratón Mamográfica de 18 horas se realizará el 20 de octubre en el Hospital José Irurzun de Quequén",
-          "url": "https://necocheanews.com.ar/maraton-mamografica-de-18-horas-se-realizara-el-20-de-octubre-en-el-hospital-jose-irurzun-de-quequen/",
-          "published_at": "2026-10-13T16:11:23+00:00",
-          "first_seen": "2026-10-13T17:07:21.720223+00:00",
-          "category": "LOCALES",
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Locales | Hospital Irúrzun | Salud Realizarán maratón mamográfica de 18 horas por el Octubre Rosa Será el próximo martes en el Hospital Irurzun. No será necesario de sacar turno Por Redacción TSN 13/10/2026 · 02:56 PM Agregar TSN Necochea en En el marco de Octubre Rosa , el mes dedicado a la concientización y prevención del cáncer de mama, el próximo martes 20 de octubre se realizará la Maratón Mamográfica en el Hospital Municipal “José Irurzun” de Quequén, con el acompañamiento de la Secretaría de Salud de la Municipalidad de Necochea.",
-          "La iniciativa se desarrollará durante 18 horas ininterrumpidas, desde las 6 de la mañana hasta la medianoche , con el objetivo de ampliar el acceso a los controles y facilitar la realización de mamografías a mujeres mayores de 40 años. La atención será por orden de llegada."
+          "TSN Necochea | ‹ VOLVER | Nación | alimentos | INDEC La inflación se aceleró al 1,9% en septiembre y acumuló 33,4% en doce meses El IPC del noveno mes registró una suba de 0,2 puntos porcentuales respecto a agosto. El rubro de alimentos presionó al alza. Por Redacción TSN 13/10/2026 · 04:36 PM Los precios se aceleraron en julio en CABA Fotografía: Agencia Noticias Argentinas / Archivo.",
+          "Agregar TSN Necochea en La inflación de septiembre se aceleró al 1,9% y acumuló una variación de 33,4% con respecto al mismo mes del año anterior. El precio de los alimentos se movió en el arranque de septiembre Foto: Agencia NA (Damián Dopacio/Ilustrativa) Según informó el Instituto Nacional de Estadística y Censos (INDEC) , el Índice de Precios al Consumidor (IPC) acumulado de 2026 fue de 23,6% . Con este resultado, la tendencia de la inflación continúa en un vaivén iniciado en julio (2,1%) ."
         ],
-        "generated": "2026-10-14T04:01:04.453948+00:00"
+        "generated": "2026-10-14T04:31:03.996627+00:00"
       },
-      "apariciones": 17,
-      "ultima_impresion": "2026-10-14T04:00:01.178605+00:00",
+      "apariciones": 16,
+      "ultima_impresion": "2026-10-14T04:30:01.135551+00:00",
       "penalizacion": 0.0
     },
     {
@@ -457,10 +439,10 @@
           "Representantes de la Universidad Nacional del Centro de la Provincia de Buenos Aires (UNICEN), gremios docentes y no docentes, estudiantes y numerosas organizaciones sociales y sindicales brindaron una conferencia de prensa para convocar a la comunidad de Necochea y Quequén a participar de la quinta marcha en defensa de la universidad pública. La movilización se realizará este jueves 15 de octubre, bajo la consigna “Por más educación, por más democracia y por más soberanía”.",
           "La convocatoria tendrá como punto de encuentro la Plaza Dardo Rocha, frente al Palacio Municipal, a partir de las 17 horas, mientras que la marcha comenzará a las 17:30. Los organizadores remarcaron que la manifestación no estará limitada al reclamo universitario, sino que buscará reunir a distintos sectores de la comunidad en defensa de la educación, la ciencia, los salarios y otros derechos."
         ],
-        "generated": "2026-10-14T04:04:48.608794+00:00"
+        "generated": "2026-10-14T04:34:46.963135+00:00"
       },
-      "apariciones": 19,
-      "ultima_impresion": "2026-10-14T04:00:01.178605+00:00",
+      "apariciones": 20,
+      "ultima_impresion": "2026-10-14T04:30:01.135551+00:00",
       "penalizacion": 0.0
     },
     {
@@ -486,10 +468,10 @@
           "La Provincia de Buenos Aires estableció nuevas condiciones para obtener la licencia de conducir. A partir de ahora, quienes realicen y aprueben el examen práctico con un automóvil de transmisión automática quedarán habilitados únicamente para manejar vehículos con ese mismo sistema, sin autorización para conducir aquellos equipados con caja manual. La medida fue oficializada mediante la Circular 11/2026 del Gobierno bonaerense y comenzó a regir desde su comunicación.",
           "Su objetivo es unificar los criterios de evaluación práctica en los distintos municipios de la provincia, incluido Necochea. Qué cambiará en las licencias de conducir La nueva disposición establece que, cuando una persona obtenga su primera licencia después de rendir con un vehículo automático, deberá incorporarse una aclaración específica en el campo de observaciones del registro. La leyenda será: “Conduce únicamente vehículos con transmisión automática”."
         ],
-        "generated": "2026-10-14T04:05:39.197240+00:00"
+        "generated": "2026-10-14T04:35:36.159640+00:00"
       },
-      "apariciones": 19,
-      "ultima_impresion": "2026-10-14T04:00:01.178605+00:00",
+      "apariciones": 20,
+      "ultima_impresion": "2026-10-14T04:30:01.135551+00:00",
       "penalizacion": 0.0
     },
     {
@@ -515,10 +497,10 @@
           "El Gobierno nacional promulgó este martes 13 de octubre la Ley 27.828, que establece una reducción del régimen de tarifas diferenciales de gas conocido como Zona Fría. La medida afecta a 94 municipios de la provincia de Buenos Aires, entre ellos Necochea, cuyos usuarios dejarán de contar con los descuentos que se aplicaban en sus facturas.",
           "La decisión implica un cambio significativo para cientos de miles de hogares bonaerenses que hasta ahora accedían a tarifas reducidas por residir en regiones con bajas temperaturas durante buena parte del año. Con la modificación, el esquema de municipios beneficiados vuelve a la situación anterior a 2021, cuando el régimen había sido ampliado."
         ],
-        "generated": "2026-10-14T04:05:42.000630+00:00"
+        "generated": "2026-10-14T04:35:39.267059+00:00"
       },
-      "apariciones": 19,
-      "ultima_impresion": "2026-10-14T04:00:01.178605+00:00",
+      "apariciones": 20,
+      "ultima_impresion": "2026-10-14T04:30:01.135551+00:00",
       "penalizacion": 0.0
     },
     {
@@ -544,10 +526,10 @@
           "Marcelo Laserna, director del hospital de Quequén, destacó el alcance del Programa Retinar y confirmó la continuidad de los estudios preventivos. Este martes se desarrolló una jornada extendida hasta las 20 con tecnología aportada por Provincia. Además, en el marco de Octubre Rosa, recordó que el hospital cuenta con mamógrafo público y gratuito.",
           "El móvil de “Esta Mañana”, por NEC Radio 98.3 del Multimedio NQ, llegó hasta el Hospital Municipal José Irurzun de Quequén , donde este martes se desarrolló una nueva jornada intensiva de controles mediante retinografía, en el marco del Programa Retinar. Su director, Marcelo Laserna , estimó que ya son más de 400 las personas que pasaron por los estudios desde el inicio de la propuesta."
         ],
-        "generated": "2026-10-14T04:05:44.477316+00:00"
+        "generated": "2026-10-14T04:35:42.197034+00:00"
       },
-      "apariciones": 19,
-      "ultima_impresion": "2026-10-14T04:00:01.178605+00:00",
+      "apariciones": 20,
+      "ultima_impresion": "2026-10-14T04:30:01.135551+00:00",
       "penalizacion": 0.0
     },
     {
@@ -573,10 +555,10 @@
           "Alejandro Otero, gerente comercial de FAVA Necochea, repasó las promociones disponibles para esta semana, con financiación en bicicletas, muebles, celulares y otros productos. Además, destacó el movimiento que viene mostrando el microcentro y recordó el positivo resultado del evento realizado por el aniversario de la firma. En diálogo con “Esta Mañana”, por NEC Radio 98.3 del Multimedio NQ, Alejandro Otero, gerente comercial de FAVA Necochea , anticipó las promociones que la firma prepara de cara al Día de la Madre, con alternativas de financiación que llegan hasta las 20 cuotas sin interés en distintas líneas de productos.",
           "“Venimos de meses de mucho trabajo y este no es uno menos. Se suman promociones, propuestas y alternativas”, señaló Otero. La fecha encuentra además a la firma acompañando el denominado Octubre Rosa , con acciones de concientización sobre el cáncer de mama visibles dentro del local comercial."
         ],
-        "generated": "2026-10-14T04:05:47.350658+00:00"
+        "generated": "2026-10-14T04:35:44.788053+00:00"
       },
-      "apariciones": 18,
-      "ultima_impresion": "2026-10-14T04:00:01.178605+00:00",
+      "apariciones": 19,
+      "ultima_impresion": "2026-10-14T04:30:01.135551+00:00",
       "penalizacion": 0.0
     }
   ]
