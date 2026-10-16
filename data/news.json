@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-16T21:30:01.392679+00:00",
+  "generated_at": "2026-10-16T22:00:00.862584+00:00",
   "article_count": 135,
   "fetch_errors": [],
   "stories": [
     {
       "key": "realizo charla redes sociales delitos informaticos",
       "title": "Se realizó una charla sobre redes sociales y delitos informáticos",
-      "score": 2.461,
+      "score": 2.361,
       "sources_count": 2,
       "first_seen": "2026-10-16T19:07:32+00:00",
       "image": "https://cdnartic.ar/NBl0F1Chs4cRlb6jwLOSErSQ7DQ=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/10/natalia_barneche.webp",
@@ -35,16 +35,54 @@
           "El uso de las redes sociales y los dispositivos digitales desde edades cada vez más tempranas plantea nuevos desafíos para las familias, las escuelas y las instituciones. El ciberacoso, la manipulación, la difusión de imágenes sin consentimiento y las estafas virtuales son algunas de las situaciones que pueden afectar a niños y adolescentes. Sobre esta problemática habló la licenciada Natalia Barneche, especialista en delitos informáticos y perfilación criminal, durante una entrevista realizada este jueves 15 de octubre en Voces de la Tarde , el programa que conduce Jorge Gómez por Radio Noticias Necochea, FM 97.3.",
           "Barneche, quien vive en Necochea desde hace casi dos años, ofrecerá este viernes 16, a las 15, una charla abierta titulada “Los peligros de las redes sociales. Delitos informáticos y cómo proteger a tus hijos” ."
         ],
-        "generated": "2026-10-16T21:30:52.323315+00:00"
+        "generated": "2026-10-16T22:00:53.231319+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-16T21:30:01.392679+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-10-16T22:00:00.862584+00:00",
+      "penalizacion": 1.0
+    },
+    {
+      "key": "secuestraron necochea camioneta robada enero mar plata",
+      "title": "Secuestraron en Necochea una camioneta robada en enero en Mar del Plata",
+      "score": 1.916,
+      "sources_count": 2,
+      "first_seen": "2026-10-16T16:37:12+00:00",
+      "image": "https://cdnartic.ar/1pe8DHua_LNuG1_zluo0zfWSPkc=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/10/vehiculo_secuestrado.webp",
+      "articles": [
+        {
+          "portal": "Ecos Diarios",
+          "title": "Secuestraron en Necochea una camioneta robada en enero en Mar del Plata",
+          "url": "https://elecos.com.ar/secuestraron-una-camioneta-robada-en-enero-en-mar-del-plata",
+          "published_at": "2026-10-16T16:37:12+00:00",
+          "first_seen": "2026-10-16T21:30:01.392679+00:00",
+          "category": "13",
+          "image": "https://cdnartic.ar/1pe8DHua_LNuG1_zluo0zfWSPkc=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/10/vehiculo_secuestrado.webp"
+        },
+        {
+          "portal": "Necochea Digital",
+          "title": "Secuestraron en nuestra ciudad una camioneta que había sido robada en Mar del Plata",
+          "url": "https://necocheadigital.com/nota/119918/secuestraron-en-nuestra-ciudad-una-camioneta-que-habia-sido-robada-en-mar-del-plata/",
+          "published_at": null,
+          "first_seen": "2026-10-16T21:30:01.392679+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Una camioneta Fiat Strada de color negro que registraba un pedido de secuestro activo por hurto automotor fue secuestrada durante las últimas horas en la ciudad, luego de que efectivos policiales detectaran diversas irregularidades en su identificación registral durante un patrullaje preventivo. El procedimiento estuvo a cargo de personal del Grupo Técnico Operativo (GTO) perteneciente a la Comisaría Primera.",
+          "La intervención se concretó mientras los uniformados realizaban tareas de control y prevención del delito sobre la avenida 42, en el tramo comprendido entre las calles 69 y 71. Al momento de inspeccionar la unidad estacionada, los agentes advirtieron inconsistencias evidentes entre la chapa patente colocada y la numeración grabada en el chasis."
+        ],
+        "generated": "2026-10-16T22:01:40.237663+00:00"
+      },
+      "apariciones": 2,
+      "ultima_impresion": "2026-10-16T22:00:00.862584+00:00",
+      "penalizacion": 1.0
     },
     {
       "key": "lecturas nos encuentran propuesta ludica artistica pensada chicos",
       "title": "“Lecturas que encuentran”: una propuesta de lectura, juego y arte para los chicos",
-      "score": 2.406,
+      "score": 1.3,
       "sources_count": 2,
       "first_seen": "2026-10-16T19:39:15+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/16-10-FOTO-Maraton-de-Lectura3.webp",
@@ -73,16 +111,16 @@
           "TSN Necochea | ‹ VOLVER | Educación | Cultura | Fue en la Plaza Dardo Rocha “Lecturas que encuentran”: una propuesta de lectura, juego y arte para los chicos Nueva edición de la propuesta destinada a niños de escuelas y jardines. La articulación con las áreas municipales de Educación y Turismo fue clave para ampliar y consolidar la iniciativa.",
           "Por Redacción TSN 16/10/2026 · 04:39 PM Agregar TSN Necochea en La plaza se convirtió en un espacio de encuentro para la literatura, el juego y el arte con la realización de “Lecturas que encuentran”, un proyecto impulsado por la biblioteca del Instituto Superior de Formación Docente N° 31, en articulación con los profesorados de Educación Primaria y Educación Física y la dirección de Cultura y Educación."
         ],
-        "generated": "2026-10-16T21:30:32.983411+00:00"
+        "generated": "2026-10-16T22:00:33.999247+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-10-16T21:30:01.392679+00:00",
-      "penalizacion": 0.976
+      "apariciones": 3,
+      "ultima_impresion": "2026-10-16T22:00:00.862584+00:00",
+      "penalizacion": 0.55
     },
     {
       "key": "municipio implementara concurso cargos directivos jardines municipales",
       "title": "Realizaron un concurso interno para cubrir cargos directivos en jardines municipales",
-      "score": 2.204,
+      "score": 1.191,
       "sources_count": 2,
       "first_seen": "2026-10-16T18:36:13+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/16-10-FOTO-Rojas-Concurso-Jardines4.webp",
@@ -111,16 +149,45 @@
           "TSN Necochea | ‹ VOLVER | Educación | Ajrdines mUnicipales | Municipalidad Realizaron un concurso interno para cubrir cargos directivos en jardines municipales La primera instancia fue la evaluación escrita y aún restan otras dos etapas. Estuvo Rojas Por Redacción TSN 16/10/2026 · 03:36 PM Agregar TSN Necochea en Este viernes comenzó en el Salón de Actos Domingo J.",
           "Taraborelli de la Municipalidad el Concurso Interno de Títulos, Antecedentes y Oposición para cubrir cargos vacantes de directoras y vicedirectoras de jardines de infantes y directoras de jardines maternales . La iniciativa, impulsada por la Secretaría de Desarrollo Humano y Políticas Sociales, recibió el respaldo de las autoridades educativas presentes, que valoraron la apertura de oportunidades de ascenso laboral y la transparencia del proceso."
         ],
-        "generated": "2026-10-16T21:30:54.803102+00:00"
+        "generated": "2026-10-16T22:00:55.798566+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-10-16T21:30:01.392679+00:00",
-      "penalizacion": 0.976
+      "apariciones": 3,
+      "ultima_impresion": "2026-10-16T22:00:00.862584+00:00",
+      "penalizacion": 0.55
+    },
+    {
+      "key": "carnet conducir aprobar practico caja automatica no servira manejar autos manuales",
+      "title": "Carnet de conducir: aprobar el práctico con caja automática no servirá para manejar autos manuales",
+      "score": 1.181,
+      "sources_count": 1,
+      "first_seen": "2026-10-16T21:48:45+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/registro.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Carnet de conducir: aprobar el práctico con caja automática no servirá para manejar autos manuales",
+          "url": "https://tsnnecochea.com.ar/generales/carnet-de-conducir-aprobar-el-practico-con-caja-automatica-no-servira-para-manejar-autos-manuales-239882/",
+          "published_at": "2026-10-16T21:48:45+00:00",
+          "first_seen": "2026-10-16T22:00:00.862584+00:00",
+          "category": "caja autoamtica",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/registro.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Generales | caja autoamtica | Decisión Carnet de conducir: aprobar el práctico con caja automática no servirá para manejar autos manuales Ya se aplica en Necochea. El cambio en los exámenes para obtener el registro los dispuso la Provincia de Buenos Aires. Por Redacción TSN 16/10/2026 · 06:48 PM Agregar TSN Necochea en La Provincia de Buenos Aires estableció nuevos criterios para los exámenes prácticos destinados a obtener la Licencia Nacional de Conducir.",
+          "La medida, dispuesta mediante la circular 11/2026, busca unificar las pautas de evaluación cuando se utilizan vehículos con transmisión automática. La normativa establece que, cuando una persona solicite su primera licencia para conducir automóviles y apruebe la evaluación práctica con un vehículo automático, deberá incorporarse una restricción en el documento."
+        ],
+        "generated": "2026-10-16T22:03:21.914152+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-16T22:00:00.862584+00:00"
     },
     {
       "key": "murio fernando confessore meteorologo historico tn",
       "title": "Murió Fernando Confessore, el meteorólogo histórico de TN",
-      "score": 2.128,
+      "score": 1.15,
       "sources_count": 3,
       "first_seen": "2026-10-16T11:39:35+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/1792147471967.webp",
@@ -158,54 +225,190 @@
           "TSN Necochea | ‹ VOLVER | Espectáculos | fallecimiento | Medios Murió Fernando Confessore, el meteorólogo histórico de TN El meteorólogo falleció durante la madrugada en su casa de Versalles, tras sufrir una descompensación. Llevaba 30 años en la pantalla de Todo Noticias.",
           "Por Redacción TSN 16/10/2026 · 08:39 AM Agregar TSN Necochea en El meteorólogo Fernando Confessore, quien informaba sobre el clima durante las tardes en el canal de noticias TN, murió esta madrugada a causa de una descompensación repentina en su domicilio, ubicado en el barrio porteño de Versalles. De acuerdo con la información policial a la que accedió la Agencia Noticias Argentinas, el hecho ocurrió alrededor de las 2 en su domicilio ubicado sobre la calle La Huella donde arribó la Policía tras recibir un llamado de su esposa, Paula Gabriela Franco, quien alertó que Confesore se desvaneció imprevistamente en la cocina."
         ],
-        "generated": "2026-10-16T21:31:19.906389+00:00"
+        "generated": "2026-10-16T22:01:20.750699+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-10-16T21:30:01.392679+00:00",
-      "penalizacion": 0.976
+      "apariciones": 3,
+      "ultima_impresion": "2026-10-16T22:00:00.862584+00:00",
+      "penalizacion": 0.55
     },
     {
-      "key": "secuestraron necochea camioneta robada enero mar plata",
-      "title": "Secuestraron en Necochea una camioneta robada en enero en Mar del Plata",
-      "score": 1.998,
-      "sources_count": 2,
-      "first_seen": "2026-10-16T16:37:12+00:00",
-      "image": "https://cdnartic.ar/1pe8DHua_LNuG1_zluo0zfWSPkc=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/10/vehiculo_secuestrado.webp",
+      "key": "licencias conducir quienes rindan examen auto automatico solo podran manejar tipo vehiculos",
+      "title": "Licencias de conducir: quienes rindan el examen con auto automático solo podrán manejar ese tipo de vehículos",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-16T22:00:00.862584+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261016174920_foto-examen-conducir-h.jpg",
       "articles": [
         {
-          "portal": "Ecos Diarios",
-          "title": "Secuestraron en Necochea una camioneta robada en enero en Mar del Plata",
-          "url": "https://elecos.com.ar/secuestraron-una-camioneta-robada-en-enero-en-mar-del-plata",
-          "published_at": "2026-10-16T16:37:12+00:00",
-          "first_seen": "2026-10-16T21:30:01.392679+00:00",
-          "category": "13",
-          "image": "https://cdnartic.ar/1pe8DHua_LNuG1_zluo0zfWSPkc=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/10/vehiculo_secuestrado.webp"
-        },
-        {
           "portal": "Necochea Digital",
-          "title": "Secuestraron en nuestra ciudad una camioneta que había sido robada en Mar del Plata",
-          "url": "https://necocheadigital.com/nota/119918/secuestraron-en-nuestra-ciudad-una-camioneta-que-habia-sido-robada-en-mar-del-plata/",
+          "title": "Licencias de conducir: quienes rindan el examen con auto automático solo podrán manejar ese tipo de vehículos",
+          "url": "https://necocheadigital.com/nota/119914/licencias-de-conducir-quienes-rindan-el-examen-con-auto-automatico-solo-podran-manejar-ese-tipo-de-vehiculos/",
           "published_at": null,
-          "first_seen": "2026-10-16T21:30:01.392679+00:00",
+          "first_seen": "2026-10-16T22:00:00.862584+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "Una camioneta Fiat Strada de color negro que registraba un pedido de secuestro activo por hurto automotor fue secuestrada durante las últimas horas en la ciudad, luego de que efectivos policiales detectaran diversas irregularidades en su identificación registral durante un patrullaje preventivo. El procedimiento estuvo a cargo de personal del Grupo Técnico Operativo (GTO) perteneciente a la Comisaría Primera.",
-          "La intervención se concretó mientras los uniformados realizaban tareas de control y prevención del delito sobre la avenida 42, en el tramo comprendido entre las calles 69 y 71. Al momento de inspeccionar la unidad estacionada, los agentes advirtieron inconsistencias evidentes entre la chapa patente colocada y la numeración grabada en el chasis."
+          "En el distrito comenzó a aplicarse la medida comunicada por las autoridades de la Provincia de Buenos Aires mediante la Circular 11/2026, la cual fija pautas específicas para evaluar a los aspirantes a la licencia de conducir. La norma establece que los principiantes que realicen la prueba práctica con un vehículo de transmisión automática quedarán habilitados de forma exclusiva para manejar unidades de ese tipo. El cambio central alcanza de manera estricta a quienes tramitan su primer registro de conducir.",
+          "En la Licencia Nacional de Conducir que reciban estos nuevos conductores figurará una leyenda que indicará de forma explícita: “Conduce únicamente vehículos con transmisión automática”. Esto impedirá legalmente que el titular conduzca unidades con caja manual mientras la restricción siga asentada."
         ],
-        "generated": "2026-10-16T21:31:39.394792+00:00"
+        "generated": "2026-10-16T22:03:23.144524+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-16T21:30:01.392679+00:00"
+      "ultima_impresion": "2026-10-16T22:00:00.862584+00:00"
+    },
+    {
+      "key": "llega primera fiesta cultura necochense entrega premios ramal",
+      "title": "Llega la primera Fiesta de la Cultura necochense, con la entrega de los premios Ramal",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-16T22:00:00.862584+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261015152157_f97eb35fc68487aa3d34fe4869d68ae6217b733c.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Llega la primera Fiesta de la Cultura necochense, con la entrega de los premios Ramal",
+          "url": "https://necocheadigital.com/nota/119905/llega-la-primera-fiesta-de-la-cultura-necochense-con-la-entrega-de-los-premios-ramal/",
+          "published_at": null,
+          "first_seen": "2026-10-16T22:00:00.862584+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "“La cultura de nuestra ciudad tiene su noche”. Con esa premisa, Necochea se prepara para vivir este viernes 16 de octubre la primera Fiesta de la Cultura, una propuesta que busca reconocer a quienes, con su trabajo cotidiano, pasión y compromiso, construyen y enriquecen la identidad cultural de la ciudad.",
+          "La cita será a partir de las 20.30 en el espacio WO de calles 85 entre 4 y 4 bis, donde se entregarán 30 distinciones con el premio Ramal, en una noche que tendrá como protagonistas a los artistas y hacedores culturales locales. Impulsada por el Centro Cultural Municipal de Necochea (CCMN), dirigido por Sebastián Serqueira, la iniciativa cuenta con el acompañamiento de la Cooperadora de la Escuela Municipal de Artes y propone convertir este primer encuentro en un reconocimiento colectivo a la cultura necochense."
+        ],
+        "generated": "2026-10-16T22:03:24.034221+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-16T22:00:00.862584+00:00"
+    },
+    {
+      "key": "instituto superior municipal participo muestra educativa estudiantes primaria",
+      "title": "El Instituto Superior Municipal participó de la Muestra Educativa para estudiantes de Primaria",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-16T22:00:00.862584+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261015113706_15-10-foto-instituto-superior-en-muestra3.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "El Instituto Superior Municipal participó de la Muestra Educativa para estudiantes de Primaria",
+          "url": "https://necocheadigital.com/nota/119903/el-instituto-superior-municipal-participo-de-la-muestra-educativa-para-estudiantes-de-primaria/",
+          "published_at": null,
+          "first_seen": "2026-10-16T22:00:00.862584+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Con la participación del Instituto Superior Municipal de Necochea , dependiente de la Dirección de Educación, se llevó a cabo la 17ª edición de la Muestra Educativa , una iniciativa destinada a acompañar la articulación entre los niveles primario y secundario y orientar a los estudiantes en sus decisiones vinculadas con la educación y el trabajo. La actividad tuvo lugar en la Escuela Primaria N° 2 “Domingo Faustino Sarmiento” y contó con la presencia de la directora de Educación, Mariela Maceiro , quien acompañó la jornada y la propuesta presentada por la institución municipal.",
+          "Durante la muestra se instalaron distintos stands con proyectos educativos y orientaciones de instituciones de nivel secundario, centros educativos complementarios, escuelas técnicas y escuelas especiales, entre otras propuestas, para que los estudiantes pudieran conocer las alternativas disponibles para continuar su trayectoria educativa."
+        ],
+        "generated": "2026-10-16T22:03:25.254031+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-16T22:00:00.862584+00:00"
+    },
+    {
+      "key": "puerto quequen impulsan recuperacion tren cargas nodo logistico pieres",
+      "title": "Puerto Quequén: impulsan la recuperación del tren de cargas y un nodo logístico en Pieres",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-16T22:00:00.862584+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261015085605_captura.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Puerto Quequén: impulsan la recuperación del tren de cargas y un nodo logístico en Pieres",
+          "url": "https://necocheadigital.com/nota/119896/puerto-quequen-impulsan-la-recuperacion-del-tren-de-cargas-y-un-nodo-logistico-en-pieres/",
+          "published_at": null,
+          "first_seen": "2026-10-16T22:00:00.862584+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La recuperación del transporte ferroviario de cargas hacia Puerto Quequén fue uno de los principales temas abordados durante un encuentro regional realizado en Mar del Plata, donde funcionarios, intendentes, productores y representantes de distintas instituciones debatieron sobre las obras necesarias para impulsar el desarrollo productivo de la provincia de Buenos Aires.",
+          "El secretario de Planeamiento, Obras y Servicios Públicos de la Municipalidad de Necochea, Adrián Furno, participó de la jornada del jueves 8 de octubre y brindó detalles sobre sus alcances este miércoles 14, durante una entrevista en Voces de la Tarde , el programa que conduce Jorge Gómez por Radio Noticias Necochea, FM 97.3."
+        ],
+        "generated": "2026-10-16T22:03:26.476268+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-16T22:00:00.862584+00:00"
+    },
+    {
+      "key": "hallaron villa balnearia vehiculo registraba pedido secuestro san isidro",
+      "title": "Hallaron en la Villa Balnearia un vehículo que registraba pedido de secuestro de San Isidro",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-16T22:00:00.862584+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261015113442_whatsapp-image-2026-10-15-at-11-34-29.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Hallaron en la Villa Balnearia un vehículo que registraba pedido de secuestro de San Isidro",
+          "url": "https://necocheadigital.com/nota/119901/hallaron-en-la-villa-balnearia-un-vehiculo-que-registraba-pedido-de-secuestro-de-san-isidro/",
+          "published_at": null,
+          "first_seen": "2026-10-16T22:00:00.862584+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Efectivos del Comando de Patrullas secuestraron un automóvil que registraba un requerimiento judicial activo, tras ser alertados por una llamada al sistema de emergencias CATE 911. El procedimiento se concretó sobre la calle 8 al 3800, en la Villa Balnearia, donde los uniformados detectaron el vehículo en aparente estado de abandono. Se trata de un Renault Clio que, según el testimonio de los vecinos del sector, permanecía estacionado en la misma posición desde hacía varios días.",
+          "Al lugar acudió personal policial con la colaboración de efectivos de Policía Vial para llevar a cabo la correspondiente verificación de los datos del rodado. Al volcar la información del automóvil en el sistema informático policial, se constató que la unidad poseía un pedido de secuestro vigente dispuesto por el Juzgado Civil y Comercial N.º 16 del departamento judicial de San Isidro."
+        ],
+        "generated": "2026-10-16T22:03:27.194589+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-16T22:00:00.862584+00:00"
+    },
+    {
+      "key": "recuperan elementos robados aprehenden sospechoso operativo policial necochea",
+      "title": "Recuperan elementos robados y aprehenden a un sospechoso tras un operativo policial en Necochea",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-16T22:00:00.862584+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261014171951_whatsapp-image-2026-10-14-at-17-19-39.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Recuperan elementos robados y aprehenden a un sospechoso tras un operativo policial en Necochea",
+          "url": "https://necocheadigital.com/nota/119890/recuperan-elementos-robados-y-aprehenden-a-un-sospechoso-tras-un-operativo-policial-en-necochea/",
+          "published_at": null,
+          "first_seen": "2026-10-16T22:00:00.862584+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El hecho se desencadenó tras un llamado al 911 (CATE) que alertó a la central sobre un robo en un inmueble de la zona. De inmediato, los patrulleros acudieron al lugar e iniciaron recorridas preventivas y un abanico de búsqueda. En la intersección de la calle 71 bis, entre 82 y 84, los efectivos avistaron a dos hombres que circulaban en actitud sospechosa transportando varios bultos.",
+          "Al notar la aproximación de los móviles oficiales, uno de ellos arrojó los elementos a la vía pública y escapó a pie, logrando escabullirse entre los terrenos y propiedades linderas. El otro sujeto fue interceptado, reducido e identificado en el lugar por el personal policial, quedando aprehendido y puesto a disposición de la Justicia. En el procedimiento se logró recuperar la totalidad de las pertenencias descartadas, compuestas por un cajón con diversos artículos de pesca y un cargador de batería."
+        ],
+        "generated": "2026-10-16T22:03:27.912421+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-16T22:00:00.862584+00:00"
     },
     {
       "key": "quequen hizo historia italia tres chicos lograron oro plata bronce mundial stand up paddle",
       "title": "Quequén hizo historia en Italia: tres chicos lograron oro, plata y bronce en el Mundial de stand up paddle",
-      "score": 1.376,
+      "score": 0.743,
       "sources_count": 2,
       "first_seen": "2026-10-16T14:37:33+00:00",
       "image": "http://nden.com.ar/uploads/noticias/5/2026/10/c37f22abdf72e2216449e15b59133e5646a21531.jpg",
@@ -234,219 +437,16 @@
           "Con apenas 12 años, Felicitas Guida se consagró campeona mundial de stand up paddle, tras completar su prueba con un tiempo de 35,7 segundos en el Campeonato Mundial que se disputa en Sabaudia, Italia, entre el 14 y el 18 de octubre. La joven deportista, representante de Quequén SUP, alcanzó el primer puesto en una competencia internacional que reúne a participantes de distintos países, consiguiendo un logro extraordinario para su corta trayectoria deportiva.",
           "De campeona argentina a campeona mundial Durante 2026, Felicitas participó del campeonato organizado por la Federación Argentina de Canotaje (FAC), donde consiguió tres resultados destacados en la categoría Infantil: se consagró campeona argentina en SUP Técnico, campeona argentina en SUP Sprint y subcampeona argentina en SUP Maratón."
         ],
-        "generated": "2026-10-16T21:32:04.640935+00:00"
+        "generated": "2026-10-16T22:02:05.188327+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-10-16T21:30:01.392679+00:00",
-      "penalizacion": 0.976
-    },
-    {
-      "key": "actualizaron valor vtv tramite basico cuesta 114 mil pesos",
-      "title": "Actualizaron el valor de la VTV: el trámite básico cuesta más de 114 mil pesos",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-16T21:30:01.392679+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/9ebfb59d240e965fff47da142d14b6fdd064aecf.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Actualizaron el valor de la VTV: el trámite básico cuesta más de 114 mil pesos",
-          "url": "https://necocheadigital.com/nota/119916/actualizaron-el-valor-de-la-vtv-el-tramite-basico-cuesta-mas-de-114-mil-pesos/",
-          "published_at": null,
-          "first_seen": "2026-10-16T21:30:01.392679+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El Ministerio de Transporte de la Provincia de Buenos Aires oficializó la actualización del cuadro tarifario de la Verificación Técnica Vehicular mediante la Resolución 361/2026. La medida establece un incremento del 17,56% en el costo del trámite obligatorio, por lo que la tarifa básica correspondiente a vehículos particulares de hasta 2.500 kilos pasó de $97.057,65 a $114.105,99, IVA incluido.",
-          "El reajuste tarifario se encuentra vinculado a los acuerdos paritarios pactados entre el sindicato SMATA y la Cámara Argentina de Verificadores de Automotores. La aplicación del incremento estaba prevista originalmente para el mes de julio, pero su implementación permaneció postergada durante 90 días tras un acuerdo entre el gobierno bonaerense y las empresas concesionarias del servicio."
-        ],
-        "generated": "2026-10-16T21:33:21.512309+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-16T21:30:01.392679+00:00"
-    },
-    {
-      "key": "necochense joseba bilbao sera arbitro mundial pelota vasca disputa buenos aires",
-      "title": "El necochense Joseba Bilbao será árbitro en el Mundial de Pelota Vasca que se disputa en Buenos Aires",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-16T21:30:01.392679+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/a42b709046246d5898d5f5f4bf9712188c6ff265.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "El necochense Joseba Bilbao será árbitro en el Mundial de Pelota Vasca que se disputa en Buenos Aires",
-          "url": "https://necocheadigital.com/nota/119917/el-necochense-joseba-bilbao-sera-arbitro-en-el-mundial-de-pelota-vasca-que-se-disputa-en-buenos-aires/",
-          "published_at": null,
-          "first_seen": "2026-10-16T21:30:01.392679+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El vigésimo Campeonato Mundial de Pelota Vasca puso en marcha su competencia en la Ciudad Autónoma de Buenos Aires, convirtiéndose en un hito histórico al disputarse por primera vez en el país. El certamen reúne a 480 deportistas de 15 delegaciones internacionales y cuenta con la presencia del necochense Joseba Bilbao, quien integra el cuerpo arbitral oficial del torneo que se extenderá hasta el 24 de octubre.",
-          "Para Bilbao, esta designación representa un nuevo capítulo en su trayectoria dentro de la disciplina, consolidando su rol como juez internacional tras haber participado previamente en los Juegos Suramericanos de Santa Fe. Su vínculo con la máxima cita mundialista tiene una larga historia, ya que desde 2010 compitió en múltiples ediciones defendiendo los colores de la Selección Argentina como jugador en la modalidad de paleta cuero en trinquete."
-        ],
-        "generated": "2026-10-16T21:33:22.211480+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-16T21:30:01.392679+00:00"
-    },
-    {
-      "key": "encuentro juvenil teatro reunira 40 escuelas teatro municipal",
-      "title": "El Encuentro Juvenil de Teatro reunirá a unas 40 escuelas en el Teatro Municipal",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-16T21:30:01.392679+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/ebe5f13487684982b63dee96034b22b308ddbf05.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "El Encuentro Juvenil de Teatro reunirá a unas 40 escuelas en el Teatro Municipal",
-          "url": "https://necocheadigital.com/nota/119911/el-encuentro-juvenil-de-teatro-reunira-a-unas-40-escuelas-en-el-teatro-municipal/",
-          "published_at": null,
-          "first_seen": "2026-10-16T21:30:01.392679+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El teatro volverá a ser protagonista de la actividad educativa de Necochea con una nueva edición del Encuentro Juvenil de Teatro , que se desarrollará desde el lunes 19 hasta el viernes 23 de octubre, en el Teatro Municipal. La iniciativa convocará a alrededor de 40 escuelas de Necochea, Quequén y otras localidades, con funciones durante la mañana y la tarde. Así lo confirmó Patricia Alarcón, docente y una de las organizadoras del encuentro, durante una entrevista realizada por Horacio Castelli en Radio Noticias Necochea.",
-          "En la charla, contó cómo se preparan para el inicio de una propuesta que, año tras año, suma experiencias y despierta el interés de estudiantes y profesores. “Vamos a estar en el Teatro Municipal con la participación de unas 40 escuelas más o menos, de Necochea, Quequén, de Tandil también viene una escuela, así que a pleno y con todos los nervios del inicio”, expresó Alarcón."
-        ],
-        "generated": "2026-10-16T21:33:22.923387+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-16T21:30:01.392679+00:00"
-    },
-    {
-      "key": "facundo crocci alcanzamos 90 acuerdo nuevo pliego micros",
-      "title": "Facundo Crocci: “Alcanzamos más del 90% de acuerdo para el nuevo pliego de los micros”",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-16T21:30:01.392679+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/c18f71b87dd8f88d6041e0bf9cef585117c92c3f.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Facundo Crocci: “Alcanzamos más del 90% de acuerdo para el nuevo pliego de los micros”",
-          "url": "https://necocheadigital.com/nota/119909/facundo-crocci-alcanzamos-mas-del-90-de-acuerdo-para-el-nuevo-pliego-de-los-micros/",
-          "published_at": null,
-          "first_seen": "2026-10-16T21:30:01.392679+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El Municipio de Necochea y el Concejo Deliberante avanzaron en la revisión de las condiciones para licitar el transporte público de pasajeros, con el objetivo de evitar un nuevo fracaso en la convocatoria y garantizar la continuidad del servicio en Necochea y Quequén. Facundo Crocci, director municipal de Transporte, aseguró que las negociaciones alcanzaron un alto nivel de consenso y que más del 90% de las modificaciones ya cuenta con acuerdo entre las partes.",
-          "En una entrevista realizada este jueves 15 de octubre en Voces de la Tarde , el programa que conduce Jorge Gómez por Radio Noticias Necochea, FM 97.3, el funcionario expresó su expectativa de que el expediente pueda llegar a la sesión del jueves 22."
-        ],
-        "generated": "2026-10-16T21:33:23.641586+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-16T21:30:01.392679+00:00"
-    },
-    {
-      "key": "controlaron incendio cielorraso vivienda necochea",
-      "title": "Controlaron un incendio en el cielorraso de una vivienda de Necochea",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-16T21:30:01.392679+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/c2f934cb8cab6c1b3af0d4f2fdd824eabafb6bf4.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Controlaron un incendio en el cielorraso de una vivienda de Necochea",
-          "url": "https://necocheadigital.com/nota/119906/controlaron-un-incendio-en-el-cielorraso-de-una-vivienda-de-necochea/",
-          "published_at": null,
-          "first_seen": "2026-10-16T21:30:01.392679+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Un incendio estructural se registró durante la noche en una vivienda ubicada en calle 55 al 2200, en Necochea. El foco ígneo se concentró en el cielorraso de la propiedad y pudo ser controlado gracias al rápido trabajo de los equipos de emergencia. El episodio fue detectado a través del Centro de Operaciones y Monitoreo (COM), desde donde se tomó conocimiento de la situación y se dispuso la intervención de un móvil de la Dirección General de Defensa Civil.",
-          "Al arribar al lugar, el personal constató que el fuego afectaba el cielorraso de la vivienda y comenzó a trabajar en coordinación con los Bomberos de Necochea. También se sumó al operativo una dotación del Cuartel de Bomberos de Quequén. Rápida intervención para evitar daños mayores La labor coordinada de las fuerzas intervinientes permitió controlar el incendio y evitar que la situación provocara consecuencias de mayor gravedad."
-        ],
-        "generated": "2026-10-16T21:33:24.845710+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-16T21:30:01.392679+00:00"
-    },
-    {
-      "key": "liga necochea futbol juega 20 fecha nuevo horario",
-      "title": "Liga Necochea de Fútbol: Se juega la 20ª fecha con nuevo horario",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-16T21:30:01.392679+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261015112250_whatsapp-image-2026-10-15-at-11-22-33.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Liga Necochea de Fútbol: Se juega la 20ª fecha con nuevo horario",
-          "url": "https://necocheadigital.com/nota/119898/liga-necochea-de-futbol-se-juega-la-20-ordf-fecha-con-nuevo-horario/",
-          "published_at": null,
-          "first_seen": "2026-10-16T21:30:01.392679+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El Torneo Masculino de Primera División \"Sergio 'Giuseppe' Portugal\" 2026 de la Liga Necochea de Fútbol entra en su recta final. Este fin de semana se disputará la 20ª y antepenúltima fecha de la fase regular, una jornada clave que podría definir ascensos, clasificados a semifinales y la lucha por la permanencia. Como principal novedad de la programación, la Liga confirmó un cambio de horario general, por lo que todos los partidos comenzarán a las 16:00 horas.",
-          "La mayor parte de la fecha se concentrará el sábado, mientras que el domingo tendrá como gran atractivo una nueva edición del Clásico Norte-Sur entre Mataderos y Villa del Parque. Por su parte, el encuentro entre Ministerio e Independiente de San Cayetano fue postergado para el miércoles 21 de octubre, ya que ambos equipos deberán afrontar este domingo sus respectivos compromisos de vuelta por los octavos de final del Torneo Regional Federal Amateur 2026/2027."
-        ],
-        "generated": "2026-10-16T21:33:26.096108+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-16T21:30:01.392679+00:00"
-    },
-    {
-      "key": "secuestran fiat strada pedido secuestro avenida 42",
-      "title": "Secuestran una Fiat Strada con pedido de secuestro en la avenida 42",
-      "score": 0.934,
-      "sources_count": 1,
-      "first_seen": "2026-10-16T18:29:25+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-16-at-13.30.36.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Secuestran una Fiat Strada con pedido de secuestro en la avenida 42",
-          "url": "https://tsnnecochea.com.ar/locales/recuperan-en-una-camioneta-con-pedido-de-secuestro-239867/",
-          "published_at": "2026-10-16T18:29:25+00:00",
-          "first_seen": "2026-10-16T21:01:14.114355+00:00",
-          "category": "camioneta",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-16-at-13.30.36.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Locales | camioneta | Investigación Secuestran una Fiat Strada con pedido de secuestro en la avenida 42 Personal del GTO detectó inconsistencias entre el dominio y el chasis durante un patrullaje. La UFI N.º 1 investiga cómo llegó la camioneta robada a la ciudad. Por Redacción TSN 16/10/2026 · 03:29 PM Agregar TSN Necochea en Personal del GTO de la Comisaría Primera de Necochea detectó una camioneta Fiat Strada negra con irregularidades en su identificación registral.",
-          "El procedimiento ocurrió sobre la avenida 42, entre 69 y 71 , durante un operativo de prevención de ilícitos. ​Al verificar los datos, los efectivos constataron inconsistencias entre la patente y la numeración del chasis . Tras ingresar los datos en el sistema informático, confirmaron que el rodado registraba un pedido de secuestro activo por hurto automotor , solicitado por una dependencia policial de Mar del Plata desde el 3 de enero de 2026 ."
-        ],
-        "generated": "2026-10-16T21:33:29.284674+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-16T21:30:01.392679+00:00"
+      "apariciones": 3,
+      "ultima_impresion": "2026-10-16T22:00:00.862584+00:00",
+      "penalizacion": 0.55
     },
     {
       "key": "repararon peligroso pozo originado rotura cano cloacal quequen",
       "title": "Repararon el peligroso pozo originado por la rotura de un caño cloacal en Quequén",
-      "score": 0.923,
+      "score": 0.499,
       "sources_count": 1,
       "first_seen": "2026-10-16T18:38:41+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-16-at-10.41.34.webp",
@@ -466,16 +466,16 @@
           "TSN Necochea | ‹ VOLVER | Generales | Corralón | Trabajos Repararon el peligroso pozo originado por la rotura de un caño cloacal en Quequén Personal y maquinaria pesada del Corralón Municipal de Quequén trabajaron sobre la calle 538, entre 513 y 515. Solicitaron circular con precaución por el sector mientras se consolida el suelo.",
           "Por Redacción TSN 16/10/2026 · 03:38 PM Agregar TSN Necochea en Tras el reiterado reclamo de los frentistas de la zona, personal municipal resolvió el inconveniente registrado sobre la calle 538, entre 513 y 515 , donde se había formado una excavación de importante profundidad que representaba un severo riesgo para el tránsito vehicular y peatonal. De acuerdo con lo informado por las autoridades locales, el bacheo y hundimiento se originó a partir de la rotura de un caño del sistema de red cloacal , lo que provocó el paulatino socavamiento de la subbase de la arteria."
         ],
-        "generated": "2026-10-16T21:33:28.490860+00:00"
+        "generated": "2026-10-16T22:03:29.201987+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-10-16T21:30:01.392679+00:00",
-      "penalizacion": 0.976
+      "apariciones": 3,
+      "ultima_impresion": "2026-10-16T22:00:00.862584+00:00",
+      "penalizacion": 0.55
     },
     {
       "key": "gobierno nacional puso fin programa remediar",
       "title": "El Gobierno nacional puso fin al programa Remediar",
-      "score": 0.008,
+      "score": 0.005,
       "sources_count": 1,
       "first_seen": "2026-10-16T14:36:36+00:00",
       "image": null,
@@ -495,16 +495,16 @@
           "El Ejecutivo nacional derogó la Resolución 3424, poniendo fin al programa Remediar y recortando la lista de fármacos esenciales de 128 a 6, al mismo tiempo que anunció la creación de un Plan Nacional de Salud Vascular para el período 2026‑2030. Fin del programa Remediar A través de la revocación de la Resolución 3424, emitida por la administración del Frente de Todos en 2021, el Gobierno puso término al programa Remediar, que había establecido un vademécum de medicamentos esenciales.",
           "La medida deja fuera de la cobertura nacional a una decena de fármacos básicos, entre los que se encontraban la levotiroxina, los anticonceptivos, la metformina, la amoxicilina, el salbutamol, el fluconazol y la loratadina. Nueva lista de esenciales El nuevo listado, que entra en vigor de inmediato, mantiene únicamente seis medicamentos: ácido acetilsalicílico, atorvastatina, candesartán, hidroclorotiazida, ramipril y rosuvastatina."
         ],
-        "generated": "2026-10-16T21:35:24.475912+00:00"
+        "generated": "2026-10-16T22:05:24.828534+00:00"
       },
-      "apariciones": 9,
-      "ultima_impresion": "2026-10-16T21:30:01.392679+00:00",
-      "penalizacion": 0.015
+      "apariciones": 10,
+      "ultima_impresion": "2026-10-16T22:00:00.862584+00:00",
+      "penalizacion": 0.008
     },
     {
       "key": "hombre san isidro recibira 500 000 descubrir dos hijos primo",
       "title": "Un hombre de San Isidro recibirá $1,500 000 por descubrir que dos hijos son de su primo",
-      "score": 0.005,
+      "score": 0.002,
       "sources_count": 1,
       "first_seen": "2026-10-16T14:28:11+00:00",
       "image": null,
@@ -524,11 +524,11 @@
           "Un estudio de ADN confirmó que los dos menores que había reconocido como propios no son su descendencia biológica; la justicia obligó a la expareja y al primo a indemnizarlo por daño moral. En 2010 la relación de convivencia entre el hombre de 43 años y su pareja comenzó en San Isidro. De esa unión nacieron una hija en 2012 y dos varones en 2015 y 2017, a quienes el hombre reconoció y crió como sus hijos. En 2018 empezó a sospechar una posible infidelidad y, tras realizarse un análisis genético privado, se descartó su paternidad biológica respecto a los dos niños.",
           "En 2021 un juzgado de familia anuló la filiación y declaró al primo como padre biológico. Dos años después, el hombre interpuso una demanda por los perjuicios sufridos. Durante el juicio la mujer sostuvo que la convivencia había atravesado conflictos y que ella creía que los niños eran hijos del hombre que los había reconocido."
         ],
-        "generated": "2026-10-16T21:35:27.078800+00:00"
+        "generated": "2026-10-16T22:05:27.308764+00:00"
       },
-      "apariciones": 10,
-      "ultima_impresion": "2026-10-16T21:30:01.392679+00:00",
-      "penalizacion": 0.008
+      "apariciones": 11,
+      "ultima_impresion": "2026-10-16T22:00:00.862584+00:00",
+      "penalizacion": 0.005
     },
     {
       "key": "tesla exhibio roadster propulsores spacex anuncio produccion 2028",
@@ -553,11 +553,11 @@
           "*Elon Musk presentó el nuevo Roadster, un deportivo eléctrico biplaza que incorpora propulsores de la compañía espacial y que, según Tesla, podrá despegar, volar y alcanzar los 96 km/h en menos de un segundo.* En una transmisión realizada desde las instalaciones de pruebas de SpaceX en Texas, el CEO de Tesla mostró el prototipo del Roadster, un vehículo deportivo de dos plazas que combina la potencia de un coche eléctrico con la tecnología de propulsión de cohetes. La demostración, sin conductor, incluyó una serie de maniobras diseñadas para evidenciar tanto la capacidad de salto como la aceleración extrema del modelo.",
           "### Maniobras y tecnología Durante la presentación, el Roadster ingresó por una rampa perpendicular y, mediante un sistema de succión situado bajo la carrocería, logró ascender por una pendiente empinada, girar boca abajo y, tras una voltereta en el aire, aterrizar usando chorros de aire."
         ],
-        "generated": "2026-10-16T21:35:30.413672+00:00"
+        "generated": "2026-10-16T22:05:29.712524+00:00"
       },
-      "apariciones": 12,
-      "ultima_impresion": "2026-10-16T21:30:01.392679+00:00",
-      "penalizacion": 0.002
+      "apariciones": 13,
+      "ultima_impresion": "2026-10-16T22:00:00.862584+00:00",
+      "penalizacion": 0.001
     },
     {
       "key": "sexta suelta plantas plantines",
@@ -591,10 +591,10 @@
           "TSN Necochea | ‹ VOLVER | Generales | centro cultural | Ambiente Sexta Suelta de Plantas y Plantines en el Centro Cultural Necochea Nueva producción de plantas cultivadas a lo largo del ciclo lectivo.",
           "Estudiantes, docentes y residentes compartirán con vecinos y vecinas de Necochea y Quequén una nueva producción Por Redacción TSN 16/10/2026 · 09:00 AM Agregar TSN Necochea en El próximo miércoles 21 de octubre, a partir de las 14:15, se realizará la 6.ª Suelta de Plantas y Plantines, una iniciativa que reúne a estudiantes y docentes del Colegio Danés Altamira , residentes del Hogar San Andrés y alumnos del Centro de Formación Laboral N.º 403 “Enrique Zenón Villar”, en una experiencia de trabajo compartido que culmina con una entrega gratuita de plantas a la comunidad."
         ],
-        "generated": "2026-10-16T21:32:07.141196+00:00"
+        "generated": "2026-10-16T22:02:07.655572+00:00"
       },
-      "apariciones": 16,
-      "ultima_impresion": "2026-10-16T21:30:01.392679+00:00",
+      "apariciones": 17,
+      "ultima_impresion": "2026-10-16T22:00:00.862584+00:00",
       "penalizacion": 0.0
     },
     {
@@ -620,10 +620,10 @@
           "La Municipalidad de Necochea anunció que el servicio de Estacionamiento Medido no tendrá costo en dos turnos, facilitando el acceso al centro comercial durante la celebración del Día de la Madre. El municipio informó que el cobro del Estacionamiento Medido quedará suspendido en el turno de la tarde del viernes 16 de octubre, a partir de las 15 hs., y en el turno de la mañana del sábado 17 de octubre, entre las 9 hs.",
           "Esta medida forma parte de las acciones de acompañamiento al sector comercial local en una fecha clave tanto para los comerciantes como para las familias de la ciudad. Al eliminar el costo del estacionamiento, se busca brindar mayor comodidad a quienes circulen por las zonas céntricas, facilitando el acceso y la movilidad en un período en el que la actividad comercial suele incrementarse."
         ],
-        "generated": "2026-10-16T21:35:32.385283+00:00"
+        "generated": "2026-10-16T22:05:32.016015+00:00"
       },
-      "apariciones": 15,
-      "ultima_impresion": "2026-10-16T21:30:01.392679+00:00",
+      "apariciones": 16,
+      "ultima_impresion": "2026-10-16T22:00:00.862584+00:00",
       "penalizacion": 0.0
     },
     {
@@ -649,10 +649,10 @@
           "La legendaria banda irlandesa vuelve al país para celebrar sus 50 años de trayectoria con dos presentaciones en el Estadio River Plate, dentro de la gira “The Greatest Show on Earth”. Después de una ausencia prolongada, U2 anunció oficialmente sus fechas en Buenos Aires: el 23 y el 25 de marzo de 2027. Los shows, producidos por DF Entertainment, contarán con la participación especial de Beck como invitado en ambas noches. La presentación forma parte de la gira internacional “The Greatest Show on Earth”.",
           "En declaraciones previas al regreso, Bono, The Edge, Adam Clayton y Larry Mullen Jr. comentaron el reto que implica el nuevo espectáculo. “Queremos que esa noche sea una de las mejores de sus vidas."
         ],
-        "generated": "2026-10-16T21:35:34.522891+00:00"
+        "generated": "2026-10-16T22:05:34.475019+00:00"
       },
-      "apariciones": 15,
-      "ultima_impresion": "2026-10-16T21:30:01.392679+00:00",
+      "apariciones": 16,
+      "ultima_impresion": "2026-10-16T22:00:00.862584+00:00",
       "penalizacion": 0.0
     },
     {
@@ -678,10 +678,10 @@
           "El Pincha no logró convertir sus ocasiones y deja la serie abierta de cara al partido de vuelta en Río de Janeiro. En el estadio UNO, la primera fecha de las semifinales de la Copa Libertadores terminó sin goles. Estudiantes de La Plata, dirigido por Alexander Medina, se impuso en la posesión y generó más oportunidades que el actual campeón continental, Flamengo, pero no consiguió romper la red. El conjunto argentino buscó abrir el marcador a través del juego aéreo y de las llegadas de sus mediocampistas.",
           "El arquero rival, Agustín Rossi, fue una de las figuras del encuentro, deteniendo disparos de Eros Mancuso y del colombiano Edwuin Cetré, que estuvieron cerca de abrir el marcador. Flamengo, por su parte, adoptó una postura defensiva y trató de aprovechar los contraataques, sin llegar a concretar ninguna ocasión clara. El empate favoreció al equipo brasileño, que evitó una desventaja antes de viajar a Brasil."
         ],
-        "generated": "2026-10-16T21:35:46.906858+00:00"
+        "generated": "2026-10-16T22:05:37.700185+00:00"
       },
-      "apariciones": 16,
-      "ultima_impresion": "2026-10-16T21:30:01.392679+00:00",
+      "apariciones": 17,
+      "ultima_impresion": "2026-10-16T22:00:00.862584+00:00",
       "penalizacion": 0.0
     }
   ]
