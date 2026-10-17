@@ -1,186 +1,282 @@
 {
-  "generated_at": "2026-10-17T21:44:27.099320+00:00",
-  "article_count": 95,
+  "generated_at": "2026-10-17T22:00:00.984614+00:00",
+  "article_count": 135,
   "fetch_errors": [],
   "stories": [
     {
-      "key": "maximiliano saravia rumbo colombia orgullo representar seleccion argentina",
-      "title": "Maximiliano Saravia, rumbo a Colombia con el orgullo de representar a la selección argentina",
-      "score": 0.169,
-      "sources_count": 1,
-      "first_seen": "2026-10-17T00:25:43+00:00",
-      "image": null,
+      "key": "llega primera fiesta cultura necochense entrega premios ramal",
+      "title": "La cultura necochense tuvo su primera fiesta con la entrega de los premios Ramal",
+      "score": 1.799,
+      "sources_count": 2,
+      "first_seen": "2026-10-17T16:22:19+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/Screenshot_20261017_0906232.webp",
       "articles": [
         {
-          "portal": "Diario NQ",
-          "title": "Maximiliano Saravia, rumbo a Colombia con el orgullo de representar a la selección argentina",
-          "url": "https://diarionq.com.ar/maximiliano-saravia-rumbo-a-colombia-con-el-orgullo-de-representar-a-la-seleccion-argentina/",
-          "published_at": "2026-10-17T00:25:43+00:00",
-          "first_seen": "2026-10-17T21:44:27.099320+00:00",
-          "category": "Deportes",
+          "portal": "TSN Necochea",
+          "title": "La cultura necochense tuvo su primera fiesta con la entrega de los premios Ramal",
+          "url": "https://tsnnecochea.com.ar/espectaculos/la-cultura-necochense-tuvo-su-primera-fiesta-con-la-entrega-de-los-premios-ramal-239914/",
+          "published_at": "2026-10-17T16:22:19+00:00",
+          "first_seen": "2026-10-17T22:00:00.984614+00:00",
+          "category": "Arte",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/Screenshot_20261017_0906232.webp"
+        },
+        {
+          "portal": "Necochea Digital",
+          "title": "Llega la primera Fiesta de la Cultura necochense, con la entrega de los premios Ramal",
+          "url": "https://necocheadigital.com/nota/119905/llega-la-primera-fiesta-de-la-cultura-necochense-con-la-entrega-de-los-premios-ramal/",
+          "published_at": null,
+          "first_seen": "2026-10-17T22:00:00.984614+00:00",
+          "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "El entrenador necochense viajará para participar de su tercer Campeonato Mundial de kickboxing como integrante del cuerpo técnico nacional. En su paso por Zoom El Deportivo, compartió la emoción de una nueva convocatoria, el orgullo de acompañar a los peleadores argentinos y el cariño de una familia deportiva que sigue creciendo. Hay viajes que empiezan mucho antes de hacer las valijas.",
-          "Se preparan con años de trabajo, con horas de entrenamiento, con sacrificios compartidos y, sobre todo, con la pasión por aquello que uno eligió como camino. Para Maximiliano Saravia, ese viaje ya está en marcha: Colombia lo espera para una nueva edición del Campeonato Mundial de kickboxing, uno de los desafíos más importantes de su trayectoria. En su paso por Zoom, Maxi llegó con la calidez de quien se siente en casa."
+          "TSN Necochea | ‹ VOLVER | Espectáculos | Arte | Arte local La cultura necochense tuvo su primera fiesta con la entrega de los premios Ramal La ceremonia se realizó en WO este viernes por la noche. Por Redacción TSN 17/10/2026 · 01:22 PM La histórica peña folclórica El Ombú fue premiada, representada por Emilio y Silvina Cajaravilla Agregar TSN Necochea en En un acto sin precedentes para la cultura local, este viernes por la noche se llevó a cabo la primera Fiesta de la Cultura en Necochea , con la entrega de los premios Ramal .",
+          "El evento tuvo lugar en WO, bajo el impulso del Centro Cultural Municipal de Necochea, dirigido por Sebastián Serqueira. Fueron casi 30 reconocimientos los que se entregaron por parte de la organización, que dividió los galardones en diferentes categorías: teatro, danza, artes visuales, música y literatura."
         ],
-        "generated": "2026-10-17T21:50:03.523985+00:00"
+        "generated": "2026-10-17T22:00:30.216987+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-17T21:44:27.099320+00:00"
+      "ultima_impresion": "2026-10-17T22:00:00.984614+00:00"
     },
     {
-      "key": "valle campeonas dentro fuera cancha sueno equipo sigue creciendo",
-      "title": "Del Valle, campeonas dentro y fuera de la cancha: el sueño de un equipo que sigue creciendo",
-      "score": 0.165,
+      "key": "punteros no aflojan villa diaz velez estacion sostienen arriba dos fechas final",
+      "title": "Los punteros no aflojan: Villa Díaz Vélez y Estación se sostienen arriba a dos fechas del final",
+      "score": 1.194,
       "sources_count": 1,
-      "first_seen": "2026-10-17T00:07:51+00:00",
-      "image": null,
+      "first_seen": "2026-10-17T21:56:36+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/Screenshot_20261017_1849232.webp",
       "articles": [
         {
-          "portal": "Diario NQ",
-          "title": "Del Valle, campeonas dentro y fuera de la cancha: el sueño de un equipo que sigue creciendo",
-          "url": "https://diarionq.com.ar/del-valle-campeonas-dentro-y-fuera-de-la-cancha-el-sueno-de-un-equipo-que-sigue-creciendo/",
-          "published_at": "2026-10-17T00:07:51+00:00",
-          "first_seen": "2026-10-17T21:44:27.099320+00:00",
-          "category": "Deportes",
+          "portal": "TSN Necochea",
+          "title": "Los punteros no aflojan: Villa Díaz Vélez y Estación se sostienen arriba a dos fechas del final",
+          "url": "https://tsnnecochea.com.ar/deportes/los-punteros-no-aflojan-villa-diaz-velez-y-estacion-se-sostienen-arriba-a-dos-fechas-del-final-239973/",
+          "published_at": "2026-10-17T21:56:36+00:00",
+          "first_seen": "2026-10-17T22:00:00.984614+00:00",
+          "category": "Estación Quequén",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/Screenshot_20261017_1849232.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Deportes | Estación Quequén | Liga Necochea de Fútbol Los punteros no aflojan: Villa Díaz Vélez y Estación se sostienen arriba a dos fechas del final El Naranja le ganó a Rivadavia y manda en la zona A, mientras que el Verdiblanco derrotó a Del Valle y sigue arriba de todos en la B. Por Redacción TSN 17/10/2026 · 06:56 PM Rodríguez anotó el tanto de la victoria de Estación Agregar TSN Necochea en Con cinco partidos en la tarde gris y fría de este 17 de octubre, se dio inicio a la 20ma fecha del Campeonato “Giuseppe Portugal” de la Liga Necochea de Fútbol en Primera División , antepenúltima de la fase regular.",
+          "En el único juego de la zona A, Villa Díaz Vélez derrotó a Rivadavia y sabe que terminará otra semana como líder único."
+        ],
+        "generated": "2026-10-17T22:01:07.443899+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-17T22:00:00.984614+00:00"
+    },
+    {
+      "key": "nos salen dolares orejas consumo carne cayo 40",
+      "title": "Nos salen dólares por las orejas, pero el consumo de carne cayó hasta un 40%",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-17T22:00:00.984614+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261017120318_20210424carnecarnicerianag-1163318.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Nos salen dólares por las orejas, pero el consumo de carne cayó hasta un 40%",
+          "url": "https://necocheadigital.com/nota/119919/nos-salen-dolares-por-las-orejas-pero-el-consumo-de-carne-cayo-hasta-un-40/",
+          "published_at": null,
+          "first_seen": "2026-10-17T22:00:00.984614+00:00",
+          "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "El plantel Sub-16 de hockey del Club del Valle visitó Zoom El Deportivo para compartir la alegría por el título conseguido en el Campeonato Regional Bonaerense B, el ascenso a la categoría A y el trabajo que hay detrás de un grupo que crece en lo deportivo y en lo humano. Además, el club transita la etapa final de una obra muy esperada: tener su propia cancha de hockey. Hay logros que se explican con goles, resultados y posiciones en una tabla.",
-          "Pero hay otros que necesitan una historia más amplia, hecha de entrenamientos, viajes, familias que acompañan y un grupo que aprende a crecer unido. La actualidad del Sub-16 de hockey del Club del Valle reúne un poco de todo eso."
+          "La caída del consumo comienza a sentirse con fuerza en las carnicerías de Necochea. Los clientes compran menos, comparan precios y buscan opciones que permitan sostener la alimentación familiar sin desbordar el presupuesto. En los últimos meses, esa tendencia se tradujo en una importante retracción de las ventas de carne.",
+          "Así lo explicó Gabriel Vallejos, titular de Carnicería Al Corte, durante una entrevista en Voces de la Tarde , el programa que conduce Jorge Gómez por Radio Noticias Necochea, FM 97.3. El comerciante estimó que, en los últimos cuatro o cinco meses, las ventas disminuyeron entre un 30 y un 40%. “Estamos como con todo, que el sueldo no alcanza”, resumió Vallejos al referirse a una situación en la que el precio de los alimentos y los ingresos familiares condicionan cada vez más las decisiones de compra."
         ],
-        "generated": "2026-10-17T21:50:05.755826+00:00"
+        "generated": "2026-10-17T22:02:20.832730+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-17T21:44:27.099320+00:00"
+      "ultima_impresion": "2026-10-17T22:00:00.984614+00:00"
     },
     {
-      "key": "jonathan lopez corredor encuentra trabajo mejor entrenamiento",
-      "title": "Jonathan López, el corredor que encuentra en el trabajo su mejor entrenamiento",
-      "score": 0.16,
+      "key": "realizaran sexta suelta plantas plantines centro cultural",
+      "title": "Realizarán la sexta suelta de plantas y plantines en el Centro Cultural",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-10-16T23:46:34+00:00",
-      "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/8ab3d03e-bb0c-4449-b007-ce13f2b5f1c7.jpg",
+      "first_seen": "2026-10-17T22:00:00.984614+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261016175519_whatsapp-image-2026-10-16-at-17-55-05.jpg",
       "articles": [
         {
-          "portal": "Diario NQ",
-          "title": "Jonathan López, el corredor que encuentra en el trabajo su mejor entrenamiento",
-          "url": "https://diarionq.com.ar/jonathan-lopez-el-corredor-que-encuentra-en-el-trabajo-su-mejor-entrenamiento/",
-          "published_at": "2026-10-16T23:46:34+00:00",
-          "first_seen": "2026-10-17T21:44:27.099320+00:00",
-          "category": "Deportes",
-          "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/8ab3d03e-bb0c-4449-b007-ce13f2b5f1c7.jpg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "T rabaja en la recolección de residuos, corre por pasión y sorprende con sus logros deportivos. En una charla cálida con Zoom Deportivo, el atleta quequenense contó su historia, recordó su paso por el boxeo y compartió un sueño: prepararse para correr los 42 kilómetros de la Maratón de Buenos Aires. Hay historias que merecen ser contadas porque detrás de cada logro hay mucho más que un resultado. La de Jonathan López es una de ellas.",
-          "Atleta, corredor y trabajador de la recolección de residuos, encontró en su rutina diaria una forma de entrenar, en el deporte un espacio para superarse y en cada paso una razón para seguir adelante. Invitado a los micrófonos de Zoom El Deportivo, Jonathan se mostró sorprendido y agradecido por la posibilidad de compartir su experiencia. Acostumbrado a participar en competencias sin demasiada difusión, esta vez tuvo la oportunidad de contar una historia que combina esfuerzo, humildad y pasión por lo que hace."
-        ],
-        "generated": "2026-10-17T21:50:07.925931+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-17T21:44:27.099320+00:00"
-    },
-    {
-      "key": "gobierno milei elimino plan remediar 128 medicamentos redujo",
-      "title": "EL GOBIERNO DE MILEI ELIMINÒ EL PLAN REMEDIAR. DE 128 MEDICAMENTOS SE REDUJO A 6.",
-      "score": 0.149,
-      "sources_count": 1,
-      "first_seen": "2026-10-16T22:53:23+00:00",
-      "image": null,
-      "articles": [
-        {
-          "portal": "Necochea Libre",
-          "title": "EL GOBIERNO DE MILEI ELIMINÒ EL PLAN REMEDIAR. DE 128 MEDICAMENTOS SE REDUJO A 6.",
-          "url": "https://necochealibre.com.ar/el-gobierno-de-milei-elimino-el-plan-remediar-de-128-medicamentos-se-redujo-a-6/",
-          "published_at": "2026-10-16T22:53:23+00:00",
-          "first_seen": "2026-10-17T21:44:27.099320+00:00",
-          "category": "Generales",
+          "portal": "Necochea Digital",
+          "title": "Realizarán la sexta suelta de plantas y plantines en el Centro Cultural",
+          "url": "https://necocheadigital.com/nota/119915/realizaran-la-sexta-suelta-de-plantas-y-plantines-en-el-centro-cultural/",
+          "published_at": null,
+          "first_seen": "2026-10-17T22:00:00.984614+00:00",
+          "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "Generales EL GOBIERNO DE MILEI ELIMINÒ EL PLAN REMEDIAR. DE 128 MEDICAMENTOS SE REDUJO A 6. Por admin - 16 octubre, 2026 0 6 Facebook Twitter Pinterest WhatsApp Caba .- El Gobierno eliminó el programa Remediar y redujo el listado de medicamentos esenciales de 128 a sólo 6 . La decisión dejó fuera de la cobertura nacional a una decena de activos básicos entre los que se encuentran la levotiroxina, los anticonceptivos, la metformina, la amoxicilina, el salbutamol, el fluconazol, la loratadina y otros.",
-          "El Gobierno dispuso el fin del programa Remediar a través de la derogación de la Resolución 3424 emitida por la administración del Frente de Todos en el 2021 mediante la cual había surgido el vademécum de medicamentos esenciales. En paralelo, anunciaron la creación de un Plan Nacional para Enfermedades Cardiovasculares. La decisión dejó fuera de la cobertura nacional a una decena de activos básicos."
+          "El próximo miércoles 21 de octubre, a partir de las 14:15, se llevará a cabo la sexta edición de la \"Suelta de plantas y plantines\", una iniciativa comunitaria que convoca a vecinos de la ciudad y de Quequén a retirar ejemplares cultivados durante el ciclo lectivo. La cita tendrá lugar en la sede del Centro Cultural Necochea y Biblioteca Popular Andrés Ferreyra, ubicada en la calle 54 Nº 3062. La propuesta es el resultado de un trabajo sostenido y colaborativo entre diversas instituciones locales.",
+          "En la producción participan los alumnos del Taller de Huerta y Forestación del Colegio Danés Altamira, bajo la coordinación de los docentes Lis Ullerup y Juan García Siri, junto con los residentes del Hogar San Andrés. A esta labor colectiva se suma la integración de los estudiantes del Taller de Huerta del Centro de Formación Laboral Nº 403 “Enrique Zenón Villar”, dirigido por el profesor Willy Gutiérrez."
         ],
-        "generated": "2026-10-17T21:50:08.423704+00:00"
+        "generated": "2026-10-17T22:02:21.869570+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-17T21:44:27.099320+00:00"
+      "ultima_impresion": "2026-10-17T22:00:00.984614+00:00"
     },
     {
-      "key": "municipalidad decidio viernes 16 turno tarde sabado 17 manana no funcionara estacionamiento medido",
-      "title": "LA MUNICIPALIDAD DECIDIÒ QUE ESTE VIERNES 16 EN TURNO TARDE Y SÀBADO 17 DE MAÑANA NO FUNCIONARÀ EL ESTACIONAMIENTO MEDIDO.",
-      "score": 0.145,
+      "key": "actualizaron valor vtv tramite basico cuesta 114 mil pesos",
+      "title": "Actualizaron el valor de la VTV: el trámite básico cuesta más de 114 mil pesos",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-10-16T22:33:01+00:00",
-      "image": null,
+      "first_seen": "2026-10-17T22:00:00.984614+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/9ebfb59d240e965fff47da142d14b6fdd064aecf.jpg",
       "articles": [
         {
-          "portal": "Necochea Libre",
-          "title": "LA MUNICIPALIDAD DECIDIÒ QUE ESTE VIERNES 16 EN TURNO TARDE Y SÀBADO 17 DE MAÑANA NO FUNCIONARÀ EL ESTACIONAMIENTO MEDIDO.",
-          "url": "https://necochealibre.com.ar/la-municipalidad-decidio-que-este-viernes-16-en-turno-tarde-y-sabado-17-de-manana-no-funcionara-el-estacionamiento-medido/",
-          "published_at": "2026-10-16T22:33:01+00:00",
-          "first_seen": "2026-10-17T21:44:27.099320+00:00",
-          "category": "Generales",
+          "portal": "Necochea Digital",
+          "title": "Actualizaron el valor de la VTV: el trámite básico cuesta más de 114 mil pesos",
+          "url": "https://necocheadigital.com/nota/119916/actualizaron-el-valor-de-la-vtv-el-tramite-basico-cuesta-mas-de-114-mil-pesos/",
+          "published_at": null,
+          "first_seen": "2026-10-17T22:00:00.984614+00:00",
+          "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "Generales LA MUNICIPALIDAD DECIDIÒ QUE ESTE VIERNES 16 EN TURNO TARDE Y SÀBADO 17 DE MAÑANA NO FUNCIONARÀ EL ESTACIONAMIENTO MEDIDO. Por admin - 16 octubre, 2026 0 7 Facebook Twitter Pinterest WhatsApp Necochea .- El Estacionamiento Medido tendrá dos jornadas sin cobro por el Día de la Madre.",
-          "En el marco de la celebración del Día de la Madre , que será este domingo 18 de Octubre, la Municipalidad de Necochea informó que el servicio de Estacionamiento Medido (SEM) no se cobrará durante el turno tarde de este viernes 16 de Octubre, el cual entra en vigencia a partir de las 15 hs.; ni durante el turno mañana de este sábado 17, es decir de 9 a 13 hs. La medida se enmarca en las acciones de acompañamiento al sector comercial local, en una fecha significativa tanto para los comerciantes como para las familias de la ciudad."
+          "El Ministerio de Transporte de la Provincia de Buenos Aires oficializó la actualización del cuadro tarifario de la Verificación Técnica Vehicular mediante la Resolución 361/2026. La medida establece un incremento del 17,56% en el costo del trámite obligatorio, por lo que la tarifa básica correspondiente a vehículos particulares de hasta 2.500 kilos pasó de $97.057,65 a $114.105,99, IVA incluido.",
+          "El reajuste tarifario se encuentra vinculado a los acuerdos paritarios pactados entre el sindicato SMATA y la Cámara Argentina de Verificadores de Automotores. La aplicación del incremento estaba prevista originalmente para el mes de julio, pero su implementación permaneció postergada durante 90 días tras un acuerdo entre el gobierno bonaerense y las empresas concesionarias del servicio."
         ],
-        "generated": "2026-10-17T21:50:08.951894+00:00"
+        "generated": "2026-10-17T22:02:22.665638+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-17T21:44:27.099320+00:00"
+      "ultima_impresion": "2026-10-17T22:00:00.984614+00:00"
     },
     {
-      "key": "arba prorrogo vencimiento impuestos 12 noviembre",
-      "title": "ARBA PRORROGÒ EL VENCIMIENTO DE IMPUESTOS HASTA EL 12 DE NOVIEMBRE.",
-      "score": 0.141,
+      "key": "necochense joseba bilbao sera arbitro mundial pelota vasca disputa buenos aires",
+      "title": "El necochense Joseba Bilbao será árbitro en el Mundial de Pelota Vasca que se disputa en Buenos Aires",
+      "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-10-16T22:15:30+00:00",
-      "image": null,
+      "first_seen": "2026-10-17T22:00:00.984614+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/a42b709046246d5898d5f5f4bf9712188c6ff265.jpg",
       "articles": [
         {
-          "portal": "Necochea Libre",
-          "title": "ARBA PRORROGÒ EL VENCIMIENTO DE IMPUESTOS HASTA EL 12 DE NOVIEMBRE.",
-          "url": "https://necochealibre.com.ar/arba-prorrogo-el-vencimiento-de-impuestos-hasta-el-12-de-noviembre/",
-          "published_at": "2026-10-16T22:15:30+00:00",
-          "first_seen": "2026-10-17T21:44:27.099320+00:00",
-          "category": "Generales",
+          "portal": "Necochea Digital",
+          "title": "El necochense Joseba Bilbao será árbitro en el Mundial de Pelota Vasca que se disputa en Buenos Aires",
+          "url": "https://necocheadigital.com/nota/119917/el-necochense-joseba-bilbao-sera-arbitro-en-el-mundial-de-pelota-vasca-que-se-disputa-en-buenos-aires/",
+          "published_at": null,
+          "first_seen": "2026-10-17T22:00:00.984614+00:00",
+          "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "Generales ARBA PRORROGÒ EL VENCIMIENTO DE IMPUESTOS HASTA EL 12 DE NOVIEMBRE. Por admin - 16 octubre, 2026 0 7 Facebook Twitter Pinterest WhatsApp La Plata.- ARBA prorrogó vencimientos de impuestos en la Provincia de Buenos Aires: Hasta cuándo se puede pagar. La Agencia de Recaudación de la Provincia de Buenos Aires (ARBA) extendió hasta el jueves 12 de Noviembre el plazo para pagar tres obligaciones impositivas. La prórroga alcanza al impuesto Automotor y a los inmobiliarios Rural y Complementario.",
-          "Los contribuyentes que abonen dentro de la nueva fecha podrán conservar los beneficios por cumplimiento fiscal. La medida ofrece más tiempo a los contribuyentes bonaerenses para regularizar sus obligaciones y evitar atrasos en el pago de los impuestos provinciales. La prórroga comprende tres obligaciones tributarias que debían abonarse durante el calendario fiscal de la Provincia de Buenos Aires."
+          "El vigésimo Campeonato Mundial de Pelota Vasca puso en marcha su competencia en la Ciudad Autónoma de Buenos Aires, convirtiéndose en un hito histórico al disputarse por primera vez en el país. El certamen reúne a 480 deportistas de 15 delegaciones internacionales y cuenta con la presencia del necochense Joseba Bilbao, quien integra el cuerpo arbitral oficial del torneo que se extenderá hasta el 24 de octubre.",
+          "Para Bilbao, esta designación representa un nuevo capítulo en su trayectoria dentro de la disciplina, consolidando su rol como juez internacional tras haber participado previamente en los Juegos Suramericanos de Santa Fe. Su vínculo con la máxima cita mundialista tiene una larga historia, ya que desde 2010 compitió en múltiples ediciones defendiendo los colores de la Selección Argentina como jugador en la modalidad de paleta cuero en trinquete."
         ],
-        "generated": "2026-10-17T21:50:09.542071+00:00"
+        "generated": "2026-10-17T22:02:23.321902+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-17T21:44:27.099320+00:00"
+      "ultima_impresion": "2026-10-17T22:00:00.984614+00:00"
+    },
+    {
+      "key": "licencias conducir quienes rindan examen auto automatico solo podran manejar tipo vehiculos",
+      "title": "Licencias de conducir: quienes rindan el examen con auto automático solo podrán manejar ese tipo de vehículos",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-17T22:00:00.984614+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261016174920_foto-examen-conducir-h.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Licencias de conducir: quienes rindan el examen con auto automático solo podrán manejar ese tipo de vehículos",
+          "url": "https://necocheadigital.com/nota/119914/licencias-de-conducir-quienes-rindan-el-examen-con-auto-automatico-solo-podran-manejar-ese-tipo-de-vehiculos/",
+          "published_at": null,
+          "first_seen": "2026-10-17T22:00:00.984614+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "En el distrito comenzó a aplicarse la medida comunicada por las autoridades de la Provincia de Buenos Aires mediante la Circular 11/2026, la cual fija pautas específicas para evaluar a los aspirantes a la licencia de conducir. La norma establece que los principiantes que realicen la prueba práctica con un vehículo de transmisión automática quedarán habilitados de forma exclusiva para manejar unidades de ese tipo. El cambio central alcanza de manera estricta a quienes tramitan su primer registro de conducir.",
+          "En la Licencia Nacional de Conducir que reciban estos nuevos conductores figurará una leyenda que indicará de forma explícita: “Conduce únicamente vehículos con transmisión automática”. Esto impedirá legalmente que el titular conduzca unidades con caja manual mientras la restricción siga asentada."
+        ],
+        "generated": "2026-10-17T22:02:24.351940+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-17T22:00:00.984614+00:00"
+    },
+    {
+      "key": "lecturas nos encuentran propuesta ludica artistica pensada chicos",
+      "title": "‘Lecturas que nos encuentran’, propuesta lúdica y artística pensada para los más chicos",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-17T22:00:00.984614+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261016172917_16-10-foto-maraton-de-lectura3.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "‘Lecturas que nos encuentran’, propuesta lúdica y artística pensada para los más chicos",
+          "url": "https://necocheadigital.com/nota/119913/lsquo-lecturas-que-nos-encuentran-rsquo-propuesta-ludica-y-artistica-pensada-para-los-mas-chicos/",
+          "published_at": null,
+          "first_seen": "2026-10-17T22:00:00.984614+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La propuesta es un ejemplo de cómo la articulación entre las instituciones educativas y el Municipio permite fortalecer iniciativas que, con el tiempo, se incorporan a la agenda de la ciudad. En esta oportunidad, acompañaron la jornada la directora de Educación, Mariela Maceiro , e integrantes de la Secretaría de Turismo y Desarrollo Productivo.",
+          "La directora del Instituto 31, Florencia Raffaghelli , explicó que esta edición marcó el cierre del proyecto 2026 y destacó el trabajo conjunto que hizo posible su crecimiento. “Este fue el cierre del proyecto ‘Lecturas que nos encuentran’, que es una iniciativa de las bibliotecarias del Instituto 31, Silvana, Carolina y Lucía, en articulación con el municipio, a través de Turismo y de Educación , que nos han brindado el espacio y los recursos para que esta jornada pueda salir de la mejor manera."
+        ],
+        "generated": "2026-10-17T22:02:25.007709+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-17T22:00:00.984614+00:00"
+    },
+    {
+      "key": "presencia necochense corre anteultima turismo pista rios",
+      "title": "Con presencia necochense, se corre la anteúltima del Turismo Pista en Entre Ríos",
+      "score": 0.86,
+      "sources_count": 1,
+      "first_seen": "2026-10-17T18:00:19+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/Screenshot_20261017_0930112.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Con presencia necochense, se corre la anteúltima del Turismo Pista en Entre Ríos",
+          "url": "https://tsnnecochea.com.ar/deportes/con-presencia-necochense-se-corre-la-anteultima-del-turismo-pista-en-entre-rios-239920/",
+          "published_at": "2026-10-17T18:00:19+00:00",
+          "first_seen": "2026-10-17T22:00:00.984614+00:00",
+          "category": "Chico",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/Screenshot_20261017_0930112.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Deportes | Chico | Automovilismo nacional Con presencia necochense, se corre la anteúltima del Turismo Pista en Entre Ríos Franco De Benedictis y Martín Chico forman parte de la Clase 3 de la categoría. Por Redacción TSN 17/10/2026 · 03:00 PM Franco De Benedictis ya está listo en Concepción del Uruguay Agregar TSN Necochea en Este fin de semana el campeonato de Turismo Pista llega a Concepción del Uruguaay, Entre Ríos, para abrir el penúltimo capítulo de la temporada 2026.",
+          "Con presencia necochense a través de Franco De Benedictis (Toyota Etios) y Martín Chico (Ford Fiesta Kinetic), la actividad de la Clase 3 tendrá su comienzo este sábado con la clasificación después de las 14 y en la jornada del domingo se correrá la anteúltima final desde las 13.30. Así llegan las posiciones en el campeonato, con Chico 8° y De Benedictis 10° CHICO DE BENEDICTIS NECOCHENSE TURISMO PISTA Seguinos en redes"
+        ],
+        "generated": "2026-10-17T22:02:28.232616+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-17T22:00:00.984614+00:00"
     },
     {
       "key": "podios mundiales stand up paddle quequenense italia",
       "title": "Podios mundiales del Stand Up Paddle quequenense en Italia",
-      "score": 0.124,
+      "score": 0.068,
       "sources_count": 1,
       "first_seen": "2026-10-17T19:47:05+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/Screenshot_20261017_1617023.webp",
@@ -200,16 +296,16 @@
           "TSN Necochea | ‹ VOLVER | Deportes | Mundial | Deporte Podios mundiales del Stand Up Paddle quequenense en Italia Felicitas Guida, Josefina Reynoso y Salvador Labarthe llevaron el nombre del distrito y del país a los podios del mundial SUP en el viejo continente. Por Agustin Betancor 17/10/2026 · 04:47 PM Agregar TSN Necochea en En la modalidad Sprint, los podios mundiales de la delegación argentina en el Viejo Continente llegaron desde las aguas del Río Quequén .",
           "Felicitas Guida se consagró campeona en Sub 12 femenino , con un registro de 35.97, mientras que Josefina Reynoso obtuvo la medalla de bronce en la misma categoría , con un tiempo de 38.14. En tanto, en Sub 12 masculino, Salvador Labarthe se quedó con la medalla de plata , tras registrar un tiempo de 34.28."
         ],
-        "generated": "2026-10-17T21:47:10.681248+00:00"
+        "generated": "2026-10-17T22:02:26.075700+00:00"
       },
-      "apariciones": 5,
-      "ultima_impresion": "2026-10-17T21:44:27.099320+00:00",
-      "penalizacion": 0.122
+      "apariciones": 6,
+      "ultima_impresion": "2026-10-17T22:00:00.984614+00:00",
+      "penalizacion": 0.069
     },
     {
       "key": "12 anos nestor cristina hicieron realidad todos principios pregonaba peron",
       "title": "“Durante 12 años Néstor y Cristina hicieron realidad todos los principios que pregonaba Perón”",
-      "score": 0.035,
+      "score": 0.019,
       "sources_count": 1,
       "first_seen": "2026-10-17T19:01:59+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/Screenshot_20261017_1537402.webp",
@@ -229,16 +325,16 @@
           "TSN Necochea | ‹ VOLVER | Locales | acto | Acto en Quequén “Durante 12 años Néstor y Cristina hicieron realidad todos los principios que pregonaba Perón” Así lo expresó el presidente del PJ de Necochea, Marcelo Rivero, en el acto del Día de la Lealtad Peronista en Quequén, donde además argumentó por qué el peronismo no debe pedirle perdón a la sociedad bajo ninguna circunstancia. Por Redacción TSN 17/10/2026 · 04:01 PM Agregar TSN Necochea en Este sábado 17 de octubre se conmemora el Día de la Lealtad Peronista y a nivel local el acto se realizó en el monumento a Juan Domingo Perón erigido en Av.",
           "554 y 517 de Quequén, donde militantes se hicieron presentes para el homenaje con palabras alusivas y ofrenda floral. Entre las autoridades políticas partidarias, se encontraban la diputada nacional, Jimena López, y concejales locales."
         ],
-        "generated": "2026-10-17T21:47:11.815456+00:00"
+        "generated": "2026-10-17T22:02:27.122339+00:00"
       },
-      "apariciones": 7,
-      "ultima_impresion": "2026-10-17T21:44:27.099320+00:00",
-      "penalizacion": 0.037
+      "apariciones": 8,
+      "ultima_impresion": "2026-10-17T22:00:00.984614+00:00",
+      "penalizacion": 0.021
     },
     {
       "key": "papa leon xiv recibe alta cirugia cancer pulmon",
       "title": "El Papa León XIV recibe el alta tras cirugía por cáncer de pulmón",
-      "score": 0.01,
+      "score": 0.006,
       "sources_count": 1,
       "first_seen": "2026-10-17T13:41:18+00:00",
       "image": null,
@@ -258,16 +354,16 @@
           "El Santo Padre salió del Hospital Gemelli de Roma y rezará el Ángelus mañana desde la ventana de su estudio en el Palacio Apostólico. El Papa León XIV fue dado de alta el sábado después de haber sido operado el martes pasado en el Hospital Gemelli de Roma por un cáncer de pulmón. En la intervención, que duró alrededor de una hora y media, se le extirpó el lóbulo inferior del pulmón derecho mediante una técnica videoasistida.",
           "El examen histológico confirmó el diagnóstico de adenocarcinoma pulmonar, tal como se sospechaba en los estudios preoperatorios. Luigi Carbone, director de la Dirección de Salud e Higiene de la Gobernación del Estado de la Ciudad del Vaticano, y el profesor Stefano Margaritora, jefe del equipo de cirugía torácica, los análisis de sangre, las radiografías de tórax realizadas esta mañana y la evaluación clínica indican que el pontífice está en condiciones de recibir el alta."
         ],
-        "generated": "2026-10-17T21:49:09.481530+00:00"
+        "generated": "2026-10-17T22:04:13.108350+00:00"
       },
-      "apariciones": 8,
-      "ultima_impresion": "2026-10-17T21:44:27.099320+00:00",
-      "penalizacion": 0.02
+      "apariciones": 9,
+      "ultima_impresion": "2026-10-17T22:00:00.984614+00:00",
+      "penalizacion": 0.011
     },
     {
       "key": "loberia prepara segunda edicion jogo bonito visita estudiantes plata",
       "title": "Lobería se prepara para la segunda edición de Jogo Bonito, con la visita de Estudiantes de La Plata",
-      "score": 0.004,
+      "score": 0.002,
       "sources_count": 1,
       "first_seen": "2026-10-17T17:58:59+00:00",
       "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/8fe563bb-e03d-45fb-ab3b-acf93b5ba9ec.jpg",
@@ -287,16 +383,16 @@
           "El encuentro de fútbol infantil se realizará el sábado 7 de noviembre en las instalaciones de Independiente de Lobería y ya cuenta con 17 escuelitas confirmadas. Por segundo año consecutivo, participará Estudiantes de La Plata, en una jornada que busca promover la amistad, los valores y el intercambio entre chicos de distintas localidades.",
           "El fútbol infantil volverá a ser protagonista en Lobería con la segunda edición de Jogo Bonito, un encuentro que apuesta a mucho más que la competencia deportiva: compartir, hacer nuevos amigos y disfrutar de una experiencia diferente junto a chicos de otras instituciones. En diálogo con Zoom El Deportivo, Nicolás Velazquez, impulsor de la iniciativa, expresó su entusiasmo por la llegada de una nueva edición, que tendrá lugar el sábado 7 de noviembre, desde las 10, en las instalaciones del Club Independiente de Lobería."
         ],
-        "generated": "2026-10-17T21:47:15.082781+00:00"
+        "generated": "2026-10-17T22:02:31.148632+00:00"
       },
-      "apariciones": 10,
-      "ultima_impresion": "2026-10-17T21:44:27.099320+00:00",
-      "penalizacion": 0.006
+      "apariciones": 11,
+      "ultima_impresion": "2026-10-17T22:00:00.984614+00:00",
+      "penalizacion": 0.003
     },
     {
       "key": "hombre armado amenazo suicidarse playas sur",
       "title": "Un hombre armado amenazó con suicidarse en las playas del sur",
-      "score": 0.002,
+      "score": 0.001,
       "sources_count": 1,
       "first_seen": "2026-10-17T17:03:14+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/intento-suicidio.webp",
@@ -316,98 +412,11 @@
           "TSN Necochea | ‹ VOLVER | Generales | hombre | Mar del Plata Un hombre armado amenazó con suicidarse en las playas del sur El hombre, de 44 años, fue asistido por personal especializado y depuso su actitud tras la intervención de un negociador, para ser luego trasladado al HIGA. Por Redacción TSN 17/10/2026 · 02:03 PM Agregar TSN Necochea en Un operativo policial que se extendió durante varias horas en un sector de playas públicas del Aquarium en Mar del Plata, donde un hombre de 44 años amenazaba con quitarse la vida mientras sostenía un arma de fuego.",
           "La situación fue controlada tras la intervención de un negociador especializado y el hombre fue trasladado al Hospital Interzonal General de Agudos (HIGA). El procedimiento comenzó a partir de un llamado al 911."
         ],
-        "generated": "2026-10-17T21:47:12.925457+00:00"
+        "generated": "2026-10-17T22:02:29.189567+00:00"
       },
-      "apariciones": 12,
-      "ultima_impresion": "2026-10-17T21:44:27.099320+00:00",
-      "penalizacion": 0.002
-    },
-    {
-      "key": "crisis golpea peloteros pais cuanto cayo demanda cumpleanos infantiles",
-      "title": "La crisis golpea a los peloteros en el país: cuánto cayó la demanda de cumpleaños infantiles",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-10-17T15:30:46+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/peloteros-1024x768-1.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "La crisis golpea a los peloteros en el país: cuánto cayó la demanda de cumpleaños infantiles",
-          "url": "https://tsnnecochea.com.ar/generales/la-crisis-golpea-a-los-peloteros-en-el-pais-cuanto-cayo-la-demanda-de-cumpleanos-infantiles-239942/",
-          "published_at": "2026-10-17T15:30:46+00:00",
-          "first_seen": "2026-10-17T16:00:01.145291+00:00",
-          "category": "crisis",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/peloteros-1024x768-1.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Generales | crisis | Nación La crisis golpea a los peloteros en el país: cuánto cayó la demanda de cumpleaños infantiles Los salones de fiestas registran una fuerte baja de reservas frente al año pasado. Las familias buscan opciones más económicas y algunos comercios evalúan cerrar.",
-          "Por Redacción TSN 17/10/2026 · 12:30 PM Agregar TSN Necochea en El tradicional festejo de cumpleaños infantil en peloteros y salones de fiesta dejó de ser una costumbre masiva para transformarse en un consumo de lujo ya que, de acuerdo con los últimos relevamientos de las cámaras que agrupan a sector, la actividad registró una caída de reservas que promedia el 40% en comparación con el año pasado . La combinación de alquileres comerciales con aumentos desmedidos, las tarifas de servicios públicos y el encarecimiento de los insumos básicos obligaron a decenas de comercios de barrio a bajar sus persianas de forma definitiva."
-        ],
-        "generated": "2026-10-17T21:47:16.185936+00:00"
-      },
-      "apariciones": 15,
-      "ultima_impresion": "2026-10-17T21:44:27.099320+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "amenazo muerte cuchillo expareja",
-      "title": "Amenazó de muerte a su expareja con un cuchillo y lo allanaron en calles 50 y 139",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-10-17T15:09:47+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/Screenshot_20261017_121014_Chrome.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Amenazó de muerte a su expareja con un cuchillo y lo allanaron en calles 50 y 139",
-          "url": "https://tsnnecochea.com.ar/locales/amenazo-de-muerte-a-su-expareja-con-un-cuchillo-y-lo-allanaron-en-calles-50-y-139-239943/",
-          "published_at": "2026-10-17T15:09:47+00:00",
-          "first_seen": "2026-10-17T15:30:01.264753+00:00",
-          "category": "allanamiento",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/Screenshot_20261017_121014_Chrome.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Locales | allanamiento | Procedimiento policial Amenazó de muerte a su expareja con un cuchillo y lo allanaron en calles 50 y 139 La policía secuestró dos cuchillos tipo criollo durante el operativo. El investigado fue requisado por personal policial y interviene la UFI N.° 10.",
-          "Por Redacción TSN 17/10/2026 · 12:09 PM Agregar TSN Necochea en ​En el marco de una investigación por amenazas agravadas por el uso de arma blanca , personal del GTO de la Seccional Tercera de Necochea , en conjunto con la Comisaría de la Mujer y la Familia , llevó adelante tareas investigativas que permitieron reunir elementos de interés para la causa. ​A partir de las pruebas obtenidas, se diligenció una orden de allanamiento, registro y secuestro en una vivienda ubicada en la intersección de las calles 50 y 139 , con resultado positivo."
-        ],
-        "generated": "2026-10-17T21:47:16.992618+00:00"
-      },
-      "apariciones": 16,
-      "ultima_impresion": "2026-10-17T21:44:27.099320+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "super nino 2026 estiman 75 probabilidad alcance magnitud record",
-      "title": "Super Niño 2026: estiman un 75% de probabilidad de que alcance una magnitud récord",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-10-17T14:43:40+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/09/Screenshot_20260929_090044_Chrome.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Super Niño 2026: estiman un 75% de probabilidad de que alcance una magnitud récord",
-          "url": "https://tsnnecochea.com.ar/campo/super-nino-2026-estiman-un-75-de-probabilidad-de-que-alcance-una-magnitud-record-239940/",
-          "published_at": "2026-10-17T14:43:40+00:00",
-          "first_seen": "2026-10-17T15:00:00.430413+00:00",
-          "category": "magnitud récord",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/09/Screenshot_20260929_090044_Chrome.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Campo | magnitud récord | Producción Super Niño 2026: estiman un 75% de probabilidad de que alcance una magnitud récord El fenómeno climático podría traer lluvias extraordinarias e inundaciones en Argentina, afectando la logística vial, los caminos rurales y la producción agropecuaria. Por Redacción TSN 17/10/2026 · 11:43 AM Se prevé que llegue un “Súper Niño” a las regiones más cálidas de Argentina. Foto: Agencia NA (IA) Agregar TSN Necochea en Según un informe de la CEPAL, elaborado a partir de proyecciones de la NOAA, existe un 75% de probabilidad de que el Super Niño 2026 llegue a una magnitud histórica antes de diciembre.",
-          "En la Argentina, esto podría traer lluvias excesivas, inundaciones y dificultades para la producción agropecuaria y el transporte de granos. Qué impacto podría tener el Super Niño 2026 en la Argentina En América Latina se encendieron las alertas por las proyecciones sobre el Super Niño 2026 ."
-        ],
-        "generated": "2026-10-17T21:47:17.789967+00:00"
-      },
-      "apariciones": 17,
-      "ultima_impresion": "2026-10-17T21:44:27.099320+00:00",
-      "penalizacion": 0.0
+      "apariciones": 13,
+      "ultima_impresion": "2026-10-17T22:00:00.984614+00:00",
+      "penalizacion": 0.001
     },
     {
       "key": "emiliano martinez sufre golpe cabeza retirado camilla everton",
@@ -432,10 +441,10 @@
           "El arquero del Chelsea colisionó con Jarrad Branthwaite, quedó inconsciente y fue trasladado a un hospital para evaluación. El sábado 17 de octubre, durante el partido de la Premier League entre Chelsea y Everton, el guardameta argentino Emiliano “Dibu” Martínez recibió un fuerte choque en la cabeza al intentar cortar un centro. El impacto, producido contra el defensor Jarrad Branthwaite, le provocó un desmayo y obligó a los médicos a sacarlo del terreno de juego en camilla con collar ortopédico.",
           "Tras más de ocho minutos de atención en el campo, Martínez recuperó la conciencia pero, por protocolo, fue retirado del estadio Hill Dickinson y trasladado a un centro hospitalario cercano para someterse a exámenes más profundos. El club londinense aún no ha publicado el parte médico definitivo. El encuentro continuó y el Chelsea se impuso 2‑0, con un doblete de Pedro Neto."
         ],
-        "generated": "2026-10-17T21:49:00.936330+00:00"
+        "generated": "2026-10-17T22:04:03.438531+00:00"
       },
-      "apariciones": 19,
-      "ultima_impresion": "2026-10-17T21:44:27.099320+00:00",
+      "apariciones": 20,
+      "ultima_impresion": "2026-10-17T22:00:00.984614+00:00",
       "penalizacion": 0.0
     },
     {
@@ -461,10 +470,10 @@
           "El técnico de 67 años aseguró que ni él ni su hijo Emiliano fueron contactados por la dirigencia del Millonario y confirmó que rechazó una oferta de Corinthians mientras espera una oportunidad en Núñez. En una entrevista enviada al programa “Y ya lo ve” de Love ST, el exjugador y entrenador riojano negó rotundamente haber mantenido conversaciones formales con River Plate para asumir el cargo en 2027. “Nadie habló conmigo ni con Emiliano ni se comunicó con nosotros. Sabés cómo nos manejamos a nivel futbolístico”, declaró a través del periodista Hernán Castillo.",
           "Aun así, Díaz dejó clara su intención de volver a River, club donde conquistó varios títulos como jugador y entrenador. Confesó que rechazó una “gran oportunidad” en el Corinthians brasileño a la espera de que el Millonario le abra una puerta. No existen negociaciones oficiales y cualquier avance dependerá de la decisión de la dirigencia encabezada por Stefano Di Carlo."
         ],
-        "generated": "2026-10-17T21:49:03.133939+00:00"
+        "generated": "2026-10-17T22:04:05.421117+00:00"
       },
-      "apariciones": 20,
-      "ultima_impresion": "2026-10-17T21:44:27.099320+00:00",
+      "apariciones": 21,
+      "ultima_impresion": "2026-10-17T22:00:00.984614+00:00",
       "penalizacion": 0.0
     },
     {
@@ -490,10 +499,10 @@
           "Con goles de Miguel Merentiel y del juvenil Leonel Flores, el Xeneize sumó 54 puntos y tomó la delantera en la tabla anual del Torneo Clausura. Boca Juniors superó 2-1 a Talleres de Córdoba en La Bombonera, en la fecha 13 del Torneo Clausura. El gol de Matías Galarza abrió el marcador a los 11 minutos, pero el equipo de Rodolfo Arruabarrena reaccionó rápidamente. A los 18 minutos Lautaro Blanco asistió a Miguel Merentiel, que empató.",
           "Cuatro minutos después Leonel Flores, tras una jugada iniciada por Blanco y Santiago Ascacíbar, anotó el segundo tanto que definió el encuentro. Con la victoria, Boca alcanzó los 54 puntos en la clasificación general, convirtiéndose en el único líder de la tabla anual y quedando como escolta de Instituto en la Zona A. Independiente Rivadavia mantiene 52 puntos y Argentinos Juniors 51, pero aún pueden acercarse a la cima."
         ],
-        "generated": "2026-10-17T21:49:05.160082+00:00"
+        "generated": "2026-10-17T22:04:07.939176+00:00"
       },
-      "apariciones": 20,
-      "ultima_impresion": "2026-10-17T21:44:27.099320+00:00",
+      "apariciones": 21,
+      "ultima_impresion": "2026-10-17T22:00:00.984614+00:00",
       "penalizacion": 0.0
     },
     {
@@ -519,10 +528,10 @@
           "La diputada provincial explicó que sus ausencias recientes se debieron a un tratamiento médico y confirmó que los hallazgos fueron benignos. Durante una intervención en la Cámara de Diputados de Santa Fe, la legisladora Amalia Granata, del espacio Somos Vida, exhibió las marcas que le quedaron en uno de sus pechos tras someterse a una serie de punciones mamarias. La acción se produjo mientras la diputada utilizaba la palabra para responder a críticas sobre sus ausencias en las sesiones anteriores.",
           "Granata recordó que algunos periodistas habían insinuado que sus faltas no estaban relacionadas con su cargo. “Nunca falto a la sesión y, cuando lo hago, es por un tema de salud, o de enfermedad o tratamiento médico”, afirmó."
         ],
-        "generated": "2026-10-17T21:49:07.349883+00:00"
+        "generated": "2026-10-17T22:04:09.930532+00:00"
       },
-      "apariciones": 20,
-      "ultima_impresion": "2026-10-17T21:44:27.099320+00:00",
+      "apariciones": 21,
+      "ultima_impresion": "2026-10-17T22:00:00.984614+00:00",
       "penalizacion": 0.0
     }
   ]
