@@ -1,12 +1,88 @@
 {
-  "generated_at": "2026-10-19T16:00:00.878372+00:00",
+  "generated_at": "2026-10-19T16:30:00.442256+00:00",
   "article_count": 135,
   "fetch_errors": [],
   "stories": [
     {
+      "key": "necochea viaja mar plata delegacion historica finales juegos bonaerenses",
+      "title": "Necochea viaja a Mar del Plata con una delegación histórica para las finales de los Juegos Bonaerenses",
+      "score": 3.301,
+      "sources_count": 3,
+      "first_seen": "2026-10-19T12:23:20+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261019091332_19-10-foto-necochea-a-los-bonaerenses2.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Necochea viaja a Mar del Plata con una delegación histórica para las finales de los Juegos Bonaerenses",
+          "url": "https://necocheadigital.com/nota/119928/necochea-viaja-a-mar-del-plata-con-una-delegacion-historica-para-las-finales-de-los-juegos-bonaerenses/",
+          "published_at": null,
+          "first_seen": "2026-10-19T16:30:00.442256+00:00",
+          "category": null,
+          "image": null
+        },
+        {
+          "portal": "Necochea News",
+          "title": "Partió la delegación de Necochea para las Finales de los Juegos Bonaerenses 2026",
+          "url": "https://necocheanews.com.ar/partio-la-delegacion-de-necochea-para-las-finales-de-los-juegos-bonaerenses-2026/",
+          "published_at": "2026-10-19T16:27:47+00:00",
+          "first_seen": "2026-10-19T16:30:00.442256+00:00",
+          "category": "LOCALES",
+          "image": null
+        },
+        {
+          "portal": "Diario NQ",
+          "title": "Necochea partió rumbo a los Juegos Bonaerenses con una delegación récord de 249 representantes",
+          "url": "https://diarionq.com.ar/necochea-partio-rumbo-a-los-juegos-bonaerenses-con-una-delegacion-record-de-249-representantes/",
+          "published_at": "2026-10-19T12:23:20+00:00",
+          "first_seen": "2026-10-19T12:30:00.778687+00:00",
+          "category": "Destacadas",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Necochea ya está en camino a una de las citas más importantes del calendario deportivo y cultural de la provincia. Este lunes partió desde el Polideportivo Municipal “Edgardo Hugo Yelpo” la delegación que representará al distrito en las finales de los 35° Juegos Bonaerenses , que se desarrollarán en Mar del Plata hasta el viernes 23 de octubre.",
+          "La comitiva está integrada por 249 personas, un récord para Necochea , que tendrá presencia en competencias deportivas individuales y por equipos, además de distintas expresiones artísticas y culturales. La partida reunió a participantes, entrenadores, coordinadores, acompañantes, choferes y familiares que se acercaron al Polideportivo para despedir a los representantes locales antes del comienzo de la etapa decisiva del certamen."
+        ],
+        "generated": "2026-10-19T16:30:44.586184+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-19T16:30:00.442256+00:00"
+    },
+    {
+      "key": "rescataron potrillo rio quequen reunieron mama",
+      "title": "Rescataron a un potrillo del Río Quequén y lo reunieron con su mamá",
+      "score": 1.192,
+      "sources_count": 1,
+      "first_seen": "2026-10-19T16:25:19+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/IMG-20261019-WA0047.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Rescataron a un potrillo del Río Quequén y lo reunieron con su mamá",
+          "url": "https://tsnnecochea.com.ar/generales/rescataron-a-un-potrillo-del-rio-quequen-y-lo-reunieron-con-su-mama-240089/",
+          "published_at": "2026-10-19T16:25:19+00:00",
+          "first_seen": "2026-10-19T16:30:00.442256+00:00",
+          "category": "bomberos",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/IMG-20261019-WA0047.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Generales | bomberos | Final feliz Rescataron a un potrillo del Río Quequén y lo reunieron con su mamá Personal de los bomberos realizó el rescate Por Redacción TSN 19/10/2026 · 01:25 PM Agregar TSN Necochea en En medio de la jornada, personal de Bomberos de Necochea protagonizó un emotivo rescate en el río Quequén. Esta vez, el protagonista no fue una persona, sino un pequeño potrillo que necesitaba ayuda. Con compromiso y dedicación, los bomberos lograron rescatar al animal y llevarlo junto a su mamá, para que ambos pudieran volver a estar juntos.",
+          "Una historia con final feliz que demuestra que la vocación de servicio también se hace presente cuando quienes necesitan ayuda no pueden pedirla con palabras. BOMBEROS POTRILLO RIO QUEQUÉN Seguinos en redes"
+        ],
+        "generated": "2026-10-19T16:32:35.713665+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-19T16:30:00.442256+00:00"
+    },
+    {
       "key": "seis decadas compromiso cooperadora hospital ferreyra celebra aniversario",
       "title": "Seis décadas de compromiso: la Cooperadora del Hospital Ferreyra celebra su aniversario",
-      "score": 2.21,
+      "score": 1.166,
       "sources_count": 2,
       "first_seen": "2026-10-19T13:56:00+00:00",
       "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261019082644_25-03-foto-donacion-guardia-hospital-1.jpg",
@@ -35,16 +111,161 @@
           "La Asociación Cooperadora del Hospital Municipal Dr. Emilio Ferreyra cumple 60 años de trabajo solidario, una trayectoria que la convirtió en un actor fundamental para el desarrollo de la salud pública en Necochea. Fundada el 19 de octubre de 1966, cuando el hospital llevaba poco más de dos décadas de funcionamiento, la institución nació con el objetivo de organizar la colaboración de los vecinos y contribuir al mantenimiento y crecimiento de un establecimiento que comenzaba a responder a una demanda cada vez mayor.",
           "Seis décadas después, ese compromiso continúa vigente. A través de campañas solidarias, donaciones y distintas iniciativas para recaudar fondos, la Cooperadora logró concretar obras, incorporar equipamiento y renovar sectores esenciales del hospital, con el propósito de mejorar la atención de los pacientes de Necochea y la región."
         ],
-        "generated": "2026-10-19T16:00:52.409353+00:00"
+        "generated": "2026-10-19T16:31:54.702421+00:00"
+      },
+      "apariciones": 3,
+      "ultima_impresion": "2026-10-19T16:30:00.442256+00:00",
+      "penalizacion": 0.55
+    },
+    {
+      "key": "balance feliz centro vasco nacional cestobol necochea deporte nos salva ahi",
+      "title": "Balance feliz para Centro Vasco tras el Nacional de Cestobol en Necochea: “El deporte nos salva, es por ahí”",
+      "score": 1.105,
+      "sources_count": 1,
+      "first_seen": "2026-10-19T15:30:43+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/Centro-Vasco-Primera-cestobol2-scaled.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Balance feliz para Centro Vasco tras el Nacional de Cestobol en Necochea: “El deporte nos salva, es por ahí”",
+          "url": "https://tsnnecochea.com.ar/deportes/balance-feliz-para-centro-vasco-tras-el-nacional-de-cestobol-en-necochea-el-deporte-nos-salva-es-por-ahi-240082/",
+          "published_at": "2026-10-19T15:30:43+00:00",
+          "first_seen": "2026-10-19T16:00:00.878372+00:00",
+          "category": "Centro Vasco",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/Centro-Vasco-Primera-cestobol2-scaled.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Deportes | Centro Vasco | Deporte Balance feliz para Centro Vasco tras el Nacional de Cestobol en Necochea: “El deporte nos salva, es por ahí” Desde el cesto local rescataron lo que dejó el nacional femenino de Primera, con un agradecimiento especial a quienes trabajaron para que las 16 delegaciones pudieran disfrutar de cinco jornadas de competencia. “El equipo es tan grande que no hay foto que lo represente”, expresaron.",
+          "Por Agustin Betancor 19/10/2026 · 12:30 PM El equipo de Centro Vasco, dirigido por Agustina Simonetti Agregar TSN Necochea en Pasó la Liga Nacional Femenina de Cestobol de Primera División por Necochea y, después de cinco días de competencia, desde el cesto de Centro Vasco compartieron una reflexión que va mucho más allá de los resultados deportivos. “Nuestra categoría Primera lo dio todo dentro y fuera de la cancha."
+        ],
+        "generated": "2026-10-19T16:33:33.567642+00:00"
       },
       "apariciones": 2,
-      "ultima_impresion": "2026-10-19T16:00:00.878372+00:00",
+      "ultima_impresion": "2026-10-19T16:30:00.442256+00:00",
       "penalizacion": 1.0
+    },
+    {
+      "key": "nino podria convertirse uno intensos 1950 senales detectan satelites",
+      "title": "El Niño podría convertirse en uno de los más intensos desde 1950: las señales que detectan los satélites",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-19T16:30:00.442256+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/0cc04d9c2a70f9f64d3d654e91870af4b9a0aec2.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "El Niño podría convertirse en uno de los más intensos desde 1950: las señales que detectan los satélites",
+          "url": "https://necocheadigital.com/nota/119924/el-nino-podria-convertirse-en-uno-de-los-mas-intensos-desde-1950-las-senales-que-detectan-los-satelites/",
+          "published_at": null,
+          "first_seen": "2026-10-19T16:30:00.442256+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El fenómeno de El Niño podría alcanzar una intensidad excepcional , de acuerdo con las señales que los satélites de la NASA están registrando en el océano Pacífico ecuatorial. Los datos muestran un importante calentamiento del agua, cambios en la altura de la superficie marina y modificaciones en la coloración del océano. En octubre de 2026, la Administración Nacional Oceánica y Atmosférica de Estados Unidos (NOAA) estimó en un 83% la probabilidad de que el fenómeno se encuentre en desarrollo.",
+          "Las proyecciones advierten sobre la posibilidad de que se trate de uno de los episodios más intensos desde 1950. El Niño es un fenómeno climático natural que suele producirse cada dos a siete años. Se caracteriza por temperaturas del mar superiores a las habituales en sectores del Pacífico ecuatorial y puede alterar los vientos, las lluvias y la distribución del calor en distintas regiones del planeta."
+        ],
+        "generated": "2026-10-19T16:33:35.017552+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-19T16:30:00.442256+00:00"
+    },
+    {
+      "key": "dia madre ventas comercios volvieron caer acumulan cinco anos retroceso",
+      "title": "Día de la Madre: las ventas de los comercios volvieron a caer y acumulan cinco años en retroceso",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-19T16:30:00.442256+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/e076438db64c6190f7b9689a379b7f7093368f16.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Día de la Madre: las ventas de los comercios volvieron a caer y acumulan cinco años en retroceso",
+          "url": "https://necocheadigital.com/nota/119922/dia-de-la-madre-las-ventas-de-los-comercios-volvieron-a-caer-y-acumulan-cinco-anos-en-retroceso/",
+          "published_at": null,
+          "first_seen": "2026-10-19T16:30:00.442256+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El consumo volvió a mostrar señales de debilidad durante el Día de la Madre. Según un relevamiento de la Confederación Argentina de la Mediana Empresa (CAME), las ventas minoristas de las pequeñas y medianas empresas registraron una caída del 1,4% respecto de la misma fecha del año pasado. El resultado marcó el quinto descenso consecutivo para esta celebración comercial y confirmó las dificultades que atraviesa el sector, en un contexto de presupuestos familiares ajustados y consumidores cada vez más cautelosos a la hora de gastar.",
+          "Desde la entidad señalaron que la fecha funcionó como un alivio temporal para algunos comercios, pero no alcanzó para impulsar una recuperación sostenida. La demanda continuó contenida y las compras estuvieron condicionadas por la búsqueda de precios bajos, las promociones y las alternativas de financiación. El informe contempló seis rubros vinculados con los regalos para el Día de la Madre."
+        ],
+        "generated": "2026-10-19T16:33:36.437814+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-19T16:30:00.442256+00:00"
+    },
+    {
+      "key": "nos salen dolares orejas consumo carne cayo 40",
+      "title": "Nos salen dólares por las orejas, pero el consumo de carne cayó hasta un 40%",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-19T16:30:00.442256+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261017120318_20210424carnecarnicerianag-1163318.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Nos salen dólares por las orejas, pero el consumo de carne cayó hasta un 40%",
+          "url": "https://necocheadigital.com/nota/119919/nos-salen-dolares-por-las-orejas-pero-el-consumo-de-carne-cayo-hasta-un-40/",
+          "published_at": null,
+          "first_seen": "2026-10-19T16:30:00.442256+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La caída del consumo comienza a sentirse con fuerza en las carnicerías de Necochea. Los clientes compran menos, comparan precios y buscan opciones que permitan sostener la alimentación familiar sin desbordar el presupuesto. En los últimos meses, esa tendencia se tradujo en una importante retracción de las ventas de carne.",
+          "Así lo explicó Gabriel Vallejos, titular de Carnicería Al Corte, durante una entrevista en Voces de la Tarde , el programa que conduce Jorge Gómez por Radio Noticias Necochea, FM 97.3. El comerciante estimó que, en los últimos cuatro o cinco meses, las ventas disminuyeron entre un 30 y un 40%. “Estamos como con todo, que el sueldo no alcanza”, resumió Vallejos al referirse a una situación en la que el precio de los alimentos y los ingresos familiares condicionan cada vez más las decisiones de compra."
+        ],
+        "generated": "2026-10-19T16:33:37.554134+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-19T16:30:00.442256+00:00"
+    },
+    {
+      "key": "realizaran sexta suelta plantas plantines centro cultural",
+      "title": "Realizarán la sexta suelta de plantas y plantines en el Centro Cultural",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-19T16:30:00.442256+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261016175519_whatsapp-image-2026-10-16-at-17-55-05.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Realizarán la sexta suelta de plantas y plantines en el Centro Cultural",
+          "url": "https://necocheadigital.com/nota/119915/realizaran-la-sexta-suelta-de-plantas-y-plantines-en-el-centro-cultural/",
+          "published_at": null,
+          "first_seen": "2026-10-19T16:30:00.442256+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El próximo miércoles 21 de octubre, a partir de las 14:15, se llevará a cabo la sexta edición de la \"Suelta de plantas y plantines\", una iniciativa comunitaria que convoca a vecinos de la ciudad y de Quequén a retirar ejemplares cultivados durante el ciclo lectivo. La cita tendrá lugar en la sede del Centro Cultural Necochea y Biblioteca Popular Andrés Ferreyra, ubicada en la calle 54 Nº 3062. La propuesta es el resultado de un trabajo sostenido y colaborativo entre diversas instituciones locales.",
+          "En la producción participan los alumnos del Taller de Huerta y Forestación del Colegio Danés Altamira, bajo la coordinación de los docentes Lis Ullerup y Juan García Siri, junto con los residentes del Hogar San Andrés. A esta labor colectiva se suma la integración de los estudiantes del Taller de Huerta del Centro de Formación Laboral Nº 403 “Enrique Zenón Villar”, dirigido por el profesor Willy Gutiérrez."
+        ],
+        "generated": "2026-10-19T16:33:38.417193+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-19T16:30:00.442256+00:00"
     },
     {
       "key": "axel kicillof fernando espinoza encabezaron acto multitudinario dia lealtad peronista",
       "title": "Axel Kicillof y Fernando Espinoza encabezaron un acto multitudinario en el Día de la Lealtad Peronista",
-      "score": 2.03,
+      "score": 1.071,
       "sources_count": 2,
       "first_seen": "2026-10-19T10:49:29+00:00",
       "image": "https://cdnartic.ar/OYwS2HuAQQRtnDWfUSiWEgLgXcU=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/10/kicillof_en_la_matanza.webp",
@@ -73,45 +294,45 @@
           "TSN Necochea | ‹ VOLVER | Política | 17 de octubre | Partido Justicialista Axel Kicillof y Fernando Espinoza encabezaron un acto multitudinario en el Día de la Lealtad Peronista En este 17 de octubre se vivió una jornada histórica que reunió a más de 20 mil personas en la Capital Nacional del Peronismo, La Matanza, con Axel Kicillof, Verónica Magario y Fernando Espinoza.",
           "Por Redacción TSN 19/10/2026 · 07:49 AM Agregar TSN Necochea en En el corazón del movimiento nacional y popular, el estadio del Polideportivo Juan Domingo Perón desbordó de mística y militancia peronista, con juventudes; representantes gremiales, la CGT y las CTAs; intendentas e intendentes bonaerenses; ministras y ministros del ejecutivo provincial y local; dirigentes, y toda la comunidad organizada para conmemorar el Día de la Lealtad."
         ],
-        "generated": "2026-10-19T16:01:12.158243+00:00"
+        "generated": "2026-10-19T16:32:14.555730+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-10-19T16:00:00.878372+00:00",
-      "penalizacion": 1.0
+      "apariciones": 3,
+      "ultima_impresion": "2026-10-19T16:30:00.442256+00:00",
+      "penalizacion": 0.55
     },
     {
-      "key": "balance feliz centro vasco nacional cestobol necochea deporte nos salva ahi",
-      "title": "Balance feliz para Centro Vasco tras el Nacional de Cestobol en Necochea: “El deporte nos salva, es por ahí”",
-      "score": 1.152,
+      "key": "dibu martinez fractura mandibula mensaje optimista semanas volvemos",
+      "title": "Dibu Martínez, la fractura de mandíbula y su mensaje optimista: “En unas semanas volvemos”",
+      "score": 0.979,
       "sources_count": 1,
-      "first_seen": "2026-10-19T15:30:43+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/Centro-Vasco-Primera-cestobol2-scaled.webp",
+      "first_seen": "2026-10-19T16:14:51+00:00",
+      "image": null,
       "articles": [
         {
-          "portal": "TSN Necochea",
-          "title": "Balance feliz para Centro Vasco tras el Nacional de Cestobol en Necochea: “El deporte nos salva, es por ahí”",
-          "url": "https://tsnnecochea.com.ar/deportes/balance-feliz-para-centro-vasco-tras-el-nacional-de-cestobol-en-necochea-el-deporte-nos-salva-es-por-ahi-240082/",
-          "published_at": "2026-10-19T15:30:43+00:00",
-          "first_seen": "2026-10-19T16:00:00.878372+00:00",
-          "category": "Centro Vasco",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/Centro-Vasco-Primera-cestobol2-scaled.webp"
+          "portal": "Necochea News",
+          "title": "Dibu Martínez, la fractura de mandíbula y su mensaje optimista: “En unas semanas volvemos”",
+          "url": "https://necocheanews.com.ar/dibu-martinez-se-opera-de-una-fractura-de-mandibula-y-asegura-volver-en-semanas/",
+          "published_at": "2026-10-19T16:14:51+00:00",
+          "first_seen": "2026-10-19T16:30:00.442256+00:00",
+          "category": "DEPORTES",
+          "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Deportes | Centro Vasco | Deporte Balance feliz para Centro Vasco tras el Nacional de Cestobol en Necochea: “El deporte nos salva, es por ahí” Desde el cesto local rescataron lo que dejó el nacional femenino de Primera, con un agradecimiento especial a quienes trabajaron para que las 16 delegaciones pudieran disfrutar de cinco jornadas de competencia. “El equipo es tan grande que no hay foto que lo represente”, expresaron.",
-          "Por Agustin Betancor 19/10/2026 · 12:30 PM El equipo de Centro Vasco, dirigido por Agustina Simonetti Agregar TSN Necochea en Pasó la Liga Nacional Femenina de Cestobol de Primera División por Necochea y, después de cinco días de competencia, desde el cesto de Centro Vasco compartieron una reflexión que va mucho más allá de los resultados deportivos. “Nuestra categoría Primera lo dio todo dentro y fuera de la cancha."
+          "El arquero del Chelsea y de la Selección Argentina fue operado en Liverpool y prevé regresar a los entrenamientos en torno a 40 días. El guardameta argentino sufrió una fractura de mandíbula durante el partido de la Premier League contra el Everton, tras el choque con el defensor Jarrad Branthwaite. La lesión obligó a que fuera atendido en el campo durante casi diez minutos, recibiendo oxígeno antes de ser sustituido. Tras la intervención quirúrgica en el Hospital de Liverpool, Martínez compartió una foto desde su habitación en la que muestra tres dedos levantados con la mano izquierda.",
+          "En su cuenta de Instagram agradeció los mensajes recibidos y manifestó optimismo: “Gracias a todos por los mensajes, la operación fue bien. Lo más importante es que ganamos y con arco en 0. En unas semanas volvemos ya”."
         ],
-        "generated": "2026-10-19T16:03:13.014328+00:00"
+        "generated": "2026-10-19T16:33:42.765944+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-19T16:00:00.878372+00:00"
+      "ultima_impresion": "2026-10-19T16:30:00.442256+00:00"
     },
     {
       "key": "aprehendido quequen circular moto patente falsa",
       "title": "Aprehendido en Quequén por circular en una moto con una patente falsa",
-      "score": 1.146,
+      "score": 0.604,
       "sources_count": 1,
       "first_seen": "2026-10-19T15:26:43+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/FB_IMG_1792423247826.webp",
@@ -131,161 +352,16 @@
           "TSN Necochea | ‹ VOLVER | Locales | motocicleta | Procedimiento policial Aprehendido en Quequén por circular en una moto con una patente falsa Un hombre fue interceptado en las calles 521 y 570 durante un operativo conjunto entre la Policía y Tránsito Municipal. El rodado llevaba colocado el dominio de otro vehículo y la numeración no arrojó registros. Quedó imputado por encubrimiento.",
           "Por Redacción TSN 19/10/2026 · 12:26 PM Agregar TSN Necochea en Personal policial , con la colaboración de inspectores de Tránsito Municipal, aprehendió a un hombre en Quequén (calles 521 y 570) cuando circulaba en una motocicleta Honda Storm 125 cc con irregularidades . ​Al verificar la patente en el sistema, constataron que el dominio pertenecía a otra moto (una Gilera 150 cc). Además, las numeraciones de chasis y motor no registraron coincidencias ."
         ],
-        "generated": "2026-10-19T16:03:14.408632+00:00"
+        "generated": "2026-10-19T16:33:40.087361+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-10-19T16:00:00.878372+00:00",
-      "penalizacion": 1.0
-    },
-    {
-      "key": "actualizaron valor vtv tramite basico cuesta 114 mil pesos",
-      "title": "Actualizaron el valor de la VTV: el trámite básico cuesta más de 114 mil pesos",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-19T16:00:00.878372+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/9ebfb59d240e965fff47da142d14b6fdd064aecf.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Actualizaron el valor de la VTV: el trámite básico cuesta más de 114 mil pesos",
-          "url": "https://necocheadigital.com/nota/119916/actualizaron-el-valor-de-la-vtv-el-tramite-basico-cuesta-mas-de-114-mil-pesos/",
-          "published_at": null,
-          "first_seen": "2026-10-19T16:00:00.878372+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El Ministerio de Transporte de la Provincia de Buenos Aires oficializó la actualización del cuadro tarifario de la Verificación Técnica Vehicular mediante la Resolución 361/2026. La medida establece un incremento del 17,56% en el costo del trámite obligatorio, por lo que la tarifa básica correspondiente a vehículos particulares de hasta 2.500 kilos pasó de $97.057,65 a $114.105,99, IVA incluido.",
-          "El reajuste tarifario se encuentra vinculado a los acuerdos paritarios pactados entre el sindicato SMATA y la Cámara Argentina de Verificadores de Automotores. La aplicación del incremento estaba prevista originalmente para el mes de julio, pero su implementación permaneció postergada durante 90 días tras un acuerdo entre el gobierno bonaerense y las empresas concesionarias del servicio."
-        ],
-        "generated": "2026-10-19T16:03:15.555923+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-19T16:00:00.878372+00:00"
-    },
-    {
-      "key": "necochense joseba bilbao sera arbitro mundial pelota vasca disputa buenos aires",
-      "title": "El necochense Joseba Bilbao será árbitro en el Mundial de Pelota Vasca que se disputa en Buenos Aires",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-19T16:00:00.878372+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/a42b709046246d5898d5f5f4bf9712188c6ff265.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "El necochense Joseba Bilbao será árbitro en el Mundial de Pelota Vasca que se disputa en Buenos Aires",
-          "url": "https://necocheadigital.com/nota/119917/el-necochense-joseba-bilbao-sera-arbitro-en-el-mundial-de-pelota-vasca-que-se-disputa-en-buenos-aires/",
-          "published_at": null,
-          "first_seen": "2026-10-19T16:00:00.878372+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El vigésimo Campeonato Mundial de Pelota Vasca puso en marcha su competencia en la Ciudad Autónoma de Buenos Aires, convirtiéndose en un hito histórico al disputarse por primera vez en el país. El certamen reúne a 480 deportistas de 15 delegaciones internacionales y cuenta con la presencia del necochense Joseba Bilbao, quien integra el cuerpo arbitral oficial del torneo que se extenderá hasta el 24 de octubre.",
-          "Para Bilbao, esta designación representa un nuevo capítulo en su trayectoria dentro de la disciplina, consolidando su rol como juez internacional tras haber participado previamente en los Juegos Suramericanos de Santa Fe. Su vínculo con la máxima cita mundialista tiene una larga historia, ya que desde 2010 compitió en múltiples ediciones defendiendo los colores de la Selección Argentina como jugador en la modalidad de paleta cuero en trinquete."
-        ],
-        "generated": "2026-10-19T16:03:17.023730+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-19T16:00:00.878372+00:00"
-    },
-    {
-      "key": "licencias conducir quienes rindan examen auto automatico solo podran manejar tipo vehiculos",
-      "title": "Licencias de conducir: quienes rindan el examen con auto automático solo podrán manejar ese tipo de vehículos",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-19T16:00:00.878372+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261016174920_foto-examen-conducir-h.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Licencias de conducir: quienes rindan el examen con auto automático solo podrán manejar ese tipo de vehículos",
-          "url": "https://necocheadigital.com/nota/119914/licencias-de-conducir-quienes-rindan-el-examen-con-auto-automatico-solo-podran-manejar-ese-tipo-de-vehiculos/",
-          "published_at": null,
-          "first_seen": "2026-10-19T16:00:00.878372+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "En el distrito comenzó a aplicarse la medida comunicada por las autoridades de la Provincia de Buenos Aires mediante la Circular 11/2026, la cual fija pautas específicas para evaluar a los aspirantes a la licencia de conducir. La norma establece que los principiantes que realicen la prueba práctica con un vehículo de transmisión automática quedarán habilitados de forma exclusiva para manejar unidades de ese tipo. El cambio central alcanza de manera estricta a quienes tramitan su primer registro de conducir.",
-          "En la Licencia Nacional de Conducir que reciban estos nuevos conductores figurará una leyenda que indicará de forma explícita: “Conduce únicamente vehículos con transmisión automática”. Esto impedirá legalmente que el titular conduzca unidades con caja manual mientras la restricción siga asentada."
-        ],
-        "generated": "2026-10-19T16:03:18.497472+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-19T16:00:00.878372+00:00"
-    },
-    {
-      "key": "lecturas nos encuentran propuesta ludica artistica pensada chicos",
-      "title": "‘Lecturas que nos encuentran’, propuesta lúdica y artística pensada para los más chicos",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-19T16:00:00.878372+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261016172917_16-10-foto-maraton-de-lectura3.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "‘Lecturas que nos encuentran’, propuesta lúdica y artística pensada para los más chicos",
-          "url": "https://necocheadigital.com/nota/119913/lsquo-lecturas-que-nos-encuentran-rsquo-propuesta-ludica-y-artistica-pensada-para-los-mas-chicos/",
-          "published_at": null,
-          "first_seen": "2026-10-19T16:00:00.878372+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La propuesta es un ejemplo de cómo la articulación entre las instituciones educativas y el Municipio permite fortalecer iniciativas que, con el tiempo, se incorporan a la agenda de la ciudad. En esta oportunidad, acompañaron la jornada la directora de Educación, Mariela Maceiro , e integrantes de la Secretaría de Turismo y Desarrollo Productivo.",
-          "La directora del Instituto 31, Florencia Raffaghelli , explicó que esta edición marcó el cierre del proyecto 2026 y destacó el trabajo conjunto que hizo posible su crecimiento. “Este fue el cierre del proyecto ‘Lecturas que nos encuentran’, que es una iniciativa de las bibliotecarias del Instituto 31, Silvana, Carolina y Lucía, en articulación con el municipio, a través de Turismo y de Educación , que nos han brindado el espacio y los recursos para que esta jornada pueda salir de la mejor manera."
-        ],
-        "generated": "2026-10-19T16:03:19.415897+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-19T16:00:00.878372+00:00"
-    },
-    {
-      "key": "municipio implementara concurso cargos directivos jardines municipales",
-      "title": "El Municipio implementará el concurso para los cargos directivos de los jardínes municipales",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-19T16:00:00.878372+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261016172507_16-10-foto-rojas-concurso-jardines.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "El Municipio implementará el concurso para los cargos directivos de los jardínes municipales",
-          "url": "https://necocheadigital.com/nota/119912/el-municipio-implementara-el-concurso-para-los-cargos-directivos-de-los-jardines-municipales/",
-          "published_at": null,
-          "first_seen": "2026-10-19T16:00:00.878372+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Este viernes comenzó en el Salón de Actos Domingo J. Taraborelli de la Municipalidad el Concurso Interno de Títulos, Antecedentes y Oposición para cubrir cargos vacantes de directoras y vicedirectoras de jardines de infantes y directoras de jardines maternales .",
-          "La iniciativa, impulsada por la Secretaría de Desarrollo Humano y Políticas Sociales, recibió el respaldo de las autoridades educativas presentes, que valoraron la apertura de oportunidades de ascenso laboral y la transparencia del proceso. Durante la jornada de evaluación, estuvo presente el intendente Arturo Rojas ; acompañando a la secretaria de Desarrollo Humano y Políticas Sociales, Sandra Antenucci; la subsecretaria Patricia Britos; y la directora de Educación, Mariela Maceiro."
-        ],
-        "generated": "2026-10-19T16:03:20.332396+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-19T16:00:00.878372+00:00"
+      "apariciones": 3,
+      "ultima_impresion": "2026-10-19T16:30:00.442256+00:00",
+      "penalizacion": 0.55
     },
     {
       "key": "comedores desbordados pais demanda alimentos crecio 50 ano",
       "title": "Comedores desbordados en el país, con una demanda de alimentos que creció hasta 50% en un año",
-      "score": 0.594,
+      "score": 0.313,
       "sources_count": 1,
       "first_seen": "2026-10-19T14:44:16+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/comedores.webp",
@@ -305,16 +381,16 @@
           "TSN Necochea | ‹ VOLVER | Generales | alimentos | Sociedad argentina Comedores desbordados en el país, con una demanda de alimentos que creció hasta 50% en un año La desocupación y el aumento del precio de los alimentos empujan a más familias a buscar ayuda en los barrios. En Villa 21-24, un comedor pasó a recibir a 900 personas y ya tiene lista de espera. Por Redacción TSN 19/10/2026 · 11:44 AM Agregar TSN Necochea en El impacto de la desocupación y la suba de precios en los alimentos básicos repercute cada vez más fuerte en los sectores populares.",
           "En distintos puntos del país, una gran cantidad de comedores y merenderos comunitarios reportan un incremento sostenido en la demanda de asistencia alimentaria. Familias enteras que antes lograban cubrir sus necesidades mínimas hoy se ven obligadas a recurrir a estos centros para garantizar, al menos, una comida diaria. Referentes sociales expresaron que se ven “desbordados”."
         ],
-        "generated": "2026-10-19T16:03:21.746950+00:00"
+        "generated": "2026-10-19T16:33:41.518818+00:00"
       },
-      "apariciones": 3,
-      "ultima_impresion": "2026-10-19T16:00:00.878372+00:00",
-      "penalizacion": 0.55
+      "apariciones": 4,
+      "ultima_impresion": "2026-10-19T16:30:00.442256+00:00",
+      "penalizacion": 0.302
     },
     {
       "key": "quequen brillo italia dos titulos mundiales cinco medallas sup",
       "title": "Quequén brilló en Italia con dos títulos mundiales y cinco medallas en SUP",
-      "score": 0.089,
+      "score": 0.047,
       "sources_count": 1,
       "first_seen": "2026-10-19T13:31:31+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/FOTO-SUP-Quequen.webp",
@@ -334,16 +410,16 @@
           "TSN Necochea | ‹ VOLVER | Deportes | Medallas | Stand Up Paddle Quequén brilló en Italia con dos títulos mundiales y cinco medallas en SUP Felicitas Guida, Josefina Reynoso y Salvador Labarthe tuvieron una destacada actuación en el Campeonato del Mundo de Stand Up Paddle (SUP) de la ICF, disputado en Sabaudia. Por Agustin Betancor 19/10/2026 · 10:31 AM Lito Labarthe junto a Felicitas Guida, Salvador Labarthe y Josefina Reynoso Agregar TSN Necochea en Los chicos de Quequén SUP dejaron su huella en el viejo continente.",
           "En Sabaudia, Italia, Felicitas Guida, Josefina Reynoso y Salvador Labarthe representaron a nuestro distrito y al país en el Campeonato del Mundo de Stand Up Paddle (SUP) de la Federación Internacional de Canotaje (ICF), con una cosecha de dos títulos mundiales y cinco medallas que coronaron una experiencia deportiva inolvidable."
         ],
-        "generated": "2026-10-19T16:03:23.168415+00:00"
+        "generated": "2026-10-19T16:33:43.995002+00:00"
       },
-      "apariciones": 6,
-      "ultima_impresion": "2026-10-19T16:00:00.878372+00:00",
-      "penalizacion": 0.092
+      "apariciones": 7,
+      "ultima_impresion": "2026-10-19T16:30:00.442256+00:00",
+      "penalizacion": 0.05
     },
     {
       "key": "colegio danes realizara nueva suelta gratuita plantines centro cultural necochea",
       "title": "El Colegio Danés realizará una nueva suelta gratuita de plantines en el Centro Cultural de Necochea",
-      "score": 0.075,
+      "score": 0.04,
       "sources_count": 1,
       "first_seen": "2026-10-19T13:35:27+00:00",
       "image": null,
@@ -363,16 +439,16 @@
           "La actividad se desarrollará este miércoles 21 de octubre, desde las 14:30, y permitirá a los vecinos llevarse plantas producidas por estudiantes de la institución. Liz Uliero, profesora del taller de huerta y forestación, brindó detalles de la iniciativa y destacó su valor educativo y comunitario. El Colegio Danés de Necochea llevará adelante una nueva edición de su tradicional suelta de plantines, una propuesta abierta y gratuita que busca acercar a la comunidad el trabajo realizado durante todo el año por estudiantes de distintos niveles educativos.",
           "La actividad tendrá lugar este miércoles 21 de octubre, a partir de las 14:30, en el Centro Cultural de Necochea, ubicado en calle 54 entre 61 y 63. Allí, los vecinos podrán retirar plantas de huerta, aromáticas, arbustos y otras especies cultivadas en el establecimiento educativo."
         ],
-        "generated": "2026-10-19T16:04:21.780377+00:00"
+        "generated": "2026-10-19T16:34:34.379881+00:00"
       },
-      "apariciones": 6,
-      "ultima_impresion": "2026-10-19T16:00:00.878372+00:00",
-      "penalizacion": 0.092
+      "apariciones": 7,
+      "ultima_impresion": "2026-10-19T16:30:00.442256+00:00",
+      "penalizacion": 0.05
     },
     {
       "key": "necochea sera sede jornadas provinciales psicologia salud mental",
       "title": "Necochea será sede de las Jornadas Provinciales de Psicología y Salud Mental",
-      "score": 0.074,
+      "score": 0.039,
       "sources_count": 1,
       "first_seen": "2026-10-19T13:31:51+00:00",
       "image": null,
@@ -392,54 +468,16 @@
           "La ciudad recibirá el sábado 24 de octubre a profesionales de distintos puntos de la provincia de Buenos Aires. Ya hay unos 250 inscriptos y cerca de 50 trabajos que serán presentados durante una jornada que abordará salud mental, nuevas tecnologías, inteligencia artificial, ludopatía y los desafíos actuales de la práctica profesional.",
           "Charlando con Fede Cañadas en “Esta Mañana”, por NEC Radio 98.3 del Multimedio NQ, Juan Marcelo Silva , presidente del Colegio de Psicólogos de Necochea, anticipó los detalles de las Jornadas Provinciales del Colegio de Psicólogos y Psicólogas de la Provincia de Buenos Aires , que tendrán a la ciudad como sede el próximo sábado 24 de octubre. La actividad se desarrollará en el Centro Cultural de Necochea, de 9 a 16, y reunirá a profesionales que trabajan en salud, educación, justicia, equipos técnicos, universidades y diferentes dispositivos institucionales."
         ],
-        "generated": "2026-10-19T16:04:23.931157+00:00"
+        "generated": "2026-10-19T16:34:36.510592+00:00"
       },
-      "apariciones": 6,
-      "ultima_impresion": "2026-10-19T16:00:00.878372+00:00",
-      "penalizacion": 0.092
-    },
-    {
-      "key": "necochea partio rumbo juegos bonaerenses delegacion record 249 representantes",
-      "title": "Necochea hizo historia: una delegación récord de 249 representantes viajó a las finales de los Juegos Bonaerenses",
-      "score": 0.028,
-      "sources_count": 2,
-      "first_seen": "2026-10-19T12:23:20+00:00",
-      "image": "http://nden.com.ar/uploads/noticias/5/2026/10/6b46580d04053aebd37e5526a1da046c24b1088f.jpg",
-      "articles": [
-        {
-          "portal": "Noticias de Necochea",
-          "title": "Necochea hizo historia: una delegación récord de 249 representantes viajó a las finales de los Juegos Bonaerenses",
-          "url": "https://nden.com.ar/nota/38443/necochea-hizo-historia-una-delegacion-record-de-249-representantes-viajo-a-las-finales-de-los-juegos-bonaerenses",
-          "published_at": "2026-10-19T13:22:00+00:00",
-          "first_seen": "2026-10-19T13:30:01.060297+00:00",
-          "category": null,
-          "image": "http://nden.com.ar/uploads/noticias/5/2026/10/6b46580d04053aebd37e5526a1da046c24b1088f.jpg"
-        },
-        {
-          "portal": "Diario NQ",
-          "title": "Necochea partió rumbo a los Juegos Bonaerenses con una delegación récord de 249 representantes",
-          "url": "https://diarionq.com.ar/necochea-partio-rumbo-a-los-juegos-bonaerenses-con-una-delegacion-record-de-249-representantes/",
-          "published_at": "2026-10-19T12:23:20+00:00",
-          "first_seen": "2026-10-19T12:30:00.778687+00:00",
-          "category": "Destacadas",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La delegación local viajó este lunes hacia Mar del Plata para participar de las finales de los 35° Juegos Bonaerenses. Con la mayor cantidad de clasificados de su historia, el distrito tendrá presencia en distintas disciplinas deportivas y culturales hasta el viernes 23 de octubre.",
-          "Con una delegación récord de 249 personas, Necochea inició este lunes 19 de octubre su participación en la etapa final de los 35° Juegos Bonaerenses, que se desarrollarán en Mar del Plata hasta el próximo viernes 23. La comitiva partió desde el Polideportivo Municipal «Edgardo Hugo Yelpo», donde familiares, entrenadores y autoridades municipales acompañaron la despedida de los representantes locales, que buscarán destacarse en diferentes competencias deportivas y culturales."
-        ],
-        "generated": "2026-10-19T16:01:37.361560+00:00"
-      },
-      "apariciones": 9,
-      "ultima_impresion": "2026-10-19T16:00:00.878372+00:00",
-      "penalizacion": 0.015
+      "apariciones": 7,
+      "ultima_impresion": "2026-10-19T16:30:00.442256+00:00",
+      "penalizacion": 0.05
     },
     {
       "key": "comienzan finales bonaerenses necochea sabe delegacion local partio mdp",
       "title": "Comienzan las finales de los Bonaerenses y Necochea lo sabe: la delegación local ya partió a MdP",
-      "score": 0.025,
+      "score": 0.013,
       "sources_count": 1,
       "first_seen": "2026-10-19T12:39:28+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/FOTO-Bonaerenses3.webp",
@@ -459,45 +497,16 @@
           "TSN Necochea | ‹ VOLVER | Deportes | Finales | Deporte y cultura Comienzan las finales de los Bonaerenses y Necochea lo sabe: la delegación local ya partió a MdP Esta semana se llevarán a cabo las ansiadas finales de los 35° Juegos Bonaerenses en Mar del Plata y allá va Necochea con una nutrida delegación de deportistas y representantes de la cultura. Por Redacción TSN 19/10/2026 · 09:39 AM Agregar TSN Necochea en Llegó la semana más esperada del año para miles de deportistas y artistas de toda la provincia, con la disputa de las finales de los 35° Juegos Bonaerenses , cita para la que Necochea cada año cuenta con una importante presencia.",
           "Desde este lunes, y hasta el venidero viernes 23, el distrito estará representado por una delegación récord de 249 personas, la más numerosa de su historia, y la cual partió este lunes desde el Polideportivo Municipal “Edgardo Hugo Yelpo”, rumbo a Mar del Plata."
         ],
-        "generated": "2026-10-19T16:04:18.676595+00:00"
-      },
-      "apariciones": 8,
-      "ultima_impresion": "2026-10-19T16:00:00.878372+00:00",
-      "penalizacion": 0.028
-    },
-    {
-      "key": "robo zapateria centrica violentaron acceso llevaron 50 pares zapatillas",
-      "title": "Robo en una zapatería céntrica : violentaron el acceso y se llevaron 50 pares de zapatillas",
-      "score": 0.013,
-      "sources_count": 1,
-      "first_seen": "2026-10-19T12:00:39+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/av-59.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Robo en una zapatería céntrica : violentaron el acceso y se llevaron 50 pares de zapatillas",
-          "url": "https://tsnnecochea.com.ar/locales/robo-en-una-zapateria-centrica-violentaron-el-acceso-y-se-llevaron-50-pares-de-zapatillas-240042/",
-          "published_at": "2026-10-19T12:00:39+00:00",
-          "first_seen": "2026-10-19T12:30:00.778687+00:00",
-          "category": "policiales",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/av-59.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Locales | policiales | En la Avenida 59 Robo en una zapatería céntrica : violentaron el acceso y se llevaron 50 pares de zapatillas Los delincuentes forzaron la puerta durante la noche, sustrajeron efectivo y decenas de calzados de distintas marcas. Investiga la UFI N° 1 de Necochea.",
-          "Por Redacción TSN 19/10/2026 · 09:00 AM Agregar TSN Necochea en Efectivos de la Comisaría Primera de Necochea iniciaron las investigaciones para dar con los autores de un audaz robo registrado en un local comercial del rubro zapatería, ubicado en pleno centro sobre la Avenida 59 al 2800, entre 62 y 64. El procedimiento policial se puso en marcha tras un llamado de alerta ingresado a la central de emergencias 911 a las 8:55 del sábado, cuando el propietario del negocio acudió a realizar la apertura diaria."
-        ],
-        "generated": "2026-10-19T16:04:19.599955+00:00"
+        "generated": "2026-10-19T16:34:32.005592+00:00"
       },
       "apariciones": 9,
-      "ultima_impresion": "2026-10-19T16:00:00.878372+00:00",
+      "ultima_impresion": "2026-10-19T16:30:00.442256+00:00",
       "penalizacion": 0.015
     },
     {
       "key": "tragedia ecuador sacerdote murio aplastado cruz mientras celebraba misa",
       "title": "Tragedia en Ecuador: un sacerdote murió aplastado por una cruz mientras celebraba misa",
-      "score": 0.01,
+      "score": 0.006,
       "sources_count": 1,
       "first_seen": "2026-10-19T11:30:29+00:00",
       "image": null,
@@ -517,16 +526,16 @@
           "El párroco Patricio Alfredo Sánchez Molinarí perdió la vida cuando una cruz de madera se desprendió de la pared y cayó sobre él mientras celebraba la eucaristía en la parroquia Nuestra Señora del Perpetuo Socorro, en Guayaquil. El accidente ocurrió el sábado y quedó registrado en la transmisión en vivo que la iglesia difundía a través de Facebook. Según los testimonios de los feligreses, el sacerdote se encontraba frente al altar mayor cuando la estructura que sostenía la cruz cedió y el objeto impactó directamente en su cabeza.",
           "En el momento del desprendimiento, el religioso estaba limpiando sus anteojos. Los fieles presentes acudieron de inmediato al sacerdote, pidiendo ayuda y llamando a una ambulancia. Fue trasladado a un centro de salud, donde falleció a causa de las graves lesiones sufridas."
         ],
-        "generated": "2026-10-19T16:05:54.237388+00:00"
+        "generated": "2026-10-19T16:36:17.174586+00:00"
       },
-      "apariciones": 9,
-      "ultima_impresion": "2026-10-19T16:00:00.878372+00:00",
-      "penalizacion": 0.015
+      "apariciones": 10,
+      "ultima_impresion": "2026-10-19T16:30:00.442256+00:00",
+      "penalizacion": 0.008
     },
     {
       "key": "ventas dia madre caen registran quinto ano consecutivo descenso",
       "title": "Ventas del Día de la Madre caen 1,4 % y registran quinto año consecutivo de descenso",
-      "score": 0.003,
+      "score": 0.002,
       "sources_count": 1,
       "first_seen": "2026-10-19T11:25:51+00:00",
       "image": null,
@@ -546,16 +555,16 @@
           "El consumo en los comercios pyme se redujo frente al mismo período del año pasado, a pesar de los descuentos y las cuotas sin interés, con un ticket promedio de $63.197. El relevamiento realizado por la Confederación Argentina de la Mediana Empresa (CAME) muestra una caída interanual del 1,4 % en las ventas minoristas vinculadas al Día de la Madre. El gasto medio por compra alcanzó los $63.197, mientras que cuatro de los seis rubros analizados registraron disminuciones. Desempeño por rubro – Electrodomésticos: –3,6 % (ticket promedio $72.581).",
           "La demanda se concentró en productos de menor precio y la financiación de artículos costosos resultó limitada. – Cosmética y perfumería: –3,2 % (ticket promedio $88.000), el más alto del estudio. Las lluvias y la restricción presupuestaria redujeron la afluencia a los locales."
         ],
-        "generated": "2026-10-19T16:05:55.430560+00:00"
+        "generated": "2026-10-19T16:36:18.372617+00:00"
       },
-      "apariciones": 11,
-      "ultima_impresion": "2026-10-19T16:00:00.878372+00:00",
-      "penalizacion": 0.005
+      "apariciones": 12,
+      "ultima_impresion": "2026-10-19T16:30:00.442256+00:00",
+      "penalizacion": 0.003
     },
     {
       "key": "frio nublado arrancar semana necochea maxima sera apenas 13 grados",
       "title": "Frío y nublado para arrancar la semana en Necochea: la máxima será de apenas 13 grados",
-      "score": 0.003,
+      "score": 0.002,
       "sources_count": 1,
       "first_seen": "2026-10-19T11:18:19+00:00",
       "image": null,
@@ -575,11 +584,11 @@
           "El comienzo de una nueva semana estará marcado por las bajas temperaturas en Necochea y Quequén. Para este lunes 19 de octubre se espera una jornada fría, con cielo mayormente nublado y una temperatura máxima que apenas alcanzará los 13 grados. De acuerdo con el pronóstico, la temperatura mínima será de 7 grados, mientras que durante la mañana el termómetro rondará los 10 grados. Hacia la tarde se espera que alcance los 13 grados, para luego descender nuevamente hasta los 9 grados durante la noche.",
           "Sin lluvias previstas y con viento leve A pesar de la nubosidad, el pronóstico no anticipa precipitaciones para este lunes. La probabilidad de lluvia se mantendrá en 0% durante la mañana, la tarde y la noche. En cuanto al viento, se esperan velocidades de entre 7 y 12 kilómetros por hora durante las primeras horas del día y la tarde, mientras que hacia la noche podrían incrementarse hasta alcanzar valores de entre 13 y 22 kilómetros por hora."
         ],
-        "generated": "2026-10-19T16:05:57.573270+00:00"
+        "generated": "2026-10-19T16:36:20.660349+00:00"
       },
-      "apariciones": 11,
-      "ultima_impresion": "2026-10-19T16:00:00.878372+00:00",
-      "penalizacion": 0.005
+      "apariciones": 12,
+      "ultima_impresion": "2026-10-19T16:30:00.442256+00:00",
+      "penalizacion": 0.003
     },
     {
       "key": "arba lanza plan pagos descuentos 40 regularizar deudas",
@@ -613,40 +622,11 @@
           "El nuevo régimen, que entra en vigor el 26 de octubre, permite abonar impuestos atrasados con rebajas que disminuyen según la fecha de adhesión y la forma de pago. La Agencia de Recaudación de la provincia de Buenos Aires (ARBA) pondrá en marcha, a partir del 26 de octubre, un plan especial de pagos dirigido a contribuyentes con deudas impositivas. El programa ofrece descuentos de hasta el 40 % para quienes liquiden al contado y facilidades de financiación en tres o seis cuotas.",
           "Se incluyen obligaciones de Ingresos Brutos, Sellos, Inmobiliario Básico y Complementario, Automotor y Embarcaciones Deportivas. Podrán incorporarse deudas vencidas o devengadas hasta el 31 de diciembre 2025, incluso aquellas en instancia prejudicial, judicial o bajo fiscalización. También se aceptarán deudas generadas en 2026, salvo el Impuesto de Sellos, que solo podrá regularizarse para años anteriores."
         ],
-        "generated": "2026-10-19T16:01:57.059499+00:00"
+        "generated": "2026-10-19T16:32:34.646621+00:00"
       },
-      "apariciones": 14,
-      "ultima_impresion": "2026-10-19T16:00:00.878372+00:00",
-      "penalizacion": 0.001
-    },
-    {
-      "key": "macron condena ola disturbios francia anuncia medidas seguridad",
-      "title": "Macron condena la ola de disturbios en Francia y anuncia medidas de seguridad",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-10-19T09:39:13+00:00",
-      "image": null,
-      "articles": [
-        {
-          "portal": "Necochea News",
-          "title": "Macron condena la ola de disturbios en Francia y anuncia medidas de seguridad",
-          "url": "https://necocheanews.com.ar/macron-condena-la-ola-de-disturbios-en-francia-y-anuncia-medidas-de-seguridad/",
-          "published_at": "2026-10-19T09:39:13+00:00",
-          "first_seen": "2026-10-19T10:15:35.803658+00:00",
-          "category": "INTERNACIONALES",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El presidente francés calificó los hechos de “ira y vergüenza”, ordenó reforzar la seguridad y convocó a un diálogo nacional ante protestas contra el costo de vida. El mandatario Emmanuel Macron denunció ayer, en un mensaje televisado de diez minutos, la violencia, los saqueos y los enfrentamientos que se registraron en varias ciudades del país durante las protestas contra el aumento del costo de vida. “Esta noche todos sentimos ira y vergüenza”, afirmó, y anunció una serie de medidas para restablecer el orden.",
-          "Entre las decisiones anunciadas, los prefectos podrán prohibir concentraciones en zonas vulnerables para proteger edificios públicos, comercios y espacios urbanos. Además, el presidente exigió al ministro del Interior, Laurent Nuñez, una revisión de la actuación policial y la publicación de los procedimientos utilizados, para garantizar total transparencia."
-        ],
-        "generated": "2026-10-19T16:05:58.745209+00:00"
-      },
-      "apariciones": 14,
-      "ultima_impresion": "2026-10-19T16:00:00.878372+00:00",
-      "penalizacion": 0.001
+      "apariciones": 15,
+      "ultima_impresion": "2026-10-19T16:30:00.442256+00:00",
+      "penalizacion": 0.0
     }
   ]
 }
