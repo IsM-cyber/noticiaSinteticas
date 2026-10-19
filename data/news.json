@@ -1,12 +1,195 @@
 {
-  "generated_at": "2026-10-19T22:30:00.441736+00:00",
+  "generated_at": "2026-10-19T23:00:00.430435+00:00",
   "article_count": 135,
   "fetch_errors": [],
   "stories": [
     {
+      "key": "comenzo concurso cubrir cargos directivos jardines municipales",
+      "title": "Comenzó el concurso para cubrir cargos directivos en jardines municipales",
+      "score": 2.883,
+      "sources_count": 2,
+      "first_seen": "2026-10-19T22:31:29+00:00",
+      "image": "https://cdnartic.ar/sfywYgNz25W3u5sd3IKIx7tUnFE=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/10/jardines.webp",
+      "articles": [
+        {
+          "portal": "Ecos Diarios",
+          "title": "Comenzó el concurso para cubrir cargos directivos en jardines municipales",
+          "url": "https://elecos.com.ar/comenzo-el-concurso-para-cubrir-cargos-directivos-en-jardines-municipales",
+          "published_at": "2026-10-19T22:31:29+00:00",
+          "first_seen": "2026-10-19T23:00:00.430435+00:00",
+          "category": "14",
+          "image": "https://cdnartic.ar/sfywYgNz25W3u5sd3IKIx7tUnFE=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/10/jardines.webp"
+        },
+        {
+          "portal": "Necochea Digital",
+          "title": "El Municipio implementará el concurso para los cargos directivos de los jardínes municipales",
+          "url": "https://necocheadigital.com/nota/119912/el-municipio-implementara-el-concurso-para-los-cargos-directivos-de-los-jardines-municipales/",
+          "published_at": null,
+          "first_seen": "2026-10-19T23:00:00.430435+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Este viernes comenzó en el Salón de Actos Domingo J. Taraborelli de la Municipalidad el Concurso Interno de Títulos, Antecedentes y Oposición para cubrir cargos vacantes de directoras y vicedirectoras de jardines de infantes y directoras de jardines maternales .",
+          "La iniciativa, impulsada por la Secretaría de Desarrollo Humano y Políticas Sociales, recibió el respaldo de las autoridades educativas presentes, que valoraron la apertura de oportunidades de ascenso laboral y la transparencia del proceso. Durante la jornada de evaluación, estuvo presente el intendente Arturo Rojas ; acompañando a la secretaria de Desarrollo Humano y Políticas Sociales, Sandra Antenucci; la subsecretaria Patricia Britos; y la directora de Educación, Mariela Maceiro."
+        ],
+        "generated": "2026-10-19T23:00:47.299823+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-19T23:00:00.430435+00:00"
+    },
+    {
+      "key": "colaboracion clave com municipal recuperar auto",
+      "title": "Colaboración clave del COM municipal para recuperar un auto",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-19T23:00:00.430435+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261019183119_19-10-foto-com-vehiculo2.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Colaboración clave del COM municipal para recuperar un auto",
+          "url": "https://necocheadigital.com/nota/119938/colaboracion-clave-del-com-municipal-para-recuperar-un-auto/",
+          "published_at": null,
+          "first_seen": "2026-10-19T23:00:00.430435+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El subsecretario de Prevención y Monitoreo municipal, Ángel Vázquez , explicó tras una reunión encabezada por el secretario de Gobierno, Jorge Martínez , que el trabajo se inició a partir de un pedido de colaboración de la dependencia policial que llevaba adelante la investigación. Desde el COM se logró identificar el ingreso del automóvil a la ciudad mediante las lectoras de dominio y, posteriormente, se aportaron imágenes que ayudaron a orientar las tareas del personal policial.",
+          "Como resultado de la investigación, este lunes por la mañana se realizó un allanamiento en Necochea, donde el vehículo fue recuperado y quedó a disposición de la Justicia. Vázquez detalló que el automóvil fue trasladado a la zona de Trenque Lauquen, donde se había originado el hecho delictivo , para continuar con las actuaciones correspondientes."
+        ],
+        "generated": "2026-10-19T23:03:38.523299+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-19T23:00:00.430435+00:00"
+    },
+    {
+      "key": "proximo fin semana vuelve servicio gratuito castracion masiva mascotas",
+      "title": "El próximo fin de semana vuelve el servicio gratuito de castración masiva de mascotas",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-19T23:00:00.430435+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261019112348_24-08-foto-jornada-castracion-escuela-6.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "El próximo fin de semana vuelve el servicio gratuito de castración masiva de mascotas",
+          "url": "https://necocheadigital.com/nota/119929/el-proximo-fin-de-semana-vuelve-el-servicio-gratuito-de-castracion-masiva-de-mascotas/",
+          "published_at": null,
+          "first_seen": "2026-10-19T23:00:00.430435+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La Dirección de Bromatología e Higiene, dependiente de la Secretaría de Salud de la Municipalidad, brindará una nueva jornada gratuita de castración masiva de mascotas, el venidero sábado 24 de octubre , en esta oportunidad en el Centro de Salud Estación Quequén, ubicado en avenida 578 N° 2941 . La jornada comenzará a las 9, se castrará hasta un máximo de 45 mascotas y los requisitos son los habituales : Se deberá presentar un mayor de 18 años con DNI para consentir la cirugía de la mascota; se deberá llevar a los perros con bozal; y los gatos serán operados en primer turno.",
+          "Se recuerda a los vecinos que la jornada se suspende si llueve . A continuación, se pueden observar las recomendaciones pre y pos quirúrgicas:"
+        ],
+        "generated": "2026-10-19T23:03:39.260509+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-19T23:00:00.430435+00:00"
+    },
+    {
+      "key": "amenazo muerte expareja cuchillo policia secuestro dos armas blancas",
+      "title": "Amenazó de muerte a su expareja con un cuchillo y la Policía le secuestró dos armas blancas",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-19T23:00:00.430435+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/702090bfc507abf1c7b9a4998c28014859a3d7fb.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Amenazó de muerte a su expareja con un cuchillo y la Policía le secuestró dos armas blancas",
+          "url": "https://necocheadigital.com/nota/119933/amenazo-de-muerte-a-su-expareja-con-un-cuchillo-y-la-policia-le-secuestro-dos-armas-blancas/",
+          "published_at": null,
+          "first_seen": "2026-10-19T23:00:00.430435+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Un violento episodio de violencia de género investiga la Justicia de Necochea luego de que una mujer denunciara haber sido amenazada de muerte por su expareja con un cuchillo durante una discusión. A raíz de la acusación por amenazas agravadas por el uso de arma blanca, personal policial logró el secuestro de dos cuchillos criollos que el agresor tenía en su poder.",
+          "La causa se inició a partir de la presentación formal de la víctima en la sede policial, donde relató la intimidación sufrida a manos de su excompañero. Ante la gravedad del hecho, el Grupo Técnico Operativo (GTO) de la Comisaría Tercera y la Comisaría de la Mujer y la Familia reunieron pruebas que permitieron a la Justicia emitir una orden de registro sobre la vivienda del acusado, ubicada en la intersección de las calles 50 y 139."
+        ],
+        "generated": "2026-10-19T23:03:40.408810+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-19T23:00:00.430435+00:00"
+    },
+    {
+      "key": "liga necochea futbol villa diaz velez estacion quequen sostienen liderazgo fecha 20",
+      "title": "Liga Necochea de Fútbol: Villa Díaz Vélez y Estación Quequén sostienen el liderazgo en la fecha 20",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-19T23:00:00.430435+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/e62f331858116aa22d5dd84745584fa252af1f94.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Liga Necochea de Fútbol: Villa Díaz Vélez y Estación Quequén sostienen el liderazgo en la fecha 20",
+          "url": "https://necocheadigital.com/nota/119931/liga-necochea-de-futbol-villa-diaz-velez-y-estacion-quequen-sostienen-el-liderazgo-en-la-fecha-20/",
+          "published_at": null,
+          "first_seen": "2026-10-19T23:00:00.430435+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "En el encuentro disputado este domingo en el Complejo \"Gustavo A. Portugal\", Mataderos y Villa del Parque igualaron 0-0 en una nueva edición del clásico Norte-Sur. Ante un importante marco de público que desafió la tarde fría y gris en Barrio Norte, los equipos no lograron romper la paridad. Con este resultado, Mataderos alcanzó las 34 unidades (en el cuarto puesto de la Zona A), mientras que el \"León\" sumó 24 puntos para mantenerse séptimo.",
+          "En el plano regional, la jornada se completó con la mala noticia para Ministerio, que cayó goleado ante Quilmes de Mar del Plata y quedó eliminado del Torneo Regional Federal Amateur. Por su parte, la jornada sabatina contó con cinco compromisos clave para la resolución de las tablas. Villa Díaz Vélez superó 2-0 a Rivadavia en el Estadio Jorge “Vasco” Iparraguirre (con goles de Lautaro Ruiz Martínez y Fernando Montes / Lautaro Estarli) y aseguró otra semana en lo más alto de la Zona A con 42 puntos."
+        ],
+        "generated": "2026-10-19T23:03:41.140667+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-19T23:00:00.430435+00:00"
+    },
+    {
+      "key": "necochea construye paz vuelve congreso callejero paz marco 20 anos asociacion marcenac",
+      "title": "“Necochea construye paz”: vuelve el Congreso Callejero por la Paz en el marco de los 20 años de la Asociación Marcenac",
+      "score": 1.0,
+      "sources_count": 1,
+      "first_seen": "2026-10-19T22:59:59+00:00",
+      "image": null,
+      "articles": [
+        {
+          "portal": "Diario NQ",
+          "title": "“Necochea construye paz”: vuelve el Congreso Callejero por la Paz en el marco de los 20 años de la Asociación Marcenac",
+          "url": "https://diarionq.com.ar/necochea-construye-paz-vuelve-el-congreso-callejero-por-la-paz-en-el-marco-de-los-20-anos-de-la-asociacion-marcenac/",
+          "published_at": "2026-10-19T22:59:59+00:00",
+          "first_seen": "2026-10-19T23:00:00.430435+00:00",
+          "category": "La ciudad",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La actividad será este viernes 23 de octubre, de 17.30 a 20.30, en el Centro Cultural de Necochea. Mónica Bouyssede explicó que la propuesta buscará visibilizar experiencias locales que trabajan diariamente para resolver conflictos, fortalecer vínculos y construir una sociedad menos violenta.",
+          "Charlando con Fede Cañadas en “Esta Mañana”, por NEC Radio 98.3 del Multimedio NQ, Mónica Bouyssede , presidenta de la Asociación Civil Alfredo Marcenac, anticipó el regreso del Congreso Callejero por la Paz , una propuesta que este año tendrá como lema “Necochea construye paz” y formará parte de las actividades por los 20 años de la institución. El encuentro será este viernes 23 de octubre, de 17.30 a 20.30, en el Centro Cultural de Necochea , y tendrá como protagonistas a organizaciones, agrupaciones y personas que desarrollan experiencias comunitarias vinculadas con la construcción de paz."
+        ],
+        "generated": "2026-10-19T23:04:04.352859+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-19T23:00:00.430435+00:00"
+    },
+    {
       "key": "corte total kilometro 106 ruta 228 vuelco camion pulverizadora",
       "title": "Corte total en el kilómetro 106 de la ruta 228 por el vuelco de un camión y una pulverizadora",
-      "score": 1.141,
+      "score": 0.602,
       "sources_count": 1,
       "first_seen": "2026-10-19T21:53:47+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/camion_ruta_228.webp",
@@ -26,132 +209,16 @@
           "TSN Necochea | ‹ VOLVER | Policiales | accidente | Peligroso Corte total en el kilómetro 106 de la ruta 228 por el vuelco de un camión y una pulverizadora El hecho se habría originado tras el desprendimiento de una rueda de la maquinaria agrícola Por Redacción TSN 19/10/2026 · 06:53 PM Agregar TSN Necochea en Un accidente vial se produjo este lunes por la mañana sobre la Ruta Nacional Nº 228, en inmediaciones de los kilómetros 105 y 106, donde colisionaron un camión de transporte de carga y un equipo agrícola. En el siniestro intervino una máquina pulverizadora (habitualmente denominada “mosquito”) -conducido por un tresarroyense de 32 años- que remolcaba un carro auxiliar, la cual habría sufrido la rotura o el desprendimiento de una de sus ruedas delanteras.",
           "A raíz de esta contingencia mecánica, la maquinaria quedó ladeada sobre la banquina y con su estructura metálica de aspersión cruzada sobre el asfalto."
         ],
-        "generated": "2026-10-19T22:32:28.337118+00:00"
+        "generated": "2026-10-19T23:03:42.384245+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-10-19T22:30:00.441736+00:00",
-      "penalizacion": 1.0
-    },
-    {
-      "key": "firmo leer cerezuela respaldo marcha universitaria milei",
-      "title": "¿Firmó sin leer? Cerezuela respaldó la marcha universitaria contra Milei",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-19T22:30:00.441736+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/2b01e0b4498bac7d455dfb00f2f83a532c373dcb.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "¿Firmó sin leer? Cerezuela respaldó la marcha universitaria contra Milei",
-          "url": "https://necocheadigital.com/nota/119940/firmo-sin-leer-cerezuela-respaldo-la-marcha-universitaria-contra-milei/",
-          "published_at": null,
-          "first_seen": "2026-10-19T22:30:00.441736+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La política de Necochea dejó una imagen, cuanto menos, llamativa. El Honorable Concejo Deliberante declaró de interés público la realización de la 5ª Marcha Federal Universitaria, que se llevó a cabo el pasado 15 de octubre en defensa de la universidad pública y del financiamiento del sistema universitario nacional. Entre las firmas que aparecen en el decreto figura la de Juan Cerezuela, concejal de La Libertad Avanza. La movilización fue una expresión de rechazo a las políticas de ajuste y a la situación presupuestaria de las universidades nacionales, en un escenario de confrontación con el gobierno de Javier Milei, cuyas medidas el espacio libertario defiende.",
-          "¿Cerezuela sabía qué estaba firmando? ¿Leyó el texto del decreto? ¿Advirtió que estaba acompañando institucionalmente una marcha que cuestiona las políticas del Gobierno nacional al que representa políticamente?"
-        ],
-        "generated": "2026-10-19T22:32:47.438106+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-19T22:30:00.441736+00:00"
-    },
-    {
-      "key": "fiesta cultura todos galardonados premio ramal",
-      "title": "Fiesta de la Cultura: todos los galardonados con el premio Ramal",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-19T22:30:00.441736+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261019182941_19-10-foto-fiesta-de-la-cultura-ramal2.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Fiesta de la Cultura: todos los galardonados con el premio Ramal",
-          "url": "https://necocheadigital.com/nota/119937/fiesta-de-la-cultura-todos-los-galardonados-con-el-premio-ramal/",
-          "published_at": null,
-          "first_seen": "2026-10-19T22:30:00.441736+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Durante la fiesta se entregaron 26 premios , divididos en reconocimientos a la trayectoria; a los formadores; al proyecto y producción; a la revelación- emergente; al proyecto para las infancias; y a la gestión cultural. Desde el Centro Cultural Municipal, el director Sebastián Serqueira fue el propulsor del proyecto y además de resaltar el éxito de la fiesta, destacó con énfasis el trabajo del equipo de coordinación para los premios Ramal, compuesto por Santiago Borletto, Luisa Pérez, Leonela Laborde y Juan Pablo Santilli.",
-          "Además, se resaltó el acompañamiento constante de la Cooperadora de la Escuela Municipal de Artes y se manifestó que “los premios Ramal nacieron con la convicción de que la cultura es el hilo que nos une. No buscamos destacar lo excepcional, sino lo esencial: el trabajo cotidiano, la pasión y el amor por lo que hacemos aquí."
-        ],
-        "generated": "2026-10-19T22:32:48.174952+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-19T22:30:00.441736+00:00"
-    },
-    {
-      "key": "fin semana siniestros viales necochea tres choques motociclista grave",
-      "title": "Fin de semana de siniestros viales en Necochea: tres choques y un motociclista grave",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-19T22:30:00.441736+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/9d7a93214e35dfeda42a9dbef8b3d4e7cefa9e23.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Fin de semana de siniestros viales en Necochea: tres choques y un motociclista grave",
-          "url": "https://necocheadigital.com/nota/119936/fin-de-semana-de-siniestros-viales-en-necochea-tres-choques-y-un-motociclista-grave/",
-          "published_at": null,
-          "first_seen": "2026-10-19T22:30:00.441736+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Un intenso despliegue de las fuerzas de seguridad y de emergencia se registró durante el fin de semana a raíz de tres siniestros viales ocurridos en distintos puntos de la ciudad de Necochea que vuelven a dejar en evidencia lo mal que maneamos los necochenses. El hecho de mayor gravedad se produjo en la intersección de las calles 70 y 73 , donde colisionaron una motocicleta Gilera 110 cc y un automóvil Chevrolet Corsa conducido por una mujer. A causa del violento impacto, el motociclista cayó pesadamente sobre el asfalto y quedó inconsciente en el lugar.",
-          "Minutos después, arribó una ambulancia del SAME que trasladó de urgencia al herido al Hospital Municipal Dr. La Policía procedió al secuestro de ambos rodados e inició actuaciones caratuladas como \"Lesiones culposas\"."
-        ],
-        "generated": "2026-10-19T22:32:48.876314+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-19T22:30:00.441736+00:00"
-    },
-    {
-      "key": "mundial stand up paddle quequen brillo italia dos oros dos platas bronce",
-      "title": "Mundial de Stand Up Paddle: Quequén brilló en Italia con dos oros, dos platas y un bronce",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-19T22:30:00.441736+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261019120547_whatsapp-image-2026-10-19-at-12-05-30-1.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Mundial de Stand Up Paddle: Quequén brilló en Italia con dos oros, dos platas y un bronce",
-          "url": "https://necocheadigital.com/nota/119935/mundial-de-stand-up-paddle-quequen-brillo-en-italia-con-dos-oros-dos-platas-y-un-bronce/",
-          "published_at": null,
-          "first_seen": "2026-10-19T22:30:00.441736+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Una actuación histórica e inolvidable concretó la delegación de Quequén SUP en el Campeonato Mundial de Stand Up Paddle (SUP) de la Federación Internacional de Canotaje (ICF), disputado en Sabaudia, Italia. Los deportistas Felicitas Guida, Josefina Reynoso y Salvador Labarthe representaron al distrito y al país con una brillante cosecha de dos títulos mundiales y cinco medallas en total , repartidas en las pruebas de Sprint de 100 metros y Larga Distancia dentro de la categoría Sub-12.",
-          "La gran figura del certamen fue Felicitas Guida , quien se consagró doble campeona mundial U12 . Guida obtuvo la medalla de oro en los 100 metros Sprint con un tiempo de 35,97 segundos (superando a la italiana Viola Mandoloni) y revalidó su dominio al quedarse también con el primer puesto en la exigente prueba de Larga Distancia."
-        ],
-        "generated": "2026-10-19T22:32:49.574039+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-19T22:30:00.441736+00:00"
+      "apariciones": 3,
+      "ultima_impresion": "2026-10-19T23:00:00.430435+00:00",
+      "penalizacion": 0.55
     },
     {
       "key": "intentaron llevarse bicicleta cajones cerveza necochea aprehendido dos sospechosos buscados",
       "title": "Intentaron llevarse una bicicleta y cajones de cerveza en Necochea: un aprehendido y dos sospechosos buscados",
-      "score": 0.429,
+      "score": 0.226,
       "sources_count": 2,
       "first_seen": "2026-10-19T15:42:00+00:00",
       "image": "http://nden.com.ar/uploads/noticias/5/2026/10/a36969aa34219b58d162709792c018a16855ea07.jpg",
@@ -180,16 +247,16 @@
           "Un hombre fue aprehendido por personal del Comando de Patrullas de Necochea luego de ser señalado como uno de los presuntos responsables de dos intentos de robo registrados en inmediaciones de avenida 75, entre calles 66 y 68. Otros dos individuos que habrían participado de los hechos lograron escapar y son buscados por la Policía. El procedimiento se inició a partir de un llamado al sistema de emergencias CATE 911, que alertó sobre una situación en un depósito de mercaderías en construcción.",
           "Al arribar al lugar, los efectivos encontraron a un hombre que había sido reducido por civiles, luego de que presuntamente intentara sustraer cajones de cerveza del establecimiento. Antes habrían intentado llevarse una bicicleta De acuerdo con la información policial, el aprehendido habría actuado junto a otros dos sujetos que consiguieron darse a la fuga antes de la llegada de los uniformados."
         ],
-        "generated": "2026-10-19T22:31:45.373784+00:00"
+        "generated": "2026-10-19T23:02:17.818201+00:00"
       },
-      "apariciones": 4,
-      "ultima_impresion": "2026-10-19T22:30:00.441736+00:00",
-      "penalizacion": 0.302
+      "apariciones": 5,
+      "ultima_impresion": "2026-10-19T23:00:00.430435+00:00",
+      "penalizacion": 0.166
     },
     {
       "key": "robaron camioneta loberia encontraron horas despues necochea",
       "title": "Robaron una camioneta en Lobería y la encontraron horas después en Necochea",
-      "score": 0.262,
+      "score": 0.138,
       "sources_count": 1,
       "first_seen": "2026-10-19T20:46:57+00:00",
       "image": null,
@@ -209,16 +276,16 @@
           "Una Toyota Hilux fue sustraída durante la madrugada de este lunes mientras permanecía estacionada frente a una vivienda. Tras un operativo policial, el vehículo fue localizado en calle 105, entre 40 y 42, en Necochea. Una camioneta Toyota Hilux que había sido robada durante la madrugada de este lunes en la ciudad de Lobería fue recuperada pocas horas después en Necochea, luego de un operativo desplegado por personal policial.",
           "El hecho ocurrió sobre calle Brandsen, en Lobería, donde el vehículo se encontraba estacionado en la vía pública, frente a una vivienda. Según la información difundida, la camioneta había quedado sin medidas de seguridad y con las llaves colocadas , circunstancia que habría facilitado su sustracción. Operativo cerrojo y recuperación del vehículo Tras advertirse el robo, se dio aviso a la Policía Comunal de Lobería, que puso en marcha un operativo cerrojo con el objetivo de localizar la camioneta."
         ],
-        "generated": "2026-10-19T22:34:10.874958+00:00"
+        "generated": "2026-10-19T23:04:31.059942+00:00"
       },
-      "apariciones": 4,
-      "ultima_impresion": "2026-10-19T22:30:00.441736+00:00",
-      "penalizacion": 0.302
+      "apariciones": 5,
+      "ultima_impresion": "2026-10-19T23:00:00.430435+00:00",
+      "penalizacion": 0.166
     },
     {
       "key": "brindaran charla gratuita necochea herramientas financieras emprendedores comerciantes",
       "title": "Brindarán una charla gratuita en Necochea sobre herramientas financieras para emprendedores y comerciantes",
-      "score": 0.262,
+      "score": 0.138,
       "sources_count": 1,
       "first_seen": "2026-10-19T20:46:07+00:00",
       "image": null,
@@ -238,16 +305,16 @@
           "La actividad se realizará este martes 20 de octubre, a las 14, en el Centro Cultural Político y Social Lo de Néstor. Se brindará información sobre Cuenta DNI, herramientas de cobro para comercios y líneas de microcréditos del Banco Provincia.",
           "Este martes 20 de octubre se llevará adelante en Necochea una charla abierta a la comunidad destinada a emprendedores, comerciantes y trabajadores de la economía popular, con el objetivo de dar a conocer distintas herramientas financieras que permitan fortalecer sus actividades y facilitar el acceso al financiamiento. El encuentro comenzará a las 14 horas en el Centro Cultural Político y Social Lo de Néstor , ubicado en calle 68 Nº 3063, y contará con la participación de organismos del Gobierno de la Provincia de Buenos Aires, el Banco Provincia, Provincia Microcréditos y organizaciones vinculadas a la economía popular."
         ],
-        "generated": "2026-10-19T22:34:13.225948+00:00"
+        "generated": "2026-10-19T23:04:33.317035+00:00"
       },
-      "apariciones": 4,
-      "ultima_impresion": "2026-10-19T22:30:00.441736+00:00",
-      "penalizacion": 0.302
+      "apariciones": 5,
+      "ultima_impresion": "2026-10-19T23:00:00.430435+00:00",
+      "penalizacion": 0.166
     },
     {
       "key": "robaron comercio ropa panalera avenida 74",
       "title": "Robaron en un comercio de ropa y pañalera de avenida 74",
-      "score": 0.087,
+      "score": 0.046,
       "sources_count": 1,
       "first_seen": "2026-10-19T19:42:10+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/07/Policia-Mar-del-Plata-123.webp",
@@ -267,16 +334,16 @@
           "TSN Necochea | ‹ VOLVER | Locales | avenida 74 | Barrio Norte Robaron en un comercio de ropa y pañalera de avenida 74 Para ingresar los ladrones rompieron un candado y dañaron la puerta principal Por Redacción TSN 19/10/2026 · 04:42 PM Agregar TSN Necochea en Un hecho delictivo se registró durante la madrugada en el comercio Dulces Caricias, ubicado en calle 74 al 3400, donde delincuentes ingresaron al local tras forzar los accesos. Los autores rompieron el candado de la reja y posteriormente dañaron un vidrio de la puerta principal para poder entrar. Una vez en el interior, sustrajeron prendas de vestir y productos de higiene, provocando pérdidas para el comercio.",
           "La causa fue caratulada como “robo” y tomó intervención la UFI N.º 1 de Necochea. AVENIDA 74 COMERCIO ROBO Seguinos en redes"
         ],
-        "generated": "2026-10-19T22:33:45.748277+00:00"
+        "generated": "2026-10-19T23:04:05.516066+00:00"
       },
-      "apariciones": 6,
-      "ultima_impresion": "2026-10-19T22:30:00.441736+00:00",
-      "penalizacion": 0.091
+      "apariciones": 7,
+      "ultima_impresion": "2026-10-19T23:00:00.430435+00:00",
+      "penalizacion": 0.05
     },
     {
       "key": "vecinos atrapan hombre quiso robar cajon cerveza bicicleta",
       "title": "Vecinos atrapan a un hombre que quiso robar un cajón de cerveza y una bicicleta",
-      "score": 0.009,
+      "score": 0.004,
       "sources_count": 2,
       "first_seen": "2026-10-19T17:12:40+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/IMG-20261019-WA0022.webp",
@@ -305,16 +372,16 @@
           "TSN Necochea | ‹ VOLVER | Locales | bicicleta | Alertaron al 911 Vecinos atrapan a un hombre que quiso robar un cajón de cerveza y una bicicleta Otros dos sujetos, que acompañaban al malviviente se dieron a la fuga Por Ale Sanchez 19/10/2026 · 02:12 PM Agregar TSN Necochea en Vecinos atrapan a un hombre que quiso robar un cajón de cerveza y una bicicleta Personal policial del Comando de Patrulla Necochea intervino, tras un alerta al sistema CATE 911, en la avenida 75, entre calles 66 y 68, donde civiles tenían reducido a un hombre que habría intentado sustraer cajones de cerveza de un depósito de mercaderías en construcción. Según se estableció, el sujeto habría actuado junto a otros dos individuos, quienes se dieron a la fuga.",
           "Previamente, los tres habrían intentado sustraer una bicicleta de una vivienda cercana, sin lograr su cometido, situación que fue advertida por vecinos."
         ],
-        "generated": "2026-10-19T22:31:16.960186+00:00"
+        "generated": "2026-10-19T23:01:36.731856+00:00"
       },
-      "apariciones": 11,
-      "ultima_impresion": "2026-10-19T22:30:00.441736+00:00",
-      "penalizacion": 0.005
+      "apariciones": 12,
+      "ultima_impresion": "2026-10-19T23:00:00.430435+00:00",
+      "penalizacion": 0.003
     },
     {
       "key": "lectoras patente camaras pudieron divisar recuperar auto robado",
       "title": "Con las lectoras de patente y las cámaras pudieron divisar y recuperar un auto robado",
-      "score": 0.004,
+      "score": 0.002,
       "sources_count": 1,
       "first_seen": "2026-10-19T17:22:44+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/19-10-FOTO-COM-vehiculo2.webp",
@@ -334,16 +401,16 @@
           "TSN Necochea | ‹ VOLVER | Locales | auto robado | Colaboración Con las lectoras de patente y las cámaras pudieron divisar y recuperar un auto robado A partir del rastreo de patentes y el registro de imágenes, la Policía concretó un allanamiento en la ciudad. El automóvil ya fue trasladado a Trenque Lauquen a disposición de la Justicia.",
           "Por Redacción TSN 19/10/2026 · 02:22 PM Agregar TSN Necochea en El Centro Operativo de Monitoreo (COM) municipal aportó información clave para avanzar en una investigación por el robo de un Toyota Etios. El seguimiento a través de las lectoras de patentes permitió establecer el ingreso del vehículo a Necochea, mientras que las imágenes de las cámaras de seguridad contribuyeron a concretar un allanamiento este lunes."
         ],
-        "generated": "2026-10-19T22:34:14.340032+00:00"
+        "generated": "2026-10-19T23:04:34.469094+00:00"
       },
-      "apariciones": 11,
-      "ultima_impresion": "2026-10-19T22:30:00.441736+00:00",
-      "penalizacion": 0.005
+      "apariciones": 12,
+      "ultima_impresion": "2026-10-19T23:00:00.430435+00:00",
+      "penalizacion": 0.003
     },
     {
       "key": "necochea viaja mar plata delegacion historica finales juegos bonaerenses",
       "title": "Necochea viaja a Mar del Plata con una delegación histórica para las finales de los Juegos Bonaerenses",
-      "score": 0.002,
+      "score": 0.001,
       "sources_count": 3,
       "first_seen": "2026-10-19T12:23:20+00:00",
       "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261019091332_19-10-foto-necochea-a-los-bonaerenses2.jpg",
@@ -381,11 +448,11 @@
           "Necochea ya está en camino a una de las citas más importantes del calendario deportivo y cultural de la provincia. Este lunes partió desde el Polideportivo Municipal “Edgardo Hugo Yelpo” la delegación que representará al distrito en las finales de los 35° Juegos Bonaerenses , que se desarrollarán en Mar del Plata hasta el viernes 23 de octubre.",
           "La comitiva está integrada por 249 personas, un récord para Necochea , que tendrá presencia en competencias deportivas individuales y por equipos, además de distintas expresiones artísticas y culturales. La partida reunió a participantes, entrenadores, coordinadores, acompañantes, choferes y familiares que se acercaron al Polideportivo para despedir a los representantes locales antes del comienzo de la etapa decisiva del certamen."
         ],
-        "generated": "2026-10-19T22:31:14.676463+00:00"
+        "generated": "2026-10-19T23:01:34.883044+00:00"
       },
-      "apariciones": 14,
-      "ultima_impresion": "2026-10-19T22:30:00.441736+00:00",
-      "penalizacion": 0.001
+      "apariciones": 15,
+      "ultima_impresion": "2026-10-19T23:00:00.430435+00:00",
+      "penalizacion": 0.0
     },
     {
       "key": "rescataron potrillo rio quequen reunieron mama",
@@ -419,11 +486,11 @@
           "TSN Necochea | ‹ VOLVER | Generales | bomberos | Final feliz Rescataron a un potrillo del Río Quequén y lo reunieron con su mamá Personal del Cuartel de Bomberos de Necochea intervino en un emotivo operativo en la zona de la ribera para poner a salvo al animal. Por Redacción TSN 19/10/2026 · 01:25 PM Agregar TSN Necochea en Personal del Cuartel de Bomberos de Necochea protagonizó este lunes un emotivo rescate en aguas del río Quequén , cuando acudieron al rescate de un pequeño potrillo que había quedado imposibilitado de salir de la zona por sus propios medios .",
           "​Tras un cuidadoso operativo, los efectivos lograron poner a salvo al potrillo y trasladarlo a una zona firme, donde fue rápidamente reencontrado con su madre . ​La intervención no solo llevó tranquilidad a los vecinos de la zona que advirtieron la situación, sino que volvió a poner de manifiesto el compromiso de los servidores públicos ante cualquier emergencia en la comunidad."
         ],
-        "generated": "2026-10-19T22:31:20.446715+00:00"
+        "generated": "2026-10-19T23:01:39.671911+00:00"
       },
-      "apariciones": 14,
-      "ultima_impresion": "2026-10-19T22:30:00.441736+00:00",
-      "penalizacion": 0.001
+      "apariciones": 15,
+      "ultima_impresion": "2026-10-19T23:00:00.430435+00:00",
+      "penalizacion": 0.0
     },
     {
       "key": "seis decadas compromiso cooperadora hospital ferreyra celebra aniversario",
@@ -457,10 +524,10 @@
           "La Asociación Cooperadora del Hospital Municipal Dr. Emilio Ferreyra cumple 60 años de trabajo solidario, una trayectoria que la convirtió en un actor fundamental para el desarrollo de la salud pública en Necochea. Fundada el 19 de octubre de 1966, cuando el hospital llevaba poco más de dos décadas de funcionamiento, la institución nació con el objetivo de organizar la colaboración de los vecinos y contribuir al mantenimiento y crecimiento de un establecimiento que comenzaba a responder a una demanda cada vez mayor.",
           "Seis décadas después, ese compromiso continúa vigente. A través de campañas solidarias, donaciones y distintas iniciativas para recaudar fondos, la Cooperadora logró concretar obras, incorporar equipamiento y renovar sectores esenciales del hospital, con el propósito de mejorar la atención de los pacientes de Necochea y la región."
         ],
-        "generated": "2026-10-19T22:32:08.838676+00:00"
+        "generated": "2026-10-19T23:03:19.388631+00:00"
       },
-      "apariciones": 16,
-      "ultima_impresion": "2026-10-19T22:30:00.441736+00:00",
+      "apariciones": 17,
+      "ultima_impresion": "2026-10-19T23:00:00.430435+00:00",
       "penalizacion": 0.0
     },
     {
@@ -486,10 +553,10 @@
           "TSN Necochea | ‹ VOLVER | Deportes | Centro Vasco | Deporte Balance feliz para Centro Vasco tras el Nacional de Cestobol en Necochea: “El deporte nos salva, es por ahí” Desde el cesto local rescataron lo que dejó el nacional femenino de Primera, con un agradecimiento especial a quienes trabajaron para que las 16 delegaciones pudieran disfrutar de cinco jornadas de competencia. “El equipo es tan grande que no hay foto que lo represente”, expresaron.",
           "Por Agustin Betancor 19/10/2026 · 12:30 PM El equipo de Centro Vasco, dirigido por Agustina Simonetti Agregar TSN Necochea en Pasó la Liga Nacional Femenina de Cestobol de Primera División por Necochea y, después de cinco días de competencia, desde el cesto de Centro Vasco compartieron una reflexión que va mucho más allá de los resultados deportivos. “Nuestra categoría Primera lo dio todo dentro y fuera de la cancha."
         ],
-        "generated": "2026-10-19T22:34:38.306066+00:00"
+        "generated": "2026-10-19T23:04:58.780232+00:00"
       },
-      "apariciones": 15,
-      "ultima_impresion": "2026-10-19T22:30:00.441736+00:00",
+      "apariciones": 16,
+      "ultima_impresion": "2026-10-19T23:00:00.430435+00:00",
       "penalizacion": 0.0
     },
     {
@@ -515,11 +582,11 @@
           "El arquero del Chelsea y de la Selección Argentina fue operado en Liverpool y prevé regresar a los entrenamientos en torno a 40 días. El guardameta argentino sufrió una fractura de mandíbula durante el partido de la Premier League contra el Everton, tras el choque con el defensor Jarrad Branthwaite. La lesión obligó a que fuera atendido en el campo durante casi diez minutos, recibiendo oxígeno antes de ser sustituido. Tras la intervención quirúrgica en el Hospital de Liverpool, Martínez compartió una foto desde su habitación en la que muestra tres dedos levantados con la mano izquierda.",
           "En su cuenta de Instagram agradeció los mensajes recibidos y manifestó optimismo: “Gracias a todos por los mensajes, la operación fue bien. Lo más importante es que ganamos y con arco en 0. En unas semanas volvemos ya”."
         ],
-        "generated": "2026-10-19T22:34:39.581701+00:00"
+        "generated": "2026-10-19T23:04:59.968584+00:00"
       },
-      "apariciones": 14,
-      "ultima_impresion": "2026-10-19T22:30:00.441736+00:00",
-      "penalizacion": 0.001
+      "apariciones": 15,
+      "ultima_impresion": "2026-10-19T23:00:00.430435+00:00",
+      "penalizacion": 0.0
     },
     {
       "key": "colegio danes realizara nueva suelta gratuita plantines centro cultural necochea",
@@ -544,10 +611,10 @@
           "La actividad se desarrollará este miércoles 21 de octubre, desde las 14:30, y permitirá a los vecinos llevarse plantas producidas por estudiantes de la institución. Liz Uliero, profesora del taller de huerta y forestación, brindó detalles de la iniciativa y destacó su valor educativo y comunitario. El Colegio Danés de Necochea llevará adelante una nueva edición de su tradicional suelta de plantines, una propuesta abierta y gratuita que busca acercar a la comunidad el trabajo realizado durante todo el año por estudiantes de distintos niveles educativos.",
           "La actividad tendrá lugar este miércoles 21 de octubre, a partir de las 14:30, en el Centro Cultural de Necochea, ubicado en calle 54 entre 61 y 63. Allí, los vecinos podrán retirar plantas de huerta, aromáticas, arbustos y otras especies cultivadas en el establecimiento educativo."
         ],
-        "generated": "2026-10-19T22:35:27.406697+00:00"
+        "generated": "2026-10-19T23:05:55.228276+00:00"
       },
-      "apariciones": 20,
-      "ultima_impresion": "2026-10-19T22:30:00.441736+00:00",
+      "apariciones": 21,
+      "ultima_impresion": "2026-10-19T23:00:00.430435+00:00",
       "penalizacion": 0.0
     },
     {
@@ -573,39 +640,10 @@
           "La ciudad recibirá el sábado 24 de octubre a profesionales de distintos puntos de la provincia de Buenos Aires. Ya hay unos 250 inscriptos y cerca de 50 trabajos que serán presentados durante una jornada que abordará salud mental, nuevas tecnologías, inteligencia artificial, ludopatía y los desafíos actuales de la práctica profesional.",
           "Charlando con Fede Cañadas en “Esta Mañana”, por NEC Radio 98.3 del Multimedio NQ, Juan Marcelo Silva , presidente del Colegio de Psicólogos de Necochea, anticipó los detalles de las Jornadas Provinciales del Colegio de Psicólogos y Psicólogas de la Provincia de Buenos Aires , que tendrán a la ciudad como sede el próximo sábado 24 de octubre. La actividad se desarrollará en el Centro Cultural de Necochea, de 9 a 16, y reunirá a profesionales que trabajan en salud, educación, justicia, equipos técnicos, universidades y diferentes dispositivos institucionales."
         ],
-        "generated": "2026-10-19T22:35:29.632195+00:00"
+        "generated": "2026-10-19T23:05:56.998521+00:00"
       },
-      "apariciones": 20,
-      "ultima_impresion": "2026-10-19T22:30:00.441736+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "tragedia ecuador sacerdote murio aplastado cruz mientras celebraba misa",
-      "title": "Tragedia en Ecuador: un sacerdote murió aplastado por una cruz mientras celebraba misa",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-10-19T11:30:29+00:00",
-      "image": null,
-      "articles": [
-        {
-          "portal": "Necochea News",
-          "title": "Tragedia en Ecuador: un sacerdote murió aplastado por una cruz mientras celebraba misa",
-          "url": "https://necocheanews.com.ar/fallece-sacerdote-en-guayaquil-tras-colapso-de-cruz-de-madera-durante-misa/",
-          "published_at": "2026-10-19T11:30:29+00:00",
-          "first_seen": "2026-10-19T12:00:00.926835+00:00",
-          "category": "INTERNACIONALES",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El párroco Patricio Alfredo Sánchez Molinarí perdió la vida cuando una cruz de madera se desprendió de la pared y cayó sobre él mientras celebraba la eucaristía en la parroquia Nuestra Señora del Perpetuo Socorro, en Guayaquil. El accidente ocurrió el sábado y quedó registrado en la transmisión en vivo que la iglesia difundía a través de Facebook. Según los testimonios de los feligreses, el sacerdote se encontraba frente al altar mayor cuando la estructura que sostenía la cruz cedió y el objeto impactó directamente en su cabeza.",
-          "En el momento del desprendimiento, el religioso estaba limpiando sus anteojos. Los fieles presentes acudieron de inmediato al sacerdote, pidiendo ayuda y llamando a una ambulancia. Fue trasladado a un centro de salud, donde falleció a causa de las graves lesiones sufridas."
-        ],
-        "generated": "2026-10-19T22:35:53.773400+00:00"
-      },
-      "apariciones": 23,
-      "ultima_impresion": "2026-10-19T22:30:00.441736+00:00",
+      "apariciones": 21,
+      "ultima_impresion": "2026-10-19T23:00:00.430435+00:00",
       "penalizacion": 0.0
     }
   ]
