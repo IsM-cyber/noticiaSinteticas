@@ -1,12 +1,41 @@
 {
-  "generated_at": "2026-10-20T11:00:00.766478+00:00",
+  "generated_at": "2026-10-20T11:30:00.718020+00:00",
   "article_count": 135,
   "fetch_errors": [],
   "stories": [
     {
+      "key": "alumnos instituto 31 convocan marcha rechazo cierre profesorados historia inicial",
+      "title": "Alumnos del Instituto 31 convocan a una marcha en rechazo al cierre de los profesorados de Historia e Inicial",
+      "score": 1.2,
+      "sources_count": 1,
+      "first_seen": "2026-10-20T11:30:05+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2023/10/10-09-FOTO-capacitaciones-nivel-inicial.jpg",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Alumnos del Instituto 31 convocan a una marcha en rechazo al cierre de los profesorados de Historia e Inicial",
+          "url": "https://tsnnecochea.com.ar/educacion/alumnos-del-instituto-31-convocan-a-una-marcha-en-rechazo-al-cierre-de-los-profesorados-de-historia-e-inicial-240134/",
+          "published_at": "2026-10-20T11:30:05+00:00",
+          "first_seen": "2026-10-20T11:30:00.718020+00:00",
+          "category": "Alumnos",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2023/10/10-09-FOTO-capacitaciones-nivel-inicial.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Educación | Alumnos | Educación Alumnos del Instituto 31 convocan a una marcha en rechazo al cierre de los profesorados de Historia e Inicial Esta posibilidad despertó profunda preocupación en los claustros estudiantiles y docentes del establecimiento terciario local. Por Redacción TSN 20/10/2026 · 08:30 AM Debate de candidatos en el Instituto 31 Agregar TSN Necochea en El centro de estudiantes y la comunidad educativa del Instituto Superior de Formación Docente y Técnica N° 31 de Necochea lanzaron un enfático llamado a la movilización abierta en defensa de la educación pública.",
+          "La convocatoria surge tras el alerta generado por el posible cierre de las ofertas académicas correspondientes a los profesorados de Educación Inicial e Historia , una medida que despertó profunda preocupación en los claustros estudiantiles y docentes del establecimiento terciario local."
+        ],
+        "generated": "2026-10-20T11:30:33.835679+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-20T11:30:00.718020+00:00"
+    },
+    {
       "key": "subasta teatro auditorium casino hoy vence plazo inscripcion ahora no hay oferentes",
       "title": "Subasta del Teatro Auditórium del Casino: hoy vence el plazo de inscripción: Hasta ahora no hay oferentes",
-      "score": 1.2,
+      "score": 1.151,
       "sources_count": 1,
       "first_seen": "2026-10-20T11:00:00+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/09/Casino-Incendio.webp",
@@ -26,190 +55,277 @@
           "TSN Necochea | ‹ VOLVER | Locales | Complejo Casino | Oportunidad Subasta del Teatro Auditórium del Casino: hoy vence el plazo de inscripción: Hasta ahora no hay oferentes El inmueble de la parcela C sale con una base superior a los $383 millones. Pese a las expectativas, hasta el momento no ingresaron pedidos de pliegos.",
           "La subasta oficial está programada para el viernes 23 de octubre en la Municipalidad. Por Redacción TSN 20/10/2026 · 08:00 AM Agregar TSN Necochea en En la jornada de hoy llega a su fin el período formal de inscripción de postulantes para participar de la subasta pública de la denominada “Parcela C” del Complejo Casino , predio sobre el cual se erige el histórico Teatro Auditórium ."
         ],
-        "generated": "2026-10-20T11:00:30.912243+00:00"
+        "generated": "2026-10-20T11:30:35.015425+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-20T11:00:00.766478+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-10-20T11:30:00.718020+00:00",
+      "penalizacion": 1.0
     },
     {
-      "key": "firmo leer cerezuela respaldo marcha universitaria milei",
-      "title": "¿Firmó sin leer? Cerezuela respaldó la marcha universitaria contra Milei",
+      "key": "casino municipio prepara demanda perjuicios causo suspension judicial subasta",
+      "title": "Casino: El Municipio prepara una demanda por los perjuicios que causó la suspensión judicial de la subasta",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-10-20T11:00:00.766478+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/2b01e0b4498bac7d455dfb00f2f83a532c373dcb.jpg",
+      "first_seen": "2026-10-20T11:30:00.718020+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/1613ee3988e6519e695886453e2c90b6ade84968.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "¿Firmó sin leer? Cerezuela respaldó la marcha universitaria contra Milei",
-          "url": "https://necocheadigital.com/nota/119940/firmo-sin-leer-cerezuela-respaldo-la-marcha-universitaria-contra-milei/",
+          "title": "Casino: El Municipio prepara una demanda por los perjuicios que causó la suspensión judicial de la subasta",
+          "url": "https://necocheadigital.com/nota/119944/casino-el-municipio-prepara-una-demanda-por-los-perjuicios-que-causo-la-suspension-judicial-de-la-subasta/",
           "published_at": null,
-          "first_seen": "2026-10-20T11:00:00.766478+00:00",
+          "first_seen": "2026-10-20T11:30:00.718020+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "La política de Necochea dejó una imagen, cuanto menos, llamativa. El Honorable Concejo Deliberante declaró de interés público la realización de la 5ª Marcha Federal Universitaria, que se llevó a cabo el pasado 15 de octubre en defensa de la universidad pública y del financiamiento del sistema universitario nacional. Entre las firmas que aparecen en el decreto figura la de Juan Cerezuela, concejal de La Libertad Avanza. La movilización fue una expresión de rechazo a las políticas de ajuste y a la situación presupuestaria de las universidades nacionales, en un escenario de confrontación con el gobierno de Javier Milei, cuyas medidas el espacio libertario defiende.",
-          "¿Cerezuela sabía qué estaba firmando? ¿Leyó el texto del decreto? ¿Advirtió que estaba acompañando institucionalmente una marcha que cuestiona las políticas del Gobierno nacional al que representa políticamente?"
+          "Faramiñan confirmó que el intendente Arturo Rojas mantiene la decisión de impulsar una demanda por daños y perjuicios vinculados con la suspensión judicial de la primera subasta del complejo Casino. Aquel procedimiento estaba previsto inicialmente para febrero, pero una medida cautelar obligó a postergarlo hasta junio. Según explicó la funcionaria, los perjuicios económicos que habría sufrido el Municipio se encuentran documentados en un expediente administrativo próximo a concluir.",
+          "La presentación judicial sería inminente y se realizaría ante el mismo juzgado que dispuso la medida cautelar. El objetivo de la administración municipal es reclamar el recupero de los gastos que debió afrontar como consecuencia de la postergación del remate."
         ],
-        "generated": "2026-10-20T11:00:55.470843+00:00"
+        "generated": "2026-10-20T11:31:00.332103+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-20T11:00:00.766478+00:00"
+      "ultima_impresion": "2026-10-20T11:30:00.718020+00:00"
     },
     {
-      "key": "fiesta cultura todos galardonados premio ramal",
-      "title": "Fiesta de la Cultura: todos los galardonados con el premio Ramal",
+      "key": "milei dijo pelotudez gente no llegue fin mes como viven comer beber",
+      "title": "Milei dijo que “es una pelotudez” que la gente no llegue a fin de mes: “¿Cómo viven sin comer y sin beber?”",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-10-20T11:00:00.766478+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261019182941_19-10-foto-fiesta-de-la-cultura-ramal2.jpg",
+      "first_seen": "2026-10-20T11:30:00.718020+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/8a1673d3a53b02da28f6d16c9710bb884019f099.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Fiesta de la Cultura: todos los galardonados con el premio Ramal",
-          "url": "https://necocheadigital.com/nota/119937/fiesta-de-la-cultura-todos-los-galardonados-con-el-premio-ramal/",
+          "title": "Milei dijo que “es una pelotudez” que la gente no llegue a fin de mes: “¿Cómo viven sin comer y sin beber?”",
+          "url": "https://necocheadigital.com/nota/119941/milei-dijo-que-es-una-pelotudez-que-la-gente-no-llegue-a-fin-de-mes-como-viven-sin-comer-y-sin-beber/",
           "published_at": null,
-          "first_seen": "2026-10-20T11:00:00.766478+00:00",
+          "first_seen": "2026-10-20T11:30:00.718020+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "Durante la fiesta se entregaron 26 premios , divididos en reconocimientos a la trayectoria; a los formadores; al proyecto y producción; a la revelación- emergente; al proyecto para las infancias; y a la gestión cultural. Desde el Centro Cultural Municipal, el director Sebastián Serqueira fue el propulsor del proyecto y además de resaltar el éxito de la fiesta, destacó con énfasis el trabajo del equipo de coordinación para los premios Ramal, compuesto por Santiago Borletto, Luisa Pérez, Leonela Laborde y Juan Pablo Santilli.",
-          "Además, se resaltó el acompañamiento constante de la Cooperadora de la Escuela Municipal de Artes y se manifestó que “los premios Ramal nacieron con la convicción de que la cultura es el hilo que nos une. No buscamos destacar lo excepcional, sino lo esencial: el trabajo cotidiano, la pasión y el amor por lo que hacemos aquí."
+          "El presidente Javier Milei volvió a cuestionar las críticas a su política económica y apuntó contra la frase que advierte que una parte de la población no llega a fin de mes. Durante su exposición ante empresarios del sector energético, calificó esa expresión como una “pelotudez” y preguntó cómo hacen quienes supuestamente se quedan sin dinero el día 20 para afrontar los diez días restantes. El mandatario realizó estas declaraciones durante la apertura de la Expo Argentina Oil & Gas 2026, en Neuquén, ante representantes de la industria petrolera y energética.",
+          "En su discurso, Milei sostuvo que algunos eslóganes políticos pueden sonar convincentes, pero no necesariamente reflejan una situación razonable. Como ejemplo, mencionó las expresiones “la gente no llega a fin de mes” y “dos tercios de los argentinos no llegan a fin de mes."
         ],
-        "generated": "2026-10-20T11:00:56.178632+00:00"
+        "generated": "2026-10-20T11:31:01.055204+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-20T11:00:00.766478+00:00"
+      "ultima_impresion": "2026-10-20T11:30:00.718020+00:00"
     },
     {
-      "key": "fin semana siniestros viales necochea tres choques motociclista grave",
-      "title": "Fin de semana de siniestros viales en Necochea: tres choques y un motociclista grave",
+      "key": "marta roldan cada aporte debe traducirse mejora concreta pacientes",
+      "title": "Marta Roldán: “Cada aporte debe traducirse en una mejora concreta para los pacientes”",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-10-20T11:00:00.766478+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/9d7a93214e35dfeda42a9dbef8b3d4e7cefa9e23.jpg",
+      "first_seen": "2026-10-20T11:30:00.718020+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/1bf27f050a2f726a618125f9d4c8c49a5757518e.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Fin de semana de siniestros viales en Necochea: tres choques y un motociclista grave",
-          "url": "https://necocheadigital.com/nota/119936/fin-de-semana-de-siniestros-viales-en-necochea-tres-choques-y-un-motociclista-grave/",
+          "title": "Marta Roldán: “Cada aporte debe traducirse en una mejora concreta para los pacientes”",
+          "url": "https://necocheadigital.com/nota/119943/marta-roldan-cada-aporte-debe-traducirse-en-una-mejora-concreta-para-los-pacientes/",
           "published_at": null,
-          "first_seen": "2026-10-20T11:00:00.766478+00:00",
+          "first_seen": "2026-10-20T11:30:00.718020+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "Un intenso despliegue de las fuerzas de seguridad y de emergencia se registró durante el fin de semana a raíz de tres siniestros viales ocurridos en distintos puntos de la ciudad de Necochea que vuelven a dejar en evidencia lo mal que maneamos los necochenses. El hecho de mayor gravedad se produjo en la intersección de las calles 70 y 73 , donde colisionaron una motocicleta Gilera 110 cc y un automóvil Chevrolet Corsa conducido por una mujer. A causa del violento impacto, el motociclista cayó pesadamente sobre el asfalto y quedó inconsciente en el lugar.",
-          "Minutos después, arribó una ambulancia del SAME que trasladó de urgencia al herido al Hospital Municipal Dr. La Policía procedió al secuestro de ambos rodados e inició actuaciones caratuladas como \"Lesiones culposas\"."
+          "La solidaridad de los vecinos, el compromiso de sus integrantes y la confianza de la comunidad son los pilares que sostienen desde hace seis décadas a la Asociación Cooperadora del Hospital Municipal Dr. La institución cumplió 60 años de trayectoria con una historia marcada por obras, adquisición de equipamiento y un objetivo que se mantiene vigente: contribuir a mejorar la salud pública.",
+          "En el marco del aniversario, la presidenta de la entidad, Marta Roldán, y la secretaria, Cristina Agüero, participaron de una entrevista en “Voces de la Tarde” , el programa que conduce Jorge Gómez por Radio Noticias Necochea FM 97.3. Durante la charla, repasaron el recorrido de la institución, reconocieron a quienes la construyeron a lo largo de los años y detallaron los trabajos realizados y las iniciativas que todavía están pendientes."
         ],
-        "generated": "2026-10-20T11:00:57.344933+00:00"
+        "generated": "2026-10-20T11:31:02.163947+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-20T11:00:00.766478+00:00"
+      "ultima_impresion": "2026-10-20T11:30:00.718020+00:00"
     },
     {
-      "key": "mundial stand up paddle quequen brillo italia dos oros dos platas bronce",
-      "title": "Mundial de Stand Up Paddle: Quequén brilló en Italia con dos oros, dos platas y un bronce",
+      "key": "nuevos acompanantes terapeuticos formaron cfl 403 necochea",
+      "title": "Nuevos acompañantes terapéuticos se formaron en el CFL 403 de Necochea",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-10-20T11:00:00.766478+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261019120547_whatsapp-image-2026-10-19-at-12-05-30-1.jpg",
+      "first_seen": "2026-10-20T11:30:00.718020+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/a750fb3f1ac473e860d6ca97853e5ed89ace66af.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Mundial de Stand Up Paddle: Quequén brilló en Italia con dos oros, dos platas y un bronce",
-          "url": "https://necocheadigital.com/nota/119935/mundial-de-stand-up-paddle-quequen-brillo-en-italia-con-dos-oros-dos-platas-y-un-bronce/",
+          "title": "Nuevos acompañantes terapéuticos se formaron en el CFL 403 de Necochea",
+          "url": "https://necocheadigital.com/nota/119942/nuevos-acompanantes-terapeuticos-se-formaron-en-el-cfl-403-de-necochea/",
           "published_at": null,
-          "first_seen": "2026-10-20T11:00:00.766478+00:00",
+          "first_seen": "2026-10-20T11:30:00.718020+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "Una actuación histórica e inolvidable concretó la delegación de Quequén SUP en el Campeonato Mundial de Stand Up Paddle (SUP) de la Federación Internacional de Canotaje (ICF), disputado en Sabaudia, Italia. Los deportistas Felicitas Guida, Josefina Reynoso y Salvador Labarthe representaron al distrito y al país con una brillante cosecha de dos títulos mundiales y cinco medallas en total , repartidas en las pruebas de Sprint de 100 metros y Larga Distancia dentro de la categoría Sub-12.",
-          "La gran figura del certamen fue Felicitas Guida , quien se consagró doble campeona mundial U12 . Guida obtuvo la medalla de oro en los 100 metros Sprint con un tiempo de 35,97 segundos (superando a la italiana Viola Mandoloni) y revalidó su dominio al quedarse también con el primer puesto en la exigente prueba de Larga Distancia."
+          "Un nuevo grupo de acompañantes terapéuticos completó su formación en Necochea, tras finalizar el curso dictado en el Centro de Formación Laboral (CFL) N.º 403 “Enrique Zenón Villar”, perteneciente a UATRE. La capacitación se llevó adelante durante los años 2025 y 2026 y estuvo a cargo de las instructoras Agustina Iglesias y Yanina Frugones, quienes acompañaron a los estudiantes a lo largo del proceso formativo.",
+          "Desde la institución destacaron el trabajo realizado por ambas docentes y expresaron su reconocimiento por el compromiso puesto en el desarrollo del curso. Formación para el ámbito de la salud y el acompañamiento A través de esta propuesta, los egresados completaron un trayecto de capacitación orientado al Acompañamiento Terapéutico, una actividad vinculada al apoyo de personas que requieren asistencia en distintos ámbitos de su vida cotidiana."
         ],
-        "generated": "2026-10-20T11:00:58.025134+00:00"
+        "generated": "2026-10-20T11:31:03.299920+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-20T11:00:00.766478+00:00"
+      "ultima_impresion": "2026-10-20T11:30:00.718020+00:00"
     },
     {
-      "key": "lecturas nos encuentran propuesta ludica artistica pensada chicos",
-      "title": "‘Lecturas que nos encuentran’, propuesta lúdica y artística pensada para los más chicos",
+      "key": "colaboracion clave com municipal recuperar auto",
+      "title": "Colaboración clave del COM municipal para recuperar un auto",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-10-20T11:00:00.766478+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261016172917_16-10-foto-maraton-de-lectura3.jpg",
+      "first_seen": "2026-10-20T11:30:00.718020+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261019183119_19-10-foto-com-vehiculo2.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "‘Lecturas que nos encuentran’, propuesta lúdica y artística pensada para los más chicos",
-          "url": "https://necocheadigital.com/nota/119913/lsquo-lecturas-que-nos-encuentran-rsquo-propuesta-ludica-y-artistica-pensada-para-los-mas-chicos/",
+          "title": "Colaboración clave del COM municipal para recuperar un auto",
+          "url": "https://necocheadigital.com/nota/119938/colaboracion-clave-del-com-municipal-para-recuperar-un-auto/",
           "published_at": null,
-          "first_seen": "2026-10-20T11:00:00.766478+00:00",
+          "first_seen": "2026-10-20T11:30:00.718020+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "La propuesta es un ejemplo de cómo la articulación entre las instituciones educativas y el Municipio permite fortalecer iniciativas que, con el tiempo, se incorporan a la agenda de la ciudad. En esta oportunidad, acompañaron la jornada la directora de Educación, Mariela Maceiro , e integrantes de la Secretaría de Turismo y Desarrollo Productivo.",
-          "La directora del Instituto 31, Florencia Raffaghelli , explicó que esta edición marcó el cierre del proyecto 2026 y destacó el trabajo conjunto que hizo posible su crecimiento. “Este fue el cierre del proyecto ‘Lecturas que nos encuentran’, que es una iniciativa de las bibliotecarias del Instituto 31, Silvana, Carolina y Lucía, en articulación con el municipio, a través de Turismo y de Educación , que nos han brindado el espacio y los recursos para que esta jornada pueda salir de la mejor manera."
+          "El subsecretario de Prevención y Monitoreo municipal, Ángel Vázquez , explicó tras una reunión encabezada por el secretario de Gobierno, Jorge Martínez , que el trabajo se inició a partir de un pedido de colaboración de la dependencia policial que llevaba adelante la investigación. Desde el COM se logró identificar el ingreso del automóvil a la ciudad mediante las lectoras de dominio y, posteriormente, se aportaron imágenes que ayudaron a orientar las tareas del personal policial.",
+          "Como resultado de la investigación, este lunes por la mañana se realizó un allanamiento en Necochea, donde el vehículo fue recuperado y quedó a disposición de la Justicia. Vázquez detalló que el automóvil fue trasladado a la zona de Trenque Lauquen, donde se había originado el hecho delictivo , para continuar con las actuaciones correspondientes."
         ],
-        "generated": "2026-10-20T11:00:58.751013+00:00"
+        "generated": "2026-10-20T11:31:04.445388+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-20T11:00:00.766478+00:00"
+      "ultima_impresion": "2026-10-20T11:30:00.718020+00:00"
     },
     {
-      "key": "necochense joseba bilbao sera arbitro mundial pelota vasca disputa buenos aires",
-      "title": "El necochense Joseba Bilbao será árbitro en el Mundial de Pelota Vasca que se disputa en Buenos Aires",
+      "key": "proximo fin semana vuelve servicio gratuito castracion masiva mascotas",
+      "title": "El próximo fin de semana vuelve el servicio gratuito de castración masiva de mascotas",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-10-20T11:00:00.766478+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/a42b709046246d5898d5f5f4bf9712188c6ff265.jpg",
+      "first_seen": "2026-10-20T11:30:00.718020+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261019112348_24-08-foto-jornada-castracion-escuela-6.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "El necochense Joseba Bilbao será árbitro en el Mundial de Pelota Vasca que se disputa en Buenos Aires",
-          "url": "https://necocheadigital.com/nota/119917/el-necochense-joseba-bilbao-sera-arbitro-en-el-mundial-de-pelota-vasca-que-se-disputa-en-buenos-aires/",
+          "title": "El próximo fin de semana vuelve el servicio gratuito de castración masiva de mascotas",
+          "url": "https://necocheadigital.com/nota/119929/el-proximo-fin-de-semana-vuelve-el-servicio-gratuito-de-castracion-masiva-de-mascotas/",
           "published_at": null,
-          "first_seen": "2026-10-20T11:00:00.766478+00:00",
+          "first_seen": "2026-10-20T11:30:00.718020+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "El vigésimo Campeonato Mundial de Pelota Vasca puso en marcha su competencia en la Ciudad Autónoma de Buenos Aires, convirtiéndose en un hito histórico al disputarse por primera vez en el país. El certamen reúne a 480 deportistas de 15 delegaciones internacionales y cuenta con la presencia del necochense Joseba Bilbao, quien integra el cuerpo arbitral oficial del torneo que se extenderá hasta el 24 de octubre.",
-          "Para Bilbao, esta designación representa un nuevo capítulo en su trayectoria dentro de la disciplina, consolidando su rol como juez internacional tras haber participado previamente en los Juegos Suramericanos de Santa Fe. Su vínculo con la máxima cita mundialista tiene una larga historia, ya que desde 2010 compitió en múltiples ediciones defendiendo los colores de la Selección Argentina como jugador en la modalidad de paleta cuero en trinquete."
+          "La Dirección de Bromatología e Higiene, dependiente de la Secretaría de Salud de la Municipalidad, brindará una nueva jornada gratuita de castración masiva de mascotas, el venidero sábado 24 de octubre , en esta oportunidad en el Centro de Salud Estación Quequén, ubicado en avenida 578 N° 2941 . La jornada comenzará a las 9, se castrará hasta un máximo de 45 mascotas y los requisitos son los habituales : Se deberá presentar un mayor de 18 años con DNI para consentir la cirugía de la mascota; se deberá llevar a los perros con bozal; y los gatos serán operados en primer turno.",
+          "Se recuerda a los vecinos que la jornada se suspende si llueve . A continuación, se pueden observar las recomendaciones pre y pos quirúrgicas:"
         ],
-        "generated": "2026-10-20T11:00:59.425148+00:00"
+        "generated": "2026-10-20T11:31:05.567922+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-20T11:00:00.766478+00:00"
+      "ultima_impresion": "2026-10-20T11:30:00.718020+00:00"
+    },
+    {
+      "key": "lucio szpyt figuras clasico fiesta creo vivi clasico inolvidable",
+      "title": "Lucio Szpyt, una de las figuras del clásico: “Fue una fiesta y creo que viví un clásico inolvidable”",
+      "score": 1.0,
+      "sources_count": 1,
+      "first_seen": "2026-10-20T11:29:40+00:00",
+      "image": null,
+      "articles": [
+        {
+          "portal": "Diario NQ",
+          "title": "Lucio Szpyt, una de las figuras del clásico: “Fue una fiesta y creo que viví un clásico inolvidable”",
+          "url": "https://diarionq.com.ar/lucio-szpyt-una-de-las-figuras-del-clasico-fue-una-fiesta-y-creo-que-vivi-un-clasico-inolvidable/",
+          "published_at": "2026-10-20T11:29:40+00:00",
+          "first_seen": "2026-10-20T11:30:00.718020+00:00",
+          "category": "Sin categoría",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El defensor de Villa del Parque tuvo una destacada actuación en el empate sin goles frente a Mataderos, en el clásico entre Barrio Norte y Barrio Sur. En diálogo con Zoom El Deportivo, contó cómo vivió el encuentro desde adentro, la expectativa que se generó durante la semana y la preparación mental para afrontar un partido especial. Los clásicos tienen un condimento especial.",
+          "La historia, la rivalidad deportiva, el acompañamiento de los hinchas y las emociones que se ponen en juego hacen que cada encuentro se viva de una manera diferente. Y el último enfrentamiento entre Mataderos y Villa del Parque, disputado en el Complejo Gustavo Atilio Portugal, no fue la excepción."
+        ],
+        "generated": "2026-10-20T11:31:07.744796+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-20T11:30:00.718020+00:00"
+    },
+    {
+      "key": "estacion quequen suena ascenso tenemos estar tranquilos pensar tenemos ganar",
+      "title": "Estación Quequén sueña con el ascenso: “Tenemos que estar tranquilos y pensar que tenemos que ganar”",
+      "score": 0.98,
+      "sources_count": 1,
+      "first_seen": "2026-10-20T11:15:44+00:00",
+      "image": null,
+      "articles": [
+        {
+          "portal": "Diario NQ",
+          "title": "Estación Quequén sueña con el ascenso: “Tenemos que estar tranquilos y pensar que tenemos que ganar”",
+          "url": "https://diarionq.com.ar/estacion-quequen-suena-con-el-ascenso-tenemos-que-estar-tranquilos-y-pensar-que-tenemos-que-ganar/",
+          "published_at": "2026-10-20T11:15:44+00:00",
+          "first_seen": "2026-10-20T11:30:00.718020+00:00",
+          "category": "Deportes",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Leonel Rodríguez, una de las piezas claves del equipo de Estación Quequén, destacó la importancia del triunfo ante Del Valle, la unión del plantel y el acompañamiento de la institución. A las puertas de un partido decisivo frente a Independiente de Lobería, el delantero habló de la ilusión de regresar a la máxima categoría de la Liga Necochea de Fútbol. Estación Quequén atraviesa un momento especial.",
+          "Después de una temporada de trabajo, compromiso y esfuerzo, el equipo se encuentra a un paso de cumplir uno de sus grandes objetivos: volver a jugar en la máxima categoría del fútbol de la Liga Necochea. En ese camino, la victoria frente a Del Valle, en condición de visitante, significó mucho más que tres puntos. En diálogo en Zoom El Deportivo, Leonel Rodríguez compartió sus sensaciones sobre el encuentro, el presente del equipo y la expectativa que se vive en la previa del compromiso ante Independiente de Lobería."
+        ],
+        "generated": "2026-10-20T11:31:35.065798+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-20T11:30:00.718020+00:00"
+    },
+    {
+      "key": "servicio gratuito castracion masiva regresa quequen sabado 24 octubre",
+      "title": "Servicio gratuito de castración masiva regresa a Quequén este sábado 24 de octubre",
+      "score": 0.969,
+      "sources_count": 1,
+      "first_seen": "2026-10-20T11:07:12+00:00",
+      "image": null,
+      "articles": [
+        {
+          "portal": "Necochea News",
+          "title": "Servicio gratuito de castración masiva regresa a Quequén este sábado 24 de octubre",
+          "url": "https://necocheanews.com.ar/servicio-gratuito-de-castracion-masiva-regresa-a-quequen-este-sabado-24-de-octubre/",
+          "published_at": "2026-10-20T11:07:12+00:00",
+          "first_seen": "2026-10-20T11:30:00.718020+00:00",
+          "category": "LOCALES",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La Municipalidad de Necochea ofrecerá nuevamente la jornada de esterilización gratuita de perros y gatos en el Centro de Salud Estación Quequén, con cupo para 45 animales. El sábado 24 de octubre, a partir de las 9 hs., la Dirección de Bromatología e Higiene, dependiente de la Secretaría de Salud municipal, realizará una nueva campaña de castración masiva en el CAPS del barrio Estación, ubicado en Av. El servicio será gratuito y está dirigido a la comunidad local.",
+          "Requisitos y condiciones Para poder participar, el responsable de la mascota debe ser mayor de 18 años y presentar su DNI como autorización para la cirugía. Los perros deberán ir con bozal y los gatos serán atendidos en el primer turno. La jornada tiene un límite de 45 animales; en caso de lluvia, la actividad quedará suspendida."
+        ],
+        "generated": "2026-10-20T11:31:36.285359+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-20T11:30:00.718020+00:00"
     },
     {
       "key": "cristiano ronaldo lidera votacion balon oro grande historia",
       "title": "Cristiano Ronaldo lidera la votación del “Balón de Oro más grande de la historia”",
-      "score": 0.984,
+      "score": 0.944,
       "sources_count": 1,
       "first_seen": "2026-10-20T10:48:24+00:00",
       "image": null,
@@ -229,16 +345,16 @@
           "La encuesta, abierta hasta el 27 de octubre a la medianoche (horario de Francia) y con un costo de 1 euro, tiene al portugués como favorito entre diez íconos del fútbol mundial. La organización del Balón de Oro celebró este año sus siete décadas con una votación que permite a los aficionados elegir al futbolista que, a su juicio, ha sido el mejor ganador del premio. Solo pueden participar los jugadores que lo han obtenido al menos dos veces. Los diez nominados son: – Lionel Messi (Argentina) – 2009, 2010, 2011, 2012, 2015, 2019, 2021 y 2023.",
           "– Cristiano Ronaldo (Portugal) – 2008, 2013, 2014, 2016 y 2017. – Ronaldo Nazário (Brasil) – 1997 y 2002. – Marco van Basten (Países Bajos) – 1988, 1989 y 1992."
         ],
-        "generated": "2026-10-20T11:01:24.485355+00:00"
+        "generated": "2026-10-20T11:31:37.465590+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-20T11:00:00.766478+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-10-20T11:30:00.718020+00:00",
+      "penalizacion": 1.0
     },
     {
       "key": "francia impone toques queda parciales varias ciudades disturbios saqueos fin semana",
       "title": "Francia impone toques de queda parciales en varias ciudades tras disturbios y saqueos del fin de semana",
-      "score": 0.978,
+      "score": 0.938,
       "sources_count": 1,
       "first_seen": "2026-10-20T10:43:49+00:00",
       "image": null,
@@ -258,16 +374,16 @@
           "El Gobierno francés, encabezado por el primer ministro Sébastien Lecornu, anunció restricciones nocturnas en distintas áreas del país para contener la ola de violencia asociada a las protestas contra el aumento del costo de vida. Tras los incidentes registrados el sábado y el domingo, en los que grupos radicalizados incendiaron barricadas, destrozaron propiedades y saquearon comercios, el comité de crisis del Gobierno decidió aplicar toques de queda parciales. En una rueda de prensa, Lecornu indicó que solicitó a los prefectos decretar estas medidas en coordinación con los municipios, y que en la tarde se publicarían los sectores específicos donde regirán.",
           "En Marsella, la autoridad local prohibió cualquier reunión pública entre las 12 y las 20 horas del lunes. En Denain, situada cerca de la frontera belga, se estableció una restricción nocturna de circulación que permanecerá vigente hasta el próximo domingo."
         ],
-        "generated": "2026-10-20T11:01:25.770853+00:00"
+        "generated": "2026-10-20T11:31:38.619578+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-20T11:00:00.766478+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-10-20T11:30:00.718020+00:00",
+      "penalizacion": 1.0
     },
     {
       "key": "river plate perdera fausto vera superclasico boca juniors desgarro isquiotibial",
       "title": "River Plate perderá a Fausto Vera en el Superclásico contra Boca Juniors por desgarro de isquiotibial",
-      "score": 0.974,
+      "score": 0.935,
       "sources_count": 1,
       "first_seen": "2026-10-20T10:41:16+00:00",
       "image": null,
@@ -287,16 +403,16 @@
           "El volante de 26 años sufrió una lesión muscular en el partido ante Belgrano y quedará al menos tres semanas fuera, lo que le impide disputar el encuentro del 1 de noviembre en La Bombonera. River confirmó que Fausto Vera no podrá jugar el Superclásico contra Boca Juniors tras haber sido diagnosticado con un desgarro en el isquiotibial derecho. La lesión se produjo en la segunda mitad del triunfo 3‑0 sobre Belgrano, disputado en el Estadio Mario Alberto Kempes.",
           "Vera ingresó como sustituto de Tobías Andrada y, tras 15 minutos de juego, una aceleración en la mitad del campo provocó un tirón en la parte posterior de la pierna. El jugador cayó al suelo y solicitó el cambio, pues el dolor le impedía continuar. Los estudios médicos realizados después del partido confirmaron el desgarro y estiman una recuperación de aproximadamente tres semanas."
         ],
-        "generated": "2026-10-20T11:01:26.999509+00:00"
+        "generated": "2026-10-20T11:31:39.790392+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-20T11:00:00.766478+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-10-20T11:30:00.718020+00:00",
+      "penalizacion": 1.0
     },
     {
       "key": "riesgo pais argentina alcanza 675 puntos nivel alto 12 meses",
       "title": "Riesgo País de Argentina alcanza 675 puntos, su nivel más alto en 12 meses",
-      "score": 0.969,
+      "score": 0.929,
       "sources_count": 1,
       "first_seen": "2026-10-20T10:37:11+00:00",
       "image": null,
@@ -316,16 +432,16 @@
           "El indicador de JP Morgan subió a 675 puntos básicos, marcando un aumento del 4,2 % respecto al cierre anterior y el valor más elevado del año. El riesgo país se ubicó en 675 puntos básicos, el nivel más alto desde el 28 de octubre del año pasado. El dato de JP Morgan avanzó 29 unidades respecto a los 648 puntos con los que cerró la jornada previa, lo que representa un incremento del 4,2 %. En lo que va del mes de octubre, la cifra ha subido un 11,2 % y, acumulado en 2026, el aumento alcanza el 18,2 %.",
           "Este registro supera cualquier valor alcanzado en los últimos doce meses; el máximo anterior fue de 685 puntos a fines de octubre de 2025. El repunte del riesgo país se produce en un contexto de caída de los bonos en dólares. El Global 2046 registró una baja del 0,75 %, seguido por el Global 2041 con un descenso del 0,60 % y el Global 2038 con una caída del 0,19 %."
         ],
-        "generated": "2026-10-20T11:01:27.973637+00:00"
+        "generated": "2026-10-20T11:31:40.718325+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-20T11:00:00.766478+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-10-20T11:30:00.718020+00:00",
+      "penalizacion": 1.0
     },
     {
       "key": "como estara tiempo martes necochea quequen",
       "title": "Cómo estará el tiempo este martes en Necochea y Quequén",
-      "score": 0.001,
+      "score": 0.0,
       "sources_count": 2,
       "first_seen": "2026-10-20T00:58:00+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/03/FOTO-Rio-Quequen.webp",
@@ -354,69 +470,11 @@
           "TSN Necochea | ‹ VOLVER | Locales | humedad | Clima Cómo estará el tiempo este martes en Necochea y Quequén Datos aportados por el Servicio Meteorológico Nacional Por Redacción TSN 20/10/2026 · 01:20 AM Agregar TSN Necochea en El pronóstico del Servicio Meteorológico Nacional para este martes 20 de octubre en Necochea indica una temperatura máxima de 16°C y una mínima de 7° C, con vientos del Noreste a 31 km/h. Por la madrugada, la temperatura será de 9° C. El viento es del cuadrante Noreste a una velocidad que puede llegar a 22 km/h, con el cielo mayormente nublado.",
           "En la mañana la temperatura será de 7° C, el viento soplará del cuadrante Noreste a una velocidad que puede llegar a 50 km/h, con el cielo parcialmente nublado. Por la tarde se espera una temperatura máxima de alrededor de 16 grados, el viento soplará del sector Noreste a una velocidad que pueden llegar a los 31 kilómetros y el cielo mayormente nublado."
         ],
-        "generated": "2026-10-20T11:00:54.796866+00:00"
+        "generated": "2026-10-20T11:30:59.617914+00:00"
       },
-      "apariciones": 14,
-      "ultima_impresion": "2026-10-20T11:00:00.766478+00:00",
-      "penalizacion": 0.001
-    },
-    {
-      "key": "cristina maximo kirchner buscan participar videoconferencia inicio juicio oral sauces",
-      "title": "Cristina y Máximo Kirchner buscan participar por videoconferencia en el inicio del juicio oral por Los Sauces",
-      "score": 0.001,
-      "sources_count": 1,
-      "first_seen": "2026-10-20T04:15:17+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/720-1.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Cristina y Máximo Kirchner buscan participar por videoconferencia en el inicio del juicio oral por Los Sauces",
-          "url": "https://tsnnecochea.com.ar/nacion/cristina-y-maximo-kirchner-buscan-participar-por-videoconferencia-en-el-inicio-del-juicio-oral-por-los-sauces-240149/",
-          "published_at": "2026-10-20T04:15:17+00:00",
-          "first_seen": "2026-10-20T05:14:17.540268+00:00",
-          "category": "Cristina Kirchner",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/720-1.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Nación | Cristina Kirchner | Proceso Cristina y Máximo Kirchner buscan participar por videoconferencia en el inicio del juicio oral por Los Sauces La defensa de la ex presidenta y el diputado presentó la solicitud ante el Tribunal Oral Federal 5 para evitar la presencialidad de ambos acusados.",
-          "Por Redacción TSN 20/10/2026 · 01:15 AM Agregar TSN Necochea en La defensa de la ex presidenta Cristina Kirchner y el diputado Máximo Kirchner le pidió al Tribunal Oral Federal 5 (TOF 5) permiso para participar de manera virtual a ambos en las audiencias del juicio oral por Los Sauces, que, según con el cronograma vigente, está pre visto que inicie esta semana."
-        ],
-        "generated": "2026-10-20T11:01:29.117380+00:00"
-      },
-      "apariciones": 14,
-      "ultima_impresion": "2026-10-20T11:00:00.766478+00:00",
-      "penalizacion": 0.001
-    },
-    {
-      "key": "liberaron transito ruta 228 choque camion pulverizadora",
-      "title": "Liberaron el tránsito en la Ruta 228 tras el choque entre el camión y la pulverizadora",
-      "score": 0.001,
-      "sources_count": 1,
-      "first_seen": "2026-10-20T03:26:45+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/vfbghnjm.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Liberaron el tránsito en la Ruta 228 tras el choque entre el camión y la pulverizadora",
-          "url": "https://tsnnecochea.com.ar/locales/liberaron-el-transito-en-la-ruta-228-tras-el-choque-entre-el-camion-y-la-pulverizadora-240141/",
-          "published_at": "2026-10-20T03:26:45+00:00",
-          "first_seen": "2026-10-20T05:14:17.540268+00:00",
-          "category": "camión",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/vfbghnjm.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Locales | camión | Ardua tarea Liberaron el tránsito en la Ruta 228 tras el choque entre el camión y la pulverizadora Operarios con máquinas viales una grúa pudieron sacar el rodado pesado Por Redacción TSN 20/10/2026 · 12:26 AM Agregar TSN Necochea en Luego de permanecer interrumpida durante gran parte de la jornada de ayer , a raíz del violento siniestro vial registrado en el kilómetro 105, la circulación sobre la Ruta Nacional Nº 228 quedó totalmente restablecida este lunes por la noche. Tras un arduo operativo desplegado con grúas de gran porte para remover el camión volcado y la maquinaria agrícola de la cinta asfáltica, personal de emergencias y operarios viales lograron despejar la calzada entre las 19.30 y las 20.30 de ayer.",
-          "De esta manera, el tránsito en ambas manos volvió a fluir con normalidad y quedaron sin efecto los desvíos preventivos que se habían implementado en la zona."
-        ],
-        "generated": "2026-10-20T11:03:04.122183+00:00"
-      },
-      "apariciones": 14,
-      "ultima_impresion": "2026-10-20T11:00:00.766478+00:00",
-      "penalizacion": 0.001
+      "apariciones": 15,
+      "ultima_impresion": "2026-10-20T11:30:00.718020+00:00",
+      "penalizacion": 0.0
     },
     {
       "key": "kicillof encabezo apertura etapa final juegos bonaerenses 2026",
@@ -450,48 +508,68 @@
           "TSN Necochea | ‹ VOLVER | Deportes | Axel Kicillof | Juegos Bonaerenses 2026 Kicillof encabezó la apertura de la etapa final de los Juegos Bonaerenses 2026 Se desarrollará entre el 19 y el 23 de octubre y contará con la participación de 30.000 deportistas. Por Redacción TSN 19/10/2026 · 08:15 PM Agregar TSN Necochea en El gobernador de la provincia de Buenos Aires, Axel Kicillof, encabezó este lunes el acto de apertura de la etapa final de la 35º edición de los Juegos Bonaerenses , que se desarrollarán en la ciudad de Mar del Plata con la participación de 30.000 deportistas.",
           "Fue junto al ministro de Desarrollo de la Comunidad, Andrés Larroque; el subsecretario de Deportes, Cristian Cardozo; y el intendente local, Guillermo Montenegro."
         ],
-        "generated": "2026-10-20T11:01:23.232680+00:00"
+        "generated": "2026-10-20T11:31:32.413261+00:00"
       },
-      "apariciones": 21,
-      "ultima_impresion": "2026-10-20T11:00:00.766478+00:00",
+      "apariciones": 22,
+      "ultima_impresion": "2026-10-20T11:30:00.718020+00:00",
       "penalizacion": 0.0
     },
     {
-      "key": "vecinos atrapan hombre quiso robar cajon cerveza bicicleta",
-      "title": "Vecinos atrapan a un hombre que quiso robar un cajón de cerveza y una bicicleta",
+      "key": "cristina maximo kirchner buscan participar videoconferencia inicio juicio oral sauces",
+      "title": "Cristina y Máximo Kirchner buscan participar por videoconferencia en el inicio del juicio oral por Los Sauces",
       "score": 0.0,
-      "sources_count": 2,
-      "first_seen": "2026-10-19T17:12:40+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/IMG-20261019-WA0022.webp",
+      "sources_count": 1,
+      "first_seen": "2026-10-20T04:15:17+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/720-1.webp",
       "articles": [
         {
           "portal": "TSN Necochea",
-          "title": "Vecinos atrapan a un hombre que quiso robar un cajón de cerveza y una bicicleta",
-          "url": "https://tsnnecochea.com.ar/locales/vecinos-atrapan-a-un-hombre-que-quiso-robar-un-cajon-de-cerveza-y-una-bicicleta-240103/",
-          "published_at": "2026-10-19T17:12:40+00:00",
-          "first_seen": "2026-10-19T17:30:01.207593+00:00",
-          "category": "bicicleta",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/IMG-20261019-WA0022.webp"
-        },
-        {
-          "portal": "Necochea Digital",
-          "title": "Vecinos redujeron a un hombre que intentó robar un cajón de cerveza y una bicicleta",
-          "url": "https://necocheadigital.com/nota/119939/vecinos-redujeron-a-un-hombre-que-intento-robar-un-cajon-de-cerveza-y-una-bicicleta/",
-          "published_at": null,
-          "first_seen": "2026-10-19T22:00:01.222256+00:00",
-          "category": null,
-          "image": null
+          "title": "Cristina y Máximo Kirchner buscan participar por videoconferencia en el inicio del juicio oral por Los Sauces",
+          "url": "https://tsnnecochea.com.ar/nacion/cristina-y-maximo-kirchner-buscan-participar-por-videoconferencia-en-el-inicio-del-juicio-oral-por-los-sauces-240149/",
+          "published_at": "2026-10-20T04:15:17+00:00",
+          "first_seen": "2026-10-20T05:14:17.540268+00:00",
+          "category": "Cristina Kirchner",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/720-1.webp"
         }
       ],
       "summary": {
         "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Locales | bicicleta | Alertaron al 911 Vecinos atrapan a un hombre que quiso robar un cajón de cerveza y una bicicleta Otros dos sujetos, que acompañaban al malviviente se dieron a la fuga Por Ale Sanchez 19/10/2026 · 02:12 PM Agregar TSN Necochea en Vecinos atrapan a un hombre que quiso robar un cajón de cerveza y una bicicleta Personal policial del Comando de Patrulla Necochea intervino, tras un alerta al sistema CATE 911, en la avenida 75, entre calles 66 y 68, donde civiles tenían reducido a un hombre que habría intentado sustraer cajones de cerveza de un depósito de mercaderías en construcción. Según se estableció, el sujeto habría actuado junto a otros dos individuos, quienes se dieron a la fuga.",
-          "Previamente, los tres habrían intentado sustraer una bicicleta de una vivienda cercana, sin lograr su cometido, situación que fue advertida por vecinos."
+          "TSN Necochea | ‹ VOLVER | Nación | Cristina Kirchner | Proceso Cristina y Máximo Kirchner buscan participar por videoconferencia en el inicio del juicio oral por Los Sauces La defensa de la ex presidenta y el diputado presentó la solicitud ante el Tribunal Oral Federal 5 para evitar la presencialidad de ambos acusados.",
+          "Por Redacción TSN 20/10/2026 · 01:15 AM Agregar TSN Necochea en La defensa de la ex presidenta Cristina Kirchner y el diputado Máximo Kirchner le pidió al Tribunal Oral Federal 5 (TOF 5) permiso para participar de manera virtual a ambos en las audiencias del juicio oral por Los Sauces, que, según con el cronograma vigente, está pre visto que inicie esta semana."
         ],
-        "generated": "2026-10-20T11:03:02.918021+00:00"
+        "generated": "2026-10-20T11:31:41.906891+00:00"
       },
-      "apariciones": 33,
-      "ultima_impresion": "2026-10-20T11:00:00.766478+00:00",
+      "apariciones": 15,
+      "ultima_impresion": "2026-10-20T11:30:00.718020+00:00",
+      "penalizacion": 0.0
+    },
+    {
+      "key": "liberaron transito ruta 228 choque camion pulverizadora",
+      "title": "Liberaron el tránsito en la Ruta 228 tras el choque entre el camión y la pulverizadora",
+      "score": 0.0,
+      "sources_count": 1,
+      "first_seen": "2026-10-20T03:26:45+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/vfbghnjm.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Liberaron el tránsito en la Ruta 228 tras el choque entre el camión y la pulverizadora",
+          "url": "https://tsnnecochea.com.ar/locales/liberaron-el-transito-en-la-ruta-228-tras-el-choque-entre-el-camion-y-la-pulverizadora-240141/",
+          "published_at": "2026-10-20T03:26:45+00:00",
+          "first_seen": "2026-10-20T05:14:17.540268+00:00",
+          "category": "camión",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/vfbghnjm.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Locales | camión | Ardua tarea Liberaron el tránsito en la Ruta 228 tras el choque entre el camión y la pulverizadora Operarios con máquinas viales una grúa pudieron sacar el rodado pesado Por Redacción TSN 20/10/2026 · 12:26 AM Agregar TSN Necochea en Luego de permanecer interrumpida durante gran parte de la jornada de ayer , a raíz del violento siniestro vial registrado en el kilómetro 105, la circulación sobre la Ruta Nacional Nº 228 quedó totalmente restablecida este lunes por la noche. Tras un arduo operativo desplegado con grúas de gran porte para remover el camión volcado y la maquinaria agrícola de la cinta asfáltica, personal de emergencias y operarios viales lograron despejar la calzada entre las 19.30 y las 20.30 de ayer.",
+          "De esta manera, el tránsito en ambas manos volvió a fluir con normalidad y quedaron sin efecto los desvíos preventivos que se habían implementado en la zona."
+        ],
+        "generated": "2026-10-20T11:33:14.573416+00:00"
+      },
+      "apariciones": 15,
+      "ultima_impresion": "2026-10-20T11:30:00.718020+00:00",
       "penalizacion": 0.0
     },
     {
@@ -526,68 +604,10 @@
           "Un hombre fue aprehendido por personal del Comando de Patrullas de Necochea luego de ser señalado como uno de los presuntos responsables de dos intentos de robo registrados en inmediaciones de avenida 75, entre calles 66 y 68. Otros dos individuos que habrían participado de los hechos lograron escapar y son buscados por la Policía. El procedimiento se inició a partir de un llamado al sistema de emergencias CATE 911, que alertó sobre una situación en un depósito de mercaderías en construcción.",
           "Al arribar al lugar, los efectivos encontraron a un hombre que había sido reducido por civiles, luego de que presuntamente intentara sustraer cajones de cerveza del establecimiento. Antes habrían intentado llevarse una bicicleta De acuerdo con la información policial, el aprehendido habría actuado junto a otros dos sujetos que consiguieron darse a la fuga antes de la llegada de los uniformados."
         ],
-        "generated": "2026-10-20T11:05:18.255741+00:00"
+        "generated": "2026-10-20T11:35:32.760928+00:00"
       },
-      "apariciones": 26,
-      "ultima_impresion": "2026-10-20T11:00:00.766478+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "omar ortiz corazon historia tenida verde 57 anos pasion amistad gloria estacion quequen",
-      "title": "Omar Ortiz, el corazón de una historia teñida de verde: 57 años de pasión, amistad y gloria en Estación Quequén",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-10-20T01:34:29+00:00",
-      "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/f64f6921-8758-4a41-b8a6-30c02c8e28d6.jpg",
-      "articles": [
-        {
-          "portal": "Diario NQ",
-          "title": "Omar Ortiz, el corazón de una historia teñida de verde: 57 años de pasión, amistad y gloria en Estación Quequén",
-          "url": "https://diarionq.com.ar/omar-ortiz-el-corazon-de-una-historia-tenida-de-verde-57-anos-de-pasion-amistad-y-gloria-en-estacion-quequen/",
-          "published_at": "2026-10-20T01:34:29+00:00",
-          "first_seen": "2026-10-20T02:00:00.577230+00:00",
-          "category": "Deportes",
-          "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/f64f6921-8758-4a41-b8a6-30c02c8e28d6.jpg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "En el marco de los 57 años de Estación Quequén, Omar Ortiz pasó por Zoom El Deportivo y protagonizó una charla cargada de recuerdos, anécdotas y emoción. Uno de los protagonistas de aquella histórica fusión entre Juventud Unida y Progresista repasó los años dorados del club, recordó a grandes compañeros y dejó en claro que el verdadero legado del fútbol también se construye con amistad, humildad y sentido de pertenencia.",
-          "Hay historias que no se cuentan solamente con palabras, porque llevan consigo el peso de los años, las emociones compartidas y los recuerdos que permanecen intactos en el corazón. La visita de Omar Ortiz a Zoom , para charlar con Rubén Leys y Hugo Miraglia, fue una de ellas: un encuentro con la memoria viva del fútbol de Necochea y, especialmente, con una parte fundamental de la historia de Estación Quequén."
-        ],
-        "generated": "2026-10-20T11:05:20.415784+00:00"
-      },
-      "apariciones": 17,
-      "ultima_impresion": "2026-10-20T11:00:00.766478+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "kicillof inauguro juegos bonaerenses apunto milei motosierra llego pibes deporte",
-      "title": "Kicillof inauguró los Juegos Bonaerenses y apuntó contra Milei: “La motosierra llegó a los pibes y al deporte”",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-10-19T23:06:38+00:00",
-      "image": null,
-      "articles": [
-        {
-          "portal": "Diario NQ",
-          "title": "Kicillof inauguró los Juegos Bonaerenses y apuntó contra Milei: “La motosierra llegó a los pibes y al deporte”",
-          "url": "https://diarionq.com.ar/kicillof-inauguro-los-juegos-bonaerenses-y-apunto-contra-milei-la-motosierra-llego-a-los-pibes-y-al-deporte/",
-          "published_at": "2026-10-19T23:06:38+00:00",
-          "first_seen": "2026-10-19T23:30:00.918210+00:00",
-          "category": "Mar del Plata",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El gobernador encabezó la ceremonia de apertura en Mar del Plata, con delegaciones de los 135 municipios bonaerenses. Destacó el récord de 504.000 inscriptos y cuestionó los recortes del Gobierno nacional. Necochea participa de las finales con una delegación récord de 249 representantes.",
-          "El gobernador de la provincia de Buenos Aires, Axel Kicillof, encabezó este lunes la inauguración oficial de la 35ª edición de los Juegos Bonaerenses en el Paseo Hermitage de Mar del Plata, donde miles de jóvenes, adultos mayores y participantes de distintas disciplinas deportivas y culturales dieron comienzo a una nueva etapa final del certamen. Durante la ceremonia, el mandatario provincial destacó el crecimiento de la competencia, que este año alcanzó un récord de 504.000 inscriptos, un 12% más que en 2025, y lanzó fuertes críticas contra el Gobierno nacional por los recortes presupuestarios destinados al deporte."
-        ],
-        "generated": "2026-10-20T11:05:45.615015+00:00"
-      },
-      "apariciones": 21,
-      "ultima_impresion": "2026-10-20T11:00:00.766478+00:00",
+      "apariciones": 27,
+      "ultima_impresion": "2026-10-20T11:30:00.718020+00:00",
       "penalizacion": 0.0
     }
   ]
