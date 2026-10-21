@@ -1,218 +1,332 @@
 {
-  "generated_at": "2026-10-21T16:06:54.364984+00:00",
+  "generated_at": "2026-10-21T20:06:04.599189+00:00",
   "article_count": 135,
   "fetch_errors": [],
   "stories": [
     {
-      "key": "toda vela mar anoto subasta teatro auditorium deposito 77 millones garantia",
-      "title": "A Toda Vela Mar se anotó para la subasta del Teatro Auditórium y depositó $77 millones de garantía",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-21T16:06:54.364984+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/57dd93ee653d51c5bc025e2298844e237e958ce1.jpg",
+      "key": "necochea sumo primera medalla oro bonaerenses mano nadadora ambika peralta",
+      "title": "Necochea sumó la primera medalla de oro en los Bonaerenses de la mano de la nadadora de Ambika Peralta",
+      "score": 3.714,
+      "sources_count": 4,
+      "first_seen": "2026-10-21T12:12:00+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/e058eddb3de7d3ab7bb0cd344f67593c7344b462.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "A Toda Vela Mar se anotó para la subasta del Teatro Auditórium y depositó $77 millones de garantía",
-          "url": "https://necocheadigital.com/nota/119952/a-toda-vela-mar-se-anoto-para-la-subasta-del-teatro-auditorium-y-deposito-77-millones-de-garantia/",
+          "title": "Necochea sumó la primera medalla de oro en los Bonaerenses de la mano de la nadadora de Ambika Peralta",
+          "url": "https://necocheadigital.com/nota/119959/necochea-sumo-la-primera-medalla-de-oro-en-los-bonaerenses-de-la-mano-de-la-nadadora-de-ambika-peralta/",
           "published_at": null,
-          "first_seen": "2026-10-21T16:06:54.364984+00:00",
+          "first_seen": "2026-10-21T20:06:04.599189+00:00",
+          "category": null,
+          "image": null
+        },
+        {
+          "portal": "Noticias de Necochea",
+          "title": "Ambika Peralta ganó el oro en los Juegos Bonaerenses y le dio a Necochea su primera medalla",
+          "url": "https://nden.com.ar/nota/38468/ambika-peralta-gano-el-oro-en-los-juegos-bonaerenses-y-le-dio-a-necochea-su-primera-medalla",
+          "published_at": "2026-10-21T17:36:00+00:00",
+          "first_seen": "2026-10-21T20:06:04.599189+00:00",
+          "category": null,
+          "image": "http://nden.com.ar/uploads/noticias/5/2026/10/40048f683cff76b481b4bb8e1b3743b528f775ab.jpg"
+        },
+        {
+          "portal": "Necochea News",
+          "title": "Necochea conquista su primera medalla de oro en natación adaptada en los 35° Juegos Bonaerenses",
+          "url": "https://necocheanews.com.ar/necochea-conquista-su-primera-medalla-de-oro-en-natacion-adaptada-en-los-35-juegos-bonaerenses/",
+          "published_at": "2026-10-21T12:18:32+00:00",
+          "first_seen": "2026-10-21T12:30:00.702416+00:00",
+          "category": "LOCALES",
+          "image": null
+        },
+        {
+          "portal": "Diario NQ",
+          "title": "Oro para Necochea: Ambika Peralta se consagró campeona en los Bonaerenses",
+          "url": "https://diarionq.com.ar/oro-para-necochea-ambika-peralta-se-consagro-campeona-en-los-bonaerenses/",
+          "published_at": "2026-10-21T12:12:00+00:00",
+          "first_seen": "2026-10-21T12:30:00.702416+00:00",
+          "category": "Deportes",
+          "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/21-10-FOTO-Todos-al-Agua-Bonaerenses-26.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La delegación de Necochea comenzó su participación en las finales de los 35° Juegos Bonaerenses y durante la jornada del martes 20, los deportistas participaron en distintas competencias, tanto convencionales como para personas con discapacidad (PCD), representando al distrito en Mar del Plata, y la primera medalla llegó desde un espacio municipal. En Natación PCD, la alumna de la Escuela «Todos al Agua», Ambika Peralta, se consagró campeona y obtuvo la medalla de oro en la prueba de 25 metros espalda S14 .",
+          "En la misma disciplina, Thiago García finalizó en el sexto puesto y Huilen Cuello alcanzó el décimo lugar. El resto del día para los necochenses En Atletismo, Isabella Vallota terminó décima en la prueba de 1200 metros, mientras que, en Atletismo PCD, Tatiana Rodríguez obtuvo el sexto puesto en salto en largo, categoría Intelectual A +16."
+        ],
+        "generated": "2026-10-21T20:07:02.726761+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-21T20:06:04.599189+00:00"
+    },
+    {
+      "key": "analizaron obras infraestructura posibles lluvias intensas",
+      "title": "Analizaron obras de infraestructura ante la posibles lluvias intensas",
+      "score": 1.115,
+      "sources_count": 1,
+      "first_seen": "2026-10-21T19:13:21+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-21-at-01.41.03.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Analizaron obras de infraestructura ante la posibles lluvias intensas",
+          "url": "https://tsnnecochea.com.ar/locales/analizaron-obras-de-infraestructura-ante-la-posibles-lluvias-intensas-240276/",
+          "published_at": "2026-10-21T19:13:21+00:00",
+          "first_seen": "2026-10-21T20:06:04.599189+00:00",
+          "category": "concejo",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-21-at-01.41.03.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Locales | concejo | Concejo Analizaron obras de infraestructura ante la posibles lluvias intensas Participaron de la reunión funcionarios, ediles, integrantes de Hídrica de la Provincia y vecinos Por Redacción TSN 21/10/2026 · 04:13 PM Agregar TSN Necochea en Se reunió la Comisión de Infraestructura, Obras y Servicios Públicos, la cual es presidida por la concejal Silvina Jensen Menna (Nva. Durante el encuentro se recibió a Florencia Veccia y Nehemias Gandoy funcionarios del área de Hidráulica provincial, con quienes se analizaron los avances de los trabajos preventivos ante posibles lluvias intensas.",
+          "Se informó sobre la disponibilidad de terrenos municipales para reservorios de agua, las tareas de mantenimiento y limpieza de zanjas y la evaluación de alternativas para la derivación de excedentes hídricos."
+        ],
+        "generated": "2026-10-21T20:08:57.407581+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-21T20:06:04.599189+00:00"
+    },
+    {
+      "key": "martin totaro amplia apuesta necochea barberia entrenamiento personalizado",
+      "title": "Martín Totaro amplía su apuesta en Necochea: de la barbería al entrenamiento personalizado",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-21T20:06:04.599189+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/db3e7e49d6bb03c55cf57dff336910a8d6420de1.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Martín Totaro amplía su apuesta en Necochea: de la barbería al entrenamiento personalizado",
+          "url": "https://necocheadigital.com/nota/119964/martin-totaro-amplia-su-apuesta-en-necochea-de-la-barberia-al-entrenamiento-personalizado/",
+          "published_at": null,
+          "first_seen": "2026-10-21T20:06:04.599189+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "A Toda Vela Mar Sociedad Anónima volvió a poner la mirada sobre el futuro del Complejo Casino de Necochea. La firma se inscribió este martes 20 de octubre para participar de la subasta pública del Teatro Auditórium y depositó cerca de 77 millones de pesos como garantía de mantenimiento de oferta. La información fue confirmada por fuentes del Departamento Ejecutivo municipal.",
-          "El trámite se realizó en dependencias de la Secretaría de Planeamiento, Obras y Servicios Públicos, donde la empresa formalizó su intención de intervenir en el remate de la denominada Parcela C. De esta manera, A Toda Vela Mar es, hasta el momento, la única firma que manifestó formalmente su interés en participar de la subasta , convocada para el próximo viernes 23 de octubre. La subasta será este viernes El remate estará a cargo del martillero Sergio Marcelo Gertie y se desarrollará en el Salón de Actos de la Municipalidad de Necochea."
+          "El comerciante necochense Martín Totaro continúa apostando al desarrollo de sus emprendimientos y amplía su propuesta de servicios. Reconocido por su trabajo en el rubro de la barbería y por la atención brindada a sus clientes, ahora avanza hacia un nuevo desafío: el entrenamiento físico personalizado.",
+          "Se trata de TOTARO GYM , un espacio orientado al gimnasio, el fitness y la musculación, que busca ofrecer una alternativa para quienes desean entrenar, mejorar su condición física y trabajar en sus objetivos personales. Una nueva propuesta para el bienestar físico Bajo el lema “Acá comienza tu mejor versión” , el emprendimiento se presenta como una nueva opción para quienes buscan incorporar la actividad física a su rutina y contar con un espacio dedicado al entrenamiento."
         ],
-        "generated": "2026-10-21T16:08:56.155267+00:00"
+        "generated": "2026-10-21T20:08:58.700694+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-21T16:06:54.364984+00:00"
+      "ultima_impresion": "2026-10-21T20:06:04.599189+00:00"
     },
     {
-      "key": "christian castillo presentara libro leer marx encuentro abierto necochea",
-      "title": "Christian Castillo presentará su libro “Leer a Marx” en un encuentro abierto en Necochea",
+      "key": "juan parka bernal lleva necochea mundial kickboxing wkf",
+      "title": "Juan “La Parka” Bernal lleva a Necochea al Mundial de Kickboxing de la WKF",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-10-21T16:06:54.364984+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261020123429_la-rz-20.jpg",
+      "first_seen": "2026-10-21T20:06:04.599189+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/839ba52913e6e2f5db8a43659c1cdf3d14d85051.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Christian Castillo presentará su libro “Leer a Marx” en un encuentro abierto en Necochea",
-          "url": "https://necocheadigital.com/nota/119951/christian-castillo-presentara-su-libro-leer-a-marx-en-un-encuentro-abierto-en-necochea/",
+          "title": "Juan “La Parka” Bernal lleva a Necochea al Mundial de Kickboxing de la WKF",
+          "url": "https://necocheadigital.com/nota/119963/juan-la-parka-bernal-lleva-a-necochea-al-mundial-de-kickboxing-de-la-wkf/",
           "published_at": null,
-          "first_seen": "2026-10-21T16:06:54.364984+00:00",
+          "first_seen": "2026-10-21T20:06:04.599189+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "La actividad se llevará a cabo a partir de las 18:00 horas en las instalaciones del bar Plaza Rocha, ubicado en la calle 60 entre 57 y 59, con entrada libre y gratuita para toda la comunidad. Durante el encuentro, el dirigente nacional del Partido de los Trabajadores Socialistas expondrá las líneas fundamentales de su obra, en la que propone un exhaustivo recorrido analítico por los conceptos centrales de Karl Marx y examina la vigencia de dichas herramientas teóricas para interpretar los procesos socioeconómicos y políticos del escenario contemporáneo.",
-          "A lo largo del texto, el autor aborda ejes centrales como la teoría de la plusvalía, los mecanismos de explotación en el sistema capitalista, la precarización laboral, la concentración de la riqueza y las profundas transformaciones en la organización del tiempo de trabajo frente al acelerado avance de las tecnologías modernas."
+          "Juan “La Parka” Bernal ya se encuentra en el Campeonato Mundial de la WKF, donde afrontará uno de los desafíos más importantes de su trayectoria deportiva. El representante de Necochea buscará destacarse en una competencia internacional que reúne a más de 1.200 competidores provenientes de más de 50 países. Tras la ceremonia inaugural, el peleador se prepara para iniciar su participación en cuatro modalidades, distribuidas entre las disciplinas de tatami y ring.",
+          "Con esfuerzo, preparación y grandes expectativas, Bernal llevará la bandera de la ciudad y de toda la Costa Atlántica a un escenario de nivel mundial. Cuatro modalidades para buscar una destacada actuación La actividad de Bernal comenzará este miércoles con las competencias de tatami, donde participará en point fight y light contact ."
         ],
-        "generated": "2026-10-21T16:08:56.888678+00:00"
+        "generated": "2026-10-21T20:08:59.848547+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-21T16:06:54.364984+00:00"
+      "ultima_impresion": "2026-10-21T20:06:04.599189+00:00"
     },
     {
-      "key": "comunidad instituto 31 moviliza posible suspension dos profesorados 2027",
-      "title": "La comunidad del Instituto 31 se moviliza ante la posible suspensión de dos profesorados para 2027",
+      "key": "hombre aprehendido pleno centro necochea violar restriccion judicial",
+      "title": "Un hombre fue aprehendido en pleno centro de Necochea por violar una restricción judicial",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-10-21T16:06:54.364984+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261020121851_complejo-jesuita-cardiel.jpg",
+      "first_seen": "2026-10-21T20:06:04.599189+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/309f1b686a2f340b3f59d1109970eb767e5fc03c.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "La comunidad del Instituto 31 se moviliza ante la posible suspensión de dos profesorados para 2027",
-          "url": "https://necocheadigital.com/nota/119949/la-comunidad-del-instituto-31-se-moviliza-ante-la-posible-suspension-de-dos-profesorados-para-2027/",
+          "title": "Un hombre fue aprehendido en pleno centro de Necochea por violar una restricción judicial",
+          "url": "https://necocheadigital.com/nota/119961/un-hombre-fue-aprehendido-en-pleno-centro-de-necochea-por-violar-una-restriccion-judicial/",
           "published_at": null,
-          "first_seen": "2026-10-21T16:06:54.364984+00:00",
+          "first_seen": "2026-10-21T20:06:04.599189+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "El Centro de Estudiantes y la comunidad educativa del Instituto Superior de Formación Docente y Técnica N° 31 de Necochea convocaron a una manifestación para este martes 20 de octubre a las 17:30 horas en la intersección de la avenida Jesuita Cardiel y la calle 50. La medida responde a la preocupación generada ante la posibilidad de que no se habiliten nuevas inscripciones para las carreras de Profesorado de Educación Inicial y Profesorado de Historia durante el ciclo lectivo 2027.",
-          "La jornada comenzará con una sentada en las inmediaciones del Complejo Educativo Jesuita Cardiel y podría incluir una marcha posterior. La iniciativa, difundida a través de redes sociales bajo consignas como \"La educación pública se defiende\", busca reunir a estudiantes, docentes, familias y vecinos para reclamar por el mantenimiento de la oferta académica y el derecho al acceso a la educación superior en el distrito."
+          "Un hombre fue aprehendido en pleno centro de la ciudad de Necochea tras ser localizado dentro de la sede de la Asesoría de Incapaces. El operativo policial se inició a partir de un llamado de alerta ingresado al sistema de emergencias 911, en el que se informaba sobre la presencia del sujeto en dicha dependencia pública.",
+          "Al arribar al lugar, los efectivos de seguridad verificaron mediante un oficio judicial que sobre el individuo pesaba una medida de restricción de acercamiento vigente, por lo que procedieron de inmediato a su captura y posterior traslado a la Comisaría Primera. El caso quedó a cargo de la Unidad Funcional de Instrucción número 10 de Necochea, fiscalía que avaló el procedimiento, le tomó declaración al imputado y dispuso que continúe alojado en la seccional a disposición de la Justicia."
         ],
-        "generated": "2026-10-21T16:08:57.607154+00:00"
+        "generated": "2026-10-21T20:09:00.564041+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-21T16:06:54.364984+00:00"
+      "ultima_impresion": "2026-10-21T20:06:04.599189+00:00"
     },
     {
-      "key": "jueves arranca 13 edicion open neco voley",
-      "title": "Este jueves arranca la 13ª edición del Open Neco de Vóley",
+      "key": "maraton mamografica supero expectativas continuara noviembre turnos orden medica",
+      "title": "La maratón mamográfica superó las expectativas y continuará en noviembre con turnos sin orden médica",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-10-21T16:06:54.364984+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261020121038_whatsapp-image-2026-10-20-at-12-10-20.jpg",
+      "first_seen": "2026-10-21T20:06:04.599189+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261021113731_21-10-foto-maraton-mamografica.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Este jueves arranca la 13ª edición del Open Neco de Vóley",
-          "url": "https://necocheadigital.com/nota/119948/este-jueves-arranca-la-13-ordf-edicion-del-open-neco-de-voley/",
+          "title": "La maratón mamográfica superó las expectativas y continuará en noviembre con turnos sin orden médica",
+          "url": "https://necocheadigital.com/nota/119962/la-maraton-mamografica-supero-las-expectativas-y-continuara-en-noviembre-con-turnos-sin-orden-medica/",
           "published_at": null,
-          "first_seen": "2026-10-21T16:06:54.364984+00:00",
+          "first_seen": "2026-10-21T20:06:04.599189+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "Desde este jueves 22 hasta el domingo 25 de octubre, se llevará a cabo la 13ª edición del Open Neco Vóley, considerado el certamen juvenil más grande del país. Organizado por el exjugador de la Selección Argentina de vóley y entrenador Pablo Meana, el tradicional torneo reunirá a 59 equipos pertenecientes a las categorías Sub-14, Sub-16 y Sub-18, tanto en la rama masculina como en la femenina. El encuentro contará con la presencia de delegaciones procedentes de la Patagonia, la Ciudad Autónoma de Buenos Aires, la provincia de Buenos Aires, La Pampa y una delegación proveniente de Perú.",
-          "Entre los clubes confirmados que participarán de la contienda deportiva sobresalen Vélez Sarsfield, Tortuguitas, Argentino de Trenque Lauquen, Independiente de Neuquén y la plantilla peruana Molivoleibol. En cuanto a la representación local, dirán presente los planteles de la Escuela Municipal de Vóley, Necochea Vóley, Centro Basko y Alta Mira."
+          "La respuesta de las vecinas superó ampliamente las expectativas y convirtió a la maratón mamográfica del Hospital Municipal José Irurzun de Quequén en una jornada de gran convocatoria . Durante más de 16 horas de atención ininterrumpida, desde las 6 de la mañana, se realizaron más de 150 mamografías, pero la demanda fue tan importante que el tiempo disponible no alcanzó para atender a todas las mujeres que se acercaron .",
+          "Frente a esta situación, se decidió dar continuidad a la iniciativa durante noviembre, con 20 turnos diarios que permitirán realizarse mamografías sin necesidad de presentar una orden médica. De esta manera, la propuesta se extendió más allá de la jornada original para responder a la importante cantidad de mujeres que buscan acceder a estos estudios."
         ],
-        "generated": "2026-10-21T16:08:58.324056+00:00"
+        "generated": "2026-10-21T20:09:02.240458+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-21T16:06:54.364984+00:00"
+      "ultima_impresion": "2026-10-21T20:06:04.599189+00:00"
     },
     {
-      "key": "casino municipio prepara demanda perjuicios causo suspension judicial subasta",
-      "title": "Casino: El Municipio prepara una demanda por los perjuicios que causó la suspensión judicial de la subasta",
+      "key": "licitan obras refaccion escuela tecnica 192 millones",
+      "title": "Licitan obras de refacción para la Escuela Técnica Nº 2 por más de $192 millones",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-10-21T16:06:54.364984+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/1613ee3988e6519e695886453e2c90b6ade84968.jpg",
+      "first_seen": "2026-10-21T20:06:04.599189+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261021113007_whatsapp-image-2026-10-21-at-11-29-53.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Casino: El Municipio prepara una demanda por los perjuicios que causó la suspensión judicial de la subasta",
-          "url": "https://necocheadigital.com/nota/119944/casino-el-municipio-prepara-una-demanda-por-los-perjuicios-que-causo-la-suspension-judicial-de-la-subasta/",
+          "title": "Licitan obras de refacción para la Escuela Técnica Nº 2 por más de $192 millones",
+          "url": "https://necocheadigital.com/nota/119960/licitan-obras-de-refaccion-para-la-escuela-tecnica-n-2-por-mas-de-192-millones/",
           "published_at": null,
-          "first_seen": "2026-10-21T16:06:54.364984+00:00",
+          "first_seen": "2026-10-21T20:06:04.599189+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "Faramiñan confirmó que el intendente Arturo Rojas mantiene la decisión de impulsar una demanda por daños y perjuicios vinculados con la suspensión judicial de la primera subasta del complejo Casino. Aquel procedimiento estaba previsto inicialmente para febrero, pero una medida cautelar obligó a postergarlo hasta junio. Según explicó la funcionaria, los perjuicios económicos que habría sufrido el Municipio se encuentran documentados en un expediente administrativo próximo a concluir.",
-          "La presentación judicial sería inminente y se realizaría ante el mismo juzgado que dispuso la medida cautelar. El objetivo de la administración municipal es reclamar el recupero de los gastos que debió afrontar como consecuencia de la postergación del remate."
+          "La Municipalidad de Necochea puso en marcha el llamado a la Licitación Pública Nº 10/2026 (primer llamado) con el objetivo de ejecutar una serie de importantes obras de infraestructura en la Escuela de Educación Técnica Nº 2. Se trata de una intervención altamente esperada por la comunidad educativa, dado el deterioro del edificio y los múltiples inconvenientes sufridos a lo largo del año debido a filtraciones y otros problemas edilicios.",
+          "El proyecto cuenta con un presupuesto oficial de $192.348.770,60 , financiado mediante fondos de la Provincia de Buenos Aires en articulación con el municipio, tras las gestiones realizadas por el Consejo Escolar de Necochea. El procedimiento se tramita bajo el expediente municipal Nº 3953/2026 (Alcance 1) y el Decreto Nº 3252/2026."
         ],
-        "generated": "2026-10-21T16:08:59.062615+00:00"
+        "generated": "2026-10-21T20:09:03.944547+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-21T16:06:54.364984+00:00"
+      "ultima_impresion": "2026-10-21T20:06:04.599189+00:00"
     },
     {
-      "key": "mundial stand up paddle quequen brillo italia dos oros dos platas bronce",
-      "title": "Mundial de Stand Up Paddle: Quequén brilló en Italia con dos oros, dos platas y un bronce",
-      "score": 1.1,
+      "key": "robaron camioneta loberia aprehendieron pleno centro necochea bicicleta robada",
+      "title": "Robaron una camioneta en Lobería y los aprehendieron en pleno centro de Necochea con una bicicleta robada",
+      "score": 1.055,
       "sources_count": 1,
-      "first_seen": "2026-10-21T16:06:54.364984+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261019120547_whatsapp-image-2026-10-19-at-12-05-30-1.jpg",
+      "first_seen": "2026-10-21T18:33:06+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-21-at-13.33.22.webp",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Mundial de Stand Up Paddle: Quequén brilló en Italia con dos oros, dos platas y un bronce",
-          "url": "https://necocheadigital.com/nota/119935/mundial-de-stand-up-paddle-quequen-brillo-en-italia-con-dos-oros-dos-platas-y-un-bronce/",
-          "published_at": null,
-          "first_seen": "2026-10-21T16:06:54.364984+00:00",
-          "category": null,
-          "image": null
+          "portal": "TSN Necochea",
+          "title": "Robaron una camioneta en Lobería y los aprehendieron en pleno centro de Necochea con una bicicleta robada",
+          "url": "https://tsnnecochea.com.ar/locales/robaron-una-camioneta-en-loberia-y-los-aprehendieron-en-pleno-centro-de-necochea-con-una-bicicleta-robada-240273/",
+          "published_at": "2026-10-21T18:33:06+00:00",
+          "first_seen": "2026-10-21T20:06:04.599189+00:00",
+          "category": "aprehensión",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-21-at-13.33.22.webp"
         }
       ],
       "summary": {
         "paragraphs": [
-          "Una actuación histórica e inolvidable concretó la delegación de Quequén SUP en el Campeonato Mundial de Stand Up Paddle (SUP) de la Federación Internacional de Canotaje (ICF), disputado en Sabaudia, Italia. Los deportistas Felicitas Guida, Josefina Reynoso y Salvador Labarthe representaron al distrito y al país con una brillante cosecha de dos títulos mundiales y cinco medallas en total , repartidas en las pruebas de Sprint de 100 metros y Larga Distancia dentro de la categoría Sub-12.",
-          "La gran figura del certamen fue Felicitas Guida , quien se consagró doble campeona mundial U12 . Guida obtuvo la medalla de oro en los 100 metros Sprint con un tiempo de 35,97 segundos (superando a la italiana Viola Mandoloni) y revalidó su dominio al quedarse también con el primer puesto en la exigente prueba de Larga Distancia."
+          "TSN Necochea | ‹ VOLVER | Locales | aprehensión | Inseguridad Robaron una camioneta en Lobería y los aprehendieron en pleno centro de Necochea con una bicicleta robada Dos jóvenes de 25 y 26 años fueron interceptados por la policía tras un monitoreo en tiempo real del COM. Por Redacción TSN 21/10/2026 · 03:33 PM Agregar TSN Necochea en Un eficaz operativo coordinado entre efectivos de la Policía de la Provincia de Buenos Aires y los operadores del Centro de Operaciones y Monitoreo (COM) de la Municipalidad de Necochea culminó con la aprehensión de dos hombres de 25 y 26 años , acusados de estar vinculados al robo de una camioneta en la vecina ciudad de Lobería.",
+          "El alerta inicial se registró cerca de las 5:30 de la madrugada a través del sistema de emergencias CATE 911, que dio aviso sobre la reciente sustracción de una camioneta Toyota Hilux de color blanco en jurisdicción loberense."
         ],
-        "generated": "2026-10-21T16:08:59.783193+00:00"
+        "generated": "2026-10-21T20:09:04.958761+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-21T16:06:54.364984+00:00"
+      "ultima_impresion": "2026-10-21T20:06:04.599189+00:00"
     },
     {
-      "key": "fuertes criticas oficialismo local llamado alianza act gobierno nueva necochea retirada",
-      "title": "Fuertes críticas al oficialismo local y llamado a una alianza con la ACT: \"El Gobierno de Nueva Necochea está en retirada\"",
-      "score": 0.592,
+      "key": "buscan regular foodtrucks preparan recital renga",
+      "title": "Buscan regular los FoodTrucks y preparan el recital de La Renga",
+      "score": 1.05,
       "sources_count": 1,
-      "first_seen": "2026-10-21T16:01:27+00:00",
-      "image": "https://res.cloudinary.com/dsugba4yh/image/upload/v1792598448/wal_vhz83l.png",
+      "first_seen": "2026-10-21T18:30:04+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/12-CI.webp",
       "articles": [
         {
-          "portal": "Informate Necochea",
-          "title": "Fuertes críticas al oficialismo local y llamado a una alianza con la ACT: \"El Gobierno de Nueva Necochea está en retirada\"",
-          "url": "https://informatenecochea.com/noticia/fuertes-criticas-al-oficialismo-local-y-llamado-a-una-alianza-con-la-act-el-gobierno-de-nueva-necochea-esta-en-retirada",
-          "published_at": "2026-10-21T16:01:27+00:00",
-          "first_seen": "2026-10-21T16:02:50.864625+00:00",
-          "category": "Local",
-          "image": "https://res.cloudinary.com/dsugba4yh/image/upload/v1792598448/wal_vhz83l.png"
+          "portal": "TSN Necochea",
+          "title": "Buscan regular los FoodTrucks y preparan el recital de La Renga",
+          "url": "https://tsnnecochea.com.ar/locales/buscan-regular-los-foodtrucks-y-preparan-el-recital-de-la-renga-240270/",
+          "published_at": "2026-10-21T18:30:04+00:00",
+          "first_seen": "2026-10-21T20:06:04.599189+00:00",
+          "category": "concejo deliberante",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/12-CI.webp"
         }
       ],
       "summary": {
         "paragraphs": [
-          "Inicio / Local Local Fuertes críticas al oficialismo local y llamado a una alianza con la ACT: \"El Gobierno de Nueva Necochea está en retirada\" El dirigente de la Unión Cívica Radical (UCR) y referente del Subcomité de Quequén, Walter Bravo, lanzó un duro diagnóstico sobre el estado socioeconómico del distrito y analizó la coyuntura política local de cara a las próximas instancias electorales.",
-          "Durante su intervención, cuestionó severamente la gestión del intendente Arturo Rojas, ratificó el armado radical en torno a la precandidatura de Alberto \"Beto\" Esnaola y propuso una confluencia opositora con la Agrupación Comunal Transformadora (ACT)."
+          "TSN Necochea | ‹ VOLVER | Locales | concejo deliberante | Concejo Buscan regular los FoodTrucks y preparan el recital de La Renga Se realizaron reuniones de la comisión de Infraestructura en forma conjunta con la Comisión de Turismo y Deporte. Por Redacción TSN 21/10/2026 · 03:30 PM Agregar TSN Necochea en Se llevaron adelante en el Concejo Deliberante las reuniones de la comisión de Infraestructura en forma conjunta con la Comisión de Turismo y Deporte.",
+          "Allí se recibió a Jorge Martínez (Secretario de Gobierno) y a Manuela Fittipaldi (Subsecretaria de Movilidad Urbana y Seguridad Vial), para avanzar en el tratamiento de un proyecto de ordenanza que regule la actividad de los foodtrucks, tanto fijos como itinerantes. También se abordaron cuestiones vinculadas con la venta ambulante y la utilización del espacio público por parte de los comercios durante la temporada."
         ],
-        "generated": "2026-10-21T16:09:06.328769+00:00"
+        "generated": "2026-10-21T20:09:05.957977+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-10-21T16:06:54.364984+00:00",
-      "penalizacion": 0.596
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-21T20:06:04.599189+00:00"
+    },
+    {
+      "key": "juan manuel valle brindo master class taekwon do balcarce",
+      "title": "Juan Manuel Del Valle brindó una master class de taekwon-do en Balcarce",
+      "score": 0.919,
+      "sources_count": 1,
+      "first_seen": "2026-10-21T19:05:31+00:00",
+      "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/18.jpeg",
+      "articles": [
+        {
+          "portal": "Diario NQ",
+          "title": "Juan Manuel Del Valle brindó una master class de taekwon-do en Balcarce",
+          "url": "https://diarionq.com.ar/juan-manuel-del-valle-brindo-una-master-class-de-taekwon-do-en-balcarce/",
+          "published_at": "2026-10-21T19:05:31+00:00",
+          "first_seen": "2026-10-21T20:06:04.599189+00:00",
+          "category": "Deportes",
+          "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/18.jpeg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El Maestro Senior Juan Manuel del Valle, VIII Dan, encabezó una jornada de capacitación en la ciudad de Balcarce, con seis horas de formación técnica, deportiva y arbitral. La actividad reunió a alumnos e instructores de distintas escuelas vinculadas al Centro de Instrucción, en una propuesta que busca fortalecer el crecimiento del Taekwon-Do en la región.",
+          "El sábado 17 de octubre, el Maestro Senior Juan Manuel del Valle, director del Centro de Instrucción y vicepresidente de FEDART – ITF UNION, visitó Balcarce para desarrollar una Master Class destinada a los alumnos e instructores a cargo del Sabon Andrés Escubet, con el acompañamiento de la Sabon Morena Barrios, ambos integrantes de la Escuela Henko y del Centro de Instrucción. La capacitación contó con una importante participación de practicantes y se extendió durante seis horas de intensa actividad, con un receso de treinta minutos."
+        ],
+        "generated": "2026-10-21T20:09:34.893889+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-21T20:06:04.599189+00:00"
     },
     {
       "key": "oros necochea bonaerenses juanita souto consagro campeona salto largo",
       "title": "Más oros para Necochea en los Bonaerenses: Juanita Souto se consagró campeona en salto en largo",
-      "score": 0.387,
+      "score": 0.847,
       "sources_count": 1,
       "first_seen": "2026-10-21T15:55:32+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/21-10-FOTO-Juanita-Souto-Oro.webp",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/21-10-FOTO-Juanita-Souto-Oro4.webp",
       "articles": [
         {
           "portal": "TSN Necochea",
@@ -221,24 +335,24 @@
           "published_at": "2026-10-21T15:55:32+00:00",
           "first_seen": "2026-10-21T16:00:00.839688+00:00",
           "category": "Atletismo",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/21-10-FOTO-Juanita-Souto-Oro.webp"
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/21-10-FOTO-Juanita-Souto-Oro4.webp"
         }
       ],
       "summary": {
         "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Deportes | Atletismo | Deporte Más oros para Necochea en los Bonaerenses: Juanita Souto se consagró campeona en salto en largo También ganó medalla dorada el nadador Lucio Arregui. Ambos pertenecen a escuelas municipales.",
-          "Por Agustin Betancor 21/10/2026 · 12:55 PM Juanita Souto campeona en salto en largo Agregar TSN Necochea en La delegación de Necochea sigue sumando lauros en las 35° finales de los Juegos Bonaerenses en Mar del Plata, ya que este miércoles por la mañana se lograron dos medallas doradas: la de Juanita Souto en atletismo convencional; y la de Lucio Arregui en natación adaptada. Estas preseas se suman a la dorada ganada por la nadadora Ambika Peralta en la jornada del martes."
+          "TSN Necochea | ‹ VOLVER | Deportes | Atletismo | Deporte Más oros para Necochea en los Bonaerenses: Juanita Souto se consagró campeona en salto en largo También ganó medalla dorada el nadador Lucio Arregui. Ambos pertenecen a escuelas municipales. Por Agustin Betancor 21/10/2026 · 12:55 PM Agregar TSN Necochea en La delegación de Necochea sigue sumando lauros en las 35° finales de los Juegos Bonaerenses en Mar del Plata, ya que este miércoles por la mañana se lograron dos medallas doradas: la de Juanita Souto en atletismo convencional; y la de Lucio Arregui en natación adaptada.",
+          "This browser does not support the video element. Estas preseas se suman a la dorada ganada por la nadadora Ambika Peralta en la jornada del martes."
         ],
-        "generated": "2026-10-21T16:08:18.019677+00:00"
+        "generated": "2026-10-21T20:10:02.862111+00:00"
       },
-      "apariciones": 3,
-      "ultima_impresion": "2026-10-21T16:06:54.364984+00:00",
-      "penalizacion": 0.328
+      "apariciones": 4,
+      "ultima_impresion": "2026-10-21T20:06:04.599189+00:00",
+      "penalizacion": 1.0
     },
     {
       "key": "nino provincia lanzo sistema anticiparse posibles inundaciones",
       "title": "El Niño: la provincia lanzó un sistema para anticiparse a posibles inundaciones",
-      "score": 0.108,
+      "score": 0.779,
       "sources_count": 1,
       "first_seen": "2026-10-21T14:55:17+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/09/Campo-Inundaciones-12.webp",
@@ -258,16 +372,16 @@
           "TSN Necochea | ‹ VOLVER | Campo | El Niño | Fenómenos climáticos El Niño: la provincia lanzó un sistema para anticiparse a posibles inundaciones Puso en marcha el nuevo Visor Hidrometeorológico, una plataforma digital de acceso público que reúne información en tiempo real sobre precipitaciones, caudales y niveles de agua. Por Redacción TSN 21/10/2026 · 11:55 AM Agregar TSN Necochea en El Gobierno de la Provincia de Buenos Aires puso en marcha el Visor Hidrometeorológico , una plataforma digital de acceso público que reúne información en tiempo real sobre precipitaciones, caudales y niveles de agua en todo el territorio bonaerense.",
           "La herramienta integra datos de 150 estaciones de monitoreo y permite analizar la evolución de las condiciones hidrológicas y meteorológicas para fortalecer la prevención, la planificación y la toma de decisiones frente a fenómenos climáticos extremos."
         ],
-        "generated": "2026-10-21T16:09:00.887121+00:00"
+        "generated": "2026-10-21T20:10:04.086087+00:00"
       },
-      "apariciones": 5,
-      "ultima_impresion": "2026-10-21T16:06:54.364984+00:00",
-      "penalizacion": 0.099
+      "apariciones": 6,
+      "ultima_impresion": "2026-10-21T20:06:04.599189+00:00",
+      "penalizacion": 1.0
     },
     {
       "key": "video no va dar cero insolita confesion camionero borracho control vial",
       "title": "[VIDEO] “No va a dar cero”: la insólita confesión de un camionero borracho en un control vial",
-      "score": 0.056,
+      "score": 0.741,
       "sources_count": 1,
       "first_seen": "2026-10-21T14:19:02+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/1792537219029.webp",
@@ -287,45 +401,74 @@
           "TSN Necochea | ‹ VOLVER | Videos | alcoholemia | Irresponsabilidad al volante [VIDEO] “No va a dar cero”: la insólita confesión de un camionero borracho en un control vial Llevaba un trayecto de larga distancia hacia Buenos Aires cuando fue interceptado por la Agencia Nacional de Seguridad Vial. Mirá el momento en que el conductor reconoce la infracción antes del testeo. Por Redacción TSN 21/10/2026 · 11:19 AM Agregar TSN Necochea en La Agencia Nacional de Seguridad Vial (ANSV) detectó en los últimos días a un camionero que circulaba con una alcoholemia de 2,65 g/l .",
           "El hecho ocurrió durante un control de rutina al transporte pesado sobre la Autopista Panamericana . En el video que acompaña esta nota se observa el insólito momento previo al testeo, cuando el propio conductor, de 40 años, anticipó la infracción ante los fiscalizadores: “No va a dar cero” ."
         ],
-        "generated": "2026-10-21T16:09:01.642700+00:00"
+        "generated": "2026-10-21T20:10:31.486711+00:00"
       },
-      "apariciones": 6,
-      "ultima_impresion": "2026-10-21T16:06:54.364984+00:00",
-      "penalizacion": 0.055
+      "apariciones": 7,
+      "ultima_impresion": "2026-10-21T20:06:04.599189+00:00",
+      "penalizacion": 1.0
     },
     {
-      "key": "viene open neco internacional jueves partidos inaugurales",
-      "title": "Se viene el Open Neco Internacional: este jueves son los partidos inaugurales",
-      "score": 0.055,
+      "key": "maraton mamografica supera expectativas ampliara 20 turnos diarios noviembre hospital irurzun",
+      "title": "La Maratón mamográfica supera expectativas y se ampliará a 20 turnos diarios en noviembre en el Hospital Irurzun",
+      "score": 0.731,
       "sources_count": 1,
-      "first_seen": "2026-10-21T14:00:10+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/FOTO-Open-Neco-voley.webp",
+      "first_seen": "2026-10-21T16:20:21+00:00",
+      "image": null,
       "articles": [
         {
-          "portal": "TSN Necochea",
-          "title": "Se viene el Open Neco Internacional: este jueves son los partidos inaugurales",
-          "url": "https://tsnnecochea.com.ar/deportes/se-viene-el-open-neco-internacional-este-jueves-son-los-partidos-inaugurales-240235/",
-          "published_at": "2026-10-21T14:00:10+00:00",
-          "first_seen": "2026-10-21T14:30:01.252046+00:00",
-          "category": "internacional",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/FOTO-Open-Neco-voley.webp"
+          "portal": "Necochea News",
+          "title": "La Maratón mamográfica supera expectativas y se ampliará a 20 turnos diarios en noviembre en el Hospital Irurzun",
+          "url": "https://necocheanews.com.ar/maraton-mamografica-supera-expectativas-y-se-ampliara-a-20-turnos-diarios-en-noviembre-en-el-hospital-irurzun/",
+          "published_at": "2026-10-21T16:20:21+00:00",
+          "first_seen": "2026-10-21T20:06:04.599189+00:00",
+          "category": "LOCALES",
+          "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Deportes | internacional | Vóley Se viene el Open Neco Internacional: este jueves son los partidos inaugurales El abierto de vóley más importante del país vuelve a latir en la ciudad con cientos de equipos masculinos y femeninos Sub 14, Sub 16 y Sub 18, y con la presencia de Molivoleibol de Perú. Por Redacción TSN 21/10/2026 · 11:00 AM Agregar TSN Necochea en Del viernes 23 al domingo 25 de octubre, Necochea será nuevamente escenario del torneo competitivo de vóley de inferiores más grande del país, con la 13ª edición del Open Neco , que este año tendrá carácter internacional.",
-          "Sin embargo, la acción comenzará un día antes, este jueves 22, con dos partidos que tendrán como protagonistas a las peruanas de Molivoleibol y a equipos argentinos de distintas categorías."
+          "Más de 150 mamografías se realizaron en una jornada de 16 horas en Quequén; la alta demanda impulsó la extensión del programa durante todo el mes de noviembre, con turnos sin necesidad de orden médica. La actividad, organizada por el Hospital Municipal José Irurzun de Quequén, se llevó a cabo el 21 de octubre y contó con una atención continua desde las 6 a.m. En ese lapso se completaron más de 150 mamografías, pero la cantidad de mujeres que acudieron superó la capacidad prevista, dejando a muchas sin poder ser atendidas.",
+          "Ante esta situación, la municipalidad decidió mantener la iniciativa en noviembre, ofreciendo 20 turnos diarios que permitirán a las pacientes realizar el estudio sin presentar una orden médica. Si se cumplen todos los turnos programados, el total de mamografías realizadas en el marco de la campaña superará las 500, lo que evidencia la relevancia de facilitar el acceso a los controles preventivos del cáncer de mama."
         ],
-        "generated": "2026-10-21T16:09:02.419640+00:00"
+        "generated": "2026-10-21T20:10:32.262877+00:00"
       },
-      "apariciones": 6,
-      "ultima_impresion": "2026-10-21T16:06:54.364984+00:00",
-      "penalizacion": 0.055
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-21T20:06:04.599189+00:00"
+    },
+    {
+      "key": "fuertes criticas oficialismo local llamado alianza act gobierno nueva necochea retirada",
+      "title": "Fuertes críticas al oficialismo local y llamado a una alianza con la ACT: \"El Gobierno de Nueva Necochea está en retirada\"",
+      "score": 0.712,
+      "sources_count": 1,
+      "first_seen": "2026-10-21T16:01:27+00:00",
+      "image": "https://res.cloudinary.com/dsugba4yh/image/upload/v1792598448/wal_vhz83l.png",
+      "articles": [
+        {
+          "portal": "Informate Necochea",
+          "title": "Fuertes críticas al oficialismo local y llamado a una alianza con la ACT: \"El Gobierno de Nueva Necochea está en retirada\"",
+          "url": "https://informatenecochea.com/noticia/fuertes-criticas-al-oficialismo-local-y-llamado-a-una-alianza-con-la-act-el-gobierno-de-nueva-necochea-esta-en-retirada",
+          "published_at": "2026-10-21T16:01:27+00:00",
+          "first_seen": "2026-10-21T16:02:50.864625+00:00",
+          "category": "Local",
+          "image": "https://res.cloudinary.com/dsugba4yh/image/upload/v1792598448/wal_vhz83l.png"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Inicio / Local Local Fuertes críticas al oficialismo local y llamado a una alianza con la ACT: \"El Gobierno de Nueva Necochea está en retirada\" El dirigente de la Unión Cívica Radical (UCR) y referente del Subcomité de Quequén, Walter Bravo, lanzó un duro diagnóstico sobre el estado socioeconómico del distrito y analizó la coyuntura política local de cara a las próximas instancias electorales.",
+          "Durante su intervención, cuestionó severamente la gestión del intendente Arturo Rojas, ratificó el armado radical en torno a la precandidatura de Alberto \"Beto\" Esnaola y propuso una confluencia opositora con la Agrupación Comunal Transformadora (ACT)."
+        ],
+        "generated": "2026-10-21T20:10:33.854606+00:00"
+      },
+      "apariciones": 3,
+      "ultima_impresion": "2026-10-21T20:06:04.599189+00:00",
+      "penalizacion": 1.0
     },
     {
       "key": "quequen proyectan habilitar estacionamiento ambas manos avenida 502 noche",
       "title": "Quequén: proyectan habilitar el estacionamiento sobre ambas manos de la avenida 502 durante la noche",
-      "score": 0.046,
+      "score": 0.607,
       "sources_count": 1,
       "first_seen": "2026-10-21T14:06:26+00:00",
       "image": null,
@@ -345,74 +488,16 @@
           "La iniciativa surgió tras reuniones con comerciantes de la zona costera y apunta a ampliar los lugares disponibles durante la temporada de verano. El proyecto permitiría estacionar de 21 a 3 sobre ambas márgenes del sector comercial de la avenida 502.",
           "Charlando con Fede Cañadas en “Esta Mañana”, por NEC Radio 98.3 del Multimedio NQ, María Cellerino, directora del Observatorio Vial , explicó el proyecto de ordenanza que busca modificar durante el verano el esquema de estacionamiento sobre la avenida 502, en la costa de Quequén. La propuesta surgió luego de reuniones mantenidas con comerciantes del sector y contempla permitir que, entre las 21 y las 3 de la madrugada , los vehículos puedan estacionarse sobre ambas márgenes de la avenida dentro del tramo donde se concentra la actividad comercial y nocturna."
         ],
-        "generated": "2026-10-21T16:09:33.411184+00:00"
-      },
-      "apariciones": 6,
-      "ultima_impresion": "2026-10-21T16:06:54.364984+00:00",
-      "penalizacion": 0.055
-    },
-    {
-      "key": "oro necochea ambika peralta consagro campeona bonaerenses",
-      "title": "Oro para Necochea: Ambika Peralta se consagró campeona en los Bonaerenses",
-      "score": 0.039,
-      "sources_count": 1,
-      "first_seen": "2026-10-21T12:12:00+00:00",
-      "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/21-10-FOTO-Todos-al-Agua-Bonaerenses-26.jpg",
-      "articles": [
-        {
-          "portal": "Diario NQ",
-          "title": "Oro para Necochea: Ambika Peralta se consagró campeona en los Bonaerenses",
-          "url": "https://diarionq.com.ar/oro-para-necochea-ambika-peralta-se-consagro-campeona-en-los-bonaerenses/",
-          "published_at": "2026-10-21T12:12:00+00:00",
-          "first_seen": "2026-10-21T12:30:00.702416+00:00",
-          "category": "Deportes",
-          "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/21-10-FOTO-Todos-al-Agua-Bonaerenses-26.jpg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La nadadora de la Escuela Municipal “Todos al Agua” obtuvo la medalla de oro en los 25 metros espalda S14 y le dio al distrito su primera presea en las finales de los 35° Juegos Bonaerenses 2026. Además, la delegación necochense sumó importantes triunfos en los deportes de conjunto. Necochea tuvo un comienzo destacado en las finales de los 35° Juegos Bonaerenses 2026, que se desarrollan en Mar del Plata.",
-          "Durante la jornada del martes 20 de octubre, la delegación local consiguió su primera medalla gracias a la natación adaptada municipal, con una actuación sobresaliente de Ambika Peralta. La alumna de la Escuela Municipal “Todos al Agua” se consagró campeona en la prueba de 25 metros espalda, categoría S14, y se quedó con la medalla de oro, coronando el trabajo y la preparación realizados para llegar a esta instancia provincial."
-        ],
-        "generated": "2026-10-21T16:09:45.604527+00:00"
-      },
-      "apariciones": 6,
-      "ultima_impresion": "2026-10-21T16:06:54.364984+00:00",
-      "penalizacion": 0.055
-    },
-    {
-      "key": "tramites anses como sacar turno oficina local cualquier delegacion pais",
-      "title": "Trámites de ANSES: cómo sacar turno para la oficina local o cualquier delegación del país",
-      "score": 0.03,
-      "sources_count": 1,
-      "first_seen": "2026-10-21T13:50:52+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/10/anses.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Trámites de ANSES: cómo sacar turno para la oficina local o cualquier delegación del país",
-          "url": "https://tsnnecochea.com.ar/generales/tramites-de-anses-como-sacar-turno-para-la-oficina-local-o-cualquier-delegacion-del-pais-240236/",
-          "published_at": "2026-10-21T13:50:52+00:00",
-          "first_seen": "2026-10-21T14:00:01.111692+00:00",
-          "category": "ANSES",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/10/anses.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Generales | ANSES | ANSES Trámites de ANSES: cómo sacar turno para la oficina local o cualquier delegación del país La modalidad permite realizar gestiones sin importar el domicilio registrado, ideal para vecinos de Necochea y Quequén que viajan o trabajan fuera de la ciudad. El paso a paso para hacer el trámite por la web.",
-          "Por Redacción TSN 21/10/2026 · 10:50 AM Agregar TSN Necochea en ANSES recordó que los ciudadanos pueden solicitar un turno a través de su sitio web para ser atendidos en cualquier oficina del país, independientemente de la dirección que figura en su DNI. Esta modalidad busca contempla situaciones laborales, familiares, de viaje o de residencia transitoria que puedan dificultar la gestión en la delegación correspondiente por domicilio."
-        ],
-        "generated": "2026-10-21T16:09:03.185475+00:00"
+        "generated": "2026-10-21T20:10:58.681210+00:00"
       },
       "apariciones": 7,
-      "ultima_impresion": "2026-10-21T16:06:54.364984+00:00",
-      "penalizacion": 0.03
+      "ultima_impresion": "2026-10-21T20:06:04.599189+00:00",
+      "penalizacion": 1.0
     },
     {
       "key": "nuevo pliego transporte cuatro lineas obligatorias 16 colectivos expectativa nuevos oferentes",
       "title": "Nuevo pliego del transporte: cuatro líneas obligatorias, 16 colectivos y expectativa por nuevos oferentes",
-      "score": 0.024,
+      "score": 0.582,
       "sources_count": 1,
       "first_seen": "2026-10-21T13:36:10+00:00",
       "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-21-at-09.27.33-scaled.jpeg",
@@ -432,16 +517,16 @@
           "La concejal Evangelina Almada explicó los cambios introducidos luego de dos licitaciones desiertas. El nuevo esquema reduce las exigencias para atraer empresas, mantiene la continuidad de los trabajadores y establece que la tarifa, las frecuencias, la cantidad y antigüedad de las unidades tendrán incidencia en el puntaje de cada propuesta. El Concejo prevé tratar el pliego este jueves.",
           "Charlando con Fede Cañadas en “Esta Mañana”, por NEC Radio 98.3 del Multimedio NQ, la concejal de Fuerza Patria Evangelina Almada analizó el nuevo pliego para concesionar el transporte público de Necochea y Quequén y aseguró que el principal objetivo es conseguir competencia después de dos llamados en los que no se presentó ninguna empresa. La edil reconoció que las exigencias fueron reducidas respecto de las licitaciones anteriores para intentar que el servicio resulte más atractivo para potenciales inversores."
         ],
-        "generated": "2026-10-21T16:09:35.516063+00:00"
+        "generated": "2026-10-21T20:11:00.649572+00:00"
       },
-      "apariciones": 7,
-      "ultima_impresion": "2026-10-21T16:06:54.364984+00:00",
-      "penalizacion": 0.03
+      "apariciones": 8,
+      "ultima_impresion": "2026-10-21T20:06:04.599189+00:00",
+      "penalizacion": 1.0
     },
     {
       "key": "almada defendio salud municipal advirtio impacto crisis hospitales caps",
       "title": "Almada defendió la salud municipal y advirtió por el impacto de la crisis en hospitales y CAPS",
-      "score": 0.024,
+      "score": 0.581,
       "sources_count": 1,
       "first_seen": "2026-10-21T13:34:36+00:00",
       "image": null,
@@ -461,45 +546,16 @@
           "La concejal de Fuerza Patria cuestionó la política económica nacional y sostuvo que la pérdida de empleo y el deterioro de los ingresos aumentan la presión sobre el sistema público. Pese a integrar la oposición local, destacó el funcionamiento de los hospitales Ferreyra e Irurzun y remarcó la carga presupuestaria que implica para el Municipio sostener dos hospitales y la red de atención primaria. Charlando con Fede Cañadas en “Esta Mañana”, por NEC Radio 98.3 del Multimedio NQ, la concejal Evangelina Almada analizó el impacto de la situación económica sobre las familias y advirtió que el deterioro de los ingresos termina repercutiendo también sobre las cuentas municipales y el sistema público de salud.",
           "La edil vinculó la pérdida de puestos laborales, el endeudamiento de las familias y las dificultades para afrontar servicios básicos con un crecimiento de la demanda sobre hospitales y centros de atención primaria. “Primero tenés que comer."
         ],
-        "generated": "2026-10-21T16:09:37.752352+00:00"
-      },
-      "apariciones": 7,
-      "ultima_impresion": "2026-10-21T16:06:54.364984+00:00",
-      "penalizacion": 0.03
-    },
-    {
-      "key": "mural hecho todos inauguraron obra comunitaria quequen",
-      "title": "“¡Un mural hecho entre todos!”: inauguraron una obra comunitaria en Quequén",
-      "score": 0.015,
-      "sources_count": 1,
-      "first_seen": "2026-10-21T13:00:15+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/e1152a74-19cd-40e6-bf35-b1cc6b170f84.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "“¡Un mural hecho entre todos!”: inauguraron una obra comunitaria en Quequén",
-          "url": "https://tsnnecochea.com.ar/generales/un-mural-hecho-entre-todos-inauguraron-una-obra-comunitaria-en-quequen-240210/",
-          "published_at": "2026-10-21T13:00:15+00:00",
-          "first_seen": "2026-10-21T13:30:01.271615+00:00",
-          "category": "barrio cultura",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/e1152a74-19cd-40e6-bf35-b1cc6b170f84.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Generales | barrio cultura | Compromiso “¡Un mural hecho entre todos!”: inauguraron una obra comunitaria en Quequén Fue un trabajo colectivo impulsado por la Comisión Vecinal Playas de Quequén junto a programas municipales, jóvenes y vecinos del barrio. Por Redacción TSN 21/10/2026 · 10:00 AM Agregar TSN Necochea en La sede de la Comisión Vecinal Playas de Quequén luce una nueva fisonomía colmada de color, arte e identidad tras la finalización de un mural participativo realizado en forma comunitaria.",
-          "La iniciativa demandó el esfuerzo conjunto de diversos actores de la localidad. Desde la comisión vecinal destacaron especialmente el acompañamiento de los programas Envión y Barrio Cultura , el trabajo de las profesoras de arte y el entusiasmo de los adolescentes y vecinos que se sumaron a pincelar la obra."
-        ],
-        "generated": "2026-10-21T16:09:30.773492+00:00"
+        "generated": "2026-10-21T20:11:02.641900+00:00"
       },
       "apariciones": 8,
-      "ultima_impresion": "2026-10-21T16:06:54.364984+00:00",
-      "penalizacion": 0.017
+      "ultima_impresion": "2026-10-21T20:06:04.599189+00:00",
+      "penalizacion": 1.0
     },
     {
       "key": "roberto gomez propuso crear agencia turismo mercado pesca artesanal generar empleo necochea",
       "title": "Roberto Gómez propuso crear una agencia de turismo y un mercado de pesca artesanal para generar empleo en Necochea",
-      "score": 0.007,
+      "score": 0.292,
       "sources_count": 1,
       "first_seen": "2026-10-21T12:41:02+00:00",
       "image": null,
@@ -519,16 +575,16 @@
           "El referente del Frente Grande cuestionó la falta de planificación para aprovechar el potencial productivo y turístico del distrito. Planteó recuperar un organismo específico de promoción turística, impulsar la comercialización directa de pescado fresco, reducir tasas para atraer inversiones y desarrollar un parque industrial en Quequén.",
           "También analizó la crisis laboral, la caída del poder adquisitivo y el escenario político hacia 2027. En diálogo con el periodista Miguel Abálsamo, en NEC Radio 98.3 del Multimedio NQ, el dirigente del Frente Grande Roberto Gómez analizó las dificultades que atraviesa Necochea para generar nuevos puestos de trabajo y presentó una serie de propuestas destinadas a fortalecer la economía local."
         ],
-        "generated": "2026-10-21T16:09:39.839581+00:00"
+        "generated": "2026-10-21T20:11:04.669835+00:00"
       },
-      "apariciones": 9,
-      "ultima_impresion": "2026-10-21T16:06:54.364984+00:00",
-      "penalizacion": 0.009
+      "apariciones": 10,
+      "ultima_impresion": "2026-10-21T20:06:04.599189+00:00",
+      "penalizacion": 0.541
     },
     {
       "key": "sala llena encuentro juvenil teatro celebra 15 edicion necochea",
       "title": "A sala llena, el Encuentro Juvenil de Teatro celebra su 15ª edición en Necochea",
-      "score": 0.004,
+      "score": 0.156,
       "sources_count": 1,
       "first_seen": "2026-10-21T12:22:26+00:00",
       "image": null,
@@ -548,127 +604,11 @@
           "La propuesta reúne a estudiantes de escuelas secundarias que presentan sus propias obras sobre el escenario del Teatro Municipal Luis Sandrini. Patricia Alarcón destacó la gran convocatoria, el acceso gratuito y el valor educativo de una iniciativa que se desarrolla hasta el viernes 23 de octubre. El Encuentro Juvenil de Teatro de Necochea atraviesa una nueva edición con una importante participación de estudiantes y salas colmadas durante las primeras jornadas.",
           "La iniciativa, que este año celebra su 15ª edición, comenzó el lunes 19 de octubre y continuará hasta el viernes 23 en el Teatro Municipal Luis Sandrini. En diálogo con el periodista Miguel Abálsamo, en NEC Radio 98.3 del Multimedio NQ, Patricia Alarcón, integrante del equipo organizador, destacó la respuesta de las escuelas y el entusiasmo de los adolescentes que participan tanto desde el escenario como desde las butacas."
         ],
-        "generated": "2026-10-21T16:09:41.635530+00:00"
+        "generated": "2026-10-21T20:11:06.677701+00:00"
       },
-      "apariciones": 10,
-      "ultima_impresion": "2026-10-21T16:06:54.364984+00:00",
-      "penalizacion": 0.005
-    },
-    {
-      "key": "necochea conquista primera medalla oro natacion adaptada 35 juegos bonaerenses",
-      "title": "Necochea conquista su primera medalla de oro en natación adaptada en los 35° Juegos Bonaerenses",
-      "score": 0.004,
-      "sources_count": 1,
-      "first_seen": "2026-10-21T12:18:32+00:00",
-      "image": null,
-      "articles": [
-        {
-          "portal": "Necochea News",
-          "title": "Necochea conquista su primera medalla de oro en natación adaptada en los 35° Juegos Bonaerenses",
-          "url": "https://necocheanews.com.ar/necochea-conquista-su-primera-medalla-de-oro-en-natacion-adaptada-en-los-35-juegos-bonaerenses/",
-          "published_at": "2026-10-21T12:18:32+00:00",
-          "first_seen": "2026-10-21T12:30:00.702416+00:00",
-          "category": "LOCALES",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Ambika Peralta se coronó campeona en la prueba de 25 metros espalda S14, logrando la primera medalla de oro para la delegación necocheense en la jornada del martes 20 de octubre en Mar del Plata. La delegación de Necochea inició su participación en las finales de los 35° Juegos Bonaerenses el martes 20, compitiendo en disciplinas convencionales y en categorías para personas con discapacidad (PCD). La primera medalla llegó desde la natación adaptada municipal. Natación adaptada Ambika Peralta, alumna de la escuela “Todos al Agua”, obtuvo el oro en 25 metros espalda S14.",
-          "En la misma prueba, Thiago García se ubicó en el sexto puesto y Huilen Cuello alcanzó la décima posición. Resultados individuales En atletismo, Isabella Vallota quedó décima en los 1 200 metros. En la rama PCD, Tatiana Rodríguez obtuvo el sexto lugar en salto de longitud, categoría Intelectual A + 16."
-        ],
-        "generated": "2026-10-21T16:09:42.539266+00:00"
-      },
-      "apariciones": 10,
-      "ultima_impresion": "2026-10-21T16:06:54.364984+00:00",
-      "penalizacion": 0.005
-    },
-    {
-      "key": "whatsapp prueba herramienta identificar llamadas numeros desconocidos android",
-      "title": "WhatsApp prueba una herramienta para identificar llamadas de números desconocidos en Android",
-      "score": 0.004,
-      "sources_count": 1,
-      "first_seen": "2026-10-21T12:14:50+00:00",
-      "image": null,
-      "articles": [
-        {
-          "portal": "Necochea News",
-          "title": "WhatsApp prueba una herramienta para identificar llamadas de números desconocidos en Android",
-          "url": "https://necocheanews.com.ar/whatsapp-prueba-una-herramienta-para-identificar-llamadas-de-numeros-desconocidos-en-android/",
-          "published_at": "2026-10-21T12:14:50+00:00",
-          "first_seen": "2026-10-21T12:30:00.702416+00:00",
-          "category": "TECNOLOGIA",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La aplicación de mensajería está evaluando una función que permite conocer el motivo de una llamada antes de contestarla, con el objetivo de reducir el spam y prevenir estafas telefónicas. WhatsApp ha detectado en la versión beta 2.26.41.4 para Android un nuevo filtro de llamadas que solicita al interlocutor que explique brevemente por qué se comunica. La respuesta se transcribe de forma privada y se muestra al destinatario, quien decide si atender, silenciar o bloquear el número.",
-          "### Funcionamiento de la opción de verificación Al activar el filtro, la aplicación responde automáticamente a la llamada y pide al emisor que indique el motivo del contacto. La respuesta de voz se convierte en texto mediante un proceso que se ejecuta exclusivamente en el dispositivo, sin enviar datos a servidores externos. El usuario recibe la transcripción y puede valorar si la llamada es legítima o potencialmente fraudulenta."
-        ],
-        "generated": "2026-10-21T16:09:43.435069+00:00"
-      },
-      "apariciones": 10,
-      "ultima_impresion": "2026-10-21T16:06:54.364984+00:00",
-      "penalizacion": 0.005
-    },
-    {
-      "key": "julian alvarez volvio marcar gol atletico madrid seis meses sequia",
-      "title": "Julián Álvarez volvió a marcar un gol con Atlético Madrid tras seis meses de sequía",
-      "score": 0.004,
-      "sources_count": 1,
-      "first_seen": "2026-10-21T12:08:23+00:00",
-      "image": null,
-      "articles": [
-        {
-          "portal": "Necochea News",
-          "title": "Julián Álvarez volvió a marcar un gol con Atlético Madrid tras seis meses de sequía",
-          "url": "https://necocheanews.com.ar/julian-alvarez-rompe-la-sequia-de-seis-meses-y-anota-para-el-atletico-en-la-champions-league-contra-el-stuttgart/",
-          "published_at": "2026-10-21T12:08:23+00:00",
-          "first_seen": "2026-10-21T12:30:00.702416+00:00",
-          "category": "DEPORTES",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El delantero argentino volvió a encontrar la red en el empate 1‑1 frente al club alemán, poniendo fin a una racha sin goles que se prolongaba desde abril. El gol llegó en el minuto 2 del tiempo complementario de la segunda mitad, cuando Ademola Lookman centró desde la banda derecha y Álvarez, con un disparo de primera, colocó el balón en el ángulo. El tanto fue decisivo, ya que el Stuttgart había adelantado a Jamie Leweling en la primera mitad.",
-          "Con ese gol, Álvarez alcanzó los 50 goles con la camiseta rojiblanca en todas las competiciones, convirtiéndose en el sexto jugador en lograr la cifra bajo la dirección de Diego Simeone. El delantero no marcaba desde el penal que anotó en el 1‑1 contra el Arsenal en abril. El encuentro se complicó para el Atlético cuando, a los 19 minutos de la segunda mitad, Morten Hjulmand recibió la segunda amarilla y fue expulsado, dejando al equipo con diez jugadores."
-        ],
-        "generated": "2026-10-21T16:09:46.259659+00:00"
-      },
-      "apariciones": 10,
-      "ultima_impresion": "2026-10-21T16:06:54.364984+00:00",
-      "penalizacion": 0.005
-    },
-    {
-      "key": "hotesur sauces casacion unifico causas cristina kirchner solo juicio",
-      "title": "Hotesur y Los Sauces: Casación unificó las causas contra Cristina Kirchner en un solo juicio",
-      "score": 0.004,
-      "sources_count": 1,
-      "first_seen": "2026-10-21T12:00:44+00:00",
-      "image": null,
-      "articles": [
-        {
-          "portal": "Necochea News",
-          "title": "Hotesur y Los Sauces: Casación unificó las causas contra Cristina Kirchner en un solo juicio",
-          "url": "https://necocheanews.com.ar/corte-de-casacion-unifica-los-procesos-hotesur-y-los-sauces-contra-cristina-y-maximo-kirchner-en-un-solo-juicio-oral/",
-          "published_at": "2026-10-21T12:00:44+00:00",
-          "first_seen": "2026-10-21T12:30:00.702416+00:00",
-          "category": "NACIONALES",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "*La Cámara Federal de Casación Penal revocó la decisión que separaba los expedientes y ordenó que ambos casos se tramiten conjuntamente, modificando el calendario judicial previamente establecido.* La justicia federal decidió que las causas Hotesur y Los Sauces, que investigan a la expresidenta Cristina Fernández de Kirchner y a su hijo Máximo Kirchner por presunto lavado de activos y asociación ilícita, se juzguen en un único proceso oral. La medida fue adoptada por mayoría en la Sala I de la Cámara Federal de Casación Penal.",
-          "### Decisión de la Cámara Los magistrados Diego Barroetaveña y Daniel Petrone votaron a favor de la unificación, mientras que Alejandro Slokar emitió voto disidente. Con la resolución, la Corte revocó la anterior determinación del Tribunal Oral Federal 5, integrado por los jueces José Michilini, Adriana Palliotti y Fernando Machado Pelloni, que había dispuesto la realización de dos juicios separados."
-        ],
-        "generated": "2026-10-21T16:09:47.171399+00:00"
-      },
-      "apariciones": 10,
-      "ultima_impresion": "2026-10-21T16:06:54.364984+00:00",
-      "penalizacion": 0.005
+      "apariciones": 11,
+      "ultima_impresion": "2026-10-21T20:06:04.599189+00:00",
+      "penalizacion": 0.298
     }
   ]
 }
