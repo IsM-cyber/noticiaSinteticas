@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-22T12:03:45.863258+00:00",
+  "generated_at": "2026-10-22T12:30:00.564469+00:00",
   "article_count": 135,
   "fetch_errors": [],
   "stories": [
     {
       "key": "necochea suma medallas varios triunfos finales juegos bonaerenses 2026 mar plata",
       "title": "Necochea suma 7 medallas y varios triunfos en las finales de los Juegos Bonaerenses 2026 en Mar del Plata",
-      "score": 1.448,
+      "score": 1.202,
       "sources_count": 2,
       "first_seen": "2026-10-22T11:47:20+00:00",
       "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/IMG-20261021-WA0114.jpg",
@@ -35,16 +35,190 @@
           "La delegación municipal amplió su podio el miércoles 21 de octubre, destacándose en atletismo, natación adaptada y en varios deportes de conjunto. La Dirección de Deportes y la Dirección de Cultura de la Municipalidad siguieron la participación de los atletas necochenses en la fase final del certamen provincial. En la jornada se registraron nuevos triunfos y medallas en distintas disciplinas.",
           "Atletismo y natación adaptada Juanita Souto, de la Escuela Municipal, se coronó campeona y obtuvo la medalla de oro en salto de longitud. En la rama paralímpica, Tiziano Larrea logró el bronce en lanzamiento de clava y Mateo Velasco repitió la hazaña con otro bronce en lanzamiento de bala. En la natación PCD, la escuela “Todos al Agua” consiguió tres medallas: Lucio Arregui se llevó el oro en los 50 m libres, Dalila González la plata en 50 m espalda y Agustín Guedes el bronce en 50 m libres."
         ],
-        "generated": "2026-10-22T12:03:55.470210+00:00"
+        "generated": "2026-10-22T12:30:10.628432+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-10-22T12:03:45.863258+00:00",
-      "penalizacion": 0.593
+      "apariciones": 3,
+      "ultima_impresion": "2026-10-22T12:30:00.564469+00:00",
+      "penalizacion": 0.51
+    },
+    {
+      "key": "concejo deliberante tratara jueves pliego transporte destrabar licitacion colectivos",
+      "title": "El Concejo Deliberante tratará este jueves el pliego del transporte para destrabar la licitación de colectivos",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-22T12:30:00.564469+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261021173121_01-02-foto-colectivos-festival.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "El Concejo Deliberante tratará este jueves el pliego del transporte para destrabar la licitación de colectivos",
+          "url": "https://necocheadigital.com/nota/119967/el-concejo-deliberante-tratara-este-jueves-el-pliego-del-transporte-para-destrabar-la-licitacion-de-colectivos/",
+          "published_at": null,
+          "first_seen": "2026-10-22T12:30:00.564469+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El Honorable Concejo Deliberante llevará a cabo este jueves su décimo segunda sesión ordinaria, donde el tema central será el tratamiento del nuevo pliego de bases y condiciones para licitar el servicio de colectivos urbanos. Tras dos licitaciones que quedaron desiertas y en medio de la prórroga de la concesión actual, la propuesta busca destrabar la llegada de empresas interesadas mediante una flexibilización de las exigencias técnicas, sin descuidar las garantías para los trabajadores ni los mecanismos de control municipal.",
+          "El proyecto del Departamento Ejecutivo plantea una concesión por un plazo de 20 años —con opción a prórroga— y reestructura el esquema con nueve recorridos en total."
+        ],
+        "generated": "2026-10-22T12:30:13.290395+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-22T12:30:00.564469+00:00"
+    },
+    {
+      "key": "nino provincia lanzo visor hidrometeorologico tiempo real monitorear lluvias niveles agua",
+      "title": "El Niño: La Provincia lanzó un visor hidrometeorológico en tiempo real para monitorear lluvias y niveles de agua",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-22T12:30:00.564469+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261021173726_whatsapp-image-2026-10-21-at-17-37-14.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "El Niño: La Provincia lanzó un visor hidrometeorológico en tiempo real para monitorear lluvias y niveles de agua",
+          "url": "https://necocheadigital.com/nota/119968/el-nino-la-provincia-lanzo-un-visor-hidrometeorologico-en-tiempo-real-para-monitorear-lluvias-y-niveles-de-agua/",
+          "published_at": null,
+          "first_seen": "2026-10-22T12:30:00.564469+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La presentación oficial se realizó en la ciudad de Bragado y estuvo encabezada por el ministro de Infraestructura y Servicios Públicos, Gabriel Katopodis, junto a su par de Desarrollo Agrario, Javier Rodríguez, y el presidente de la Autoridad del Agua (ADA), Damián Costamagna. La iniciativa fue desarrollada a través del Sistema Inteligente de Monitoreo para la Prevención y Análisis del Riesgo Hidrometeorológico (SIMPARH), dependiente del Ministerio de Infraestructura, en articulación constante con la cartera ambiental y los municipios.",
+          "El sistema funciona a través de la integración de 150 Estaciones de Monitoreo Automático (EMA) distribuidas en distintos puntos de la provincia, de las cuales 42 corresponden a la gestión directa del gobierno provincial y el resto a redes asociadas."
+        ],
+        "generated": "2026-10-22T12:30:13.954736+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-22T12:30:00.564469+00:00"
+    },
+    {
+      "key": "martin totaro amplia apuesta necochea barberia entrenamiento personalizado",
+      "title": "Martín Totaro amplía su apuesta en Necochea: de la barbería al entrenamiento personalizado",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-22T12:30:00.564469+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/db3e7e49d6bb03c55cf57dff336910a8d6420de1.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Martín Totaro amplía su apuesta en Necochea: de la barbería al entrenamiento personalizado",
+          "url": "https://necocheadigital.com/nota/119964/martin-totaro-amplia-su-apuesta-en-necochea-de-la-barberia-al-entrenamiento-personalizado/",
+          "published_at": null,
+          "first_seen": "2026-10-22T12:30:00.564469+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El comerciante necochense Martín Totaro continúa apostando al desarrollo de sus emprendimientos y amplía su propuesta de servicios. Reconocido por su trabajo en el rubro de la barbería y por la atención brindada a sus clientes, ahora avanza hacia un nuevo desafío: el entrenamiento físico personalizado.",
+          "Se trata de TOTARO GYM , un espacio orientado al gimnasio, el fitness y la musculación, que busca ofrecer una alternativa para quienes desean entrenar, mejorar su condición física y trabajar en sus objetivos personales. Una nueva propuesta para el bienestar físico Bajo el lema “Acá comienza tu mejor versión” , el emprendimiento se presenta como una nueva opción para quienes buscan incorporar la actividad física a su rutina y contar con un espacio dedicado al entrenamiento."
+        ],
+        "generated": "2026-10-22T12:30:15.021503+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-22T12:30:00.564469+00:00"
+    },
+    {
+      "key": "juan parka bernal lleva necochea mundial kickboxing wkf",
+      "title": "Juan “La Parka” Bernal lleva a Necochea al Mundial de Kickboxing de la WKF",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-22T12:30:00.564469+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/839ba52913e6e2f5db8a43659c1cdf3d14d85051.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Juan “La Parka” Bernal lleva a Necochea al Mundial de Kickboxing de la WKF",
+          "url": "https://necocheadigital.com/nota/119963/juan-la-parka-bernal-lleva-a-necochea-al-mundial-de-kickboxing-de-la-wkf/",
+          "published_at": null,
+          "first_seen": "2026-10-22T12:30:00.564469+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Juan “La Parka” Bernal ya se encuentra en el Campeonato Mundial de la WKF, donde afrontará uno de los desafíos más importantes de su trayectoria deportiva. El representante de Necochea buscará destacarse en una competencia internacional que reúne a más de 1.200 competidores provenientes de más de 50 países. Tras la ceremonia inaugural, el peleador se prepara para iniciar su participación en cuatro modalidades, distribuidas entre las disciplinas de tatami y ring.",
+          "Con esfuerzo, preparación y grandes expectativas, Bernal llevará la bandera de la ciudad y de toda la Costa Atlántica a un escenario de nivel mundial. Cuatro modalidades para buscar una destacada actuación La actividad de Bernal comenzará este miércoles con las competencias de tatami, donde participará en point fight y light contact ."
+        ],
+        "generated": "2026-10-22T12:30:16.062499+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-22T12:30:00.564469+00:00"
+    },
+    {
+      "key": "maraton mamografica supero expectativas continuara noviembre turnos orden medica",
+      "title": "La maratón mamográfica superó las expectativas y continuará en noviembre con turnos sin orden médica",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-22T12:30:00.564469+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261021113731_21-10-foto-maraton-mamografica.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "La maratón mamográfica superó las expectativas y continuará en noviembre con turnos sin orden médica",
+          "url": "https://necocheadigital.com/nota/119962/la-maraton-mamografica-supero-las-expectativas-y-continuara-en-noviembre-con-turnos-sin-orden-medica/",
+          "published_at": null,
+          "first_seen": "2026-10-22T12:30:00.564469+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La respuesta de las vecinas superó ampliamente las expectativas y convirtió a la maratón mamográfica del Hospital Municipal José Irurzun de Quequén en una jornada de gran convocatoria . Durante más de 16 horas de atención ininterrumpida, desde las 6 de la mañana, se realizaron más de 150 mamografías, pero la demanda fue tan importante que el tiempo disponible no alcanzó para atender a todas las mujeres que se acercaron .",
+          "Frente a esta situación, se decidió dar continuidad a la iniciativa durante noviembre, con 20 turnos diarios que permitirán realizarse mamografías sin necesidad de presentar una orden médica. De esta manera, la propuesta se extendió más allá de la jornada original para responder a la importante cantidad de mujeres que buscan acceder a estos estudios."
+        ],
+        "generated": "2026-10-22T12:30:17.152432+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-22T12:30:00.564469+00:00"
+    },
+    {
+      "key": "licitan obras refaccion escuela tecnica 192 millones",
+      "title": "Licitan obras de refacción para la Escuela Técnica Nº 2 por más de $192 millones",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-22T12:30:00.564469+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261021113007_whatsapp-image-2026-10-21-at-11-29-53.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Licitan obras de refacción para la Escuela Técnica Nº 2 por más de $192 millones",
+          "url": "https://necocheadigital.com/nota/119960/licitan-obras-de-refaccion-para-la-escuela-tecnica-n-2-por-mas-de-192-millones/",
+          "published_at": null,
+          "first_seen": "2026-10-22T12:30:00.564469+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La Municipalidad de Necochea puso en marcha el llamado a la Licitación Pública Nº 10/2026 (primer llamado) con el objetivo de ejecutar una serie de importantes obras de infraestructura en la Escuela de Educación Técnica Nº 2. Se trata de una intervención altamente esperada por la comunidad educativa, dado el deterioro del edificio y los múltiples inconvenientes sufridos a lo largo del año debido a filtraciones y otros problemas edilicios.",
+          "El proyecto cuenta con un presupuesto oficial de $192.348.770,60 , financiado mediante fondos de la Provincia de Buenos Aires en articulación con el municipio, tras las gestiones realizadas por el Consejo Escolar de Necochea. El procedimiento se tramita bajo el expediente municipal Nº 3953/2026 (Alcance 1) y el Decreto Nº 3252/2026."
+        ],
+        "generated": "2026-10-22T12:30:17.840424+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-22T12:30:00.564469+00:00"
     },
     {
       "key": "habilitaran registro opinen imposicion nombre momo venegas calle",
       "title": "Habilitarán un registro para que opinen por la imposición del nombre Momo Venegas a una calle",
-      "score": 1.195,
+      "score": 1.069,
       "sources_count": 1,
       "first_seen": "2026-10-22T12:00:54+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-22-at-01.19.46-1.webp",
@@ -64,190 +238,103 @@
           "TSN Necochea | ‹ VOLVER | Locales | calle | En Quequén Habilitarán un registro para que opinen por la imposición del nombre Momo Venegas a una calle Concejales continuaron analizando la solicitud que hizo un particular Por Redacción TSN 22/10/2026 · 09:00 AM Agregar TSN Necochea en El expediente para cambiar el nombre de la calle 528 , en el sector donde se encuentra la seccional 10 de la UATRE , por el de Momo Venegas, avanzó en la Comisión de Legislación del Concejo Deliberante. El concejal de L a Libertad Avanza, Eduardo Caballero , explicó que se acordó dar publicidad al proyecto a través de los canales oficiales del cuerpo legislativo y abrir un registro de oposición para que los vecinos puedan expresar su postura.",
           "La iniciativa había regresado desde la Secretaría Privada del Departamento Ejecutivo con un informe que señalaba que los proyectos no se publican en el Boletín Oficial, sino las normas ya aprobadas."
         ],
-        "generated": "2026-10-22T12:03:56.487096+00:00"
+        "generated": "2026-10-22T12:30:11.627890+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-22T12:03:45.863258+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-10-22T12:30:00.564469+00:00",
+      "penalizacion": 0.928
     },
     {
-      "key": "economia argentina sigue repuntar actividad cayo segundo mes consecutivo",
-      "title": "La economía argentina sigue sin repuntar: la actividad cayó por segundo mes consecutivo",
-      "score": 1.1,
+      "key": "robaron dinero celular empleada panaderia avenida 98",
+      "title": "Robaron dinero y el celular de una empleada en una panadería de avenida 98",
+      "score": 0.984,
       "sources_count": 1,
-      "first_seen": "2026-10-22T12:03:45.863258+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/957ccd77272d232eecb3fb66cdba3659188dcb34.jpg",
+      "first_seen": "2026-10-22T12:18:39+00:00",
+      "image": null,
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "La economía argentina sigue sin repuntar: la actividad cayó por segundo mes consecutivo",
-          "url": "https://necocheadigital.com/nota/119972/la-economia-argentina-sigue-sin-repuntar-la-actividad-cayo-por-segundo-mes-consecutivo/",
-          "published_at": null,
-          "first_seen": "2026-10-22T12:03:45.863258+00:00",
-          "category": null,
+          "portal": "Diario NQ",
+          "title": "Robaron dinero y el celular de una empleada en una panadería de avenida 98",
+          "url": "https://diarionq.com.ar/robaron-dinero-y-el-celular-de-una-empleada-en-una-panaderia-de-avenida-98/",
+          "published_at": "2026-10-22T12:18:39+00:00",
+          "first_seen": "2026-10-22T12:30:00.564469+00:00",
+          "category": "Policiales",
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "La economía argentina continúa mostrando dificultades para consolidar una recuperación. Según los últimos datos del Estimador Mensual de Actividad Económica (EMAE), difundidos por el Indec y correspondientes a agosto, la actividad cayó un 1,74% interanual, marcando el segundo retroceso consecutivo después de la baja del 1,5% registrada en julio. Si bien la medición desestacionalizada mostró una mejora mensual del 0,1% en agosto, ese avance no alcanzó para compensar la contracción del 2,8% del mes anterior.",
-          "El panorama refleja una economía que todavía no logra recuperar un ritmo sostenido de crecimiento, con diferencias importantes entre las distintas actividades productivas y comerciales. Industria y comercio, entre los sectores más afectados Los datos de agosto mostraron que 11 de las 16 ramas de actividad relevadas por el Indec registraron caídas en comparación con el mismo mes de 2025."
+          "El hecho ocurrió este miércoles por la tarde en un comercio ubicado casi en la intersección con calle 63. Personal policial y efectivos de Policía Científica trabajaron en el lugar para avanzar con la investigación. Un nuevo hecho de inseguridad se registró este miércoles en Necochea, cuando un hombre ingresó a una panadería ubicada sobre avenida 98, casi calle 63, y sustrajo dinero en efectivo y el teléfono celular de una trabajadora.",
+          "El episodio ocurrió alrededor de las 17 horas, cuando el sujeto ingresó al establecimiento y se llevó los elementos mencionados. Tras lo sucedido, se dio intervención a las autoridades policiales, que acudieron al comercio para realizar las primeras actuaciones correspondientes. Intervino Policía Científica En el lugar trabajó personal policial junto con efectivos de Policía Científica, quienes llevaron adelante las tareas necesarias para reunir elementos que permitan esclarecer lo ocurrido."
         ],
-        "generated": "2026-10-22T12:03:57.860679+00:00"
+        "generated": "2026-10-22T12:30:20.953553+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-22T12:03:45.863258+00:00"
+      "ultima_impresion": "2026-10-22T12:30:00.564469+00:00"
     },
     {
-      "key": "profesorados necochea educacion garantizo carreras 2027 abrio instancia dialogo",
-      "title": "Profesorados en Necochea: Educación garantizó las carreras para 2027 y abrió una instancia de diálogo",
-      "score": 1.1,
+      "key": "katopodis vuelve necochea reunira rojas recorrera casa provincia",
+      "title": "Katopodis vuelve a Necochea: se reunirá con Rojas y recorrerá la Casa de la Provincia",
+      "score": 0.98,
       "sources_count": 1,
-      "first_seen": "2026-10-22T12:03:45.863258+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/f765982ae7119a9baaec1f8ead65d3d9bef756fd.jpg",
+      "first_seen": "2026-10-22T12:15:28+00:00",
+      "image": null,
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Profesorados en Necochea: Educación garantizó las carreras para 2027 y abrió una instancia de diálogo",
-          "url": "https://necocheadigital.com/nota/119971/profesorados-en-necochea-educacion-garantizo-las-carreras-para-2027-y-abrio-una-instancia-de-dialogo/",
-          "published_at": null,
-          "first_seen": "2026-10-22T12:03:45.863258+00:00",
-          "category": null,
+          "portal": "Diario NQ",
+          "title": "Katopodis vuelve a Necochea: se reunirá con Rojas y recorrerá la Casa de la Provincia",
+          "url": "https://diarionq.com.ar/katopodis-vuelve-a-necochea-se-reunira-con-rojas-y-recorrera-la-casa-de-la-provincia/",
+          "published_at": "2026-10-22T12:15:28+00:00",
+          "first_seen": "2026-10-22T12:30:00.564469+00:00",
+          "category": "Destacadas",
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "La preocupación por el futuro de los profesorados de Educación Inicial e Historia en Necochea llegó a las autoridades educativas regionales. Luego de la movilización protagonizada por estudiantes, docentes y miembros de la comunidad, el jefe Regional de Educación, Emanuel Benítez Mendiburu, ratificó que durante 2027 continuarán todas las carreras que se dictaron este año.",
-          "En una entrevista con Voces de la Tarde , el programa que conduce Jorge Gómez por Radio Noticias Necochea 97.3 FM, el funcionario buscó despejar las dudas sobre una eventual reducción de la oferta académica y explicó que la planificación educativa debe contemplar las necesidades de cada distrito. “Lejos de haber recorte, este año se han incorporado módulos al nivel superior”, afirmó Benítez Mendiburu, quien sostuvo que las versiones que generaron inquietud no reflejan las decisiones adoptadas para el próximo ciclo lectivo."
+          "El ministro de Infraestructura y Servicios Públicos bonaerense llegará este viernes 23 de octubre a la ciudad. La agenda contempla un encuentro con el intendente Arturo Rojas, una visita a la obra de la Casa de la Provincia y posteriormente su participación en un encuentro provincial de jóvenes.",
+          "Charlando con Fede Cañadas en “Esta Mañana”, por NEC Radio 98.3 del Multimedio NQ, la concejal de Fuerza Patria Evangelina Almada confirmó que el ministro de Infraestructura y Servicios Públicos de la provincia de Buenos Aires, Gabriel Katopodis , volverá a visitar Necochea este viernes 23 de octubre , en una jornada que combinará reuniones institucionales, recorridas por obras y una actividad con jóvenes. La llegada del funcionario provincial estaba prevista desde la semana pasada y tendrá como actividad central su participación en un encuentro de jóvenes de alcance provincial que se desarrollará en el camping de UATRE."
         ],
-        "generated": "2026-10-22T12:03:58.545952+00:00"
+        "generated": "2026-10-22T12:30:22.645795+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-22T12:03:45.863258+00:00"
+      "ultima_impresion": "2026-10-22T12:30:00.564469+00:00"
     },
     {
-      "key": "energias renovables innovacion cfp 402 exhibira proyectos aplicaciones concretas necochea",
-      "title": "Energías renovables e innovación: el CFP 402 exhibirá proyectos con aplicaciones concretas en Necochea",
-      "score": 1.1,
+      "key": "dia seguro advierten baja coberturas alta siniestralidad motos autos",
+      "title": "Día del Seguro: advierten una baja en las coberturas y una alta siniestralidad en motos y autos",
+      "score": 0.966,
       "sources_count": 1,
-      "first_seen": "2026-10-22T12:03:45.863258+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/ce10abfa9ff0755a6cf8a1c9f39771ce4a3e277d.jpg",
+      "first_seen": "2026-10-22T12:05:28+00:00",
+      "image": null,
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Energías renovables e innovación: el CFP 402 exhibirá proyectos con aplicaciones concretas en Necochea",
-          "url": "https://necocheadigital.com/nota/119970/energias-renovables-e-innovacion-el-cfp-402-exhibira-proyectos-con-aplicaciones-concretas-en-necochea/",
-          "published_at": null,
-          "first_seen": "2026-10-22T12:03:45.863258+00:00",
-          "category": null,
+          "portal": "Diario NQ",
+          "title": "Día del Seguro: advierten una baja en las coberturas y una alta siniestralidad en motos y autos",
+          "url": "https://diarionq.com.ar/dia-del-seguro-advierten-una-baja-en-las-coberturas-y-una-alta-siniestralidad-en-motos-y-autos/",
+          "published_at": "2026-10-22T12:05:28+00:00",
+          "first_seen": "2026-10-22T12:30:00.564469+00:00",
+          "category": "Interés General",
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "La formación técnica también puede convertirse en una herramienta para resolver problemas cotidianos y mejorar el uso de los recursos. Con esa premisa, el Centro de Formación Profesional (CFP) 402 de Necochea presentará este jueves 22 una serie de proyectos de innovación tecnológica, energías renovables y sustentabilidad.",
-          "La actividad comenzará a las 15 en el salón de eventos de Necopesca, ubicado en avenida 58 y ruta 86, y estará orientada a docentes, estudiantes de los últimos años de escuelas técnicas y personas interesadas en el cuidado ambiental y la eficiencia energética. Norberto “Tano” Cafiel, integrante del equipo docente del centro, brindó detalles de la iniciativa durante una entrevista en Voces de la Tarde , el programa que conduce Jorge Gómez por Radio Noticias Necochea 97.3 FM."
+          "Desde Organización Ferrara señalaron que los usuarios buscan mantener el seguro obligatorio para circular, pero reducen las coberturas para afrontar los costos. También remarcaron el elevado número de siniestros vinculados principalmente con motos y automóviles en Necochea. Desde el móvil de “Esta Mañana”, charlando con Fede Cañadas por NEC Radio 98.3 del Multimedio NQ, integrantes de Organización Ferrara brindaron un breve panorama del sector asegurador local en el marco del Día del Seguro.",
+          "Según explicaron, una de las tendencias que observan actualmente es que los clientes intentan conservar sus pólizas, especialmente aquellas necesarias para circular, aunque en muchos casos optan por disminuir el nivel de cobertura. “Vemos merma y bajas de las coberturas. La gente trata de mantener el seguro, porque es obligatorio para circular, pero busca bajar las coberturas”, señalaron."
         ],
-        "generated": "2026-10-22T12:03:59.211194+00:00"
+        "generated": "2026-10-22T12:30:24.606842+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-22T12:03:45.863258+00:00"
-    },
-    {
-      "key": "salud mental alerta juan marcelo silva advierte malestar social tambien impacta salud",
-      "title": "Salud mental en alerta: Juan Marcelo Silva advierte que el malestar social también impacta en la salud",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-22T12:03:45.863258+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/c47aed3af7fed954bde18b7df69aa8135fa1fc76.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Salud mental en alerta: Juan Marcelo Silva advierte que el malestar social también impacta en la salud",
-          "url": "https://necocheadigital.com/nota/119969/salud-mental-en-alerta-juan-marcelo-silva-advierte-que-el-malestar-social-tambien-impacta-en-la-salud/",
-          "published_at": null,
-          "first_seen": "2026-10-22T12:03:45.863258+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La salud mental se convirtió en una de las principales preocupaciones sociales, en un escenario atravesado por la incertidumbre económica, la precarización laboral, la sobreexposición a la información y las dificultades para sostener los vínculos personales. Así lo planteó el licenciado Juan Marcelo Silva, presidente del Colegio de Psicólogos de la Provincia de Buenos Aires, Distrito IX Necochea, y vicepresidente del Consejo Superior de la entidad.",
-          "Durante una entrevista en Voces de la Tarde , el programa que conduce Jorge Gómez por Radio Noticias Necochea 97.3 FM, el profesional analizó las problemáticas que llegan cada vez con mayor frecuencia a los espacios de atención y remarcó que el sufrimiento emocional no puede explicarse únicamente desde una perspectiva individual."
-        ],
-        "generated": "2026-10-22T12:04:00.287320+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-22T12:03:45.863258+00:00"
-    },
-    {
-      "key": "jorge newbery vencio sportivo san cayetano uno pendientes fecha 20",
-      "title": "Jorge Newbery venció a Sportivo San Cayetano en uno de los pendientes de la fecha 20",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-22T12:03:45.863258+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261021172331_whatsapp-image-2026-10-21-at-17-23-13.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Jorge Newbery venció a Sportivo San Cayetano en uno de los pendientes de la fecha 20",
-          "url": "https://necocheadigital.com/nota/119966/jorge-newbery-vencio-a-sportivo-san-cayetano-en-uno-de-los-pendientes-de-la-fecha-20/",
-          "published_at": null,
-          "first_seen": "2026-10-22T12:03:45.863258+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El equipo dirigido por Gastón Giménez abrió la cuenta en la primera mitad mediante un gol de Valentín Peri. En el inicio del complemento, Thiago Oronó marcó el empate parcial para el representativo sancayetanense, que desperdició una oportunidad clave para meterse en la lucha por el repechaje. Sin embargo, en el tramo final del encuentro, Ezequiel Díaz convirtió el tanto definitivo que decretó la victoria y desató la tranquilidad para el cuadro loberense.",
-          "La victoria de Newbery dejó las posiciones en la parte baja con Rivadavia en el último lugar con 21 unidades, ya sin posibilidades de alcanzar a la escuadra de Lobería. De esta manera, el \"Decano\" deberá ganar sus dos compromisos restantes frente a Villa Díaz Vélez y Villa del Parque (séptimo con 24 puntos) para intentar forzar la promoción y evitar la pérdida directa de la categoría."
-        ],
-        "generated": "2026-10-22T12:04:00.952192+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-22T12:03:45.863258+00:00"
-    },
-    {
-      "key": "cayo banda robo camioneta loberia habian llevado bolso miles dolares",
-      "title": "Cayó una banda que robó una camioneta en Lobería: se habían llevado un bolso con miles de dólares",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-22T12:03:45.863258+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261021171706_whatsapp-image-2026-10-21-at-17-16-47.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Cayó una banda que robó una camioneta en Lobería: se habían llevado un bolso con miles de dólares",
-          "url": "https://necocheadigital.com/nota/119965/cayo-una-banda-que-robo-una-camioneta-en-loberia-se-habian-llevado-un-bolso-con-miles-de-dolares/",
-          "published_at": null,
-          "first_seen": "2026-10-22T12:03:45.863258+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El hecho se desencadenó durante la madrugada, cuando el rodado —dominio ITH 119— fue sustraído mientras se encontraba estacionado sin medidas de seguridad y con las llaves colocadas sobre la calle Brandsen. Al vertirse la alerta al sistema CATE 911 cerca de las 5:30, la Policía Comunal loberense montó un dispositivo cerrojo en las rutas de acceso, mientras que en los monitores de la central local se inició el rastreo en tiempo real. Las cámaras del sistema público detectaron el paso de la camioneta blanca en la intersección de las avenidas 59 y 42.",
-          "En ese punto, los operadores registraron el momento preciso en que dos individuos descendieron del vehículo y retiraron de la caja una bicicleta mountain bike marca Eurobike color verde flúor. Mientras la Hilux continuó su marcha hasta perderse momentáneamente de vista, los operadores mantuvieron el seguimiento de los sospechosos que escapaban a pie con el rodado menor."
-        ],
-        "generated": "2026-10-22T12:04:01.601899+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-22T12:03:45.863258+00:00"
+      "ultima_impresion": "2026-10-22T12:30:00.564469+00:00"
     },
     {
       "key": "concejo deliberante debate nuevo pliego licitar colectivo necochea quequen",
       "title": "El Concejo Deliberante debate el nuevo pliego para licitar el colectivo en Necochea y Quequén",
-      "score": 0.68,
+      "score": 0.564,
       "sources_count": 1,
       "first_seen": "2026-10-22T11:30:58+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/03/thumbnail_17-SI.jpg",
@@ -267,16 +354,16 @@
           "TSN Necochea | ‹ VOLVER | Locales | colectivos | Debate El Concejo Deliberante debate el nuevo pliego para licitar el colectivo en Necochea y Quequén En la 12° sesión ordinaria de este jueves, los concejales analizarán las condiciones del servicio de transporte público de pasajeros por un plazo de 20 años. Además, la agrupación \"Alquimia Rosa\" ocupará la Banca Abierta en el marco del Mes de Concientización sobre el Cáncer de Mama.",
           "Por Redacción TSN 22/10/2026 · 08:30 AM Agregar TSN Necochea en El Honorable Concejo Deliberante de Necochea llevará a cabo este jueves su décimo segunda sesión ordinaria , en la que el debate sobre el futuro del transporte público urbano de pasajeros se erige como el punto neurálgico del orden del día."
         ],
-        "generated": "2026-10-22T12:03:57.160063+00:00"
+        "generated": "2026-10-22T12:30:12.637831+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-10-22T12:03:45.863258+00:00",
-      "penalizacion": 0.593
+      "apariciones": 3,
+      "ultima_impresion": "2026-10-22T12:30:00.564469+00:00",
+      "penalizacion": 0.51
     },
     {
       "key": "sola firma inscribio subasta teatro auditorium casino",
       "title": "Una sola firma se inscribió para la subasta del Teatro Auditórium del Casino",
-      "score": 0.585,
+      "score": 0.486,
       "sources_count": 1,
       "first_seen": "2026-10-22T11:54:51+00:00",
       "image": null,
@@ -296,16 +383,16 @@
           "La empresa A Toda Vela Mar S.A. fue la única que formalizó su inscripción para participar de la subasta pública prevista para este viernes 23 de octubre. El precio base establecido es de $383.819.190. La subasta pública del Teatro Auditórium del Complejo Casino de Necochea se realizará este viernes 23 de octubre, a partir de las 11, en el Salón de Actos Domingo J.",
           "Taraborelli del edificio municipal. Según informó la Municipalidad, la firma A Toda Vela Mar S.A. fue la única que se inscribió para participar del procedimiento, cuyo plazo de inscripción finalizó el martes 20 de octubre."
         ],
-        "generated": "2026-10-22T12:04:03.937396+00:00"
+        "generated": "2026-10-22T12:30:25.426597+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-10-22T12:03:45.863258+00:00",
-      "penalizacion": 0.593
+      "apariciones": 3,
+      "ultima_impresion": "2026-10-22T12:30:00.564469+00:00",
+      "penalizacion": 0.51
     },
     {
       "key": "fallecio saul blanch primer vocalista rata blanca 75 anos",
       "title": "Falleció Saúl Blanch, primer vocalista de Rata Blanca, a los 75 años",
-      "score": 0.578,
+      "score": 0.48,
       "sources_count": 1,
       "first_seen": "2026-10-22T11:45:32+00:00",
       "image": null,
@@ -325,16 +412,16 @@
           "El reconocido pionero del heavy metal argentino murió tras una larga internación; su voz quedó inmortalizada en el álbum debut de la legendaria banda. Saúl Blanch, quien abrió camino en el rock pesado nacional como cantante de Plus y, posteriormente, como la primera voz de Rata Blanca, falleció a los 75 años después de permanecer hospitalizado durante un período prolongado. La noticia fue confirmada por la Agencia Noticias Argentinas.",
           "Primer paso en Rata Blanca En 1988 Blanch participó en la grabación del álbum homónimo de Rata Blanca, aportando su voz a temas que hoy son clásicos, como “El sueño de la gitana”, “Chico callejero”, “Rompe el hechizo” y “Sólo para amarte”. Aunque abandonó el grupo antes del lanzamiento oficial, sus interpretaciones permanecieron en el disco y marcaron el inicio de la carrera discográfica de la banda."
         ],
-        "generated": "2026-10-22T12:04:04.763085+00:00"
+        "generated": "2026-10-22T12:30:26.256261+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-10-22T12:03:45.863258+00:00",
-      "penalizacion": 0.593
+      "apariciones": 3,
+      "ultima_impresion": "2026-10-22T12:30:00.564469+00:00",
+      "penalizacion": 0.51
     },
     {
       "key": "juicio ypf argentina pidio 30 dias responder corte suprema eeuu",
       "title": "Juicio por YPF: Argentina pidió 30 días más para responder ante la Corte Suprema de EEUU",
-      "score": 0.574,
+      "score": 0.477,
       "sources_count": 1,
       "first_seen": "2026-10-22T11:40:44+00:00",
       "image": null,
@@ -354,16 +441,16 @@
           "El Gobierno argentino solicitó una prórroga de un mes para presentar su oposición al pedido de revisión de los demandantes en la causa de la expropiación de YPF, fijando como fecha límite el 2 de diciembre. Con la extensión concedida, Argentina contará con hasta el 2 de diciembre para presentar su escrito de defensa ante la Corte Suprema de Estados Unidos.",
           "La petición se realizó después de que la jueza federal Loretta Preska, de Nueva York, anulara formalmente la sentencia de primera instancia que obligaba al país a pagar una indemnización de US $16.100 millones, cifra que, con intereses, superaba los US $18 mil millones. Antecedentes del litigio El conflicto se originó en 2012, cuando el gobierno de Cristina Kirchner nacionalizó la petrolera YPF."
         ],
-        "generated": "2026-10-22T12:04:05.395953+00:00"
+        "generated": "2026-10-22T12:30:27.073849+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-10-22T12:03:45.863258+00:00",
-      "penalizacion": 0.593
+      "apariciones": 3,
+      "ultima_impresion": "2026-10-22T12:30:00.564469+00:00",
+      "penalizacion": 0.51
     },
     {
       "key": "fecha 21 estacion quequen va ascenso titulo independiente loberia",
       "title": "Fecha 21: Estación Quequén va por el ascenso y el título ante Independiente de Lobería",
-      "score": 0.574,
+      "score": 0.477,
       "sources_count": 1,
       "first_seen": "2026-10-22T11:40:53+00:00",
       "image": null,
@@ -383,16 +470,16 @@
           "El Verde recibirá este sábado, desde las 16, al Rojo en el estadio Carlos Cuomo, en un encuentro que puede quedar en la historia del fútbol local. Multimedio NQ y Nec Radio 98.3 transmitirán en vivo una jornada decisiva, en la que el conjunto quequenense buscará concretar el ansiado ascenso a la Primera A y consagrarse campeón de la Zona B. La Liga Necochea de Fútbol se prepara para vivir un fin de semana cargado de emociones con la disputa de la fecha 21 del Torneo “Sergio ‘Giuseppe’ Portugal” 2026.",
           "Uno de los grandes focos de atención estará puesto en Quequén, donde Estación Quequén afrontará un compromiso trascendental frente a Independiente de Lobería. El encuentro se jugará este sábado, a partir de las 16, en el estadio Carlos Cuomo, ubicado en calle 563 y 576."
         ],
-        "generated": "2026-10-22T12:04:07.400736+00:00"
+        "generated": "2026-10-22T12:30:28.760509+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-10-22T12:03:45.863258+00:00",
-      "penalizacion": 0.593
+      "apariciones": 3,
+      "ultima_impresion": "2026-10-22T12:30:00.564469+00:00",
+      "penalizacion": 0.51
     },
     {
       "key": "feb paro 48 horas resentira dictado clases nuestra ciudad",
       "title": "La FEB de paro de 48 horas y se resentirá el dictado de clases en nuestra ciudad",
-      "score": 0.358,
+      "score": 0.297,
       "sources_count": 1,
       "first_seen": "2026-10-22T11:00:20+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2024/02/aulasjpg.webp",
@@ -412,16 +499,16 @@
           "TSN Necochea | ‹ VOLVER | Educación | clases | Comienza hoy La FEB de paro de 48 horas y se resentirá el dictado de clases en nuestra ciudad La medida de fuerza comenzará este jueves 22 de octubre, en rechazo a la propuesta salarial del Gobierno bonaerense. En Balcarce, la FEB tiene una importante representación dentro del sector docente, por lo que la protesta podría tener un fuerte impacto en las escuelas del distrito.",
           "Por Redacción TSN 22/10/2026 · 08:00 AM Agregar TSN Necochea en La Federación de Educadores Bonaerenses (FEB) anunció un paro de 48 horas que comenzará este jueves 22 de octubre, luego de que su Congreso Extraordinario resolviera rechazar la propuesta salarial presentada por el Gobierno de la provincia de Buenos Aires. La medida de fuerza se definió ante la falta de acuerdo en torno a una recomposición salarial para los trabajadores de la educación."
         ],
-        "generated": "2026-10-22T12:04:03.105155+00:00"
+        "generated": "2026-10-22T12:30:18.958463+00:00"
       },
-      "apariciones": 3,
-      "ultima_impresion": "2026-10-22T12:03:45.863258+00:00",
-      "penalizacion": 0.326
+      "apariciones": 4,
+      "ultima_impresion": "2026-10-22T12:30:00.564469+00:00",
+      "penalizacion": 0.281
     },
     {
       "key": "diputados aprobaron leyes tierras discapacidad mientras morosidad volvio comision",
       "title": "Diputados aprobaron las leyes de Tierras y Discapacidad, mientras que Morosidad volvió a comisión",
-      "score": 0.309,
+      "score": 0.257,
       "sources_count": 1,
       "first_seen": "2026-10-22T11:25:50+00:00",
       "image": null,
@@ -441,11 +528,11 @@
           "*La Cámara de Diputados sancionó la normativa sobre propiedad privada y devolvió al Senado la Ley de Tierras vigente bajo el gobierno de Cristina Kirchner. Paralelamente, la propuesta de reforma para la discapacidad obtuvo 237 votos a favor.* La sesión del 22 de octubre de 2026 culminó con la aprobación de dos proyectos de ley y el envío a comisión de otro relacionado con endeudamiento y morosidad. Con 124 votos a favor, 119 en contra y 6 abstenciones, el oficialismo logró aprobar la Ley de Inviolabilidad de la Propiedad Privada, impulsada por el ministro de Desregulación, Federico Sturzenegger.",
           "El texto vuelve ahora al Senado para su sanción definitiva. Restablecimiento de la Ley de Tierras En el mismo dictamen se reincorporó la Ley de Tierras sancionada durante la gestión de Cristina Kirchner, que limita la venta de terrenos rurales a extranjeros al 15 % del total."
         ],
-        "generated": "2026-10-22T12:04:08.213061+00:00"
+        "generated": "2026-10-22T12:30:29.548552+00:00"
       },
-      "apariciones": 3,
-      "ultima_impresion": "2026-10-22T12:03:45.863258+00:00",
-      "penalizacion": 0.326
+      "apariciones": 4,
+      "ultima_impresion": "2026-10-22T12:30:00.564469+00:00",
+      "penalizacion": 0.281
     },
     {
       "key": "profanaron parroquia nueva pompeya robaron hostias consagradas",
@@ -470,16 +557,16 @@
           "TSN Necochea | ‹ VOLVER | Locales | Nueva Pompeya | En avenida 58 Profanaron la parroquia de Nueva Pompeya y robaron hostias consagradas Monseñor Ernesto Giobando expresó su “profundo dolor y consternación” y convocó a una misa de desagravio. Por Redacción TSN 22/10/2026 · 08:07 AM Agregar TSN Necochea en Un hecho de profanación sacudió a la comunidad católica de Necochea.",
           "En la parroquia Nuestra Señora de Pompeya violentaron el sagrario y robaron el copón que contenía las hostias consagradas, una situación que generó el enérgico repudio del encarado del obispado de Mar del Plata, monseñor Ernesto Giobando. A través de un comunicado difundido este miércoles, el obispo manifestó su “profundo dolor y consternación” por lo ocurrido y advirtió sobre la gravedad de lo sucedido para la comunidad religiosa."
         ],
-        "generated": "2026-10-22T12:04:09.338858+00:00"
+        "generated": "2026-10-22T12:30:30.545571+00:00"
       },
-      "apariciones": 11,
-      "ultima_impresion": "2026-10-22T12:03:45.863258+00:00",
-      "penalizacion": 0.003
+      "apariciones": 12,
+      "ultima_impresion": "2026-10-22T12:30:00.564469+00:00",
+      "penalizacion": 0.002
     },
     {
       "key": "como estara tiempo jueves necochea quequen",
       "title": "Cómo estará el tiempo este jueves en Necochea y Quequén",
-      "score": 0.002,
+      "score": 0.001,
       "sources_count": 1,
       "first_seen": "2026-10-22T04:51:47+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/05/Tren-Turistico-Parque.webp",
@@ -499,16 +586,16 @@
           "TSN Necochea | ‹ VOLVER | Locales | chaparrones | Clima Cómo estará el tiempo este jueves en Necochea y Quequén Datos aportados por el Servicio Meteorológico Nacional Por Redacción TSN 22/10/2026 · 01:51 AM Agregar TSN Necochea en El pronóstico del Servicio Meteorológico Nacional para este jueves 22 de octubre en Necochea indica una temperatura máxima de 11°C y una mínima de 16° C, con vientos del Noreste a 22 km/h. Por la madrugada, la temperatura será de 11° C. El viento es del cuadrante Norte a una velocidad que puede llegar a 12 km/h, con el cielo mayormente nublado.",
           "En la mañana la temperatura será de 11° C, el viento soplará del cuadrante Noreste a una velocidad que puede llegar a 12 km/h, con el cielo mayormente nublado. Por la tarde se espera una temperatura máxima de alrededor de 16 grados, el viento soplará del sector Noreste a una velocidad que pueden llegar a los 22 kilómetros y el cielo mayormente nublado."
         ],
-        "generated": "2026-10-22T12:04:10.419044+00:00"
+        "generated": "2026-10-22T12:30:31.575980+00:00"
       },
-      "apariciones": 11,
-      "ultima_impresion": "2026-10-22T12:03:45.863258+00:00",
-      "penalizacion": 0.003
+      "apariciones": 12,
+      "ultima_impresion": "2026-10-22T12:30:00.564469+00:00",
+      "penalizacion": 0.002
     },
     {
       "key": "aprobo nueva ley discapacidad acuerdo amplio incluyo pj",
       "title": "Se aprobó la nueva ley de Discapacidad tras un acuerdo amplio que incluyó al PJ",
-      "score": 0.002,
+      "score": 0.001,
       "sources_count": 1,
       "first_seen": "2026-10-22T04:31:13+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/540-9.avif",
@@ -528,11 +615,11 @@
           "TSN Necochea | ‹ VOLVER | Locales | Diputados. | Diputados Se aprobó la nueva ley de Discapacidad tras un acuerdo amplio que incluyó al PJ El temario se inició con la discusión del proyecto de Inviolabilidad de la Propiedad Privada. Se aprobaron las leyes de trazabilidad de medicamentos de alto riesgo y vandalismo rural.",
           "Por Redacción TSN 22/10/2026 · 01:31 AM Agregar TSN Necochea en La Cámara de Diputados aprobó hoy con una abrumadora mayoría la nueva ley sobre protección social de la Discapacidad, en el marco de negociaciones que permitieron sumar al peronismo a un acuerdo con La Libertad Avanza y bloques dialoguistas. De esta manera, se alcanzó la media sanción con 237 votos positivos, 9 negativos y cuatro abstenciones."
         ],
-        "generated": "2026-10-22T12:04:11.533122+00:00"
+        "generated": "2026-10-22T12:30:32.533106+00:00"
       },
-      "apariciones": 11,
-      "ultima_impresion": "2026-10-22T12:03:45.863258+00:00",
-      "penalizacion": 0.003
+      "apariciones": 12,
+      "ultima_impresion": "2026-10-22T12:30:00.564469+00:00",
+      "penalizacion": 0.002
     },
     {
       "key": "decano hizo fuerte quequen quedo paso segundo puesto",
@@ -557,48 +644,10 @@
           "Ministerio se impuso por 2-1 frente a Independiente de San Cayetano en Quequén, por la fecha 20 del Torneo “Sergio ‘Giuseppe’ Portugal” 2026. Con este triunfo, llegó a los 37 puntos y quedó a una unidad del segundo puesto de la Zona A. Ministerio de Quequén consiguió una valiosa victoria al derrotar por 2-1 a Independiente de San Cayetano, en uno de los encuentros correspondientes a la vigésima fecha del Torneo “Sergio ‘Giuseppe’ Portugal” 2026. El Decano se hizo fuerte en su cancha y sumó tres puntos fundamentales en la pelea por la clasificación.",
           "Ambos equipos llegaban con la necesidad de ganar para mantenerse bien posicionados en la Zona A. Finalmente, el conjunto quequenense se quedó con el triunfo y dio un paso importante en sus aspiraciones de avanzar a la siguiente instancia. Los goles del local llegaron durante la primera mitad, a través de Lucas Barrera y Pablo Larrea, quienes le dieron a Ministerio una ventaja clave."
         ],
-        "generated": "2026-10-22T12:06:25.751769+00:00"
+        "generated": "2026-10-22T12:32:48.930986+00:00"
       },
-      "apariciones": 17,
-      "ultima_impresion": "2026-10-22T12:03:45.863258+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "prepara 15 encuentro juvenil teatro sala municipal luis sandrini",
-      "title": "SE PREPARA EL 15º ENCUENTRO JUVENIL DE TEATRO EN LA SALA MUNICIPAL «LUIS SANDRINI».",
-      "score": 0.0,
-      "sources_count": 2,
-      "first_seen": "2026-10-21T12:22:26+00:00",
-      "image": null,
-      "articles": [
-        {
-          "portal": "Necochea Libre",
-          "title": "SE PREPARA EL 15º ENCUENTRO JUVENIL DE TEATRO EN LA SALA MUNICIPAL «LUIS SANDRINI».",
-          "url": "https://necochealibre.com.ar/se-prepara-el-15o-encuentro-juvenil-de-teatro-en-la-sala-municipal-luis-sandrini/",
-          "published_at": "2026-10-21T22:36:14+00:00",
-          "first_seen": "2026-10-21T23:00:01.092604+00:00",
-          "category": "Generales",
-          "image": null
-        },
-        {
-          "portal": "Diario NQ",
-          "title": "A sala llena, el Encuentro Juvenil de Teatro celebra su 15ª edición en Necochea",
-          "url": "https://diarionq.com.ar/a-sala-llena-el-encuentro-juvenil-de-teatro-celebra-su-15a-edicion-en-necochea/",
-          "published_at": "2026-10-21T12:22:26+00:00",
-          "first_seen": "2026-10-21T22:00:00.567972+00:00",
-          "category": "La ciudad",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Generales SE PREPARA EL 15º ENCUENTRO JUVENIL DE TEATRO EN LA SALA MUNICIPAL «LUIS SANDRINI». Por admin - 21 octubre, 2026 0 2 Facebook Twitter Pinterest WhatsApp Necochea.- El Teatro Municipal vuelve a ser escenario del masivo Encuentro Juvenil en su 15ª edición. La programación incluye alrededor de 50 obras preparadas por los propios estudiantes junto a sus profesores, además de la participación de elencos profesionales que enriquecen cada edición.",
-          "compartan sus producciones, se acerquen al teatro y disfruten. La Sala “Milagros de la Vega” recibe hasta el viernes a más de 2.000 estudiantes de Necochea y la zona, en el marco de una propuesta que reúne a jóvenes, docentes y artistas y que ya es parte de la agenda cultural de la ciudad."
-        ],
-        "generated": "2026-10-22T12:06:28.264330+00:00"
-      },
-      "apariciones": 20,
-      "ultima_impresion": "2026-10-22T12:03:45.863258+00:00",
+      "apariciones": 18,
+      "ultima_impresion": "2026-10-22T12:30:00.564469+00:00",
       "penalizacion": 0.0
     },
     {
@@ -624,39 +673,10 @@
           "Generales ARBA LANZÒ UN PLAN DE FACILIDADES DE PAGO PARA TODOS LOS IMPUESTOS EN MORA CON IMPORTANTES DESCUENTOS. Por admin - 21 octubre, 2026 0 3 Facebook Twitter Pinterest WhatsApp La Plata.- ARBA lanza una moratoria con descuentos de hasta 40% para regularizar deudas de impuestos. El beneficio dependerá de la fecha de adhesión y de la modalidad de pago : quienes cancelen al contado durante las primeras semanas accederán a la mayor bonificación. El régimen tendrá cuatro etapas, con bonificaciones decrecientes para quienes se incorporen más adelante.",
           "En las primeras semanas, la quita llegará al 40% para el pago al contado , al 20% si se eligen tres cuotas y al 15% en seis cuotas . En diciembre, en cambio, el descuento quedará limitado al pago en una sola vez. El plan comenzará el 26 de octubre y permitirá pagar en cuotas o al contado."
         ],
-        "generated": "2026-10-22T12:06:28.804326+00:00"
+        "generated": "2026-10-22T12:32:49.477815+00:00"
       },
-      "apariciones": 20,
-      "ultima_impresion": "2026-10-22T12:03:45.863258+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "sabado 24 octubre brindara nueva jornada castracion mascotas",
-      "title": "EL SÀBADO 24 DE OCTUBRE SE BRINDARÀ UNA NUEVA JORNADA DE CASTRACIÒN DE MASCOTAS.",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-10-21T22:42:25+00:00",
-      "image": null,
-      "articles": [
-        {
-          "portal": "Necochea Libre",
-          "title": "EL SÀBADO 24 DE OCTUBRE SE BRINDARÀ UNA NUEVA JORNADA DE CASTRACIÒN DE MASCOTAS.",
-          "url": "https://necochealibre.com.ar/el-sabado-24-de-octubre-se-brindara-una-nueva-jornada-de-castracion-de-mascotas/",
-          "published_at": "2026-10-21T22:42:25+00:00",
-          "first_seen": "2026-10-21T23:00:01.092604+00:00",
-          "category": "Generales",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Generales EL SÀBADO 24 DE OCTUBRE SE BRINDARÀ UNA NUEVA JORNADA DE CASTRACIÒN DE MASCOTAS. Por admin - 21 octubre, 2026 0 2 Facebook Twitter Pinterest WhatsApp Necochea .- El servicio gratuito de castración masiva de mascotas vuelve el próximo fin de semana. Uno de los servicios más requeridos por la comunidad estará esta vez en Quequén, en el CAPS del barrio Estación.",
-          "La Municipalidad, de Necochea, brindará una nueva jornada gratuita de castración masiva de mascotas, el pròximo sábado 24 de Octubre . En esta oportunidad en el Centro de Salud Estación Quequén, ubicado en avenida 578 N° 2941 . La jornada comenzará a las 9 horas, se castrará hasta un máximo de 45 mascotas y los requisitos son los habituales : Se deberá presentar un mayor de 18 años con DNI para consentir la cirugía de la mascota; se deberá llevar los perros con bozal y los gatos serán operados en primer turno."
-        ],
-        "generated": "2026-10-22T12:06:29.514531+00:00"
-      },
-      "apariciones": 20,
-      "ultima_impresion": "2026-10-22T12:03:45.863258+00:00",
+      "apariciones": 21,
+      "ultima_impresion": "2026-10-22T12:30:00.564469+00:00",
       "penalizacion": 0.0
     }
   ]
