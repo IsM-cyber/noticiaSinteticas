@@ -1,50 +1,12 @@
 {
-  "generated_at": "2026-10-22T22:30:00.842537+00:00",
+  "generated_at": "2026-10-22T23:00:01.400066+00:00",
   "article_count": 135,
   "fetch_errors": [],
   "stories": [
     {
-      "key": "realizaron trabajos pintura mantenimiento reparaciones estructurales hospital ferreyra",
-      "title": "Se realizaron trabajos de pintura, mantenimiento y reparaciones estructurales en el Hospital Ferreyra",
-      "score": 2.659,
-      "sources_count": 2,
-      "first_seen": "2026-10-22T21:33:47+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/22-10-FOTO-trabajos-Hospital-Ferreyra.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Se realizaron trabajos de pintura, mantenimiento y reparaciones estructurales en el Hospital Ferreyra",
-          "url": "https://tsnnecochea.com.ar/generales/se-realizaron-trabajos-de-pintura-mantenimiento-y-reparaciones-estructurales-en-el-hospital-ferreyra-240386/",
-          "published_at": "2026-10-22T21:33:47+00:00",
-          "first_seen": "2026-10-22T22:00:01.371978+00:00",
-          "category": "fachada",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/22-10-FOTO-trabajos-Hospital-Ferreyra.webp"
-        },
-        {
-          "portal": "Necochea Digital",
-          "title": "Se realizaron trabajos de pintura, mantenimiento y reparaciones estructurales en el Hospital Ferreyra",
-          "url": "https://necocheadigital.com/nota/119974/se-realizaron-trabajos-de-pintura-mantenimiento-y-reparaciones-estructurales-en-el-hospital-ferreyra/",
-          "published_at": null,
-          "first_seen": "2026-10-22T22:00:01.371978+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Generales | fachada | Gestión Se realizaron trabajos de pintura, mantenimiento y reparaciones estructurales en el Hospital Ferreyra Las tareas fueron ejecutadas por personal de Servicios Públicos. Por Redacción TSN 22/10/2026 · 06:33 PM Agregar TSN Necochea en La Municipalidad de Necochea lleva adelante una serie de tareas de mejora y mantenimiento en el Hospital Municipal «Dr.",
-          "Emilio Ferreyra», que incluyen la puesta en valor de su fachada, reparaciones estructurales y trabajos esenciales para el funcionamiento cotidiano del nosocomio. Las intervenciones están a cargo de la Dirección de Servicios Públicos, dependiente de la Secretaría de Planeamiento y Obras Públicas, y abarcan la pintura del frente del edificio, reparaciones en la fachada y distintas tareas de mantenimiento en las instalaciones sanitarias."
-        ],
-        "generated": "2026-10-22T22:30:12.089440+00:00"
-      },
-      "apariciones": 2,
-      "ultima_impresion": "2026-10-22T22:30:00.842537+00:00",
-      "penalizacion": 1.0
-    },
-    {
       "key": "transporte publico necochea hcd aprobo unanimidad nuevo pliego licitacion",
       "title": "Transporte público en Necochea: el HCD aprobó por unanimidad el nuevo pliego de licitación",
-      "score": 1.527,
+      "score": 1.465,
       "sources_count": 2,
       "first_seen": "2026-10-22T16:00:00.945506+00:00",
       "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/6726de52c6980ef47390fc21671e921daa4ae4cd.jpg",
@@ -73,16 +35,83 @@
           "El Concejo Deliberante de Necochea aprobó por unanimidad el nuevo pliego de bases y condiciones para la licitación del servicio de transporte público de pasajeros. La decisión representa un paso clave para intentar resolver la situación del sistema de colectivos y avanzar hacia una nueva convocatoria a empresas interesadas en hacerse cargo de la prestación. La aprobación se produjo luego de una serie de modificaciones al proyecto original, trabajadas entre los distintos bloques políticos y el Departamento Ejecutivo.",
           "Durante la mañana, varios concejales habían anticipado su acompañamiento en entrevistas con el programa Punto de vista , que se emite por Ecos Radio. Desde los distintos espacios coincidieron en la necesidad de avanzar con una nueva licitación, aunque algunos ediles plantearon reparos sobre el proceso y la forma en que se llegó a esta instancia."
         ],
-        "generated": "2026-10-22T22:30:43.967060+00:00"
+        "generated": "2026-10-22T23:00:49.496367+00:00"
+      },
+      "apariciones": 2,
+      "ultima_impresion": "2026-10-22T23:00:01.400066+00:00",
+      "penalizacion": 1.0
+    },
+    {
+      "key": "realizaron trabajos pintura mantenimiento reparaciones estructurales hospital ferreyra",
+      "title": "Se realizaron trabajos de pintura, mantenimiento y reparaciones estructurales en el Hospital Ferreyra",
+      "score": 1.403,
+      "sources_count": 2,
+      "first_seen": "2026-10-22T21:33:47+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/22-10-FOTO-trabajos-Hospital-Ferreyra.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Se realizaron trabajos de pintura, mantenimiento y reparaciones estructurales en el Hospital Ferreyra",
+          "url": "https://tsnnecochea.com.ar/generales/se-realizaron-trabajos-de-pintura-mantenimiento-y-reparaciones-estructurales-en-el-hospital-ferreyra-240386/",
+          "published_at": "2026-10-22T21:33:47+00:00",
+          "first_seen": "2026-10-22T22:00:01.371978+00:00",
+          "category": "fachada",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/22-10-FOTO-trabajos-Hospital-Ferreyra.webp"
+        },
+        {
+          "portal": "Necochea Digital",
+          "title": "Se realizaron trabajos de pintura, mantenimiento y reparaciones estructurales en el Hospital Ferreyra",
+          "url": "https://necocheadigital.com/nota/119974/se-realizaron-trabajos-de-pintura-mantenimiento-y-reparaciones-estructurales-en-el-hospital-ferreyra/",
+          "published_at": null,
+          "first_seen": "2026-10-22T22:00:01.371978+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Generales | fachada | Gestión Se realizaron trabajos de pintura, mantenimiento y reparaciones estructurales en el Hospital Ferreyra Las tareas fueron ejecutadas por personal de Servicios Públicos. Por Redacción TSN 22/10/2026 · 06:33 PM Agregar TSN Necochea en La Municipalidad de Necochea lleva adelante una serie de tareas de mejora y mantenimiento en el Hospital Municipal «Dr.",
+          "Emilio Ferreyra», que incluyen la puesta en valor de su fachada, reparaciones estructurales y trabajos esenciales para el funcionamiento cotidiano del nosocomio. Las intervenciones están a cargo de la Dirección de Servicios Públicos, dependiente de la Secretaría de Planeamiento y Obras Públicas, y abarcan la pintura del frente del edificio, reparaciones en la fachada y distintas tareas de mantenimiento en las instalaciones sanitarias."
+        ],
+        "generated": "2026-10-22T23:00:15.841259+00:00"
+      },
+      "apariciones": 3,
+      "ultima_impresion": "2026-10-22T23:00:01.400066+00:00",
+      "penalizacion": 0.55
+    },
+    {
+      "key": "ameba come cerebros",
+      "title": "¿Qué es la ameba “come cerebros”?",
+      "score": 1.167,
+      "sources_count": 1,
+      "first_seen": "2026-10-22T22:39:51+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/540-10.avif",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "¿Qué es la ameba “come cerebros”?",
+          "url": "https://tsnnecochea.com.ar/nacion/que-es-la-ameba-come-cerebros-240389/",
+          "published_at": "2026-10-22T22:39:51+00:00",
+          "first_seen": "2026-10-22T23:00:01.400066+00:00",
+          "category": "ameba Naegleria",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/540-10.avif"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Nación | ameba Naegleria | Ameba Naegleria ¿Qué es la ameba “come cerebros”? Un niño de diez años murió tras padecer meningoencefalitis amebiana primaria, una infección causada por la ameba Naegleria fowleri, también conocida como “come cerebros”.",
+          "Por Redacción TSN 22/10/2026 · 07:39 PM Agregar TSN Necochea en La infección por la ameba Naegleria fowleri, también conocida como ameba “come cerebros”, es poco frecuente, pero casi siempre tiene un desenlace fatal, por lo cual la intendencia de Fiambalá clausuró preventivamente un complejo termal de esa localidad catamarqueña, tras el fallecimiento de un niño de diez años que sufrió meningoencefalitis amebiana primaria."
+        ],
+        "generated": "2026-10-22T23:03:06.026735+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-22T22:30:00.842537+00:00"
+      "ultima_impresion": "2026-10-22T23:00:01.400066+00:00"
     },
     {
       "key": "allanamiento calle 88 aprehendido intentar escapar policia",
       "title": "Allanamiento en calle 88: un aprehendido tras intentar escapar de la policía",
-      "score": 1.187,
+      "score": 1.139,
       "sources_count": 1,
       "first_seen": "2026-10-22T22:22:27+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/FB_IMG_1792707649546.webp",
@@ -102,103 +131,103 @@
           "TSN Necochea | ‹ VOLVER | Locales | allanamiento | Procedimiento policial Allanamiento en calle 88: un aprehendido tras intentar escapar de la policía Secuestraron elementos vinculados a dos robos en una vivienda y un comercio. El sospechoso fue atrapado tras una persecución. Por Redacción TSN 22/10/2026 · 07:22 PM Agregar TSN Necochea en Personal de la DDI Necochea llevó adelante un allanamiento en un domicilio de la calle 88 , en el marco de dos investigaciones por robos cometidos en un comercio local y una casa particular .",
           "​Durante la diligencia, los efectivos secuestraron diversos elementos de interés para el avance de ambas causas. Al percatarse de la presencia policial, un hombre de 35 años intentó darse a la fuga a pie , pero fue alcanzado tras una breve persecución y quedó aprehendido por resistencia a la autoridad . ​Además, el sospechoso fue notificado formalmente del inicio del proceso penal por los dos hechos de robo ."
         ],
-        "generated": "2026-10-22T22:32:58.145389+00:00"
+        "generated": "2026-10-22T23:03:07.332946+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-22T22:30:00.842537+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-10-22T23:00:01.400066+00:00",
+      "penalizacion": 1.0
     },
     {
-      "key": "nuevo papelon cerezuela firmo condonacion deudas despues quiso dar marcha atras",
-      "title": "Nuevo papelón de Cerezuela: firmó la condonación de deudas y después quiso dar marcha atrás",
+      "key": "aula interactiva agro escuelas secundarias estara plaza dardo rocha 27 28 octubre",
+      "title": "Un aula interactiva de agro para escuelas secundarias estará en la Plaza Dardo Rocha el 27 y 28 de octubre",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-10-22T22:30:00.842537+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/fef55b36da9255e86ef4a2e450497b2dba9ee56d.jpg",
+      "first_seen": "2026-10-22T23:00:01.400066+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261022113709_foto-aula-larti-innova-archivo.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Nuevo papelón de Cerezuela: firmó la condonación de deudas y después quiso dar marcha atrás",
-          "url": "https://necocheadigital.com/nota/119981/nuevo-papelon-de-cerezuela-firmo-la-condonacion-de-deudas-y-despues-quiso-dar-marcha-atras/",
+          "title": "Un aula interactiva de agro para escuelas secundarias estará en la Plaza Dardo Rocha el 27 y 28 de octubre",
+          "url": "https://necocheadigital.com/nota/119979/un-aula-interactiva-de-agro-para-escuelas-secundarias-estara-en-la-plaza-dardo-rocha-el-27-y-28-de-octubre/",
           "published_at": null,
-          "first_seen": "2026-10-22T22:30:00.842537+00:00",
+          "first_seen": "2026-10-22T23:00:01.400066+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "Rodrigo Tabarez le marcó la contradicción y el libertario respondió que el vocabulario de su par lo “apabulla”. El episodio se suma a otros cuestionamientos, como su firma en la declaración de interés de la marcha universitaria contra el Gobierno de Milei. Juan Cerezuela, concejal de La Libertad Avanza y presidente de la Comisión de Política Económica del Honorable Concejo Deliberante de Necochea, volvió a quedar en el centro de la polémica. Esta vez, por una contradicción entre lo que había firmado en comisión y la postura que intentó sostener durante la sesión.",
-          "El tema en discusión era la condonación de deudas correspondientes a organizadores de eventos realizados en el Polideportivo municipal. Según se expuso durante el debate, Cerezuela había firmado el despacho que avalaba el proyecto de ordenanza para perdonar ambas deudas, junto con concejales de distintos bloques. Sin embargo, cuando se acercaba la sesión, su posición habría cambiado."
+          "La Dirección de Educación de la Municipalidad de Necochea comunica que se confirmó la fecha de visita del camión educativo del proyecto Larti Innova, que estará ubicado en la Plaza Dardo Rocha, sobre calle 56 entre 59 y 61, los días martes 27 y miércoles 28 de octubre . El venidero martes 27, la actividad se desarrollará de 8 a 17:30, mientras que el miércoles 28 será de 8 a 12:30 .",
+          "Las visitas se organizarán en turnos de media hora. La iniciativa, presentada por la empresa Lartirigoyen Agropecuaria Argentina, consiste en un museo interactivo montado en la parte trasera de un camión, que recorre distintas localidades para acercar a estudiantes de 5° y 6° año de escuelas secundarias de gestión estatal y privada a una experiencia educativa vinculada con el mundo agroproductivo, la sustentabilidad, la tecnología y la innovación."
         ],
-        "generated": "2026-10-22T22:32:59.483806+00:00"
+        "generated": "2026-10-22T23:03:08.613517+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-22T22:30:00.842537+00:00"
+      "ultima_impresion": "2026-10-22T23:00:01.400066+00:00"
     },
     {
-      "key": "nino provincia lanzo visor hidrometeorologico tiempo real monitorear lluvias niveles agua",
-      "title": "El Niño: La Provincia lanzó un visor hidrometeorológico en tiempo real para monitorear lluvias y niveles de agua",
+      "key": "paso exito sexta edicion suelta plantas centro cultural necochea",
+      "title": "Pasó con éxito la sexta edición de la Suelta de Plantas en el Centro Cultural Necochea",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-10-22T22:30:00.842537+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261021173726_whatsapp-image-2026-10-21-at-17-37-14.jpg",
+      "first_seen": "2026-10-22T23:00:01.400066+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261022113426_whatsapp-image-2026-10-22-at-11-34-08-1.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "El Niño: La Provincia lanzó un visor hidrometeorológico en tiempo real para monitorear lluvias y niveles de agua",
-          "url": "https://necocheadigital.com/nota/119968/el-nino-la-provincia-lanzo-un-visor-hidrometeorologico-en-tiempo-real-para-monitorear-lluvias-y-niveles-de-agua/",
+          "title": "Pasó con éxito la sexta edición de la Suelta de Plantas en el Centro Cultural Necochea",
+          "url": "https://necocheadigital.com/nota/119978/paso-con-exito-la-sexta-edicion-de-la-suelta-de-plantas-en-el-centro-cultural-necochea/",
           "published_at": null,
-          "first_seen": "2026-10-22T22:30:00.842537+00:00",
+          "first_seen": "2026-10-22T23:00:01.400066+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "La presentación oficial se realizó en la ciudad de Bragado y estuvo encabezada por el ministro de Infraestructura y Servicios Públicos, Gabriel Katopodis, junto a su par de Desarrollo Agrario, Javier Rodríguez, y el presidente de la Autoridad del Agua (ADA), Damián Costamagna. La iniciativa fue desarrollada a través del Sistema Inteligente de Monitoreo para la Prevención y Análisis del Riesgo Hidrometeorológico (SIMPARH), dependiente del Ministerio de Infraestructura, en articulación constante con la cartera ambiental y los municipios.",
-          "El sistema funciona a través de la integración de 150 Estaciones de Monitoreo Automático (EMA) distribuidas en distintos puntos de la provincia, de las cuales 42 corresponden a la gestión directa del gobierno provincial y el resto a redes asociadas."
+          "La jornada, llevada a cabo durante la tarde del miércoles 21 de octubre, reunió a una multitud de vecinos que se acercaron para retirar de forma totalmente gratuita los ejemplares cultivados a lo largo del año. El encuentro representó la culminación de un proceso de trabajo colectivo y aprendizaje sostenido durante todo el ciclo lectivo. La iniciativa fue el fruto del esfuerzo conjunto entre los alumnos del Taller de Huerta y Forestación del Colegio Danés Altamira —coordinado por Lis Ullerup y Juan Manuel García Siri—, los residentes del Hogar San Andrés y los estudiantes del Taller de Huerta del Centro de Formación Laboral Nº 403, a cargo del profesor Willy Gutiérrez.",
+          "La respuesta de la comunidad superó de manera contundente las previsiones de la organización. A lo largo de la tarde se formaron varias cuadras de fila sobre la calle, registrando la asistencia de unas 600 personas que colmaron las instalaciones del Centro Cultural."
         ],
-        "generated": "2026-10-22T22:33:01.724734+00:00"
+        "generated": "2026-10-22T23:03:09.874159+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-22T22:30:00.842537+00:00"
+      "ultima_impresion": "2026-10-22T23:00:01.400066+00:00"
     },
     {
-      "key": "jorge newbery vencio sportivo san cayetano uno pendientes fecha 20",
-      "title": "Jorge Newbery venció a Sportivo San Cayetano en uno de los pendientes de la fecha 20",
+      "key": "gran triunfo ministerio vencio independiente san cayetano quedo paso segundo puesto",
+      "title": "Gran triunfo de Ministerio que venció a Independiente de San Cayetano y quedó a un paso del segundo puesto",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-10-22T22:30:00.842537+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261021172331_whatsapp-image-2026-10-21-at-17-23-13.jpg",
+      "first_seen": "2026-10-22T23:00:01.400066+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261022112508_whatsapp-image-2026-10-22-at-11-24-49.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Jorge Newbery venció a Sportivo San Cayetano en uno de los pendientes de la fecha 20",
-          "url": "https://necocheadigital.com/nota/119966/jorge-newbery-vencio-a-sportivo-san-cayetano-en-uno-de-los-pendientes-de-la-fecha-20/",
+          "title": "Gran triunfo de Ministerio que venció a Independiente de San Cayetano y quedó a un paso del segundo puesto",
+          "url": "https://necocheadigital.com/nota/119976/gran-triunfo-de-ministerio-que-vencio-a-independiente-de-san-cayetano-y-quedo-a-un-paso-del-segundo-puesto/",
           "published_at": null,
-          "first_seen": "2026-10-22T22:30:00.842537+00:00",
+          "first_seen": "2026-10-22T23:00:01.400066+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "El equipo dirigido por Gastón Giménez abrió la cuenta en la primera mitad mediante un gol de Valentín Peri. En el inicio del complemento, Thiago Oronó marcó el empate parcial para el representativo sancayetanense, que desperdició una oportunidad clave para meterse en la lucha por el repechaje. Sin embargo, en el tramo final del encuentro, Ezequiel Díaz convirtió el tanto definitivo que decretó la victoria y desató la tranquilidad para el cuadro loberense.",
-          "La victoria de Newbery dejó las posiciones en la parte baja con Rivadavia en el último lugar con 21 unidades, ya sin posibilidades de alcanzar a la escuadra de Lobería. De esta manera, el \"Decano\" deberá ganar sus dos compromisos restantes frente a Villa Díaz Vélez y Villa del Parque (séptimo con 24 puntos) para intentar forzar la promoción y evitar la pérdida directa de la categoría."
+          "El equipo dirigido por Gustavo Tridón impuso condiciones desde el inicio en su cancha de Quequén. Durante el primer tiempo logró sacar la ventaja definitiva con los goles de Lucas Barrera y Pablo Larrea . En el complemento, el conjunto de Jorge Sotelo descontó a través de Daniel Azurmendi , uno de sus referentes, agregándole suspenso al tramo final del encuentro.",
+          "Sin embargo, el \"Decano\" sostuvo la diferencia y selló una victoria clave en sus aspiraciones. Panorama hacia la clasificación directa Con este resultado y a solo dos fechas de finalizar la fase regular: Lucha por el segundo puesto: Ministerio alcanzó los 37 puntos y quedó a una sola unidad de Independiente de San Cayetano ( 38 puntos ). Consolidación en la zona de semifinales: El triunfo le permite al Decano afianzarse en la 3ª posición —que otorga pase directo a semifinales—, sacándole tres puntos de ventaja a Mataderos ( 34 puntos ), que venía de igualar ante Villa del Parque."
         ],
-        "generated": "2026-10-22T22:33:02.921554+00:00"
+        "generated": "2026-10-22T23:03:11.154188+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-22T22:30:00.842537+00:00"
+      "ultima_impresion": "2026-10-22T23:00:01.400066+00:00"
     },
     {
       "key": "consumo no repunta volvio retroceder mostro fuerte caida principales rubros",
       "title": "El consumo no repunta, volvió a retroceder y mostró una fuerte caída en los principales rubros",
-      "score": 0.598,
+      "score": 0.316,
       "sources_count": 1,
       "first_seen": "2026-10-22T21:19:34+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2024/08/Supermercados-almacenes-recesion.jpg",
@@ -218,16 +247,16 @@
           "TSN Necochea | ‹ VOLVER | Nación | autoservicios mayoristas | Economía El consumo no repunta, volvió a retroceder y mostró una fuerte caída en los principales rubros El INDEC difundió los informes sobre el consumo en supermercados, mayoristas y shoppings durante agosto, los cuales se movieron en distintas sintonías. Por Redacción TSN 22/10/2026 · 06:19 PM Cómo le fue al consumo en los supermercados, mayoristas y shoppings. Fotografía: Agencia Noticias Argentinas / Archivo.",
           "Agregar TSN Necochea en Las ventas en los supermercados , autoservicios mayoristas y centros de compras mostraron una nueva disparidad durante agosto: en los dos primeros sufrieron una contracción superior al 3%, mientras que el último registró un avance. Los datos se desprenden de los informes relevados por el Instituto Nacional de Estadística y Censos (INDEC) sobre las ventas de los distintos comercios."
         ],
-        "generated": "2026-10-22T22:33:04.181442+00:00"
+        "generated": "2026-10-22T23:03:12.491997+00:00"
       },
-      "apariciones": 3,
-      "ultima_impresion": "2026-10-22T22:30:00.842537+00:00",
-      "penalizacion": 0.55
+      "apariciones": 4,
+      "ultima_impresion": "2026-10-22T23:00:01.400066+00:00",
+      "penalizacion": 0.303
     },
     {
       "key": "fuerte choque 61 40 auto vereda conductora licencia",
       "title": "Fuerte choque en 61 y 40: un auto en la vereda y una conductora sin licencia",
-      "score": 0.588,
+      "score": 0.311,
       "sources_count": 1,
       "first_seen": "2026-10-22T21:07:44+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/IMG-20261022-WA0011.webp",
@@ -247,45 +276,16 @@
           "TSN Necochea | ‹ VOLVER | Locales | accidente | Siniestro vial Fuerte choque en 61 y 40: un auto en la vereda y una conductora sin licencia Intervino personal de Tránsito de Necochea, que secuestró la Renault Duster involucrada en el siniestro. Por Redacción TSN 22/10/2026 · 06:07 PM Agregar TSN Necochea en ​Un siniestro vial se registró en la intersección de las calles 61 y 40 , en Necochea, cuando colisionaron una Renault Duster y un Ford Ka . Como consecuencia del impacto, este último vehículo terminó subido a la vereda .",
           "​Al arribar al lugar, personal de la Dirección de Tránsito constató que la conductora de la Duster circulaba sin licencia de conducir . Ante esta infracción, los inspectores procedieron al secuestro del rodado , el cual fue trasladado por una unidad de Grúas Trave ."
         ],
-        "generated": "2026-10-22T22:33:04.936260+00:00"
+        "generated": "2026-10-22T23:03:13.705681+00:00"
       },
-      "apariciones": 3,
-      "ultima_impresion": "2026-10-22T22:30:00.842537+00:00",
-      "penalizacion": 0.55
-    },
-    {
-      "key": "avisos funebres dia 22 octubre 2026",
-      "title": "Avisos fúnebres del día 22 de octubre de 2026",
-      "score": 0.536,
-      "sources_count": 1,
-      "first_seen": "2026-10-22T20:00:30+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2023/09/Necrologicas.jpg",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Avisos fúnebres del día 22 de octubre de 2026",
-          "url": "https://tsnnecochea.com.ar/funebres/avisos-funebres-del-dia-22-de-octubre-de-2026-240382/",
-          "published_at": "2026-10-22T20:00:30+00:00",
-          "first_seen": "2026-10-22T21:30:36.916288+00:00",
-          "category": "fúnebres",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2023/09/Necrologicas.jpg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Fúnebres | fúnebres | Avisos fúnebres Avisos fúnebres del día 22 de octubre de 2026 Por Redacción TSN 22/10/2026 · 05:00 PM Noticias necrológicas de Necochea. Agregar TSN Necochea en MONGE, Delfina Demetria Q.E.P.D. Falleció el 22 de octubre de 2026 a los 95 años.",
-          "Con profundo amor te despedimos tus nietas Irma, Rosa, Yamile y Delia; tus nietos políticos Roberto y Javier; tus bisnietos Walter, Martin, Sthefanie, Brisa, Ema, Thiago, Jona y demás familiares y amigos. Sus restos fueron trasladados al crematorio Depierro Picardi ubicado en el cementerio local C.D.: 525 N° 3865 Exequias a cargo de CASA DEPIERRO PICARDI Sepelios y Cremaciones FÚNEBRES NECOCHEA NECROLÓGICAS QUEQUÉN Seguinos en redes"
-        ],
-        "generated": "2026-10-22T22:33:06.166968+00:00"
-      },
-      "apariciones": 3,
-      "ultima_impresion": "2026-10-22T22:30:00.842537+00:00",
-      "penalizacion": 0.55
+      "apariciones": 4,
+      "ultima_impresion": "2026-10-22T23:00:01.400066+00:00",
+      "penalizacion": 0.303
     },
     {
       "key": "alumbrado tecnologia led brinda mejor accesibilidad mayor seguridad balneario angeles",
       "title": "El alumbrado con tecnología LED brinda mejor accesibilidad y mayor seguridad al Balneario Los Ángeles",
-      "score": 0.031,
+      "score": 0.017,
       "sources_count": 2,
       "first_seen": "2026-10-22T18:30:13+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/22-10-FOTO-luces-Balneario-Los-Angeles-1.webp",
@@ -314,16 +314,16 @@
           "TSN Necochea | ‹ VOLVER | Locales | Balneario Los Angeles | Getsión El alumbrado con tecnología LED brinda mejor accesibilidad y mayor seguridad al Balneario Los Ángeles La colocación de nuevas luminarias mejoró la iluminación en el ingreso al balneario y se suma a los trabajos de ampliación y recambio que se desarrollan en el núcleo urbano y en distintos puntos del distrito. Por Redacción TSN 22/10/2026 · 03:30 PM Agregar TSN Necochea en La renovación del alumbrado público en Necochea continúa extendiéndose más allá del ejido urbano y esta semana llegó al Balneario Los Ángeles , donde se pusieron en funcionamiento nuevas luminarias de 150 ww y 250 ww que cambiaron notablemente las condiciones de iluminación en el sector de ingreso.",
           "Estas tareas forman parte de un trabajo sostenido que combina la incorporación de nuevos puntos de luz con el recambio de instalaciones existentes por tecnología LED en distintos sectores de la ciudad."
         ],
-        "generated": "2026-10-22T22:30:15.169925+00:00"
+        "generated": "2026-10-22T23:00:17.830390+00:00"
       },
-      "apariciones": 9,
-      "ultima_impresion": "2026-10-22T22:30:00.842537+00:00",
-      "penalizacion": 0.015
+      "apariciones": 10,
+      "ultima_impresion": "2026-10-22T23:00:01.400066+00:00",
+      "penalizacion": 0.008
     },
     {
       "key": "necochea sumo nuevas medallas triunfos miercoles finales juegos bonaerenses",
       "title": "Necochea sumó nuevas medallas y triunfos este miércoles en las finales de los Juegos Bonaerenses",
-      "score": 0.005,
+      "score": 0.003,
       "sources_count": 3,
       "first_seen": "2026-10-22T11:47:20+00:00",
       "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261022110753_21-10-foto-juanita-souto-portada-municipio.jpg",
@@ -361,16 +361,16 @@
           "Durante la jornada del miércoles 21 de octubre, los representantes de Necochea volvieron a competir en una amplia variedad de disciplinas, dejando en evidencia el esfuerzo, el compromiso y la dedicación de los deportistas que representan a nuestro distrito. En atletismo convencional, Juanita Souto de la Escuela Municipal, se consagró campeona y obtuvo la medalla de oro en salto en largo , mientras que, en atletismo PCD, Tiziano Larrea consiguió la medalla de bronce en lanzamiento de clava y Mateo Velasco obtuvo también la medalla de bronce en lanzamiento de bala.",
           "Por su parte, la natación PCD tuvo una destacada actuación, con tres medallas para Necochea, de la mano de la Escuela Municipal de natación adaptada «Todos al Agua» : Lucio Arregui alcanzó la medalla de oro en los 50 metros libres, Dalila González obtuvo la medalla de plata en los 50 metros espalda y Agustín Guedes se quedó con la medalla de bronce en los 50 metros libres."
         ],
-        "generated": "2026-10-22T22:30:19.782185+00:00"
+        "generated": "2026-10-22T23:00:23.060060+00:00"
       },
-      "apariciones": 12,
-      "ultima_impresion": "2026-10-22T22:30:00.842537+00:00",
-      "penalizacion": 0.003
+      "apariciones": 13,
+      "ultima_impresion": "2026-10-22T23:00:01.400066+00:00",
+      "penalizacion": 0.001
     },
     {
       "key": "robaron parroquia nueva pompeya necochea llevaron hostias consagradas objetos sagrados",
       "title": "Robaron en la Parroquia Nueva Pompeya de Necochea: se llevaron las hostias consagradas y objetos sagrados",
-      "score": 0.003,
+      "score": 0.002,
       "sources_count": 2,
       "first_seen": "2026-10-22T13:25:00+00:00",
       "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261022112952_whatsapp-image-2026-10-22-at-11-29-33.jpg",
@@ -399,11 +399,11 @@
           "La novedad se conoció entre los integrantes de la comunidad religiosa y causó un fuerte impacto en todo el ámbito local y regional. Desde la propia comunidad parroquial reconocieron con pesar que el hecho de que el templo permaneciera abierto durante la noche favoreció el accionar de los ladrones.",
           "Frente a esta situación, se informó que durante estos días se realizarán los trabajos necesarios para reponer la puerta del Sagrario, por lo que recién al finalizar la semana volverá a estar presente la Eucaristía en el lugar. Ante lo sucedido, el administrador apostólico de la Diócesis de Mar del Plata, monseñor Ernesto Giobando, emitió un comunicado oficial en el que manifestó su profundo dolor y consternación, expresando un enérgico rechazo a cualquier acto de vandalismo e irrespetuosidad hacia los espacios sagrados."
         ],
-        "generated": "2026-10-22T22:31:25.798463+00:00"
+        "generated": "2026-10-22T23:01:33.858588+00:00"
       },
-      "apariciones": 12,
-      "ultima_impresion": "2026-10-22T22:30:00.842537+00:00",
-      "penalizacion": 0.003
+      "apariciones": 13,
+      "ultima_impresion": "2026-10-22T23:00:01.400066+00:00",
+      "penalizacion": 0.001
     },
     {
       "key": "comercio necochea seguimos debajo 30 tendria estar actividad",
@@ -428,10 +428,10 @@
           "El presidente de la Cámara Comercial, Mariano González, analizó el presente del sector y advirtió que el consumo continúa retraído. Aseguró que el Día de la Madre terminó apenas por debajo de 2025, pero con tickets más chicos, y señaló que la construcción, la competencia online, los costos y las habilitaciones siguen condicionando al comercio local.",
           "Charlando con Fede Cañadas en “Esta Mañana”, por NECRadio 98.3 del Multimedio NQ, Mariano González , presidente de la Cámara Comercial e Industrial de Necochea y titular de González Electricidad, trazó un amplio panorama sobre la situación del comercio local y aseguró que la actividad continúa muy lejos de los niveles que considera normales."
         ],
-        "generated": "2026-10-22T22:33:53.581041+00:00"
+        "generated": "2026-10-22T23:04:01.137927+00:00"
       },
-      "apariciones": 19,
-      "ultima_impresion": "2026-10-22T22:30:00.842537+00:00",
+      "apariciones": 20,
+      "ultima_impresion": "2026-10-22T23:00:01.400066+00:00",
       "penalizacion": 0.0
     },
     {
@@ -457,10 +457,10 @@
           "Durante la madrugada sustrajeron la puerta del sagrario, dos copones con hostias consagradas y las coronas de las imágenes de la Virgen y el Niño Jesús en la parroquia Nuestra Señora de Nueva Pompeya. El sacerdote pidió colaboración para intentar recuperar especialmente la Eucaristía. Charlando con Fede Cañadas en “Esta Mañana”, por NEC Radio 98.3 del Multimedio NQ, el padre Pablo Bosisio se refirió al robo sufrido en la parroquia Nuestra Señora de Nueva Pompeya y aseguró que la principal preocupación de la comunidad pasa por poder recuperar las hostias consagradas que se encontraban dentro del sagrario.",
           "El sacerdote explicó que durante la noche el templo quedó abierto debido a un descuido y que, aparentemente, una persona advirtió la situación e ingresó aprovechando que no había que forzar ninguna puerta. “Hubo una desinteligencia porque el templo quedó abierto toda la noche. La persona que tenía que cerrar se olvidó”, contó."
         ],
-        "generated": "2026-10-22T22:33:55.900346+00:00"
+        "generated": "2026-10-22T23:04:03.639503+00:00"
       },
-      "apariciones": 19,
-      "ultima_impresion": "2026-10-22T22:30:00.842537+00:00",
+      "apariciones": 20,
+      "ultima_impresion": "2026-10-22T23:00:01.400066+00:00",
       "penalizacion": 0.0
     },
     {
@@ -486,10 +486,10 @@
           "El hecho ocurrió este miércoles por la tarde en un comercio ubicado casi en la intersección con calle 63. Personal policial y efectivos de Policía Científica trabajaron en el lugar para avanzar con la investigación. Un nuevo hecho de inseguridad se registró este miércoles en Necochea, cuando un hombre ingresó a una panadería ubicada sobre avenida 98, casi calle 63, y sustrajo dinero en efectivo y el teléfono celular de una trabajadora.",
           "El episodio ocurrió alrededor de las 17 horas, cuando el sujeto ingresó al establecimiento y se llevó los elementos mencionados. Tras lo sucedido, se dio intervención a las autoridades policiales, que acudieron al comercio para realizar las primeras actuaciones correspondientes. Intervino Policía Científica En el lugar trabajó personal policial junto con efectivos de Policía Científica, quienes llevaron adelante las tareas necesarias para reunir elementos que permitan esclarecer lo ocurrido."
         ],
-        "generated": "2026-10-22T22:35:11.896587+00:00"
+        "generated": "2026-10-22T23:05:14.230088+00:00"
       },
-      "apariciones": 23,
-      "ultima_impresion": "2026-10-22T22:30:00.842537+00:00",
+      "apariciones": 24,
+      "ultima_impresion": "2026-10-22T23:00:01.400066+00:00",
       "penalizacion": 0.0
     },
     {
@@ -515,10 +515,10 @@
           "El ministro de Infraestructura y Servicios Públicos bonaerense llegará este viernes 23 de octubre a la ciudad. La agenda contempla un encuentro con el intendente Arturo Rojas, una visita a la obra de la Casa de la Provincia y posteriormente su participación en un encuentro provincial de jóvenes.",
           "Charlando con Fede Cañadas en “Esta Mañana”, por NEC Radio 98.3 del Multimedio NQ, la concejal de Fuerza Patria Evangelina Almada confirmó que el ministro de Infraestructura y Servicios Públicos de la provincia de Buenos Aires, Gabriel Katopodis , volverá a visitar Necochea este viernes 23 de octubre , en una jornada que combinará reuniones institucionales, recorridas por obras y una actividad con jóvenes. La llegada del funcionario provincial estaba prevista desde la semana pasada y tendrá como actividad central su participación en un encuentro de jóvenes de alcance provincial que se desarrollará en el camping de UATRE."
         ],
-        "generated": "2026-10-22T22:35:14.115618+00:00"
+        "generated": "2026-10-22T23:05:16.687172+00:00"
       },
-      "apariciones": 23,
-      "ultima_impresion": "2026-10-22T22:30:00.842537+00:00",
+      "apariciones": 24,
+      "ultima_impresion": "2026-10-22T23:00:01.400066+00:00",
       "penalizacion": 0.0
     },
     {
@@ -544,10 +544,10 @@
           "Desde Organización Ferrara señalaron que los usuarios buscan mantener el seguro obligatorio para circular, pero reducen las coberturas para afrontar los costos. También remarcaron el elevado número de siniestros vinculados principalmente con motos y automóviles en Necochea. Desde el móvil de “Esta Mañana”, charlando con Fede Cañadas por NEC Radio 98.3 del Multimedio NQ, integrantes de Organización Ferrara brindaron un breve panorama del sector asegurador local en el marco del Día del Seguro.",
           "Según explicaron, una de las tendencias que observan actualmente es que los clientes intentan conservar sus pólizas, especialmente aquellas necesarias para circular, aunque en muchos casos optan por disminuir el nivel de cobertura. “Vemos merma y bajas de las coberturas. La gente trata de mantener el seguro, porque es obligatorio para circular, pero busca bajar las coberturas”, señalaron."
         ],
-        "generated": "2026-10-22T22:35:16.332413+00:00"
+        "generated": "2026-10-22T23:05:19.137792+00:00"
       },
-      "apariciones": 23,
-      "ultima_impresion": "2026-10-22T22:30:00.842537+00:00",
+      "apariciones": 24,
+      "ultima_impresion": "2026-10-22T23:00:01.400066+00:00",
       "penalizacion": 0.0
     },
     {
@@ -573,10 +573,10 @@
           "La empresa A Toda Vela Mar S.A. fue la única que formalizó su inscripción para participar de la subasta pública prevista para este viernes 23 de octubre. El precio base establecido es de $383.819.190. La subasta pública del Teatro Auditórium del Complejo Casino de Necochea se realizará este viernes 23 de octubre, a partir de las 11, en el Salón de Actos Domingo J.",
           "Taraborelli del edificio municipal. Según informó la Municipalidad, la firma A Toda Vela Mar S.A. fue la única que se inscribió para participar del procedimiento, cuyo plazo de inscripción finalizó el martes 20 de octubre."
         ],
-        "generated": "2026-10-22T22:35:17.416387+00:00"
+        "generated": "2026-10-22T23:05:20.180556+00:00"
       },
-      "apariciones": 25,
-      "ultima_impresion": "2026-10-22T22:30:00.842537+00:00",
+      "apariciones": 26,
+      "ultima_impresion": "2026-10-22T23:00:01.400066+00:00",
       "penalizacion": 0.0
     },
     {
@@ -602,10 +602,10 @@
           "El reconocido pionero del heavy metal argentino murió tras una larga internación; su voz quedó inmortalizada en el álbum debut de la legendaria banda. Saúl Blanch, quien abrió camino en el rock pesado nacional como cantante de Plus y, posteriormente, como la primera voz de Rata Blanca, falleció a los 75 años después de permanecer hospitalizado durante un período prolongado. La noticia fue confirmada por la Agencia Noticias Argentinas.",
           "Primer paso en Rata Blanca En 1988 Blanch participó en la grabación del álbum homónimo de Rata Blanca, aportando su voz a temas que hoy son clásicos, como “El sueño de la gitana”, “Chico callejero”, “Rompe el hechizo” y “Sólo para amarte”. Aunque abandonó el grupo antes del lanzamiento oficial, sus interpretaciones permanecieron en el disco y marcaron el inicio de la carrera discográfica de la banda."
         ],
-        "generated": "2026-10-22T22:35:18.480032+00:00"
+        "generated": "2026-10-22T23:05:21.219943+00:00"
       },
-      "apariciones": 25,
-      "ultima_impresion": "2026-10-22T22:30:00.842537+00:00",
+      "apariciones": 26,
+      "ultima_impresion": "2026-10-22T23:00:01.400066+00:00",
       "penalizacion": 0.0
     }
   ]
