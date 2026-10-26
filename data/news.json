@@ -1,12 +1,548 @@
 {
-  "generated_at": "2026-10-26T12:51:38.289854+00:00",
-  "article_count": 75,
+  "generated_at": "2026-10-26T19:13:50.042322+00:00",
+  "article_count": 135,
   "fetch_errors": [],
   "stories": [
     {
+      "key": "paro colectivos tiempo indeterminado necochea quequen",
+      "title": "Paro de colectivos por tiempo indeterminado en Necochea y Quequén",
+      "score": 3.626,
+      "sources_count": 3,
+      "first_seen": "2026-10-26T14:47:19+00:00",
+      "image": "https://cdnartic.ar/bPU4EBkDHOwOaz2RCkumtaptRs8=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2025/08/paradas_vacias_no_circulan_por_ahora_los_colectivos.jpeg",
+      "articles": [
+        {
+          "portal": "Ecos Diarios",
+          "title": "Paro de colectivos por tiempo indeterminado en Necochea y Quequén",
+          "url": "https://elecos.com.ar/paro-de-choferes-de-colectivos-no-habra-servicio-desde-las-12",
+          "published_at": "2026-10-26T14:47:19+00:00",
+          "first_seen": "2026-10-26T19:13:50.042322+00:00",
+          "category": "14",
+          "image": "https://cdnartic.ar/bPU4EBkDHOwOaz2RCkumtaptRs8=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2025/08/paradas_vacias_no_circulan_por_ahora_los_colectivos.jpeg"
+        },
+        {
+          "portal": "TSN Necochea",
+          "title": "Paro de transporte en Necochea y Quequén: choferes inician retención de tareas por tiempo indeterminado",
+          "url": "https://tsnnecochea.com.ar/generales/sin-colectivos-en-necochea-y-quequen-los-choferes-iniciaron-una-retencion-de-tareas-por-tiempo-indeterminado-240706/",
+          "published_at": "2026-10-26T18:03:43+00:00",
+          "first_seen": "2026-10-26T19:13:50.042322+00:00",
+          "category": "colectivos",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2024/11/Captura-de-pantalla-2024-11-27-103829.jpg"
+        },
+        {
+          "portal": "Noticias de Necochea",
+          "title": "Paro de colectivos en Necochea y Quequén por tiempo indeterminado: qué dice la empresa",
+          "url": "https://nden.com.ar/nota/38526/paro-de-colectivos-en-necochea-y-quequen-por-tiempo-indeterminado-que-dice-la-empresa",
+          "published_at": "2026-10-26T17:01:00+00:00",
+          "first_seen": "2026-10-26T19:13:50.042322+00:00",
+          "category": null,
+          "image": "http://nden.com.ar/uploads/noticias/5/2026/10/4cd6dc9817f1b4e0e08e42a0822d80aaeb9bd447.jpg"
+        },
+        {
+          "portal": "Noticias de Necochea",
+          "title": "Sin colectivos en Necochea y Quequén: choferes realizan una retención de tareas hasta las 14",
+          "url": "https://nden.com.ar/nota/38525/sin-colectivos-en-necochea-y-quequen-choferes-realizan-una-retencion-de-tareas-hasta-las-14",
+          "published_at": "2026-10-26T15:12:00+00:00",
+          "first_seen": "2026-10-26T19:13:50.042322+00:00",
+          "category": null,
+          "image": "http://nden.com.ar/uploads/noticias/5/2026/10/20261026121511_18a72cd25f9636fd6c93e360bdc0baad8aba394e.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Generales | colectivos | Servicios Paro de transporte en Necochea y Quequén: choferes inician retención de tareas por tiempo indeterminado La medida de fuerza dispuesta por la UTA comenzó este lunes 26 de octubre ante la falta de pago de haberes atrasados. Denuncian que la empresa concesionaria recibió más de $37 millones de subsidios pero no canceló los salarios.",
+          "Por Redacción TSN 26/10/2026 · 03:03 PM Agregar TSN Necochea en Desde las primeras horas de este lunes 26 de octubre , el servicio de transporte público urbano e interurbano de pasajeros en Necochea y Quequén se encuentra totalmente paralizado debido a una retención de tareas por tiempo indeterminado impulsada por los trabajadores nucleados en la Unión Tranviarios Automotor (UTA)."
+        ],
+        "generated": "2026-10-26T19:15:11.749149+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-26T19:13:50.042322+00:00"
+    },
+    {
+      "key": "emsur mantiene intenso despliegue maquinaria mejorar caminos rurales red hidraulica distrito",
+      "title": "Despliegue de maquinarias: Mejoran los caminos rurales y la red hidráulica del distrito",
+      "score": 2.433,
+      "sources_count": 2,
+      "first_seen": "2026-10-26T17:13:39+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/26-10-FOTO-EMSUR-Rural2.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Despliegue de maquinarias: Mejoran los caminos rurales y la red hidráulica del distrito",
+          "url": "https://tsnnecochea.com.ar/generales/despliegue-de-maquinarias-mejoran-los-caminos-rurales-y-la-red-hidraulica-del-distrito-240709/",
+          "published_at": "2026-10-26T17:13:39+00:00",
+          "first_seen": "2026-10-26T19:13:50.042322+00:00",
+          "category": "Arroyo Zabala",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/26-10-FOTO-EMSUR-Rural2.webp"
+        },
+        {
+          "portal": "Necochea Digital",
+          "title": "El EMSUR mantiene un intenso despliegue de maquinaria para mejorar los caminos rurales y la red hidráulica del distrito",
+          "url": "https://necocheadigital.com/nota/120011/el-emsur-mantiene-un-intenso-despliegue-de-maquinaria-para-mejorar-los-caminos-rurales-y-la-red-hidraulica-del-distrito/",
+          "published_at": null,
+          "first_seen": "2026-10-26T19:13:50.042322+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Generales | Arroyo Zabala | Trabajos Despliegue de maquinarias: Mejoran los caminos rurales y la red hidráulica del distrito Trabajos que llevó adelante el EMSUR durante octubre. Hay un registro anual de lluvias acumuladas de 775 milímetros Por Redacción TSN 26/10/2026 · 02:13 PM Agregar TSN Necochea en El Ente Municipal de Servicios Urbanos y Rurales (EMSUR) continúa desarrollando un amplio operativo de mantenimiento, reparación y reconstrucción de caminos rurales en distintos sectores del distrito de Necochea.",
+          "Durante octubre, los trabajos se llevaron adelante tanto con maquinaria y personal municipal como a través de convenios con la Dirección de Hidráulica de la Provincia de Buenos Aires."
+        ],
+        "generated": "2026-10-26T19:15:14.088372+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-26T19:13:50.042322+00:00"
+    },
+    {
+      "key": "nacion reconocio emergencia agropecuaria inundaciones necochea",
+      "title": "Nación reconoció la emergencia agropecuaria por inundaciones en Necochea",
+      "score": 1.993,
+      "sources_count": 2,
+      "first_seen": "2026-10-26T14:50:02+00:00",
+      "image": "https://cdnartic.ar/6YSKwgeACRqYI4Wj5m0ug7Eh4yE=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2025/03/campos_inundados.jpg",
+      "articles": [
+        {
+          "portal": "Ecos Diarios",
+          "title": "Nación reconoció la emergencia agropecuaria por inundaciones en Necochea",
+          "url": "https://elecos.com.ar/nacion-reconocio-la-emergencia-agropecuaria-por-inundaciones-en-necochea",
+          "published_at": "2026-10-26T17:10:00+00:00",
+          "first_seen": "2026-10-26T19:13:50.042322+00:00",
+          "category": "ecos-agro",
+          "image": "https://cdnartic.ar/6YSKwgeACRqYI4Wj5m0ug7Eh4yE=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2025/03/campos_inundados.jpg"
+        },
+        {
+          "portal": "Diario NQ",
+          "title": "Nación declaró la emergencia agropecuaria por inundaciones en cuatro zonas de Necochea",
+          "url": "https://diarionq.com.ar/nacion-declaro-la-emergencia-agropecuaria-por-inundaciones-en-cuatro-zonas-de-necochea/",
+          "published_at": "2026-10-26T14:50:02+00:00",
+          "first_seen": "2026-10-26T19:13:50.042322+00:00",
+          "category": "Destacadas",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El Gobierno nacional reconoció la situación de emergencia y desastre agropecuario en las circunscripciones II, III, IV y XII del distrito, además del partido de 9 de Julio. La medida comprende el período entre el 1° de mayo y el 31 de octubre de 2026 y permitirá a los productores afectados acceder a beneficios establecidos por ley.",
+          "El Gobierno nacional declaró la emergencia y/o desastre agropecuario por inundaciones en distintas zonas de la provincia de Buenos Aires, incluyendo cuatro circunscripciones del partido de Necochea, como consecuencia de los excesos hídricos que afectaron a establecimientos rurales. La decisión fue adoptada por el Ministerio de Economía de la Nación y alcanza a las circunscripciones II, III, IV y XII de Necochea, perteneciente a la Quinta Sección Electoral, así como a la totalidad del partido de 9 de Julio, ubicado en la Cuarta Sección."
+        ],
+        "generated": "2026-10-26T19:16:21.249417+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-26T19:13:50.042322+00:00"
+    },
+    {
+      "key": "actitud acro necochea brillo catamarca titulos nacionales gran cosecha podios",
+      "title": "Actitud Acro de Necochea brilló en Catamarca con títulos nacionales y una gran cosecha de podios",
+      "score": 1.78,
+      "sources_count": 2,
+      "first_seen": "2026-10-26T14:00:44+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/FOTO-Acro-Nacional2-scaled.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Actitud Acro de Necochea brilló en Catamarca con títulos nacionales y una gran cosecha de podios",
+          "url": "https://tsnnecochea.com.ar/deportes/actitud-acro-de-necochea-brillo-en-catamarca-con-titulos-nacionales-y-una-gran-cosecha-de-podios-240680/",
+          "published_at": "2026-10-26T14:00:44+00:00",
+          "first_seen": "2026-10-26T19:13:50.042322+00:00",
+          "category": "Acro",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/FOTO-Acro-Nacional2-scaled.webp"
+        },
+        {
+          "portal": "Noticias de Necochea",
+          "title": "Actitud Acro brilló en Catamarca: títulos nacionales y nuevos podios para la gimnasia de Necochea",
+          "url": "https://nden.com.ar/nota/38524/actitud-acro-brillo-en-catamarca-titulos-nacionales-y-nuevos-podios-para-la-gimnasia-de-necochea",
+          "published_at": "2026-10-26T15:03:00+00:00",
+          "first_seen": "2026-10-26T19:13:50.042322+00:00",
+          "category": null,
+          "image": "http://nden.com.ar/uploads/noticias/5/2026/10/20261026124947_foto-acro-nacional2-728x417.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Deportes | Acro | Gimnasia deportiva Actitud Acro de Necochea brilló en Catamarca con títulos nacionales y una gran cosecha de podios La delegación del Centro de Entrenamiento Acrobático que se desarrolla en el Club Rivadavia fue nuevamente protagonista a nivel nacional. Por Agustin Betancor 26/10/2026 · 11:00 AM Agregar TSN Necochea en La delegación de Actitud Acro de Necochea, representante del Club Rivadavia , tuvo una sobresaliente actuación en el Nacional Federativo de Gimnasia de Trampolín , niveles A y B, que se desarrolló en la provincia de Catamarca entre el 19 y el 24 de octubre.",
+          "Con varios títulos nacionales, subcampeonatos y puestos destacados, los representantes locales fueron protagonistas de una competencia que reunió a gimnastas de distintos puntos del país. Los deportistas necochenses del Centro de Entrenamiento Acrobático “Acro”, bajo la dirección de la Prof."
+        ],
+        "generated": "2026-10-26T19:16:47.994432+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-26T19:13:50.042322+00:00"
+    },
+    {
+      "key": "open neco voley convoco 59 equipos genero fuerte movimiento turistico necochea",
+      "title": "El Open cerró la 13ra edición con 59 equipos y un fuerte movimiento turístico en Necochea",
+      "score": 1.721,
+      "sources_count": 2,
+      "first_seen": "2026-10-26T13:04:13+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/FOTO-13-Open-Neco4-1.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "El Open cerró la 13ra edición con 59 equipos y un fuerte movimiento turístico en Necochea",
+          "url": "https://tsnnecochea.com.ar/deportes/el-open-cerro-la-13ra-edicion-con-59-equipos-y-un-fuerte-movimiento-turistico-en-necochea-240671/",
+          "published_at": "2026-10-26T13:04:13+00:00",
+          "first_seen": "2026-10-26T19:13:50.042322+00:00",
+          "category": "Neco",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/FOTO-13-Open-Neco4-1.webp"
+        },
+        {
+          "portal": "Necochea Digital",
+          "title": "El Open Neco de vóley convocó a 59 equipos y generó un fuerte movimiento turístico en Necochea",
+          "url": "https://necocheadigital.com/nota/120003/el-open-neco-de-voley-convoco-a-59-equipos-y-genero-un-fuerte-movimiento-turistico-en-necochea/",
+          "published_at": null,
+          "first_seen": "2026-10-26T19:13:50.042322+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Deportes | Neco | Vóley El Open cerró la 13ra edición con 59 equipos y un fuerte movimiento turístico en Necochea El Polideportivo fue eje de la jornada final con todas las delegaciones. Por Redacción TSN 26/10/2026 · 10:04 AM Agregar TSN Necochea en Necochea vivió tres días a puro vóley con la realización de la 13ª edición del Open Neco , que reunió a 59 equipos de distintos puntos del país y convocó a cientos de jóvenes deportistas, familias y acompañantes en una verdadera fiesta deportiva que combinó competencia, camaradería y turismo.",
+          "Además, el torneo fue de carácter internacional con la presencia de los planteles de Molivoleibol de Lima, Perú. Durante todo el fin de semana, las categorías Sub-14, Sub-16 y Sub-18, tanto en la rama femenina como masculina , fueron protagonistas de un torneo que volvió a posicionar a la ciudad como punto de encuentro para el vóley formativo."
+        ],
+        "generated": "2026-10-26T19:16:50.290642+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-26T19:13:50.042322+00:00"
+    },
+    {
+      "key": "familia quequen perdio todo incendio necesita ayuda urgente volver empezar",
+      "title": "Una familia de Quequén perdió todo en un incendio y necesita ayuda urgente para volver a empezar",
+      "score": 1.541,
+      "sources_count": 2,
+      "first_seen": "2026-10-26T13:25:25+00:00",
+      "image": "http://nden.com.ar/uploads/noticias/5/2026/10/3a8a0de80442e1c183ba17db6fb9a5481d566383.jpg",
+      "articles": [
+        {
+          "portal": "Noticias de Necochea",
+          "title": "Una familia de Quequén perdió todo en un incendio y necesita ayuda urgente para volver a empezar",
+          "url": "https://nden.com.ar/nota/38523/una-familia-de-quequen-perdio-todo-en-un-incendio-y-necesita-ayuda-urgente-para-volver-a-empezar",
+          "published_at": "2026-10-26T14:03:00+00:00",
+          "first_seen": "2026-10-26T19:13:50.042322+00:00",
+          "category": null,
+          "image": "http://nden.com.ar/uploads/noticias/5/2026/10/3a8a0de80442e1c183ba17db6fb9a5481d566383.jpg"
+        },
+        {
+          "portal": "Diario NQ",
+          "title": "Una familia de Quequén perdió todo en un incendio y necesita ayuda para volver a empezar",
+          "url": "https://diarionq.com.ar/una-familia-de-quequen-perdio-todo-en-un-incendio-y-necesita-ayuda-para-volver-a-empezar/",
+          "published_at": "2026-10-26T13:25:25+00:00",
+          "first_seen": "2026-10-26T19:13:50.042322+00:00",
+          "category": "La ciudad",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Una pareja y sus tres hijos se quedaron únicamente con la ropa que llevaban puesta luego de que un incendio destruyera su vivienda. Afortunadamente, los cinco integrantes se encuentran bien, pero necesitan la colaboración de la comunidad para reconstruir su hogar. Una familia de Quequén atraviesa un difícil momento luego de que un incendio destruyera su vivienda y provocara la pérdida de todas sus pertenencias.",
+          "En la casa vivían cinco personas: una pareja y sus tres hijos de 11, 7 y 4 años, quienes afortunadamente se encuentran fuera de peligro. Tras el siniestro, los damnificados se quedaron prácticamente con lo puesto y ahora enfrentan el enorme desafío de comenzar nuevamente, sin los elementos básicos para desarrollar su vida cotidiana."
+        ],
+        "generated": "2026-10-26T19:17:18.094082+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-26T19:13:50.042322+00:00"
+    },
+    {
+      "key": "fiscalia rechazo pedido inimputabilidad acusado matar madre exigio caso vaya juicio oral",
+      "title": "La Fiscalía rechazó el pedido de inimputabilidad para el acusado de matar a su madre y exigió que el caso vaya a juicio oral",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-26T19:13:50.042322+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261026121642_whatsapp-image-2026-10-26-at-12-16-11.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "La Fiscalía rechazó el pedido de inimputabilidad para el acusado de matar a su madre y exigió que el caso vaya a juicio oral",
+          "url": "https://necocheadigital.com/nota/120010/la-fiscalia-rechazo-el-pedido-de-inimputabilidad-para-el-acusado-de-matar-a-su-madre-y-exigio-que-el-caso-vaya-a-juicio-oral/",
+          "published_at": null,
+          "first_seen": "2026-10-26T19:13:50.042322+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "A poco más de cuatro meses del aberrante hecho acontecido en Quequén, la investigación por el crimen de Delia Mercedes Romero, de 86 años, ingresó en una etapa de definición técnica marcada por un contrapunto legal en torno a la salud mental del único acusado. La defensora oficial Laura Barbafina, en representación de Jorge Daniel Sánchez, de 56 años y apodado \"El Garda\", solicitó formalmente el sobreseimiento de su asistido por considerar que resulta inimputable, argumentando que al momento de perpetrar la agresión contra su madre no contaba con el pleno uso de sus facultades mentales.",
+          "La pretensión de la defensa fue impugnada de plano por el cotitular de la UFI N.º 10 de Violencia de Género, Walter Pierrestegui."
+        ],
+        "generated": "2026-10-26T19:18:14.461355+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-26T19:13:50.042322+00:00"
+    },
+    {
+      "key": "villa diaz velez aseguro uno zona estacion quequen logro ascenso 21 fecha dejo final rojo vivo",
+      "title": "Villa Díaz Vélez aseguró el uno en la Zona A, Estación Quequén logró el ascenso y la 21ª fecha dejó un final al rojo vivo",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-26T19:13:50.042322+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261026121002_whatsapp-image-2026-10-26-at-12-09-43.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Villa Díaz Vélez aseguró el uno en la Zona A, Estación Quequén logró el ascenso y la 21ª fecha dejó un final al rojo vivo",
+          "url": "https://necocheadigital.com/nota/120009/villa-diaz-velez-aseguro-el-uno-en-la-zona-a-estacion-quequen-logro-el-ascenso-y-la-21-ordf-fecha-dejo-un-final-al-rojo-vivo/",
+          "published_at": null,
+          "first_seen": "2026-10-26T19:13:50.042322+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La penúltima jornada de la fase regular del certamen de la Liga Necochea de Fútbol dejó definiciones de peso en ambos frentes de la tabla. En la Zona A, Villa Díaz Vélez aplastó a Villa del Parque en el clásico por 4-1 como visitante, con un doblete de Juan Ignacio Calderón y tantos de Fernando Montes y Jonathan Ríos, mientras que Lucio Szpyt marcó el descuento para el \"León\". Con este resultado, los dirigidos por Federico Montes alcanzaron los 45 puntos y se aseguraron matemáticamente el primer puesto del grupo antes de recibir a Mataderos en la fecha final.",
+          "La contracara del festejo \"Naranja\" fue la situación crítica de Villa del Parque, que con 24 unidades quedó sin chances de eludir la zona de peligro. El \"León\" deberá jugarse la permanencia en un mano a mano electrizante en la última jornada frente a Rivadavia en el Estadio Panamericano."
+        ],
+        "generated": "2026-10-26T19:18:15.191763+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-26T19:13:50.042322+00:00"
+    },
+    {
+      "key": "juan parka bernal consagro doble campeon mundial kickboxing colombia marco hito deporte local",
+      "title": "Juan \"La Parka\" Bernal se consagró doble campeón mundial de kickboxing en Colombia y marcó un hito para el deporte local",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-26T19:13:50.042322+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/085f51ffe4335286adfbfcd64f8e4ff4e7312aad.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Juan \"La Parka\" Bernal se consagró doble campeón mundial de kickboxing en Colombia y marcó un hito para el deporte local",
+          "url": "https://necocheadigital.com/nota/120007/juan-la-parka-bernal-se-consagro-doble-campeon-mundial-de-kickboxing-en-colombia-y-marco-un-hito-para-el-deporte-local/",
+          "published_at": null,
+          "first_seen": "2026-10-26T19:13:50.042322+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Juan “La Parka” Bernal escribió una página dorada para el deporte al consagrarse doble campeón del mundo en el Campeonato Mundial de Kickboxing de la World Kickboxing Federation (WKF) 2026, disputado en la ciudad de Cartagena de Indias, Colombia. El representante local cerró una actuación sobresaliente dentro de la categoría de adultos pesados, que reúne a competidores de entre 18 y 35 años con pesos de entre 91 y 140 kilogramos, al subirse al podio en las cuatro modalidades en las que le tocó competir durante el certamen internacional.",
+          "La cosecha de Bernal incluyó las máximas consagraciones en Full Contact y Point Fighting, logrando un hecho sin antecedentes para un peleador de la región en la categoría de adultos tanto sobre el ring como en el tatami."
+        ],
+        "generated": "2026-10-26T19:18:16.613254+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-26T19:13:50.042322+00:00"
+    },
+    {
+      "key": "arena series tuvo penultima fecha costa bonita casi 200 competidores destacada presencia local",
+      "title": "El Arena Series tuvo su penúltima fecha en Costa Bonita con casi 200 competidores y destacada presencia local",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-26T19:13:50.042322+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261026113703_whatsapp-image-2026-10-26-at-11-36-29.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "El Arena Series tuvo su penúltima fecha en Costa Bonita con casi 200 competidores y destacada presencia local",
+          "url": "https://necocheadigital.com/nota/120005/el-arena-series-tuvo-su-penultima-fecha-en-costa-bonita-con-casi-200-competidores-y-destacada-presencia-local/",
+          "published_at": null,
+          "first_seen": "2026-10-26T19:13:50.042322+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Rodrigo Landa y Santiago Caliendo se quedaron con la victoria en la séptima y penúltima fecha del Arena Series, una jornada caracterizada por la velocidad y la exigencia de la pista en Costa Bonita, donde ambos dieron un paso clave en sus aspiraciones al título. El evento reunió a casi 200 motos y cuatriciclos en distintas categorías, en una jornada fría que contó con una destacada actuación y presencia de pilotos necochenses.",
+          "En la categoría Senior de motos, el representante de Magdalena, Rodrigo Landa, logró imponerse tras una sólida labor en una pista que mostró su rudeza en varios pasajes. Landa tuvo como su más enconado rival al necochense Nahuel Pedersen, quien a bordo de una Husqvarna 450 cruzó la meta en la segunda posición, a 44.701 segundos del líder."
+        ],
+        "generated": "2026-10-26T19:18:17.744699+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-26T19:13:50.042322+00:00"
+    },
+    {
+      "key": "mauricio lambiris domino punta punta rosario antepenultima fecha turismo carretera",
+      "title": "Mauricio Lambiris dominó de punta a punta en Rosario por la antepenúltima fecha del Turismo Carretera",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-26T19:13:50.042322+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261026114346_whatsapp-image-2026-10-26-at-11-43-19.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Mauricio Lambiris dominó de punta a punta en Rosario por la antepenúltima fecha del Turismo Carretera",
+          "url": "https://necocheadigital.com/nota/120006/mauricio-lambiris-domino-de-punta-a-punta-en-rosario-por-la-antepenultima-fecha-del-turismo-carretera/",
+          "published_at": null,
+          "first_seen": "2026-10-26T19:13:50.042322+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Mauricio Lambiris fue el gran protagonista del \"Gran Premio AFA\", correspondiente a la 13ª fecha del campeonato de Turismo Carretera y tercera de la Copa de Oro, disputada en el autódromo Juan Manuel Fangio de Rosario. El piloto oriental dominó con solidez a bordo del Ford Mustang atendido por la Scuderia JT para adjudicarse la victoria de punta a punta al cabo de las 25 vueltas de competencia, devolviendo al uruguayo al triunfo tras más de un año sin subir a lo más alto del podio.",
+          "El resultado marcó un verdadero hito para la estructura con sede en Lobería liderada por Jerónimo Teti, que alcanzó su primer triunfo en la \"máxima\" categoría desde su desembarco en 2025."
+        ],
+        "generated": "2026-10-26T19:18:18.830326+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-26T19:13:50.042322+00:00"
+    },
+    {
+      "key": "generan espacio comunitario recreativo villa zabala",
+      "title": "Generan un espacio comunitario y recreativo en la Villa Zabala",
+      "score": 1.023,
+      "sources_count": 1,
+      "first_seen": "2026-10-26T17:18:51+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/26-10-FOTO-predio-Zabala5.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Generan un espacio comunitario y recreativo en la Villa Zabala",
+          "url": "https://tsnnecochea.com.ar/generales/generan-un-espacio-comunitario-y-recreativo-en-la-villa-zabala-240713/",
+          "published_at": "2026-10-26T17:18:51+00:00",
+          "first_seen": "2026-10-26T19:13:50.042322+00:00",
+          "category": "guardaparques",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/26-10-FOTO-predio-Zabala5.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Generales | guardaparques | En la calle 203, entre avenidas 2 y 10 Generan un espacio comunitario y recreativo en la Villa Zabala Trabajo conjunto entre instituciones y vecinos. Se realizó con plantación de especies nativas, construcción de bancos, instalación de cartelería y medidas para impedir el tránsito vehicular.",
+          "Por Redacción TSN 26/10/2026 · 02:18 PM Agregar TSN Necochea en El trabajo articulado entre las instituciones, los vecinos y el Estado municipal permite generar cambios concretos en la comunidad. El pasado sábado, se llevó adelante una jornada de trabajo comunitario en la calle 203, entre avenidas 2 y 10 , para recuperar un espacio degradado, poner en valor su riqueza natural y convertirlo en un lugar de encuentro y disfrute."
+        ],
+        "generated": "2026-10-26T19:18:19.914406+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-26T19:13:50.042322+00:00"
+    },
+    {
+      "key": "pusieron funciones nuevas autoridades puestos vigilancia claraz balneario angeles",
+      "title": "Pusieron en funciones a las nuevas autoridades en los puestos de vigilancia de Claraz y el Balneario Los Ángeles",
+      "score": 0.995,
+      "sources_count": 1,
+      "first_seen": "2026-10-26T16:58:36+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/26-10-FOTO-puesto-vigilancia-Claraz2.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Pusieron en funciones a las nuevas autoridades en los puestos de vigilancia de Claraz y el Balneario Los Ángeles",
+          "url": "https://tsnnecochea.com.ar/locales/pusieron-en-funciones-a-las-nuevas-autoridades-en-los-puestos-de-vigilancia-de-claraz-y-el-balneario-los-angeles-240703/",
+          "published_at": "2026-10-26T16:58:36+00:00",
+          "first_seen": "2026-10-26T19:13:50.042322+00:00",
+          "category": "Bañneario Los Angeles",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/26-10-FOTO-puesto-vigilancia-Claraz2.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Locales | Bañneario Los Angeles | Seguridad Pusieron en funciones a las nuevas autoridades en los puestos de vigilancia de Claraz y el Balneario Los Ángeles El objetivo de fortalecer la presencia preventiva en ambos sectores del distrito. Por Redacción TSN 26/10/2026 · 01:58 PM Agregar TSN Necochea en La Municipalidad de Necochea, a través de la Secretaría de Gobierno, a cargo de Jorge Martínez, y en articulación con la Jefatura Departamental Necochea, informa sobre la designación de nuevas autoridades en los puestos de vigilancia de Claraz y el Balneario Los Ángeles , con el objetivo de fortalecer la presencia preventiva en ambos sectores del distrito.",
+          "En Claraz , fue designado como encargado del puesto de vigilancia el oficial principal Daniel Martínez Torrez , dependencia que funciona bajo la órbita de la Comisaría Primera de Necochea."
+        ],
+        "generated": "2026-10-26T19:18:20.677806+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-26T19:13:50.042322+00:00"
+    },
+    {
+      "key": "zona fria como afectara revision subsidios gas necochea quequen",
+      "title": "Zona Fría: cómo afectará la revisión de subsidios de gas a Necochea y Quequén",
+      "score": 0.935,
+      "sources_count": 1,
+      "first_seen": "2026-10-26T16:14:31+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/04/Servicios-Gas-Tarifas.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Zona Fría: cómo afectará la revisión de subsidios de gas a Necochea y Quequén",
+          "url": "https://tsnnecochea.com.ar/locales/zona-fria-como-afectara-la-revision-de-subsidios-de-gas-a-necochea-y-quequen-240701/",
+          "published_at": "2026-10-26T16:14:31+00:00",
+          "first_seen": "2026-10-26T19:13:50.042322+00:00",
+          "category": "gas",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/04/Servicios-Gas-Tarifas.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Locales | gas | Subsidios Zona Fría: cómo afectará la revisión de subsidios de gas a Necochea y Quequén La actualización fijada por el Ejecutivo nacional elimina la bonificación automática para las ampliaciones del régimen aprobadas en los últimos años. El sistema seguirá vigente hasta 2031, pero bajo nuevos controles.",
+          "Por Redacción TSN 26/10/2026 · 01:14 PM Fotografía: Agencia Noticias Argentinas Agregar TSN Necochea en El Gobierno nacional oficializó la reglamentación de las modificaciones al Régimen de Zona Fría , mediante un decreto publicado en el Boletín Oficial que instrumenta los cambios fijados por la Ley 27.828. La medida redefine el funcionamiento del fondo fiduciario que financia los subsidios al consumo de gas natural y propano por redes, lo que podría traducirse en facturas más caras para miles de vecinos de Necochea y Quequén ."
+        ],
+        "generated": "2026-10-26T19:18:21.717690+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-26T19:13:50.042322+00:00"
+    },
+    {
+      "key": "colectivos convocan asamblea no descartan paro deuda salarial",
+      "title": "Colectivos: convocan a una asamblea y no descartan un paro por una deuda salarial",
+      "score": 0.708,
+      "sources_count": 1,
+      "first_seen": "2026-10-26T15:05:05+00:00",
+      "image": null,
+      "articles": [
+        {
+          "portal": "Diario NQ",
+          "title": "Colectivos: convocan a una asamblea y no descartan un paro por una deuda salarial",
+          "url": "https://diarionq.com.ar/colectivos-convocan-a-una-asamblea-y-no-descartan-un-paro-por-una-deuda-salarial/",
+          "published_at": "2026-10-26T15:05:05+00:00",
+          "first_seen": "2026-10-26T19:13:50.042322+00:00",
+          "category": "Destacadas",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Los trabajadores del transporte público de Necochea y Quequén se reunirán para definir los pasos a seguir ante la falta de pago de parte de los haberes adeudados. Según señalaron, la empresa habría recibido dinero, pero todavía no habría realizado ningún pago a los empleados.",
+          "Crece la incertidumbre por la continuidad del servicio de colectivos en Necochea y Quequén, luego de que los trabajadores anunciaran la realización de una asamblea para analizar la situación salarial y determinar si avanzan con una medida de fuerza. Según explicó un representante de los trabajadores, la reunión tendrá como objetivo informar a los empleados sobre el dinero que habría recibido la empresa y la falta de respuestas respecto de la deuda salarial que mantiene con el personal."
+        ],
+        "generated": "2026-10-26T19:18:49.560575+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-26T19:13:50.042322+00:00"
+    },
+    {
+      "key": "megacausa esma hito justicia reparadora medio siglo golpe estado charla abierta llega necochea",
+      "title": "“Megacausa ESMA: un hito de justicia reparadora a medio siglo del golpe de Estado”, la charla abierta que llega a Necochea",
+      "score": 0.593,
+      "sources_count": 1,
+      "first_seen": "2026-10-26T12:57:19+00:00",
+      "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-26-at-09.07.02.jpeg",
+      "articles": [
+        {
+          "portal": "Diario NQ",
+          "title": "“Megacausa ESMA: un hito de justicia reparadora a medio siglo del golpe de Estado”, la charla abierta que llega a Necochea",
+          "url": "https://diarionq.com.ar/megacausa-esma-un-hito-de-justicia-reparadora-a-medio-siglo-del-golpe-de-estado-la-charla-abierta-que-llega-a-necochea/",
+          "published_at": "2026-10-26T12:57:19+00:00",
+          "first_seen": "2026-10-26T19:13:50.042322+00:00",
+          "category": "Interés General",
+          "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-26-at-09.07.02.jpeg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La actividad será el 5 de noviembre a las 18 y estará abierta a toda la comunidad. Laura Bulesevich, jueza de la Cámara Civil y Comercial de Necochea; Víctor Pagani, presidente del Colegio de Abogados; y Andrea Salvini, presidenta de la Delegación Notarial, presentaron una propuesta que busca acercar especialmente a las nuevas generaciones a uno de los procesos judiciales más trascendentes de la historia argentina reciente.",
+          "Charlando con Fede Cañadas en “Esta Mañana”, por NEC Radio 98.3 del Multimedio NQ, Laura Bulesevich, jueza de la Cámara Civil y Comercial de Necochea; Víctor Pagani, presidente del Colegio de Abogados; y Andrea Salvini, presidenta de la Delegación Notarial , presentaron las dos importantes jornadas que se desarrollarán durante los primeros días de noviembre en la ciudad."
+        ],
+        "generated": "2026-10-26T19:19:17.806309+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-26T19:13:50.042322+00:00"
+    },
+    {
       "key": "rosca politica necochense futuro casino zonceras locales foto abre interrogantes 2027",
       "title": "La rosca política necochense: el futuro del Casino, las zonceras locales y una foto que abre interrogantes para 2027",
-      "score": 0.998,
+      "score": 0.587,
       "sources_count": 1,
       "first_seen": "2026-10-26T12:50:06+00:00",
       "image": null,
@@ -26,16 +562,16 @@
           "Por Miguel Abálsamo El manual de las zonceras necochenses Si tuviéramos que editar un libro de nuestra pequeña gran aldea sobre “Zonceras Necochenses”, en el cual creo que yo también estaría incluido en algunas páginas, podríamos recopilar numerosos análisis y mensajes, especialmente en redes sociales. Hay quienes deberían estudiar los temas sobre los que lanzan opiniones como certezas absolutas. Algunos hacen nombres personales, intentan convertirse en escritores, pensadores o analistas profundos en apenas cinco renglones de computadora, acostándose con la idea de ser el centro del mundo.",
           "Con la aparición de las redes sociales vamos descubriendo a los actores de nuestra comunidad. Algunos nos sorprenden por sus ideas y argumentos; otros, aun cuando disentimos con sus formas de pensar, nos ayudan a reflexionar, especialmente cuando tienen calidad intelectual y conocimiento."
         ],
-        "generated": "2026-10-26T12:53:59.207293+00:00"
+        "generated": "2026-10-26T19:19:20.091174+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-26T12:51:38.289854+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-10-26T19:13:50.042322+00:00",
+      "penalizacion": 1.0
     },
     {
       "key": "necochea celebro medallas conseguidas deportistas juegos bonaerenses",
       "title": "Necochea celebró las medallas conseguidas por sus deportistas en los Juegos Bonaerenses",
-      "score": 0.986,
+      "score": 0.58,
       "sources_count": 1,
       "first_seen": "2026-10-26T12:41:23+00:00",
       "image": null,
@@ -55,74 +591,16 @@
           "La delegación local comenzó a regresar de Mar del Plata tras su participación en las finales provinciales de los 35° Juegos Bonaerenses. Los representantes necochenses consiguieron medallas de oro, plata y bronce en distintas disciplinas, destacándose en natación adaptada y atletismo.",
           "Los deportistas de Necochea tuvieron una destacada participación en las finales de los 35° Juegos Bonaerenses, desarrolladas en Mar del Plata, donde lograron subir al podio en diferentes competencias y representar a la ciudad en uno de los encuentros deportivos más importantes de la provincia de Buenos Aires. Este viernes por la mañana arribó a Necochea el primer contingente de la delegación local, integrado por representantes de las escuelas municipales de natación adaptada, atletismo convencional y atletismo inclusivo."
         ],
-        "generated": "2026-10-26T12:54:01.888580+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-26T12:51:38.289854+00:00"
-    },
-    {
-      "key": "familiares recibieron deportistas locales compitieron bonaerenses",
-      "title": "Familiares recibieron a los deportistas locales que compitieron en los Bonaerenses",
-      "score": 0.962,
-      "sources_count": 1,
-      "first_seen": "2026-10-26T12:23:50+00:00",
-      "image": null,
-      "articles": [
-        {
-          "portal": "Necochea News",
-          "title": "Familiares recibieron a los deportistas locales que compitieron en los Bonaerenses",
-          "url": "https://necocheanews.com.ar/titulo-familiares-reciben-a-los-atletas-necocheenses-que-regresan-con-medallas-de-los-35-juegos-bonaerenses/",
-          "published_at": "2026-10-26T12:23:50+00:00",
-          "first_seen": "2026-10-26T12:30:01.027064+00:00",
-          "category": "LOCALES",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La primera tanda de la delegación local llegó a la Municipalidad de Necochea entre abrazos y lágrimas, mostrando los logros obtenidos en la competencia provincial de Mar del Plata. Llegada a la Municipalidad Este viernes por la mañana, la puerta de la Municipalidad de Necochea se convirtió en el punto de encuentro de familiares y allegados que esperaban a los deportistas locales que participaron en las finales de los 35° Juegos Bonaerenses.",
-          "El reencuentro estuvo cargado de alegría, abrazos y emoción al compartir los resultados obtenidos en la competencia. Resultados de la delegación El primer contingente estaba formado por integrantes de tres escuelas municipales: natación adaptada “Todos al Agua”, atletismo convencional y atletismo inclusivo."
-        ],
-        "generated": "2026-10-26T12:54:05.507636+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-26T12:51:38.289854+00:00"
-    },
-    {
-      "key": "gran mayoria bonaerenses quiere terminar kirchnerismo",
-      "title": "“La gran mayoría de los bonaerenses quiere terminar con el kirchnerismo”",
-      "score": 0.946,
-      "sources_count": 1,
-      "first_seen": "2026-10-26T12:00:45+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-26-at-01.49.31.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "“La gran mayoría de los bonaerenses quiere terminar con el kirchnerismo”",
-          "url": "https://tsnnecochea.com.ar/locales/la-gran-mayoria-de-los-bonaerenses-quiere-terminar-con-el-kirchnerismo-240658/",
-          "published_at": "2026-10-26T12:00:45+00:00",
-          "first_seen": "2026-10-26T12:30:01.027064+00:00",
-          "category": "Afiliación",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-26-at-01.49.31.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Locales | Afiliación | Convocatoria “La gran mayoría de los bonaerenses quiere terminar con el kirchnerismo” Afirman desde La Libertad Avanza. Realizaron una campaña de afiliación en el centro de la salud Por Redacción TSN 26/10/2026 · 09:00 AM Agregar TSN Necochea en Militantes libertarios de nuestra ciudad salieron a la calle para invitar a la gente a sumarse al movimiento fundado por el presidente de la Nación, Javier Milei. El centro de la ciudad fue el lugar elegido para estar en contacto con los vecinos y vecinas.",
-          "La mesa se ubicó en avenida 59 y calle 64. Allí estuvieron los concejales ALejandra Karagiannis, Veronica Bibbo, Juan Cerezuela, Yoel Acien, eduardo caballero, más los dirigentes Pablo Nosek, Gastón Berterreche, entre otros. Esta jornada volvió a poner de manifiesto que hay necochenses y bonaerenses dispuestos a involucrarse y participar activamente del futuro de su ciudad y su Provincia."
-        ],
-        "generated": "2026-10-26T12:53:54.228864+00:00"
+        "generated": "2026-10-26T19:19:22.280190+00:00"
       },
       "apariciones": 2,
-      "ultima_impresion": "2026-10-26T12:51:38.289854+00:00",
-      "penalizacion": 0.846
+      "ultima_impresion": "2026-10-26T19:13:50.042322+00:00",
+      "penalizacion": 1.0
     },
     {
       "key": "squash necochea conquisto tres titulos nacionales premio fair play mar plata",
       "title": "Squash: Necochea conquistó tres títulos nacionales y el premio Fair Play en Mar del Plata",
-      "score": 0.82,
+      "score": 0.57,
       "sources_count": 1,
       "first_seen": "2026-10-26T12:29:06+00:00",
       "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/73819db8-f6a8-4841-82e4-955be2214daa.jpg",
@@ -142,16 +620,45 @@
           "El equipo de VDV Squash Necochea tuvo una destacada actuación en el Nacional Abierto disputado del 23 al 25 de octubre en Mar del Plata. Nadia Latorraca, Bernardo Mastronardi e Isidro Ortiz se consagraron campeones nacionales, mientras que Christian Sánchez recibió el premio Fair Play, llevando nuevamente al squash necochense a lo más alto del ámbito nacional. El squash de Necochea volvió a ser protagonista en el escenario nacional.",
           "Durante el fin de semana del 23 al 25 de octubre, una delegación de VDV Squash Necochea participó del Torneo Nacional Abierto de Squash, desarrollado en el club Nick de Mar del Plata, donde se reunieron cerca de 100 jugadores de distintos puntos del país. La competencia congregó a destacados representantes del squash argentino y contó con categorías que abarcaron desde Primera Profesional hasta Sexta, además de tres categorías femeninas y la categoría de fondo para mayores de 40 años."
         ],
-        "generated": "2026-10-26T12:54:04.454528+00:00"
+        "generated": "2026-10-26T19:20:09.378567+00:00"
+      },
+      "apariciones": 3,
+      "ultima_impresion": "2026-10-26T19:13:50.042322+00:00",
+      "penalizacion": 1.0
+    },
+    {
+      "key": "familiares recibieron deportistas locales compitieron bonaerenses",
+      "title": "Familiares recibieron a los deportistas locales que compitieron en los Bonaerenses",
+      "score": 0.566,
+      "sources_count": 1,
+      "first_seen": "2026-10-26T12:23:50+00:00",
+      "image": null,
+      "articles": [
+        {
+          "portal": "Necochea News",
+          "title": "Familiares recibieron a los deportistas locales que compitieron en los Bonaerenses",
+          "url": "https://necocheanews.com.ar/titulo-familiares-reciben-a-los-atletas-necocheenses-que-regresan-con-medallas-de-los-35-juegos-bonaerenses/",
+          "published_at": "2026-10-26T12:23:50+00:00",
+          "first_seen": "2026-10-26T12:30:01.027064+00:00",
+          "category": "LOCALES",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La primera tanda de la delegación local llegó a la Municipalidad de Necochea entre abrazos y lágrimas, mostrando los logros obtenidos en la competencia provincial de Mar del Plata. Llegada a la Municipalidad Este viernes por la mañana, la puerta de la Municipalidad de Necochea se convirtió en el punto de encuentro de familiares y allegados que esperaban a los deportistas locales que participaron en las finales de los 35° Juegos Bonaerenses.",
+          "El reencuentro estuvo cargado de alegría, abrazos y emoción al compartir los resultados obtenidos en la competencia. Resultados de la delegación El primer contingente estaba formado por integrantes de tres escuelas municipales: natación adaptada “Todos al Agua”, atletismo convencional y atletismo inclusivo."
+        ],
+        "generated": "2026-10-26T19:20:10.224724+00:00"
       },
       "apariciones": 2,
-      "ultima_impresion": "2026-10-26T12:51:38.289854+00:00",
-      "penalizacion": 0.846
+      "ultima_impresion": "2026-10-26T19:13:50.042322+00:00",
+      "penalizacion": 1.0
     },
     {
       "key": "argentino creo dispositivo ia personas ciegas gano harvard",
       "title": "Es argentino, creó un dispositivo con IA para personas ciegas y ganó en Harvard",
-      "score": 0.796,
+      "score": 0.554,
       "sources_count": 1,
       "first_seen": "2026-10-26T12:08:11+00:00",
       "image": null,
@@ -171,16 +678,16 @@
           "El estudiante de 20 años, Martín Pulitano, obtuvo el primer puesto general en HackHarvard 2026 y dos distinciones adicionales por su prototipo “FEEL”, una herramienta que transforma el entorno en señales táctiles para usuarios con discapacidad visual. Martín Pulitano, de tercer año de Ingeniería Informática en la Universidad del CEMA, lideró un equipo de cuatro estudiantes durante un hackatón de 36 horas en el que diseñaron y construyeron “FEEL”.",
           "El dispositivo combina sensores, inteligencia artificial y retroalimentación háptica para detectar obstáculos a hasta cinco metros y transmitir la información mediante pequeños pines que ejercen una leve presión en distintas áreas de la mano del usuario. A diferencia de los sistemas tradicionales basados en sonido, “FEEL” utiliza una placa de hardware impresa en 3D, motores y una aplicación móvil con reconocimiento de imágenes impulsada por IA."
         ],
-        "generated": "2026-10-26T12:54:06.547533+00:00"
+        "generated": "2026-10-26T19:20:11.047771+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-10-26T12:51:38.289854+00:00",
-      "penalizacion": 0.846
+      "apariciones": 3,
+      "ultima_impresion": "2026-10-26T19:13:50.042322+00:00",
+      "penalizacion": 1.0
     },
     {
       "key": "velez sarsfield aplasto central cordoba mantiene dos puntos lider boca",
       "title": "Vélez Sarsfield aplastó 5-0 a Central Córdoba y se mantiene a dos puntos del líder Boca",
-      "score": 0.79,
+      "score": 0.549,
       "sources_count": 1,
       "first_seen": "2026-10-26T12:01:39+00:00",
       "image": null,
@@ -200,513 +707,40 @@
           "El equipo dirigido por Guillermo Barros Schelotto venció al rival santiagueño y quedó tercero en la Tabla Anual con 55 puntos. Vélez abrió el marcador a los siete minutos gracias a Matías Pellegrini, quien superó a Alan Aguerre con una definición cruzada. Veinte minutos después, el mismo Pellegrini participó en la jugada que permitió a Ronaldo Martínez ampliar el resultado al 2-0, tras un rápido contraataque y un centro preciso.",
           "Ronaldo Martínez completó su triplete con una espectacular chilena a los 12 minutos del segundo tiempo, una jugada que recordó a los grandes del fútbol. Minutos más tarde, Lucas Robertone anotó el cuarto tanto y, finalmente, el delantero volvió a colocar el balón en la red, sellando el 5-0 definitivo. Con la victoria, Vélez sumó tres puntos, alcanzando los 27 en la zona A del Clausura, compartiendo la posición con Boca."
         ],
-        "generated": "2026-10-26T12:54:07.597341+00:00"
-      },
-      "apariciones": 2,
-      "ultima_impresion": "2026-10-26T12:51:38.289854+00:00",
-      "penalizacion": 0.846
-    },
-    {
-      "key": "jimena lopez analizo junto liga amas casa impacto quita subsidios gas",
-      "title": "Jimena López analizó junto a la Liga de Amas de Casa el impacto de la quita de subsidios al gas",
-      "score": 0.502,
-      "sources_count": 1,
-      "first_seen": "2026-10-26T11:34:43+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-24-at-11.21.10.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Jimena López analizó junto a la Liga de Amas de Casa el impacto de la quita de subsidios al gas",
-          "url": "https://tsnnecochea.com.ar/locales/jimena-lopez-analizo-junto-a-la-liga-de-amas-de-casa-el-impacto-de-la-quita-de-subsidios-al-gas-240655/",
-          "published_at": "2026-10-26T11:34:43+00:00",
-          "first_seen": "2026-10-26T12:00:00.599203+00:00",
-          "category": "ajuste tarifario",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-24-at-11.21.10.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Locales | ajuste tarifario | Frente Renovador Jimena López analizó junto a la Liga de Amas de Casa el impacto de la quita de subsidios al gas Evaluaron las consecuencias del ajuste tarifario del gobierno de Javier Milei Por Redacción TSN 26/10/2026 · 08:34 AM Agregar TSN Necochea en La diputada nacional mantuvo una reunión de trabajo con la presidenta de la entidad, Marisa Sánchez, y el asesor legal Fernando Coppari. Durante la jornada se evaluaron las consecuencias del ajuste tarifario del gobierno de Milei y se repasaron diferentes alternativas de abordaje ante la problemática.",
-          "En el marco del monitoreo por las modificaciones en las tarifas de los servicios públicos, la diputada nacional Jimena López encabezó una reunión en la ciudad de Mar del Plata con las autoridades de la asociación de defensa de los consumidores Liga de Amas de Casa."
-        ],
-        "generated": "2026-10-26T12:53:55.428537+00:00"
+        "generated": "2026-10-26T19:20:11.876314+00:00"
       },
       "apariciones": 3,
-      "ultima_impresion": "2026-10-26T12:51:38.289854+00:00",
-      "penalizacion": 0.465
-    },
-    {
-      "key": "construccion sigue estancada pais complica corralones",
-      "title": "La construcción sigue estancada en el país y complica a los corralones",
-      "score": 0.431,
-      "sources_count": 1,
-      "first_seen": "2026-10-26T11:57:06+00:00",
-      "image": null,
-      "articles": [
-        {
-          "portal": "Necochea News",
-          "title": "La construcción sigue estancada en el país y complica a los corralones",
-          "url": "https://necocheanews.com.ar/construccion-estancada-en-argentina-ventas-de-materiales-bajan-hasta-40-y-el-isac-registra-44-en-agosto-2026/",
-          "published_at": "2026-10-26T11:57:06+00:00",
-          "first_seen": "2026-10-26T12:00:00.599203+00:00",
-          "category": "NACIONALES",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La caída de la actividad constructora sigue afectando a los comercios de materiales en la Ciudad y el conurbano, donde las ventas se redujeron entre un 30 % y un 40 % y los equipos de trabajo se vieron obligados a recortarse. Desaceleración que golpea a los corralones Los propietarios de los tradicionales corralones de la zona porteña describen una situación de escasa demanda. “La gente compra muy poco material, lleva lo justo y me pide precios”, comentó Hugo Romero, responsable de un establecimiento en Balvanera.",
-          "Según su testimonio, la reducción de ventas lo obligó a pasar de ocho a seis empleados, manteniendo la carga de trabajo pero sin que los ingresos compensen el esfuerzo. En el partido bonaerense de Moreno, Mauricio, encargado de la venta de materiales, explicó que la empresa recurre a camiones viejos para distribuir productos y evita endeudarse por temor a un empeoramiento de la crisis."
-        ],
-        "generated": "2026-10-26T12:54:08.647194+00:00"
-      },
-      "apariciones": 3,
-      "ultima_impresion": "2026-10-26T12:51:38.289854+00:00",
-      "penalizacion": 0.465
-    },
-    {
-      "key": "arrancamos semana sol lunes frio nublado necochea",
-      "title": "Arrancamos la semana sin sol: lunes frío y nublado en Necochea",
-      "score": 0.43,
-      "sources_count": 1,
-      "first_seen": "2026-10-26T11:54:43+00:00",
-      "image": null,
-      "articles": [
-        {
-          "portal": "Diario NQ",
-          "title": "Arrancamos la semana sin sol: lunes frío y nublado en Necochea",
-          "url": "https://diarionq.com.ar/arrancamos-la-semana-sin-sol-lunes-frio-y-nublado-en-necochea/",
-          "published_at": "2026-10-26T11:54:43+00:00",
-          "first_seen": "2026-10-26T12:00:00.599203+00:00",
-          "category": "Destacadas",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La semana comienza con temperaturas bajas y un cielo mayormente cubierto en Necochea y Quequén. Para este lunes 26 de octubre se espera una máxima de 14°C y una mínima de 6°C, sin probabilidades de precipitaciones. El inicio de la semana llega con condiciones poco primaverales en Necochea y Quequén. Según el pronóstico del Servicio Meteorológico Nacional (SMN), este lunes 26 de octubre estará marcado por la abundante nubosidad, el ambiente fresco y temperaturas que no superarán los 14 grados.",
-          "Durante la mañana, el termómetro rondará los 11°C, con vientos provenientes del sector norte a velocidades de entre 7 y 12 kilómetros por hora. El cielo permanecerá cubierto y no se esperan lluvias. Por la tarde se registrará el momento más templado de la jornada, con una temperatura cercana a los 14°C."
-        ],
-        "generated": "2026-10-26T12:54:10.970829+00:00"
-      },
-      "apariciones": 3,
-      "ultima_impresion": "2026-10-26T12:51:38.289854+00:00",
-      "penalizacion": 0.465
-    },
-    {
-      "key": "real madrid vence barcelona camp nou rompe invicto",
-      "title": "Real Madrid vence al Barcelona 2‑1 en el Camp Nou y rompe su invicto",
-      "score": 0.429,
-      "sources_count": 1,
-      "first_seen": "2026-10-26T11:53:24+00:00",
-      "image": null,
-      "articles": [
-        {
-          "portal": "Necochea News",
-          "title": "Real Madrid vence al Barcelona 2‑1 en el Camp Nou y rompe su invicto",
-          "url": "https://necocheanews.com.ar/real-madrid-vence-al-barcelona-2-1-en-el-camp-nou-y-rompe-su-invicto/",
-          "published_at": "2026-10-26T11:53:24+00:00",
-          "first_seen": "2026-10-26T12:00:00.599203+00:00",
-          "category": "DEPORTES",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El conjunto merengue se impuso por dos goles de Kylian Mbappé, poniendo fin a la racha sin derrotas del Barcelona y acercándose al liderato de LaLiga. En la décima jornada del campeonato español, el Real Madrid logró una victoria de 2‑1 sobre el Barcelona en el Camp Nou. Kylian Mbappé fue la figura del partido, anotando los dos goles que le dieron la victoria al equipo dirigido por Carlo Ancelotti y que puso fin al invicto del conjunto catalán bajo la dirección de Hansi Flick.",
-          "El partido comenzó con el Barcelona dominando la posesión, pero el Real Madrid encontró espacios y generó peligro desde los primeros minutos. Arda Güler amenazó con dos remates que obligaron a intervenir a Joan García, mientras que el conjunto local respondió con llegadas de Raphinha y Anthony Gordon. Un error defensivo de Gerard Martín permitió a Mbappé abrir el marcador a los 42 minutos, tras un centro rasante desde la izquierda."
-        ],
-        "generated": "2026-10-26T12:54:11.692077+00:00"
-      },
-      "apariciones": 3,
-      "ultima_impresion": "2026-10-26T12:51:38.289854+00:00",
-      "penalizacion": 0.465
-    },
-    {
-      "key": "cristina kirchner felicita lula equipara 17 octubre 1945",
-      "title": "Cristina Kirchner felicita a Lula y lo equipara al 17 de octubre de 1945",
-      "score": 0.428,
-      "sources_count": 1,
-      "first_seen": "2026-10-26T11:50:57+00:00",
-      "image": null,
-      "articles": [
-        {
-          "portal": "Necochea News",
-          "title": "Cristina Kirchner felicita a Lula y lo equipara al 17 de octubre de 1945",
-          "url": "https://necocheanews.com.ar/cristina-kirchner-felicita-a-lula-y-lo-equipara-al-17-de-octubre-de-1945/",
-          "published_at": "2026-10-26T11:50:57+00:00",
-          "first_seen": "2026-10-26T12:00:00.599203+00:00",
-          "category": "ACTUALIDAD",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "*La expresidenta argentina elogió la reelección del mandatario brasileño y varios dirigentes del peronismo se sumaron al reconocimiento.* La expresidenta Cristina Fernández de Kirchner utilizó su cuenta de X para felicitar a Luiz Inácio Lula da Silva por su victoria en el balotaje presidencial de Brasil contra Flávio Bolsonaro. En su mensaje, la dirigente comparó la movilización popular que llevó a Lula a la segunda vuelta con el histórico 17 de octubre de 1945, fecha emblemática del peronismo.",
-          "> “Felicitaciones, primero al pueblo brasileño que hoy protagonizó un auténtico 17 de octubre electoral y después a usted, compañero presidente Lula, que en su séptima elección presidencial supo despertar en sus compatriotas sentimiento y sentido para ganar esta batalla”. – Cristina Kirchner, 26 de octubre 2026."
-        ],
-        "generated": "2026-10-26T12:54:12.574654+00:00"
-      },
-      "apariciones": 3,
-      "ultima_impresion": "2026-10-26T12:51:38.289854+00:00",
-      "penalizacion": 0.465
-    },
-    {
-      "key": "analizaron dificultades podrian surgir regular actividad trapitos",
-      "title": "Analizaron las dificultades que podrían surgir al regular la actividad de los “trapitos”",
-      "score": 0.263,
-      "sources_count": 1,
-      "first_seen": "2026-10-26T11:00:59+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/02-MS.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Analizaron las dificultades que podrían surgir al regular la actividad de los “trapitos”",
-          "url": "https://tsnnecochea.com.ar/locales/analizaron-las-dificultades-que-podrian-surgir-al-regular-la-actividad-de-lso-trapitos-240652/",
-          "published_at": "2026-10-26T11:00:59+00:00",
-          "first_seen": "2026-10-26T11:30:01.002602+00:00",
-          "category": "concejales",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/02-MS.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Locales | concejales | Concejo Analizaron las dificultades que podrían surgir al regular la actividad de los “trapitos” Se reunió la mesa social.",
-          "Dialogó entre concejales, entidades y funcionarios del ejecutivo Por Redacción TSN 26/10/2026 · 08:00 AM Agregar TSN Necochea en En el marco del seguimiento y reglamentación de las normativas vigentes en el distrito, la Mesa Social mantuvo un nuevo encuentro de trabajo en la sala del Honorable Concejo Deliberante de Necochea (HCD) para avanzar en la aplicación efectiva de la ordenanza que regula el trabajo de cuidacoches y limpiavidrios ."
-        ],
-        "generated": "2026-10-26T12:53:56.668183+00:00"
-      },
-      "apariciones": 4,
-      "ultima_impresion": "2026-10-26T12:51:38.289854+00:00",
-      "penalizacion": 0.256
-    },
-    {
-      "key": "marcado exito desarrollo 13 open neco voleibol",
-      "title": "Con marcado éxito se desarrolló el 13° Open Neco de vóleibol",
-      "score": 0.228,
-      "sources_count": 1,
-      "first_seen": "2026-10-26T11:29:24+00:00",
-      "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/DSC04371.jpg",
-      "articles": [
-        {
-          "portal": "Diario NQ",
-          "title": "Con marcado éxito se desarrolló el 13° Open Neco de vóleibol",
-          "url": "https://diarionq.com.ar/con-marcado-exito-se-desarrollo-el-13-open-neco-de-voleibol/",
-          "published_at": "2026-10-26T11:29:24+00:00",
-          "first_seen": "2026-10-26T11:30:01.002602+00:00",
-          "category": "Deportes",
-          "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/DSC04371.jpg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Por Leonardo Menna El gran torneo abierto organizado por Pablo Meana contó con un excelente nivel y gran cantidad de visitantes, incluso dos equipos de Perú Una vez más el éxito coronó el torneo abierto de vóleibol más importante y más grande del país, como es el Open Neco, con la organización de uno de los embajadores históricos del deporte necochense y gran referente del vóleibol nacional, como es Pablo Meana. Fueron tres días a puro voley en Necochea, con gran cantidad de equipos, incluso dos de Perú y varios del Sur de nuestro país, además de un excelente nivel de juego, y una organización impecable una vez más.",
-          "Los primeros puestos de Copa de Oro, en las diferentes categorías, fueron los siguientes: en Sub-14 femenino, campeón Molivóleibol de Perú, subcampeón Tortuguitas A y tercero, Pinocho. En Sub-14 masculino, 1°) Once Unidos de Mar del Plata; 2°) Los Andes de Neuquén y 3°) Lanús."
-        ],
-        "generated": "2026-10-26T12:54:14.707354+00:00"
-      },
-      "apariciones": 4,
-      "ultima_impresion": "2026-10-26T12:51:38.289854+00:00",
-      "penalizacion": 0.256
-    },
-    {
-      "key": "buscando aire financiero kicillof sale mercado emitir 10 000 millones suma nueva deuda publica",
-      "title": "Buscando aire financiero: Kicillof sale al mercado a emitir $10.000 millones y suma nueva deuda pública",
-      "score": 0.018,
-      "sources_count": 1,
-      "first_seen": "2026-10-24T12:20:29+00:00",
-      "image": "https://res.cloudinary.com/dsugba4yh/image/upload/v1792844413/AX_od6hpo.png",
-      "articles": [
-        {
-          "portal": "Informate Necochea",
-          "title": "Buscando aire financiero: Kicillof sale al mercado a emitir $10.000 millones y suma nueva deuda pública",
-          "url": "https://informatenecochea.com/noticia/buscando-aire-financiero-kicillof-sale-al-mercado-a-emitir-dollar10000-millones-y-suma-nueva-deuda-publica",
-          "published_at": "2026-10-24T12:20:29+00:00",
-          "first_seen": "2026-10-26T12:51:38.289854+00:00",
-          "category": "Nacional",
-          "image": "https://res.cloudinary.com/dsugba4yh/image/upload/v1792844413/AX_od6hpo.png"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Inicio / Nacional Nacional Buscando aire financiero: Kicillof sale al mercado a emitir $10.000 millones y suma nueva deuda pública El Gobierno de la Provincia de Buenos Aires dio un nuevo paso en su estrategia de financiamiento para hacer frente a las necesidades inmediatas de caja. A través de la Resolución 77-SSFIMECONGP-2026, la Subsecretaría de Finanzas provincial oficializó la apertura del décimo tramo del programa de emisión de Letras del Tesoro de 2026 por un monto de hasta $10.000 millones, al tiempo que inscribió como deuda pública formal otro tramo de compromisos por más de $24.750 millones.",
-          "Redacción sábado, 24 de octubre de 2026 · 219 lecturas La nueva colocación, que se llevará a cabo mediante licitación pública a través de la plataforma A3 Mercados y con el Banco Provincia como agente liquidador, contempla instrumentos con plazos de vencimiento de hasta 365 días (con proyección entre finales de 2026 y 2027)."
-        ],
-        "generated": "2026-10-26T12:54:58.122946+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-26T12:51:38.289854+00:00"
-    },
-    {
-      "key": "subastaron teatro auditorium casino adjudico 383 millones firma toda vela mar",
-      "title": "Subastaron el Teatro Auditórium del Casino: se adjudicó por $383,8 millones a la firma A Toda Vela Mar S.A.",
-      "score": 0.017,
-      "sources_count": 1,
-      "first_seen": "2026-10-24T12:08:38+00:00",
-      "image": "https://res.cloudinary.com/dsugba4yh/image/upload/v1792843703/ROJAS_lzkksc.png",
-      "articles": [
-        {
-          "portal": "Informate Necochea",
-          "title": "Subastaron el Teatro Auditórium del Casino: se adjudicó por $383,8 millones a la firma A Toda Vela Mar S.A.",
-          "url": "https://informatenecochea.com/noticia/subastaron-el-teatro-auditorium-del-casino-se-adjudico-por-dollar3838-millones-a-la-firma-a-toda-vela-mar-sa",
-          "published_at": "2026-10-24T12:08:38+00:00",
-          "first_seen": "2026-10-26T12:51:38.289854+00:00",
-          "category": "Local",
-          "image": "https://res.cloudinary.com/dsugba4yh/image/upload/v1792843703/ROJAS_lzkksc.png"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Inicio / Local Local Subastaron el Teatro Auditórium del Casino: se adjudicó por $383,8 millones a la firma A Toda Vela Mar S.A. La Municipalidad de Necochea concretó este viernes 23 de octubre la subasta pública del Teatro Auditórium del Complejo Casino. La firma A Toda Vela Mar S.A., representada por el empresario Oscar Merlo, resultó la única oferente y se adjudicó la Parcela C del emblemático predio costero por un monto base de $383.819.190.",
-          "La operación representa un nuevo avance en el proceso de privatización de la infraestructura municipal, aunque la normativa urbanística vigente impone la obligación de conservar el inmueble para su uso exclusivo como espacio cultural. Redacción sábado, 24 de octubre de 2026 · 215 lecturas El remate fue llevado a cabo en el Salón de Actos “Domingo J. Taraborelli” por el martillero público Sergio Marcelo Gertie, designado por sorteo previa vigencia de la Ordenanza Municipal Nº 12.009/25."
-        ],
-        "generated": "2026-10-26T12:55:01.463919+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-26T12:51:38.289854+00:00"
-    },
-    {
-      "key": "sobreseimiento causa libra milei denuncio operacion politica mediatica cruzo periodistas",
-      "title": "Tras su sobreseimiento en la Causa $LIBRA, Milei denunció una \"operación política y mediática\" y cruzó a periodistas",
-      "score": 0.017,
-      "sources_count": 1,
-      "first_seen": "2026-10-24T11:56:28+00:00",
-      "image": "https://res.cloudinary.com/dsugba4yh/image/upload/v1792842952/libra_hasnav.png",
-      "articles": [
-        {
-          "portal": "Informate Necochea",
-          "title": "Tras su sobreseimiento en la Causa $LIBRA, Milei denunció una \"operación política y mediática\" y cruzó a periodistas",
-          "url": "https://informatenecochea.com/noticia/tras-su-sobreseimiento-en-la-causa-dollarlibra-milei-denuncio-una-operacion-politica-y-mediatica-y-cruzo-a-periodistas",
-          "published_at": "2026-10-24T11:56:28+00:00",
-          "first_seen": "2026-10-26T12:51:38.289854+00:00",
-          "category": "Nacional",
-          "image": "https://res.cloudinary.com/dsugba4yh/image/upload/v1792842952/libra_hasnav.png"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Inicio / Nacional Nacional Tras su sobreseimiento en la Causa $LIBRA, Milei denunció una \"operación política y mediática\" y cruzó a periodistas El presidente Javier Milei reaccionó con dureza tras conocerse el fallo de la Justicia federal que dispuso su sobreseimiento y el de la secretaria general de la Presidencia, Karina Milei, en la causa que investigaba el lanzamiento y posterior desplome del criptoactivo $LIBRA ocurrido en febrero de 2025.",
-          "Redacción sábado, 24 de octubre de 2026 · 188 lecturas A través de un extenso comunicado publicado en la red social X (ex Twitter), el jefe de Estado celebró la resolución firmada por el juez federal Marcelo Martínez de Giorgi, al tiempo que apuntó duramente contra dirigentes de la oposición y medios de comunicación, asegurando que existió un intento de desestabilización en su contra."
-        ],
-        "generated": "2026-10-26T12:55:04.866125+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-26T12:51:38.289854+00:00"
-    },
-    {
-      "key": "lula derroto bolsonaro balotaje logro cuarto mandato como presidente brasil",
-      "title": "Lula derrotó a Bolsonaro en el balotaje y logró su cuarto mandato como presidente de Brasil",
-      "score": 0.0,
-      "sources_count": 2,
-      "first_seen": "2026-10-26T04:08:27+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/540-11-1.avif",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Lula derrotó a Bolsonaro en el balotaje y logró su cuarto mandato como presidente de Brasil",
-          "url": "https://tsnnecochea.com.ar/internacionales/lula-derroto-a-bolsonaro-en-el-balotaje-y-logro-su-cuarto-mandato-como-presidente-de-brasil-240649/",
-          "published_at": "2026-10-26T04:08:27+00:00",
-          "first_seen": "2026-10-26T04:30:00.651077+00:00",
-          "category": "Brasil",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/540-11-1.avif"
-        },
-        {
-          "portal": "Diario NQ",
-          "title": "Lula fue reelecto presidente de Brasil y asumirá su cuarto mandato en enero de 2027",
-          "url": "https://diarionq.com.ar/lula-fue-reelecto-presidente-de-brasil-y-asumira-su-cuarto-mandato-en-enero-de-2027/",
-          "published_at": "2026-10-26T12:01:54+00:00",
-          "first_seen": "2026-10-26T12:30:01.027064+00:00",
-          "category": "internacionales",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Internacionales | Brasil | Elecciones Lula derrotó a Bolsonaro en el balotaje y logró su cuarto mandato como presidente de Brasil El mandatario revirtió la derrota que había sufrido en la primera vuelta y consiguió la reelección frente al hijo del expresidente Jair Bolsonaro.",
-          "Por Redacción TSN 26/10/2026 · 01:08 AM Agregar TSN Necochea en El presidente de Brasil, Luiz Inácio ‘Lula’ da Silva consiguió, este domingo, la reelección para un cuarto mandato al derrotar en el balotaje al senador ultraderechista Flávio Bolsonaro , hijo del expresidente Jair Bolsonaro, en una jornada marcada por la polarización política, los cambios de liderazgo durante el escrutinio y la decisión judicial de extender el horario de votación en todo el país."
-        ],
-        "generated": "2026-10-26T12:52:40.020668+00:00"
-      },
-      "apariciones": 21,
-      "ultima_impresion": "2026-10-26T12:51:38.289854+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "como estara tiempo lunes necochea quequen",
-      "title": "Cómo estará el tiempo este lunes en Necochea y Quequén",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-10-26T05:14:22+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2024/06/niebla-en-el-rio-quequennecochea-argentina-ac3eb258-0918-4d12-9afe-7ab47a861128.jpg",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Cómo estará el tiempo este lunes en Necochea y Quequén",
-          "url": "https://tsnnecochea.com.ar/locales/como-estara-el-tiempo-este-lunes-en-necochea-y-quequen-17-240665/",
-          "published_at": "2026-10-26T05:14:22+00:00",
-          "first_seen": "2026-10-26T05:30:01.433416+00:00",
-          "category": "humedad",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2024/06/niebla-en-el-rio-quequennecochea-argentina-ac3eb258-0918-4d12-9afe-7ab47a861128.jpg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Locales | humedad | Clima Cómo estará el tiempo este lunes en Necochea y Quequén Datos aportados por el Servicio Meteorológico Nacional Por Redacción TSN 26/10/2026 · 02:14 AM El clima para este martes Agregar TSN Necochea en El pronóstico del Servicio Meteorológico Nacional para este lunes 26 de octubre en Necochea indica una temperatura máxima de 14°C y una mínima de 6° C, con vientos del Sudeste a 22 km/h. Por la madrugada, la temperatura será de 6° C. El viento es del cuadrante Norte a una velocidad que puede llegar a 12 km/h, con neblina.",
-          "En la mañana la temperatura será de 11° C, el viento soplará del cuadrante Norte a una velocidad que puede llegar a 12 km/h, con el cielo cubierto por una densa niebla. Por la tarde se espera una temperatura máxima de alrededor de 14 grados, el viento soplará del sector Noreste a una velocidad que pueden llegar a los 14 kilómetros y el cielo mayormente nublado."
-        ],
-        "generated": "2026-10-26T12:54:15.962664+00:00"
-      },
-      "apariciones": 19,
-      "ultima_impresion": "2026-10-26T12:51:38.289854+00:00",
-      "penalizacion": 0.0
+      "ultima_impresion": "2026-10-26T19:13:50.042322+00:00",
+      "penalizacion": 1.0
     },
     {
       "key": "viene nueva edicion congreso logistica puertos comercio exterior unicen",
-      "title": "Se viene la nueva edición del Congreso de Logística, Puertos y Comercio Exterior de la Unicen",
-      "score": 0.0,
+      "title": "El Congreso de Logística, Puertos y Comercio Exterior de la Unicen celebrará su 12ª edición",
+      "score": 0.026,
       "sources_count": 1,
-      "first_seen": "2026-10-26T05:08:12+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2023/11/1699729442580.webp",
+      "first_seen": "2026-10-26T19:13:50.042322+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261026115328_10-11-foto-arturo-rojas-unicen-congreso-logisitca-02.jpg",
       "articles": [
         {
-          "portal": "TSN Necochea",
-          "title": "Se viene la nueva edición del Congreso de Logística, Puertos y Comercio Exterior de la Unicen",
-          "url": "https://tsnnecochea.com.ar/generales/se-viene-la-nueva-edicion-del-congreso-de-logistica-puertos-y-comercio-exterior-de-la-unicen-240663/",
-          "published_at": "2026-10-26T05:08:12+00:00",
-          "first_seen": "2026-10-26T05:30:01.433416+00:00",
-          "category": "comercio exterior",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2023/11/1699729442580.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Generales | comercio exterior | Avtividades Se viene la nueva edición del Congreso de Logística, Puertos y Comercio Exterior de la Unicen Se desarrollará el 19 y 20 de noviembre, con actividades en la Unidad de Enseñanza Universitaria Quequén de la UNICEN y en el Centro de Acopiadores de Cereales.",
-          "Por Redacción TSN 26/10/2026 · 02:08 AM Rojas en el Congreso de Lógistica Agregar TSN Necochea en La nueva edición del Congreso de Logística, Puertos y Comercio Exterior, organizado por la Unidad de Enseñanza Universitaria Quequén de la UNICEN, reunirá una vez más a profesionales, docentes, estudiantes y referentes de los ámbitos logístico, portuario y comercial para debatir sobre los desafíos de la actividad, la transformación tecnológica, la infraestructura y las oportunidades de desarrollo regional."
-        ],
-        "generated": "2026-10-26T12:54:17.200502+00:00"
-      },
-      "apariciones": 19,
-      "ultima_impresion": "2026-10-26T12:51:38.289854+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "villa diaz velez goleo gimnasia gano definicion acerca",
-      "title": "Villa Díaz Vélez goleó, Gimnasia ganó y la definición se acerca",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-10-25T21:51:10+00:00",
-      "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/b8ffa10b-003f-4916-a5fc-c71996f7d408.jpg",
-      "articles": [
-        {
-          "portal": "Diario NQ",
-          "title": "Villa Díaz Vélez goleó, Gimnasia ganó y la definición se acerca",
-          "url": "https://diarionq.com.ar/villa-diaz-velez-goleo-gimnasia-gano-y-la-definicion-se-acerca/",
-          "published_at": "2026-10-25T21:51:10+00:00",
-          "first_seen": "2026-10-25T22:00:01.139634+00:00",
-          "category": "Destacadas",
-          "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/b8ffa10b-003f-4916-a5fc-c71996f7d408.jpg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El Naranja venció 4-1 a Villa del Parque y continúa en lo más alto de la Zona A. En la Zona B, Estación Quequén lidera con 42 puntos, mientras que Independiente de Lobería y Gimnasia completan el podio. Además, Huracán goleó y aseguró su lugar en el reducido. La jornada quedó marcada por la suspensión del partido entre Jorge Newbery y Ministerio tras una agresión a un árbitro.",
-          "La fecha 21 del Torneo “Sergio ‘Giuseppe’ Portugal” 2026 dejó resultados importantes en la recta final de la fase regular de la Liga Necochea de Fútbol. Villa Díaz Vélez ratificó su liderazgo con una goleada, Gimnasia consiguió un valioso triunfo en casa y Huracán se aseguró un lugar en el reducido por un puesto en la promoción. Goleada del Naranja en el Parque Villa Díaz Vélez se impuso por 4-1 ante Villa del Parque y continúa firme en la cima de la Zona A."
-        ],
-        "generated": "2026-10-26T12:54:55.944410+00:00"
-      },
-      "apariciones": 36,
-      "ultima_impresion": "2026-10-26T12:51:38.289854+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "arba lanzo plan facilidades pago todos impuestos mora importantes descuentos",
-      "title": "ARBA LANZÒ UN PLAN DE FACILIDADES DE PAGO PARA TODOS LOS IMPUESTOS EN MORA CON IMPORTANTES DESCUENTOS.",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-10-21T22:52:41+00:00",
-      "image": null,
-      "articles": [
-        {
-          "portal": "Necochea Libre",
-          "title": "ARBA LANZÒ UN PLAN DE FACILIDADES DE PAGO PARA TODOS LOS IMPUESTOS EN MORA CON IMPORTANTES DESCUENTOS.",
-          "url": "https://necochealibre.com.ar/arba-lanzo-un-plan-de-facilidades-de-pago-para-todos-los-impuestos-en-mora-con-importantes-descuentos/",
-          "published_at": "2026-10-21T22:52:41+00:00",
-          "first_seen": "2026-10-26T12:51:38.289854+00:00",
-          "category": "Generales",
+          "portal": "Necochea Digital",
+          "title": "El Congreso de Logística, Puertos y Comercio Exterior de la Unicen celebrará su 12ª edición",
+          "url": "https://necocheadigital.com/nota/120008/el-congreso-de-logistica-puertos-y-comercio-exterior-de-la-unicen-celebrara-su-12-ordf-edicion/",
+          "published_at": null,
+          "first_seen": "2026-10-26T19:13:50.042322+00:00",
+          "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "Generales ARBA LANZÒ UN PLAN DE FACILIDADES DE PAGO PARA TODOS LOS IMPUESTOS EN MORA CON IMPORTANTES DESCUENTOS. Por admin - 21 octubre, 2026 0 3 Facebook Twitter Pinterest WhatsApp La Plata.- ARBA lanza una moratoria con descuentos de hasta 40% para regularizar deudas de impuestos. El beneficio dependerá de la fecha de adhesión y de la modalidad de pago : quienes cancelen al contado durante las primeras semanas accederán a la mayor bonificación. El régimen tendrá cuatro etapas, con bonificaciones decrecientes para quienes se incorporen más adelante.",
-          "En las primeras semanas, la quita llegará al 40% para el pago al contado , al 20% si se eligen tres cuotas y al 15% en seis cuotas . En diciembre, en cambio, el descuento quedará limitado al pago en una sola vez. El plan comenzará el 26 de octubre y permitirá pagar en cuotas o al contado."
+          "La Unidad de Enseñanza Universitaria Quequén de la Universidad Nacional del Centro de la Provincia de Buenos Aires (UNICEN) llevará a cabo el XII Congreso de Logística, Puertos y Comercio Exterior (LOGIPEX), una destacada propuesta que reunirá a profesionales, docentes, estudiantes y referentes del sector para debatir sobre la transformación tecnológica, la infraestructura y el desarrollo regional. Las actividades tendrán lugar el jueves 19 y el viernes 20 de noviembre, articulando espacios de capacitación entre la sede universitaria de Quequén, ubicada en calle 508 N.º 881, y la sede del Centro de Acopiadores de Cereales, situada en avenida 59 N.º 836 de Necochea.",
+          "La jornada inicial del jueves comenzará a las 9.30 en Quequén con el dictado de talleres simultáneos sobre cultura vial, química cotidiana y trazabilidad biogeoquímica aplicada a la investigación, este último a cargo de Luciano Valenzuela y Felipe Otero."
         ],
-        "generated": "2026-10-26T12:55:05.648415+00:00"
+        "generated": "2026-10-26T19:18:15.912942+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-26T12:51:38.289854+00:00"
-    },
-    {
-      "key": "sabado 24 octubre brindara nueva jornada castracion mascotas",
-      "title": "EL SÀBADO 24 DE OCTUBRE SE BRINDARÀ UNA NUEVA JORNADA DE CASTRACIÒN DE MASCOTAS.",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-10-21T22:42:25+00:00",
-      "image": null,
-      "articles": [
-        {
-          "portal": "Necochea Libre",
-          "title": "EL SÀBADO 24 DE OCTUBRE SE BRINDARÀ UNA NUEVA JORNADA DE CASTRACIÒN DE MASCOTAS.",
-          "url": "https://necochealibre.com.ar/el-sabado-24-de-octubre-se-brindara-una-nueva-jornada-de-castracion-de-mascotas/",
-          "published_at": "2026-10-21T22:42:25+00:00",
-          "first_seen": "2026-10-26T12:51:38.289854+00:00",
-          "category": "Generales",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Generales EL SÀBADO 24 DE OCTUBRE SE BRINDARÀ UNA NUEVA JORNADA DE CASTRACIÒN DE MASCOTAS. Por admin - 21 octubre, 2026 0 2 Facebook Twitter Pinterest WhatsApp Necochea .- El servicio gratuito de castración masiva de mascotas vuelve el próximo fin de semana. Uno de los servicios más requeridos por la comunidad estará esta vez en Quequén, en el CAPS del barrio Estación.",
-          "La Municipalidad, de Necochea, brindará una nueva jornada gratuita de castración masiva de mascotas, el pròximo sábado 24 de Octubre . En esta oportunidad en el Centro de Salud Estación Quequén, ubicado en avenida 578 N° 2941 . La jornada comenzará a las 9 horas, se castrará hasta un máximo de 45 mascotas y los requisitos son los habituales : Se deberá presentar un mayor de 18 años con DNI para consentir la cirugía de la mascota; se deberá llevar los perros con bozal y los gatos serán operados en primer turno."
-        ],
-        "generated": "2026-10-26T12:55:06.280986+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-26T12:51:38.289854+00:00"
-    },
-    {
-      "key": "prepara 15 encuentro juvenil teatro sala municipal luis sandrini",
-      "title": "SE PREPARA EL 15º ENCUENTRO JUVENIL DE TEATRO EN LA SALA MUNICIPAL «LUIS SANDRINI».",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-10-21T22:36:14+00:00",
-      "image": null,
-      "articles": [
-        {
-          "portal": "Necochea Libre",
-          "title": "SE PREPARA EL 15º ENCUENTRO JUVENIL DE TEATRO EN LA SALA MUNICIPAL «LUIS SANDRINI».",
-          "url": "https://necochealibre.com.ar/se-prepara-el-15o-encuentro-juvenil-de-teatro-en-la-sala-municipal-luis-sandrini/",
-          "published_at": "2026-10-21T22:36:14+00:00",
-          "first_seen": "2026-10-26T12:51:38.289854+00:00",
-          "category": "Generales",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Generales SE PREPARA EL 15º ENCUENTRO JUVENIL DE TEATRO EN LA SALA MUNICIPAL «LUIS SANDRINI». Por admin - 21 octubre, 2026 0 2 Facebook Twitter Pinterest WhatsApp Necochea.- El Teatro Municipal vuelve a ser escenario del masivo Encuentro Juvenil en su 15ª edición. La programación incluye alrededor de 50 obras preparadas por los propios estudiantes junto a sus profesores, además de la participación de elencos profesionales que enriquecen cada edición.",
-          "compartan sus producciones, se acerquen al teatro y disfruten. La Sala “Milagros de la Vega” recibe hasta el viernes a más de 2.000 estudiantes de Necochea y la zona, en el marco de una propuesta que reúne a jóvenes, docentes y artistas y que ya es parte de la agenda cultural de la ciudad."
-        ],
-        "generated": "2026-10-26T12:55:07.081376+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-26T12:51:38.289854+00:00"
+      "apariciones": 20,
+      "ultima_impresion": "2026-10-26T19:13:50.042322+00:00",
+      "penalizacion": 0.024
     }
   ]
 }
