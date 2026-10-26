@@ -1,12 +1,41 @@
 {
-  "generated_at": "2026-10-26T11:30:01.002602+00:00",
+  "generated_at": "2026-10-26T12:00:00.599203+00:00",
   "article_count": 135,
   "fetch_errors": [],
   "stories": [
     {
+      "key": "jimena lopez analizo junto liga amas casa impacto quita subsidios gas",
+      "title": "Jimena López analizó junto a la Liga de Amas de Casa el impacto de la quita de subsidios al gas",
+      "score": 1.159,
+      "sources_count": 1,
+      "first_seen": "2026-10-26T11:34:43+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-24-at-11.21.10.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Jimena López analizó junto a la Liga de Amas de Casa el impacto de la quita de subsidios al gas",
+          "url": "https://tsnnecochea.com.ar/locales/jimena-lopez-analizo-junto-a-la-liga-de-amas-de-casa-el-impacto-de-la-quita-de-subsidios-al-gas-240655/",
+          "published_at": "2026-10-26T11:34:43+00:00",
+          "first_seen": "2026-10-26T12:00:00.599203+00:00",
+          "category": "ajuste tarifario",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-24-at-11.21.10.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Locales | ajuste tarifario | Frente Renovador Jimena López analizó junto a la Liga de Amas de Casa el impacto de la quita de subsidios al gas Evaluaron las consecuencias del ajuste tarifario del gobierno de Javier Milei Por Redacción TSN 26/10/2026 · 08:34 AM Agregar TSN Necochea en La diputada nacional mantuvo una reunión de trabajo con la presidenta de la entidad, Marisa Sánchez, y el asesor legal Fernando Coppari. Durante la jornada se evaluaron las consecuencias del ajuste tarifario del gobierno de Milei y se repasaron diferentes alternativas de abordaje ante la problemática.",
+          "En el marco del monitoreo por las modificaciones en las tarifas de los servicios públicos, la diputada nacional Jimena López encabezó una reunión en la ciudad de Mar del Plata con las autoridades de la asociación de defensa de los consumidores Liga de Amas de Casa."
+        ],
+        "generated": "2026-10-26T12:00:29.901913+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-26T12:00:00.599203+00:00"
+    },
+    {
       "key": "analizaron dificultades podrian surgir regular actividad trapitos",
       "title": "Analizaron las dificultades que podrían surgir al regular la actividad de los “trapitos”",
-      "score": 1.153,
+      "score": 1.106,
       "sources_count": 1,
       "first_seen": "2026-10-26T11:00:59+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/02-MS.webp",
@@ -26,199 +55,393 @@
           "TSN Necochea | ‹ VOLVER | Locales | concejales | Concejo Analizaron las dificultades que podrían surgir al regular la actividad de los “trapitos” Se reunió la mesa social.",
           "Dialogó entre concejales, entidades y funcionarios del ejecutivo Por Redacción TSN 26/10/2026 · 08:00 AM Agregar TSN Necochea en En el marco del seguimiento y reglamentación de las normativas vigentes en el distrito, la Mesa Social mantuvo un nuevo encuentro de trabajo en la sala del Honorable Concejo Deliberante de Necochea (HCD) para avanzar en la aplicación efectiva de la ordenanza que regula el trabajo de cuidacoches y limpiavidrios ."
         ],
-        "generated": "2026-10-26T11:30:49.504183+00:00"
+        "generated": "2026-10-26T12:00:50.085225+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-26T11:30:01.002602+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-10-26T12:00:00.599203+00:00",
+      "penalizacion": 1.0
     },
     {
-      "key": "impacto columna plena madrugada termino hospitalizado",
-      "title": "Impactó contra una columna en plena madrugada y terminó hospitalizado",
+      "key": "subasto auditorium casino dia muy significativo ciudad donde cierra ciclo comienza otro",
+      "title": "Se subastó el Auditórium del Casino: “Es un día muy significativo para la ciudad, donde se cierra un ciclo pero comienza otro”",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-10-26T11:30:01.002602+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/e03c500657ee192cc1b935d73f020290b7a71889.jpg",
+      "first_seen": "2026-10-26T12:00:00.599203+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261023172054_23-10-foto-subasta-teatro-auditorium6.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Impactó contra una columna en plena madrugada y terminó hospitalizado",
-          "url": "https://necocheadigital.com/nota/119998/impacto-contra-una-columna-en-plena-madrugada-y-termino-hospitalizado/",
+          "title": "Se subastó el Auditórium del Casino: “Es un día muy significativo para la ciudad, donde se cierra un ciclo pero comienza otro”",
+          "url": "https://necocheadigital.com/nota/119988/se-subasto-el-auditorium-del-casino-es-un-dia-muy-significativo-para-la-ciudad-donde-se-cierra-un-ciclo-pero-comienza-otro/",
           "published_at": null,
-          "first_seen": "2026-10-26T11:30:01.002602+00:00",
+          "first_seen": "2026-10-26T12:00:00.599203+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "Un fuerte accidente de tránsito se registró durante la madrugada de este sábado en Necochea, cuando un automóvil chocó contra una columna en la intersección de las calles 47 y 56. Como consecuencia del impacto, el vehículo sufrió importantes daños materiales y el conductor debió ser trasladado al Hospital Municipal Dr. Emilio Ferreyra para recibir atención médica.",
-          "En el lugar trabajó personal de la Usina Popular Cooperativa, agentes de Tránsito, policia y una unidad de grúas Trave , que intervinieron en el operativo posterior al siniestro. El choque se produjo en las primeras horas del día y generó preocupación por la violencia del impacto. Hasta el momento, no se informaron oficialmente las causas que provocaron el accidente ni se brindaron detalles sobre el estado de salud del conductor."
+          "El acto se desarrolló en el Salón de Actos “Domingo J. Taraborelli” y estuvo a cargo del martillero público local oportunamente sorteado, Sergio Gertie, conforme a lo establecido por la Ordenanza Nº 12.009/25.",
+          "Tras la subasta, el intendente Arturo Rojas destacó la importancia de este paso para el futuro del emblemático edificio y de la ciudad. “Es un día absolutamente significativo por poder realizar la subasta del Auditórium, que se suma a la subasta de todo el Complejo Casino meses anteriores, así que hay que felicitar a la firma, a Oscar Merlo y sus socios por la adquisición de este bien que es tan caro a los sentimientos de todos los necochenses y sabiendo lo que significa en términos culturales y turísticos”, expresó."
         ],
-        "generated": "2026-10-26T11:30:50.161948+00:00"
+        "generated": "2026-10-26T12:00:51.114530+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-26T11:30:01.002602+00:00"
+      "ultima_impresion": "2026-10-26T12:00:00.599203+00:00"
     },
     {
-      "key": "tienen quemar hoguera hijos puta peligro frase presidencial periodismo",
-      "title": "“Los que se tienen que quemar en la hoguera son los hijos de puta”: el peligro de una frase presidencial contra el periodismo",
+      "key": "ministro katopodis visito necochea recorrio junto intendente obra casa provincia",
+      "title": "El ministro Katopodis visitó Necochea y recorrió junto al Intendente la obra de la Casa de la Provincia",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-10-26T11:30:01.002602+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/56e3461fff0cff2fced365d503e6f87c4d50418d.jpg",
+      "first_seen": "2026-10-26T12:00:00.599203+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261023172224_23-10-foto-rojas-katopodis5.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "“Los que se tienen que quemar en la hoguera son los hijos de puta”: el peligro de una frase presidencial contra el periodismo",
-          "url": "https://necocheadigital.com/nota/119997/los-que-se-tienen-que-quemar-en-la-hoguera-son-los-hijos-de-puta-el-peligro-de-una-frase-presidencial-contra-el-periodismo/",
+          "title": "El ministro Katopodis visitó Necochea y recorrió junto al Intendente la obra de la Casa de la Provincia",
+          "url": "https://necocheadigital.com/nota/119989/el-ministro-katopodis-visito-necochea-y-recorrio-junto-al-intendente-la-obra-de-la-casa-de-la-provincia/",
           "published_at": null,
-          "first_seen": "2026-10-26T11:30:01.002602+00:00",
+          "first_seen": "2026-10-26T12:00:00.599203+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "Las palabras del presidente Javier Milei durante la cena de la Fundación Faro, realizada el viernes por la noche, merecen un enérgico repudio. No se trata solamente de una nueva escalada de insultos contra quienes ejercen el periodismo, sino de la gravedad institucional que adquiere un discurso de estas características cuando proviene de la máxima autoridad del país. Al referirse a la investigación por el caso $LIBRA, el mandatario sostuvo que existió una “operación política y mediática” con “fines golpistas”, apuntó contra el diario LA NACION y mencionó a periodistas que cubrieron el expediente, a quienes calificó de “ensobrados y corruptos”.",
-          "Pero fue una frase la que encendió una alarma que va mucho más allá de una disputa política o de una descalificación personal: “Los que se tienen que quemar en la hoguera son los hijos de puta” . No es una expresión menor."
+          "Tras la recorrida, Katopodis destacó la importancia de retomar los trabajos y señaló que el edificio permitirá “concentrar todos los servicios y que todos los vecinos no tengan que estar recorriendo distintas dependencias”. Además, explicó que su puesta en funcionamiento permitirá al Municipio recuperar espacios que actualmente utiliza la Provincia para otras dependencias.",
+          "“Lo importante es que ya estamos nuevamente en obra, con el objetivo de poder terminarla y ejecutar el último tramo para poder junto a Arturo inaugurar esta Casa de la Provincia ”, afirmó el ministro. Durante el encuentro también se repasaron otros proyectos de infraestructura para el distrito, entre ellos la Estación Transformadora de Quequén, el Fondo de Emergencia y Fortalecimiento de la Inversión Municipal (FEFIM) y el avance del proyecto para la futura autovía de la Ruta 88."
         ],
-        "generated": "2026-10-26T11:30:51.166367+00:00"
+        "generated": "2026-10-26T12:00:51.788555+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-26T11:30:01.002602+00:00"
+      "ultima_impresion": "2026-10-26T12:00:00.599203+00:00"
     },
     {
-      "key": "maraton mamografica supero expectativas continuara turnos noviembre",
-      "title": "La maratón mamográfica superó las expectativas y continuará con turnos durante noviembre",
+      "key": "tendriamos verano nubes humedad consiguiente tormentas lluvias",
+      "title": "“Tendríamos un verano con más nubes, con más humedad, por consiguiente, con más tormentas y con más lluvias”",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-10-26T11:30:01.002602+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/45e555521de35f446f0e00d787d7d3d29f816923.jpg",
+      "first_seen": "2026-10-26T12:00:00.599203+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/88b76427d484cdfc7749124effb62218e6554884.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "La maratón mamográfica superó las expectativas y continuará con turnos durante noviembre",
-          "url": "https://necocheadigital.com/nota/119996/la-maraton-mamografica-supero-las-expectativas-y-continuara-con-turnos-durante-noviembre/",
+          "title": "“Tendríamos un verano con más nubes, con más humedad, por consiguiente, con más tormentas y con más lluvias”",
+          "url": "https://necocheadigital.com/nota/119987/tendriamos-un-verano-con-mas-nubes-con-mas-humedad-por-consiguiente-con-mas-tormentas-y-con-mas-lluvias/",
           "published_at": null,
-          "first_seen": "2026-10-26T11:30:01.002602+00:00",
-          "category": null,
-          "image": null
-        },
-        {
-          "portal": "Necochea Digital",
-          "title": "La maratón mamográfica superó las expectativas y continuará en noviembre con turnos sin orden médica",
-          "url": "https://necocheadigital.com/nota/119962/la-maraton-mamografica-supero-las-expectativas-y-continuara-en-noviembre-con-turnos-sin-orden-medica/",
-          "published_at": null,
-          "first_seen": "2026-10-26T11:30:01.002602+00:00",
+          "first_seen": "2026-10-26T12:00:00.599203+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "La campaña de prevención del cáncer de mama en Necochea y Quequén tuvo una respuesta que superó las expectativas y continuará durante noviembre para atender a todas las mujeres que no pudieron acceder a una mamografía durante la jornada especial. Así lo confirmó Natalia Ballester, técnica radióloga del Hospital Irurzun, durante una entrevista realizada por Quimey Marfil en Radio Noticias Necochea. La maratón mamográfica se llevó adelante el martes 20 de octubre y, ante la gran cantidad de personas que se acercaron, la jornada se extendió mucho más de lo previsto.",
-          "El equipo comenzó a trabajar a las 6 de la mañana y continuó hasta aproximadamente las 3.30 o 4 del día siguiente. “Ese día todas las mujeres que vinieron hasta 150 pudimos hacerlas dentro de ese horario”, explicó Ballester. Debido a la demanda y a las limitaciones operativas, quienes no alcanzaron a realizarse el estudio recibieron turnos para noviembre."
+          "El fenómeno de El Niño podría marcar las condiciones meteorológicas de los próximos meses en Argentina, con un escenario caracterizado por mayor humedad, nubosidad y precipitaciones. Así lo explicó el meteorólogo Marcelo Madelón durante una entrevista en el programa Infobae a las Nueve , donde analizó las proyecciones para el verano y la evolución esperada de las variables atmosféricas y oceánicas.",
+          "“Tendríamos un verano con más nubes, con más humedad, por consiguiente, con más tormentas y con más lluvias”, señaló el especialista al describir las condiciones que anticipan los modelos meteorológicos. Diciembre y enero, el período de mayores lluvias Según las estimaciones mencionadas por Madelón, el período de mayor acumulación de precipitaciones podría concentrarse entre los últimos meses de 2026 y el inicio de 2027."
         ],
-        "generated": "2026-10-26T11:30:52.842886+00:00"
+        "generated": "2026-10-26T12:00:52.874645+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-26T11:30:01.002602+00:00"
+      "ultima_impresion": "2026-10-26T12:00:00.599203+00:00"
     },
     {
-      "key": "diabetes obesidad combinacion preocupa avance jovenes",
-      "title": "Diabetes y obesidad: la combinación que preocupa por su avance entre los más jóvenes",
+      "key": "libertario montenegro dejo banca senador volvio mar plata pedir ayuda kicillof inseguridad",
+      "title": "El Libertario Montenegro dejó su banca de senador y volvió a Mar del Plata para pedir ayuda a Kicillof por la inseguridad",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-10-26T11:30:01.002602+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/6dc3b9a59c9ff961ee93b4a60aadb4ab9506544a.jpg",
+      "first_seen": "2026-10-26T12:00:00.599203+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/75750e7421389414a7bf11b8f9ae3670434bf1f0.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Diabetes y obesidad: la combinación que preocupa por su avance entre los más jóvenes",
-          "url": "https://necocheadigital.com/nota/119995/diabetes-y-obesidad-la-combinacion-que-preocupa-por-su-avance-entre-los-mas-jovenes/",
+          "title": "El Libertario Montenegro dejó su banca de senador y volvió a Mar del Plata para pedir ayuda a Kicillof por la inseguridad",
+          "url": "https://necocheadigital.com/nota/119986/el-libertario-montenegro-dejo-su-banca-de-senador-y-volvio-a-mar-del-plata-para-pedir-ayuda-a-kicillof-por-la-inseguridad/",
           "published_at": null,
-          "first_seen": "2026-10-26T11:30:01.002602+00:00",
+          "first_seen": "2026-10-26T12:00:00.599203+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "El aumento del sobrepeso, la obesidad y la falta de actividad física está modificando el escenario sanitario en la Argentina y favoreciendo la aparición de diabetes en personas cada vez más jóvenes. La advertencia fue realizada por el médico especialista Pedro Barrientos, durante una entrevista el jueves 22 de octubre en Voces de la Tarde , el programa que conduce Jorge Gómez por Radio Noticias Necochea 97.3 FM. El profesional puso el foco en la relación entre ambas enfermedades y en los cambios de hábitos que afectan especialmente a niños y adolescentes, con más tiempo frente a las pantallas, menos actividad física y una alimentación que muchas veces incluye productos ultraprocesados.",
-          "Según los datos mencionados por Barrientos, alrededor del 60% de la población argentina presenta sobrepeso u obesidad. Entre los chicos en edad escolar, esa proporción llega al 40%."
+          "La inseguridad volvió a ocupar el centro de la agenda política de Mar del Plata y obligó al intendente Guillermo Montenegro a retomar el protagonismo en el distrito. Después de alejarse de la gestión municipal para asumir su banca como senadorprovincial, el jefe comunal regresó a la ciudad y se reunió con el ministro de Seguridad bonaerense, Javier Alonso, para coordinar acciones frente al escenario delictivo.",
+          "El encuentro se realizó este jueves en el Centro de Operaciones y Monitoreo (COM) y dejó una señal política difícil de ignorar: ante una problemática que exige respuestas concretas, el gobierno municipal necesita profundizar el trabajo con la administración provincial, pese a las críticas que el espacio libertario suele dirigir contra el gobierno de Axel Kicillof."
         ],
-        "generated": "2026-10-26T11:30:53.486352+00:00"
+        "generated": "2026-10-26T12:00:53.880308+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-26T11:30:01.002602+00:00"
+      "ultima_impresion": "2026-10-26T12:00:00.599203+00:00"
     },
     {
-      "key": "necochea quequen preparan temporada guardavidas comenzaran operativo 15 noviembre",
-      "title": "Necochea y Quequén preparan la temporada: los guardavidas comenzarán el operativo el 15 de noviembre",
+      "key": "dos decadas promoviendo paz fundacion alfredo marcenac celebra 20 anos necochea",
+      "title": "Dos décadas promoviendo la paz: la Fundación Alfredo Marcenac celebra 20 años en Necochea",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-10-26T11:30:01.002602+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/2c346ed0285668281240f811003b9a4e7d692252.jpg",
+      "first_seen": "2026-10-26T12:00:00.599203+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/ba972e29e4368f8bb8b101529ba689a97484f676.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Necochea y Quequén preparan la temporada: los guardavidas comenzarán el operativo el 15 de noviembre",
-          "url": "https://necocheadigital.com/nota/119994/necochea-y-quequen-preparan-la-temporada-los-guardavidas-comenzaran-el-operativo-el-15-de-noviembre/",
+          "title": "Dos décadas promoviendo la paz: la Fundación Alfredo Marcenac celebra 20 años en Necochea",
+          "url": "https://necocheadigital.com/nota/119984/dos-decadas-promoviendo-la-paz-la-fundacion-alfredo-marcenac-celebra-20-anos-en-necochea/",
           "published_at": null,
-          "first_seen": "2026-10-26T11:30:01.002602+00:00",
+          "first_seen": "2026-10-26T12:00:00.599203+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "Las playas de Necochea y Quequén comienzan a prepararse para la próxima temporada de verano. El operativo de seguridad con guardavidas se pondrá en marcha el domingo 15 de noviembre y se extenderá hasta el 15 de abril, según confirmó Pablo Suárez, secretario general de la Asociación de Guardavidas de Necochea-Quequén. En una entrevista realizada el viernes 23 de octubre en Voces de la Tarde , el programa que conduce Jorge Gómez por Radio Noticias Necochea 97.3 FM, el dirigente detalló los preparativos, las evaluaciones obligatorias y la cantidad de profesionales que se desplegarán a lo largo de la costa.",
-          "Exámenes y reválida antes del inicio del servicio Uno de los pasos centrales de cara al verano será el concurso de ingreso al plantel municipal, que cuenta con alrededor de 50 aspirantes inscriptos. La primera instancia está prevista para este sábado 24 de octubre, desde las 9.30, en el Polideportivo Municipal."
+          "A 20 años de su creación, la Asociación Civil Alfredo Marcenac celebrará en Necochea dos décadas de trabajo orientado a la prevención de la violencia, la promoción de la paz y la construcción colectiva de una comunidad más segura y solidaria. La actividad se realizará este viernes 23 de octubre, desde las 17.30, en el Centro Cultural de Necochea, con la participación de 31 organizaciones y experiencias comunitarias de Necochea y Quequén que compartirán sus iniciativas y el trabajo que desarrollan en distintos ámbitos sociales.",
+          "Mónica Bouysede, integrante de la asociación, brindó detalles de la convocatoria durante una entrevista en Voces de la Tarde , el programa que conduce Jorge Gómez por Radio Noticias Necochea 97.3 FM. Bajo la consigna “20 años Alfredo Marcenac."
         ],
-        "generated": "2026-10-26T11:30:54.129356+00:00"
+        "generated": "2026-10-26T12:00:54.547000+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-26T11:30:01.002602+00:00"
+      "ultima_impresion": "2026-10-26T12:00:00.599203+00:00"
     },
     {
-      "key": "accecibilidad seguridad colocaron nuevas luminarias tecnologia led balneario angeles",
-      "title": "Accecibilidad y seguridad: colocaron nuevas luminarias con tecnología LED en Balneario Los Ángeles",
+      "key": "daniel poujol necochea desafios vivir anos necesidad repensar sistema salud",
+      "title": "Daniel Poujol en Necochea: los desafíos de vivir más años y la necesidad de repensar el sistema de salud",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-10-26T11:30:01.002602+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261022170219_22-10-foto-luces-balneario-los-angeles.jpg",
+      "first_seen": "2026-10-26T12:00:00.599203+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/ab825375bd00b65938a8cb50836fe650c1e37a4a.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Accecibilidad y seguridad: colocaron nuevas luminarias con tecnología LED en Balneario Los Ángeles",
-          "url": "https://necocheadigital.com/nota/119982/accecibilidad-y-seguridad-colocaron-nuevas-luminarias-con-tecnologia-led-en-balneario-los-angeles/",
+          "title": "Daniel Poujol en Necochea: los desafíos de vivir más años y la necesidad de repensar el sistema de salud",
+          "url": "https://necocheadigital.com/nota/119983/daniel-poujol-en-necochea-los-desafios-de-vivir-mas-anos-y-la-necesidad-de-repensar-el-sistema-de-salud/",
           "published_at": null,
-          "first_seen": "2026-10-26T11:30:01.002602+00:00",
+          "first_seen": "2026-10-26T12:00:00.599203+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "La renovación del alumbrado público en Necochea continúa extendiéndose más allá del ejido urbano y esta semana llegó al Balneario Los Ángeles , donde se pusieron en funcionamiento nuevas luminarias de 150 ww y 250 ww que cambiaron notablemente las condiciones de iluminación en el sector de ingreso. Estas tareas forman parte de un trabajo sostenido que combina la incorporación de nuevos puntos de luz con el recambio de instalaciones existentes por tecnología LED en distintos sectores de la ciudad.",
-          "A la par de las intervenciones en el núcleo urbano, se avanza progresivamente hacia otros rincones del distrito, mejorando la iluminación de espacios de circulación y contribuyendo a brindar mayor seguridad a vecinos y visitantes."
+          "El aumento de la expectativa de vida obliga a repensar no solo la atención médica, sino también el rol de la sociedad y del Estado frente a las necesidades de las personas mayores. Con ese planteo, el doctor Daniel Poujol ofrecerá este viernes en Necochea una charla titulada “Envejecer en un mundo que cambia. ¿Está cambiando el sistema de salud?” .",
+          "En diálogo con Voces de la Tarde , el programa que conduce Jorge Gómez por Radio Noticias Necochea 97.3 FM, el profesional adelantó algunos de los temas que desarrollará durante el encuentro, previsto para las 19 en el Comité Emiliano Abásolo de la Unión Cívica Radical. La actividad será abierta y gratuita."
         ],
-        "generated": "2026-10-26T11:30:55.121101+00:00"
+        "generated": "2026-10-26T12:00:55.197844+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-26T11:30:01.002602+00:00"
+      "ultima_impresion": "2026-10-26T12:00:00.599203+00:00"
+    },
+    {
+      "key": "construccion sigue estancada pais complica corralones",
+      "title": "La construcción sigue estancada en el país y complica a los corralones",
+      "score": 0.996,
+      "sources_count": 1,
+      "first_seen": "2026-10-26T11:57:06+00:00",
+      "image": null,
+      "articles": [
+        {
+          "portal": "Necochea News",
+          "title": "La construcción sigue estancada en el país y complica a los corralones",
+          "url": "https://necocheanews.com.ar/construccion-estancada-en-argentina-ventas-de-materiales-bajan-hasta-40-y-el-isac-registra-44-en-agosto-2026/",
+          "published_at": "2026-10-26T11:57:06+00:00",
+          "first_seen": "2026-10-26T12:00:00.599203+00:00",
+          "category": "NACIONALES",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La caída de la actividad constructora sigue afectando a los comercios de materiales en la Ciudad y el conurbano, donde las ventas se redujeron entre un 30 % y un 40 % y los equipos de trabajo se vieron obligados a recortarse. Desaceleración que golpea a los corralones Los propietarios de los tradicionales corralones de la zona porteña describen una situación de escasa demanda. “La gente compra muy poco material, lleva lo justo y me pide precios”, comentó Hugo Romero, responsable de un establecimiento en Balvanera.",
+          "Según su testimonio, la reducción de ventas lo obligó a pasar de ocho a seis empleados, manteniendo la carga de trabajo pero sin que los ingresos compensen el esfuerzo. En el partido bonaerense de Moreno, Mauricio, encargado de la venta de materiales, explicó que la empresa recurre a camiones viejos para distribuir productos y evita endeudarse por temor a un empeoramiento de la crisis."
+        ],
+        "generated": "2026-10-26T12:00:56.008761+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-26T12:00:00.599203+00:00"
+    },
+    {
+      "key": "arrancamos semana sol lunes frio nublado necochea",
+      "title": "Arrancamos la semana sin sol: lunes frío y nublado en Necochea",
+      "score": 0.993,
+      "sources_count": 1,
+      "first_seen": "2026-10-26T11:54:43+00:00",
+      "image": null,
+      "articles": [
+        {
+          "portal": "Diario NQ",
+          "title": "Arrancamos la semana sin sol: lunes frío y nublado en Necochea",
+          "url": "https://diarionq.com.ar/arrancamos-la-semana-sin-sol-lunes-frio-y-nublado-en-necochea/",
+          "published_at": "2026-10-26T11:54:43+00:00",
+          "first_seen": "2026-10-26T12:00:00.599203+00:00",
+          "category": "Destacadas",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La semana comienza con temperaturas bajas y un cielo mayormente cubierto en Necochea y Quequén. Para este lunes 26 de octubre se espera una máxima de 14°C y una mínima de 6°C, sin probabilidades de precipitaciones. El inicio de la semana llega con condiciones poco primaverales en Necochea y Quequén. Según el pronóstico del Servicio Meteorológico Nacional (SMN), este lunes 26 de octubre estará marcado por la abundante nubosidad, el ambiente fresco y temperaturas que no superarán los 14 grados.",
+          "Durante la mañana, el termómetro rondará los 11°C, con vientos provenientes del sector norte a velocidades de entre 7 y 12 kilómetros por hora. El cielo permanecerá cubierto y no se esperan lluvias. Por la tarde se registrará el momento más templado de la jornada, con una temperatura cercana a los 14°C."
+        ],
+        "generated": "2026-10-26T12:00:58.159216+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-26T12:00:00.599203+00:00"
+    },
+    {
+      "key": "real madrid vence barcelona camp nou rompe invicto",
+      "title": "Real Madrid vence al Barcelona 2‑1 en el Camp Nou y rompe su invicto",
+      "score": 0.991,
+      "sources_count": 1,
+      "first_seen": "2026-10-26T11:53:24+00:00",
+      "image": null,
+      "articles": [
+        {
+          "portal": "Necochea News",
+          "title": "Real Madrid vence al Barcelona 2‑1 en el Camp Nou y rompe su invicto",
+          "url": "https://necocheanews.com.ar/real-madrid-vence-al-barcelona-2-1-en-el-camp-nou-y-rompe-su-invicto/",
+          "published_at": "2026-10-26T11:53:24+00:00",
+          "first_seen": "2026-10-26T12:00:00.599203+00:00",
+          "category": "DEPORTES",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El conjunto merengue se impuso por dos goles de Kylian Mbappé, poniendo fin a la racha sin derrotas del Barcelona y acercándose al liderato de LaLiga. En la décima jornada del campeonato español, el Real Madrid logró una victoria de 2‑1 sobre el Barcelona en el Camp Nou. Kylian Mbappé fue la figura del partido, anotando los dos goles que le dieron la victoria al equipo dirigido por Carlo Ancelotti y que puso fin al invicto del conjunto catalán bajo la dirección de Hansi Flick.",
+          "El partido comenzó con el Barcelona dominando la posesión, pero el Real Madrid encontró espacios y generó peligro desde los primeros minutos. Arda Güler amenazó con dos remates que obligaron a intervenir a Joan García, mientras que el conjunto local respondió con llegadas de Raphinha y Anthony Gordon. Un error defensivo de Gerard Martín permitió a Mbappé abrir el marcador a los 42 minutos, tras un centro rasante desde la izquierda."
+        ],
+        "generated": "2026-10-26T12:00:58.748316+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-26T12:00:00.599203+00:00"
+    },
+    {
+      "key": "cristina kirchner felicita lula equipara 17 octubre 1945",
+      "title": "Cristina Kirchner felicita a Lula y lo equipara al 17 de octubre de 1945",
+      "score": 0.987,
+      "sources_count": 1,
+      "first_seen": "2026-10-26T11:50:57+00:00",
+      "image": null,
+      "articles": [
+        {
+          "portal": "Necochea News",
+          "title": "Cristina Kirchner felicita a Lula y lo equipara al 17 de octubre de 1945",
+          "url": "https://necocheanews.com.ar/cristina-kirchner-felicita-a-lula-y-lo-equipara-al-17-de-octubre-de-1945/",
+          "published_at": "2026-10-26T11:50:57+00:00",
+          "first_seen": "2026-10-26T12:00:00.599203+00:00",
+          "category": "ACTUALIDAD",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "*La expresidenta argentina elogió la reelección del mandatario brasileño y varios dirigentes del peronismo se sumaron al reconocimiento.* La expresidenta Cristina Fernández de Kirchner utilizó su cuenta de X para felicitar a Luiz Inácio Lula da Silva por su victoria en el balotaje presidencial de Brasil contra Flávio Bolsonaro. En su mensaje, la dirigente comparó la movilización popular que llevó a Lula a la segunda vuelta con el histórico 17 de octubre de 1945, fecha emblemática del peronismo.",
+          "> “Felicitaciones, primero al pueblo brasileño que hoy protagonizó un auténtico 17 de octubre electoral y después a usted, compañero presidente Lula, que en su séptima elección presidencial supo despertar en sus compatriotas sentimiento y sentido para ganar esta batalla”. – Cristina Kirchner, 26 de octubre 2026."
+        ],
+        "generated": "2026-10-26T12:00:59.560242+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-26T12:00:00.599203+00:00"
+    },
+    {
+      "key": "river vencio racing monumental llega confiado superclasico",
+      "title": "River venció a Racing 1‑0 en el Monumental y llega confiado al Superclásico",
+      "score": 0.983,
+      "sources_count": 1,
+      "first_seen": "2026-10-26T11:47:31+00:00",
+      "image": null,
+      "articles": [
+        {
+          "portal": "Necochea News",
+          "title": "River venció a Racing 1‑0 en el Monumental y llega confiado al Superclásico",
+          "url": "https://necocheanews.com.ar/river-vencio-a-racing-1-0-en-el-monumental-y-llega-confiado-al-superclasico/",
+          "published_at": "2026-10-26T11:47:31+00:00",
+          "first_seen": "2026-10-26T12:00:00.599203+00:00",
+          "category": "DEPORTES",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "River Plate superó a Racing Club por 1‑0 en el Estadio Monumental, consolidando su posición en los playoffs del Torneo Clausura y generando optimismo de cara al próximo Superclásico en La Bombonera. El equipo dirigido por Marcelo Ponzio dominó gran parte del encuentro. El único tanto llegó en el minuto 32, cuando Angelito Correa centró desde la banda y Lautaro Rivero, ex Atlético de Madrid, conectó de cabeza para batir a Facundo Cambeses.",
+          "Un segundo gol de Rivero en el tiempo de descuento del primer tiempo fue anulado por el VAR al detectarse que Gonzalo Montiel, en posición de fuera de juego, interfería en la visión del arquero rival. River mostró superioridad ofensiva, creando varias oportunidades y obligando a Cambeses a realizar atajadas decisivas, entre ellas un potente guantazo a los nueve minutos frente a un disparo de Correa y otra parada a los 24 minutos tras un remate de Thiago Almada."
+        ],
+        "generated": "2026-10-26T12:01:00.400658+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-26T12:00:00.599203+00:00"
+    },
+    {
+      "key": "boca vencio independiente ultimos minutos sigue cabeza tabla anual",
+      "title": "Boca venció a Independiente 1‑0 en los últimos minutos y sigue a la cabeza de la tabla anual",
+      "score": 0.977,
+      "sources_count": 1,
+      "first_seen": "2026-10-26T11:43:02+00:00",
+      "image": null,
+      "articles": [
+        {
+          "portal": "Necochea News",
+          "title": "Boca venció a Independiente 1‑0 en los últimos minutos y sigue a la cabeza de la tabla anual",
+          "url": "https://necocheanews.com.ar/boca-vencio-a-independiente-1-0-en-los-ultimos-minutos-y-sigue-a-la-cabeza-de-la-tabla-anual/",
+          "published_at": "2026-10-26T11:43:02+00:00",
+          "first_seen": "2026-10-26T12:00:00.599203+00:00",
+          "category": "DEPORTES",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Boca Juniors superó al Rojo con un gol de cabeza de Jagger Herrera a dos minutos del final del partido de la fase de grupos de la Copa Libertadores, manteniéndose como líder indiscutido del torneo anual. El encuentro, disputado el 25 de octubre de 2026, se decidió en los últimos compases cuando el defensor de 20 años, Jagger Herrera, conectó de cabeza un tiro libre ejecutado por Sebastián Villa, marcando su primer gol en Primera División.",
+          "La acción se produjo a los 88 minutos, y la defensa de Boca, liderada por el arquero Matías Montero, selló la victoria con una atajada decisiva a Iván Morales en el tiempo de descuento. Desarrollo del juego En la primera mitad, Boca generó la oportunidad más clara a los 14 minutos, cuando el remate de Merentiel se estrelló contra el primer palo y fue desviado con el pie por el guardameta de Independiente, Santiago Mele."
+        ],
+        "generated": "2026-10-26T12:01:01.210103+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-26T12:00:00.599203+00:00"
+    },
+    {
+      "key": "lula da silva gana balotaje brasil 51 74 asegura cuarto mandato historico",
+      "title": "Lula da Silva gana el balotaje en Brasil con 51,74 % y asegura su cuarto mandato histórico",
+      "score": 0.966,
+      "sources_count": 1,
+      "first_seen": "2026-10-26T11:35:15+00:00",
+      "image": null,
+      "articles": [
+        {
+          "portal": "Necochea News",
+          "title": "Lula da Silva gana el balotaje en Brasil con 51,74 % y asegura su cuarto mandato histórico",
+          "url": "https://necocheanews.com.ar/lula-da-silva-gana-el-balotaje-en-brasil-con-5174-y-asegura-su-cuarto-mandato-historico/",
+          "published_at": "2026-10-26T11:35:15+00:00",
+          "first_seen": "2026-10-26T12:00:00.599203+00:00",
+          "category": "INTERNACIONALES",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El ex presidente, de 80 años, superó a Flávio Bolsonaro en la segunda vuelta del 25 de octubre, convirtiéndose en el primer mandatario brasileño en volver al poder tras haber quedado segundo en la primera ronda. Resultados del balotaje En la segunda vuelta, el candidato del Partido de los Trabajadores (PT) obtuvo 51,74 % de los votos válidos, frente al 48,26 % de Flávio Bolsonaro, del Partido Liberal (PL). La victoria quedó confirmada cuando el escrutinio alcanzó el 97,69 % de las secciones electorales.",
+          "En la primera vuelta del 4 de octubre, Bolsonaro lideraba con 47,03 % y Lula con 45,16 %, lo que obligó al oficialismo a reorganizar su campaña durante las tres semanas siguientes. Una remontada sin precedentes Con este resultado, Lula logra un cuarto mandato presidencial, aunque no consecutivo, un hecho inédito desde la instauración de las elecciones presidenciales directas en 1989."
+        ],
+        "generated": "2026-10-26T12:01:02.450945+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-26T12:00:00.599203+00:00"
     },
     {
       "key": "marcado exito desarrollo 13 open neco voleibol",
       "title": "Con marcado éxito se desarrolló el 13° Open Neco de vóleibol",
-      "score": 0.999,
+      "score": 0.958,
       "sources_count": 1,
       "first_seen": "2026-10-26T11:29:24+00:00",
       "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/DSC04371.jpg",
@@ -238,16 +461,16 @@
           "Por Leonardo Menna El gran torneo abierto organizado por Pablo Meana contó con un excelente nivel y gran cantidad de visitantes, incluso dos equipos de Perú Una vez más el éxito coronó el torneo abierto de vóleibol más importante y más grande del país, como es el Open Neco, con la organización de uno de los embajadores históricos del deporte necochense y gran referente del vóleibol nacional, como es Pablo Meana. Fueron tres días a puro voley en Necochea, con gran cantidad de equipos, incluso dos de Perú y varios del Sur de nuestro país, además de un excelente nivel de juego, y una organización impecable una vez más.",
           "Los primeros puestos de Copa de Oro, en las diferentes categorías, fueron los siguientes: en Sub-14 femenino, campeón Molivóleibol de Perú, subcampeón Tortuguitas A y tercero, Pinocho. En Sub-14 masculino, 1°) Once Unidos de Mar del Plata; 2°) Los Andes de Neuquén y 3°) Lanús."
         ],
-        "generated": "2026-10-26T11:30:57.260799+00:00"
+        "generated": "2026-10-26T12:01:04.417617+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-26T11:30:01.002602+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-10-26T12:00:00.599203+00:00",
+      "penalizacion": 1.0
     },
     {
       "key": "necrologicas",
       "title": "NECROLÓGICAS",
-      "score": 0.595,
+      "score": 0.571,
       "sources_count": 1,
       "first_seen": "2026-10-26T03:05:14+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2023/09/Necrologicas.jpg",
@@ -267,11 +490,11 @@
           "TSN Necochea | ‹ VOLVER | Servicios | brandsafety | Avisos fúnebres NECROLÓGICAS Fúnebres del día en Necochea y Quequén. Consultá las participaciones, salas velatorias y sepelios Por Redacción TSN 26/10/2026 · 12:05 AM Noticias necrológicas de Necochea. Agregar TSN Necochea en SANTILLÁN, María Angélica Vda de Resuene (chola) Q.E.P.D.",
           "Falleció el 25 de octubre de 2026 a los 97 años. Con inmenso amor te despedimos tu hijo Juan Enrique Curtio, tu hija política Norma Antoci, tu nieta Natalia y demás familiares y amigos."
         ],
-        "generated": "2026-10-26T11:32:32.534564+00:00"
+        "generated": "2026-10-26T12:02:39.297383+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-26T11:30:01.002602+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-10-26T12:00:00.599203+00:00",
+      "penalizacion": 1.0
     },
     {
       "key": "flavio bolsonaro pedira anulacion elecciones victoria lula da silva",
@@ -305,10 +528,10 @@
           "Luiz Inácio Lula da Silva se impuso este domingo en el balotaje presidencial de Brasil frente al senador liberal Flávio Bolsonaro y consiguió la reelección, que le permitirá iniciar un cuarto mandato no consecutivo al frente del país más grande de Sudamérica. El líder del Partido de los Trabajadores (PT) obtuvo el 51,76% de los votos, frente al 48,24% alcanzado por su rival, candidato del Partido Liberal (PL). De esta manera, logró revertir el resultado de la primera vuelta, en la que Bolsonaro había conseguido el 47% y Lula el 45,1%.",
           "El desenlace marcó un precedente en la historia electoral brasileña desde la recuperación de las elecciones presidenciales directas, en 1989. Hasta ahora, todos los candidatos que habían terminado primeros en la primera vuelta habían logrado llegar al Palacio de Planalto."
         ],
-        "generated": "2026-10-26T11:30:48.481026+00:00"
+        "generated": "2026-10-26T12:00:48.941773+00:00"
       },
-      "apariciones": 21,
-      "ultima_impresion": "2026-10-26T11:30:01.002602+00:00",
+      "apariciones": 22,
+      "ultima_impresion": "2026-10-26T12:00:00.599203+00:00",
       "penalizacion": 0.0
     },
     {
@@ -334,10 +557,10 @@
           "TSN Necochea | ‹ VOLVER | Locales | humedad | Clima Cómo estará el tiempo este lunes en Necochea y Quequén Datos aportados por el Servicio Meteorológico Nacional Por Redacción TSN 26/10/2026 · 02:14 AM El clima para este martes Agregar TSN Necochea en El pronóstico del Servicio Meteorológico Nacional para este lunes 26 de octubre en Necochea indica una temperatura máxima de 14°C y una mínima de 6° C, con vientos del Sudeste a 22 km/h. Por la madrugada, la temperatura será de 6° C. El viento es del cuadrante Norte a una velocidad que puede llegar a 12 km/h, con neblina.",
           "En la mañana la temperatura será de 11° C, el viento soplará del cuadrante Norte a una velocidad que puede llegar a 12 km/h, con el cielo cubierto por una densa niebla. Por la tarde se espera una temperatura máxima de alrededor de 14 grados, el viento soplará del sector Noreste a una velocidad que pueden llegar a los 14 kilómetros y el cielo mayormente nublado."
         ],
-        "generated": "2026-10-26T11:30:58.256457+00:00"
+        "generated": "2026-10-26T12:01:05.190932+00:00"
       },
-      "apariciones": 16,
-      "ultima_impresion": "2026-10-26T11:30:01.002602+00:00",
+      "apariciones": 17,
+      "ultima_impresion": "2026-10-26T12:00:00.599203+00:00",
       "penalizacion": 0.0
     },
     {
@@ -363,10 +586,10 @@
           "TSN Necochea | ‹ VOLVER | Generales | comercio exterior | Avtividades Se viene la nueva edición del Congreso de Logística, Puertos y Comercio Exterior de la Unicen Se desarrollará el 19 y 20 de noviembre, con actividades en la Unidad de Enseñanza Universitaria Quequén de la UNICEN y en el Centro de Acopiadores de Cereales.",
           "Por Redacción TSN 26/10/2026 · 02:08 AM Rojas en el Congreso de Lógistica Agregar TSN Necochea en La nueva edición del Congreso de Logística, Puertos y Comercio Exterior, organizado por la Unidad de Enseñanza Universitaria Quequén de la UNICEN, reunirá una vez más a profesionales, docentes, estudiantes y referentes de los ámbitos logístico, portuario y comercial para debatir sobre los desafíos de la actividad, la transformación tecnológica, la infraestructura y las oportunidades de desarrollo regional."
         ],
-        "generated": "2026-10-26T11:30:59.288278+00:00"
+        "generated": "2026-10-26T12:01:05.963033+00:00"
       },
-      "apariciones": 16,
-      "ultima_impresion": "2026-10-26T11:30:01.002602+00:00",
+      "apariciones": 17,
+      "ultima_impresion": "2026-10-26T12:00:00.599203+00:00",
       "penalizacion": 0.0
     },
     {
@@ -392,39 +615,10 @@
           "TSN Necochea | ‹ VOLVER | Internacionales | Brasil | Elecciones Lula derrotó a Bolsonaro en el balotaje y logró su cuarto mandato como presidente de Brasil El mandatario revirtió la derrota que había sufrido en la primera vuelta y consiguió la reelección frente al hijo del expresidente Jair Bolsonaro.",
           "Por Redacción TSN 26/10/2026 · 01:08 AM Agregar TSN Necochea en El presidente de Brasil, Luiz Inácio ‘Lula’ da Silva consiguió, este domingo, la reelección para un cuarto mandato al derrotar en el balotaje al senador ultraderechista Flávio Bolsonaro , hijo del expresidente Jair Bolsonaro, en una jornada marcada por la polarización política, los cambios de liderazgo durante el escrutinio y la decisión judicial de extender el horario de votación en todo el país."
         ],
-        "generated": "2026-10-26T11:31:00.455524+00:00"
+        "generated": "2026-10-26T12:01:07.073310+00:00"
       },
-      "apariciones": 18,
-      "ultima_impresion": "2026-10-26T11:30:01.002602+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "investigaban caso violencia genero allanaron casa secuestraron armas droga",
-      "title": "Investigaban un caso de violencia de género, le allanaron la casa y le secuestraron armas y droga",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-10-26T01:23:42+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/IMG-20261025-WA0035.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Investigaban un caso de violencia de género, le allanaron la casa y le secuestraron armas y droga",
-          "url": "https://tsnnecochea.com.ar/policiales/investigaban-un-caso-de-violencia-de-genero-le-allanaron-la-casa-y-le-secuestraron-armas-y-droga-240642/",
-          "published_at": "2026-10-26T01:23:42+00:00",
-          "first_seen": "2026-10-26T01:30:01.481929+00:00",
-          "category": "allanamiento",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/IMG-20261025-WA0035.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Policiales | allanamiento | Procedimiento policial Investigaban un caso de violencia de género, le allanaron la casa y le secuestraron armas y droga Ocurrió en un domicilio de la calle Moreno, en San Cayetano. La Policía secuestró una carabina semi-automática, cientos de municiones y marihuanas, resultando detenido un sujeto de 48 años. Por Redacción TSN 25/10/2026 · 10:23 PM Agregar TSN Necochea en En el marco de una investigación por violencia de género , personal de la Estación de Policía de San Cayetano realizó un allanamiento en una vivienda de la calle Moreno .",
-          "This browser does not support the video element. ​El procedimiento fue dispuesto por el Juzgado de Garantías N° 2 (a cargo de la Dra. Aída Lhez) bajo la intervención de la UFI N° 10 especializada en Temática de Género , conducida por el fiscal Walter Pierrestegui."
-        ],
-        "generated": "2026-10-26T11:32:33.412877+00:00"
-      },
-      "apariciones": 24,
-      "ultima_impresion": "2026-10-26T11:30:01.002602+00:00",
+      "apariciones": 19,
+      "ultima_impresion": "2026-10-26T12:00:00.599203+00:00",
       "penalizacion": 0.0
     },
     {
@@ -450,10 +644,10 @@
           "El Naranja venció 4-1 a Villa del Parque y continúa en lo más alto de la Zona A. En la Zona B, Estación Quequén lidera con 42 puntos, mientras que Independiente de Lobería y Gimnasia completan el podio. Además, Huracán goleó y aseguró su lugar en el reducido. La jornada quedó marcada por la suspensión del partido entre Jorge Newbery y Ministerio tras una agresión a un árbitro.",
           "La fecha 21 del Torneo “Sergio ‘Giuseppe’ Portugal” 2026 dejó resultados importantes en la recta final de la fase regular de la Liga Necochea de Fútbol. Villa Díaz Vélez ratificó su liderazgo con una goleada, Gimnasia consiguió un valioso triunfo en casa y Huracán se aseguró un lugar en el reducido por un puesto en la promoción. Goleada del Naranja en el Parque Villa Díaz Vélez se impuso por 4-1 ante Villa del Parque y continúa firme en la cima de la Zona A."
         ],
-        "generated": "2026-10-26T11:33:24.029338+00:00"
+        "generated": "2026-10-26T12:03:26.389785+00:00"
       },
-      "apariciones": 33,
-      "ultima_impresion": "2026-10-26T11:30:01.002602+00:00",
+      "apariciones": 34,
+      "ultima_impresion": "2026-10-26T12:00:00.599203+00:00",
       "penalizacion": 0.0
     },
     {
@@ -479,97 +673,10 @@
           "Con Maxi Saravia y María Paz Venegas como parte del equipo de coaches, la delegación argentina tuvo una destacada actuación en el Mundial WKF 2026, disputado en Cartagena, Colombia. Entre los grandes resultados se destacó la consagración de Juan “La Parka” Bernal, quien logró dos títulos mundiales, un subcampeonato y un tercer puesto.",
           "La Selección Argentina de deportes de combate cerró una importante participación en el Mundial WKF 2026, desarrollado en Cartagena, Colombia, con destacados resultados internacionales y varios representantes en lo más alto del podio. Entre los protagonistas de la delegación estuvieron Maxi Saravia y María Paz Venegas, quienes formaron parte del equipo de entrenadores que acompañó a los competidores argentinos durante el certamen."
         ],
-        "generated": "2026-10-26T11:33:26.009115+00:00"
+        "generated": "2026-10-26T12:03:28.492707+00:00"
       },
-      "apariciones": 35,
-      "ultima_impresion": "2026-10-26T11:30:01.002602+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "carolina gauna conquisto medalla plata 10k juegos bonaerenses",
-      "title": "Carolina Gauna conquistó la medalla de plata en los 10K de los Juegos Bonaerenses",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-10-25T19:31:36+00:00",
-      "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/3f7c84c5-a509-44c3-a4d4-37c2193cacb7.jpg",
-      "articles": [
-        {
-          "portal": "Diario NQ",
-          "title": "Carolina Gauna conquistó la medalla de plata en los 10K de los Juegos Bonaerenses",
-          "url": "https://diarionq.com.ar/carolina-gauna-conquisto-la-medalla-de-plata-en-los-10k-de-los-juegos-bonaerenses/",
-          "published_at": "2026-10-25T19:31:36+00:00",
-          "first_seen": "2026-10-25T20:00:00.746337+00:00",
-          "category": "Deportes",
-          "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/3f7c84c5-a509-44c3-a4d4-37c2193cacb7.jpg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La atleta de la Escuela Municipal de Atletismo Inclusivo de Necochea obtuvo el segundo puesto en los 10 kilómetros de las finales de los Juegos Bonaerenses 2026, disputadas en Mar del Plata. En diálogo con María Figueroa en Zoom El Deportivo, junto a su entrenadora Vanessa Granero, contó cómo vivió el desafío de cambiar las pruebas de velocidad por las carreras de resistencia. Carolina Gauna volvió a destacarse en los Juegos Bonaerenses y sumó una nueva medalla a su trayectoria deportiva.",
-          "Esta vez, la atleta necochense consiguió la medalla de plata en la prueba de 10 kilómetros de atletismo adaptado, en una experiencia que representó un importante desafío personal y deportivo. En una entrevista con Zoom, Carolina y su entrenadora, Vanessa Granero, repasaron la preparación, las sensaciones de la competencia y el trabajo que lleva adelante la Escuela Municipal de Atletismo Inclusivo de Necochea."
-        ],
-        "generated": "2026-10-26T11:33:27.951837+00:00"
-      },
-      "apariciones": 38,
-      "ultima_impresion": "2026-10-26T11:30:01.002602+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "estacion quequen gano zona ascendio zona clasifico playoffs",
-      "title": "Estación Quequén ganó la Zona B, ascendió a la Zona A y se clasificó a los playoffs",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-10-24T21:42:21+00:00",
-      "image": null,
-      "articles": [
-        {
-          "portal": "Diario NQ",
-          "title": "Estación Quequén ganó la Zona B, ascendió a la Zona A y se clasificó a los playoffs",
-          "url": "https://diarionq.com.ar/estacion-quequen-gano-la-zona-b-ascendio-a-la-zona-a-y-se-clasifico-a-los-playoffs/",
-          "published_at": "2026-10-24T21:42:21+00:00",
-          "first_seen": "2026-10-24T21:51:37.088277+00:00",
-          "category": "Destacadas",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El conjunto quequenense igualó 1 a 1 frente a Independiente de Lobería y consiguió quedarse con la Zona B del fútbol necochense. El resultado le aseguró un lugar en la máxima categoría para la próxima temporada y la clasificación a la etapa decisiva del campeonato. Estación Quequén vivió una jornada de festejos luego de igualar 1 a 1 frente a Independiente de Lobería y consagrarse ganador de la Zona B del fútbol necochense, un resultado que le permitirá disputar la Zona A durante la temporada 2027.",
-          "El conjunto quequenense logró cumplir uno de sus principales objetivos de la temporada, asegurándose un lugar en la máxima categoría del fútbol local para el próximo año. El empate frente al equipo de Lobería fue suficiente para quedarse con el primer puesto de su zona y cerrar una campaña que le permitió alcanzar el ascenso. Ahora va por el campeonato Pero la alegría de Estación Quequén no termina con el ascenso."
-        ],
-        "generated": "2026-10-26T11:35:07.656576+00:00"
-      },
-      "apariciones": 75,
-      "ultima_impresion": "2026-10-26T11:30:01.002602+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "buscando aire financiero kicillof sale mercado emitir 10 000 millones suma nueva deuda publica",
-      "title": "Buscando aire financiero: Kicillof sale al mercado a emitir $10.000 millones y suma nueva deuda pública",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-10-24T12:20:29+00:00",
-      "image": "https://res.cloudinary.com/dsugba4yh/image/upload/v1792844413/AX_od6hpo.png",
-      "articles": [
-        {
-          "portal": "Informate Necochea",
-          "title": "Buscando aire financiero: Kicillof sale al mercado a emitir $10.000 millones y suma nueva deuda pública",
-          "url": "https://informatenecochea.com/noticia/buscando-aire-financiero-kicillof-sale-al-mercado-a-emitir-dollar10000-millones-y-suma-nueva-deuda-publica",
-          "published_at": "2026-10-24T12:20:29+00:00",
-          "first_seen": "2026-10-24T13:16:48.625681+00:00",
-          "category": "Nacional",
-          "image": "https://res.cloudinary.com/dsugba4yh/image/upload/v1792844413/AX_od6hpo.png"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Inicio / Nacional Nacional Buscando aire financiero: Kicillof sale al mercado a emitir $10.000 millones y suma nueva deuda pública El Gobierno de la Provincia de Buenos Aires dio un nuevo paso en su estrategia de financiamiento para hacer frente a las necesidades inmediatas de caja. A través de la Resolución 77-SSFIMECONGP-2026, la Subsecretaría de Finanzas provincial oficializó la apertura del décimo tramo del programa de emisión de Letras del Tesoro de 2026 por un monto de hasta $10.000 millones, al tiempo que inscribió como deuda pública formal otro tramo de compromisos por más de $24.750 millones.",
-          "Redacción sábado, 24 de octubre de 2026 · 217 lecturas La nueva colocación, que se llevará a cabo mediante licitación pública a través de la plataforma A3 Mercados y con el Banco Provincia como agente liquidador, contempla instrumentos con plazos de vencimiento de hasta 365 días (con proyección entre finales de 2026 y 2027)."
-        ],
-        "generated": "2026-10-26T11:35:09.043953+00:00"
-      },
-      "apariciones": 93,
-      "ultima_impresion": "2026-10-26T11:30:01.002602+00:00",
+      "apariciones": 36,
+      "ultima_impresion": "2026-10-26T12:00:00.599203+00:00",
       "penalizacion": 0.0
     }
   ]
