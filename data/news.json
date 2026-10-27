@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-27T11:00:01.335298+00:00",
+  "generated_at": "2026-10-27T11:30:00.861559+00:00",
   "article_count": 135,
   "fetch_errors": [],
   "stories": [
     {
       "key": "autovia ruta 88 katopodis anticipo andrea rondanina proyecto estara listo 15 diciembre",
       "title": "Autovía de la ruta 88: Katopodis le anticipó a Andrea Rondanina que el proyecto estará listo el 15 de diciembre",
-      "score": 1.2,
+      "score": 1.151,
       "sources_count": 1,
       "first_seen": "2026-10-27T11:00:20+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/07/Foto-Andrea-Rondanina.webp",
@@ -26,199 +26,306 @@
           "TSN Necochea | ‹ VOLVER | Locales | Autovía | Reunión Autovía de la ruta 88: Katopodis le anticipó a Andrea Rondanina que el proyecto estará listo el 15 de diciembre Se encontraron en la visita del Ministro a nuestra ciudad Por Redacción TSN 27/10/2026 · 08:00 AM Agregar TSN Necochea en Andrea Rondanina, madre de Anita , la adolescente fallecida en un accidente sobre la ruta 88, mantuvo un encuentro con el ministro de Infraestructura de la provincia de Buenos Aires, Gabriel Katopodis, durante su visita a Necochea. En la reunión dialogaron sobre el proyecto para transformar la ruta en autovía y las medidas urgentes que podrían implementarse para mejorar la seguridad vial.",
           "Según contó Rondanina, el funcionario le informó que ya se realizaron los relevamientos y mediciones del trazado y que el proyecto se encuentra en su etapa final de elaboración."
         ],
-        "generated": "2026-10-27T11:01:17.366920+00:00"
+        "generated": "2026-10-27T11:31:07.666303+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-27T11:00:01.335298+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-10-27T11:30:00.861559+00:00",
+      "penalizacion": 1.0
     },
     {
-      "key": "colectivos paralizados necochea quequen uta endurecio reclamo salarios impagos",
-      "title": "Colectivos paralizados en Necochea y Quequén: la UTA endureció el reclamo por salarios impagos",
+      "key": "necochea distritos afectados gobierno cambia subsidios gas pone duda descuentos zona fria",
+      "title": "Necochea, entre los distritos afectados: el Gobierno cambia los subsidios al gas y pone en duda los descuentos de Zona Fría",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-10-27T11:00:01.335298+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/2211fb6529d1495a3b3ce40b0f9e616ca3207140.jpg",
+      "first_seen": "2026-10-27T11:30:00.861559+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/36eb7e8e2c610a018725e2de4b763714f249bb80.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Colectivos paralizados en Necochea y Quequén: la UTA endureció el reclamo por salarios impagos",
-          "url": "https://necocheadigital.com/nota/120013/colectivos-paralizados-en-necochea-y-quequen-la-uta-endurecio-el-reclamo-por-salarios-impagos/",
+          "title": "Necochea, entre los distritos afectados: el Gobierno cambia los subsidios al gas y pone en duda los descuentos de Zona Fría",
+          "url": "https://necocheadigital.com/nota/120015/necochea-entre-los-distritos-afectados-el-gobierno-cambia-los-subsidios-al-gas-y-pone-en-duda-los-descuentos-de-zona-fria/",
           "published_at": null,
-          "first_seen": "2026-10-27T11:00:01.335298+00:00",
+          "first_seen": "2026-10-27T11:30:00.861559+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "El transporte público de pasajeros de Necochea y Quequén quedó interrumpido durante la tarde de este lunes, luego de que los trabajadores de la Compañía de Transportes Necochea resolvieran iniciar una retención de tareas ante la falta de cumplimiento de los compromisos salariales asumidos por la empresa. La decisión fue explicada por Gastón Urrutia, secretario adjunto de la seccional Mar del Plata de la Unión Tranviarios Automotor (UTA), durante una entrevista con Voces de la Tarde , el programa que conduce Jorge Gómez por Radio Noticias Necochea 97.3.",
-          "El dirigente sindical describió un escenario de creciente malestar entre los empleados, que, según señaló, llevan más de dos años atravesando dificultades vinculadas con el cobro de sus salarios. En ese período, afirmó, los haberes se pagaron fuera de término y en cuotas, mientras los trabajadores resignaron derechos para contribuir a sostener el servicio."
+          "El Gobierno nacional avanzó con cambios en el Régimen de Zona Fría que podrían repercutir en las facturas de gas de miles de hogares bonaerenses, entre ellos los de Necochea. La nueva reglamentación redefine las condiciones para acceder a los descuentos y modifica el mecanismo de financiamiento del sistema. La medida, impulsada por la administración de Javier Milei, alcanza a unos 3.350.000 hogares en todo el país.",
+          "De ese total, alrededor de 1.240.000 se encuentran distribuidos en 94 municipios de la provincia de Buenos Aires, según los datos difundidos en torno a la normativa. El cambio central es que residir en una localidad incorporada durante la ampliación del régimen ya no garantizará automáticamente el acceso a la bonificación. Los usuarios deberán cumplir con condiciones adicionales para conservar el beneficio, lo que abre interrogantes sobre el impacto que tendrá la medida en las economías familiares."
         ],
-        "generated": "2026-10-27T11:01:37.611234+00:00"
+        "generated": "2026-10-27T11:31:28.001947+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-27T11:00:01.335298+00:00"
+      "ultima_impresion": "2026-10-27T11:30:00.861559+00:00"
     },
     {
-      "key": "containers necochea creditos 96 cuotas acercarse sueno casa propia",
-      "title": "Containers Necochea: créditos de hasta 96 cuotas para acercarse al sueño de la casa propia",
+      "key": "trump me gusta lula me llevo muy bien dira milei",
+      "title": "TRUMP: “Me gusta Lula. Me llevo muy bien con él”. ¿Qué dirá Milei?",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-10-27T11:00:01.335298+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/11a4fca131913345a9007d4092348027d4ed5a11.jpg",
+      "first_seen": "2026-10-27T11:30:00.861559+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/57c20402123529c0564ec45132016dc593194f98.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Containers Necochea: créditos de hasta 96 cuotas para acercarse al sueño de la casa propia",
-          "url": "https://necocheadigital.com/nota/120012/containers-necochea-creditos-de-hasta-96-cuotas-para-acercarse-al-sueno-de-la-casa-propia/",
+          "title": "TRUMP: “Me gusta Lula. Me llevo muy bien con él”. ¿Qué dirá Milei?",
+          "url": "https://necocheadigital.com/nota/120014/trump-me-gusta-lula-me-llevo-muy-bien-con-el-que-dira-milei/",
           "published_at": null,
-          "first_seen": "2026-10-27T11:00:01.335298+00:00",
+          "first_seen": "2026-10-27T11:30:00.861559+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "Acceder a una vivienda propia es uno de los objetivos más difíciles de concretar para muchas familias. En ese escenario, Containers Necochea presentó una alternativa que busca facilitar la compra de casas modulares a través de una línea de financiamiento del Banco Provincia, con plazos que pueden extenderse hasta las 96 cuotas. La propuesta fue explicada por José “Cholo” Servat, titular de la empresa, durante una entrevista realizada este lunes 26 de octubre en Voces de la Tarde , el programa que conduce Jorge Gómez por Radio Noticias Necochea 97.3.",
-          "“Hace diez años que vendemos casas container y siempre soñábamos con que algún día le pudieran prestar dinero a la gente para comprarse una casa”, contó Servat. Según relató, la posibilidad tomó forma a partir de conversaciones con autoridades de la entidad bancaria, con el objetivo de ampliar las opciones para quienes buscan acceder a este tipo de construcción."
+          "El presidente estadounidense Donald Trump se refirió este lunes a la victoria electoral de Luiz Inácio Lula da Silva en Brasil. Si bien afirmó que mantiene una buena relación con el mandatario brasileño, también puso en duda el proceso electoral al sostener que le pareció una elección “manipulada”. Sus declaraciones agregaron un nuevo elemento al escenario diplomático regional y volvieron a poner el foco sobre Javier Milei, quien todavía no se había pronunciado públicamente sobre el resultado que consagró a Lula frente a Flávio Bolsonaro. Yo gobierno Estados Unidos.",
+          "Me llevo muy bien con él”, expresó Trump ante periodistas que lo aguardaban antes de partir hacia Mississippi para participar de un acto de campaña. Sin embargo, el mandatario norteamericano acompañó esas palabras con cuestionamientos al desarrollo de los comicios. “Simplemente creo que la forma en que se contabilizaron los votos dio muy mala impresión."
         ],
-        "generated": "2026-10-27T11:01:38.248870+00:00"
+        "generated": "2026-10-27T11:31:28.646632+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-27T11:00:01.335298+00:00"
+      "ultima_impresion": "2026-10-27T11:30:00.861559+00:00"
     },
     {
-      "key": "mauricio lambiris domino punta punta rosario antepenultima fecha turismo carretera",
-      "title": "Mauricio Lambiris dominó de punta a punta en Rosario por la antepenúltima fecha del Turismo Carretera",
+      "key": "fiscalia rechazo pedido inimputabilidad acusado matar madre exigio caso vaya juicio oral",
+      "title": "La Fiscalía rechazó el pedido de inimputabilidad para el acusado de matar a su madre y exigió que el caso vaya a juicio oral",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-10-27T11:00:01.335298+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261026114346_whatsapp-image-2026-10-26-at-11-43-19.jpg",
+      "first_seen": "2026-10-27T11:30:00.861559+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261026121642_whatsapp-image-2026-10-26-at-12-16-11.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Mauricio Lambiris dominó de punta a punta en Rosario por la antepenúltima fecha del Turismo Carretera",
-          "url": "https://necocheadigital.com/nota/120006/mauricio-lambiris-domino-de-punta-a-punta-en-rosario-por-la-antepenultima-fecha-del-turismo-carretera/",
+          "title": "La Fiscalía rechazó el pedido de inimputabilidad para el acusado de matar a su madre y exigió que el caso vaya a juicio oral",
+          "url": "https://necocheadigital.com/nota/120010/la-fiscalia-rechazo-el-pedido-de-inimputabilidad-para-el-acusado-de-matar-a-su-madre-y-exigio-que-el-caso-vaya-a-juicio-oral/",
           "published_at": null,
-          "first_seen": "2026-10-27T11:00:01.335298+00:00",
+          "first_seen": "2026-10-27T11:30:00.861559+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "Mauricio Lambiris fue el gran protagonista del \"Gran Premio AFA\", correspondiente a la 13ª fecha del campeonato de Turismo Carretera y tercera de la Copa de Oro, disputada en el autódromo Juan Manuel Fangio de Rosario. El piloto oriental dominó con solidez a bordo del Ford Mustang atendido por la Scuderia JT para adjudicarse la victoria de punta a punta al cabo de las 25 vueltas de competencia, devolviendo al uruguayo al triunfo tras más de un año sin subir a lo más alto del podio.",
-          "El resultado marcó un verdadero hito para la estructura con sede en Lobería liderada por Jerónimo Teti, que alcanzó su primer triunfo en la \"máxima\" categoría desde su desembarco en 2025."
+          "A poco más de cuatro meses del aberrante hecho acontecido en Quequén, la investigación por el crimen de Delia Mercedes Romero, de 86 años, ingresó en una etapa de definición técnica marcada por un contrapunto legal en torno a la salud mental del único acusado. La defensora oficial Laura Barbafina, en representación de Jorge Daniel Sánchez, de 56 años y apodado \"El Garda\", solicitó formalmente el sobreseimiento de su asistido por considerar que resulta inimputable, argumentando que al momento de perpetrar la agresión contra su madre no contaba con el pleno uso de sus facultades mentales.",
+          "La pretensión de la defensa fue impugnada de plano por el cotitular de la UFI N.º 10 de Violencia de Género, Walter Pierrestegui."
         ],
-        "generated": "2026-10-27T11:01:39.325796+00:00"
+        "generated": "2026-10-27T11:31:29.670277+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-27T11:00:01.335298+00:00"
+      "ultima_impresion": "2026-10-27T11:30:00.861559+00:00"
     },
     {
-      "key": "maraton mamografica supero expectativas continuara turnos noviembre",
-      "title": "La maratón mamográfica superó las expectativas y continuará con turnos durante noviembre",
+      "key": "emsur mantiene intenso despliegue maquinaria mejorar caminos rurales red hidraulica distrito",
+      "title": "El EMSUR mantiene un intenso despliegue de maquinaria para mejorar los caminos rurales y la red hidráulica del distrito",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-10-27T11:00:01.335298+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/45e555521de35f446f0e00d787d7d3d29f816923.jpg",
+      "first_seen": "2026-10-27T11:30:00.861559+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261026121948_26-10-foto-emsur-rural2.png",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "La maratón mamográfica superó las expectativas y continuará con turnos durante noviembre",
-          "url": "https://necocheadigital.com/nota/119996/la-maraton-mamografica-supero-las-expectativas-y-continuara-con-turnos-durante-noviembre/",
+          "title": "El EMSUR mantiene un intenso despliegue de maquinaria para mejorar los caminos rurales y la red hidráulica del distrito",
+          "url": "https://necocheadigital.com/nota/120011/el-emsur-mantiene-un-intenso-despliegue-de-maquinaria-para-mejorar-los-caminos-rurales-y-la-red-hidraulica-del-distrito/",
           "published_at": null,
-          "first_seen": "2026-10-27T11:00:01.335298+00:00",
-          "category": null,
-          "image": null
-        },
-        {
-          "portal": "Necochea Digital",
-          "title": "La maratón mamográfica superó las expectativas y continuará en noviembre con turnos sin orden médica",
-          "url": "https://necocheadigital.com/nota/119962/la-maraton-mamografica-supero-las-expectativas-y-continuara-en-noviembre-con-turnos-sin-orden-medica/",
-          "published_at": null,
-          "first_seen": "2026-10-27T11:00:01.335298+00:00",
+          "first_seen": "2026-10-27T11:30:00.861559+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "La campaña de prevención del cáncer de mama en Necochea y Quequén tuvo una respuesta que superó las expectativas y continuará durante noviembre para atender a todas las mujeres que no pudieron acceder a una mamografía durante la jornada especial. Así lo confirmó Natalia Ballester, técnica radióloga del Hospital Irurzun, durante una entrevista realizada por Quimey Marfil en Radio Noticias Necochea. La maratón mamográfica se llevó adelante el martes 20 de octubre y, ante la gran cantidad de personas que se acercaron, la jornada se extendió mucho más de lo previsto.",
-          "El equipo comenzó a trabajar a las 6 de la mañana y continuó hasta aproximadamente las 3.30 o 4 del día siguiente. “Ese día todas las mujeres que vinieron hasta 150 pudimos hacerlas dentro de ese horario”, explicó Ballester. Debido a la demanda y a las limitaciones operativas, quienes no alcanzaron a realizarse el estudio recibieron turnos para noviembre."
+          "Durante octubre, los trabajos se llevaron adelante tanto con maquinaria y personal municipal como a través de convenios con la Dirección de Hidráulica de la Provincia de Buenos Aires. En materia de caminos rurales, las máquinas del organismo municipal intervinieron en numerosos tramos para recuperar la transitabilidad, reparar sectores deteriorados y atender los cortes provocados por las condiciones del terreno.",
+          "Entre las tareas más importantes se encuentra la reconstrucción del Camino Municipal 044, en el sector de La Luisa , y la reparación de cortes con reconstrucción de la traza en el Camino Municipal 316 . También se trabajó en los caminos municipales 039-040 , con arreglos de cortes en el recorrido costero hacia Termas del Campo y en el sector del boulevard que conduce al mismo establecimiento."
         ],
-        "generated": "2026-10-27T11:01:41.333584+00:00"
+        "generated": "2026-10-27T11:31:30.723021+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-27T11:00:01.335298+00:00"
+      "ultima_impresion": "2026-10-27T11:30:00.861559+00:00"
     },
     {
-      "key": "diabetes obesidad combinacion preocupa avance jovenes",
-      "title": "Diabetes y obesidad: la combinación que preocupa por su avance entre los más jóvenes",
+      "key": "villa diaz velez aseguro uno zona estacion quequen logro ascenso 21 fecha dejo final rojo vivo",
+      "title": "Villa Díaz Vélez aseguró el uno en la Zona A, Estación Quequén logró el ascenso y la 21ª fecha dejó un final al rojo vivo",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-10-27T11:00:01.335298+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/6dc3b9a59c9ff961ee93b4a60aadb4ab9506544a.jpg",
+      "first_seen": "2026-10-27T11:30:00.861559+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261026121002_whatsapp-image-2026-10-26-at-12-09-43.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Diabetes y obesidad: la combinación que preocupa por su avance entre los más jóvenes",
-          "url": "https://necocheadigital.com/nota/119995/diabetes-y-obesidad-la-combinacion-que-preocupa-por-su-avance-entre-los-mas-jovenes/",
+          "title": "Villa Díaz Vélez aseguró el uno en la Zona A, Estación Quequén logró el ascenso y la 21ª fecha dejó un final al rojo vivo",
+          "url": "https://necocheadigital.com/nota/120009/villa-diaz-velez-aseguro-el-uno-en-la-zona-a-estacion-quequen-logro-el-ascenso-y-la-21-ordf-fecha-dejo-un-final-al-rojo-vivo/",
           "published_at": null,
-          "first_seen": "2026-10-27T11:00:01.335298+00:00",
+          "first_seen": "2026-10-27T11:30:00.861559+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "El aumento del sobrepeso, la obesidad y la falta de actividad física está modificando el escenario sanitario en la Argentina y favoreciendo la aparición de diabetes en personas cada vez más jóvenes. La advertencia fue realizada por el médico especialista Pedro Barrientos, durante una entrevista el jueves 22 de octubre en Voces de la Tarde , el programa que conduce Jorge Gómez por Radio Noticias Necochea 97.3 FM. El profesional puso el foco en la relación entre ambas enfermedades y en los cambios de hábitos que afectan especialmente a niños y adolescentes, con más tiempo frente a las pantallas, menos actividad física y una alimentación que muchas veces incluye productos ultraprocesados.",
-          "Según los datos mencionados por Barrientos, alrededor del 60% de la población argentina presenta sobrepeso u obesidad. Entre los chicos en edad escolar, esa proporción llega al 40%."
+          "La penúltima jornada de la fase regular del certamen de la Liga Necochea de Fútbol dejó definiciones de peso en ambos frentes de la tabla. En la Zona A, Villa Díaz Vélez aplastó a Villa del Parque en el clásico por 4-1 como visitante, con un doblete de Juan Ignacio Calderón y tantos de Fernando Montes y Jonathan Ríos, mientras que Lucio Szpyt marcó el descuento para el \"León\". Con este resultado, los dirigidos por Federico Montes alcanzaron los 45 puntos y se aseguraron matemáticamente el primer puesto del grupo antes de recibir a Mataderos en la fecha final.",
+          "La contracara del festejo \"Naranja\" fue la situación crítica de Villa del Parque, que con 24 unidades quedó sin chances de eludir la zona de peligro. El \"León\" deberá jugarse la permanencia en un mano a mano electrizante en la última jornada frente a Rivadavia en el Estadio Panamericano."
         ],
-        "generated": "2026-10-27T11:01:42.385958+00:00"
+        "generated": "2026-10-27T11:31:31.737880+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-27T11:00:01.335298+00:00"
+      "ultima_impresion": "2026-10-27T11:30:00.861559+00:00"
     },
     {
-      "key": "necochea quequen preparan temporada guardavidas comenzaran operativo 15 noviembre",
-      "title": "Necochea y Quequén preparan la temporada: los guardavidas comenzarán el operativo el 15 de noviembre",
+      "key": "congreso logistica puertos comercio exterior unicen celebrara 12 edicion",
+      "title": "El Congreso de Logística, Puertos y Comercio Exterior de la Unicen celebrará su 12ª edición",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-10-27T11:00:01.335298+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/2c346ed0285668281240f811003b9a4e7d692252.jpg",
+      "first_seen": "2026-10-27T11:30:00.861559+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261026115328_10-11-foto-arturo-rojas-unicen-congreso-logisitca-02.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Necochea y Quequén preparan la temporada: los guardavidas comenzarán el operativo el 15 de noviembre",
-          "url": "https://necocheadigital.com/nota/119994/necochea-y-quequen-preparan-la-temporada-los-guardavidas-comenzaran-el-operativo-el-15-de-noviembre/",
+          "title": "El Congreso de Logística, Puertos y Comercio Exterior de la Unicen celebrará su 12ª edición",
+          "url": "https://necocheadigital.com/nota/120008/el-congreso-de-logistica-puertos-y-comercio-exterior-de-la-unicen-celebrara-su-12-ordf-edicion/",
           "published_at": null,
-          "first_seen": "2026-10-27T11:00:01.335298+00:00",
+          "first_seen": "2026-10-27T11:30:00.861559+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "Las playas de Necochea y Quequén comienzan a prepararse para la próxima temporada de verano. El operativo de seguridad con guardavidas se pondrá en marcha el domingo 15 de noviembre y se extenderá hasta el 15 de abril, según confirmó Pablo Suárez, secretario general de la Asociación de Guardavidas de Necochea-Quequén. En una entrevista realizada el viernes 23 de octubre en Voces de la Tarde , el programa que conduce Jorge Gómez por Radio Noticias Necochea 97.3 FM, el dirigente detalló los preparativos, las evaluaciones obligatorias y la cantidad de profesionales que se desplegarán a lo largo de la costa.",
-          "Exámenes y reválida antes del inicio del servicio Uno de los pasos centrales de cara al verano será el concurso de ingreso al plantel municipal, que cuenta con alrededor de 50 aspirantes inscriptos. La primera instancia está prevista para este sábado 24 de octubre, desde las 9.30, en el Polideportivo Municipal."
+          "La Unidad de Enseñanza Universitaria Quequén de la Universidad Nacional del Centro de la Provincia de Buenos Aires (UNICEN) llevará a cabo el XII Congreso de Logística, Puertos y Comercio Exterior (LOGIPEX), una destacada propuesta que reunirá a profesionales, docentes, estudiantes y referentes del sector para debatir sobre la transformación tecnológica, la infraestructura y el desarrollo regional. Las actividades tendrán lugar el jueves 19 y el viernes 20 de noviembre, articulando espacios de capacitación entre la sede universitaria de Quequén, ubicada en calle 508 N.º 881, y la sede del Centro de Acopiadores de Cereales, situada en avenida 59 N.º 836 de Necochea.",
+          "La jornada inicial del jueves comenzará a las 9.30 en Quequén con el dictado de talleres simultáneos sobre cultura vial, química cotidiana y trazabilidad biogeoquímica aplicada a la investigación, este último a cargo de Luciano Valenzuela y Felipe Otero."
         ],
-        "generated": "2026-10-27T11:01:43.021763+00:00"
+        "generated": "2026-10-27T11:31:32.735722+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-27T11:00:01.335298+00:00"
+      "ultima_impresion": "2026-10-27T11:30:00.861559+00:00"
+    },
+    {
+      "key": "atletismo inclusivo municipal alcanzo podio bonaerenses brillo carolina gauna",
+      "title": "El atletismo inclusivo municipal alcanzó un podio en los Bonaerenses con el brillo de Carolina Gauna",
+      "score": 0.994,
+      "sources_count": 1,
+      "first_seen": "2026-10-27T11:25:21+00:00",
+      "image": null,
+      "articles": [
+        {
+          "portal": "Necochea News",
+          "title": "El atletismo inclusivo municipal alcanzó un podio en los Bonaerenses con el brillo de Carolina Gauna",
+          "url": "https://necocheanews.com.ar/carolina-gauna-se-lleva-la-plata-en-los-10-000-m-de-los-juegos-bonaerenses-2026/",
+          "published_at": "2026-10-27T11:25:21+00:00",
+          "first_seen": "2026-10-27T11:30:00.861559+00:00",
+          "category": "LOCALES",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La atleta de la Escuela Municipal de Atletismo Inclusivo de Necochea obtuvo su primer podio en la prueba de fondo, sumando una medalla de plata en la competencia provincial. Una nueva prueba de fondo En la edición de este año de los Juegos Bonaerenses, Carolina Gauna compitió por primera vez en la distancia de 10 kilómetros y logró el segundo puesto. Acostumbrada a las pruebas de velocidad, la joven de 25 años demostró también capacidad para las carreras de larga distancia, superando el viento en contra que marcó la ida y gestionando su ritmo en la vuelta para cerrar con buenas sensaciones.",
+          "Preparación y entrenamiento El logro se produjo después de varios meses de trabajo junto a su entrenadora, Vanesa Graneros. Gauna entrenó de forma intensiva los martes, jueves y viernes, combinando pasadas y acumulando kilómetros hasta bajar su tiempo a 52 minutos."
+        ],
+        "generated": "2026-10-27T11:31:33.420295+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-27T11:30:00.861559+00:00"
+    },
+    {
+      "key": "pitbull ataco nena dos anos fracturo craneo",
+      "title": "Pitbull atacó a una nena de dos años y le fracturó el cráneo",
+      "score": 0.985,
+      "sources_count": 1,
+      "first_seen": "2026-10-27T11:19:14+00:00",
+      "image": null,
+      "articles": [
+        {
+          "portal": "Necochea News",
+          "title": "Pitbull atacó a una nena de dos años y le fracturó el cráneo",
+          "url": "https://necocheanews.com.ar/una-pitbull-hiere-de-gravedad-a-una-nina-de-2-anos-en-san-francisco-cordoba-y-le-fractura-el-craneo/",
+          "published_at": "2026-10-27T11:19:14+00:00",
+          "first_seen": "2026-10-27T11:30:00.861559+00:00",
+          "category": "NACIONALES",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El ataque se produjo en una casa vecina; la menor fue trasladada de urgencia a Santa Fe y la Fiscalía dispuso el secuestro del animal. Detalles del hecho El domingo pasado, una niña de dos años ingresó a la vivienda de una vecina en la ciudad cordobesa de San Francisco, donde se encontraba un perro de la raza pitbull. El animal la atacó, causándole una fractura de cráneo. El padre de la menor informó que el incidente ocurrió dentro de la casa de la vecina y que la agresión fue inmediata.",
+          "Atención médica Tras el ataque, la niña recibió primeros auxilios y fue llevada al Hospital J. Iturraspe de San Francisco. Dada la complejidad de la lesión, los médicos decidieron su traslado a un centro de mayor nivel."
+        ],
+        "generated": "2026-10-27T11:31:33.958031+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-27T11:30:00.861559+00:00"
+    },
+    {
+      "key": "donald trump califica amanadas muy corruptas elecciones presidenciales brasil",
+      "title": "Donald Trump califica de “amañadas” y “muy corruptas” las elecciones presidenciales de Brasil",
+      "score": 0.98,
+      "sources_count": 1,
+      "first_seen": "2026-10-27T11:15:44+00:00",
+      "image": null,
+      "articles": [
+        {
+          "portal": "Necochea News",
+          "title": "Donald Trump califica de “amañadas” y “muy corruptas” las elecciones presidenciales de Brasil",
+          "url": "https://necocheanews.com.ar/donald-trump-califica-de-amanadas-y-muy-corruptas-las-elecciones-presidenciales-de-brasil-2/",
+          "published_at": "2026-10-27T11:15:44+00:00",
+          "first_seen": "2026-10-27T11:30:00.861559+00:00",
+          "category": "INTERNACIONALES",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "cuestionó la legitimidad del balotaje que consagró a Luiz Inácio Lula da Silva frente a Flávio Bolsonaro. Donald Trump, durante una entrevista con periodistas mientras se dirigía desde Washington a un mitin de campaña para las elecciones legislativas de mitad de mandato, afirmó que el proceso electoral brasileño le resultó “terrible”. “No tomé partido, pero, francamente, pareció otra elección amañada… algo muy corrupto, algo terrible”, declaró el exmandatario.",
+          "Sus comentarios surgieron tras la victoria de Lula en la segunda vuelta presidencial, en la que superó al candidato de derecha Flávio Bolsonaro. La declaración de Trump generó una amplia repercusión internacional al poner en duda la validez del escrutinio que otorgó un nuevo mandato al líder progresista."
+        ],
+        "generated": "2026-10-27T11:31:34.490062+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-27T11:30:00.861559+00:00"
+    },
+    {
+      "key": "harry kane alza balon oro 2026 londres alexia putellas repite categoria femenina",
+      "title": "Harry Kane se alza con el Balón de Oro 2026 en Londres; Alexia Putellas repite en la categoría femenina",
+      "score": 0.969,
+      "sources_count": 1,
+      "first_seen": "2026-10-27T11:07:30+00:00",
+      "image": null,
+      "articles": [
+        {
+          "portal": "Necochea News",
+          "title": "Harry Kane se alza con el Balón de Oro 2026 en Londres; Alexia Putellas repite en la categoría femenina",
+          "url": "https://necocheanews.com.ar/harry-kane-se-alza-con-el-balon-de-oro-2026-en-londres-alexia-putellas-repite-en-la-categoria-femenina/",
+          "published_at": "2026-10-27T11:07:30+00:00",
+          "first_seen": "2026-10-27T11:30:00.861559+00:00",
+          "category": "DEPORTES",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El delantero inglés del Bayern Munich obtuvo el premio máximo en la gala celebrada en el London Palladium, mientras la española Alexia Putellas conquistó su tercer Balón de Oro femenino. La ceremonia, organizada por France Football para conmemorar los 70 años del galardón, se realizó por primera vez en Londres. En ella, el delantero de 33 años recibió el Balón de Oro 2026 tras una temporada destacada con el Bayern, donde ganó la Bundesliga, la Pokal y la Supercopa de Alemania. En la votación, Lionel Messi quedó en la quinta posición.",
+          "### Ranking del Balón de Oro 2026 Top 10 1. Fabián Ruiz Del 11 al 29 11. Jude Bellingham (Real Madrid / Inglaterra) 12."
+        ],
+        "generated": "2026-10-27T11:31:35.178745+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-27T11:30:00.861559+00:00"
     },
     {
       "key": "flavio bolsonaro afirma justicia prohibio salir brasil perder lula",
       "title": "Flávio Bolsonaro afirma que la Justicia le prohibió salir de Brasil tras perder contra Lula",
-      "score": 1.0,
+      "score": 0.959,
       "sources_count": 1,
       "first_seen": "2026-10-27T11:00:06+00:00",
       "image": null,
@@ -229,7 +336,7 @@
           "url": "https://necocheanews.com.ar/flavio-bolsonaro-afirma-que-la-justicia-le-prohibio-salir-de-brasil-tras-perder-contra-lula/",
           "published_at": "2026-10-27T11:00:06+00:00",
           "first_seen": "2026-10-27T11:00:01.335298+00:00",
-          "category": "LOCALES",
+          "category": "INTERNACIONALES",
           "image": null
         }
       ],
@@ -238,11 +345,11 @@
           "El senador denunció una orden judicial que le impide viajar al extranjero y acusó al nuevo presidente de intentar intimidarlo. Orden judicial y detención El lunes 26 de octubre, a menos de 24 horas de conocerse los resultados del balotaje presidencial, Flávio Bolsonaro recibió una notificación que le prohíbe abandonar el territorio brasileño. Al salir de la residencia donde se encuentra detenido su padre, el expresidente Jair Bolsonaro, agentes de la Policía Federal lo interceptaron y le exigieron la entrega de sus pasaportes.",
           "Según el senador, la medida proviene del juez Alexandre de Moraes, integrante del Supremo Tribunal Federal, en el marco de las investigaciones que involucran al dirigente. Contexto político y acusaciones Flávio Bolsonaro, candidato derrotado frente a Luiz Inácio Lula da Silva, calificó la restricción de movimiento como un intento de persecución e intimidación política."
         ],
-        "generated": "2026-10-27T11:01:43.706511+00:00"
+        "generated": "2026-10-27T11:31:35.732221+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-27T11:00:01.335298+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-10-27T11:30:00.861559+00:00",
+      "penalizacion": 1.0
     },
     {
       "key": "como estara tiempo martes necochea quequen",
@@ -267,10 +374,10 @@
           "TSN Necochea | ‹ VOLVER | Locales | humedad | Clima Cómo estará el tiempo este martes en Necochea y Quequén Datos aportados por el Servicio Meteorológico Nacional Por Redacción TSN 27/10/2026 · 02:45 AM Encuentran en la ribera un auto que había sido robado ayer Agregar TSN Necochea en El pronóstico del Servicio Meteorológico Nacional para este martes 27 de octubre en Necochea indica una temperatura máxima de 17°C y una mínima de 8° C, con vientos del Noroeste a 22 km/h. Por la madrugada, la temperatura será de 8° C.",
           "El viento es del cuadrante Norte a una velocidad que puede llegar a 12 km/h, con el cielo mayormente nubaldo. En la mañana la temperatura será de 12° C, el viento soplará del cuadrante Noroeste a una velocidad que puede llegar a 12 km/h, con el cielo mayormente nublado."
         ],
-        "generated": "2026-10-27T11:02:10.699341+00:00"
+        "generated": "2026-10-27T11:32:02.907823+00:00"
       },
-      "apariciones": 13,
-      "ultima_impresion": "2026-10-27T11:00:01.335298+00:00",
+      "apariciones": 14,
+      "ultima_impresion": "2026-10-27T11:30:00.861559+00:00",
       "penalizacion": 0.001
     },
     {
@@ -305,10 +412,10 @@
           "TSN Necochea | ‹ VOLVER | Policiales | banda delictiva | Batán Desarticulan una banda que hacía estafas telefónicas y se hacía pasar por policía desde la cárcel Una investigación de la DDI permitió detectar más de 10.000 llamadas concretadas desde el Penal de Olmos y las unidades de Batán. Hay cinco detenidos y reavivan el debate para prohibir los celulares en los penales bonaerenses.",
           "Por Redacción TSN 26/10/2026 · 09:55 PM Penal de Batán Agregar TSN Necochea en Una investigación de la DDI de Mar del Plata permitió desarticular una organización que operaba desde distintas unidades penitenciarias bonaerenses y utilizaba teléfonos celulares para contactar a personas de diferentes puntos del país mediante engaños telefónicos. ​Según la pesquisa, los integrantes tenían roles definidos: algunos buscaban posibles víctimas y otros realizaban las llamadas desde la cárcel."
         ],
-        "generated": "2026-10-27T11:01:36.590264+00:00"
+        "generated": "2026-10-27T11:31:26.813758+00:00"
       },
-      "apariciones": 23,
-      "ultima_impresion": "2026-10-27T11:00:01.335298+00:00",
+      "apariciones": 24,
+      "ultima_impresion": "2026-10-27T11:30:00.861559+00:00",
       "penalizacion": 0.0
     },
     {
@@ -352,10 +459,10 @@
           "El Gobierno nacional reconoció la situación de emergencia y desastre agropecuario en las circunscripciones II, III, IV y XII del distrito, además del partido de 9 de Julio. La medida comprende el período entre el 1° de mayo y el 31 de octubre de 2026 y permitirá a los productores afectados acceder a beneficios establecidos por ley.",
           "El Gobierno nacional declaró la emergencia y/o desastre agropecuario por inundaciones en distintas zonas de la provincia de Buenos Aires, incluyendo cuatro circunscripciones del partido de Necochea, como consecuencia de los excesos hídricos que afectaron a establecimientos rurales. La decisión fue adoptada por el Ministerio de Economía de la Nación y alcanza a las circunscripciones II, III, IV y XII de Necochea, perteneciente a la Quinta Sección Electoral, así como a la totalidad del partido de 9 de Julio, ubicado en la Cuarta Sección."
         ],
-        "generated": "2026-10-27T11:02:09.657516+00:00"
+        "generated": "2026-10-27T11:32:01.932043+00:00"
       },
-      "apariciones": 19,
-      "ultima_impresion": "2026-10-27T11:00:01.335298+00:00",
+      "apariciones": 20,
+      "ultima_impresion": "2026-10-27T11:30:00.861559+00:00",
       "penalizacion": 0.0
     },
     {
@@ -381,10 +488,10 @@
           "TSN Necochea | ‹ VOLVER | Nación | Números El Índice de Confianza del Gobierno registró un leve aumento en octubre comparado con septiembre, pero cayó un 7% interanual El ICG de este mes fue de 1,95 puntos, sobre un relevamiento que va de 0 a 5 puntos. Por Redacción TSN 27/10/2026 · 01:32 AM Agregar TSN Necochea en El Índice de Confianza del Gobierno (ICG) registró en octubre un leve aumento del 0,9 p0r ciento comparado con septiembre , pero cayó 7 por ciento interanual y bajó también un 20,7 por ciento desde el año pasado, según el informe que elabora todos los meses la Universidad Torcuato Di Tella.",
           "Según pudo saber la Agencia Noticias Argentinas, el ICG de este mes fue de 1,95 puntos, sobre un relevamiento que va de 0 a 5 puntos."
         ],
-        "generated": "2026-10-27T11:02:11.359510+00:00"
+        "generated": "2026-10-27T11:32:03.882050+00:00"
       },
-      "apariciones": 15,
-      "ultima_impresion": "2026-10-27T11:00:01.335298+00:00",
+      "apariciones": 16,
+      "ultima_impresion": "2026-10-27T11:30:00.861559+00:00",
       "penalizacion": 0.0
     },
     {
@@ -410,10 +517,10 @@
           "TSN Necochea | ‹ VOLVER | | auto | En 59 y 48 Se incendió un automóvil en Necochea por un presunto desperfecto eléctrico El siniestro ocurrió este lunes pasadas las 19 horas sobre un Chevrolet Corsa. Personal del Cuartel de Bomberos local trabajó en el lugar para sofocar las llamas. No se registraron heridos.",
           "Por Redacción TSN 27/10/2026 · 01:29 AM Agregar TSN Necochea en Un vehículo marca Chevrolet Corsa sufrió daños materiales de consideración tras registrarse un voraz incendio en su estructura durante las primeras horas de la noche de este lunes . El hecho tuvo lugar alrededor de las 19:00 horas , cuando el conductor del rodado advirtió la imprevista presencia de humo y llamas provenientes del sector del motor, lo que motivó el inmediato aviso a la central de emergencias."
         ],
-        "generated": "2026-10-27T11:02:12.140355+00:00"
+        "generated": "2026-10-27T11:32:04.540242+00:00"
       },
-      "apariciones": 16,
-      "ultima_impresion": "2026-10-27T11:00:01.335298+00:00",
+      "apariciones": 17,
+      "ultima_impresion": "2026-10-27T11:30:00.861559+00:00",
       "penalizacion": 0.0
     },
     {
@@ -439,10 +546,10 @@
           "TSN Necochea | ‹ VOLVER | Deportes | Básquet | Básquet masculino Huracán pisa cada vez más firme en Tres Arroyos y Rivadavia avanza en Mar del Plata Los equipos necochenses sumaron victorias muy importantes este fin de semana. Por Redacción TSN 26/10/2026 · 07:30 PM Agregar TSN Necochea en El básquet masculino necochense se hizo sentir en la jornada de este domingo: Huracán tumbó al campeón reinante del Torneo Oficial de Tres Arroyos , mientras que Rivadavia revirtió la serie ante Empleados de Comercio de Mar del Plata y se metió en cuartos de final de la Asociación Marplatense de Básquet.",
           "En cuanto al Globo , por la fecha 14 del torneo tresarroyense pasó la prueba de fuego de enfrentar al único equipo que lo había derrotado y que estaba invicto, Alumni de Orense, al cual Huracán lo superó por 73-58 en el Gigante, precisamente en la cancha “Edelma Gallega Pagani”, donde la fortaleza se sigue erigiendo para los de Santiago Cuñado."
         ],
-        "generated": "2026-10-27T11:04:56.243891+00:00"
+        "generated": "2026-10-27T11:34:47.983821+00:00"
       },
-      "apariciones": 28,
-      "ultima_impresion": "2026-10-27T11:00:01.335298+00:00",
+      "apariciones": 29,
+      "ultima_impresion": "2026-10-27T11:30:00.861559+00:00",
       "penalizacion": 0.0
     },
     {
@@ -477,10 +584,10 @@
           "Una pareja y sus tres hijos se quedaron únicamente con la ropa que llevaban puesta luego de que un incendio destruyera su vivienda. Afortunadamente, los cinco integrantes se encuentran bien, pero necesitan la colaboración de la comunidad para reconstruir su hogar. Una familia de Quequén atraviesa un difícil momento luego de que un incendio destruyera su vivienda y provocara la pérdida de todas sus pertenencias.",
           "En la casa vivían cinco personas: una pareja y sus tres hijos de 11, 7 y 4 años, quienes afortunadamente se encuentran fuera de peligro. Tras el siniestro, los damnificados se quedaron prácticamente con lo puesto y ahora enfrentan el enorme desafío de comenzar nuevamente, sin los elementos básicos para desarrollar su vida cotidiana."
         ],
-        "generated": "2026-10-27T11:05:21.234788+00:00"
+        "generated": "2026-10-27T11:35:12.556934+00:00"
       },
-      "apariciones": 36,
-      "ultima_impresion": "2026-10-27T11:00:01.335298+00:00",
+      "apariciones": 37,
+      "ultima_impresion": "2026-10-27T11:30:00.861559+00:00",
       "penalizacion": 0.0
     },
     {
@@ -506,10 +613,10 @@
           "Se esperará la resolución del Tribunal de Disciplina tras el partido suspendido entre Newbery y Ministerio. La Liga Necochea de Fútbol informó que, en la reunión del Consejo Directivo adelantada para hoy lunes, se resolvió no programar encuentros de fútbol superior, en las categorías Primera División, Reserva y Sexta, hasta tanto el Tribunal de Disciplina emita la resolución correspondiente al partido suspendido entre los clubes Newbery y Ministerio, perteneciente a la fecha 21.",
           "La medida tiene como finalidad completar la totalidad de los encuentros pendientes de las fechas anteriores antes de disputar la última fecha de la etapa clasificatoria, en la que se definirán las clasificaciones a la próxima instancia del torneo en cada división. De esta manera, la liga busca garantizar que la fecha se desarrolle con todos los equipos en igualdad de condiciones deportivas y con las posiciones de cada categoría debidamente determinadas."
         ],
-        "generated": "2026-10-27T11:05:23.338190+00:00"
+        "generated": "2026-10-27T11:35:16.265391+00:00"
       },
-      "apariciones": 25,
-      "ultima_impresion": "2026-10-27T11:00:01.335298+00:00",
+      "apariciones": 26,
+      "ultima_impresion": "2026-10-27T11:30:00.861559+00:00",
       "penalizacion": 0.0
     },
     {
@@ -535,126 +642,10 @@
           "Luego de cumplir el primer objetivo de la temporada, los jugadores del Verde y Blanco compartieron sus sensaciones en una entrevista en Zoom El Deportivo . Destacaron la unión del grupo, el trabajo realizado durante el año y el acompañamiento de la gente, mientras se preparan para afrontar los play-offs. Estación Quequén atraviesa un gran momento futbolístico.",
           "Tras conseguir el ascenso, el equipo dirigido por Abel Aníbal Coria alcanzó uno de los principales objetivos que se había propuesto al comienzo de la temporada y ahora se ilusiona con seguir avanzando en la competencia y pelear por el campeonato. En una entrevista con Zoom , Leo Rodríguez, Jonathan Rodríguez, Federico Ardanas y Mateo Viedo compartieron sus sensaciones luego de este importante logro y analizaron el presente de una institución que también atraviesa un proceso de crecimiento y reconstrucción."
         ],
-        "generated": "2026-10-27T11:05:25.032704+00:00"
+        "generated": "2026-10-27T11:35:18.280415+00:00"
       },
-      "apariciones": 25,
-      "ultima_impresion": "2026-10-27T11:00:01.335298+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "cruz roja compartio formacion rcp primeros auxilios junto personal obras sanitarias",
-      "title": "Cruz Roja compartió una formación en RCP y Primeros Auxilios junto a personal de Obras Sanitarias",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-10-26T21:30:22+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/FOTO-Cruz-Roja-Obras-Sanitarias4.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Cruz Roja compartió una formación en RCP y Primeros Auxilios junto a personal de Obras Sanitarias",
-          "url": "https://tsnnecochea.com.ar/generales/cruz-roja-compartio-una-formacion-en-rcp-y-primeros-auxilios-junto-a-personal-de-obras-sanitarias-240720/",
-          "published_at": "2026-10-26T21:30:22+00:00",
-          "first_seen": "2026-10-26T22:00:00.807907+00:00",
-          "category": "Cruz Roja",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/FOTO-Cruz-Roja-Obras-Sanitarias4.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Generales | Cruz Roja | Instituciones Cruz Roja compartió una formación en RCP y Primeros Auxilios junto a personal de Obras Sanitarias La capacitación formó parte del constante intercambio de la institución necochense con demás actores de la sociedad local, con el fin de que más vecinos sepan cómo actuar ante una emergencia.",
-          "Por Redacción TSN 26/10/2026 · 06:30 PM Agregar TSN Necochea en La formación y el compromiso con la comunidad son parte del trabajo cotidiano de la filial Necochea de Cruz Roja Argentina , que, a través de la labor incansable de su voluntariado, continúa generando espacios de capacitación para brindar herramientas fundamentales a la hora de actuar ante una emergencia."
-        ],
-        "generated": "2026-10-27T11:05:26.131932+00:00"
-      },
-      "apariciones": 30,
-      "ultima_impresion": "2026-10-27T11:00:01.335298+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "lula dio vuelta resultado obtuvo impactante victoria mandato",
-      "title": "LULA DIO VUELTA EL RESULTADO Y OBTUVO UNA IMPACTANTE VICTORIA PARA SU 4º MANDATO.",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-10-26T23:00:55+00:00",
-      "image": null,
-      "articles": [
-        {
-          "portal": "Necochea Libre",
-          "title": "LULA DIO VUELTA EL RESULTADO Y OBTUVO UNA IMPACTANTE VICTORIA PARA SU 4º MANDATO.",
-          "url": "https://necochealibre.com.ar/lula-dio-vuelta-el-resultado-y-obtuvo-una-impactante-victoria-para-su-4o-mandato/",
-          "published_at": "2026-10-26T23:00:55+00:00",
-          "first_seen": "2026-10-26T23:20:29.579018+00:00",
-          "category": "Generales",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Generales LULA DIO VUELTA EL RESULTADO Y OBTUVO UNA IMPACTANTE VICTORIA PARA SU 4º MANDATO. Por admin - 26 octubre, 2026 0 1 Facebook Twitter Pinterest WhatsApp Brasil .- Lula, tras la victoria: «Brasil no es ni será el patio trasero de nadie».",
-          "En su primer discurso tras conseguir un cuarto mandato presidencial, el mandatario brasileño acusó a las grandes empresas tecnológicas de intentar influir en el resultado electoral y aseguró que su victoria representó una derrota del negacionismo y la mentira. El presidente reelecto de Brasil, Luiz Inácio Lula da Silva, denunció este domingo que las grandes plataformas digitales intentaron interferir en las elecciones presidenciales y anunció que impulsará una regulación del sector durante su próximo mandato, después de derrotar al senador Flávio Bolsonaro en el balotaje."
-        ],
-        "generated": "2026-10-27T11:05:26.670524+00:00"
-      },
-      "apariciones": 27,
-      "ultima_impresion": "2026-10-27T11:00:01.335298+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "hospital irurzun incorpora nuevas especialidades habilita pedido turnos whasapp whatsapp whatsapp",
-      "title": "EL HOSPITAL IRURZUN INCORPORA 2 NUEVAS ESPECIALIDADES Y HABILITA EL PEDIDO DE TURNOS POR WHASAPP. S POR WHATSAPP.S POR wHATSAPP.",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-10-26T22:38:21+00:00",
-      "image": null,
-      "articles": [
-        {
-          "portal": "Necochea Libre",
-          "title": "EL HOSPITAL IRURZUN INCORPORA 2 NUEVAS ESPECIALIDADES Y HABILITA EL PEDIDO DE TURNOS POR WHASAPP. S POR WHATSAPP.S POR wHATSAPP.",
-          "url": "https://necochealibre.com.ar/el-hospital-irurzun-incorpora-2-nuevas-especialidades-y-habilita-el-pedido-de-turnos-por-whatsapp-s-por-whatsapp/",
-          "published_at": "2026-10-26T22:38:21+00:00",
-          "first_seen": "2026-10-26T23:00:00.609529+00:00",
-          "category": "Generales",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Generales EL HOSPITAL IRURZUN INCORPORA 2 NUEVAS ESPECIALIDADES Y HABILITA EL PEDIDO DE TURNOS POR WHASAPP. S POR WHATSAPP.S POR wHATSAPP. Por admin - 26 octubre, 2026 0 3 Facebook Twitter Pinterest WhatsApp -NECOCHEA 11/03/16-SECCION REDACCION--HOSPITAL IRURZUN--FOTO FACUNDO PERROTTA--ECOS DIARIOS- Necochea.- El Hospital Irurzun amplía las especialidades disponibles para sacar turnos por WhatsApp.",
-          "A partir de noviembre, los pacientes podrán gestionar turnos de Traumatología y Diabetología a través del teléfono 2262-309032. Desde el 1° de Noviembre, el Hospital Municipal José Irurzun incorporará dos nuevas especialidades a su sistema de turnos por WhatsApp , que permite a los vecinos gestionar sus consultas de manera más ágil, sin necesidad de acercarse personalmente al establecimiento."
-        ],
-        "generated": "2026-10-27T11:05:27.226168+00:00"
-      },
-      "apariciones": 28,
-      "ultima_impresion": "2026-10-27T11:00:01.335298+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "rearmado territorial tension gobierno pro bonaerense busca llegar mejor parado 2027",
-      "title": "Rearmado territorial y tensión con el Gobierno: el PRO bonaerense busca llegar \"mejor parado\" al 2027",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-10-26T21:19:41+00:00",
-      "image": "https://res.cloudinary.com/dsugba4yh/image/upload/v1793049567/pro_n0vf69.png",
-      "articles": [
-        {
-          "portal": "Informate Necochea",
-          "title": "Rearmado territorial y tensión con el Gobierno: el PRO bonaerense busca llegar \"mejor parado\" al 2027",
-          "url": "https://informatenecochea.com/noticia/rearmado-territorial-y-tension-con-el-gobierno-el-pro-bonaerense-busca-llegar-mejor-parado-al-2027",
-          "published_at": "2026-10-26T21:19:41+00:00",
-          "first_seen": "2026-10-26T21:30:01.170741+00:00",
-          "category": "Nacional",
-          "image": "https://res.cloudinary.com/dsugba4yh/image/upload/v1793049567/pro_n0vf69.png"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Inicio / Nacional Nacional Rearmado territorial y tensión con el Gobierno: el PRO bonaerense busca llegar \"mejor parado\" al 2027 El PRO de la Provincia de Buenos Aires dio el puntapié inicial a su gira seccional con un nutrido plenario de la Primera Sección Electoral. Con la mirada puesta en las elecciones ejecutivas y legislativas de 2027, la cúpula partidaria encabezada por el diputado nacional Cristian Ritondo y la intendenta de Vicente López, Soledad Martínez, reunió a intendentes, legisladores, concejales y dirigentes territoriales para bajar una línea clara: ganar peso propio y evitar quedar eclipsados por el armado de La Libertad Avanza (LLA).",
-          "Redacción lunes, 26 de octubre de 2026 · 80 lecturas \"El año que viene tenemos que llegar mejor parados que en 2025\", advirtió Martínez ante la dirigencia."
-        ],
-        "generated": "2026-10-27T11:05:30.022403+00:00"
-      },
-      "apariciones": 31,
-      "ultima_impresion": "2026-10-27T11:00:01.335298+00:00",
+      "apariciones": 26,
+      "ultima_impresion": "2026-10-27T11:30:00.861559+00:00",
       "penalizacion": 0.0
     }
   ]
