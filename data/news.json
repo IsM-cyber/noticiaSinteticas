@@ -1,12 +1,50 @@
 {
-  "generated_at": "2026-10-27T23:43:39.797826+00:00",
+  "generated_at": "2026-10-28T00:00:00.539116+00:00",
   "article_count": 135,
   "fetch_errors": [],
   "stories": [
     {
+      "key": "municipio refuerza prevencion posibles emergencias climaticas",
+      "title": "Refuerzan la prevención ante posibles emergencias climáticas",
+      "score": 2.192,
+      "sources_count": 2,
+      "first_seen": "2026-10-27T23:30:14+00:00",
+      "image": "https://cdnartic.ar/WtPzJZFzULXUNwG83l76GkBQQJI=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/10/reunion_emergencias_climaticas.webp",
+      "articles": [
+        {
+          "portal": "Ecos Diarios",
+          "title": "Refuerzan la prevención ante posibles emergencias climáticas",
+          "url": "https://elecos.com.ar/refuerzan-la-prevencion-ante-posibles-emergencias-climaticas",
+          "published_at": "2026-10-27T23:30:14+00:00",
+          "first_seen": "2026-10-28T00:00:00.539116+00:00",
+          "category": "14",
+          "image": "https://cdnartic.ar/WtPzJZFzULXUNwG83l76GkBQQJI=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/10/reunion_emergencias_climaticas.webp"
+        },
+        {
+          "portal": "Necochea Digital",
+          "title": "El Municipio refuerza la prevención ante posibles emergencias climáticas",
+          "url": "https://necocheadigital.com/nota/120022/el-municipio-refuerza-la-prevencion-ante-posibles-emergencias-climaticas/",
+          "published_at": null,
+          "first_seen": "2026-10-27T23:43:39.797826+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "En una reunión realizada en el Centro Operativo de Monitoreo Municipal (COM) , el jefe comunal y los funcionarios de las áreas involucradas delinearon acciones preventivas para fortalecer la preparación y la capacidad de respuesta del distrito. La iniciativa da continuidad al encuentro de articulación impulsado a principios de mes por la Secretaría de Desarrollo Humano y Políticas Sociales , con la participación de organismos educativos e instituciones, para establecer criterios comunes de actuación ante posibles contingencias.",
+          "El plan contempla medidas de prevención, preparación, respuesta y recuperación frente a fenómenos como inundaciones, lluvias intensas, tormentas severas y fuertes vientos, con alcance en Necochea, Quequén y las localidades del interior."
+        ],
+        "generated": "2026-10-28T00:00:28.729040+00:00"
+      },
+      "apariciones": 2,
+      "ultima_impresion": "2026-10-28T00:00:00.539116+00:00",
+      "penalizacion": 0.762
+    },
+    {
       "key": "alerta amarillo tormentas fuertes tarde miercoles",
       "title": "Alerta amarillo por tormentas fuertes para la tarde de este miércoles en Necochea y Quequén",
-      "score": 2.274,
+      "score": 1.693,
       "sources_count": 2,
       "first_seen": "2026-10-27T20:54:43+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/Screenshot_20261027_111110_Chrome.webp",
@@ -35,54 +73,190 @@
           "TSN Necochea | ‹ VOLVER | Locales | alerta amarillo | El tiempo Alerta amarillo por tormentas fuertes para la tarde de este miércoles en Necochea y Quequén El Servicio Meteorológico Nacional emitió una advertencia para la región debido a la probabilidad de intensas precipitaciones y tormentas focalizadas durante la tarde, con una máxima de 20 °C. Se recomienda extremar precauciones. Por Redacción TSN 27/10/2026 · 05:54 PM Agregar TSN Necochea en El Servicio Meteorológico Nacional (SMN) emitió un alerta amarillo por tormentas que afectará a Necochea, Quequén y la zona costera durante este miércoles 28 de octubre.",
           "Según el informe oficial, si bien la inestabilidad se sentirá desde las primeras horas, el pico más severo del fenómeno meteorológico se registrará durante la tarde. ​La jornada comenzará con una madrugada fresca, rondando los 11 °C, el cielo parcialmente nublado y vientos leves del sector norte."
         ],
-        "generated": "2026-10-27T23:43:51.036871+00:00"
+        "generated": "2026-10-28T00:00:30.827948+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-27T23:43:39.797826+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-10-28T00:00:00.539116+00:00",
+      "penalizacion": 0.762
     },
     {
-      "key": "educando futuros conductores chicos jardin lassalle llevaron educacion vial practica",
-      "title": "Educación vial sobre ruedas: los niños del Jardín Lassalle llevaron lo aprendido a las calles",
-      "score": 1.814,
-      "sources_count": 2,
-      "first_seen": "2026-10-27T18:12:08+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/27-10-FOTO-educacion-vial-Lassalle.webp",
+      "key": "horoscopo semanal lunes 26 octubre domingo noviembre 2026 dicen predicciones",
+      "title": "Horóscopo semanal del lunes 26 de octubre al domingo 1 de noviembre de 2026: qué dicen las predicciones",
+      "score": 1.189,
+      "sources_count": 1,
+      "first_seen": "2026-10-27T23:53:09+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2024/12/Captura-de-pantalla-2024-12-30-112458.jpg",
       "articles": [
         {
           "portal": "TSN Necochea",
-          "title": "Educación vial sobre ruedas: los niños del Jardín Lassalle llevaron lo aprendido a las calles",
-          "url": "https://tsnnecochea.com.ar/educacion/educacion-vial-sobre-ruedas-los-ninos-del-jardin-lassalle-llevaron-lo-aprendido-a-las-calles-240804/",
-          "published_at": "2026-10-27T18:12:08+00:00",
-          "first_seen": "2026-10-27T18:30:01.033264+00:00",
-          "category": "Alumnos",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/27-10-FOTO-educacion-vial-Lassalle.webp"
-        },
+          "title": "Horóscopo semanal del lunes 26 de octubre al domingo 1 de noviembre de 2026: qué dicen las predicciones",
+          "url": "https://tsnnecochea.com.ar/generales/horoscopo-semanal-del-lunes-26-de-octubre-al-domingo-1-de-noviembre-de-2026-que-dicen-las-predicciones-240815/",
+          "published_at": "2026-10-27T23:53:09+00:00",
+          "first_seen": "2026-10-28T00:00:00.539116+00:00",
+          "category": "Horóscopo",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2024/12/Captura-de-pantalla-2024-12-30-112458.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Generales | Horóscopo | Signos del zodíaco Horóscopo semanal del lunes 26 de octubre al domingo 1 de noviembre de 2026: qué dicen las predicciones Termina octubre y la semana comenzó con la luna llena en Tauro. Lo que tenés que saber sobre tu signo. Por Redacción TSN 27/10/2026 · 08:53 PM Horóscopo semanal. Agregar TSN Necochea en El horóscopo de la semana del lunes 26 de octubre al domingo 1 de noviembre de 2026 de todos los signos: las predicciones para nuestra vida cotidiana, trabajo y vínculos afectivos que tenemos que saber y tener en cuenta.",
+          "Horóscopo y la suerte Esta semana comenzó con la luna llena en Tauro , cerca de Quirón y en tensión con Plutón en Acuario. Por su parte, Venus, en movimiento retrógrado, ingresó en el signo de Libra. Horóscopo del lunes 26 de octubre al domingo 1 de noviembre Aries (21 de marzo – 19 de abril) General – Trabajo La semana estará marcada por un conflicto de poder."
+        ],
+        "generated": "2026-10-28T00:01:34.294609+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-28T00:00:00.539116+00:00"
+    },
+    {
+      "key": "liga necochea anuncio no habra futbol fin semana espera resolucion newbery",
+      "title": "La Liga Necochea anunció que no habrá fútbol este fin de semana a la espera de la resolución por Newbery",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-28T00:00:00.539116+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261027122148_whatsapp-image-2026-10-27-at-12-21-21.jpg",
+      "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Educando a los futuros conductores: los chicos del Jardín Lassalle llevaron la educación vial a la práctica",
-          "url": "https://necocheadigital.com/nota/120017/educando-a-los-futuros-conductores-los-chicos-del-jardin-lassalle-llevaron-la-educacion-vial-a-la-practica/",
+          "title": "La Liga Necochea anunció que no habrá fútbol este fin de semana a la espera de la resolución por Newbery",
+          "url": "https://necocheadigital.com/nota/120019/la-liga-necochea-anuncio-que-no-habra-futbol-este-fin-de-semana-a-la-espera-de-la-resolucion-por-newbery/",
           "published_at": null,
-          "first_seen": "2026-10-27T18:30:01.033264+00:00",
+          "first_seen": "2026-10-28T00:00:00.539116+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Educación | Alumnos | Concientización Educación vial sobre ruedas: los niños del Jardín Lassalle llevaron lo aprendido a las calles A través de un trabajo conjunto entre el equipo docente de la institución y el Observatorio Vial que encabeza Mariela Cellerino, los alumnos recorrieron la vía pública con bicicletas y monopatines para ejercitar normas de tránsito, señales y prioridades. Por Redacción TSN 27/10/2026 · 03:12 PM Agregar TSN Necochea en En una articulación entre las autoridades y el equipo docente del Jardín Municipal Lassalle y el equipo del Observatorio Vial , dirigido por Mariela Cellerino, se llevó adelante una jornada práctica de educación vial destinada a los pequeños de la institución .",
-          "En una primera instancia, como ya se ha realizado en varios establecimientos educativos de la ciudad, se brindó una charla áulica con cartelería y contenidos vinculados a la seguridad vial."
+          "La Liga Necochea de Fútbol resolvió suspender la programación de la fecha 22 del Torneo Sergio “Giuseppe” Portugal, última de la fase regular para Primera, Reserva y Sexta División, hasta tanto el Tribunal de Disciplina emita su resolución por el partido suspendido entre Jorge Newbery y Ministerio. La determinación se adoptó durante la reunión del Consejo Directivo con el propósito de completar los cotejos pendientes de las jornadas anteriores antes de disputar la instancia decisiva, garantizando que los clubes afronten la definición en igualdad de condiciones deportivas y con la tabla de posiciones debidamente consolidada.",
+          "El conflicto se originó en Lobería durante el cruce de Sexta División, que ganaba Ministerio por 2 a 1. En ese desarrollo, un futbolista de Jorge Newbery agredió a uno de los árbitros, lo que llevó a la terna referil a suspender de inmediato los partidos posteriores de Reserva y Primera."
         ],
-        "generated": "2026-10-27T23:43:53.022996+00:00"
+        "generated": "2026-10-28T00:02:35.258240+00:00"
       },
-      "apariciones": 6,
-      "ultima_impresion": "2026-10-27T23:43:39.797826+00:00",
-      "penalizacion": 1.0
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-28T00:00:00.539116+00:00"
+    },
+    {
+      "key": "trump me gusta lula me llevo muy bien dira milei",
+      "title": "TRUMP: “Me gusta Lula. Me llevo muy bien con él”. ¿Qué dirá Milei?",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-28T00:00:00.539116+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/57c20402123529c0564ec45132016dc593194f98.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "TRUMP: “Me gusta Lula. Me llevo muy bien con él”. ¿Qué dirá Milei?",
+          "url": "https://necocheadigital.com/nota/120014/trump-me-gusta-lula-me-llevo-muy-bien-con-el-que-dira-milei/",
+          "published_at": null,
+          "first_seen": "2026-10-28T00:00:00.539116+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El presidente estadounidense Donald Trump se refirió este lunes a la victoria electoral de Luiz Inácio Lula da Silva en Brasil. Si bien afirmó que mantiene una buena relación con el mandatario brasileño, también puso en duda el proceso electoral al sostener que le pareció una elección “manipulada”. Sus declaraciones agregaron un nuevo elemento al escenario diplomático regional y volvieron a poner el foco sobre Javier Milei, quien todavía no se había pronunciado públicamente sobre el resultado que consagró a Lula frente a Flávio Bolsonaro. Yo gobierno Estados Unidos.",
+          "Me llevo muy bien con él”, expresó Trump ante periodistas que lo aguardaban antes de partir hacia Mississippi para participar de un acto de campaña. Sin embargo, el mandatario norteamericano acompañó esas palabras con cuestionamientos al desarrollo de los comicios. “Simplemente creo que la forma en que se contabilizaron los votos dio muy mala impresión."
+        ],
+        "generated": "2026-10-28T00:02:36.470071+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-28T00:00:00.539116+00:00"
+    },
+    {
+      "key": "emsur mantiene intenso despliegue maquinaria mejorar caminos rurales red hidraulica distrito",
+      "title": "El EMSUR mantiene un intenso despliegue de maquinaria para mejorar los caminos rurales y la red hidráulica del distrito",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-28T00:00:00.539116+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261026121948_26-10-foto-emsur-rural2.png",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "El EMSUR mantiene un intenso despliegue de maquinaria para mejorar los caminos rurales y la red hidráulica del distrito",
+          "url": "https://necocheadigital.com/nota/120011/el-emsur-mantiene-un-intenso-despliegue-de-maquinaria-para-mejorar-los-caminos-rurales-y-la-red-hidraulica-del-distrito/",
+          "published_at": null,
+          "first_seen": "2026-10-28T00:00:00.539116+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Durante octubre, los trabajos se llevaron adelante tanto con maquinaria y personal municipal como a través de convenios con la Dirección de Hidráulica de la Provincia de Buenos Aires. En materia de caminos rurales, las máquinas del organismo municipal intervinieron en numerosos tramos para recuperar la transitabilidad, reparar sectores deteriorados y atender los cortes provocados por las condiciones del terreno.",
+          "Entre las tareas más importantes se encuentra la reconstrucción del Camino Municipal 044, en el sector de La Luisa , y la reparación de cortes con reconstrucción de la traza en el Camino Municipal 316 . También se trabajó en los caminos municipales 039-040 , con arreglos de cortes en el recorrido costero hacia Termas del Campo y en el sector del boulevard que conduce al mismo establecimiento."
+        ],
+        "generated": "2026-10-28T00:02:37.179662+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-28T00:00:00.539116+00:00"
+    },
+    {
+      "key": "juan parka bernal consagro doble campeon mundial kickboxing colombia marco hito deporte local",
+      "title": "Juan \"La Parka\" Bernal se consagró doble campeón mundial de kickboxing en Colombia y marcó un hito para el deporte local",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-28T00:00:00.539116+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/085f51ffe4335286adfbfcd64f8e4ff4e7312aad.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Juan \"La Parka\" Bernal se consagró doble campeón mundial de kickboxing en Colombia y marcó un hito para el deporte local",
+          "url": "https://necocheadigital.com/nota/120007/juan-la-parka-bernal-se-consagro-doble-campeon-mundial-de-kickboxing-en-colombia-y-marco-un-hito-para-el-deporte-local/",
+          "published_at": null,
+          "first_seen": "2026-10-28T00:00:00.539116+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Juan “La Parka” Bernal escribió una página dorada para el deporte al consagrarse doble campeón del mundo en el Campeonato Mundial de Kickboxing de la World Kickboxing Federation (WKF) 2026, disputado en la ciudad de Cartagena de Indias, Colombia. El representante local cerró una actuación sobresaliente dentro de la categoría de adultos pesados, que reúne a competidores de entre 18 y 35 años con pesos de entre 91 y 140 kilogramos, al subirse al podio en las cuatro modalidades en las que le tocó competir durante el certamen internacional.",
+          "La cosecha de Bernal incluyó las máximas consagraciones en Full Contact y Point Fighting, logrando un hecho sin antecedentes para un peleador de la región en la categoría de adultos tanto sobre el ring como en el tatami."
+        ],
+        "generated": "2026-10-28T00:02:37.879182+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-28T00:00:00.539116+00:00"
+    },
+    {
+      "key": "colectivos paralizados necochea quequen uta endurecio reclamo salarios impagos",
+      "title": "Colectivos paralizados en Necochea y Quequén: la UTA endureció el reclamo por salarios impagos",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-10-28T00:00:00.539116+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/2211fb6529d1495a3b3ce40b0f9e616ca3207140.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Colectivos paralizados en Necochea y Quequén: la UTA endureció el reclamo por salarios impagos",
+          "url": "https://necocheadigital.com/nota/120013/colectivos-paralizados-en-necochea-y-quequen-la-uta-endurecio-el-reclamo-por-salarios-impagos/",
+          "published_at": null,
+          "first_seen": "2026-10-28T00:00:00.539116+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El transporte público de pasajeros de Necochea y Quequén quedó interrumpido durante la tarde de este lunes, luego de que los trabajadores de la Compañía de Transportes Necochea resolvieran iniciar una retención de tareas ante la falta de cumplimiento de los compromisos salariales asumidos por la empresa. La decisión fue explicada por Gastón Urrutia, secretario adjunto de la seccional Mar del Plata de la Unión Tranviarios Automotor (UTA), durante una entrevista con Voces de la Tarde , el programa que conduce Jorge Gómez por Radio Noticias Necochea 97.3.",
+          "El dirigente sindical describió un escenario de creciente malestar entre los empleados, que, según señaló, llevan más de dos años atravesando dificultades vinculadas con el cobro de sus salarios. En ese período, afirmó, los haberes se pagaron fuera de término y en cuotas, mientras los trabajadores resignaron derechos para contribuir a sostener el servicio."
+        ],
+        "generated": "2026-10-28T00:02:38.575766+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-28T00:00:00.539116+00:00"
     },
     {
       "key": "corte luz programado miercoles varios sectores necochea mira zonas afectadas",
       "title": "Corte de luz programado para este miércoles en varios sectores de Necochea: mirá las zonas afectadas",
-      "score": 1.372,
+      "score": 1.022,
       "sources_count": 2,
       "first_seen": "2026-10-27T15:23:00+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2023/11/epe.webp",
@@ -111,16 +285,16 @@
           "TSN Necochea | ‹ VOLVER | Locales | corte de energía | UPC Corte de luz programado para este miércoles en varios sectores de Necochea: mirá las zonas afectadas ​La Usina Popular Cooperativa (UPC) informó que la interrupción del servicio eléctrico se llevará a cabo el miércoles 28 de octubre, de 8:00 a 11:00 hs. Los trabajos abarcarán dos amplio sectores de la ciudad para realizar mantenimiento en la red y la puesta en servicio de una nueva subestación transformadora. Por Redacción TSN 27/10/2026 · 07:58 PM Corte programado de energía Agregar TSN Necochea en ​La Usina Popular Cooperativa (UPC) comunicó que este miércoles 28 de octubre se registrará un corte programado en el suministro de energía eléctrica en distintos sectores de la ciudad de Necochea, en el horario de 8:00 a 11:00 hs.",
           "​ Zonas afectadas: ​ Sector 1: Cuadrante comprendido entre la Av. 42 a calle 66, entre las calles 95 y 123. ​ Sector 2: Área delimitada desde Av."
         ],
-        "generated": "2026-10-27T23:44:17.322948+00:00"
+        "generated": "2026-10-28T00:00:56.272014+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-27T23:43:39.797826+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-10-28T00:00:00.539116+00:00",
+      "penalizacion": 0.762
     },
     {
       "key": "alumnos visitaron museo interactivo tecnologia innovacion",
       "title": "Alumnos visitaron museo interactivo sobre tecnología y la innovación",
-      "score": 1.149,
+      "score": 0.855,
       "sources_count": 1,
       "first_seen": "2026-10-27T23:12:09+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/27-10-FOTO-Larti-Innova-Necochea2.webp",
@@ -140,170 +314,16 @@
           "TSN Necochea | ‹ VOLVER | Generales | Alumnos | En la Plaza Dardo Rocha Alumnos visitaron museo interactivo sobre tecnología y la innovación Una experiencia educativa vinculada con el mundo agroproductivo, la sustentabilidad Por Redacción TSN 27/10/2026 · 08:12 PM Agregar TSN Necochea en Con una muy buena afluencia de alumnos y escuelas secundarias, este martes comenzó en la Plaza Dardo Rocha una nueva experiencia educativa de Larti Innova , con la participación de distintos grupos de 5° y 6° año de establecimientos estatales y privados. Desde las 8, los estudiantes fueron llegando al aula interactiva móvil, de acuerdo con la inscripción previa realizada a través de la Dirección de Educación, a cargo de Mariela Maceiro .",
           "La propuesta continúa durante la tarde de este martes y tendrá una segunda jornada este miércoles 28, de 8 a 12:30."
         ],
-        "generated": "2026-10-27T23:46:12.141156+00:00"
+        "generated": "2026-10-28T00:02:34.136431+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-27T23:43:39.797826+00:00"
-    },
-    {
-      "key": "camion interactivo larti innova volvio distrito amplia propuesta educativa estudiantes secundarios",
-      "title": "El camión interactivo de Larti Innova volvió al distrito con una amplia propuesta educativa para estudiantes secundarios",
-      "score": 1.104,
-      "sources_count": 2,
-      "first_seen": "2026-10-27T13:20:21+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261027180348_27-10-foto-larti-innova-necochea7.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "El camión interactivo de Larti Innova volvió al distrito con una amplia propuesta educativa para estudiantes secundarios",
-          "url": "https://necocheadigital.com/nota/120020/el-camion-interactivo-de-larti-innova-volvio-al-distrito-con-una-amplia-propuesta-educativa-para-estudiantes-secundarios/",
-          "published_at": null,
-          "first_seen": "2026-10-27T23:43:39.797826+00:00",
-          "category": null,
-          "image": null
-        },
-        {
-          "portal": "Diario NQ",
-          "title": "Larti Innova llegó a Necochea con una propuesta educativa para más de 500 estudiantes",
-          "url": "https://diarionq.com.ar/larti-innova-volvio-a-necochea-mas-de-500-estudiantes-conoceran-el-mundo-del-agro/",
-          "published_at": "2026-10-27T13:20:21+00:00",
-          "first_seen": "2026-10-27T13:30:01.220361+00:00",
-          "category": "La ciudad",
-          "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-27-at-09.45.56-scaled.jpeg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Con una marcada convocatoria de escuelas secundarias, tanto de gestión estatal como privada, comenzó este martes en la Plaza Dardo Rocha una nueva edición de la propuesta educativa Larti Innova. La iniciativa, que se extenderá hasta el miércoles al mediodía, cuenta con la participación de más de 500 estudiantes organizados en turnos, tras la inscripción coordinada junto a la Dirección de Educación del municipio, a cargo de Mariela Maceiro.",
-          "Esta experiencia desembarca en el distrito por segunda vez, luego de su primer paso en mayo de 2024. Impulsado por la empresa Lartirigoyen Agropecuaria Argentina, el proyecto consiste en un museo interactivo montado sobre la estructura de un camión que recorre distintas localidades del país para acercar a los jóvenes al presente y futuro de la agroindustria, la tecnología y la producción sostenible."
-        ],
-        "generated": "2026-10-27T23:46:15.055364+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-27T23:43:39.797826+00:00"
-    },
-    {
-      "key": "bombazo river plate encabezara edicion record sur cup 200 equipos",
-      "title": "Bombazo: River Plate encabezará una edición récord de la SUR Cup con más de 200 equipos",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-27T23:43:39.797826+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/1cd02e31b43620d7c664e038ca42a060d61727b9.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Bombazo: River Plate encabezará una edición récord de la SUR Cup con más de 200 equipos",
-          "url": "https://necocheadigital.com/nota/120023/bombazo-river-plate-encabezara-una-edicion-record-de-la-sur-cup-con-mas-de-200-equipos/",
-          "published_at": null,
-          "first_seen": "2026-10-27T23:43:39.797826+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La cuenta regresiva para una nueva edición de la SUR Cup comenzó a generar fuerte expectativa en el ambiente deportivo local con la confirmación de la presencia de River Plate. La institución de Núñez formará parte de la competencia infantil con su plantilla de la categoría 2015, transformándose en uno de los atractivos salientes del evento internacional que se desarrollará entre el 14 y el 20 de diciembre en distintos escenarios futbolísticos de Necochea y Quequén.",
-          "El certamen prevé una convocatoria de carácter histórico para el fútbol formativo de la región, registrando a la fecha más de 200 equipos inscriptos entre los cuales figuran 40 representativos internacionales."
-        ],
-        "generated": "2026-10-27T23:46:15.763177+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-27T23:43:39.797826+00:00"
-    },
-    {
-      "key": "municipio refuerza prevencion posibles emergencias climaticas",
-      "title": "El Municipio refuerza la prevención ante posibles emergencias climáticas",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-27T23:43:39.797826+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261027181653_27-10-foto-rojas-funcionarios-com3.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "El Municipio refuerza la prevención ante posibles emergencias climáticas",
-          "url": "https://necocheadigital.com/nota/120022/el-municipio-refuerza-la-prevencion-ante-posibles-emergencias-climaticas/",
-          "published_at": null,
-          "first_seen": "2026-10-27T23:43:39.797826+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "En una reunión realizada en el Centro Operativo de Monitoreo Municipal (COM) , el jefe comunal y los funcionarios de las áreas involucradas delinearon acciones preventivas para fortalecer la preparación y la capacidad de respuesta del distrito. La iniciativa da continuidad al encuentro de articulación impulsado a principios de mes por la Secretaría de Desarrollo Humano y Políticas Sociales , con la participación de organismos educativos e instituciones, para establecer criterios comunes de actuación ante posibles contingencias.",
-          "El plan contempla medidas de prevención, preparación, respuesta y recuperación frente a fenómenos como inundaciones, lluvias intensas, tormentas severas y fuertes vientos, con alcance en Necochea, Quequén y las localidades del interior."
-        ],
-        "generated": "2026-10-27T23:46:16.458312+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-27T23:43:39.797826+00:00"
-    },
-    {
-      "key": "villa diaz velez aseguro uno zona estacion quequen logro ascenso 21 fecha dejo final rojo vivo",
-      "title": "Villa Díaz Vélez aseguró el uno en la Zona A, Estación Quequén logró el ascenso y la 21ª fecha dejó un final al rojo vivo",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-27T23:43:39.797826+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261026121002_whatsapp-image-2026-10-26-at-12-09-43.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Villa Díaz Vélez aseguró el uno en la Zona A, Estación Quequén logró el ascenso y la 21ª fecha dejó un final al rojo vivo",
-          "url": "https://necocheadigital.com/nota/120009/villa-diaz-velez-aseguro-el-uno-en-la-zona-a-estacion-quequen-logro-el-ascenso-y-la-21-ordf-fecha-dejo-un-final-al-rojo-vivo/",
-          "published_at": null,
-          "first_seen": "2026-10-27T23:43:39.797826+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La penúltima jornada de la fase regular del certamen de la Liga Necochea de Fútbol dejó definiciones de peso en ambos frentes de la tabla. En la Zona A, Villa Díaz Vélez aplastó a Villa del Parque en el clásico por 4-1 como visitante, con un doblete de Juan Ignacio Calderón y tantos de Fernando Montes y Jonathan Ríos, mientras que Lucio Szpyt marcó el descuento para el \"León\". Con este resultado, los dirigidos por Federico Montes alcanzaron los 45 puntos y se aseguraron matemáticamente el primer puesto del grupo antes de recibir a Mataderos en la fecha final.",
-          "La contracara del festejo \"Naranja\" fue la situación crítica de Villa del Parque, que con 24 unidades quedó sin chances de eludir la zona de peligro. El \"León\" deberá jugarse la permanencia en un mano a mano electrizante en la última jornada frente a Rivadavia en el Estadio Panamericano."
-        ],
-        "generated": "2026-10-27T23:46:17.172679+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-27T23:43:39.797826+00:00"
-    },
-    {
-      "key": "congreso logistica puertos comercio exterior unicen celebrara 12 edicion",
-      "title": "El Congreso de Logística, Puertos y Comercio Exterior de la Unicen celebrará su 12ª edición",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-10-27T23:43:39.797826+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261026115328_10-11-foto-arturo-rojas-unicen-congreso-logisitca-02.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "El Congreso de Logística, Puertos y Comercio Exterior de la Unicen celebrará su 12ª edición",
-          "url": "https://necocheadigital.com/nota/120008/el-congreso-de-logistica-puertos-y-comercio-exterior-de-la-unicen-celebrara-su-12-ordf-edicion/",
-          "published_at": null,
-          "first_seen": "2026-10-27T23:43:39.797826+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La Unidad de Enseñanza Universitaria Quequén de la Universidad Nacional del Centro de la Provincia de Buenos Aires (UNICEN) llevará a cabo el XII Congreso de Logística, Puertos y Comercio Exterior (LOGIPEX), una destacada propuesta que reunirá a profesionales, docentes, estudiantes y referentes del sector para debatir sobre la transformación tecnológica, la infraestructura y el desarrollo regional. Las actividades tendrán lugar el jueves 19 y el viernes 20 de noviembre, articulando espacios de capacitación entre la sede universitaria de Quequén, ubicada en calle 508 N.º 881, y la sede del Centro de Acopiadores de Cereales, situada en avenida 59 N.º 836 de Necochea.",
-          "La jornada inicial del jueves comenzará a las 9.30 en Quequén con el dictado de talleres simultáneos sobre cultura vial, química cotidiana y trazabilidad biogeoquímica aplicada a la investigación, este último a cargo de Luciano Valenzuela y Felipe Otero."
-        ],
-        "generated": "2026-10-27T23:46:17.877180+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-27T23:43:39.797826+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-10-28T00:00:00.539116+00:00",
+      "penalizacion": 0.762
     },
     {
       "key": "gobierno reglamento zona fria gas como aplicaran descuentos quienes alcanza",
       "title": "El Gobierno reglamentó la Zona Fría para el gas: cómo se aplicarán los descuentos y a quiénes alcanza",
-      "score": 1.077,
+      "score": 0.801,
       "sources_count": 1,
       "first_seen": "2026-10-27T22:25:34+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2024/05/calefactor.jpg",
@@ -323,45 +343,16 @@
           "TSN Necochea | ‹ VOLVER | Locales | gas | Subsidios El Gobierno reglamentó la Zona Fría para el gas: cómo se aplicarán los descuentos y a quiénes alcanza El esquema otorga un 20% de rebaja en consumos base para hogares registrados en el SEF en 94 municipios bonaerenses, además de un beneficio especial para clubes de barrio. Aclaran que los descuentos no aplican sobre el total de la factura.",
           "Por Redacción TSN 27/10/2026 · 07:25 PM Prevenir accidentes por pérdidas de monóxido de carbono Agregar TSN Necochea en El Gobierno nacional estableció las bonificaciones del régimen de Zona Fría para las tarifas de gas, con un descuento del 50% para los usuarios de determinadas regiones del país y una bonificación adicional del 20% para hogares que cumplan con requisitos socioeconómicos y de ubicación del suministro."
         ],
-        "generated": "2026-10-27T23:46:18.979814+00:00"
+        "generated": "2026-10-28T00:02:39.653034+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-27T23:43:39.797826+00:00"
-    },
-    {
-      "key": "cuanto sera aumento noviembre personal domestico",
-      "title": "De cuánto será el aumento en noviembre para el personal doméstico",
-      "score": 1.022,
-      "sources_count": 1,
-      "first_seen": "2026-10-27T21:48:22+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/12/Empleados-limpieza-12.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "De cuánto será el aumento en noviembre para el personal doméstico",
-          "url": "https://tsnnecochea.com.ar/generales/de-cuanto-sera-el-aumento-en-noviembre-para-el-personal-domestico-240813/",
-          "published_at": "2026-10-27T21:48:22+00:00",
-          "first_seen": "2026-10-27T23:43:39.797826+00:00",
-          "category": "Aumentos",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/12/Empleados-limpieza-12.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Generales | Aumentos | Paritarias De cuánto será el aumento en noviembre para el personal doméstico El personal de casas particulares recibirá un nuevo incremento de cara al anteúltimo mes del año. Por Redacción TSN 27/10/2026 · 06:48 PM Agregar TSN Necochea en El personal doméstico de casas particulares recibirán un nuevo aumento en noviembre , de acuerdo con el cronograma de actualizaciones establecido por el sector . El incremento será del 1,6% , de acuerdo con la Resolución 6/2026 de la Comisión Nacional de Trabajo en Casas Particulares , que fijó incrementos mensuales entre agosto y noviembre .",
-          "Además del aumento pactado, se fijó un 25% extra al salario básico de la suma no remunerativa de $20.000 dispuesta en agosto . Valor mínimo por hora según la categoría De acuerdo con la categoría correspondiente, el valor mínimo varía y va desde los $4.000 en adelante."
-        ],
-        "generated": "2026-10-27T23:46:19.716554+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-27T23:43:39.797826+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-10-28T00:00:00.539116+00:00",
+      "penalizacion": 0.762
     },
     {
       "key": "alarma cordon industrial bunge cerro forma sorpresiva planta campana hay 140 despidos directos",
       "title": "Alarma en el cordón industrial: Bunge cerró de forma sorpresiva su planta en Campana y hay 140 despidos directos",
-      "score": 0.801,
+      "score": 0.596,
       "sources_count": 1,
       "first_seen": "2026-10-27T21:03:35+00:00",
       "image": "https://res.cloudinary.com/dsugba4yh/image/upload/v1793134992/foto_ogf4bf.png",
@@ -379,47 +370,18 @@
       "summary": {
         "paragraphs": [
           "Inicio / Nacional Nacional Alarma en el cordón industrial: Bunge cerró de forma sorpresiva su planta en Campana y hay 140 despidos directos El entramado agroindustrial de la provincia de Buenos Aires recibió un duro impacto tras el cese intempestivo de actividades de la planta que la multinacional Bunge opera en la localidad de Campana. La decisión, comunicada sin previo aviso por la dirección de la firma a última hora del lunes, dejó en la incertidumbre a 140 trabajadores directos y afecta de manera indirecta a unas 250 familias vinculadas a la actividad operativa del predio.",
-          "Redacción martes, 27 de octubre de 2026 · 6 lecturas La modalidad de la notificación profundizó el malestar entre el personal y la conducción del Sindicato del Personal Químico y Petroquímico de Zárate."
+          "Redacción martes, 27 de octubre de 2026 · 10 lecturas La modalidad de la notificación profundizó el malestar entre el personal y la conducción del Sindicato del Personal Químico y Petroquímico de Zárate."
         ],
-        "generated": "2026-10-27T23:46:22.621404+00:00"
+        "generated": "2026-10-28T00:02:40.864380+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-27T23:43:39.797826+00:00"
-    },
-    {
-      "key": "ebola supero 10 000 casos congo dejo casi 900 muertos",
-      "title": "El ébola superó los 10.000 casos en el Congo y ya dejó casi 4.900 muertos",
-      "score": 0.38,
-      "sources_count": 1,
-      "first_seen": "2026-10-27T16:38:53+00:00",
-      "image": null,
-      "articles": [
-        {
-          "portal": "Necochea News",
-          "title": "El ébola superó los 10.000 casos en el Congo y ya dejó casi 4.900 muertos",
-          "url": "https://necocheanews.com.ar/ebola-supera-los-10-000-casos-y-registra-casi-4-900-fallecidos-en-la-republica-democratica-del-congo/",
-          "published_at": "2026-10-27T16:38:53+00:00",
-          "first_seen": "2026-10-27T17:00:01.227712+00:00",
-          "category": "INTERNACIONALES",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El brote, declarado el 15 de mayo, ha alcanzado 10.060 infecciones confirmadas y 4.887 muertes, según el último informe del Instituto Nacional de Salud Pública del país africano. Cifras actualizadas del brote Hasta el 25 de octubre de 2026 el virus del ébola ha causado una tasa de letalidad del 48,6 %. De los pacientes diagnosticados, 2.684 se han recuperado y el seguimiento de los contactos identificados se sitúa en el 81,6 %.",
-          "La provincia oriental de Ituri concentra 71,7 % de los casos confirmados, convirtiéndose en el principal foco de la epidemia. Distribución geográfica El brote se ha extendido a 66 zonas sanitarias distribuidas en ocho de las 26 provincias de la República Democrática del Congo. Además de la propagación interna, se han registrado casos importados en Uganda, Kenia, Nigeria y Francia, lo que ha generado preocupación por la posible expansión internacional del virus."
-        ],
-        "generated": "2026-10-27T23:46:23.531373+00:00"
-      },
-      "apariciones": 9,
-      "ultima_impresion": "2026-10-27T23:43:39.797826+00:00",
-      "penalizacion": 0.686
+      "apariciones": 2,
+      "ultima_impresion": "2026-10-28T00:00:00.539116+00:00",
+      "penalizacion": 0.762
     },
     {
       "key": "basquet huracan afianza punta",
       "title": "Básquet: Huracán se afianza en la punta",
-      "score": 0.38,
+      "score": 0.085,
       "sources_count": 1,
       "first_seen": "2026-10-27T12:06:36+00:00",
       "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/8d9462b0-914b-4139-a85f-75e61f39c3f9.jpg",
@@ -439,16 +401,83 @@
           "El jugador del Globo Tomás Betbeder, analizó la importante victoria frente a Alumni de Orense, la lucha por el primer puesto y el desafío de afrontar un calendario exigente. Además, resaltó el aporte de Santiago Cuñado y el crecimiento del básquet local. Huracán continúa consolidándose en lo más alto de la tabla del Torneo de Desarrollo de Tres Arroyos y dio un paso importante tras conseguir una contundente victoria frente a Alumni de Orense, uno de los rivales directos en la pelea por los primeros puestos.",
           "En una entrevista con Zoom El Deportivo, Tomás Betbeder, una de las figuras del conjunto necochense, expresó su satisfacción por el resultado y destacó el rendimiento colectivo del equipo, que logró controlar el encuentro de principio a fin ante un adversario exigente. “Terminamos muy contentos por la victoria."
         ],
-        "generated": "2026-10-27T23:48:39.847401+00:00"
+        "generated": "2026-10-28T00:04:46.736014+00:00"
       },
-      "apariciones": 3,
-      "ultima_impresion": "2026-10-27T23:43:39.797826+00:00",
-      "penalizacion": 1.0
+      "apariciones": 4,
+      "ultima_impresion": "2026-10-28T00:00:00.539116+00:00",
+      "penalizacion": 0.23
+    },
+    {
+      "key": "educando futuros conductores chicos jardin lassalle llevaron educacion vial practica",
+      "title": "Educación vial sobre ruedas: los niños del Jardín Lassalle llevaron lo aprendido a las calles",
+      "score": 0.068,
+      "sources_count": 2,
+      "first_seen": "2026-10-27T18:12:08+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/27-10-FOTO-educacion-vial-Lassalle.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Educación vial sobre ruedas: los niños del Jardín Lassalle llevaron lo aprendido a las calles",
+          "url": "https://tsnnecochea.com.ar/educacion/educacion-vial-sobre-ruedas-los-ninos-del-jardin-lassalle-llevaron-lo-aprendido-a-las-calles-240804/",
+          "published_at": "2026-10-27T18:12:08+00:00",
+          "first_seen": "2026-10-27T18:30:01.033264+00:00",
+          "category": "Alumnos",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/27-10-FOTO-educacion-vial-Lassalle.webp"
+        },
+        {
+          "portal": "Necochea Digital",
+          "title": "Educando a los futuros conductores: los chicos del Jardín Lassalle llevaron la educación vial a la práctica",
+          "url": "https://necocheadigital.com/nota/120017/educando-a-los-futuros-conductores-los-chicos-del-jardin-lassalle-llevaron-la-educacion-vial-a-la-practica/",
+          "published_at": null,
+          "first_seen": "2026-10-27T18:30:01.033264+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Educación | Alumnos | Concientización Educación vial sobre ruedas: los niños del Jardín Lassalle llevaron lo aprendido a las calles A través de un trabajo conjunto entre el equipo docente de la institución y el Observatorio Vial que encabeza Mariela Cellerino, los alumnos recorrieron la vía pública con bicicletas y monopatines para ejercitar normas de tránsito, señales y prioridades. Por Redacción TSN 27/10/2026 · 03:12 PM Agregar TSN Necochea en En una articulación entre las autoridades y el equipo docente del Jardín Municipal Lassalle y el equipo del Observatorio Vial , dirigido por Mariela Cellerino, se llevó adelante una jornada práctica de educación vial destinada a los pequeños de la institución .",
+          "En una primera instancia, como ya se ha realizado en varios establecimientos educativos de la ciudad, se brindó una charla áulica con cartelería y contenidos vinculados a la seguridad vial."
+        ],
+        "generated": "2026-10-28T00:00:32.776412+00:00"
+      },
+      "apariciones": 7,
+      "ultima_impresion": "2026-10-28T00:00:00.539116+00:00",
+      "penalizacion": 0.038
+    },
+    {
+      "key": "ebola supero 10 000 casos congo dejo casi 900 muertos",
+      "title": "El ébola superó los 10.000 casos en el Congo y ya dejó casi 4.900 muertos",
+      "score": 0.003,
+      "sources_count": 1,
+      "first_seen": "2026-10-27T16:38:53+00:00",
+      "image": null,
+      "articles": [
+        {
+          "portal": "Necochea News",
+          "title": "El ébola superó los 10.000 casos en el Congo y ya dejó casi 4.900 muertos",
+          "url": "https://necocheanews.com.ar/ebola-supera-los-10-000-casos-y-registra-casi-4-900-fallecidos-en-la-republica-democratica-del-congo/",
+          "published_at": "2026-10-27T16:38:53+00:00",
+          "first_seen": "2026-10-27T17:00:01.227712+00:00",
+          "category": "INTERNACIONALES",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El brote, declarado el 15 de mayo, ha alcanzado 10.060 infecciones confirmadas y 4.887 muertes, según el último informe del Instituto Nacional de Salud Pública del país africano. Cifras actualizadas del brote Hasta el 25 de octubre de 2026 el virus del ébola ha causado una tasa de letalidad del 48,6 %. De los pacientes diagnosticados, 2.684 se han recuperado y el seguimiento de los contactos identificados se sitúa en el 81,6 %.",
+          "La provincia oriental de Ituri concentra 71,7 % de los casos confirmados, convirtiéndose en el principal foco de la epidemia. Distribución geográfica El brote se ha extendido a 66 zonas sanitarias distribuidas en ocho de las 26 provincias de la República Democrática del Congo. Además de la propagación interna, se han registrado casos importados en Uganda, Kenia, Nigeria y Francia, lo que ha generado preocupación por la posible expansión internacional del virus."
+        ],
+        "generated": "2026-10-28T00:02:41.776507+00:00"
+      },
+      "apariciones": 10,
+      "ultima_impresion": "2026-10-28T00:00:00.539116+00:00",
+      "penalizacion": 0.006
     },
     {
       "key": "necochea distritos afectados gobierno cambia subsidios gas pone duda descuentos zona fria",
       "title": "Necochea, entre los distritos afectados: el Gobierno cambia los subsidios al gas y pone en duda los descuentos de Zona Fría",
-      "score": 0.012,
+      "score": 0.0,
       "sources_count": 2,
       "first_seen": "2026-10-27T14:00:01.482693+00:00",
       "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/36eb7e8e2c610a018725e2de4b763714f249bb80.jpg",
@@ -477,16 +506,16 @@
           "El Gobierno nacional avanzó con cambios en el Régimen de Zona Fría que podrían repercutir en las facturas de gas de miles de hogares bonaerenses, entre ellos los de Necochea. La nueva reglamentación redefine las condiciones para acceder a los descuentos y modifica el mecanismo de financiamiento del sistema. La medida, impulsada por la administración de Javier Milei, alcanza a unos 3.350.000 hogares en todo el país.",
           "De ese total, alrededor de 1.240.000 se encuentran distribuidos en 94 municipios de la provincia de Buenos Aires, según los datos difundidos en torno a la normativa. El cambio central es que residir en una localidad incorporada durante la ampliación del régimen ya no garantizará automáticamente el acceso a la bonificación. Los usuarios deberán cumplir con condiciones adicionales para conservar el beneficio, lo que abre interrogantes sobre el impacto que tendrá la medida en las economías familiares."
         ],
-        "generated": "2026-10-27T23:45:52.712637+00:00"
+        "generated": "2026-10-28T00:02:33.034471+00:00"
       },
-      "apariciones": 16,
-      "ultima_impresion": "2026-10-27T23:43:39.797826+00:00",
-      "penalizacion": 0.01
+      "apariciones": 17,
+      "ultima_impresion": "2026-10-28T00:00:00.539116+00:00",
+      "penalizacion": 0.0
     },
     {
       "key": "triple choque avenida tres vehiculos involucrados danos materiales",
       "title": "Triple choque en avenida 2: tres vehículos involucrados y daños materiales",
-      "score": 0.001,
+      "score": 0.0,
       "sources_count": 1,
       "first_seen": "2026-10-27T12:57:48+00:00",
       "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-27-at-09.48.43-1.jpeg",
@@ -506,11 +535,11 @@
           "El accidente ocurrió entre las calles 85 y 87 de Necochea e involucró a un Toyota Etios, una Volkswagen Saveiro y un Citroën C4. Afortunadamente, no se registraron personas heridas, aunque uno de los automóviles sufrió importantes daños en su parte delantera. Un accidente de tránsito que involucró a tres vehículos se registró en avenida 2, entre las calles 85 y 87, en uno de los sectores más transitados de la zona costera de Necochea.",
           "El siniestro tuvo como protagonistas a un Toyota Etios, una Volkswagen Saveiro y un Citroën C4, que resultaron involucrados en una colisión cuyas circunstancias todavía no fueron precisadas. Como consecuencia del impacto, el Citroën C4 sufrió importantes daños en su parte delantera, mientras que el episodio dejó únicamente consecuencias materiales."
         ],
-        "generated": "2026-10-27T23:48:30.863376+00:00"
+        "generated": "2026-10-28T00:04:38.086462+00:00"
       },
-      "apariciones": 18,
-      "ultima_impresion": "2026-10-27T23:43:39.797826+00:00",
-      "penalizacion": 0.003
+      "apariciones": 19,
+      "ultima_impresion": "2026-10-28T00:00:00.539116+00:00",
+      "penalizacion": 0.0
     },
     {
       "key": "pudieramos recuperar hostias estariamos felices ofrecen recompensa robo nueva pompeya",
@@ -535,11 +564,11 @@
           "Consuelo Colombo, integrante de la comunidad de la parroquia Nuestra Señora del Rosario de Nueva Pompeya, confirmó que un grupo de fieles ofrece una recompensa para recuperar los elementos sustraídos. La principal preocupación continúa puesta en las hostias consagradas que se encontraban dentro de dos copones. Charlando con Fede Cañadas en “Esta Mañana”, por NEC Radio 98.3 del Multimedio NQ, Consuelo Colombo, integrante de la comunidad de la parroquia Nuestra Señora del Rosario de Nueva Pompeya , aseguró que continúan buscando los elementos robados del templo y confirmó que un grupo de fieles decidió ofrecer una recompensa para quienes puedan aportar información concreta que permita recuperarlos.",
           "A varios días del hecho, Colombo reconoció que la comunidad todavía permanece conmocionada por lo sucedido y especialmente por la desaparición de las hostias consagradas. “Todavía estamos consternados, angustiados, sin poder creer lo que pasó."
         ],
-        "generated": "2026-10-27T23:48:32.972105+00:00"
+        "generated": "2026-10-28T00:04:40.257683+00:00"
       },
-      "apariciones": 20,
-      "ultima_impresion": "2026-10-27T23:43:39.797826+00:00",
-      "penalizacion": 0.001
+      "apariciones": 21,
+      "ultima_impresion": "2026-10-28T00:00:00.539116+00:00",
+      "penalizacion": 0.0
     },
     {
       "key": "taekwondistas necochenses destacaron tres arroyos",
@@ -564,11 +593,11 @@
           "El pasado día sábado, en instalaciones del Polideportivo Municipal de Tres Arroyos, se desarrollo el Campeonato de Taekwon-Do ITF de la Integración Federal de Taekwon-Do. El mismo fue organizado por la Asociación Civil El Dojang que dirige la Instructora Karina Arana (V Dan ITF) y fiscalizado por la Confederación Argentina de Taekwon-Do ITF (CATITF) a través de su Secretario el Gran Maestro Ebel Barat (IX Dan ITF).",
           "Del mismo tomaron parte más de 100 competidores provenientes de las ciudades de Rosario, Venado Tuerto, Maciel, Quemu-quemu, Necochea y los locales de Tres Arroyos. La delegación de nuestra ciudad, perteneciente a la Integración Provincial de Taekwon-Do, estuvo encabezada por el Maestro Horacio Ali (VII Dan) quien oficio de Presidente de Mesa de una de las áreas de competencia, al igual que la Instructora Mayor Gisella Cabrera (V Dan ITF) que tuvo a su cargo otra de las áreas."
         ],
-        "generated": "2026-10-27T23:48:35.371109+00:00"
+        "generated": "2026-10-28T00:04:42.533311+00:00"
       },
-      "apariciones": 20,
-      "ultima_impresion": "2026-10-27T23:43:39.797826+00:00",
-      "penalizacion": 0.001
+      "apariciones": 21,
+      "ultima_impresion": "2026-10-28T00:00:00.539116+00:00",
+      "penalizacion": 0.0
     },
     {
       "key": "uta endurece reclamo ahora companeros quieren les paguen todo debe",
@@ -593,11 +622,11 @@
           "Gastón Urrutia confirmó que el paro de colectivos continúa por tiempo indeterminado en Necochea y Quequén. El dirigente de UTA explicó que el incumplimiento de un pago de $60.000 terminó de profundizar el malestar de los trabajadores, que ahora exigen la cancelación de la totalidad de las deudas salariales antes de retomar el servicio.",
           "Charlando con Fede Cañadas en “Esta Mañana”, por NEC Radio 98.3 del Multimedio NQ, Gastón Urrutia, representante de la Unión Tranviarios Automotor (UTA) , confirmó que continúa el paro por tiempo indeterminado que mantiene sin servicio de colectivos a Necochea y Quequén y aseguró que los trabajadores ya no están dispuestos a aceptar únicamente pagos parciales."
         ],
-        "generated": "2026-10-27T23:48:37.668280+00:00"
+        "generated": "2026-10-28T00:04:44.633634+00:00"
       },
-      "apariciones": 20,
-      "ultima_impresion": "2026-10-27T23:43:39.797826+00:00",
-      "penalizacion": 0.001
+      "apariciones": 21,
+      "ultima_impresion": "2026-10-28T00:00:00.539116+00:00",
+      "penalizacion": 0.0
     }
   ]
 }
