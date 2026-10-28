@@ -1,12 +1,50 @@
 {
-  "generated_at": "2026-10-28T15:30:01.124884+00:00",
+  "generated_at": "2026-10-28T16:00:00.744271+00:00",
   "article_count": 135,
   "fetch_errors": [],
   "stories": [
     {
+      "key": "cooperadora hospital ferreyra anunciara donacion equipamiento pediatria neonatologia",
+      "title": "La Cooperadora del Hospital Ferreyra anunciará una donación de equipamiento para Pediatría y Neonatología",
+      "score": 2.393,
+      "sources_count": 2,
+      "first_seen": "2026-10-28T13:17:23+00:00",
+      "image": "https://cdnartic.ar/Jj935vuzHZzSkWRNDnoCmSyq60A=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/02/cooperadora_del_hospital_ferreyra_1.jpg",
+      "articles": [
+        {
+          "portal": "Ecos Diarios",
+          "title": "La Cooperadora del Hospital Ferreyra anunciará una donación de equipamiento para Pediatría y Neonatología",
+          "url": "https://elecos.com.ar/la-cooperadora-del-hospital-ferreyra-anunciara-una-donacion-de-equipamiento-para-pediatria-y-neonatologia",
+          "published_at": "2026-10-28T13:17:23+00:00",
+          "first_seen": "2026-10-28T16:00:00.744271+00:00",
+          "category": "14",
+          "image": "https://cdnartic.ar/Jj935vuzHZzSkWRNDnoCmSyq60A=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/02/cooperadora_del_hospital_ferreyra_1.jpg"
+        },
+        {
+          "portal": "Necochea Digital",
+          "title": "La Cooperadora del Hospital Ferreyra anunciará una nueva donación para Pediatría y Neonatología",
+          "url": "https://necocheadigital.com/nota/120033/la-cooperadora-del-hospital-ferreyra-anunciara-una-nueva-donacion-para-pediatria-y-neonatologia/",
+          "published_at": null,
+          "first_seen": "2026-10-28T16:00:00.744271+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La Asociación Cooperadora del Hospital Municipal Dr. Emilio Ferreyra convocó a los medios de comunicación a una conferencia de prensa para anunciar una nueva donación destinada a fortalecer el equipamiento del centro de salud. El encuentro se realizará este jueves 29 de octubre, a las 10 , en la sede de la entidad, ubicada en calle 56 N.º 2877, entre las avenidas 59 y 57.",
+          "Según informó la Cooperadora, la donación fue recibida a través de la Embajada de Japón en Argentina y estará destinada a la adquisición de aparatología para los servicios de Pediatría y Neonatología . Durante la conferencia se brindarán detalles sobre el aporte y el equipamiento que se incorporará para estas dos áreas fundamentales de la atención sanitaria, especialmente en el cuidado de niños y recién nacidos. Desde la Asociación Cooperadora agradecieron a los medios de comunicación por su presencia y difusión de la iniciativa."
+        ],
+        "generated": "2026-10-28T16:00:56.898674+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-10-28T16:00:00.744271+00:00"
+    },
+    {
       "key": "violenta pelea via publica termino dos hombres aprehendidos",
       "title": "Violenta pelea en la vía pública terminó con dos hombres aprehendidos",
-      "score": 1.161,
+      "score": 1.114,
       "sources_count": 1,
       "first_seen": "2026-10-28T15:06:25+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/FB_IMG_1793199712177.webp",
@@ -26,132 +64,132 @@
           "TSN Necochea | ‹ VOLVER | Locales | agresion | Actuación policial Violenta pelea en la vía pública terminó con dos hombres aprehendidos Sucedió en avenida 10 y 79. Personal policial debió intervenir para detener la agresión y Defensa Civil prestó asistencia en el lugar. Ambos fueron trasladados a la comisaría. Por Redacción TSN 28/10/2026 · 12:06 PM Agregar TSN Necochea en Dos hombres fueron aprehendidos tras protagonizar una pelea a golpes de puño en la vía pública, en la intersección de avenida 10 y avenida 79 , en Necochea .",
           "​El procedimiento se inició a raíz de un llamado al 911 que alertó sobre una confrontación entre dos personas. Al arribar, personal policial constató la agresión física y procedió a separarlos . ​Personal de Defensa Civil asistió a los involucrados , quienes no requirieron traslado al hospital ."
         ],
-        "generated": "2026-10-28T15:33:06.152776+00:00"
+        "generated": "2026-10-28T16:03:52.519155+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-28T15:30:01.124884+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-10-28T16:00:00.744271+00:00",
+      "penalizacion": 1.0
     },
     {
-      "key": "tragedia ferroviaria espana 64 muertos choque ave tren iryo toledo",
-      "title": "Tragedia ferroviaria en España: 64 muertos tras el choque de un AVE y un tren Iryo en Toledo",
+      "key": "verano necochea quequen cambios transito espacios peatonales operativo renga",
+      "title": "Verano en Necochea y Quequén: cambios en el tránsito, más espacios peatonales y operativo por La Renga",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-10-28T15:30:01.124884+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/8e1c499f17a43956fcd3d07ef6f61ba164805447.jpg",
+      "first_seen": "2026-10-28T16:00:00.744271+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/6423b913ad0e8e9873fe4f3c9b8bdb769378ebc7.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Tragedia ferroviaria en España: 64 muertos tras el choque de un AVE y un tren Iryo en Toledo",
-          "url": "https://necocheadigital.com/nota/120024/tragedia-ferroviaria-en-espana-64-muertos-tras-el-choque-de-un-ave-y-un-tren-iryo-en-toledo/",
+          "title": "Verano en Necochea y Quequén: cambios en el tránsito, más espacios peatonales y operativo por La Renga",
+          "url": "https://necocheadigital.com/nota/120026/verano-en-necochea-y-quequen-cambios-en-el-transito-mas-espacios-peatonales-y-operativo-por-la-renga/",
           "published_at": null,
-          "first_seen": "2026-10-28T15:30:01.124884+00:00",
+          "first_seen": "2026-10-28T16:00:00.744271+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "Una grave tragedia ferroviaria conmociona a España. Al menos 64 personas murieron y decenas resultaron heridas tras la colisión entre dos trenes de pasajeros de alta velocidad en la provincia de Toledo, en un siniestro ocurrido durante las primeras horas de este miércoles 28 de octubre. El accidente se produjo alrededor de las 8.35, entre las localidades de Los Yébenes y Urda, en el kilómetro 118 de la línea ferroviaria Madrid-Sevilla. En el choque estuvieron involucradas una formación AVE de Renfe y otra de la compañía Iryo.",
-          "Como consecuencia del impacto, dos vagones cayeron por un terraplén. El presidente de Castilla-La Mancha, Emiliano García-Page, confirmó que entre las víctimas fatales hay 24 pasajeros del tren AVE y otros seis que viajaban en la formación de Iryo. Además, advirtió que las autoridades temen que el número de fallecidos aumente a medida que avancen las tareas de rescate."
+          "A pocas semanas del inicio de la temporada de verano, Necochea y Quequén avanzan con una serie de medidas para ordenar el tránsito, mejorar el uso de los espacios públicos y acompañar el crecimiento de la actividad comercial y turística. Los preparativos fueron abordados por Manuela Fittipaldi, subsecretaria de Movilidad Urbana y Seguridad Vial de la Municipalidad de Necochea, durante una entrevista con Voces de la Tarde , el programa que conduce Jorge Gómez por Radio Noticias Necochea 97.3. La funcionaria explicó que el municipio está revisando disposiciones que llevan varios años de aplicación, con el objetivo de adaptarlas a las necesidades actuales y a la experiencia recogida durante temporadas anteriores.",
+          "“Estamos trabajando mucho en cuanto a la organización. Estamos cerca de la temporada estival y hay ciertas ordenanzas que llevan varios años de uso”, señaló."
         ],
-        "generated": "2026-10-28T15:33:08.487640+00:00"
+        "generated": "2026-10-28T16:03:54.818730+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-28T15:30:01.124884+00:00"
+      "ultima_impresion": "2026-10-28T16:00:00.744271+00:00"
     },
     {
-      "key": "milei ayudo bolsonaro fugarse brasil avion salio argentina rumbo estados unidos",
-      "title": "Milei ayudó a Bolsonaro a fugarse de Brasil: el avión que salió de Argentina rumbo a Estados Unidos",
+      "key": "escuela arte orillas quequen apela solidaridad reparar edificio",
+      "title": "La Escuela de Arte Orillas del Quequén apela a la solidaridad para reparar su edificio",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-10-28T15:30:01.124884+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/0ee73e284c05258464496c3866fc8b54f2f5ddad.jpg",
+      "first_seen": "2026-10-28T16:00:00.744271+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/8e7619e5bad5af8a77d8993dfdb6ed1fbf78ef4a.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Milei ayudó a Bolsonaro a fugarse de Brasil: el avión que salió de Argentina rumbo a Estados Unidos",
-          "url": "https://necocheadigital.com/nota/120028/milei-ayudo-a-bolsonaro-a-fugarse-de-brasil-el-avion-que-salio-de-argentina-rumbo-a-estados-unidos/",
+          "title": "La Escuela de Arte Orillas del Quequén apela a la solidaridad para reparar su edificio",
+          "url": "https://necocheadigital.com/nota/120025/la-escuela-de-arte-orillas-del-quequen-apela-a-la-solidaridad-para-reparar-su-edificio/",
           "published_at": null,
-          "first_seen": "2026-10-28T15:30:01.124884+00:00",
+          "first_seen": "2026-10-28T16:00:00.744271+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "La salida de Flávio Bolsonaro de Sudamérica rumbo a Estados Unidos quedó envuelta en una controversia que involucra a la Argentina, Ecuador y Brasil. El senador brasileño y su familia viajaron en un avión privado que despegó desde Puerto Iguazú, en Misiones, realizó una escala en Guayaquil y continuó hacia el aeropuerto de Opa-locka, en Miami, según informó Infobae . El episodio genera interrogantes sobre las condiciones en las que se concretó el viaje, luego de que el propio Flávio Bolsonaro denunciara que le habían comunicado una supuesta prohibición judicial de salir de Brasil.",
-          "Sin embargo, con los datos publicados hasta el momento no está acreditado que el Gobierno de Javier Milei haya intervenido directamente para facilitar una fuga. Un avión argentino y una ruta que evitó Brasil La aeronave utilizada fue un Gulfstream G400, matrícula argentina LV-JQW, perteneciente a la empresa Baires Fly S.A."
+          "La comunidad educativa de la Escuela Superior de Arte Orillas del Quequén se encuentra movilizada para reunir fondos que permitan avanzar con las reparaciones y el mantenimiento de su edificio. Con ese objetivo, la cooperadora organizó una agenda de actividades solidarias que incluirá un bingo, espectáculos, muestras y encuentros musicales durante noviembre. Marga Forte, integrante de la cooperadora y exdirectiva del establecimiento, explicó la situación edilicia durante una entrevista con Voces de la Tarde , el programa que conduce Jorge Gómez por Radio Noticias Necochea 97.3.",
+          "Allí describió las dificultades que enfrenta la institución para sostener las instalaciones y la necesidad de sumar el acompañamiento de la comunidad. “Es un edificio viejo, que está cerca del río y necesita mucho mantenimiento”, señaló Forte."
         ],
-        "generated": "2026-10-28T15:33:10.341691+00:00"
+        "generated": "2026-10-28T16:03:55.835133+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-28T15:30:01.124884+00:00"
+      "ultima_impresion": "2026-10-28T16:00:00.744271+00:00"
     },
     {
-      "key": "necochense sera voluntario visita papa leon xiv argentina",
-      "title": "Un necochense será voluntario en la visita del papa León XIV a la Argentina",
+      "key": "liga necochea anuncio no habra futbol fin semana espera resolucion newbery",
+      "title": "La Liga Necochea anunció que no habrá fútbol este fin de semana a la espera de la resolución por Newbery",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-10-28T15:30:01.124884+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/378f0a4eb036048a135c0913f2d8af9112e2ce32.jpg",
+      "first_seen": "2026-10-28T16:00:00.744271+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261027122148_whatsapp-image-2026-10-27-at-12-21-21.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Un necochense será voluntario en la visita del papa León XIV a la Argentina",
-          "url": "https://necocheadigital.com/nota/120027/un-necochense-sera-voluntario-en-la-visita-del-papa-leon-xiv-a-la-argentina/",
+          "title": "La Liga Necochea anunció que no habrá fútbol este fin de semana a la espera de la resolución por Newbery",
+          "url": "https://necocheadigital.com/nota/120019/la-liga-necochea-anuncio-que-no-habra-futbol-este-fin-de-semana-a-la-espera-de-la-resolucion-por-newbery/",
           "published_at": null,
-          "first_seen": "2026-10-28T15:30:01.124884+00:00",
+          "first_seen": "2026-10-28T16:00:00.744271+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "La próxima visita del papa León XIV a la Argentina tendrá una participación especial de la comunidad católica de Necochea. Franco Gussoni, profesor, técnico y referente de la juventud católica local, integrará el grupo de voluntarios que trabajará en la organización de las actividades previstas durante la estadía del Pontífice en el país. “Me toca estar desde la llegada, desde el minuto cero, que llega el Papa al país.",
-          "Ahí voy a estar ayudando como voluntario, en distintas actividades que tienen que ver con la organización”, contó Gussoni durante una entrevista con Voces de la Tarde , el programa que conduce Jorge Gómez por Radio Noticias Necochea 97.3. Su participación le permitirá acompañar desde adentro una convocatoria que movilizará a miles de fieles y que tendrá actividades en distintos puntos del país."
+          "La Liga Necochea de Fútbol resolvió suspender la programación de la fecha 22 del Torneo Sergio “Giuseppe” Portugal, última de la fase regular para Primera, Reserva y Sexta División, hasta tanto el Tribunal de Disciplina emita su resolución por el partido suspendido entre Jorge Newbery y Ministerio. La determinación se adoptó durante la reunión del Consejo Directivo con el propósito de completar los cotejos pendientes de las jornadas anteriores antes de disputar la instancia decisiva, garantizando que los clubes afronten la definición en igualdad de condiciones deportivas y con la tabla de posiciones debidamente consolidada.",
+          "El conflicto se originó en Lobería durante el cruce de Sexta División, que ganaba Ministerio por 2 a 1. En ese desarrollo, un futbolista de Jorge Newbery agredió a uno de los árbitros, lo que llevó a la terna referil a suspender de inmediato los partidos posteriores de Reserva y Primera."
         ],
-        "generated": "2026-10-28T15:33:11.390862+00:00"
+        "generated": "2026-10-28T16:03:57.897652+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-28T15:30:01.124884+00:00"
+      "ultima_impresion": "2026-10-28T16:00:00.744271+00:00"
     },
     {
-      "key": "bombazo river plate encabezara edicion record sur cup 200 equipos",
-      "title": "Bombazo: River Plate encabezará una edición récord de la SUR Cup con más de 200 equipos",
+      "key": "educando futuros conductores chicos jardin lassalle llevaron educacion vial practica",
+      "title": "Educando a los futuros conductores: los chicos del Jardín Lassalle llevaron la educación vial a la práctica",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-10-28T15:30:01.124884+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/1cd02e31b43620d7c664e038ca42a060d61727b9.jpg",
+      "first_seen": "2026-10-28T16:00:00.744271+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261027115417_27-10-foto-educacion-vial-lassalle2.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Bombazo: River Plate encabezará una edición récord de la SUR Cup con más de 200 equipos",
-          "url": "https://necocheadigital.com/nota/120023/bombazo-river-plate-encabezara-una-edicion-record-de-la-sur-cup-con-mas-de-200-equipos/",
+          "title": "Educando a los futuros conductores: los chicos del Jardín Lassalle llevaron la educación vial a la práctica",
+          "url": "https://necocheadigital.com/nota/120017/educando-a-los-futuros-conductores-los-chicos-del-jardin-lassalle-llevaron-la-educacion-vial-a-la-practica/",
           "published_at": null,
-          "first_seen": "2026-10-28T15:30:01.124884+00:00",
+          "first_seen": "2026-10-28T16:00:00.744271+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "La cuenta regresiva para una nueva edición de la SUR Cup comenzó a generar fuerte expectativa en el ambiente deportivo local con la confirmación de la presencia de River Plate. La institución de Núñez formará parte de la competencia infantil con su plantilla de la categoría 2015, transformándose en uno de los atractivos salientes del evento internacional que se desarrollará entre el 14 y el 20 de diciembre en distintos escenarios futbolísticos de Necochea y Quequén.",
-          "El certamen prevé una convocatoria de carácter histórico para el fútbol formativo de la región, registrando a la fecha más de 200 equipos inscriptos entre los cuales figuran 40 representativos internacionales."
+          "En una primera instancia, como ya se ha realizado en varios establecimientos educativos de la ciudad, se brindó una charla áulica con cartelería y contenidos vinculados a la seguridad vial. Luego, este último lunes, la propuesta pasó a la práctica en la vía pública, donde los niños pudieron participar con sus bicicletas, monopatines y otros rodados, aprendiendo de manera lúdica.",
+          "Las charlas están a cargo de los agentes Gustavo Vómero y Andrea Boero. Vómero explicó que “habíamos venido la semana pasada al Jardín Lassalle a compartir la educación vial con la cartelería, y junto con el jardín nos pusimos de acuerdo para llevar esa misma enseñanza a la vía pública para que traigan las bicicletas y los monopatines y demás y se puede hacer de manera lúdica”."
         ],
-        "generated": "2026-10-28T15:33:12.437739+00:00"
+        "generated": "2026-10-28T16:04:07.811255+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-28T15:30:01.124884+00:00"
+      "ultima_impresion": "2026-10-28T16:00:00.744271+00:00"
     },
     {
       "key": "esclarecen arrebato adulta mayor necochea detenido pertenencias recuperadas",
       "title": "Esclarecen el arrebato a una adulta mayor en Necochea: un detenido y pertenencias recuperadas",
-      "score": 0.584,
+      "score": 0.308,
       "sources_count": 1,
       "first_seen": "2026-10-28T14:01:49+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/FB_IMG_1793195996697.webp",
@@ -171,16 +209,16 @@
           "TSN Necochea | ‹ VOLVER | Locales | allanamiento | Procedimiento policial Esclarecen el arrebato a una adulta mayor en Necochea: un detenido y pertenencias recuperadas Tras el análisis de cámaras de seguridad y tareas de campo, la Comisaría Primera concretó dos allanamientos donde secuestraron la ropa usada en el hecho y documentación de la víctima. Por Redacción TSN 28/10/2026 · 11:01 AM Agregar TSN Necochea en Personal del Grupo Táctico Operativo (GTO) de la Comisaría Primera esclareció el arrebato sufrido por una adulta mayor en Necochea , tras una investigación que incluyó el análisis de cámaras de seguridad y tareas de campo.",
           "​Con la intervención de la UFI N.º 03 y la autorización del Juzgado de Garantías N.º 02 , la Policía realizó dos allanamientos en los que secuestró ropa utilizada durante el robo y documentación personal de la víctima ."
         ],
-        "generated": "2026-10-28T15:33:13.546462+00:00"
+        "generated": "2026-10-28T16:04:10.078215+00:00"
       },
-      "apariciones": 3,
-      "ultima_impresion": "2026-10-28T15:30:01.124884+00:00",
-      "penalizacion": 0.55
+      "apariciones": 4,
+      "ultima_impresion": "2026-10-28T16:00:00.744271+00:00",
+      "penalizacion": 0.302
     },
     {
       "key": "camion interactivo larti innova volvio distrito amplia propuesta educativa estudiantes secundarios",
       "title": "El camión interactivo de Larti Innova volvió al distrito con una amplia propuesta educativa para estudiantes secundarios",
-      "score": 0.324,
+      "score": 0.171,
       "sources_count": 2,
       "first_seen": "2026-10-28T11:54:23+00:00",
       "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261027180348_27-10-foto-larti-innova-necochea7.jpg",
@@ -209,16 +247,16 @@
           "Con una marcada convocatoria de escuelas secundarias, tanto de gestión estatal como privada, comenzó este martes en la Plaza Dardo Rocha una nueva edición de la propuesta educativa Larti Innova. La iniciativa, que se extenderá hasta el miércoles al mediodía, cuenta con la participación de más de 500 estudiantes organizados en turnos, tras la inscripción coordinada junto a la Dirección de Educación del municipio, a cargo de Mariela Maceiro.",
           "Esta experiencia desembarca en el distrito por segunda vez, luego de su primer paso en mayo de 2024. Impulsado por la empresa Lartirigoyen Agropecuaria Argentina, el proyecto consiste en un museo interactivo montado sobre la estructura de un camión que recorre distintas localidades del país para acercar a los jóvenes al presente y futuro de la agroindustria, la tecnología y la producción sostenible."
         ],
-        "generated": "2026-10-28T15:30:35.128139+00:00"
+        "generated": "2026-10-28T16:01:01.431410+00:00"
       },
-      "apariciones": 5,
-      "ultima_impresion": "2026-10-28T15:30:01.124884+00:00",
-      "penalizacion": 0.166
+      "apariciones": 6,
+      "ultima_impresion": "2026-10-28T16:00:00.744271+00:00",
+      "penalizacion": 0.091
     },
     {
       "key": "necochea reunio 300 profesionales jornada provincial psicologia salud mental",
       "title": "Necochea reunió a 300 profesionales en una jornada provincial de Psicología y Salud Mental",
-      "score": 0.319,
+      "score": 0.168,
       "sources_count": 1,
       "first_seen": "2026-10-28T13:56:36+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/FOTO-Jornada-Psicologia4.webp",
@@ -238,16 +276,16 @@
           "TSN Necochea | ‹ VOLVER | Generales | Necochea | COLPSIBA Necochea reunió a 300 profesionales en una jornada provincial de Psicología y Salud Mental La actividad se desarrolló en el Centro Cultural de la ciudad. Por Redacción TSN 28/10/2026 · 10:56 AM Agregar TSN Necochea en El Centro Cultural de Necochea fue sede de la Jornada Provincial de Psicología y Salud Mental, un encuentro que convocó a unos 300 profesionales de distintos puntos de la provincia de Buenos Aires.",
           "Organizada por el Colegio de Psicólogas y Psicólogos de la Provincia de Buenos Aires (COLPSIBA), la actividad contó con 50 exposiciones de trabajos académicos, presentaciones de libros y espacios de intercambio sobre los desafíos actuales de la psicología, las prácticas profesionales y las políticas de cuidado."
         ],
-        "generated": "2026-10-28T15:33:14.618937+00:00"
+        "generated": "2026-10-28T16:04:11.803449+00:00"
       },
-      "apariciones": 4,
-      "ultima_impresion": "2026-10-28T15:30:01.124884+00:00",
-      "penalizacion": 0.303
+      "apariciones": 5,
+      "ultima_impresion": "2026-10-28T16:00:00.744271+00:00",
+      "penalizacion": 0.166
     },
     {
       "key": "seguridad mi anses puede gestionar clave biometria facial",
       "title": "Más seguridad en Mi ANSES: ya se puede gestionar la clave con biometría facial",
-      "score": 0.315,
+      "score": 0.166,
       "sources_count": 1,
       "first_seen": "2026-10-28T13:48:22+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/07/Jubilados-ANses-123.avif",
@@ -267,16 +305,16 @@
           "TSN Necochea | ‹ VOLVER | Generales | ANSES | Clave de la Seguridad Más seguridad en Mi ANSES: ya se puede gestionar la clave con biometría facial A través del escaneo del DNI y la cámara del celular, el sistema cruza datos con RENAPER para validar la identidad de los usuarios. Qué cambia a partir de ahora. Por Redacción TSN 28/10/2026 · 10:48 AM Agregar TSN Necochea en ANSES sumó una nueva función en su aplicación móvil mi ANSES que permite a los usuarios crear o recuperar la Clave de la Seguridad Social mediante reconocimiento facial y el escaneo del DNI .",
           "Anses Necochea La medida busca evitar fraudes, accesos no autorizados y usurpación de identidad . Para validar los datos, el sistema cruza la información biométrica en tiempo real con la base de datos del RENAPER y confirma que la persona sea la titular del CUIL ingresado."
         ],
-        "generated": "2026-10-28T15:33:16.914855+00:00"
+        "generated": "2026-10-28T16:04:13.345209+00:00"
       },
-      "apariciones": 4,
-      "ultima_impresion": "2026-10-28T15:30:01.124884+00:00",
-      "penalizacion": 0.303
+      "apariciones": 5,
+      "ultima_impresion": "2026-10-28T16:00:00.744271+00:00",
+      "penalizacion": 0.166
     },
     {
       "key": "fallecio eulalia mama lionel scaloni",
       "title": "Falleció Eulalia, la mamá de Lionel Scaloni",
-      "score": 0.31,
+      "score": 0.163,
       "sources_count": 1,
       "first_seen": "2026-10-28T13:35:45+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/Scaloni-padres.webp",
@@ -296,16 +334,16 @@
           "TSN Necochea | ‹ VOLVER | Deportes | Eulalia | Duelo Falleció Eulalia, la mamá de Lionel Scaloni Marzetti falleció en la noche del martes en Pujato, según confirmaron fuentes familiares. Tenía 74 años y estaba atravesando una enfermedad desde hacía tiempo. Por Redacción TSN 28/10/2026 · 10:35 AM Agregar TSN Necochea en El fútbol argentino vuelve a estar de luto. Este miércoles se confirmó el fallecimiento de Eulalia Marzetti, madre de Lionel Scaloni .",
           "Tenía 74 años y hacía tiempo que atravesaba una dura enfermedad. Una triste noticia que golpea de cerca a su familia, a todo Pujato y a la Selección nacional. Según las fuentes familiares, la mujer murió en la noche del martes en la casa donde vivía junto a su marido Ángel ."
         ],
-        "generated": "2026-10-28T15:33:18.557607+00:00"
+        "generated": "2026-10-28T16:04:15.656425+00:00"
       },
-      "apariciones": 4,
-      "ultima_impresion": "2026-10-28T15:30:01.124884+00:00",
-      "penalizacion": 0.303
+      "apariciones": 5,
+      "ultima_impresion": "2026-10-28T16:00:00.744271+00:00",
+      "penalizacion": 0.166
     },
     {
       "key": "avanzan obras cloacas necochea quequen mejorar servicios basicos barrios",
       "title": "Avanzan las obras de cloacas en Necochea y Quequén para mejorar los servicios básicos en los barrios",
-      "score": 0.258,
+      "score": 0.136,
       "sources_count": 1,
       "first_seen": "2026-10-28T13:36:36+00:00",
       "image": null,
@@ -325,16 +363,16 @@
           "La Municipalidad de Necochea lleva adelante nuevas intervenciones en la infraestructura sanitaria de ambas ciudades. Los trabajos se desarrollan en calle 513, entre 528 y 530, de Quequén, y en calle 40, entre 127 y 129, de Necochea, con personal y maquinaria del Ente Municipal de Servicios Urbanos y Rurales (EMSUR). La Municipalidad de Necochea continúa ejecutando obras de infraestructura destinadas a mejorar los servicios básicos en distintos sectores del distrito.",
           "En esta oportunidad, los trabajos se concentran en la red cloacal de Necochea y Quequén, con intervenciones que buscan fortalecer las condiciones sanitarias y responder a necesidades de los vecinos. Las tareas forman parte de las acciones impulsadas por la gestión del intendente Arturo Rojas, que mantiene entre sus objetivos el desarrollo de infraestructura urbana y la mejora de los servicios esenciales en los barrios."
         ],
-        "generated": "2026-10-28T15:33:22.087686+00:00"
+        "generated": "2026-10-28T16:04:19.438015+00:00"
       },
-      "apariciones": 4,
-      "ultima_impresion": "2026-10-28T15:30:01.124884+00:00",
-      "penalizacion": 0.303
+      "apariciones": 5,
+      "ultima_impresion": "2026-10-28T16:00:00.744271+00:00",
+      "penalizacion": 0.166
     },
     {
       "key": "municipio refuerza prevencion posibles emergencias climaticas",
       "title": "El Municipio refuerza la prevención ante posibles emergencias climáticas",
-      "score": 0.179,
+      "score": 0.094,
       "sources_count": 2,
       "first_seen": "2026-10-28T11:58:26+00:00",
       "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261027181653_27-10-foto-rojas-funcionarios-com3.jpg",
@@ -363,16 +401,16 @@
           "En una reunión realizada en el Centro Operativo de Monitoreo Municipal (COM) , el jefe comunal y los funcionarios de las áreas involucradas delinearon acciones preventivas para fortalecer la preparación y la capacidad de respuesta del distrito. La iniciativa da continuidad al encuentro de articulación impulsado a principios de mes por la Secretaría de Desarrollo Humano y Políticas Sociales , con la participación de organismos educativos e instituciones, para establecer criterios comunes de actuación ante posibles contingencias.",
           "El plan contempla medidas de prevención, preparación, respuesta y recuperación frente a fenómenos como inundaciones, lluvias intensas, tormentas severas y fuertes vientos, con alcance en Necochea, Quequén y las localidades del interior."
         ],
-        "generated": "2026-10-28T15:30:31.919488+00:00"
+        "generated": "2026-10-28T16:00:59.088199+00:00"
       },
-      "apariciones": 6,
-      "ultima_impresion": "2026-10-28T15:30:01.124884+00:00",
-      "penalizacion": 0.092
+      "apariciones": 7,
+      "ultima_impresion": "2026-10-28T16:00:00.744271+00:00",
+      "penalizacion": 0.05
     },
     {
       "key": "calle momo venegas abren registro oposicion concoer opinion vecinos",
       "title": "Calle “Momo” Venegas: abren el registro de oposición para concoer la opinión de los vecinos",
-      "score": 0.162,
+      "score": 0.086,
       "sources_count": 1,
       "first_seen": "2026-10-28T13:00:55+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/calle-528.webp",
@@ -392,16 +430,16 @@
           "TSN Necochea | ‹ VOLVER | Locales | calle | Concejo Calle “Momo” Venegas: abren el registro de oposición para concoer la opinión de los vecinos La arteria está en la zona del Barrio Seis Esquinas de Quequén. Por Redacción TSN 28/10/2026 · 10:00 AM Agregar TSN Necochea en El Concejo Deliberante de Necochea informó a la comunidad que se encuentra en tratamiento un proyecto de ordenanza para designar con el nombre de Gerónimo “Momo” Venegas a la actual calle 528 de la localidad de Quequén, en toda su traza.",
           "La iniciativa surge a partir de un petitorio vecinal respaldado por decenas de firmas, valorando el profundo arraigo del histórico dirigente gremial y político con el distrito, así como su estrecho vínculo con dicha arteria, donde funciona la Seccional N° 10 de la UATRE, en la intersección con la calle 519."
         ],
-        "generated": "2026-10-28T15:33:19.574922+00:00"
+        "generated": "2026-10-28T16:04:16.906958+00:00"
       },
-      "apariciones": 5,
-      "ultima_impresion": "2026-10-28T15:30:01.124884+00:00",
-      "penalizacion": 0.166
+      "apariciones": 6,
+      "ultima_impresion": "2026-10-28T16:00:00.744271+00:00",
+      "penalizacion": 0.091
     },
     {
       "key": "parque miguel lillo vecinos mesa consenso recuperaron sector senderos especies nativas",
       "title": "Parque Miguel Lillo: vecinos y la Mesa de Consenso recuperaron un sector con senderos y especies nativas",
-      "score": 0.139,
+      "score": 0.073,
       "sources_count": 1,
       "first_seen": "2026-10-28T13:19:19+00:00",
       "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-28-at-09.23.19-scaled.jpeg",
@@ -421,16 +459,16 @@
           "José Garcés, ingeniero forestal e integrante de la Mesa de Consenso para la Gestión del Parque Miguel Lillo, detalló el trabajo realizado junto a vecinos de Villa Zabala y Guardaparques. Se erradicó un microbasural, se intervino sobre un antiguo circuito de motos, se plantaron especies nativas y se generó un sendero seguro hacia la playa.",
           "Charlando con Fede Cañadas en “Esta Mañana”, por NEC Radio 98.3 del Multimedio NQ, el ingeniero forestal José Garcés , integrante de la Mesa de Consenso para la Gestión del Parque Miguel Lillo, explicó el trabajo comunitario realizado en un sector próximo a Villa Zabala, en la zona de calle 203 entre las avenidas 2 y 10."
         ],
-        "generated": "2026-10-28T15:33:24.462464+00:00"
+        "generated": "2026-10-28T16:04:21.661218+00:00"
       },
-      "apariciones": 5,
-      "ultima_impresion": "2026-10-28T15:30:01.124884+00:00",
-      "penalizacion": 0.166
+      "apariciones": 6,
+      "ultima_impresion": "2026-10-28T16:00:00.744271+00:00",
+      "penalizacion": 0.091
     },
     {
       "key": "escuela abrio tercera feria educacion digital proyectos creados estudiantes",
       "title": "La Escuela N° 1 abrió la tercera Feria de Educación Digital con proyectos creados por estudiantes",
-      "score": 0.137,
+      "score": 0.072,
       "sources_count": 1,
       "first_seen": "2026-10-28T13:11:20+00:00",
       "image": null,
@@ -450,16 +488,16 @@
           "La propuesta reúne distintos stands en los que alumnos y docentes muestran cómo incorporan la tecnología a los proyectos educativos cotidianos. Hay desde objetos que recorren la evolución tecnológica hasta podcast, radio digital y distintas experiencias desarrolladas durante el año. Desde el móvil y charlando con Fede Cañadas en “Esta Mañana”, por NEC Radio 98.3 del Multimedio NQ, se conocieron los detalles de la tercera Feria de Educación Digital , una propuesta que tiene como sede a la Escuela N° 1 y busca mostrar a la comunidad el trabajo tecnológico que estudiantes y docentes desarrollan diariamente.",
           "La directora de la institución, Ángela Peñalba , explicó que esta es la tercera edición de la experiencia y la segunda que se realiza en esa escuela. La primera experiencia había tenido lugar en 2018 y posteriormente se desarrolló otra edición en 2019."
         ],
-        "generated": "2026-10-28T15:33:27.333954+00:00"
+        "generated": "2026-10-28T16:04:24.081296+00:00"
       },
-      "apariciones": 5,
-      "ultima_impresion": "2026-10-28T15:30:01.124884+00:00",
-      "penalizacion": 0.166
+      "apariciones": 6,
+      "ultima_impresion": "2026-10-28T16:00:00.744271+00:00",
+      "penalizacion": 0.091
     },
     {
       "key": "pablo meana orgullo necochense trasciende canchas",
       "title": "Pablo Meana, el orgullo necochense que trasciende las canchas",
-      "score": 0.073,
+      "score": 0.039,
       "sources_count": 1,
       "first_seen": "2026-10-28T12:49:17+00:00",
       "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/c7c98a81-12a1-42b5-9d23-02b4dc407cbb-1.jpg",
@@ -479,16 +517,16 @@
           "El referente del vóley argentino volvió a ser protagonista del Open Neco, no solo por la organización de uno de los torneos juveniles más importantes de la ciudad, sino también por el reconocimiento que recibe de quienes llegan desde distintos puntos del país. Una escena durante la competencia reflejó el cariño y la admiración que despierta su trayectoria.",
           "Pablo Meana está acostumbrado a recorrer las canchas, observar partidos y estar pendiente de cada detalle del Open Neco, el torneo de vóley que ya se convirtió en una cita destacada del calendario deportivo juvenil. Sin embargo, durante la 13ª edición del certamen, una escena volvió a poner en evidencia que su figura trasciende la organización y el deporte: también es un ídolo para muchos de los chicos que llegan a Necochea."
         ],
-        "generated": "2026-10-28T15:33:29.165189+00:00"
+        "generated": "2026-10-28T16:04:26.439547+00:00"
       },
-      "apariciones": 6,
-      "ultima_impresion": "2026-10-28T15:30:01.124884+00:00",
-      "penalizacion": 0.092
+      "apariciones": 7,
+      "ultima_impresion": "2026-10-28T16:00:00.744271+00:00",
+      "penalizacion": 0.05
     },
     {
       "key": "juanita souto necochense subio alto podio juegos bonaerenses",
       "title": "Juanita Souto, la necochense que se subió a lo más alto del podio en los Juegos Bonaerenses",
-      "score": 0.072,
+      "score": 0.038,
       "sources_count": 1,
       "first_seen": "2026-10-28T12:39:41+00:00",
       "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/71c8b6c0-55e5-4cca-8cbf-5769fd1bee1f.jpg",
@@ -508,16 +546,16 @@
           "La atleta de la Escuela Municipal de Atletismo se consagró campeona en salto en largo durante las finales disputadas en Mar del Plata. En una entrevista, junto a su entrenador Santiago Cabrera y el director de la escuela, Mauro Cabrera, contó cómo vivió su primera experiencia en la competencia provincial y el camino que la llevó a conquistar la medalla de oro.",
           "Juanita Souto tuvo una actuación destacada en los Juegos Bonaerenses 2026 y se quedó con la medalla de oro en atletismo convencional, en la prueba de salto en largo. La joven necochense, que participó por primera vez de las finales provinciales, coronó con un triunfo una experiencia que estuvo marcada por los nervios, el aprendizaje y la emoción de representar a su ciudad."
         ],
-        "generated": "2026-10-28T15:33:31.307608+00:00"
+        "generated": "2026-10-28T16:04:28.939283+00:00"
       },
-      "apariciones": 6,
-      "ultima_impresion": "2026-10-28T15:30:01.124884+00:00",
-      "penalizacion": 0.092
+      "apariciones": 7,
+      "ultima_impresion": "2026-10-28T16:00:00.744271+00:00",
+      "penalizacion": 0.05
     },
     {
       "key": "paro colectivos no depositan totalidad deuda no vamos salir trabajar",
       "title": "Paro de colectivos: “Si no depositan la totalidad de la deuda, no vamos a salir a trabajar”",
-      "score": 0.039,
+      "score": 0.02,
       "sources_count": 1,
       "first_seen": "2026-10-28T12:23:17+00:00",
       "image": null,
@@ -537,16 +575,16 @@
           "Los trabajadores ratificaron la continuidad de la medida de fuerza en Necochea y Quequén luego de una nueva reunión sin acuerdo con la empresa. Reclaman el 50% del aguinaldo, el 10% del sueldo y una suma no remunerativa de $60.000, mientras aguardan una audiencia en el Ministerio de Trabajo. Charlando con Fede Cañadas en “Esta Mañana”, por NEC Radio 98.3 del Multimedio NQ, Damián, delegado de los trabajadores del transporte urbano , confirmó que el paro de colectivos continúa por tiempo indeterminado y aseguró que los choferes mantienen una posición firme: no retomarán el servicio mientras no se cancele la totalidad de la deuda que mantiene la empresa .",
           "“Lamentablemente ayer estuvimos reunidos con la parte que representa a la empresa y no llegamos a un acuerdo. Los compañeros están en que, si no se deposita la totalidad de la deuda, no se va a salir a trabajar”, explicó."
         ],
-        "generated": "2026-10-28T15:33:33.868437+00:00"
+        "generated": "2026-10-28T16:04:31.441891+00:00"
       },
-      "apariciones": 7,
-      "ultima_impresion": "2026-10-28T15:30:01.124884+00:00",
-      "penalizacion": 0.05
+      "apariciones": 8,
+      "ultima_impresion": "2026-10-28T16:00:00.744271+00:00",
+      "penalizacion": 0.028
     },
     {
       "key": "30 personas murieron choque trenes espana",
       "title": "Más de 30 personas murieron tras un choque de trenes en España",
-      "score": 0.02,
+      "score": 0.011,
       "sources_count": 1,
       "first_seen": "2026-10-28T11:48:45+00:00",
       "image": null,
@@ -566,16 +604,16 @@
           "Dos trenes que se dirigían a Sevilla colisionaron a las 8:54 h del miércoles 28 de octubre en la zona de Urda, entre las localidades de Urda y Orgaz, provocando una tragedia con más de 30 fallecidos y numerosos heridos. Detalles del accidente El siniestro se produjo en el kilómetro 118 de la vía, cerca de la estación de Urda. Según los primeros testimonios, un tren de Renfe (formación AVE 2080) impactó por detrás a una formación de Iryo que se encontraba detenida. La colisión hizo que los dos últimos vagones del tren Iryo cayeran por un terraplén, mientras varios coches más descarrilaron.",
           "Pasajeros a bordo El tren de Renfe había salido de Madrid a las 8:04 y transportaba a 397 personas. El tren de Iryo llevaba 147 pasajeros, entre ellos un bebé. En total, los dos trenes desplazaban a 544 viajeros."
         ],
-        "generated": "2026-10-28T15:33:34.828087+00:00"
+        "generated": "2026-10-28T16:04:32.418179+00:00"
       },
-      "apariciones": 8,
-      "ultima_impresion": "2026-10-28T15:30:01.124884+00:00",
-      "penalizacion": 0.028
+      "apariciones": 9,
+      "ultima_impresion": "2026-10-28T16:00:00.744271+00:00",
+      "penalizacion": 0.015
     },
     {
       "key": "migraciones confirmo flavio bolsonaro partio argentina ecuador",
       "title": "Migraciones confirmó que Flávio Bolsonaro partió desde Argentina hacia Ecuador",
-      "score": 0.02,
+      "score": 0.011,
       "sources_count": 1,
       "first_seen": "2026-10-28T11:44:06+00:00",
       "image": null,
@@ -595,11 +633,11 @@
           "El ex candidato presidencial brasileño ingresó a Misiones con su familia y, desde el aeropuerto de Puerto Iguazú, tomó un Gulfstream rumbo a Ecuador, confirmó la Dirección Nacional de Migraciones. Ingreso a territorio argentino A las 22:50 hs del martes 27 de octubre, Flávio Nantes Bolsonaro cruzó la frontera con Brasil por el puente internacional Tancredo Neves, en la provincia de Misiones, acompañado por Fernanda Antunes Figueira Bolsonaro, Carolina Figueira Bolsonaro y Luiza Figueira Bolsonaro.",
           "Los cuatro presentaron documentación válida y no tuvieron impedimentos legales para el ingreso, según informó la autoridad migratoria. Tras el cruce, la comitiva se dirigió en dos vehículos de la empresa brasileña Dallas, escoltados por un patrullero de la Policía de Seguridad Aeroportuaria, hasta el aeropuerto de Puerto Iguazú."
         ],
-        "generated": "2026-10-28T15:33:35.815096+00:00"
+        "generated": "2026-10-28T16:04:33.399888+00:00"
       },
-      "apariciones": 8,
-      "ultima_impresion": "2026-10-28T15:30:01.124884+00:00",
-      "penalizacion": 0.028
+      "apariciones": 9,
+      "ultima_impresion": "2026-10-28T16:00:00.744271+00:00",
+      "penalizacion": 0.015
     }
   ]
 }
