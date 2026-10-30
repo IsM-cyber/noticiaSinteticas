@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-30T20:30:00.518275+00:00",
+  "generated_at": "2026-10-30T21:00:01.244315+00:00",
   "article_count": 135,
   "fetch_errors": [],
   "stories": [
     {
       "key": "lucas silva podria titular river superclasico",
       "title": "Lucas Silva podría ser titular en River en el Superclásico",
-      "score": 1.568,
+      "score": 1.504,
       "sources_count": 2,
       "first_seen": "2026-10-30T14:19:00+00:00",
       "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261030172440_whatsapp-image-2026-10-30-at-17-24-26.jpg",
@@ -35,132 +35,228 @@
           "La presencia del volante dulcense cobró fuerza durante las últimas prácticas del plantel en Ezeiza, luego de que Moreno trabajara de forma diferenciada a causa de una dolencia en la zona lumbar y una contractura en el gemelo derecho. La baja confirmada de Fausto Vera obliga al entrenador a definir si arriesga al futbolista titular o le da la responsabilidad desde el inicio al joven surgido en las infantiles del Deportivo La Dulce.",
           "En el último compromiso ante Racing Club, Silva ingresó durante el primer tiempo para suplir la baja de Moreno y dejó sensaciones positivas por su despliegue físico y su capacidad de contención en el uno contra uno. Pese a haber sumado escasos minutos en la primera división durante la presente temporada, la actuación en Avellaneda y su desempeño táctico en los ensayos de la semana respaldan su postulación."
         ],
-        "generated": "2026-10-30T20:31:14.703450+00:00"
+        "generated": "2026-10-30T21:01:19.557244+00:00"
+      },
+      "apariciones": 2,
+      "ultima_impresion": "2026-10-30T21:00:01.244315+00:00",
+      "penalizacion": 1.0
+    },
+    {
+      "key": "dos caidas necochea provincial u17 merito estar mejores",
+      "title": "Dos caídas de Necochea en el Provincial U17, pero con el mérito de estar entre los mejores",
+      "score": 1.152,
+      "sources_count": 1,
+      "first_seen": "2026-10-30T20:30:28+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/FOTO-Necochea-MdP-Provincial.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Dos caídas de Necochea en el Provincial U17, pero con el mérito de estar entre los mejores",
+          "url": "https://tsnnecochea.com.ar/deportes/dos-caidas-de-necochea-en-el-provincial-u17-pero-con-el-merito-de-estar-entre-los-mejores-241069/",
+          "published_at": "2026-10-30T20:30:28+00:00",
+          "first_seen": "2026-10-30T21:00:01.244315+00:00",
+          "category": "Básquet",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/FOTO-Necochea-MdP-Provincial.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Deportes | Básquet | Básquet Dos caídas de Necochea en el Provincial U17, pero con el mérito de estar entre los mejores Fue derrota muy apretada con el local en el debut y este viernes ante Bahía. Por Redacción TSN 30/10/2026 · 05:30 PM Agregar TSN Necochea en La Selección de básquet de Necochea U17 vive una experiencia de privilegio en el Campeonato Provincial de la categoría , que se disputa en Mar del Plata hasta el próximo domingo 1° de noviembre, luego de conseguir la clasificación al consagrarse campeona del Zonal el mes pasado.",
+          "El equipo dirigido por Mauro Mazzuchelli afronta el desafío de medirse con algunas de las asociaciones más fuertes del básquet bonaerense y nacional. En el sorteo de las zonas, el representativo de la Asociación de Básquetbol de Necochea (ABN) quedó emparejado con el anfitrión Mar del Plata y Bahía Blanca ."
+        ],
+        "generated": "2026-10-30T21:01:39.062113+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-30T20:30:00.518275+00:00"
+      "ultima_impresion": "2026-10-30T21:00:01.244315+00:00"
     },
     {
-      "key": "unicen quequen celebra hoy 30 anos acto teatro usina",
-      "title": "La UNICEN Quequén celebra hoy sus 30 años con un acto en el Teatro de la Usina",
+      "key": "levanto paro colectivos vuelven circular",
+      "title": "Se levantó el paro y los colectivos vuelven a circular",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-10-30T20:30:00.518275+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261030171415_07-11-foto-unicen-quequen.jpg",
+      "first_seen": "2026-10-30T21:00:01.244315+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261030165932_whatsapp-image-2026-10-30-at-16-58-46.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "La UNICEN Quequén celebra hoy sus 30 años con un acto en el Teatro de la Usina",
-          "url": "https://necocheadigital.com/nota/120060/la-unicen-quequen-celebra-hoy-sus-30-anos-con-un-acto-en-el-teatro-de-la-usina/",
+          "title": "Se levantó el paro y los colectivos vuelven a circular",
+          "url": "https://necocheadigital.com/nota/120059/se-levanto-el-paro-y-los-colectivos-vuelven-a-circular/",
           "published_at": null,
-          "first_seen": "2026-10-30T20:30:00.518275+00:00",
+          "first_seen": "2026-10-30T21:00:01.244315+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "La sede universitaria local alcanza hoy tres décadas de presencia continua y lo conmemora con un evento especial encabezado por el rector de la Universidad Nacional del Centro de la Provincia de Buenos Aires, Marcelo Aba, junto a la coordinadora de la subsede, Patricia Sureda. La cita institucional convocó a la comunidad a reencontrarse a partir de las 19 horas en el Teatro de la Usina, ubicado en avenida 59 y calle 42.",
-          "La ceremonia contará con la participación de decanos de distintas facultades y de los miembros de la histórica comisión pro-universitaria, a quienes se les entregará un reconocimiento por impulsar las gestiones iniciales que permitieron el desembarco de la casa de altos estudios en el distrito. Durante la jornada también se otorgará un presente conmemorativo a las autoridades del Municipio por el acompañamiento sostenido a lo largo de este trayecto."
+          "Tras cuatro días de interrupción total en el transporte urbano de pasajeros, los colectivos volvieron a circular este viernes a partir de las 16 horas, luego de que la Unión Tranviarios Automotor (UTA) y la Compañía de Transportes Necochea alcanzaran un acuerdo económico en la delegación local del Ministerio de Trabajo de la Provincia de Buenos Aires. La negociación se destrabó tras una extensa jornada de gestiones que comenzó a las 10 de la mañana e incluyó un cuarto intermedio y una asamblea de trabajadores.",
+          "Del encuentro participaron el gerente de la empresa, Carlos Manzano, la representante Erica Giancarelli y los referentes sindicales Gastón Urrutia, Matías Jordán y Mateo González. Además, estuvieron presentes los funcionarios municipales Paula Faramiñán y Facundo Croci, junto a la delegada de Trabajo, Natalia Steffen."
         ],
-        "generated": "2026-10-30T20:33:09.274826+00:00"
+        "generated": "2026-10-30T21:02:36.588057+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-30T20:30:00.518275+00:00"
+      "ultima_impresion": "2026-10-30T21:00:01.244315+00:00"
     },
     {
-      "key": "descabellados celebra halloween chicos busca incorporar nuevos barberos equipo",
-      "title": "Descabellados celebra Halloween con los chicos y busca incorporar nuevos barberos a su equipo",
+      "key": "hay cronograma artistico confirmado festejos 172 anos quequen",
+      "title": "Ya hay cronograma artístico confirmado para los festejos por los 172 años de Quequén",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-10-30T20:30:00.518275+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/283cc77e0912770b93b45d5bb754f6a3dae702f5.jpg",
+      "first_seen": "2026-10-30T21:00:01.244315+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261030164502_aniversario-quequen-3.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Descabellados celebra Halloween con los chicos y busca incorporar nuevos barberos a su equipo",
-          "url": "https://necocheadigital.com/nota/120055/descabellados-celebra-halloween-con-los-chicos-y-busca-incorporar-nuevos-barberos-a-su-equipo/",
+          "title": "Ya hay cronograma artístico confirmado para los festejos por los 172 años de Quequén",
+          "url": "https://necocheadigital.com/nota/120058/ya-hay-cronograma-artistico-confirmado-para-los-festejos-por-los-172-anos-de-quequen/",
           "published_at": null,
-          "first_seen": "2026-10-30T20:30:00.518275+00:00",
+          "first_seen": "2026-10-30T21:00:01.244315+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "Halloween con golosinas para los más chicos Este sábado 31 de octubre, desde las 19 horas, Descabellados abrirá las puertas de su local para recibir a niños y niñas que quieran acercarse disfrazados de sus personajes favoritos. La propuesta incluye la entrega de golosinas para todos los chicos que participen. Como único requisito, deberán sacarse una fotografía con los integrantes del comercio o dentro del establecimiento.",
-          "Además, desde el local invitaron a compartir la convocatoria en redes sociales para que ningún chico se quede sin enterarse de la iniciativa. Buscan barberos para ampliar el equipo Por otra parte, Descabellados Barber Shop anunció que continúa creciendo y abrió una convocatoria laboral para incorporar barberos con experiencia, mayores de 18 años."
+          "Tras haber quedado postergados en el pasado mes de agosto, los festejos populares por el 172° Aniversario de Quequén finalmente se llevarán adelante el fin de semana del 7 y 8 de noviembre en la tradicional Plaza Hipólito Yrigoyen , con cronograma artístico ya confirmado. Gracias a la firme decisión de la gestión municipal que encabeza el intendente Arturo Rojas, de promover encuentros populares que tanto se esperan en la comunidad y que se disfrutan en familia y entre todos los vecinos, el corazón de Quequén se vestirá de fiesta con una amplia propuesta cultural, recreativa y comercial para el disfrute de grandes y chicos.",
+          "Además de la gran agenda de espectáculos artísticos en vivo, la plaza contará con juegos inflables, actividades para las infancias, un completo corredor gastronómico, stands comerciales y feria de emprendedores locales, garantizando un espacio de encuentro y recreación para toda la familia."
         ],
-        "generated": "2026-10-30T20:33:09.964307+00:00"
+        "generated": "2026-10-30T21:02:37.656296+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-30T20:30:00.518275+00:00"
+      "ultima_impresion": "2026-10-30T21:00:01.244315+00:00"
     },
     {
-      "key": "provincia adelantaria pago haberes docentes",
-      "title": "Provincia adelantaría el pago de haberes a docentes",
+      "key": "detienen joven acusado vender cocaina casa delivery",
+      "title": "Detienen a un joven acusado de vender cocaína en su casa y por delivery",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-10-30T20:30:00.518275+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/7c118ab2b60db191adad1c80d2b36992d201a5d7.jpg",
+      "first_seen": "2026-10-30T21:00:01.244315+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/2f94552ada55988c8cb2e603637042264706eb60.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Provincia adelantaría el pago de haberes a docentes",
-          "url": "https://necocheadigital.com/nota/120048/provincia-adelantaria-el-pago-de-haberes-a-docentes/",
+          "title": "Detienen a un joven acusado de vender cocaína en su casa y por delivery",
+          "url": "https://necocheadigital.com/nota/120062/detienen-a-un-joven-acusado-de-vender-cocaina-en-su-casa-y-por-delivery/",
           "published_at": null,
-          "first_seen": "2026-10-30T20:30:00.518275+00:00",
+          "first_seen": "2026-10-30T21:00:01.244315+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "La combinación de festivos financieros y eventos institucionales extraordinarios ha generado un complejo rompecabezas para los docentes de la provincia de Buenos Aires. En un contexto económico exigente y atravesado por el endeudamiento de las familias, el calendario de pagos de noviembre pone a prueba la administración pública: de no modificarse el cronograma habitual, los docentes podrían cobrar sus haberes recién a mediados de mes. El dilema radica en la acumulación de días no laborables durante la primera quincena.",
-          "Tradicionalmente, el cuerpo docente percibe sus ingresos el quinto día hábil del mes. Sin embargo, en esta ocasión, dicha fecha coincide con el Día del Empleado Bancario, lo que suspende la actividad en las entidades financieras y da paso inmediato al fin de semana."
+          "Un operativo realizado por la Delegación de Investigaciones del Tráfico de Drogas Ilícitas derivó en la captura de un hombre de 29 años acusado de regentear un puesto de venta de cocaína y comercializar bajo la modalidad de reparto a domicilio. La medida judicial fue ordenada por el Juzgado de Garantías N° 1, a cargo de Nicolás Lamberti, tras avalar el material probatorio reunido en las inmediaciones de calles 569 y 588.",
+          "La causa se inició en junio pasado a partir de un aviso anónimo recibido en la línea de emergencias 911, en el cual se advertía sobre el flujo constante de personas y movimientos sospechosos a distintas horas del día. A partir de esa alerta, la Unidad Funcional de Instrucción N° 30, encabezada por el fiscal Carlos Larrarte, encomendó una serie de tareas de inteligencia y seguimientos encubiertos a los efectivos policiales."
         ],
-        "generated": "2026-10-30T20:33:10.988517+00:00"
+        "generated": "2026-10-30T21:02:38.803184+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-30T20:30:00.518275+00:00"
+      "ultima_impresion": "2026-10-30T21:00:01.244315+00:00"
     },
     {
-      "key": "seleccion u17 basquet debuta jueves mar plata provincial",
-      "title": "La Selección U17 de básquet debuta este jueves ante Mar del Plata en el Provincial",
+      "key": "chocaron camioneta huyeron pie abandonaron dos motos robadas",
+      "title": "Chocaron contra una camioneta, huyeron a pie y abandonaron dos motos robadas",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-10-30T20:30:00.518275+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261029111741_whatsapp-image-2026-10-29-at-11-17-25.jpg",
+      "first_seen": "2026-10-30T21:00:01.244315+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/02bac8c59c4a08101ea00247912e03b0da782bd8.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "La Selección U17 de básquet debuta este jueves ante Mar del Plata en el Provincial",
-          "url": "https://necocheadigital.com/nota/120047/la-seleccion-u17-de-basquet-debuta-este-jueves-ante-mar-del-plata-en-el-provincial/",
+          "title": "Chocaron contra una camioneta, huyeron a pie y abandonaron dos motos robadas",
+          "url": "https://necocheadigital.com/nota/120063/chocaron-contra-una-camioneta-huyeron-a-pie-y-abandonaron-dos-motos-robadas/",
           "published_at": null,
-          "first_seen": "2026-10-30T20:30:00.518275+00:00",
+          "first_seen": "2026-10-30T21:00:01.244315+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "El combinado masculino de la Asociación de Básquetbol de Necochea (ABN) dará comienzo hoy a su camino en el Campeonato Provincial de Selecciones U17 en la ciudad de Mar del Plata. La delegación afronta esta instancia clasificatoria luego de un extenso esfuerzo organizativo llevado adelante por las familias para garantizar el traslado del plantel que conquistó el pasaje en la cancha.",
-          "La competencia oficial organizada por la Federación Bonaerense reúne a las seis mejores selecciones de la provincia distribuidas en dos zonas. En la Zona Sur, los dirigidos por Mauro Mazzucchelli se medirán ante Mar del Plata y Bahía Blanca, mientras que la Zona Norte estará integrada por La Plata, Pergamino y Junín."
+          "El siniestro vial movilizó al personal policial hacia el cruce de las calles 531 y 554 tras el llamado de los vecinos. Al llegar al lugar, los efectivos encontraron una camioneta Ford Ranger con daños visibles y dos motocicletas abandonadas sobre el trazado urbano, sin rastros de los ocupantes que circulaban en ellas. Ante la fuga de los involucrados, los uniformados procedieron a verificar los números de cuadro y motor de ambos vehículos a través del sistema informático de la fuerza.",
+          "El relevamiento confirmó que los dos rodados presentaban requerimientos judiciales vigentes dictados por causas de robo en distintas jurisdicciones. Uno de los vehículos secuestrados es una Honda Wave que registraba pedido de captura solicitado por una fiscalía de Mar del Plata."
         ],
-        "generated": "2026-10-30T20:33:11.678619+00:00"
+        "generated": "2026-10-30T21:02:39.941662+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-10-30T20:30:00.518275+00:00"
+      "ultima_impresion": "2026-10-30T21:00:01.244315+00:00"
+    },
+    {
+      "key": "franco colapinto prepara gran premio mexico no correra primera practica",
+      "title": "Franco Colapinto se prepara para el Gran Premio de México: no correrá la primera practica",
+      "score": 0.443,
+      "sources_count": 1,
+      "first_seen": "2026-10-30T11:14:36+00:00",
+      "image": null,
+      "articles": [
+        {
+          "portal": "Necochea News",
+          "title": "Franco Colapinto se prepara para el Gran Premio de México: no correrá la primera practica",
+          "url": "https://necocheanews.com.ar/franco-colapinto-30-octubre-sin-fp1-apunta-a-puntos-en-el-gran-premio-de-mexico/",
+          "published_at": "2026-10-30T11:14:36+00:00",
+          "first_seen": "2026-10-30T20:30:00.518275+00:00",
+          "category": "DEPORTES",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El piloto argentino no participará en la primera práctica libre del GP de México, que será ocupada por el italiano Gabriele Mini, y espera revertir una serie de resultados adversos para volver a sumar en el campeonato. Franco Colapinto llega al Autódromo Hermanos Rodríguez sin correr la FP1, cumpliendo con la normativa de Fórmula 1 que obliga a los equipos a ofrecer tiempo a pilotos novatos durante los entrenamientos. El puesto quedará en manos de Gabriele Mini, quien tomará el volante en la sesión de 15:30 hrs del viernes 30 de octubre.",
+          "La primera salida de Colapinto será en la segunda práctica libre, programada para las 19:00 hrs del mismo día. El argentino destacó las particularidades del trazado mexicano, situado a más de 2 200 metros sobre el nivel del mar. “Hay que ver cómo anda el auto en altura; el coche genera más carga aerodinámica, la refrigeración es más complicada y el aire es más fino”, explicó Colapinto."
+        ],
+        "generated": "2026-10-30T21:05:08.237436+00:00"
+      },
+      "apariciones": 2,
+      "ultima_impresion": "2026-10-30T21:00:01.244315+00:00",
+      "penalizacion": 1.0
+    },
+    {
+      "key": "quequen tendra esperada fiesta aniversario noviembre",
+      "title": "Ya está la grilla de espectaculos para la fiesta por el aniversario de Quequén",
+      "score": 0.422,
+      "sources_count": 2,
+      "first_seen": "2026-10-30T19:30:24+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/aniversario_quequen_3.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Ya está la grilla de espectaculos para la fiesta por el aniversario de Quequén",
+          "url": "https://tsnnecochea.com.ar/espectaculos/ya-esta-la-grilla-de-espectaculos-para-la-fiesta-por-el-ankversario-de-quequen-241081/",
+          "published_at": "2026-10-30T19:30:24+00:00",
+          "first_seen": "2026-10-30T19:30:00.851336+00:00",
+          "category": "aniversario",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/aniversario_quequen_3.webp"
+        },
+        {
+          "portal": "Necochea Digital",
+          "title": "Quequén tendrá su esperada fiesta de aniversario el 7 y 8 de noviembre",
+          "url": "https://necocheadigital.com/nota/120050/quequen-tendra-su-esperada-fiesta-de-aniversario-el-7-y-8-de-noviembre/",
+          "published_at": null,
+          "first_seen": "2026-10-30T21:00:01.244315+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Espectáculos | aniversario | 172 Aniversario Ya está la grilla de espectaculos para la fiesta por el aniversario de Quequén Festejos serán en la plaza Hipólito Yrigoyen. Serán el 7 y 8 de noviembre Por Redacción TSN 30/10/2026 · 04:30 PM Agregar TSN Necochea en Tras haber quedado postergados en el pasado mes de agosto, los festejos populares por el 172° Aniversario de Quequén finalmente se llevarán adelante el fin de semana del 7 y 8 de noviembre en la tradicional Plaza Hipólito Yrigoyen , con cronograma artístico ya confirmado.",
+          "Gracias a la firme decisión de la gestión municipal que encabeza el intendente Arturo Rojas, de promover encuentros populares que tanto se esperan en la comunidad y que se disfrutan en familia y entre todos los vecinos, el corazón de Quequén se vestirá de fiesta con una amplia propuesta cultural, recreativa y comercial para el disfrute de grandes y chicos."
+        ],
+        "generated": "2026-10-30T21:00:56.120213+00:00"
+      },
+      "apariciones": 5,
+      "ultima_impresion": "2026-10-30T21:00:01.244315+00:00",
+      "penalizacion": 0.166
     },
     {
       "key": "acuerdo salarial continua paro colectivos necochea quequen tiempo indeterminado",
       "title": "Se levantó el paro de colectivos en Necochea y Quequén: hubo acuerdo salarial y se reanuda el servicio",
-      "score": 0.654,
+      "score": 0.345,
       "sources_count": 3,
       "first_seen": "2026-10-30T17:44:00+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/02/99d20413-2e99-466c-8838-a91c7a58e370.jpg",
@@ -198,16 +294,16 @@
           "TSN Necochea | ‹ VOLVER | Locales | acuerdo | Servicios Se levantó el paro de colectivos en Necochea y Quequén: hubo acuerdo salarial y se reanuda el servicio El acuerdo llegó tras una reunión en la delegación local del Ministerio de Trabajo Por Redacción TSN 30/10/2026 · 03:14 PM Agregar TSN Necochea en El paro de colectivos en Necochea y Quequén llegó a su fin este viernes 30 de octubre, luego de que los trabajadores y la empresa Transporte Necochea alcanzaran un acuerdo para destrabar el conflicto salarial. De esta manera, el servicio de transporte público volverá a funcionar desde las 16 de hoy, después de varios días de interrupción.",
           "El entendimiento se alcanzó en la delegación local del Ministerio de Trabajo e incluye el pago del 10% restante del salario de septiembre, una suma no remunerativa de $60.000 y el 25% pendiente del aguinaldo."
         ],
-        "generated": "2026-10-30T20:30:51.335400+00:00"
+        "generated": "2026-10-30T21:00:54.311371+00:00"
       },
-      "apariciones": 5,
-      "ultima_impresion": "2026-10-30T20:30:00.518275+00:00",
-      "penalizacion": 0.166
+      "apariciones": 6,
+      "ultima_impresion": "2026-10-30T21:00:01.244315+00:00",
+      "penalizacion": 0.092
     },
     {
       "key": "ayelen fernandez impulda campana solidaria ayudar joven deportista mar plata",
       "title": "Ayelén Fernández impulsa una campaña solidaria para ayudar a un jóven deportista de Mar del Plata",
-      "score": 0.506,
+      "score": 0.267,
       "sources_count": 1,
       "first_seen": "2026-10-30T19:29:37+00:00",
       "image": null,
@@ -227,16 +323,16 @@
           "La atleta necochense lanzó una rifa solidaria con el objetivo de comprarle zapatillas e indumentaria deportiva a Alex, un adolescente de Mar del Plata al que conoció mientras entrenaba. Además, contó cómo continúa su preparación deportiva y adelantó sus próximos desafíos, con la participación en Patagonia Run como uno de sus grandes objetivos para abril de 2027. Ayelén Fernández volvió a pasar por Zoom El Deportivo, aunque esta vez el motivo principal no estuvo relacionado con sus competencias, sino con una iniciativa solidaria que busca sumar voluntades y ayudar a un joven deportista de Mar del Plata.",
           "La historia comenzó de manera espontánea, durante uno de sus entrenamientos en la pista de atletismo Juan Justo Román. Allí, Ayelén observó a un grupo de chicos que entrenaba a un costado y que comenzó a seguir con atención sus pasadas."
         ],
-        "generated": "2026-10-30T20:33:15.132617+00:00"
+        "generated": "2026-10-30T21:03:20.021345+00:00"
       },
-      "apariciones": 3,
-      "ultima_impresion": "2026-10-30T20:30:00.518275+00:00",
-      "penalizacion": 0.55
+      "apariciones": 4,
+      "ultima_impresion": "2026-10-30T21:00:01.244315+00:00",
+      "penalizacion": 0.303
     },
     {
       "key": "pileta club huracan busca renovar andariveles apoyo comunidad",
       "title": "La pileta del club Huracán busca renovar sus andariveles con el apoyo de la comunidad",
-      "score": 0.501,
+      "score": 0.265,
       "sources_count": 1,
       "first_seen": "2026-10-30T19:23:57+00:00",
       "image": "https://diarionq.com.ar/wp-content/uploads/2026/10/b4560077-c419-4eca-ac72-bcb3bb36f796.jpg",
@@ -256,16 +352,16 @@
           "La subcomisión de padres de natación impulsa una campaña solidaria para reemplazar los andariveles del natatorio, que tienen alrededor de 15 años de antigüedad. A través de un bono contribución, buscan reunir los fondos necesarios para concretar la renovación de cara al 2027. Además, durante la entrevista en Zoom El Deportivo, profesores y nadadoras contaron cómo trabajan y los desafíos deportivos que tienen por delante.",
           "La natación del Club Huracán continúa creciendo y sumando nuevos deportistas, con un importante movimiento diario en su natatorio. En ese contexto, la subcomisión de padres puso en marcha una iniciativa para renovar los andariveles de la pileta, un elemento fundamental tanto para el entrenamiento de los nadadores como para la seguridad de todos los usuarios."
         ],
-        "generated": "2026-10-30T20:33:17.104995+00:00"
+        "generated": "2026-10-30T21:03:22.166610+00:00"
       },
-      "apariciones": 3,
-      "ultima_impresion": "2026-10-30T20:30:00.518275+00:00",
-      "penalizacion": 0.55
+      "apariciones": 4,
+      "ultima_impresion": "2026-10-30T21:00:01.244315+00:00",
+      "penalizacion": 0.303
     },
     {
       "key": "mauro gutierrez liga necochense cumplir sueno jugar boca",
       "title": "Mauro Gutiérrez, de la Liga Necochense a cumplir el sueño de jugar contra Boca",
-      "score": 0.493,
+      "score": 0.26,
       "sources_count": 1,
       "first_seen": "2026-10-30T19:10:34+00:00",
       "image": null,
@@ -285,74 +381,16 @@
           "El futbolista necochense atraviesa un gran presente en Gimnasia de Chivilcoy, donde lleva casi dos años de carrera profesional. Tras disputar la Copa Argentina frente a Boca Juniors, el mediocampista ya piensa en nuevos desafíos: el equipo está en los octavos de final del Torneo Federal y tiene asegurada su clasificación a la próxima edición de la Copa Argentina. Mauro Gutiérrez atraviesa uno de los momentos más importantes de su carrera futbolística.",
           "Luego de dar sus primeros pasos en el fútbol de la Liga Necochea, el jugador encontró en Gimnasia de Chivilcoy la oportunidad de dar el salto al profesionalismo y hoy disfruta de una experiencia que siempre soñó. En diálogo telefónico con La Masia, el mediocampista expresó su felicidad por el presente que está viviendo: “Estoy muy contento, haciendo lo que me gusta. Ya casi dos años que estoy acá en Chivilcoy, jugando en Gimnasia."
         ],
-        "generated": "2026-10-30T20:33:19.306098+00:00"
-      },
-      "apariciones": 3,
-      "ultima_impresion": "2026-10-30T20:30:00.518275+00:00",
-      "penalizacion": 0.55
-    },
-    {
-      "key": "franco colapinto prepara gran premio mexico no correra primera practica",
-      "title": "Franco Colapinto se prepara para el Gran Premio de México: no correrá la primera practica",
-      "score": 0.462,
-      "sources_count": 1,
-      "first_seen": "2026-10-30T11:14:36+00:00",
-      "image": null,
-      "articles": [
-        {
-          "portal": "Necochea News",
-          "title": "Franco Colapinto se prepara para el Gran Premio de México: no correrá la primera practica",
-          "url": "https://necocheanews.com.ar/franco-colapinto-30-octubre-sin-fp1-apunta-a-puntos-en-el-gran-premio-de-mexico/",
-          "published_at": "2026-10-30T11:14:36+00:00",
-          "first_seen": "2026-10-30T20:30:00.518275+00:00",
-          "category": "DEPORTES",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El piloto argentino no participará en la primera práctica libre del GP de México, que será ocupada por el italiano Gabriele Mini, y espera revertir una serie de resultados adversos para volver a sumar en el campeonato. Franco Colapinto llega al Autódromo Hermanos Rodríguez sin correr la FP1, cumpliendo con la normativa de Fórmula 1 que obliga a los equipos a ofrecer tiempo a pilotos novatos durante los entrenamientos. El puesto quedará en manos de Gabriele Mini, quien tomará el volante en la sesión de 15:30 hrs del viernes 30 de octubre.",
-          "La primera salida de Colapinto será en la segunda práctica libre, programada para las 19:00 hrs del mismo día. El argentino destacó las particularidades del trazado mexicano, situado a más de 2 200 metros sobre el nivel del mar. “Hay que ver cómo anda el auto en altura; el coche genera más carga aerodinámica, la refrigeración es más complicada y el aire es más fino”, explicó Colapinto."
-        ],
-        "generated": "2026-10-30T20:35:01.464390+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-10-30T20:30:00.518275+00:00"
-    },
-    {
-      "key": "quequen tendra esperada fiesta aniversario noviembre",
-      "title": "Ya está la grilla de espectaculos para la fiesta por el aniversario de Quequén",
-      "score": 0.334,
-      "sources_count": 1,
-      "first_seen": "2026-10-30T19:30:24+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/aniversario_quequen_3.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Ya está la grilla de espectaculos para la fiesta por el aniversario de Quequén",
-          "url": "https://tsnnecochea.com.ar/espectaculos/ya-esta-la-grilla-de-espectaculos-para-la-fiesta-por-el-ankversario-de-quequen-241081/",
-          "published_at": "2026-10-30T19:30:24+00:00",
-          "first_seen": "2026-10-30T19:30:00.851336+00:00",
-          "category": "aniversario",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/aniversario_quequen_3.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Espectáculos | aniversario | 172 Aniversario Ya está la grilla de espectaculos para la fiesta por el aniversario de Quequén Festejos serán en la plaza Hipólito Yrigoyen. Serán el 7 y 8 de noviembre Por Redacción TSN 30/10/2026 · 04:30 PM Agregar TSN Necochea en Tras haber quedado postergados en el pasado mes de agosto, los festejos populares por el 172° Aniversario de Quequén finalmente se llevarán adelante el fin de semana del 7 y 8 de noviembre en la tradicional Plaza Hipólito Yrigoyen , con cronograma artístico ya confirmado.",
-          "Gracias a la firme decisión de la gestión municipal que encabeza el intendente Arturo Rojas, de promover encuentros populares que tanto se esperan en la comunidad y que se disfrutan en familia y entre todos los vecinos, el corazón de Quequén se vestirá de fiesta con una amplia propuesta cultural, recreativa y comercial para el disfrute de grandes y chicos."
-        ],
-        "generated": "2026-10-30T20:33:08.079904+00:00"
+        "generated": "2026-10-30T21:03:24.376085+00:00"
       },
       "apariciones": 4,
-      "ultima_impresion": "2026-10-30T20:30:00.518275+00:00",
-      "penalizacion": 0.302
+      "ultima_impresion": "2026-10-30T21:00:01.244315+00:00",
+      "penalizacion": 0.303
     },
     {
       "key": "cooperadora hospital ferreyra anunciara nueva donacion pediatria neonatologia",
       "title": "La Cooperadora del Hospital Ferreyra anunciará una nueva donación para Pediatría y Neonatología",
-      "score": 0.194,
+      "score": 0.102,
       "sources_count": 2,
       "first_seen": "2026-10-30T10:44:24+00:00",
       "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/a77d34fe5d9b24f5d4170447e0a91bbe0a3345a4.jpg",
@@ -381,16 +419,16 @@
           "La Asociación Cooperadora del Hospital Municipal Dr. Emilio Ferreyra convocó a los medios de comunicación a una conferencia de prensa para anunciar una nueva donación destinada a fortalecer el equipamiento del centro de salud. El encuentro se realizará este jueves 29 de octubre, a las 10 , en la sede de la entidad, ubicada en calle 56 N.º 2877, entre las avenidas 59 y 57.",
           "Según informó la Cooperadora, la donación fue recibida a través de la Embajada de Japón en Argentina y estará destinada a la adquisición de aparatología para los servicios de Pediatría y Neonatología . Durante la conferencia se brindarán detalles sobre el aporte y el equipamiento que se incorporará para estas dos áreas fundamentales de la atención sanitaria, especialmente en el cuidado de niños y recién nacidos. Desde la Asociación Cooperadora agradecieron a los medios de comunicación por su presencia y difusión de la iniciativa."
         ],
-        "generated": "2026-10-30T20:32:30.126527+00:00"
+        "generated": "2026-10-30T21:02:35.880823+00:00"
       },
-      "apariciones": 5,
-      "ultima_impresion": "2026-10-30T20:30:00.518275+00:00",
-      "penalizacion": 0.166
+      "apariciones": 6,
+      "ultima_impresion": "2026-10-30T21:00:01.244315+00:00",
+      "penalizacion": 0.092
     },
     {
       "key": "cybermonday 2026 cuando marcas participan como aprovecharlo",
       "title": "CyberMonday 2026: cuándo es, qué marcas participan y cómo aprovecharlo",
-      "score": 0.168,
+      "score": 0.089,
       "sources_count": 1,
       "first_seen": "2026-10-30T18:27:44+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2024/11/CyberMonday12.jpg",
@@ -410,16 +448,16 @@
           "TSN Necochea | ‹ VOLVER | Generales | Cybermonday | Promociones y descuentos CyberMonday 2026: cuándo es, qué marcas participan y cómo aprovecharlo Del 2 al 4 de noviembre, casi 800 empresas de todo el país se harán presentes en la fecha clave del comercio electrónico nacional. Por Redacción TSN 30/10/2026 · 03:27 PM Descuentos y financiación impulsan ventas récord en el último día del Cyber Monday Agregar TSN Necochea en En el marco de la previa al próximo CyberMonday , que se realizará entre el 2 y el 4 de noviembre , la Cámara Argentina de Comercio Electrónico (CACE) compartió información relevante sobre esta fecha, una nueva oportunidad para el consumo digital y las ventas de los comercios de todo el país.",
           "La iniciativa se desarrolla en un contexto en el que el comercio electrónico es una herramienta y una alternativa de ahorro."
         ],
-        "generated": "2026-10-30T20:33:12.906879+00:00"
+        "generated": "2026-10-30T21:03:17.732843+00:00"
       },
-      "apariciones": 5,
-      "ultima_impresion": "2026-10-30T20:30:00.518275+00:00",
-      "penalizacion": 0.166
+      "apariciones": 6,
+      "ultima_impresion": "2026-10-30T21:00:01.244315+00:00",
+      "penalizacion": 0.092
     },
     {
       "key": "orgullo loberense municipio distinguio estudiantes premiados conicet",
       "title": "Orgullo loberense: el municipio distinguió a los estudiantes premiados por el CONICET",
-      "score": 0.134,
+      "score": 0.071,
       "sources_count": 1,
       "first_seen": "2026-10-30T15:44:40+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/Recibimiento-alumnos-1.webp",
@@ -439,16 +477,16 @@
           "TSN Necochea | ‹ VOLVER | Educación | Conicet | Mención Especial Orgullo loberense: el municipio distinguió a los estudiantes premiados por el CONICET El intendente Pablo Barrena recibió a la delegación del Instituto Calasancio Divina Pastora, único colegio bonaerense premiado en el Concurso Nacional de Crecimiento de Cristales. El municipio les otorgó un subsidio para viajar a Río Cuarto a exponer su investigación.",
           "Por Redacción TSN 30/10/2026 · 12:44 PM Agregar TSN Necochea en El Intendente Pablo Barrena , junto al Director de Juventud y Educación Juan Hardoy , recibieron a estudiantes, docentes e integrantes del Equipo Directivo del Instituto Calasancio Divina Pastora con el fin de entregar un reconocimiento por su labor pedagógica, su compromiso y el impulso vocacional demostrado en el ámbito científico."
         ],
-        "generated": "2026-10-30T20:33:43.229153+00:00"
+        "generated": "2026-10-30T21:03:51.079615+00:00"
       },
-      "apariciones": 5,
-      "ultima_impresion": "2026-10-30T20:30:00.518275+00:00",
-      "penalizacion": 0.166
+      "apariciones": 6,
+      "ultima_impresion": "2026-10-30T21:00:01.244315+00:00",
+      "penalizacion": 0.092
     },
     {
       "key": "allanamiento secuestro camioneta aprehendido robo mano armada",
       "title": "Allanamiento, secuestro de una camioneta y un aprehendido por robo a mano armada",
-      "score": 0.124,
+      "score": 0.066,
       "sources_count": 1,
       "first_seen": "2026-10-30T14:49:08+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/IMG-20261030-WA0031.webp",
@@ -468,45 +506,16 @@
           "TSN Necochea | ‹ VOLVER | Locales | allanamiento | Golpe al delito Allanamiento, secuestro de una camioneta y un aprehendido por robo a mano armada La investigación se inició tras un hecho ocurrido el 22 de octubre en Quequén, Por Redacción TSN 30/10/2026 · 11:49 AM Agregar TSN Necochea en En el marco de una investigación por un robo agravado por el uso de arma de fuego, personal del Gabinete Técnico Operativo de la Comisaría Segunda de Necochea llevó adelante un allanamiento con resultado altamente positivo, que culminó con el secuestro de elementos sustraídos, una camioneta y la aprehensión de un hombre de 31 años. La investigación se inició tras un hecho ocurrido el 22 de octubre en Quequén, cuando un hombre fue sorprendido en su vivienda por dos sujetos.",
           "Uno de ellos lo habría amenazado con un arma de fuego, para luego sustraer diversos elementos y darse a la fuga."
         ],
-        "generated": "2026-10-30T20:33:44.254100+00:00"
+        "generated": "2026-10-30T21:03:52.158743+00:00"
       },
-      "apariciones": 5,
-      "ultima_impresion": "2026-10-30T20:30:00.518275+00:00",
-      "penalizacion": 0.166
-    },
-    {
-      "key": "continua paro colectivos empresa no deja trabajadores entrar predio",
-      "title": "Continúa el paro del colectivos: la empresa no deja a los trabajadores entrar al predio",
-      "score": 0.122,
-      "sources_count": 1,
-      "first_seen": "2026-10-30T14:38:08+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/IMG_20261030_112554.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Continúa el paro del colectivos: la empresa no deja a los trabajadores entrar al predio",
-          "url": "https://tsnnecochea.com.ar/generales/continua-el-paro-del-colectivos-la-empresa-no-deja-a-los-trabajadores-entrar-al-predio-241054/",
-          "published_at": "2026-10-30T14:38:08+00:00",
-          "first_seen": "2026-10-30T18:49:30.092049+00:00",
-          "category": "colectivos",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/10/IMG_20261030_112554.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Generales | colectivos | Transporte Continúa el paro del colectivos: la empresa no deja a los trabajadores entrar al predio Desde el comienzo de la jornada prendieron fuego cubiertas. Se dilata la solución Por Redacción TSN 30/10/2026 · 11:38 AM Agregar TSN Necochea en En el inicio de esta jornada los trabajadores del servicio de transporte público de pasajeros decidieron prender gomas en la entrada de la empresa ubicada en calle 83 y 94.",
-          "Esto se debe a que los responsables de la compañía de transporte de necochea no les permitieron el paso a su lugar de trabajo Asimismo es válido indicar que sigue sin haber acuerdo y se mantiene el paro de colectivos por tiempo indeterminado Hasta el momento las diferencias económicas son insalvables en el conflicto del transporte público de pasajeros."
-        ],
-        "generated": "2026-10-30T20:33:45.397695+00:00"
-      },
-      "apariciones": 5,
-      "ultima_impresion": "2026-10-30T20:30:00.518275+00:00",
-      "penalizacion": 0.166
+      "apariciones": 6,
+      "ultima_impresion": "2026-10-30T21:00:01.244315+00:00",
+      "penalizacion": 0.092
     },
     {
       "key": "gobierno confirmo nuevos aumentos tarifas luz gas noviembre cuanto subiran quienes mantienen descuentos",
       "title": "El Gobierno confirmó nuevos aumentos en las tarifas de luz y gas para noviembre: cuánto subirán y quiénes mantienen los descuentos",
-      "score": 0.099,
+      "score": 0.052,
       "sources_count": 1,
       "first_seen": "2026-10-30T14:14:23+00:00",
       "image": null,
@@ -526,16 +535,16 @@
           "El Gobierno nacional oficializó una nueva actualización de las tarifas de los servicios energéticos que comenzará a regir el domingo 1° de noviembre. La electricidad aumentará un 3,57% en el Área Metropolitana de Buenos Aires (AMBA), mientras que el gas natural tendrá una suba promedio del 2,17% a nivel nacional. Además, se mantendrán bonificaciones adicionales para los hogares incluidos en el régimen de subsidios energéticos.",
           "El Gobierno nacional confirmó nuevos aumentos en las tarifas de electricidad y gas natural que entrarán en vigencia a partir del domingo 1° de noviembre de 2026, en el marco de la actualización de los valores de los servicios públicos y la continuidad del esquema de subsidios focalizados. La medida fue oficializada mediante resoluciones publicadas este viernes 30 de octubre en el Boletín Oficial y establece incrementos que impactarán en las próximas facturas de los usuarios residenciales."
         ],
-        "generated": "2026-10-30T20:33:47.412326+00:00"
+        "generated": "2026-10-30T21:03:54.408375+00:00"
       },
-      "apariciones": 5,
-      "ultima_impresion": "2026-10-30T20:30:00.518275+00:00",
-      "penalizacion": 0.166
+      "apariciones": 6,
+      "ultima_impresion": "2026-10-30T21:00:01.244315+00:00",
+      "penalizacion": 0.092
     },
     {
       "key": "canitas lanzo nueva edicion summer futbol masculino femenino actividad todo enero",
       "title": "Las Cañitas lanzó una nueva edición del Summer con fútbol masculino, femenino y actividad durante todo enero",
-      "score": 0.096,
+      "score": 0.051,
       "sources_count": 1,
       "first_seen": "2026-10-30T13:51:53+00:00",
       "image": null,
@@ -555,16 +564,16 @@
           "El complejo deportivo ya abrió las inscripciones para su tradicional torneo de verano, que comenzará el 28 de diciembre. Habrá categorías masculinas, femeninas y se analiza sumar Sub 15 y Sub 17. Diego y Jimena destacaron además el crecimiento que tuvo el espacio a punto de cumplir dos años.",
           "Charlando con Fede Cañadas en “Esta Mañana”, por NEC Radio 98.3 del Multimedio NQ, Diego Bertone y Jimena Quevedo, responsables del complejo Las Cañitas , anunciaron la apertura de inscripciones para una nueva edición del Summer , el torneo que se desarrollará desde el 28 de diciembre y durante todo enero . La propuesta vuelve con distintas categorías, partidos distribuidos durante prácticamente toda la semana y una modalidad que combina fútbol, encuentro social y el ya característico after que acompaña las jornadas."
         ],
-        "generated": "2026-10-30T20:33:49.585265+00:00"
+        "generated": "2026-10-30T21:03:56.647112+00:00"
       },
-      "apariciones": 5,
-      "ultima_impresion": "2026-10-30T20:30:00.518275+00:00",
-      "penalizacion": 0.166
+      "apariciones": 6,
+      "ultima_impresion": "2026-10-30T21:00:01.244315+00:00",
+      "penalizacion": 0.092
     },
     {
       "key": "titulo fecha 15 torneo clausura 2026 huracan tigre racing aldosivi duelos decisivos",
       "title": "Título: Fecha 15 del Torneo Clausura 2026: Huracán‑Tigre y Racing‑Aldosivi entre los duelos decisivos",
-      "score": 0.049,
+      "score": 0.026,
       "sources_count": 1,
       "first_seen": "2026-10-30T13:02:43+00:00",
       "image": null,
@@ -584,16 +593,16 @@
           "Bajada: Este viernes 30 de octubre se jugarán cuatro partidos que pueden definir la clasificación a los octavos de final y la permanencia de dos equipos en la Primera División. Programación de la jornada La fecha 15 de la fase regular del Torneo Clausura 2026 se disputará a partir de las 19:00 con dos encuentros simultáneos y, a las 21:15, los otros dos. Los partidos serán transmitidos por ESPN Premium (Huracán‑Tigre y Racing‑Aldosivi) y TNT Sports (Estudiantes de Río Cuarto‑Gimnasia y Sarmiento‑Rosario Central).",
           "Huracán vs Tigre – 19:00 (Estadio Tomás Adolfo Ducó, Parque Patricios) Árbitro: Leandro Rey Hilfer, VAR: Juan Pafundi. Huracán llega a la cita con 19 puntos, ocupando el octavo puesto de la Zona B, último que garantiza el pase a los octavos de final. El equipo dirigido por Diego Martínez busca revertir la derrota 2‑0 ante Rosario Central y sumar tres puntos ante Tigre."
         ],
-        "generated": "2026-10-30T20:34:13.010298+00:00"
+        "generated": "2026-10-30T21:04:19.951746+00:00"
       },
-      "apariciones": 6,
-      "ultima_impresion": "2026-10-30T20:30:00.518275+00:00",
-      "penalizacion": 0.091
+      "apariciones": 7,
+      "ultima_impresion": "2026-10-30T21:00:01.244315+00:00",
+      "penalizacion": 0.05
     },
     {
       "key": "provincia habilito cooperativas electricas generar energia renovable acceder financiamiento",
       "title": "La Provincia habilitó a las cooperativas eléctricas a generar energía renovable y acceder a financiamiento",
-      "score": 0.049,
+      "score": 0.026,
       "sources_count": 1,
       "first_seen": "2026-10-30T12:55:03+00:00",
       "image": null,
@@ -613,11 +622,11 @@
           "El Gobierno de la provincia de Buenos Aires oficializó una modificación del marco regulatorio eléctrico que permitirá a las cooperativas y sociedades de economía mixta producir energía a partir de fuentes renovables. La nueva legislación incorpora la figura del autogenerador comunitario, contempla créditos especiales del Banco Provincia y abre nuevas posibilidades para las distribuidoras cooperativas, como la Usina Popular Cooperativa de Necochea.",
           "La provincia de Buenos Aires dio un paso en materia de transición energética al habilitar a las cooperativas eléctricas y sociedades de economía mixta con concesiones municipales a generar electricidad mediante fuentes renovables, con el objetivo de abastecer total o parcialmente a sus asociados y usuarios."
         ],
-        "generated": "2026-10-30T20:34:15.249681+00:00"
+        "generated": "2026-10-30T21:04:22.157627+00:00"
       },
-      "apariciones": 6,
-      "ultima_impresion": "2026-10-30T20:30:00.518275+00:00",
-      "penalizacion": 0.091
+      "apariciones": 7,
+      "ultima_impresion": "2026-10-30T21:00:01.244315+00:00",
+      "penalizacion": 0.05
     }
   ]
 }
