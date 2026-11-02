@@ -1,12 +1,79 @@
 {
-  "generated_at": "2026-11-02T12:30:01.296531+00:00",
+  "generated_at": "2026-11-02T13:00:00.874709+00:00",
   "article_count": 135,
   "fetch_errors": [],
   "stories": [
     {
+      "key": "asalto mano armada mercado quequen llevaron millon pesos",
+      "title": "Asalto a mano armada en un mercado de Quequén: se llevaron un millón de pesos",
+      "score": 2.71,
+      "sources_count": 2,
+      "first_seen": "2026-11-02T12:49:32+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/07/Policia-Mar-del-Plata-123.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Asalto a mano armada en un mercado de Quequén: se llevaron un millón de pesos",
+          "url": "https://tsnnecochea.com.ar/locales/asalto-a-mano-armada-en-un-mercado-de-quequen-se-llevaron-un-millon-de-pesos-241289/",
+          "published_at": "2026-11-02T12:57:33+00:00",
+          "first_seen": "2026-11-02T13:00:00.874709+00:00",
+          "category": "asalto",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/07/Policia-Mar-del-Plata-123.webp"
+        },
+        {
+          "portal": "Diario NQ",
+          "title": "Asalto a mano armada en Quequén: amenazaron a una empleada y se llevaron un millón de pesos",
+          "url": "https://diarionq.com.ar/asalto-a-mano-armada-en-quequen-amenazaron-a-una-empleada-y-se-llevaron-un-millon-de-pesos/",
+          "published_at": "2026-11-02T12:49:32+00:00",
+          "first_seen": "2026-11-02T13:00:00.874709+00:00",
+          "category": "Destacadas",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Locales | asalto | Investigan Asalto a mano armada en un mercado de Quequén: se llevaron un millón de pesos El malviviente amenazó a la empleada con un arma de fuego, para después llevarse el botín Por Redacción TSN 02/11/2026 · 09:57 AM Agregar TSN Necochea en Asaltaron un mercado en Quequén. Los ladrones se llevaron un millón de pesos. El hecho ocurrió ayer, alrededor de las 21 hrs , en un mercado , ubicado en calle 584 bis N.º 1500, de Quequén. Un joven ingresó al comercio con el rostro cubierto y guantes, Según se informó, amenazó a la empleada con un arma de fuego , y escapó con aproximadamente un millón de pesos y un teléfono celular.",
+          "La víctima, de 54 años, no sufrió lesiones. El celular fue recuperado posteriormente por la propia damnificada, tras localizarlo en un terreno baldío de la zona de calles 531 y 570. Interviene la UFI N.º 30, a cargo del Dr."
+        ],
+        "generated": "2026-11-02T13:01:20.430824+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-02T13:00:00.874709+00:00"
+    },
+    {
+      "key": "joven conductor moto sufrio lesiones hospitalizado accidente 44 55",
+      "title": "Un joven conductor de moto sufrió lesiones y fue hospitalizado tras un accidente en 44 y 55",
+      "score": 1.157,
+      "sources_count": 1,
+      "first_seen": "2026-11-02T12:33:33+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/Foto-accidente-44-y-55.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Un joven conductor de moto sufrió lesiones y fue hospitalizado tras un accidente en 44 y 55",
+          "url": "https://tsnnecochea.com.ar/generales/un-joven-conductor-de-moto-sufrio-lesiones-y-fue-hospitalizado-tras-un-accidente-en-44-y-55-241285/",
+          "published_at": "2026-11-02T12:33:33+00:00",
+          "first_seen": "2026-11-02T13:00:00.874709+00:00",
+          "category": "accidente",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/Foto-accidente-44-y-55.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Generales | accidente | Siniestro vial Un joven conductor de moto sufrió lesiones y fue hospitalizado tras un accidente en 44 y 55 Sucedió durante las primeras horas de este lunes. Por Redacción TSN 02/11/2026 · 09:33 AM Agregar TSN Necochea en Alrededor de las 6 de la mañana de este lunes, sucedió un choque entre una camioneta y una moto en la intersección de las calles 44 y 55.",
+          "Se tomó la novedad desde la base operativa de Defensa Civil y a partir de ahí se desplegó de inmediato un móvil, según comunicaron desde la dependencia municipal. El joven conductor del motovehículo sufrió lesiones tras el impacto por lo que recibió una rápida respuesta de los agentes de la Dirección General de Defensa Civil que le realizaron las maniobras de primeros auxilios hasta la llegada de la ambulancia, que procedió a su traslado al hospital."
+        ],
+        "generated": "2026-11-02T13:01:39.831667+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-02T13:00:00.874709+00:00"
+    },
+    {
       "key": "brisa solidaria encabezo jornada puesta valor jardin infantes 913 quequen",
       "title": "Brisa Solidaria encabezó una jornada de puesta en valor en el Jardín de Infantes N.º 913 de Quequén",
-      "score": 1.152,
+      "score": 1.105,
       "sources_count": 1,
       "first_seen": "2026-11-02T12:00:47+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-01-at-23.44.46.webp",
@@ -26,16 +93,219 @@
           "TSN Necochea | ‹ VOLVER | Generales | Brisa solidaria | ONG Brisa Solidaria encabezó una jornada de puesta en valor en el Jardín de Infantes N.º 913 de Quequén El referente Martín Salcedo, junto a la cooperadora, directivos y familias, concretó trabajos de mantenimiento, pintura y reparaciones en el patio. La actividad contó con el apoyo de la Delegación de Quequén y el Corralón Municipal.",
           "Por Redacción TSN 02/11/2026 · 09:00 AM Agregar TSN Necochea en Con el objetivo de mejorar las condiciones edilicias y poner en valor los espacios de juego de los más chicos, la agrupación Brisa Solidaria , conducida por su referente Martín Salcedo , llevó adelante una intensa jornada de trabajo comunitario en las instalaciones del Jardín de Infantes N.º 913 de la localidad de Quequén."
         ],
-        "generated": "2026-11-02T12:31:21.374826+00:00"
+        "generated": "2026-11-02T13:01:40.925826+00:00"
+      },
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-02T13:00:00.874709+00:00",
+      "penalizacion": 1.0
+    },
+    {
+      "key": "bancaria alerta endeudamiento familias perdida puestos trabajo sector",
+      "title": "La Bancaria alerta por el endeudamiento de las familias y la pérdida de puestos de trabajo en el sector",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-02T13:00:00.874709+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261102085836_endeudamiento-familiar-29052026-2249936.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "La Bancaria alerta por el endeudamiento de las familias y la pérdida de puestos de trabajo en el sector",
+          "url": "https://necocheadigital.com/nota/120070/la-bancaria-alerta-por-el-endeudamiento-de-las-familias-y-la-perdida-de-puestos-de-trabajo-en-el-sector/",
+          "published_at": null,
+          "first_seen": "2026-11-02T13:00:00.874709+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "En la antesala de una nueva conmemoración del Día del Bancario, el próximo viernes 6 de noviembre, Demian Ledesma realizó un diagnóstico sobre la situación que atraviesa el sistema financiero argentino y las consecuencias que la crisis económica genera tanto entre los trabajadores del sector como en los usuarios de las entidades. El secretario general de La Bancaria de Necochea e integrante del binomio que conduce la CGT regional fue entrevistado en Voces de la Tarde , el programa que conduce Jorge Gómez por Radio Noticias Necochea.",
+          "Durante la charla, manifestó preocupación por la pérdida de puestos laborales, el endeudamiento de las familias y los cambios en el funcionamiento de la actividad bancaria. Ledesma recordó que el 6 de noviembre no solamente se celebra el Día del Bancario, sino también un nuevo aniversario de la organización sindical, fundada hace 102 años."
+        ],
+        "generated": "2026-11-02T13:01:42.090931+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-02T12:30:01.296531+00:00"
+      "ultima_impresion": "2026-11-02T13:00:00.874709+00:00"
+    },
+    {
+      "key": "necochea recibira maximas autoridades judiciales bonaerenses dos jornadas academicas",
+      "title": "Necochea recibirá a las máximas autoridades judiciales bonaerenses en dos jornadas académicas",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-02T13:00:00.874709+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/7bbbf5b1b60cf01a7427ca48bd013035ed6716b6.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Necochea recibirá a las máximas autoridades judiciales bonaerenses en dos jornadas académicas",
+          "url": "https://necocheadigital.com/nota/120069/necochea-recibira-a-las-maximas-autoridades-judiciales-bonaerenses-en-dos-jornadas-academicas/",
+          "published_at": null,
+          "first_seen": "2026-11-02T13:00:00.874709+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Necochea se prepara para recibir a representantes de los principales organismos judiciales de la provincia de Buenos Aires, en el marco de dos actividades académicas que reunirán a magistrados, abogados y profesionales de distintas disciplinas. La programación fue presentada por el presidente del Colegio de Abogados del Departamento Judicial de Necochea, doctor Víctor Pagani, durante una entrevista en Voces de la Tarde , el programa que conduce Jorge Gómez por Radio Noticias Necochea.",
+          "Los encuentros son organizados conjuntamente por el Colegio de Abogados, el Colegio de Magistrados y Funcionarios del Poder Judicial y el Colegio de Escribanos, con el objetivo de generar espacios de capacitación, intercambio y reflexión sobre temas centrales para la Justicia. Una charla abierta sobre la Megacausa ESMA La primera convocatoria será el jueves 5 de noviembre, a las 18 , en la sede del Colegio de Escribanos, ubicada en calle 65 entre 60 y 62."
+        ],
+        "generated": "2026-11-02T13:01:42.815177+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-02T13:00:00.874709+00:00"
+    },
+    {
+      "key": "gargaglione reconocio fuerte caida inversion municipal paso 20 presupuesto",
+      "title": "Gargaglione reconoció una fuerte caída de la inversión municipal: pasó del 20% del presupuesto al 3%",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-02T13:00:00.874709+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/5dc1944b65d8c3c9dfe0bd9adef4c132db4ba3b8.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Gargaglione reconoció una fuerte caída de la inversión municipal: pasó del 20% del presupuesto al 3%",
+          "url": "https://necocheadigital.com/nota/120068/gargaglione-reconocio-una-fuerte-caida-de-la-inversion-municipal-paso-del-20-del-presupuesto-al-3/",
+          "published_at": null,
+          "first_seen": "2026-11-02T13:00:00.874709+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Durante años, Miguel Gargaglione fue presentado por distintos sectores de la política local como un ejemplo de administración municipal, una referencia de gestión ordenada y de capacidad para sostener los servicios públicos. Sin embargo, el complejo escenario económico que atraviesa el país también golpea las cuentas de San Cayetano y hoy el intendente radical reconoce dificultades para mantener el ritmo de inversiones que caracterizó a su administración. El jefe comunal describió un panorama marcado por la reducción de los recursos disponibles, la caída de la coparticipación y las consecuencias de las políticas económicas del Gobierno nacional sobre la actividad y las finanzas públicas.",
+          "Una situación que obliga a modificar prioridades y concentrar los esfuerzos en garantizar el funcionamiento cotidiano del municipio. Uno de los datos más contundentes que aportó Gargaglione es la evolución de la inversión municipal."
+        ],
+        "generated": "2026-11-02T13:01:43.935071+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-02T13:00:00.874709+00:00"
+    },
+    {
+      "key": "encuesta advierte futuro clase media refleja creciente rechazo modelo milei",
+      "title": "Una encuesta advierte sobre el futuro de la clase media y refleja un creciente rechazo al modelo de Milei",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-02T13:00:00.874709+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20c743f8d33f3a602f5cab35337d4bc4eec3a477.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Una encuesta advierte sobre el futuro de la clase media y refleja un creciente rechazo al modelo de Milei",
+          "url": "https://necocheadigital.com/nota/120067/una-encuesta-advierte-sobre-el-futuro-de-la-clase-media-y-refleja-un-creciente-rechazo-al-modelo-de-milei/",
+          "published_at": null,
+          "first_seen": "2026-11-02T13:00:00.874709+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El escenario político y económico argentino muestra señales de desgaste para el oficialismo, aunque ese malestar todavía no se traduce de manera directa en un crecimiento equivalente de la principal fuerza opositora. Así lo refleja una encuesta realizada por la consultora de Hugo Haime, cuyos resultados muestran un importante rechazo a la continuidad del actual modelo económico. De acuerdo con el estudio, el 64% de los encuestados considera necesario un cambio de modelo , mientras que el 59% cree que, si Javier Milei obtiene la reelección, el país tendrá muchos más pobres y la clase media tenderá a desaparecer.",
+          "El relevamiento también muestra que el 55% prefiere que llegue un gobierno opositor, frente a un 29% que quiere la continuidad de Milei. Otro 12% se inclina por mantener el modelo económico, pero con otro presidente."
+        ],
+        "generated": "2026-11-02T13:01:45.064583+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-02T13:00:00.874709+00:00"
+    },
+    {
+      "key": "nino defensa civil necochea refuerza prevencion posibles tormentas intensas",
+      "title": "El Niño: Defensa Civil de Necochea refuerza la prevención ante posibles tormentas intensas",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-02T13:00:00.874709+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/33eed1b5fb96e68b15c5239f6c26752a528458b9.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "El Niño: Defensa Civil de Necochea refuerza la prevención ante posibles tormentas intensas",
+          "url": "https://necocheadigital.com/nota/120066/el-nino-defensa-civil-de-necochea-refuerza-la-prevencion-ante-posibles-tormentas-intensas/",
+          "published_at": null,
+          "first_seen": "2026-11-02T13:00:00.874709+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Ante la posibilidad de que el fenómeno climático El Niño genere precipitaciones intensas y tormentas de mayor magnitud durante la primavera y el verano, Defensa Civil de Necochea comenzó a reforzar las tareas de planificación y coordinación para responder ante posibles emergencias. El director municipal del área, Augusto Fulton, explicó que se mantienen contactos con distintos organismos y entidades de la región para organizar los recursos disponibles y anticiparse a eventuales complicaciones.",
+          "Durante una entrevista realizada el jueves 29 de octubre en Voces de la Tarde , el programa que conduce Jorge Gómez por Radio Noticias Necochea, el funcionario aclaró que las previsiones tienen sustento científico, aunque remarcó que el objetivo no es generar preocupación, sino preparar a la comunidad. Según indicó, los informes meteorológicos más recientes extienden la posible influencia de El Niño hasta fines de abril o comienzos de mayo."
+        ],
+        "generated": "2026-11-02T13:01:46.139932+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-02T13:00:00.874709+00:00"
+    },
+    {
+      "key": "casino ex balneario aca proyectos recuperacion impulsa toda vela mar",
+      "title": "El Casino y el ex balneario del ACA: los proyectos de recuperación que impulsa A Toda Vela Mar",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-02T13:00:00.874709+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/07a7e10d69e81bc8b8d37146b2f3d2733ec2d675.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "El Casino y el ex balneario del ACA: los proyectos de recuperación que impulsa A Toda Vela Mar",
+          "url": "https://necocheadigital.com/nota/120065/el-casino-y-el-ex-balneario-del-aca-los-proyectos-de-recuperacion-que-impulsa-a-toda-vela-mar/",
+          "published_at": null,
+          "first_seen": "2026-11-02T13:00:00.874709+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La recuperación del Complejo Casino y del ex balneario del Automóvil Club Argentino (ACA) forma parte de los proyectos que A Toda Vela Mar S.A. comenzó a desarrollar en la costa de Necochea. Se trata de dos emprendimientos que requieren importantes inversiones y trabajos de infraestructura, debido al estado de deterioro en el que se encontraban las instalaciones.",
+          "Así lo explicó Oscar Merlo, integrante de la firma, durante una entrevista en Voces de la Tarde , el programa que conduce Jorge Gómez por Radio Noticias Necochea. En la charla, brindó detalles sobre las tareas en marcha, los plazos y las dificultades que enfrenta la empresa para recuperar ambos espacios. Merlo reconoció que el punto de partida representa un desafío importante por los años de falta de mantenimiento y la escasa inversión que recibieron las estructuras."
+        ],
+        "generated": "2026-11-02T13:01:46.852909+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-02T13:00:00.874709+00:00"
+    },
+    {
+      "key": "alerta caracol invasor llego costa atlantica riesgos representa mascotas necochea quequen",
+      "title": "Alerta por un caracol invasor que llegó a la Costa Atlántica: qué riesgos representa para las mascotas de Necochea y Quequén",
+      "score": 0.975,
+      "sources_count": 1,
+      "first_seen": "2026-11-02T12:41:50+00:00",
+      "image": null,
+      "articles": [
+        {
+          "portal": "Diario NQ",
+          "title": "Alerta por un caracol invasor que llegó a la Costa Atlántica: qué riesgos representa para las mascotas de Necochea y Quequén",
+          "url": "https://diarionq.com.ar/alerta-por-un-caracol-invasor-que-llego-a-la-costa-atlantica-que-riesgos-representa-para-las-mascotas-de-necochea-y-quequen/",
+          "published_at": "2026-11-02T12:41:50+00:00",
+          "first_seen": "2026-11-02T13:00:00.874709+00:00",
+          "category": "Interés General",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Se trata del caracol degollado, una especie originaria del sur de Europa y el norte de África que fue detectada en Mar del Plata. Se alimenta de otros caracoles, puede reproducirse sin pareja y, aunque no es venenoso, podría transmitir parásitos a animales domésticos y personas. Especialistas explicaron cómo identificarlo y qué precauciones tomar si aparece en jardines o patios.",
+          "Una especie de caracol invasor comenzó a llamar la atención en Mar del Plata y su presencia representa un tema a tener en cuenta para los vecinos de Necochea y Quequén, especialmente para quienes tienen jardines, plantas y mascotas. Se trata del caracol degollado (Rumina decollata), un molusco terrestre originario del sur de Europa y el norte de África, que fue introducido en distintos lugares del mundo y que en Argentina está considerado una especie exótica invasora."
+        ],
+        "generated": "2026-11-02T13:02:29.242370+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-02T13:00:00.874709+00:00"
     },
     {
       "key": "llega edicion festival regional blues nuestra ciudad",
       "title": "Llega la 4.ª edición del Festival Regional de Blues a nuestra ciudad",
-      "score": 1.104,
+      "score": 0.582,
       "sources_count": 1,
       "first_seen": "2026-11-02T11:30:44+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/20250204092045_bandoleros-foto-promocional-1.webp",
@@ -55,190 +325,16 @@
           "TSN Necochea | ‹ VOLVER | Espectáculos | blues | Cultura Llega la 4.ª edición del Festival Regional de Blues a nuestra ciudad Se presentarán cuatro bandas. Habrá espacio para una muestra de la escuela de este género musical Por Redacción TSN 02/11/2026 · 08:30 AM Agregar TSN Necochea en El próximo sábado 7 de noviembre, en el restaurant de calle 79 N°831, se realizará la cuarta edición del Festival Regional de Blues, que constará de dos partes bien diferenciadas. La primera comenzará a las 17:30, con la habitual muestra de fin de año de los alumnos de la Escuela de Blues de Necochea.",
           "Además, habrá una charla y un número musical a cargo de músicos del colectivo Bahía Blanca Blues. El cierre estará a cargo de The Back Up Band. A partir de las 21:30, llegará la “Noche de Blues”, con las presentaciones de Boogie & Drunk (Bahía Blanca), Romi Burgueño & JP (Necochea), Rui2os (Necochea) y MADD (Necochea)."
         ],
-        "generated": "2026-11-02T12:31:59.223054+00:00"
+        "generated": "2026-11-02T13:02:24.759901+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-11-02T12:30:01.296531+00:00",
-      "penalizacion": 1.0
-    },
-    {
-      "key": "daniel molina cuestiono calidad democracia actual pidio recuperar compromiso social",
-      "title": "Daniel Molina cuestionó la calidad de la democracia actual y pidió recuperar el compromiso social",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-02T12:30:01.296531+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/2376697afe0b3a851761394b23c53b7af079a5bd.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Daniel Molina cuestionó la calidad de la democracia actual y pidió recuperar el compromiso social",
-          "url": "https://necocheadigital.com/nota/120064/daniel-molina-cuestiono-la-calidad-de-la-democracia-actual-y-pidio-recuperar-el-compromiso-social/",
-          "published_at": null,
-          "first_seen": "2026-11-02T12:30:01.296531+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Al cumplirse 43 años de las elecciones que marcaron el retorno de la democracia en la Argentina, el doctor Daniel Molina realizó un balance sobre el camino recorrido desde aquella jornada histórica y planteó una mirada crítica sobre el funcionamiento actual del sistema político. El actual presidente del Comité Emiliano Abásolo de la Unión Cívica Radical de Necochea y ex intendente municipal fue entrevistado en Voces de la Tarde , el programa que conduce Jorge Gómez por Radio Noticias Necochea. Durante la charla, evocó el contexto de 1983, destacó la figura del expresidente Raúl Alfonsín y reflexionó sobre los desafíos que todavía enfrenta la sociedad argentina.",
-          "Molina definió el regreso de la democracia como un momento excepcional, marcado por la recuperación de las libertades y el fin del miedo que había impuesto la última dictadura militar. “En aquel momento fue algo mágico."
-        ],
-        "generated": "2026-11-02T12:32:00.478888+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-02T12:30:01.296531+00:00"
-    },
-    {
-      "key": "levanto paro colectivos vuelven circular",
-      "title": "Se levantó el paro y los colectivos vuelven a circular",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-02T12:30:01.296531+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261030165932_whatsapp-image-2026-10-30-at-16-58-46.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Se levantó el paro y los colectivos vuelven a circular",
-          "url": "https://necocheadigital.com/nota/120059/se-levanto-el-paro-y-los-colectivos-vuelven-a-circular/",
-          "published_at": null,
-          "first_seen": "2026-11-02T12:30:01.296531+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Tras cuatro días de interrupción total en el transporte urbano de pasajeros, los colectivos volvieron a circular este viernes a partir de las 16 horas, luego de que la Unión Tranviarios Automotor (UTA) y la Compañía de Transportes Necochea alcanzaran un acuerdo económico en la delegación local del Ministerio de Trabajo de la Provincia de Buenos Aires. La negociación se destrabó tras una extensa jornada de gestiones que comenzó a las 10 de la mañana e incluyó un cuarto intermedio y una asamblea de trabajadores.",
-          "Del encuentro participaron el gerente de la empresa, Carlos Manzano, la representante Erica Giancarelli y los referentes sindicales Gastón Urrutia, Matías Jordán y Mateo González. Además, estuvieron presentes los funcionarios municipales Paula Faramiñán y Facundo Croci, junto a la delegada de Trabajo, Natalia Steffen."
-        ],
-        "generated": "2026-11-02T12:32:01.681760+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-02T12:30:01.296531+00:00"
-    },
-    {
-      "key": "unicen quequen celebra hoy 30 anos acto teatro usina",
-      "title": "La UNICEN Quequén celebra hoy sus 30 años con un acto en el Teatro de la Usina",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-02T12:30:01.296531+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261030171415_07-11-foto-unicen-quequen.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "La UNICEN Quequén celebra hoy sus 30 años con un acto en el Teatro de la Usina",
-          "url": "https://necocheadigital.com/nota/120060/la-unicen-quequen-celebra-hoy-sus-30-anos-con-un-acto-en-el-teatro-de-la-usina/",
-          "published_at": null,
-          "first_seen": "2026-11-02T12:30:01.296531+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La sede universitaria local alcanza hoy tres décadas de presencia continua y lo conmemora con un evento especial encabezado por el rector de la Universidad Nacional del Centro de la Provincia de Buenos Aires, Marcelo Aba, junto a la coordinadora de la subsede, Patricia Sureda. La cita institucional convocó a la comunidad a reencontrarse a partir de las 19 horas en el Teatro de la Usina, ubicado en avenida 59 y calle 42.",
-          "La ceremonia contará con la participación de decanos de distintas facultades y de los miembros de la histórica comisión pro-universitaria, a quienes se les entregará un reconocimiento por impulsar las gestiones iniciales que permitieron el desembarco de la casa de altos estudios en el distrito. Durante la jornada también se otorgará un presente conmemorativo a las autoridades del Municipio por el acompañamiento sostenido a lo largo de este trayecto."
-        ],
-        "generated": "2026-11-02T12:32:02.975774+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-02T12:30:01.296531+00:00"
-    },
-    {
-      "key": "hay cronograma artistico confirmado festejos 172 anos quequen",
-      "title": "Ya hay cronograma artístico confirmado para los festejos por los 172 años de Quequén",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-02T12:30:01.296531+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261030164502_aniversario-quequen-3.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Ya hay cronograma artístico confirmado para los festejos por los 172 años de Quequén",
-          "url": "https://necocheadigital.com/nota/120058/ya-hay-cronograma-artistico-confirmado-para-los-festejos-por-los-172-anos-de-quequen/",
-          "published_at": null,
-          "first_seen": "2026-11-02T12:30:01.296531+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Tras haber quedado postergados en el pasado mes de agosto, los festejos populares por el 172° Aniversario de Quequén finalmente se llevarán adelante el fin de semana del 7 y 8 de noviembre en la tradicional Plaza Hipólito Yrigoyen , con cronograma artístico ya confirmado. Gracias a la firme decisión de la gestión municipal que encabeza el intendente Arturo Rojas, de promover encuentros populares que tanto se esperan en la comunidad y que se disfrutan en familia y entre todos los vecinos, el corazón de Quequén se vestirá de fiesta con una amplia propuesta cultural, recreativa y comercial para el disfrute de grandes y chicos.",
-          "Además de la gran agenda de espectáculos artísticos en vivo, la plaza contará con juegos inflables, actividades para las infancias, un completo corredor gastronómico, stands comerciales y feria de emprendedores locales, garantizando un espacio de encuentro y recreación para toda la familia."
-        ],
-        "generated": "2026-11-02T12:32:04.252997+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-02T12:30:01.296531+00:00"
-    },
-    {
-      "key": "realizan trabajos mejora pista atletismo polideportivo municipal",
-      "title": "Se realizan trabajos de mejora en la pista de atletismo del Polideportivo Municipal",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-02T12:30:01.296531+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261030164253_30-10-foto-trabajos-pista-atletismo5.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Se realizan trabajos de mejora en la pista de atletismo del Polideportivo Municipal",
-          "url": "https://necocheadigital.com/nota/120057/se-realizan-trabajos-de-mejora-en-la-pista-de-atletismo-del-polideportivo-municipal/",
-          "published_at": null,
-          "first_seen": "2026-11-02T12:30:01.296531+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Las tareas comprenden la nivelación de la pista y el recambio de luminarias , intervenciones destinadas a acondicionar las instalaciones y mejorar la infraestructura disponible para la práctica del atletismo. Estos trabajos forman parte de las acciones de mantenimiento de los espacios deportivos municipales, con el propósito de conservar las instalaciones y favorecer el desarrollo de las distintas actividades que se llevan adelante en el Polideportivo.",
-          "Desde la Dirección de Deportes se continúa trabajando en el acondicionamiento de estos espacios, fundamentales para el desarrollo de la actividad física y deportiva en la comunidad."
-        ],
-        "generated": "2026-11-02T12:32:05.483488+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-02T12:30:01.296531+00:00"
-    },
-    {
-      "key": "descabellados celebra halloween chicos busca incorporar nuevos barberos equipo",
-      "title": "Descabellados celebra Halloween con los chicos y busca incorporar nuevos barberos a su equipo",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-02T12:30:01.296531+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/283cc77e0912770b93b45d5bb754f6a3dae702f5.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Descabellados celebra Halloween con los chicos y busca incorporar nuevos barberos a su equipo",
-          "url": "https://necocheadigital.com/nota/120055/descabellados-celebra-halloween-con-los-chicos-y-busca-incorporar-nuevos-barberos-a-su-equipo/",
-          "published_at": null,
-          "first_seen": "2026-11-02T12:30:01.296531+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Halloween con golosinas para los más chicos Este sábado 31 de octubre, desde las 19 horas, Descabellados abrirá las puertas de su local para recibir a niños y niñas que quieran acercarse disfrazados de sus personajes favoritos. La propuesta incluye la entrega de golosinas para todos los chicos que participen. Como único requisito, deberán sacarse una fotografía con los integrantes del comercio o dentro del establecimiento.",
-          "Además, desde el local invitaron a compartir la convocatoria en redes sociales para que ningún chico se quede sin enterarse de la iniciativa. Buscan barberos para ampliar el equipo Por otra parte, Descabellados Barber Shop anunció que continúa creciendo y abrió una convocatoria laboral para incorporar barberos con experiencia, mayores de 18 años."
-        ],
-        "generated": "2026-11-02T12:32:06.232045+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-02T12:30:01.296531+00:00"
+      "apariciones": 3,
+      "ultima_impresion": "2026-11-02T13:00:00.874709+00:00",
+      "penalizacion": 0.55
     },
     {
       "key": "incendio vivienda quequen hombre atrincherado adentro",
       "title": "Rescataron a un hombre inconsciente tras un incendio en su vivienda de Quequén",
-      "score": 0.851,
+      "score": 0.449,
       "sources_count": 5,
       "first_seen": "2026-11-02T10:15:59+00:00",
       "image": "https://cdnartic.ar/j0_MDF2bI7CNalpIC_3fLD3kcig=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/incendio_quequen.webp",
@@ -294,16 +390,16 @@
           "TSN Necochea | ‹ VOLVER | Locales | atrincheró | Durante la madrugada Se incendió una vivienda en Quequén: un hombre se había atrincherado adentro Fue sacado inconsciente y trasladado al Hospital. Intervención clave de Defensa Civil Por Redacción TSN 02/11/2026 · 07:15 AM Agregar TSN Necochea en Pasadas las 0.20 de la madrugada de hoynla base operativa de Defensa Civil recibió una alerta policial clave: una persona se encontraba atrincherada en su domicilio en la localidad de Quequén, iniciando un foco ígneo en el interior con él mismo dentro.",
           "​Frente a este escenario de extrema complejidad, la articulación inmediata fue vital: Defensa Civil dio aviso preventivo al Hospital Municipal y se movilizó de urgencia al Cuartel de Bomberos de Quequén, mientras una unidad móvil de la Dirección General de Defensa Civil, con dos agentes a bordo, se desplazaba hacia el lugar. ​Al arribar, el foco ígneo ya estaba activo."
         ],
-        "generated": "2026-11-02T12:31:20.260136+00:00"
+        "generated": "2026-11-02T13:01:16.273463+00:00"
       },
-      "apariciones": 6,
-      "ultima_impresion": "2026-11-02T12:30:01.296531+00:00",
-      "penalizacion": 0.092
+      "apariciones": 7,
+      "ultima_impresion": "2026-11-02T13:00:00.874709+00:00",
+      "penalizacion": 0.05
     },
     {
       "key": "esclarecen robo supermercado chino allanamiento necochea",
       "title": "Esclarecen el robo a un supermercado chino tras un allanamiento en Necochea",
-      "score": 0.583,
+      "score": 0.308,
       "sources_count": 1,
       "first_seen": "2026-11-02T11:00:42+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/WhatsApp-Image-2026-10-29-at-09.37.08.webp",
@@ -323,16 +419,16 @@
           "TSN Necochea | ‹ VOLVER | Locales | Allanamientos | Interviene la UFI N.º 20 Esclarecen el robo a un supermercado chino tras un allanamiento en Necochea Personal de la Comisaría Primera secuestró las prendas utilizadas durante el asalto al comercio de avenida 74 y casi 61 Por Redacción TSN 02/11/2026 · 08:00 AM Agregar TSN Necochea en Efectivos del Gabinete Técnico Operativo (GTO) de la Comisaría Primera de Necochea ejecutaron un allanamiento con resultado positivo en el marco de las pesquisas iniciadas tras el robo perpetrado en el local comercial “Super Uno” .",
           "El procedimiento judicial permitió el secuestro de indumentaria clave utilizada por los delincuentes durante el atraco, así como el hallazgo de elementos vinculados al robo de infraestructura domiciliaria."
         ],
-        "generated": "2026-11-02T12:32:07.279925+00:00"
+        "generated": "2026-11-02T13:02:25.866060+00:00"
       },
-      "apariciones": 3,
-      "ultima_impresion": "2026-11-02T12:30:01.296531+00:00",
-      "penalizacion": 0.55
+      "apariciones": 4,
+      "ultima_impresion": "2026-11-02T13:00:00.874709+00:00",
+      "penalizacion": 0.302
     },
     {
       "key": "binance reabre retiros despues ciberataque provoco robo us 000 millones",
       "title": "Binance reabre retiros después de ciberataque que provocó un robo de US$ 6.000 millones",
-      "score": 0.486,
+      "score": 0.256,
       "sources_count": 1,
       "first_seen": "2026-11-02T11:01:04+00:00",
       "image": null,
@@ -352,16 +448,16 @@
           "La mayor plataforma de intercambio de criptomonedas del mundo comenzó a restablecer los retiros de fondos, mientras el FBI señala a un grupo de hackers vinculado a Corea del Norte como responsable del asalto. Restablecimiento gradual de los retiros El domingo Binance reactivó los retiros en varias fases, tras suspender la operación para evaluar los daños y reforzar su seguridad.",
           "Entre las 06:00 y las 15:30 GMT procesó retiros por US$ 4.650 millones y depósitos por US$ 1.010 millones, lo que generó una salida neta de US$ 3.640 millones, equivalente al 2,1 % de los activos bajo su gestión. La compañía anunció que cubrirá las pérdidas con recursos propios y que ya ha adquirido tokens para reponer el 90 % de los fondos sustraídos."
         ],
-        "generated": "2026-11-02T12:32:34.862396+00:00"
+        "generated": "2026-11-02T13:02:53.520945+00:00"
       },
-      "apariciones": 3,
-      "ultima_impresion": "2026-11-02T12:30:01.296531+00:00",
-      "penalizacion": 0.55
+      "apariciones": 4,
+      "ultima_impresion": "2026-11-02T13:00:00.874709+00:00",
+      "penalizacion": 0.302
     },
     {
       "key": "colapinto recibio dura sancion quedo puntos gp mexico",
       "title": "Colapinto recibió una dura sanción y se quedó sin puntos en el GP de México",
-      "score": 0.021,
+      "score": 0.011,
       "sources_count": 1,
       "first_seen": "2026-11-02T09:16:47+00:00",
       "image": null,
@@ -381,16 +477,16 @@
           "La FIA aplicó diez segundos de sanción por no reducir la velocidad bajo bandera amarilla, anulando los puntos que el piloto argentino había conseguido. Franco Colapinto terminó el Gran Premio de México en la posición 15 después de que los comisarios deportivos le impusieran una penalización de diez segundos por no disminuir suficientemente la velocidad al atravesar un sector con bandera amarilla. La sanción, comunicada varias horas después de la carrera, eliminó los puntos que el argentino había ganado en pista.",
           "Inicialmente, Colapinto había cruzado la línea de meta en octavo puesto y, tras la penalización a Oscar Piastri, había subido al séptimo. La revisión de la telemetría, las imágenes a bordo y los registros de cronometraje confirmó que el piloto del auto número 43 no cumplió con las exigencias de seguridad establecidas para la señal amarilla."
         ],
-        "generated": "2026-11-02T12:32:36.027316+00:00"
+        "generated": "2026-11-02T13:02:54.699441+00:00"
       },
-      "apariciones": 8,
-      "ultima_impresion": "2026-11-02T12:30:01.296531+00:00",
-      "penalizacion": 0.028
+      "apariciones": 9,
+      "ultima_impresion": "2026-11-02T13:00:00.874709+00:00",
+      "penalizacion": 0.015
     },
     {
       "key": "boca vencio river superclasico quedo como lider tabla anual",
       "title": "Boca venció a River en el Superclásico y quedó como líder de la tabla anual",
-      "score": 0.021,
+      "score": 0.011,
       "sources_count": 1,
       "first_seen": "2026-11-02T09:12:08+00:00",
       "image": null,
@@ -410,11 +506,11 @@
           "El conjunto xeneize se impuso con un cabezazo de Lautaro Di Lollo y, tras dos expulsiones en River, tomó la primera posición del campeonato. Boca Juniors derrotó a River Plate por 1‑0 en la Bombonera este domingo 1 de noviembre de 2026, en la fecha 15 del Torneo Clausura 2026. El gol, anotado en el minuto 26 del primer tiempo, llegó tras un tiro de esquina ejecutado por Sebastián Villa; Di Lollo conectó de cabeza y batió al arquero rival. El partido estuvo marcado por la reducción numérica de River.",
           "El árbitro Nicolás Ramírez mostró tarjeta roja directa a Lucas Martínez Quarta a los diez minutos, tras revisar una falta sobre Miguel Merentiel con el VAR. La segunda expulsión se produjo en el segundo tiempo, cuando Gonzalo Montiel recibió tarjeta roja directa en el minuto 33 por una fuerte infracción sobre Lautaro Blanco. Con ambas salidas, el equipo dirigido por Leonardo Ponzio quedó con nueve jugadores."
         ],
-        "generated": "2026-11-02T12:32:37.185933+00:00"
+        "generated": "2026-11-02T13:02:55.767163+00:00"
       },
-      "apariciones": 8,
-      "ultima_impresion": "2026-11-02T12:30:01.296531+00:00",
-      "penalizacion": 0.028
+      "apariciones": 9,
+      "ultima_impresion": "2026-11-02T13:00:00.874709+00:00",
+      "penalizacion": 0.015
     },
     {
       "key": "condenaron seis anos prision efectiva hombre abuso sexual pornografia infantil quequen",
@@ -439,77 +535,10 @@
           "TSN Necochea | ‹ VOLVER | Locales | abuso | Proceso Condenaron a seis años de prisión efectiva a un hombre por abuso sexual y pornografía infantil en Quequén El fallo fue dictado por el Tribunal Criminal Nº 1 de Necochea tras un acuerdo de juicio abreviado. Por Redacción TSN 02/11/2026 · 01:18 AM Tribunales de Necochea Agregar TSN Necochea en El Tribunal Criminal Nº 1 de Necochea resolvió condenar a la pena de seis años de prisión de efectivo cumplimiento a un hombre de 43 años, identificado por sus iniciales F.",
           ", tras hallarlo penalmente responsable de los delitos de abuso sexual y tenencia de representaciones pornográficas de menores de edad cometidos en la localidad de Quequén. La resolución judicial se homologó en el marco de un proceso de juicio abreviado , previo acuerdo alcanzado entre la Fiscalía interviniente y la Defensoría Oficial que asistió al acusado, evitando la realización del debate oral."
         ],
-        "generated": "2026-11-02T12:33:33.278731+00:00"
+        "generated": "2026-11-02T13:02:56.900664+00:00"
       },
-      "apariciones": 15,
-      "ultima_impresion": "2026-11-02T12:30:01.296531+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "visita papa habra frecuencias transporte amplios operativos seguridad recibir leon xiv",
-      "title": "Visita del Papa: habrá más frecuencias de transporte y amplios operativos de seguridad para recibir a León XIV",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-11-02T03:43:17+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/08/papa-leon-xiv-2025248.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Visita del Papa: habrá más frecuencias de transporte y amplios operativos de seguridad para recibir a León XIV",
-          "url": "https://tsnnecochea.com.ar/generales/visita-del-papa-habra-mas-frecuencias-de-transporte-y-amplios-operativos-de-seguridad-para-recibir-a-leon-xiv-241267/",
-          "published_at": "2026-11-02T03:43:17+00:00",
-          "first_seen": "2026-11-02T05:54:28.392179+00:00",
-          "category": "colectivos",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/08/papa-leon-xiv-2025248.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Generales | colectivos | En Buenos Aires Visita del Papa: habrá más frecuencias de transporte y amplios operativos de seguridad para recibir a León XIV El coordinador general de la visita papal, monseñor Raúl Pizarro, anticipó detalles de los recorridos que realizará el Pontífice en Buenos Aires, Córdoba y Luján.",
-          "Por Redacción TSN 02/11/2026 · 12:43 AM Agregar TSN Necochea en El obispo auxiliar de San Isidro y coordinador general de la visita del papa León XIV a la Argentina, monseñor Raúl Pizarro, confirmó que habrá un refuerzo de las frecuencias de trenes, colectivos y subtes durante las actividades del Pontífice, que llegará al país el próximo domingo 8 de noviembre , y anticipó que se desplegarán importantes operativos de seguridad y tránsito para recibir a millones de fieles."
-        ],
-        "generated": "2026-11-02T12:33:34.369601+00:00"
-      },
-      "apariciones": 15,
-      "ultima_impresion": "2026-11-02T12:30:01.296531+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "faro quequen cumple 105 anos historia referencia maritima",
-      "title": "El Faro de Quequén cumple 105 años de historia y referencia marítima",
-      "score": 0.0,
-      "sources_count": 2,
-      "first_seen": "2026-11-01T15:43:00+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2024/02/Faro-Quequen.jpg",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "El Faro de Quequén cumple 105 años de historia y referencia marítima",
-          "url": "https://tsnnecochea.com.ar/locales/el-faro-de-quequen-cumple-105-anos-de-historia-y-referencia-maritima-241233/",
-          "published_at": "2026-11-01T22:32:34+00:00",
-          "first_seen": "2026-11-01T23:00:01.696911+00:00",
-          "category": "aniversario",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2024/02/Faro-Quequen.jpg"
-        },
-        {
-          "portal": "Noticias de Necochea",
-          "title": "El Faro de Quequén cumple 105 años: la historia del gigante que ilumina nuestra costa desde 1921",
-          "url": "https://nden.com.ar/nota/38588/el-faro-de-quequen-cumple-105-anos-la-historia-del-gigante-que-ilumina-nuestra-costa-desde-1921",
-          "published_at": "2026-11-01T15:43:00+00:00",
-          "first_seen": "2026-11-01T23:00:01.696911+00:00",
-          "category": null,
-          "image": "http://nden.com.ar/uploads/noticias/5/2026/11/98663e94ffdf58ee083467b331b468cf2c562d61.jpg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Locales | aniversario | Aniversario El Faro de Quequén cumple 105 años de historia y referencia marítima La imponente torre costera festeja este domingo más de un siglo de vida iluminando el paisaje y consolidándose como uno de los máximos emblemas de la región. Por Redacción TSN 01/11/2026 · 07:32 PM Faro de Quequén Agregar TSN Necochea en La costa de Quequén está de festejo.",
-          "Este domingo 1.º de noviembre, el emblemático Faro de Quequén alcanza sus 105 años de vida, consolidándose no solo como una guía indispensable para el tráfico marítimo del Atlántico Sur, sino como uno de los máximos símbolos de identidad y orgullo para la comunidad de Necochea y Quequén. ​Inaugurado oficialmente el 1.º de noviembre de 1921, el faro se yergue a escasos metros del mar con una imponente torre de hormigón armado de 54 metros de altura."
-        ],
-        "generated": "2026-11-02T12:34:16.430468+00:00"
-      },
-      "apariciones": 19,
-      "ultima_impresion": "2026-11-02T12:30:01.296531+00:00",
+      "apariciones": 16,
+      "ultima_impresion": "2026-11-02T13:00:00.874709+00:00",
       "penalizacion": 0.0
     },
     {
@@ -535,10 +564,10 @@
           "Por Miguel Abálsamo La pregunta que le hago a todos aquellos aspirantes legítimamente a la intendencia de Necochea en el 27 es: ¿tienen equipo armado para gobernar? ¿Tienen 30 a 40 dirigentes para la cobertura de cada área de la administración del distrito? Sencilla pregunta que espera respuestas. Ha llegado la hora de responder, menos críticas y quejas y decir cómo resolvés lo que no te gusta o continuarías lo realizado.",
           "No hay tiempo de improvisación. Es más fácil ganar una elección que gobernar un distrito de 120.000 habitantes con las complejidades del nuestro. No se puede asumir y comenzar a aprender."
         ],
-        "generated": "2026-11-02T12:34:19.490267+00:00"
+        "generated": "2026-11-02T13:03:55.120291+00:00"
       },
-      "apariciones": 22,
-      "ultima_impresion": "2026-11-02T12:30:01.296531+00:00",
+      "apariciones": 23,
+      "ultima_impresion": "2026-11-02T13:00:00.874709+00:00",
       "penalizacion": 0.0
     },
     {
@@ -564,39 +593,10 @@
           "Juan Pablo Rodríguez y José Luis Dindart quedaron eliminados en sus respectivos compromisos y no habrá representantes de Necochea en la definición del certamen nacional. El rosarino Gustavo Longo se consagró campeón argentino tras vencer en la final a César Dottavio. El Torneo Argentino de 5 Quillas, disputado en Casilda, provincia de Santa Fe, llegó a su definición y dejó sin representantes necochenses en las instancias decisivas.",
           "Por un lado, Juan Pablo Rodríguez no pudo continuar avanzando en la competencia y cayó por 2 a 1 frente a Diego Barbosa, resultado que marcó su despedida del campeonato. Por su parte, José Luis Dindart también quedó eliminado tras protagonizar un intenso encuentro frente al mundialista Marcelo Corraro. El necochense perdió por 2 a 1, con parciales de 34-60, 46-60 y 40-60."
         ],
-        "generated": "2026-11-02T12:34:22.262837+00:00"
+        "generated": "2026-11-02T13:03:58.060459+00:00"
       },
-      "apariciones": 22,
-      "ultima_impresion": "2026-11-02T12:30:01.296531+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "ley segunda oportunidad espana como cancelar deudas despachos abogados pueden ayudarte",
-      "title": "Ley de Segunda Oportunidad en España: cómo cancelar deudas y qué despachos de abogados pueden ayudarte",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-11-01T06:11:34+00:00",
-      "image": null,
-      "articles": [
-        {
-          "portal": "Necochea News",
-          "title": "Ley de Segunda Oportunidad en España: cómo cancelar deudas y qué despachos de abogados pueden ayudarte",
-          "url": "https://necocheanews.com.ar/ley-de-segunda-oportunidad-en-espana-como-cancelar-deudas-y-que-despachos-de-abogados-pueden-ayudarte/",
-          "published_at": "2026-11-01T06:11:34+00:00",
-          "first_seen": "2026-11-01T06:30:00.628269+00:00",
-          "category": "INTERNACIONALES",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Las deudas pueden convertirse en una carga difícil de soportar. La pérdida de un empleo, el cierre de un negocio, una enfermedad o una sucesión de dificultades económicas pueden llevar a una persona a una situación en la que sus ingresos ya no son suficientes para hacer frente a sus obligaciones financieras. Durante años, muchas personas han vivido convencidas de que una deuda impagable debía acompañarlas durante el resto de su vida.",
-          "Sin embargo, el ordenamiento jurídico español contempla un mecanismo que permite a particulares y autónomos insolventes obtener la cancelación de determinadas deudas y recuperar la posibilidad de comenzar de nuevo. Se trata de la Ley de Segunda Oportunidad, un instrumento jurídico que ha adquirido una importancia creciente dentro del derecho concursal español. Su aplicación requiere cumplir determinados requisitos y seguir un procedimiento judicial."
-        ],
-        "generated": "2026-11-02T12:36:17.001600+00:00"
-      },
-      "apariciones": 55,
-      "ultima_impresion": "2026-11-02T12:30:01.296531+00:00",
+      "apariciones": 23,
+      "ultima_impresion": "2026-11-02T13:00:00.874709+00:00",
       "penalizacion": 0.0
     }
   ]
