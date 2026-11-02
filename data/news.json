@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-02T18:00:01.094625+00:00",
+  "generated_at": "2026-11-02T18:30:00.859469+00:00",
   "article_count": 135,
   "fetch_errors": [],
   "stories": [
     {
       "key": "disparos intimidar pareja hombre aprehendido quequen",
       "title": "Disparos para intimidar a su pareja: un hombre fue aprehendido en Quequén",
-      "score": 3.869,
+      "score": 2.041,
       "sources_count": 3,
       "first_seen": "2026-11-02T14:20:19+00:00",
       "image": "https://cdnartic.ar/zHehnxoAB_0EB5SS-lfupX6fOP8=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/aprehendido.webp",
@@ -44,16 +44,132 @@
           "TSN Necochea | ‹ VOLVER | Locales | amenazas | En Quequén Quiso intimidar a su pareja efectuando disparos: fue aprehendido Hubo amenazas . Un llamado al 911 alertó de la situación Por Redacción TSN 02/11/2026 · 02:18 PM Agregar TSN Necochea en Personal policial intervino en una vivienda de Quequén tras un llamado al 911 que alertaba sobre detonaciones de arma de fuego. En el lugar, una joven manifestó que su pareja habría efectuado disparos para intimidarla. La víctima fue trasladada al Hospital Municipal para recibir asistencia médica, mientras que el sospechoso, de 33 años, fue interceptado a pocos metros del lugar y aprehendido.",
           "No hallando arma de fuego en su poder. La Fiscalía interviniente avaló el procedimiento y dispuso que el hombre permanezca alojado a disposición de la Justicia. Interviene la UFI N.º 10 del Departamento Judicial Necochea."
         ],
-        "generated": "2026-11-02T18:01:14.313428+00:00"
+        "generated": "2026-11-02T18:31:11.990101+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-11-02T18:00:01.094625+00:00",
-      "penalizacion": 1.0
+      "apariciones": 3,
+      "ultima_impresion": "2026-11-02T18:30:00.859469+00:00",
+      "penalizacion": 0.55
+    },
+    {
+      "key": "joven motociclista hospitalizado chocar camioneta 44 55",
+      "title": "Un joven motociclista fue hospitalizado tras chocar contra una camioneta en 44 y 55",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-02T18:30:00.859469+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/1ac6adfe8c3054944222264a49874943862bd5e7.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Un joven motociclista fue hospitalizado tras chocar contra una camioneta en 44 y 55",
+          "url": "https://necocheadigital.com/nota/120074/un-joven-motociclista-fue-hospitalizado-tras-chocar-contra-una-camioneta-en-44-y-55/",
+          "published_at": null,
+          "first_seen": "2026-11-02T18:30:00.859469+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Un joven conductor de motocicleta debió ser trasladado de urgencia al nosocomio local tras sufrir diversas lesiones al colisionar contra una camioneta durante las primeras horas de este lunes. El siniestro se registró cerca de las 6:00 en la intersección de las calles 44 y 55, lo que motivó la rápida intervención de las fuerzas de seguridad y asistencia a partir del alerta recibido en la base operativa de la Dirección General de Defensa Civil.",
+          "Agentes del área acudieron de inmediato al sitio del hecho para realizar las primeras maniobras de auxilio e inmovilización al herido hasta la llegada de la ambulancia del SAME, efectores de salud que procedieron a efectuar su traslado al centro hospitalario."
+        ],
+        "generated": "2026-11-02T18:33:50.635728+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-02T18:30:00.859469+00:00"
+    },
+    {
+      "key": "lnf equipos san cayetano sacaron ventaja minima ida semifinales femeninas",
+      "title": "LNF: Los equipos de San Cayetano sacaron ventaja por la mínima en la ida de las semifinales femeninas",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-02T18:30:00.859469+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261102121547_whatsapp-image-2026-11-02-at-12-15-29.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "LNF: Los equipos de San Cayetano sacaron ventaja por la mínima en la ida de las semifinales femeninas",
+          "url": "https://necocheadigital.com/nota/120078/lnf-los-equipos-de-san-cayetano-sacaron-ventaja-por-la-minima-en-la-ida-de-las-semifinales-femeninas/",
+          "published_at": null,
+          "first_seen": "2026-11-02T18:30:00.859469+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "En el Estadio Panamericano, Sportivo logró un valioso triunfo fuera de casa gracias a la conversión de Yolanda Estarli. Las albirrojas, que llegaron a esta instancia de forma invicta tras liderar la fase regular con 26 puntos y haberse adjudicado el Torneo Preparación en la primera mitad del año, buscarán sellar el pase a la final en el estadio Felipe Serafini. Por su parte, Independiente hizo valer la localía en el estadio Juan Bautista Marlats y superó por 1-0 a Villa Díaz Vélez con gol de Francesca Sanso.",
+          "El elenco sancayetanense, que finalizó tercero en la etapa clasificatoria, sostendrá la diferencia en la revancha que se disputará en el estadio Vasco Iparraguirre. El cuadro de semifinales enfrenta a los cuatro mejores de la etapa regular, donde Villa Díaz Vélez escoltó a las punteras con 22 unidades y Rivadavia completó la nómina en el cuarto lugar con 11 puntos."
+        ],
+        "generated": "2026-11-02T18:33:51.811592+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-02T18:30:00.859469+00:00"
+    },
+    {
+      "key": "condenaron seis anos prision hombre abuso sexual pornografia infantil quequen",
+      "title": "Condenaron a seis años de prisión a un hombre por abuso sexual y pornografía infantil en Quequén",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-02T18:30:00.859469+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261102121204_whatsapp-image-2026-11-02-at-12-11-08.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Condenaron a seis años de prisión a un hombre por abuso sexual y pornografía infantil en Quequén",
+          "url": "https://necocheadigital.com/nota/120077/condenaron-a-seis-anos-de-prision-a-un-hombre-por-abuso-sexual-y-pornografia-infantil-en-quequen/",
+          "published_at": null,
+          "first_seen": "2026-11-02T18:30:00.859469+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La resolución judicial acreditó la responsabilidad penal del acusado, originario de Misiones pero afincado en Quequén, bajo dos figuras en concurso real. Por un lado, se lo halló culpable de abuso sexual por aprovechamiento de la inmadurez sexual de la víctima, agravado por la convivencia preexistente, por hechos perpetrados en una vivienda de esa localidad entre agosto y octubre de 2023.",
+          "Por otra parte, la condena incluyó el delito de tenencia de imágenes de representaciones pornográficas de menores de edad, material informático que había sido incautado y certificado por peritos en la investigación previa a mayo de 2024. Además de la pena privativa de la libertad, que deberá cumplir efectivamente en una unidad penal del Servicio Penitenciario Bonaerense, los magistrados del tribunal local le impusieron las accesorias legales correspondientes y el pago de las costas del proceso."
+        ],
+        "generated": "2026-11-02T18:33:52.518018+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-02T18:30:00.859469+00:00"
+    },
+    {
+      "key": "valle consagro campeon invicto regional clubes sub 19 mar plata",
+      "title": "Del Valle se consagró campeón invicto del Regional de Clubes Sub 19 en Mar del Plata",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-02T18:30:00.859469+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/0e22c362de2f39094cdb2b96f0b16f3eeb5fba42.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Del Valle se consagró campeón invicto del Regional de Clubes Sub 19 en Mar del Plata",
+          "url": "https://necocheadigital.com/nota/120076/del-valle-se-consagro-campeon-invicto-del-regional-de-clubes-sub-19-en-mar-del-plata/",
+          "published_at": null,
+          "first_seen": "2026-11-02T18:30:00.859469+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La quinta división de Del Valle se coronó campeona del Regional de Clubes D de hockey al vencer 4-1 a Comercial de Mar del Plata en una final disputada bajo la lluvia. Con este resultado, el equipo concluyó un torneo impecable con cinco victorias consecutivas y logró el ascenso al Regional de Clubes C. El conjunto azulgrana concretó su consagración tras una actuación contundente que comenzó a construirse en el primer cuarto con un remate de media vuelta de Emilia Badié.",
+          "Durante la segunda mitad del encuentro, la capitana Magdalena Raggio y Maite Tabares ampliaron la ventaja a través de la ejecución de dos córner cortos. Pese al descuento convertido por Morena Salaberry para el combinado marplatense, Josefina Daglio capturó un rebote en el área en la última jugada del partido para sellar el 4-1 definitivo."
+        ],
+        "generated": "2026-11-02T18:33:53.668917+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-02T18:30:00.859469+00:00"
     },
     {
       "key": "municipio realizo trabajos mantenimiento parquizacion santamarina energia",
       "title": "El Municipio realizó trabajos de mantenimiento y parquización en Santamarina y Energía",
-      "score": 1.147,
+      "score": 0.605,
       "sources_count": 1,
       "first_seen": "2026-11-02T17:27:39+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/02-11-FOTO-espacios-Santamarina2.webp",
@@ -73,16 +189,16 @@
           "TSN Necochea | ‹ VOLVER | Locales | corte de pasto | Labores El Municipio realizó trabajos de mantenimiento y parquización en Santamarina y Energía Los trabajos incluyeron el mantenimiento de espacios verdes y del cementerio local. Por Redacción TSN 02/11/2026 · 02:27 PM Agregar TSN Necochea en La Municipalidad de Necochea llevó adelante tareas de mantenimiento, corte de pasto y parquización en distintos espacios públicos de Ramón Santamarina y Energía, con el objetivo de mejorar y conservar los lugares de uso comunitario.",
           "Según informó la Delegación Municipal, a cargo de Virginia Hefner, en Ramón Santamarina los trabajos incluyeron el mantenimiento de espacios verdes y del cementerio local. En tanto, en Energía se realizaron tareas de corte de pasto y parquización en la plaza, el frente de ruta y la vereda del Jardín de Infantes."
         ],
-        "generated": "2026-11-02T18:03:56.300560+00:00"
+        "generated": "2026-11-02T18:33:54.760134+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-11-02T18:00:01.094625+00:00",
-      "penalizacion": 1.0
+      "apariciones": 3,
+      "ultima_impresion": "2026-11-02T18:30:00.859469+00:00",
+      "penalizacion": 0.55
     },
     {
       "key": "video olvido freno mano camioneta termino marcha atras rambla",
       "title": "VIDEO: olvidó el freno de mano y su camioneta terminó marcha atrás en la rambla",
-      "score": 1.14,
+      "score": 0.601,
       "sources_count": 1,
       "first_seen": "2026-11-02T17:22:50+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/Screenshot_20261102_112127_Chrome.webp",
@@ -102,132 +218,16 @@
           "TSN Necochea | ‹ VOLVER | Videos | Mar del Plata | Virales VIDEO: olvidó el freno de mano y su camioneta terminó marcha atrás en la rambla El vehículo recorrió 100 metros sin conductor en la zona de la costa y Córdoba tras quedarse sin el freno accionado. Pese a la gran cantidad de peatones a esa hora, no se registraron heridos y solo rozó a otro auto. Por Redacción TSN 02/11/2026 · 02:22 PM Agregar TSN Necochea en Una camioneta Chrysler descendió marcha atrás y sin conductor durante unos 100 metros por el paseo costero de Mar del Plata , luego de que su dueño la dejara estacionada sin accionar el freno de mano .",
           "El vehículo terminó sobre la rambla y rozó a un auto, aunque no hubo personas heridas de milagro. This browser does not support the video element. El hecho ocurrió este lunes, cerca de las 9.30, en la zona de la costa y Córdoba ."
         ],
-        "generated": "2026-11-02T18:03:57.336905+00:00"
+        "generated": "2026-11-02T18:33:55.922087+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-11-02T18:00:01.094625+00:00",
-      "penalizacion": 1.0
-    },
-    {
-      "key": "usina popular cooperativa impulsa creacion primer parque solar necochea",
-      "title": "La Usina Popular Cooperativa impulsa la creación de su primer Parque Solar en Necochea",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-02T18:00:01.094625+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261102114839_whatsapp-image-2026-11-02-at-11-48-10.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "La Usina Popular Cooperativa impulsa la creación de su primer Parque Solar en Necochea",
-          "url": "https://necocheadigital.com/nota/120073/la-usina-popular-cooperativa-impulsa-la-creacion-de-su-primer-parque-solar-en-necochea/",
-          "published_at": null,
-          "first_seen": "2026-11-02T18:00:01.094625+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Esta obra se enmarca en un plan estratégico de autogeneración de energía limpia que busca hacer frente a la desregulación del mercado eléctrico nacional, donde la compra de electricidad a grandes generadores representa el insumo de mayor costo para la distribución eléctrica local. Detalles clave de los proyectos y del plan operativo Parque Solar de Necochea (Ruta 86): Contará con una capacidad de generación de 3 MW .",
-          "Para tomar como referencia, la ciudad de Necochea utiliza actualmente una demanda de alrededor de 30 MW. Inyección a la red local y reinversión: Aunque la UPC opera como agente del mercado eléctrico mayorista y tiene la facultad de vender energía a terceros, la opción más rentable en esta etapa inicial consiste en volcar la producción a las redes locales para reducir la factura global."
-        ],
-        "generated": "2026-11-02T18:03:59.539103+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-02T18:00:01.094625+00:00"
-    },
-    {
-      "key": "casino ex balneario aca proyectos recuperacion impulsa toda vela mar",
-      "title": "El Casino y el ex balneario del ACA: los proyectos de recuperación que impulsa A Toda Vela Mar",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-02T18:00:01.094625+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/07a7e10d69e81bc8b8d37146b2f3d2733ec2d675.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "El Casino y el ex balneario del ACA: los proyectos de recuperación que impulsa A Toda Vela Mar",
-          "url": "https://necocheadigital.com/nota/120065/el-casino-y-el-ex-balneario-del-aca-los-proyectos-de-recuperacion-que-impulsa-a-toda-vela-mar/",
-          "published_at": null,
-          "first_seen": "2026-11-02T18:00:01.094625+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La recuperación del Complejo Casino y del ex balneario del Automóvil Club Argentino (ACA) forma parte de los proyectos que A Toda Vela Mar S.A. comenzó a desarrollar en la costa de Necochea. Se trata de dos emprendimientos que requieren importantes inversiones y trabajos de infraestructura, debido al estado de deterioro en el que se encontraban las instalaciones.",
-          "Así lo explicó Oscar Merlo, integrante de la firma, durante una entrevista en Voces de la Tarde , el programa que conduce Jorge Gómez por Radio Noticias Necochea. En la charla, brindó detalles sobre las tareas en marcha, los plazos y las dificultades que enfrenta la empresa para recuperar ambos espacios. Merlo reconoció que el punto de partida representa un desafío importante por los años de falta de mantenimiento y la escasa inversión que recibieron las estructuras."
-        ],
-        "generated": "2026-11-02T18:04:00.238743+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-02T18:00:01.094625+00:00"
-    },
-    {
-      "key": "daniel molina cuestiono calidad democracia actual pidio recuperar compromiso social",
-      "title": "Daniel Molina cuestionó la calidad de la democracia actual y pidió recuperar el compromiso social",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-02T18:00:01.094625+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/2376697afe0b3a851761394b23c53b7af079a5bd.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Daniel Molina cuestionó la calidad de la democracia actual y pidió recuperar el compromiso social",
-          "url": "https://necocheadigital.com/nota/120064/daniel-molina-cuestiono-la-calidad-de-la-democracia-actual-y-pidio-recuperar-el-compromiso-social/",
-          "published_at": null,
-          "first_seen": "2026-11-02T18:00:01.094625+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Al cumplirse 43 años de las elecciones que marcaron el retorno de la democracia en la Argentina, el doctor Daniel Molina realizó un balance sobre el camino recorrido desde aquella jornada histórica y planteó una mirada crítica sobre el funcionamiento actual del sistema político. El actual presidente del Comité Emiliano Abásolo de la Unión Cívica Radical de Necochea y ex intendente municipal fue entrevistado en Voces de la Tarde , el programa que conduce Jorge Gómez por Radio Noticias Necochea. Durante la charla, evocó el contexto de 1983, destacó la figura del expresidente Raúl Alfonsín y reflexionó sobre los desafíos que todavía enfrenta la sociedad argentina.",
-          "Molina definió el regreso de la democracia como un momento excepcional, marcado por la recuperación de las libertades y el fin del miedo que había impuesto la última dictadura militar. “En aquel momento fue algo mágico."
-        ],
-        "generated": "2026-11-02T18:04:01.160587+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-02T18:00:01.094625+00:00"
-    },
-    {
-      "key": "levanto paro colectivos vuelven circular",
-      "title": "Se levantó el paro y los colectivos vuelven a circular",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-02T18:00:01.094625+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261030165932_whatsapp-image-2026-10-30-at-16-58-46.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Se levantó el paro y los colectivos vuelven a circular",
-          "url": "https://necocheadigital.com/nota/120059/se-levanto-el-paro-y-los-colectivos-vuelven-a-circular/",
-          "published_at": null,
-          "first_seen": "2026-11-02T18:00:01.094625+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Tras cuatro días de interrupción total en el transporte urbano de pasajeros, los colectivos volvieron a circular este viernes a partir de las 16 horas, luego de que la Unión Tranviarios Automotor (UTA) y la Compañía de Transportes Necochea alcanzaran un acuerdo económico en la delegación local del Ministerio de Trabajo de la Provincia de Buenos Aires. La negociación se destrabó tras una extensa jornada de gestiones que comenzó a las 10 de la mañana e incluyó un cuarto intermedio y una asamblea de trabajadores.",
-          "Del encuentro participaron el gerente de la empresa, Carlos Manzano, la representante Erica Giancarelli y los referentes sindicales Gastón Urrutia, Matías Jordán y Mateo González. Además, estuvieron presentes los funcionarios municipales Paula Faramiñán y Facundo Croci, junto a la delegada de Trabajo, Natalia Steffen."
-        ],
-        "generated": "2026-11-02T18:04:01.872485+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-02T18:00:01.094625+00:00"
+      "apariciones": 3,
+      "ultima_impresion": "2026-11-02T18:30:00.859469+00:00",
+      "penalizacion": 0.55
     },
     {
       "key": "huella joven consolido exito redes segundo ano consecutivo",
       "title": "Huella Joven consolidó su éxito en las redes por segundo año consecutivo",
-      "score": 0.606,
+      "score": 0.319,
       "sources_count": 1,
       "first_seen": "2026-11-02T16:58:09+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/09/21-09-FOTO-Fiesta-de-la-Primavera6.webp",
@@ -247,16 +247,16 @@
           "TSN Necochea | ‹ VOLVER | Generales | huella | Juventud Huella Joven consolidó su éxito en las redes por segundo año consecutivo El programa viral que se comparte por las redes de juventud tuvo a 21 protagonistas a lo largo del 2026.",
           "Por Redacción TSN 02/11/2026 · 01:58 PM Delfi Vellón, referente del stunt de bici en Necochea, junto a Agustina Di Russo de Juventud Agregar TSN Necochea en Luego de una primera temporada con gran repercusión, el programa municipal Huella Joven volvió a tener una respuesta muy positiva durante 2026 , sumando nuevas historias de vida y testimonios de jóvenes del distrito que encontraron en las redes sociales un espacio para compartir sus experiencias, intereses y proyectos, pero además para subir contenido que inste a un buen uso de las redes sociales."
         ],
-        "generated": "2026-11-02T18:03:58.395707+00:00"
+        "generated": "2026-11-02T18:33:56.941824+00:00"
       },
-      "apariciones": 3,
-      "ultima_impresion": "2026-11-02T18:00:01.094625+00:00",
-      "penalizacion": 0.55
+      "apariciones": 4,
+      "ultima_impresion": "2026-11-02T18:30:00.859469+00:00",
+      "penalizacion": 0.302
     },
     {
       "key": "cta elige manana autoridades necochea hay lista nivel nacional dos",
       "title": "La CTA elige mañana sus autoridades: en Necochea hay una lista, a nivel nacional dos",
-      "score": 0.591,
+      "score": 0.312,
       "sources_count": 1,
       "first_seen": "2026-11-02T16:40:27+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/320921953_1918439161834320_707500357757477251_n.avif",
@@ -276,16 +276,16 @@
           "TSN Necochea | ‹ VOLVER | Locales | Cta de los trabajadores | Gremios La CTA elige mañana sus autoridades: en Necochea hay una lista, a nivel nacional dos Más de 2000 personas están en condiciones de botar. Habrá urnas en varios lugares Por Redacción TSN 02/11/2026 · 01:40 PM Agregar TSN Necochea en Mañana la CTA de los Trabajadores realizará sus elecciones para renovar autoridades nacionales, provinciales y locales. En nuestra ciudad habrá una sóla lista que encabeza, Ana Inés Larrañaga (SUTEBA) como secretaria general.",
           "Además postulará a Valeria López (AMS Casinos) como secretaria adjunta; a Esteban Díaz Secretaría Gremial (ATE Verde y Blanca) y a Silvana Calio – Secretaría de Organización (CICOP). En Necochea se podrá votar en SUTEBA, en calle 61 Nº 3360, donde funcionarán dos mesas; CICOP, en calle 63 Nº 2048; AMS, en calle 91 y 4 bis; y ATE, en calle 68 Nº 3063."
         ],
-        "generated": "2026-11-02T18:04:02.992958+00:00"
+        "generated": "2026-11-02T18:33:57.650077+00:00"
       },
-      "apariciones": 3,
-      "ultima_impresion": "2026-11-02T18:00:01.094625+00:00",
-      "penalizacion": 0.55
+      "apariciones": 4,
+      "ultima_impresion": "2026-11-02T18:30:00.859469+00:00",
+      "penalizacion": 0.302
     },
     {
       "key": "rescataron hombre incendio quequen defensa civil logro estabilizarlo",
       "title": "Rescataron a un hombre de un incendio en Quequén y Defensa Civil logró estabilizarlo",
-      "score": 0.233,
+      "score": 0.123,
       "sources_count": 3,
       "first_seen": "2026-11-02T10:47:31+00:00",
       "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261102090134_02-11-foto-dc-incendio2.jpg",
@@ -323,16 +323,16 @@
           "Un importante operativo de emergencia se desplegó durante la madrugada de este lunes en Quequén, luego de que se registrara un incendio en una vivienda donde permanecía un hombre que no había logrado salir del inmueble. La intervención de los bomberos y la rápida asistencia del personal de Defensa Civil resultaron fundamentales para rescatar a la víctima y brindarle los primeros auxilios antes de su traslado al hospital. De acuerdo con la información difundida por la Dirección General de Defensa Civil, a cargo de Augusto Fulton, el alerta se recibió alrededor de las 00:20, a partir de una comunicación policial que advertía sobre una persona atrincherada en su domicilio, donde se había iniciado un foco de incendio.",
           "Ante la gravedad del episodio, se dio aviso al Hospital Municipal y se convocó de urgencia al Cuartel de Bomberos de Quequén. Al mismo tiempo, una unidad móvil de Defensa Civil, con dos agentes, se dirigió al lugar."
         ],
-        "generated": "2026-11-02T18:02:20.566768+00:00"
+        "generated": "2026-11-02T18:32:16.279455+00:00"
       },
-      "apariciones": 6,
-      "ultima_impresion": "2026-11-02T18:00:01.094625+00:00",
-      "penalizacion": 0.092
+      "apariciones": 7,
+      "ultima_impresion": "2026-11-02T18:30:00.859469+00:00",
+      "penalizacion": 0.05
     },
     {
       "key": "nicolas amendola batio record argentino mundial portugal",
       "title": "Nicolás Améndola batió el récord argentino en el Mundial de Portugal",
-      "score": 0.192,
+      "score": 0.101,
       "sources_count": 2,
       "first_seen": "2026-11-02T13:13:54+00:00",
       "image": "https://cdnartic.ar/YKNOJ0r0ubDTQPwm50COjX71E18=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/nicolas_amendola_natacion_adaptada.webp",
@@ -361,16 +361,16 @@
           "TSN Necochea | ‹ VOLVER | Deportes | “Todos al Agua” | Natación adaptada El necochense Nico Améndola estableció un nuevo récord argentino en pleno Mundial de Portugal En la prueba de 50 metros mariposa. Por Agustin Betancor 02/11/2026 · 10:13 AM Agregar TSN Necochea en El nadador de la Escuela Municipal de Natación Adaptada “Todos al Agua”, Nicolás Améndola , tuvo una destacada actuación este lunes en el 12° Mundial de natación para Personas con Síndrome de Down , que se disputa en Albufeira, Portugal. En los 50 metros mariposa registró un tiempo de 35.09 segundos, mejoró su marca personal en 1 segundo y 54 centésimas y estableció un nuevo récord argentino.",
           "Améndola se ubicó entre los 11 mejores de una prueba que reunió a 58 nadadores de distintos países, quedando a solo 29 centésimas de acceder como segundo suplente a la final mundial. Por supuesto, fue el mejor representante argentino en la competencia."
         ],
-        "generated": "2026-11-02T18:02:39.897787+00:00"
+        "generated": "2026-11-02T18:32:35.729648+00:00"
       },
-      "apariciones": 6,
-      "ultima_impresion": "2026-11-02T18:00:01.094625+00:00",
-      "penalizacion": 0.092
+      "apariciones": 7,
+      "ultima_impresion": "2026-11-02T18:30:00.859469+00:00",
+      "penalizacion": 0.05
     },
     {
       "key": "arranco cyber monday sostiene nivel ventas gana terreno financiacion",
       "title": "Arrancó el Cyber Monday: se sostiene el nivel de ventas y gana terreno la financiación",
-      "score": 0.166,
+      "score": 0.087,
       "sources_count": 1,
       "first_seen": "2026-11-02T15:45:31+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2024/11/CyberMonday12.jpg",
@@ -390,16 +390,16 @@
           "TSN Necochea | ‹ VOLVER | Generales | comercio | Promociones y descuentos Arrancó el Cyber Monday: se sostiene el nivel de ventas y gana terreno la financiación Las compras en un solo pago perdieron peso frente a la búsqueda de plazos de 6 o más cuotas. Indumentaria representa casi el 60% de los pedidos, mientras que el ticket promedio se disparó en las categorías de hogar.",
           "Por Redacción TSN 02/11/2026 · 12:45 PM Descuentos y financiación impulsan ventas récord en el último día del Cyber Monday Agregar TSN Necochea en El consumidor llega a la compra preparado, se inclina por plazos de financiación más largos y la indumentaria lidera las órdenes de compra en las primeras horas del Cyber Monday. Asimismo, el volumen general de ventas se ubica en un rango similar al registrado en 2025 ."
         ],
-        "generated": "2026-11-02T18:04:03.906608+00:00"
+        "generated": "2026-11-02T18:33:58.747712+00:00"
       },
-      "apariciones": 5,
-      "ultima_impresion": "2026-11-02T18:00:01.094625+00:00",
-      "penalizacion": 0.166
+      "apariciones": 6,
+      "ultima_impresion": "2026-11-02T18:30:00.859469+00:00",
+      "penalizacion": 0.091
     },
     {
       "key": "nico amendola batio propio record argentino quedo mejores 11 mundo",
       "title": "Nico Améndola batió su propio récord argentino y quedó entre los mejores 11 del mundo",
-      "score": 0.16,
+      "score": 0.084,
       "sources_count": 3,
       "first_seen": "2026-11-02T13:25:00+00:00",
       "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/2c4bdb024feb899c4a14eb76cd228495ef6170fe.jpg",
@@ -437,16 +437,16 @@
           "Améndola se ubicó entre los 11 mejores de una prueba que reunió a 58 nadadores de distintos países, quedando a solo 29 centésimas de acceder como segundo suplente a la final mundial . Por supuesto, fue el mejor representante argentino en la competencia. “Estamos muy conformes con el rendimiento, el resultado y su comportamiento”, destacó Marcos Bertone , entrenador de Nicolás y coordinador de la Escuela Municipal, quien acompaña a la delegación en Portugal como parte del cuerpo técnico.",
           "El entrenador remarcó que el nuevo récord es fruto de la preparación sostenida durante todo el año y valoró el crecimiento deportivo del nadador necochense, que en las ediciones de los últimos cuatro años se había ubicado entre los 20 mejores del mundo. Con esta actuación, Améndola dio un nuevo paso entre los principales exponentes internacionales de la disciplina."
         ],
-        "generated": "2026-11-02T18:01:46.816467+00:00"
+        "generated": "2026-11-02T18:31:49.316195+00:00"
       },
-      "apariciones": 7,
-      "ultima_impresion": "2026-11-02T18:00:01.094625+00:00",
-      "penalizacion": 0.05
+      "apariciones": 8,
+      "ultima_impresion": "2026-11-02T18:30:00.859469+00:00",
+      "penalizacion": 0.028
     },
     {
       "key": "asalto mano armada mercado quequen llevaron millon pesos",
       "title": "Asalto a mano armada en un mercado de Quequén: se llevaron un millón de pesos",
-      "score": 0.089,
+      "score": 0.047,
       "sources_count": 3,
       "first_seen": "2026-11-02T12:49:32+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/07/Policia-Mar-del-Plata-123.webp",
@@ -484,16 +484,16 @@
           "TSN Necochea | ‹ VOLVER | Locales | asalto | Investigación Asalto a mano armada en un mercado de Quequén: se llevaron un millón de pesos Un delincuente encapuchado amenazó a la empleada del comercio y huyó con el botín. La mujer, de 54 años, no sufrió lesiones y logró rastrear su teléfono horas después. Interviene la UFI N.º 30. Por Redacción TSN 02/11/2026 · 09:57 AM Agregar TSN Necochea en Un asalto a mano armada se registró este domingo por la noche en la localidad de Quequén .",
           "El hecho ocurrió alrededor de las 21:00 en un mercado ubicado en la calle 584 bis al 1500 . ​Según informaron fuentes policiales, un joven ingresó al establecimiento con el rostro cubierto y guantes . Tras encañonar a la empleada con un arma de fuego, logró sustraer aproximadamente un millón de pesos y un teléfono celular , para luego darse a la fuga."
         ],
-        "generated": "2026-11-02T18:01:19.930326+00:00"
+        "generated": "2026-11-02T18:31:16.956744+00:00"
       },
-      "apariciones": 8,
-      "ultima_impresion": "2026-11-02T18:00:01.094625+00:00",
-      "penalizacion": 0.028
+      "apariciones": 9,
+      "ultima_impresion": "2026-11-02T18:30:00.859469+00:00",
+      "penalizacion": 0.015
     },
     {
       "key": "cholo servat destaco nueva financiacion acceder casas container antes despues",
       "title": "Cholo Servat destacó una nueva financiación para acceder a casas container: “Es un antes y un después”",
-      "score": 0.071,
+      "score": 0.037,
       "sources_count": 1,
       "first_seen": "2026-11-02T14:52:26+00:00",
       "image": null,
@@ -513,16 +513,16 @@
           "El responsable de Containers Necochea explicó que clientes vinculados al Banco Provincia pueden consultar opciones de financiamiento para viviendas modulares con plazos de hasta 96 cuotas. Aseguró que el nuevo esquema generó un fuerte movimiento durante los últimos días y destacó que una vivienda puede estar terminada en aproximadamente 60 a 90 días.",
           "Charlando con Fede Cañadas en “Esta Mañana”, por NEC Radio 98.3 del Multimedio NQ, José “Cholo” Servat, referente de Containers Necochea , presentó una alternativa de financiación que, según explicó, comenzó a generar un fuerte movimiento entre personas interesadas en acceder a una vivienda propia. Servat señaló que, mediante una operatoria vinculada con el Banco Provincia , quienes reúnen las condiciones pueden conocer rápidamente cuánto financiamiento tienen disponible y evaluar la compra de una casa container con plazos que pueden extenderse hasta 96 cuotas ."
         ],
-        "generated": "2026-11-02T18:04:36.016669+00:00"
+        "generated": "2026-11-02T18:34:51.524963+00:00"
       },
-      "apariciones": 6,
-      "ultima_impresion": "2026-11-02T18:00:01.094625+00:00",
-      "penalizacion": 0.092
+      "apariciones": 7,
+      "ultima_impresion": "2026-11-02T18:30:00.859469+00:00",
+      "penalizacion": 0.05
     },
     {
       "key": "viaje historia necochea museos parque miguel lillo reciben escuelas vecinos turistas",
       "title": "Un viaje por la historia de Necochea: los museos del Parque Miguel Lillo reciben a escuelas, vecinos y turistas",
-      "score": 0.069,
+      "score": 0.037,
       "sources_count": 1,
       "first_seen": "2026-11-02T14:40:33+00:00",
       "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-02-at-10.34.38.jpeg",
@@ -542,16 +542,16 @@
           "Desde objetos vinculados con las antiguas playas necochenses hasta parte del legado de la histórica Escuela de Fútbol “Nito” Cruz, el Área de Museos mantiene abierta una propuesta para descubrir la identidad de la ciudad. Matías Criado explicó cómo funcionan las visitas guiadas y destacó el creciente acercamiento de instituciones educativas.",
           "Desde el móvil y charlando con Fede Cañadas en “Esta Mañana”, por NEC Radio 98.3 del Multimedio NQ, Matías Criado, responsable del Área de Museos de Necochea , invitó a vecinos, turistas e instituciones educativas a recorrer los espacios ubicados dentro del Parque Miguel Lillo, donde se conserva una parte fundamental de la historia y el patrimonio natural del distrito."
         ],
-        "generated": "2026-11-02T18:04:38.981944+00:00"
+        "generated": "2026-11-02T18:34:54.554855+00:00"
       },
-      "apariciones": 6,
-      "ultima_impresion": "2026-11-02T18:00:01.094625+00:00",
-      "penalizacion": 0.092
+      "apariciones": 7,
+      "ultima_impresion": "2026-11-02T18:30:00.859469+00:00",
+      "penalizacion": 0.05
     },
     {
       "key": "punto emprendedor reunira 46 expositores club danes entrada gratuita sorteos musica vivo",
       "title": "Punto Emprendedor reunirá a 46 expositores en el Club Danés con entrada gratuita, sorteos y música en vivo",
-      "score": 0.066,
+      "score": 0.035,
       "sources_count": 1,
       "first_seen": "2026-11-02T14:05:21+00:00",
       "image": null,
@@ -571,16 +571,16 @@
           "Roxana Herrera y Julieta Stremiz presentaron una nueva propuesta que busca dar visibilidad al trabajo de emprendedores y artesanos de Necochea y Quequén. El encuentro se realizará este sábado 7 de noviembre, de 15 a 20 horas, en el Club Danés, ubicado en avenida 42 entre 55 y 57. Habrá productos de distintos rubros, sorteos y presentaciones musicales.",
           "Una nueva propuesta para acompañar y promover el trabajo de los emprendedores locales tendrá lugar este sábado en Necochea. Se trata de Punto Emprendedor, un encuentro que reunirá a 46 expositores en las instalaciones del Club Danés, con entrada libre y gratuita para toda la comunidad."
         ],
-        "generated": "2026-11-02T18:04:41.716156+00:00"
+        "generated": "2026-11-02T18:34:57.320871+00:00"
       },
-      "apariciones": 6,
-      "ultima_impresion": "2026-11-02T18:00:01.094625+00:00",
-      "penalizacion": 0.092
+      "apariciones": 7,
+      "ultima_impresion": "2026-11-02T18:30:00.859469+00:00",
+      "penalizacion": 0.05
     },
     {
       "key": "upc avanza parque solar mw podria cubrir cerca 10 consumo necochea quequen",
       "title": "La UPC avanza con un parque solar de 3 MW que podría cubrir cerca del 10% del consumo de Necochea y Quequén",
-      "score": 0.034,
+      "score": 0.018,
       "sources_count": 1,
       "first_seen": "2026-11-02T13:15:09+00:00",
       "image": null,
@@ -600,16 +600,16 @@
           "La Usina Popular Cooperativa comenzó las primeras tareas sobre un predio de casi cuatro manzanas ubicado sobre la Ruta 86. Alejandro Issin, gerente general de la entidad, explicó que el proyecto contempla alrededor de 5.000 paneles solares, demandará una inversión estimada en US$2 millones y tendrá un período de recuperación de entre seis y siete años.",
           "Charlando con Fede Cañadas en “Esta Mañana”, por NEC Radio 98.3 del Multimedio NQ, Alejandro Issin, gerente general de la Usina Popular Cooperativa , brindó detalles del proyecto para construir un parque solar sobre la Ruta 86 , donde ya comenzaron los primeros movimientos y tareas de preparación del terreno. La iniciativa surge después de un período de análisis técnico, económico y legal realizado por profesionales de la cooperativa, con el objetivo de comenzar a autogenerar una parte de la energía que actualmente la UPC compra al mercado mayorista ."
         ],
-        "generated": "2026-11-02T18:04:44.685983+00:00"
+        "generated": "2026-11-02T18:35:00.084860+00:00"
       },
-      "apariciones": 7,
-      "ultima_impresion": "2026-11-02T18:00:01.094625+00:00",
-      "penalizacion": 0.05
+      "apariciones": 8,
+      "ultima_impresion": "2026-11-02T18:30:00.859469+00:00",
+      "penalizacion": 0.028
     },
     {
       "key": "alerta caracol invasor llego costa atlantica riesgos representa mascotas necochea quequen",
       "title": "Alerta por un caracol invasor que llegó a la Costa Atlántica: qué riesgos representa para las mascotas de Necochea y Quequén",
-      "score": 0.018,
+      "score": 0.009,
       "sources_count": 1,
       "first_seen": "2026-11-02T12:41:50+00:00",
       "image": null,
@@ -629,16 +629,16 @@
           "Se trata del caracol degollado, una especie originaria del sur de Europa y el norte de África que fue detectada en Mar del Plata. Se alimenta de otros caracoles, puede reproducirse sin pareja y, aunque no es venenoso, podría transmitir parásitos a animales domésticos y personas. Especialistas explicaron cómo identificarlo y qué precauciones tomar si aparece en jardines o patios.",
           "Una especie de caracol invasor comenzó a llamar la atención en Mar del Plata y su presencia representa un tema a tener en cuenta para los vecinos de Necochea y Quequén, especialmente para quienes tienen jardines, plantas y mascotas. Se trata del caracol degollado (Rumina decollata), un molusco terrestre originario del sur de Europa y el norte de África, que fue introducido en distintos lugares del mundo y que en Argentina está considerado una especie exótica invasora."
         ],
-        "generated": "2026-11-02T18:05:12.369030+00:00"
+        "generated": "2026-11-02T18:35:25.773365+00:00"
       },
-      "apariciones": 8,
-      "ultima_impresion": "2026-11-02T18:00:01.094625+00:00",
-      "penalizacion": 0.028
+      "apariciones": 9,
+      "ultima_impresion": "2026-11-02T18:30:00.859469+00:00",
+      "penalizacion": 0.015
     },
     {
       "key": "binance reabre retiros despues ciberataque provoco robo us 000 millones",
       "title": "Binance reabre retiros después de ciberataque que provocó un robo de US$ 6.000 millones",
-      "score": 0.003,
+      "score": 0.001,
       "sources_count": 1,
       "first_seen": "2026-11-02T11:01:04+00:00",
       "image": null,
@@ -658,11 +658,11 @@
           "La mayor plataforma de intercambio de criptomonedas del mundo comenzó a restablecer los retiros de fondos, mientras el FBI señala a un grupo de hackers vinculado a Corea del Norte como responsable del asalto. Restablecimiento gradual de los retiros El domingo Binance reactivó los retiros en varias fases, tras suspender la operación para evaluar los daños y reforzar su seguridad.",
           "Entre las 06:00 y las 15:30 GMT procesó retiros por US$ 4.650 millones y depósitos por US$ 1.010 millones, lo que generó una salida neta de US$ 3.640 millones, equivalente al 2,1 % de los activos bajo su gestión. La compañía anunció que cubrirá las pérdidas con recursos propios y que ya ha adquirido tokens para reponer el 90 % de los fondos sustraídos."
         ],
-        "generated": "2026-11-02T18:05:41.482850+00:00"
+        "generated": "2026-11-02T18:35:49.598880+00:00"
       },
-      "apariciones": 11,
-      "ultima_impresion": "2026-11-02T18:00:01.094625+00:00",
-      "penalizacion": 0.005
+      "apariciones": 12,
+      "ultima_impresion": "2026-11-02T18:30:00.859469+00:00",
+      "penalizacion": 0.003
     },
     {
       "key": "colapinto recibio dura sancion quedo puntos gp mexico",
@@ -687,10 +687,10 @@
           "La FIA aplicó diez segundos de sanción por no reducir la velocidad bajo bandera amarilla, anulando los puntos que el piloto argentino había conseguido. Franco Colapinto terminó el Gran Premio de México en la posición 15 después de que los comisarios deportivos le impusieran una penalización de diez segundos por no disminuir suficientemente la velocidad al atravesar un sector con bandera amarilla. La sanción, comunicada varias horas después de la carrera, eliminó los puntos que el argentino había ganado en pista.",
           "Inicialmente, Colapinto había cruzado la línea de meta en octavo puesto y, tras la penalización a Oscar Piastri, había subido al séptimo. La revisión de la telemetría, las imágenes a bordo y los registros de cronometraje confirmó que el piloto del auto número 43 no cumplió con las exigencias de seguridad establecidas para la señal amarilla."
         ],
-        "generated": "2026-11-02T18:05:42.376880+00:00"
+        "generated": "2026-11-02T18:35:50.801930+00:00"
       },
-      "apariciones": 16,
-      "ultima_impresion": "2026-11-02T18:00:01.094625+00:00",
+      "apariciones": 17,
+      "ultima_impresion": "2026-11-02T18:30:00.859469+00:00",
       "penalizacion": 0.0
     },
     {
@@ -716,39 +716,10 @@
           "El conjunto xeneize se impuso con un cabezazo de Lautaro Di Lollo y, tras dos expulsiones en River, tomó la primera posición del campeonato. Boca Juniors derrotó a River Plate por 1‑0 en la Bombonera este domingo 1 de noviembre de 2026, en la fecha 15 del Torneo Clausura 2026. El gol, anotado en el minuto 26 del primer tiempo, llegó tras un tiro de esquina ejecutado por Sebastián Villa; Di Lollo conectó de cabeza y batió al arquero rival. El partido estuvo marcado por la reducción numérica de River.",
           "El árbitro Nicolás Ramírez mostró tarjeta roja directa a Lucas Martínez Quarta a los diez minutos, tras revisar una falta sobre Miguel Merentiel con el VAR. La segunda expulsión se produjo en el segundo tiempo, cuando Gonzalo Montiel recibió tarjeta roja directa en el minuto 33 por una fuerte infracción sobre Lautaro Blanco. Con ambas salidas, el equipo dirigido por Leonardo Ponzio quedó con nueve jugadores."
         ],
-        "generated": "2026-11-02T18:05:43.388014+00:00"
+        "generated": "2026-11-02T18:35:51.815717+00:00"
       },
-      "apariciones": 16,
-      "ultima_impresion": "2026-11-02T18:00:01.094625+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "rosca politica necochense",
-      "title": "La “rosca” política necochense",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-11-01T21:25:04+00:00",
-      "image": null,
-      "articles": [
-        {
-          "portal": "Diario NQ",
-          "title": "La “rosca” política necochense",
-          "url": "https://diarionq.com.ar/la-rosca-politica-necochense-53/",
-          "published_at": "2026-11-01T21:25:04+00:00",
-          "first_seen": "2026-11-01T21:30:01.756976+00:00",
-          "category": "Política",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Por Miguel Abálsamo La pregunta que le hago a todos aquellos aspirantes legítimamente a la intendencia de Necochea en el 27 es: ¿tienen equipo armado para gobernar? ¿Tienen 30 a 40 dirigentes para la cobertura de cada área de la administración del distrito? Sencilla pregunta que espera respuestas. Ha llegado la hora de responder, menos críticas y quejas y decir cómo resolvés lo que no te gusta o continuarías lo realizado.",
-          "No hay tiempo de improvisación. Es más fácil ganar una elección que gobernar un distrito de 120.000 habitantes con las complejidades del nuestro. No se puede asumir y comenzar a aprender."
-        ],
-        "generated": "2026-11-02T18:05:46.401140+00:00"
-      },
-      "apariciones": 30,
-      "ultima_impresion": "2026-11-02T18:00:01.094625+00:00",
+      "apariciones": 17,
+      "ultima_impresion": "2026-11-02T18:30:00.859469+00:00",
       "penalizacion": 0.0
     }
   ]
