@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-02T21:00:00.572897+00:00",
+  "generated_at": "2026-11-02T21:30:00.420285+00:00",
   "article_count": 135,
   "fetch_errors": [],
   "stories": [
     {
       "key": "violencia genero aprehendieron quequen hombre acusado disparar intimidar pareja",
       "title": "Violencia de género: aprehendieron en Quequén a un hombre acusado de disparar para intimidar a su pareja",
-      "score": 1.792,
+      "score": 1.719,
       "sources_count": 2,
       "first_seen": "2026-11-02T16:25:00+00:00",
       "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/bab55bd03ce1955f3e6324c0036c5f70a02a3971.jpg",
@@ -35,16 +35,74 @@
           "Al arribar al lugar, los efectivos entrevistaron a la joven, quien denunció que su pareja había realizado varios disparos con fines intimidatorios. Ante la gravedad del hecho, la mujer fue trasladada al Hospital Municipal de Necochea para recibir atención médica. Hasta el momento, la información oficial no precisa si presentaba lesiones ni brinda mayores detalles sobre su estado de salud.",
           "En las inmediaciones de la propiedad, a pocos metros del lugar, personal policial logró interceptar y aprehender al sospechoso. Durante la requisa no se halló ningún arma de fuego en su poder y, por el momento, la información oficial no permite confirmar formalmente si efectivamente se realizaron las detonaciones o si se secuestraron otros elementos vinculados con el caso. El procedimiento fue avalado por las autoridades judiciales y se dispuso que el detenido permanezca alojado a disposición de la Justicia."
         ],
-        "generated": "2026-11-02T21:01:53.898013+00:00"
+        "generated": "2026-11-02T21:31:51.993616+00:00"
+      },
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-02T21:30:00.420285+00:00",
+      "penalizacion": 1.0
+    },
+    {
+      "key": "promos cuenta dni noviembre",
+      "title": "Una por una, las promos de Cuenta DNI en noviembre",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-02T21:30:00.420285+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261102175958_whatsapp-image-2026-11-02-at-17-59-39.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Una por una, las promos de Cuenta DNI en noviembre",
+          "url": "https://necocheadigital.com/nota/120081/una-por-una-las-promos-de-cuenta-dni-en-noviembre/",
+          "published_at": null,
+          "first_seen": "2026-11-02T21:30:00.420285+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Cuenta DNI continúa en noviembre con su oferta de descuentos en distintos rubros y consolida una propuesta que combina ahorro cotidiano con beneficios especiales para compras de alimentos, productos de uso habitual, gastronomía, educación y cuidado de mascotas. Con promociones distribuidas a lo largo de toda la semana, la billetera digital de Banco Provincia sigue siendo una de las herramientas más elegidas por las familias bonaerenses para realizar pagos y gestionar su dinero. TODAS LAS PROMOCIONES DE CUENTA DNI EN NOVIEMBRE Comercios de cercanía: 20% de descuento en comercios adheridos de lunes a viernes, con tope de $6.000 por semana, que se alcanza con consumos de $30.000.",
+          "Ferias y mercados bonaerenses: 40% de descuento todos los días, con tope de $6.000 semanales, que se alcanza con un ticket $15.000. Gastronomía: 25% de descuento los sábados y domingos en locales gastronómicos adheridos."
+        ],
+        "generated": "2026-11-02T21:33:10.427230+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-02T21:00:00.572897+00:00"
+      "ultima_impresion": "2026-11-02T21:30:00.420285+00:00"
+    },
+    {
+      "key": "usina popular cooperativa impulsa creacion primer parque solar necochea",
+      "title": "La Usina Popular Cooperativa impulsa la creación de su primer Parque Solar en Necochea",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-02T21:30:00.420285+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261102114839_whatsapp-image-2026-11-02-at-11-48-10.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "La Usina Popular Cooperativa impulsa la creación de su primer Parque Solar en Necochea",
+          "url": "https://necocheadigital.com/nota/120073/la-usina-popular-cooperativa-impulsa-la-creacion-de-su-primer-parque-solar-en-necochea/",
+          "published_at": null,
+          "first_seen": "2026-11-02T21:30:00.420285+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Esta obra se enmarca en un plan estratégico de autogeneración de energía limpia que busca hacer frente a la desregulación del mercado eléctrico nacional, donde la compra de electricidad a grandes generadores representa el insumo de mayor costo para la distribución eléctrica local. Detalles clave de los proyectos y del plan operativo Parque Solar de Necochea (Ruta 86): Contará con una capacidad de generación de 3 MW .",
+          "Para tomar como referencia, la ciudad de Necochea utiliza actualmente una demanda de alrededor de 30 MW. Inyección a la red local y reinversión: Aunque la UPC opera como agente del mercado eléctrico mayorista y tiene la facultad de vender energía a terceros, la opción más rentable en esta etapa inicial consiste en volcar la producción a las redes locales para reducir la factura global."
+        ],
+        "generated": "2026-11-02T21:33:11.127961+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-02T21:30:00.420285+00:00"
     },
     {
       "key": "tarifas gas recortan descuentos zona fria habra aumentos 88",
       "title": "Tarifas de gas: recortan los descuentos por Zona Fría y habrá aumentos de hasta el 88%",
-      "score": 1.134,
+      "score": 0.598,
       "sources_count": 1,
       "first_seen": "2026-11-02T20:19:31+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/07/tarifas-gas-aumento-subsidios-zona-fria-gas-natural-frio-invierno-calefaccion-hornallajpg.webp",
@@ -64,74 +122,16 @@
           "TSN Necochea | ‹ VOLVER | Locales | Aumentos | Subsidios energéticos Tarifas de gas: recortan los descuentos por Zona Fría y habrá aumentos de hasta el 88% Los incrementos regirán desde noviembre tras la reglamentación del nuevo esquema. En la provincia de Buenos Aires la suba promedio rondará el 46%, sintiéndose con mayor intensidad en los meses de menor consumo. Por Redacción TSN 02/11/2026 · 05:19 PM Oficializan nuevo esquema de subsidios Fotografía: Agencia Noticias Argentinas/ Redes.",
           "Agregar TSN Necochea en Las facturas de gas registrarán aumentos de hasta el 88% desde noviembre para los usuarios alcanzados por las modificaciones en el régimen de Zona Fría . Las subas dependerán de la distribuidora, la zona de residencia y los beneficios que tenía asignados cada hogar, según estimaciones de la consultora Economía & Energía . El Gobierno gobierno promulgó el recorte de la Zona Fría."
         ],
-        "generated": "2026-11-02T21:02:36.730212+00:00"
+        "generated": "2026-11-02T21:33:12.229711+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-11-02T21:00:00.572897+00:00",
-      "penalizacion": 1.0
-    },
-    {
-      "key": "joven motociclista hospitalizado chocar camioneta 44 55",
-      "title": "Un joven motociclista fue hospitalizado tras chocar contra una camioneta en 44 y 55",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-02T21:00:00.572897+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/1ac6adfe8c3054944222264a49874943862bd5e7.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Un joven motociclista fue hospitalizado tras chocar contra una camioneta en 44 y 55",
-          "url": "https://necocheadigital.com/nota/120074/un-joven-motociclista-fue-hospitalizado-tras-chocar-contra-una-camioneta-en-44-y-55/",
-          "published_at": null,
-          "first_seen": "2026-11-02T21:00:00.572897+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Un joven conductor de motocicleta debió ser trasladado de urgencia al nosocomio local tras sufrir diversas lesiones al colisionar contra una camioneta durante las primeras horas de este lunes. El siniestro se registró cerca de las 6:00 en la intersección de las calles 44 y 55, lo que motivó la rápida intervención de las fuerzas de seguridad y asistencia a partir del alerta recibido en la base operativa de la Dirección General de Defensa Civil.",
-          "Agentes del área acudieron de inmediato al sitio del hecho para realizar las primeras maniobras de auxilio e inmovilización al herido hasta la llegada de la ambulancia del SAME, efectores de salud que procedieron a efectuar su traslado al centro hospitalario."
-        ],
-        "generated": "2026-11-02T21:02:56.198938+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-02T21:00:00.572897+00:00"
-    },
-    {
-      "key": "lnf equipos san cayetano sacaron ventaja minima ida semifinales femeninas",
-      "title": "LNF: Los equipos de San Cayetano sacaron ventaja por la mínima en la ida de las semifinales femeninas",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-02T21:00:00.572897+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261102121547_whatsapp-image-2026-11-02-at-12-15-29.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "LNF: Los equipos de San Cayetano sacaron ventaja por la mínima en la ida de las semifinales femeninas",
-          "url": "https://necocheadigital.com/nota/120078/lnf-los-equipos-de-san-cayetano-sacaron-ventaja-por-la-minima-en-la-ida-de-las-semifinales-femeninas/",
-          "published_at": null,
-          "first_seen": "2026-11-02T21:00:00.572897+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "En el Estadio Panamericano, Sportivo logró un valioso triunfo fuera de casa gracias a la conversión de Yolanda Estarli. Las albirrojas, que llegaron a esta instancia de forma invicta tras liderar la fase regular con 26 puntos y haberse adjudicado el Torneo Preparación en la primera mitad del año, buscarán sellar el pase a la final en el estadio Felipe Serafini. Por su parte, Independiente hizo valer la localía en el estadio Juan Bautista Marlats y superó por 1-0 a Villa Díaz Vélez con gol de Francesca Sanso.",
-          "El elenco sancayetanense, que finalizó tercero en la etapa clasificatoria, sostendrá la diferencia en la revancha que se disputará en el estadio Vasco Iparraguirre. El cuadro de semifinales enfrenta a los cuatro mejores de la etapa regular, donde Villa Díaz Vélez escoltó a las punteras con 22 unidades y Rivadavia completó la nómina en el cuarto lugar con 11 puntos."
-        ],
-        "generated": "2026-11-02T21:02:57.019608+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-02T21:00:00.572897+00:00"
+      "apariciones": 3,
+      "ultima_impresion": "2026-11-02T21:30:00.420285+00:00",
+      "penalizacion": 0.55
     },
     {
       "key": "boca vencio river superclasico quedo como lider tabla anual",
       "title": "Boca venció a River en el Superclásico y quedó como líder de la tabla anual",
-      "score": 0.374,
+      "score": 0.359,
       "sources_count": 1,
       "first_seen": "2026-11-02T09:12:08+00:00",
       "image": null,
@@ -151,16 +151,16 @@
           "El conjunto xeneize se impuso con un cabezazo de Lautaro Di Lollo y, tras dos expulsiones en River, tomó la primera posición del campeonato. Boca Juniors derrotó a River Plate por 1‑0 en la Bombonera este domingo 1 de noviembre de 2026, en la fecha 15 del Torneo Clausura 2026. El gol, anotado en el minuto 26 del primer tiempo, llegó tras un tiro de esquina ejecutado por Sebastián Villa; Di Lollo conectó de cabeza y batió al arquero rival. El partido estuvo marcado por la reducción numérica de River.",
           "El árbitro Nicolás Ramírez mostró tarjeta roja directa a Lucas Martínez Quarta a los diez minutos, tras revisar una falta sobre Miguel Merentiel con el VAR. La segunda expulsión se produjo en el segundo tiempo, cuando Gonzalo Montiel recibió tarjeta roja directa en el minuto 33 por una fuerte infracción sobre Lautaro Blanco. Con ambas salidas, el equipo dirigido por Leonardo Ponzio quedó con nueve jugadores."
         ],
-        "generated": "2026-11-02T21:05:50.367336+00:00"
+        "generated": "2026-11-02T21:35:46.792033+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-02T21:00:00.572897+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-02T21:30:00.420285+00:00",
+      "penalizacion": 1.0
     },
     {
       "key": "huella joven consolido exito redes segundo ano consecutivo",
       "title": "Huella Joven consolidó su éxito en las redes por segundo año consecutivo",
-      "score": 0.017,
+      "score": 0.009,
       "sources_count": 2,
       "first_seen": "2026-11-02T16:58:09+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/09/21-09-FOTO-Fiesta-de-la-Primavera6.webp",
@@ -189,16 +189,16 @@
           "TSN Necochea | ‹ VOLVER | Generales | huella | Juventud Huella Joven consolidó su éxito en las redes por segundo año consecutivo El programa viral que se comparte por las redes de juventud tuvo a 21 protagonistas a lo largo del 2026.",
           "Por Redacción TSN 02/11/2026 · 01:58 PM Delfi Vellón, referente del stunt de bici en Necochea, junto a Agustina Di Russo de Juventud Agregar TSN Necochea en Luego de una primera temporada con gran repercusión, el programa municipal Huella Joven volvió a tener una respuesta muy positiva durante 2026 , sumando nuevas historias de vida y testimonios de jóvenes del distrito que encontraron en las redes sociales un espacio para compartir sus experiencias, intereses y proyectos, pero además para subir contenido que inste a un buen uso de las redes sociales."
         ],
-        "generated": "2026-11-02T21:00:57.866791+00:00"
+        "generated": "2026-11-02T21:30:58.632796+00:00"
       },
-      "apariciones": 10,
-      "ultima_impresion": "2026-11-02T21:00:00.572897+00:00",
-      "penalizacion": 0.008
+      "apariciones": 11,
+      "ultima_impresion": "2026-11-02T21:30:00.420285+00:00",
+      "penalizacion": 0.005
     },
     {
       "key": "municipio realizo trabajos mantenimiento parquizacion santamarina energia",
       "title": "El Municipio realizó trabajos de mantenimiento y parquización en Santamarina y Energía",
-      "score": 0.014,
+      "score": 0.007,
       "sources_count": 1,
       "first_seen": "2026-11-02T17:27:39+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/02-11-FOTO-espacios-Santamarina2.webp",
@@ -218,16 +218,16 @@
           "TSN Necochea | ‹ VOLVER | Locales | corte de pasto | Labores El Municipio realizó trabajos de mantenimiento y parquización en Santamarina y Energía Los trabajos incluyeron el mantenimiento de espacios verdes y del cementerio local. Por Redacción TSN 02/11/2026 · 02:27 PM Agregar TSN Necochea en La Municipalidad de Necochea llevó adelante tareas de mantenimiento, corte de pasto y parquización en distintos espacios públicos de Ramón Santamarina y Energía, con el objetivo de mejorar y conservar los lugares de uso comunitario.",
           "Según informó la Delegación Municipal, a cargo de Virginia Hefner, en Ramón Santamarina los trabajos incluyeron el mantenimiento de espacios verdes y del cementerio local. En tanto, en Energía se realizaron tareas de corte de pasto y parquización en la plaza, el frente de ruta y la vereda del Jardín de Infantes."
         ],
-        "generated": "2026-11-02T21:03:53.902601+00:00"
+        "generated": "2026-11-02T21:33:50.104309+00:00"
       },
-      "apariciones": 9,
-      "ultima_impresion": "2026-11-02T21:00:00.572897+00:00",
-      "penalizacion": 0.015
+      "apariciones": 10,
+      "ultima_impresion": "2026-11-02T21:30:00.420285+00:00",
+      "penalizacion": 0.008
     },
     {
       "key": "video olvido freno mano camioneta termino marcha atras rambla",
       "title": "VIDEO: olvidó el freno de mano y su camioneta terminó marcha atrás en la rambla",
-      "score": 0.014,
+      "score": 0.007,
       "sources_count": 1,
       "first_seen": "2026-11-02T17:22:50+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/Screenshot_20261102_112127_Chrome.webp",
@@ -247,16 +247,16 @@
           "TSN Necochea | ‹ VOLVER | Videos | Mar del Plata | Virales VIDEO: olvidó el freno de mano y su camioneta terminó marcha atrás en la rambla El vehículo recorrió 100 metros sin conductor en la zona de la costa y Córdoba tras quedarse sin el freno accionado. Pese a la gran cantidad de peatones a esa hora, no se registraron heridos y solo rozó a otro auto. Por Redacción TSN 02/11/2026 · 02:22 PM Agregar TSN Necochea en Una camioneta Chrysler descendió marcha atrás y sin conductor durante unos 100 metros por el paseo costero de Mar del Plata , luego de que su dueño la dejara estacionada sin accionar el freno de mano .",
           "El vehículo terminó sobre la rambla y rozó a un auto, aunque no hubo personas heridas de milagro. This browser does not support the video element. El hecho ocurrió este lunes, cerca de las 9.30, en la zona de la costa y Córdoba ."
         ],
-        "generated": "2026-11-02T21:03:54.624594+00:00"
+        "generated": "2026-11-02T21:33:50.830665+00:00"
       },
-      "apariciones": 9,
-      "ultima_impresion": "2026-11-02T21:00:00.572897+00:00",
-      "penalizacion": 0.015
+      "apariciones": 10,
+      "ultima_impresion": "2026-11-02T21:30:00.420285+00:00",
+      "penalizacion": 0.008
     },
     {
       "key": "disparos intimidar pareja hombre aprehendido quequen",
       "title": "Quiso intimidar a su pareja efectuando disparos: fue aprehendido",
-      "score": 0.013,
+      "score": 0.007,
       "sources_count": 1,
       "first_seen": "2026-11-02T17:18:04+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/06/fiscalia-necochea.webp",
@@ -276,16 +276,16 @@
           "TSN Necochea | ‹ VOLVER | Locales | amenazas | En Quequén Quiso intimidar a su pareja efectuando disparos: fue aprehendido Hubo amenazas . Un llamado al 911 alertó de la situación Por Redacción TSN 02/11/2026 · 02:18 PM Agregar TSN Necochea en Personal policial intervino en una vivienda de Quequén tras un llamado al 911 que alertaba sobre detonaciones de arma de fuego. En el lugar, una joven manifestó que su pareja habría efectuado disparos para intimidarla. La víctima fue trasladada al Hospital Municipal para recibir asistencia médica, mientras que el sospechoso, de 33 años, fue interceptado a pocos metros del lugar y aprehendido.",
           "No hallando arma de fuego en su poder. La Fiscalía interviniente avaló el procedimiento y dispuso que el hombre permanezca alojado a disposición de la Justicia. Interviene la UFI N.º 10 del Departamento Judicial Necochea."
         ],
-        "generated": "2026-11-02T21:03:55.648151+00:00"
+        "generated": "2026-11-02T21:33:51.559785+00:00"
       },
-      "apariciones": 9,
-      "ultima_impresion": "2026-11-02T21:00:00.572897+00:00",
-      "penalizacion": 0.015
+      "apariciones": 10,
+      "ultima_impresion": "2026-11-02T21:30:00.420285+00:00",
+      "penalizacion": 0.008
     },
     {
       "key": "cta elige manana autoridades necochea hay lista nivel nacional dos",
       "title": "La CTA elige mañana sus autoridades: en Necochea hay una lista, a nivel nacional dos",
-      "score": 0.007,
+      "score": 0.004,
       "sources_count": 1,
       "first_seen": "2026-11-02T16:40:27+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/320921953_1918439161834320_707500357757477251_n.avif",
@@ -305,63 +305,16 @@
           "TSN Necochea | ‹ VOLVER | Locales | Cta de los trabajadores | Gremios La CTA elige mañana sus autoridades: en Necochea hay una lista, a nivel nacional dos Más de 2000 personas están en condiciones de botar. Habrá urnas en varios lugares Por Redacción TSN 02/11/2026 · 01:40 PM Agregar TSN Necochea en Mañana la CTA de los Trabajadores realizará sus elecciones para renovar autoridades nacionales, provinciales y locales. En nuestra ciudad habrá una sóla lista que encabeza, Ana Inés Larrañaga (SUTEBA) como secretaria general.",
           "Además postulará a Valeria López (AMS Casinos) como secretaria adjunta; a Esteban Díaz Secretaría Gremial (ATE Verde y Blanca) y a Silvana Calio – Secretaría de Organización (CICOP). En Necochea se podrá votar en SUTEBA, en calle 61 Nº 3360, donde funcionarán dos mesas; CICOP, en calle 63 Nº 2048; AMS, en calle 91 y 4 bis; y ATE, en calle 68 Nº 3063."
         ],
-        "generated": "2026-11-02T21:03:56.399635+00:00"
+        "generated": "2026-11-02T21:33:52.275796+00:00"
       },
-      "apariciones": 10,
-      "ultima_impresion": "2026-11-02T21:00:00.572897+00:00",
-      "penalizacion": 0.008
-    },
-    {
-      "key": "rescataron hombre incendio quequen defensa civil logro estabilizarlo",
-      "title": "Rescataron a un hombre de un incendio en Quequén y Defensa Civil logró estabilizarlo",
-      "score": 0.003,
-      "sources_count": 3,
-      "first_seen": "2026-11-02T10:47:31+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261102090134_02-11-foto-dc-incendio2.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Rescataron a un hombre de un incendio en Quequén y Defensa Civil logró estabilizarlo",
-          "url": "https://necocheadigital.com/nota/120071/rescataron-a-un-hombre-de-un-incendio-en-quequen-y-defensa-civil-logro-estabilizarlo/",
-          "published_at": null,
-          "first_seen": "2026-11-02T12:30:01.296531+00:00",
-          "category": null,
-          "image": null
-        },
-        {
-          "portal": "Noticias de Necochea",
-          "title": "Quequén: rescataron inconsciente a un hombre atrapado en el incendio de su vivienda",
-          "url": "https://nden.com.ar/nota/38593/quequen-rescataron-inconsciente-a-un-hombre-atrapado-en-el-incendio-de-su-vivienda",
-          "published_at": "2026-11-02T11:57:00+00:00",
-          "first_seen": "2026-11-02T12:30:01.296531+00:00",
-          "category": null,
-          "image": "http://nden.com.ar/uploads/noticias/5/2026/11/95946bb2186ba433702b68379d15dd8a27135a5b.jpg"
-        },
-        {
-          "portal": "Diario NQ",
-          "title": "Un hombre provocó un incendio en su vivienda de Quequén, quedó inconsciente y fue rescatado por los bomberos",
-          "url": "https://diarionq.com.ar/un-hombre-provoco-un-incendio-en-su-vivienda-de-quequen-quedo-inconsciente-y-fue-rescatado-por-los-bomberos/",
-          "published_at": "2026-11-02T10:47:31+00:00",
-          "first_seen": "2026-11-02T11:00:00.516072+00:00",
-          "category": "Destacadas",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Un importante operativo de emergencia se desplegó durante la madrugada de este lunes en Quequén, luego de que se registrara un incendio en una vivienda donde permanecía un hombre que no había logrado salir del inmueble. La intervención de los bomberos y la rápida asistencia del personal de Defensa Civil resultaron fundamentales para rescatar a la víctima y brindarle los primeros auxilios antes de su traslado al hospital. De acuerdo con la información difundida por la Dirección General de Defensa Civil, a cargo de Augusto Fulton, el alerta se recibió alrededor de las 00:20, a partir de una comunicación policial que advertía sobre una persona atrincherada en su domicilio, donde se había iniciado un foco de incendio.",
-          "Ante la gravedad del episodio, se dio aviso al Hospital Municipal y se convocó de urgencia al Cuartel de Bomberos de Quequén. Al mismo tiempo, una unidad móvil de Defensa Civil, con dos agentes, se dirigió al lugar."
-        ],
-        "generated": "2026-11-02T21:01:29.864395+00:00"
-      },
-      "apariciones": 13,
-      "ultima_impresion": "2026-11-02T21:00:00.572897+00:00",
-      "penalizacion": 0.001
+      "apariciones": 11,
+      "ultima_impresion": "2026-11-02T21:30:00.420285+00:00",
+      "penalizacion": 0.005
     },
     {
       "key": "nico amendola batio propio record argentino quedo mejores 11 mundo",
       "title": "Nico Améndola batió su propio récord argentino y quedó entre los mejores 11 del mundo",
-      "score": 0.002,
+      "score": 0.001,
       "sources_count": 3,
       "first_seen": "2026-11-02T13:25:00+00:00",
       "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/2c4bdb024feb899c4a14eb76cd228495ef6170fe.jpg",
@@ -399,16 +352,63 @@
           "Améndola se ubicó entre los 11 mejores de una prueba que reunió a 58 nadadores de distintos países, quedando a solo 29 centésimas de acceder como segundo suplente a la final mundial . Por supuesto, fue el mejor representante argentino en la competencia. “Estamos muy conformes con el rendimiento, el resultado y su comportamiento”, destacó Marcos Bertone , entrenador de Nicolás y coordinador de la Escuela Municipal, quien acompaña a la delegación en Portugal como parte del cuerpo técnico.",
           "El entrenador remarcó que el nuevo récord es fruto de la preparación sostenida durante todo el año y valoró el crecimiento deportivo del nadador necochense, que en las ediciones de los últimos cuatro años se había ubicado entre los 20 mejores del mundo. Con esta actuación, Améndola dio un nuevo paso entre los principales exponentes internacionales de la disciplina."
         ],
-        "generated": "2026-11-02T21:00:56.058711+00:00"
+        "generated": "2026-11-02T21:30:56.474261+00:00"
+      },
+      "apariciones": 15,
+      "ultima_impresion": "2026-11-02T21:30:00.420285+00:00",
+      "penalizacion": 0.0
+    },
+    {
+      "key": "rescataron hombre incendio quequen defensa civil logro estabilizarlo",
+      "title": "Rescataron a un hombre de un incendio en Quequén y Defensa Civil logró estabilizarlo",
+      "score": 0.001,
+      "sources_count": 3,
+      "first_seen": "2026-11-02T10:47:31+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261102090134_02-11-foto-dc-incendio2.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Rescataron a un hombre de un incendio en Quequén y Defensa Civil logró estabilizarlo",
+          "url": "https://necocheadigital.com/nota/120071/rescataron-a-un-hombre-de-un-incendio-en-quequen-y-defensa-civil-logro-estabilizarlo/",
+          "published_at": null,
+          "first_seen": "2026-11-02T12:30:01.296531+00:00",
+          "category": null,
+          "image": null
+        },
+        {
+          "portal": "Noticias de Necochea",
+          "title": "Quequén: rescataron inconsciente a un hombre atrapado en el incendio de su vivienda",
+          "url": "https://nden.com.ar/nota/38593/quequen-rescataron-inconsciente-a-un-hombre-atrapado-en-el-incendio-de-su-vivienda",
+          "published_at": "2026-11-02T11:57:00+00:00",
+          "first_seen": "2026-11-02T12:30:01.296531+00:00",
+          "category": null,
+          "image": "http://nden.com.ar/uploads/noticias/5/2026/11/95946bb2186ba433702b68379d15dd8a27135a5b.jpg"
+        },
+        {
+          "portal": "Diario NQ",
+          "title": "Un hombre provocó un incendio en su vivienda de Quequén, quedó inconsciente y fue rescatado por los bomberos",
+          "url": "https://diarionq.com.ar/un-hombre-provoco-un-incendio-en-su-vivienda-de-quequen-quedo-inconsciente-y-fue-rescatado-por-los-bomberos/",
+          "published_at": "2026-11-02T10:47:31+00:00",
+          "first_seen": "2026-11-02T11:00:00.516072+00:00",
+          "category": "Destacadas",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Un importante operativo de emergencia se desplegó durante la madrugada de este lunes en Quequén, luego de que se registrara un incendio en una vivienda donde permanecía un hombre que no había logrado salir del inmueble. La intervención de los bomberos y la rápida asistencia del personal de Defensa Civil resultaron fundamentales para rescatar a la víctima y brindarle los primeros auxilios antes de su traslado al hospital. De acuerdo con la información difundida por la Dirección General de Defensa Civil, a cargo de Augusto Fulton, el alerta se recibió alrededor de las 00:20, a partir de una comunicación policial que advertía sobre una persona atrincherada en su domicilio, donde se había iniciado un foco de incendio.",
+          "Ante la gravedad del episodio, se dio aviso al Hospital Municipal y se convocó de urgencia al Cuartel de Bomberos de Quequén. Al mismo tiempo, una unidad móvil de Defensa Civil, con dos agentes, se dirigió al lugar."
+        ],
+        "generated": "2026-11-02T21:31:25.272215+00:00"
       },
       "apariciones": 14,
-      "ultima_impresion": "2026-11-02T21:00:00.572897+00:00",
+      "ultima_impresion": "2026-11-02T21:30:00.420285+00:00",
       "penalizacion": 0.001
     },
     {
       "key": "asalto mano armada mercado quequen llevaron millon pesos",
       "title": "Asalto a mano armada en un mercado de Quequén: un encapuchado se llevó un millón de pesos",
-      "score": 0.001,
+      "score": 0.0,
       "sources_count": 2,
       "first_seen": "2026-11-02T12:49:32+00:00",
       "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261102120228_foto-comisaria-segunda-quequen.jpg",
@@ -437,16 +437,16 @@
           "Un violento asalto a mano armada se registró durante la noche de este domingo en la localidad de Quequén, generando alerta entre los comerciantes de la zona. El hecho ocurrió alrededor de las 21:00 en un establecimiento comercial situado en la calle 584 bis al 1500, momento en el que un sujeto irrumpió de forma sorpresiva en el local con el objetivo de apoderarse de la recaudación del día. Según precisaron fuentes policiales, el delincuente ingresó al comercio con el rostro completamente cubierto y utilizando guantes para evitar dejar huellas.",
           "De inmediato encañonó a la empleada con un arma de fuego y la amenazó para que le entregara la totalidad del efectivo disponible. Bajo amedrentamiento, el asaltante logró sustraer una suma aproximada a un millón de pesos en efectivo junto con el teléfono celular de la mujer, dándose rápidamente a la fuga del lugar."
         ],
-        "generated": "2026-11-02T21:01:57.429876+00:00"
+        "generated": "2026-11-02T21:31:55.701627+00:00"
       },
-      "apariciones": 15,
-      "ultima_impresion": "2026-11-02T21:00:00.572897+00:00",
+      "apariciones": 16,
+      "ultima_impresion": "2026-11-02T21:30:00.420285+00:00",
       "penalizacion": 0.0
     },
     {
       "key": "cholo servat destaco nueva financiacion acceder casas container antes despues",
       "title": "Cholo Servat destacó una nueva financiación para acceder a casas container: “Es un antes y un después”",
-      "score": 0.001,
+      "score": 0.0,
       "sources_count": 1,
       "first_seen": "2026-11-02T14:52:26+00:00",
       "image": null,
@@ -466,16 +466,16 @@
           "El responsable de Containers Necochea explicó que clientes vinculados al Banco Provincia pueden consultar opciones de financiamiento para viviendas modulares con plazos de hasta 96 cuotas. Aseguró que el nuevo esquema generó un fuerte movimiento durante los últimos días y destacó que una vivienda puede estar terminada en aproximadamente 60 a 90 días.",
           "Charlando con Fede Cañadas en “Esta Mañana”, por NEC Radio 98.3 del Multimedio NQ, José “Cholo” Servat, referente de Containers Necochea , presentó una alternativa de financiación que, según explicó, comenzó a generar un fuerte movimiento entre personas interesadas en acceder a una vivienda propia. Servat señaló que, mediante una operatoria vinculada con el Banco Provincia , quienes reúnen las condiciones pueden conocer rápidamente cuánto financiamiento tienen disponible y evaluar la compra de una casa container con plazos que pueden extenderse hasta 96 cuotas ."
         ],
-        "generated": "2026-11-02T21:04:46.882743+00:00"
+        "generated": "2026-11-02T21:34:41.035636+00:00"
       },
-      "apariciones": 13,
-      "ultima_impresion": "2026-11-02T21:00:00.572897+00:00",
+      "apariciones": 14,
+      "ultima_impresion": "2026-11-02T21:30:00.420285+00:00",
       "penalizacion": 0.001
     },
     {
       "key": "viaje historia necochea museos parque miguel lillo reciben escuelas vecinos turistas",
       "title": "Un viaje por la historia de Necochea: los museos del Parque Miguel Lillo reciben a escuelas, vecinos y turistas",
-      "score": 0.001,
+      "score": 0.0,
       "sources_count": 1,
       "first_seen": "2026-11-02T14:40:33+00:00",
       "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-02-at-10.34.38.jpeg",
@@ -495,16 +495,16 @@
           "Desde objetos vinculados con las antiguas playas necochenses hasta parte del legado de la histórica Escuela de Fútbol “Nito” Cruz, el Área de Museos mantiene abierta una propuesta para descubrir la identidad de la ciudad. Matías Criado explicó cómo funcionan las visitas guiadas y destacó el creciente acercamiento de instituciones educativas.",
           "Desde el móvil y charlando con Fede Cañadas en “Esta Mañana”, por NEC Radio 98.3 del Multimedio NQ, Matías Criado, responsable del Área de Museos de Necochea , invitó a vecinos, turistas e instituciones educativas a recorrer los espacios ubicados dentro del Parque Miguel Lillo, donde se conserva una parte fundamental de la historia y el patrimonio natural del distrito."
         ],
-        "generated": "2026-11-02T21:04:49.868661+00:00"
+        "generated": "2026-11-02T21:34:44.032520+00:00"
       },
-      "apariciones": 13,
-      "ultima_impresion": "2026-11-02T21:00:00.572897+00:00",
+      "apariciones": 14,
+      "ultima_impresion": "2026-11-02T21:30:00.420285+00:00",
       "penalizacion": 0.001
     },
     {
       "key": "punto emprendedor reunira 46 expositores club danes entrada gratuita sorteos musica vivo",
       "title": "Punto Emprendedor reunirá a 46 expositores en el Club Danés con entrada gratuita, sorteos y música en vivo",
-      "score": 0.001,
+      "score": 0.0,
       "sources_count": 1,
       "first_seen": "2026-11-02T14:05:21+00:00",
       "image": null,
@@ -524,10 +524,10 @@
           "Roxana Herrera y Julieta Stremiz presentaron una nueva propuesta que busca dar visibilidad al trabajo de emprendedores y artesanos de Necochea y Quequén. El encuentro se realizará este sábado 7 de noviembre, de 15 a 20 horas, en el Club Danés, ubicado en avenida 42 entre 55 y 57. Habrá productos de distintos rubros, sorteos y presentaciones musicales.",
           "Una nueva propuesta para acompañar y promover el trabajo de los emprendedores locales tendrá lugar este sábado en Necochea. Se trata de Punto Emprendedor, un encuentro que reunirá a 46 expositores en las instalaciones del Club Danés, con entrada libre y gratuita para toda la comunidad."
         ],
-        "generated": "2026-11-02T21:04:53.132417+00:00"
+        "generated": "2026-11-02T21:34:48.283498+00:00"
       },
-      "apariciones": 13,
-      "ultima_impresion": "2026-11-02T21:00:00.572897+00:00",
+      "apariciones": 14,
+      "ultima_impresion": "2026-11-02T21:30:00.420285+00:00",
       "penalizacion": 0.001
     },
     {
@@ -553,11 +553,11 @@
           "La Usina Popular Cooperativa comenzó las primeras tareas sobre un predio de casi cuatro manzanas ubicado sobre la Ruta 86. Alejandro Issin, gerente general de la entidad, explicó que el proyecto contempla alrededor de 5.000 paneles solares, demandará una inversión estimada en US$2 millones y tendrá un período de recuperación de entre seis y siete años.",
           "Charlando con Fede Cañadas en “Esta Mañana”, por NEC Radio 98.3 del Multimedio NQ, Alejandro Issin, gerente general de la Usina Popular Cooperativa , brindó detalles del proyecto para construir un parque solar sobre la Ruta 86 , donde ya comenzaron los primeros movimientos y tareas de preparación del terreno. La iniciativa surge después de un período de análisis técnico, económico y legal realizado por profesionales de la cooperativa, con el objetivo de comenzar a autogenerar una parte de la energía que actualmente la UPC compra al mercado mayorista ."
         ],
-        "generated": "2026-11-02T21:04:56.307575+00:00"
+        "generated": "2026-11-02T21:34:51.438426+00:00"
       },
-      "apariciones": 14,
-      "ultima_impresion": "2026-11-02T21:00:00.572897+00:00",
-      "penalizacion": 0.001
+      "apariciones": 15,
+      "ultima_impresion": "2026-11-02T21:30:00.420285+00:00",
+      "penalizacion": 0.0
     },
     {
       "key": "alerta caracol invasor llego costa atlantica riesgos representa mascotas necochea quequen",
@@ -582,10 +582,10 @@
           "Se trata del caracol degollado, una especie originaria del sur de Europa y el norte de África que fue detectada en Mar del Plata. Se alimenta de otros caracoles, puede reproducirse sin pareja y, aunque no es venenoso, podría transmitir parásitos a animales domésticos y personas. Especialistas explicaron cómo identificarlo y qué precauciones tomar si aparece en jardines o patios.",
           "Una especie de caracol invasor comenzó a llamar la atención en Mar del Plata y su presencia representa un tema a tener en cuenta para los vecinos de Necochea y Quequén, especialmente para quienes tienen jardines, plantas y mascotas. Se trata del caracol degollado (Rumina decollata), un molusco terrestre originario del sur de Europa y el norte de África, que fue introducido en distintos lugares del mundo y que en Argentina está considerado una especie exótica invasora."
         ],
-        "generated": "2026-11-02T21:05:22.509124+00:00"
+        "generated": "2026-11-02T21:35:20.581154+00:00"
       },
-      "apariciones": 15,
-      "ultima_impresion": "2026-11-02T21:00:00.572897+00:00",
+      "apariciones": 16,
+      "ultima_impresion": "2026-11-02T21:30:00.420285+00:00",
       "penalizacion": 0.0
     },
     {
@@ -611,10 +611,10 @@
           "La mayor plataforma de intercambio de criptomonedas del mundo comenzó a restablecer los retiros de fondos, mientras el FBI señala a un grupo de hackers vinculado a Corea del Norte como responsable del asalto. Restablecimiento gradual de los retiros El domingo Binance reactivó los retiros en varias fases, tras suspender la operación para evaluar los daños y reforzar su seguridad.",
           "Entre las 06:00 y las 15:30 GMT procesó retiros por US$ 4.650 millones y depósitos por US$ 1.010 millones, lo que generó una salida neta de US$ 3.640 millones, equivalente al 2,1 % de los activos bajo su gestión. La compañía anunció que cubrirá las pérdidas con recursos propios y que ya ha adquirido tokens para reponer el 90 % de los fondos sustraídos."
         ],
-        "generated": "2026-11-02T21:05:48.224505+00:00"
+        "generated": "2026-11-02T21:35:44.534861+00:00"
       },
-      "apariciones": 18,
-      "ultima_impresion": "2026-11-02T21:00:00.572897+00:00",
+      "apariciones": 19,
+      "ultima_impresion": "2026-11-02T21:30:00.420285+00:00",
       "penalizacion": 0.0
     },
     {
@@ -640,10 +640,10 @@
           "La FIA aplicó diez segundos de sanción por no reducir la velocidad bajo bandera amarilla, anulando los puntos que el piloto argentino había conseguido. Franco Colapinto terminó el Gran Premio de México en la posición 15 después de que los comisarios deportivos le impusieran una penalización de diez segundos por no disminuir suficientemente la velocidad al atravesar un sector con bandera amarilla. La sanción, comunicada varias horas después de la carrera, eliminó los puntos que el argentino había ganado en pista.",
           "Inicialmente, Colapinto había cruzado la línea de meta en octavo puesto y, tras la penalización a Oscar Piastri, había subido al séptimo. La revisión de la telemetría, las imágenes a bordo y los registros de cronometraje confirmó que el piloto del auto número 43 no cumplió con las exigencias de seguridad establecidas para la señal amarilla."
         ],
-        "generated": "2026-11-02T21:05:49.275998+00:00"
+        "generated": "2026-11-02T21:35:45.640512+00:00"
       },
-      "apariciones": 23,
-      "ultima_impresion": "2026-11-02T21:00:00.572897+00:00",
+      "apariciones": 24,
+      "ultima_impresion": "2026-11-02T21:30:00.420285+00:00",
       "penalizacion": 0.0
     }
   ]
