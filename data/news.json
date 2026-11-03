@@ -1,12 +1,50 @@
 {
-  "generated_at": "2026-11-03T12:30:00.469474+00:00",
+  "generated_at": "2026-11-03T13:00:01.144804+00:00",
   "article_count": 135,
   "fetch_errors": [],
   "stories": [
     {
+      "key": "allanaron dos viviendas robo balneario necochea secuestraron ropa otros elementos",
+      "title": "Allanaron dos viviendas por un robo en un balneario de Necochea: secuestraron ropa y otros elementos",
+      "score": 2.613,
+      "sources_count": 2,
+      "first_seen": "2026-11-03T11:51:13+00:00",
+      "image": "https://cdnartic.ar/ftQqAxkEIxV3URg0rB39uid_Zw4=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/allanamiento.webp",
+      "articles": [
+        {
+          "portal": "Ecos Diarios",
+          "title": "Allanaron dos viviendas por un robo en un balneario de Necochea: secuestraron ropa y otros elementos",
+          "url": "https://elecos.com.ar/allanaron-dos-viviendas-por-un-robo-en-un-balneario-de-necochea-secuestraron-ropa-y-otros-elementos",
+          "published_at": "2026-11-03T11:51:13+00:00",
+          "first_seen": "2026-11-03T13:00:01.144804+00:00",
+          "category": "13",
+          "image": "https://cdnartic.ar/ftQqAxkEIxV3URg0rB39uid_Zw4=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/allanamiento.webp"
+        },
+        {
+          "portal": "Diario NQ",
+          "title": "Allanamientos por un robo en un balneario de Necochea: secuestraron prendas y elementos vinculados al hecho",
+          "url": "https://diarionq.com.ar/allanamientos-por-un-robo-en-un-balneario-de-necochea-secuestraron-prendas-y-elementos-vinculados-al-hecho/",
+          "published_at": "2026-11-03T12:49:46+00:00",
+          "first_seen": "2026-11-03T13:00:01.144804+00:00",
+          "category": "Policiales",
+          "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-03-at-09.44.04.jpeg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Personal de la Comisaría Tercera llevó adelante una serie de allanamientos en viviendas de calle 84, en el marco de una investigación por un robo ocurrido el pasado 27 de octubre en el estacionamiento de un balneario. Durante uno de los procedimientos se secuestraron prendas de vestir, calzado, una gorra y una mochila que habrían sido utilizados durante el ilícito.",
+          "Una investigación por un robo cometido en el estacionamiento de un balneario de Necochea permitió avanzar con una serie de allanamientos que arrojaron resultados positivos, luego de que efectivos policiales lograran secuestrar distintos elementos que estarían relacionados con el hecho. El procedimiento fue realizado por personal del Gabinete Técnico Operativo (GTO) de la Comisaría Tercera, a partir de tareas investigativas y del análisis de registros fílmicos que permitieron avanzar en la identificación de elementos vinculados al episodio."
+        ],
+        "generated": "2026-11-03T13:00:51.479364+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-03T13:00:01.144804+00:00"
+    },
+    {
       "key": "frente unidad docente estado alerta posible reforma ips",
       "title": "El Frente de Unidad Docente en estado de alerta por una posible reforma del IPS",
-      "score": 1.152,
+      "score": 1.105,
       "sources_count": 1,
       "first_seen": "2026-11-03T12:00:43+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/03-CE.webp",
@@ -26,190 +64,315 @@
           "TSN Necochea | ‹ VOLVER | Locales | concejo | Preocupación El Frente de Unidad Docente en estado de alerta por una posible reforma del IPS Llevaron su reclamo al Concejo Deliberante. Pedirán la Banca Abierta de la próxima sesión Por Redacción TSN 03/11/2026 · 09:00 AM Agregar TSN Necochea en En el marco de las diferentes reuniones del Concejo Deliberante se juntó la Comisión de Cultura y Educación bajo la presidencia del concejal Juan Pablo De La Hera (Agrupación Comunal Transformadora).",
           "La jornada contó con la participación especial de dirigentes y representantes del Frente de Unidad Docente Bonaerense (FUDB) , quienes acercaron al cuerpo deliberativo las inquietudes del sector en materia previsional."
         ],
-        "generated": "2026-11-03T12:31:06.167931+00:00"
+        "generated": "2026-11-03T13:01:47.707135+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-03T12:30:00.469474+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-03T13:00:01.144804+00:00",
+      "penalizacion": 1.0
     },
     {
-      "key": "necochea tendra gran feria emprendedores 46 proyectos locales reuniran club danes",
-      "title": "Necochea tendrá una gran feria de emprendedores: 46 proyectos locales se reunirán en el Club Danés",
+      "key": "programa huella joven consolido exito segundo ano protagonistas historias",
+      "title": "El programa Huella Joven consolidó su éxito en el segundo año con más protagonistas e historias",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-11-03T12:30:00.469474+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261103084536_captura-de-pantalla-2026-11-03-a-la-s-8-45-22-a-nbsp-m.png",
+      "first_seen": "2026-11-03T13:00:01.144804+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261102174317_21-09-foto-fiesta-de-la-primavera3.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Necochea tendrá una gran feria de emprendedores: 46 proyectos locales se reunirán en el Club Danés",
-          "url": "https://necocheadigital.com/nota/120083/necochea-tendra-una-gran-feria-de-emprendedores-46-proyectos-locales-se-reuniran-en-el-club-danes/",
+          "title": "El programa Huella Joven consolidó su éxito en el segundo año con más protagonistas e historias",
+          "url": "https://necocheadigital.com/nota/120079/el-programa-huella-joven-consolido-su-exito-en-el-segundo-ano-con-mas-protagonistas-e-historias/",
           "published_at": null,
-          "first_seen": "2026-11-03T12:30:00.469474+00:00",
+          "first_seen": "2026-11-03T13:00:01.144804+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "Necochea se prepara para vivir una tarde dedicada a la producción local, la creatividad y el trabajo independiente. Este sábado 7 de noviembre llegará la primera edición de Punto Emprendedor, una feria que reunirá a 46 expositores en las instalaciones del Club Danés, ubicado en avenida 42 entre 55 y 57.",
-          "La propuesta, que podrá visitarse entre las 15 y las 20, busca generar un espacio para que emprendedores y artesanos de Necochea, Quequén y localidades de la zona puedan mostrar sus producciones, dar a conocer sus proyectos y acercarse a nuevos clientes. La iniciativa es impulsada por Rosana Herrera y Julieta Stremiz, dos emprendedoras y profesoras de Educación Física que decidieron poner en marcha este encuentro después de conocer el potencial y la variedad de propuestas que existen en la ciudad."
+          "Desde la Subdirección de Juventud, a cargo de Agustina Di Russo y dependiente de la Secretaría de Turismo y Desarrollo Productivo, realizaron un balance muy favorable al cierre de esta segunda edición y destacaron que “Huella Joven sigue siendo un éxito” , reafirmando el interés que despertó la propuesta desde su lanzamiento.",
+          "A través de las publicaciones en la cuenta de Instagram @juventudneco , el programa dio visibilidad a jóvenes con distintas trayectorias, talentos y actividades, fortaleciendo un espacio de expresión en el que cada protagonista pudo contar su historia en primera persona."
         ],
-        "generated": "2026-11-03T12:31:07.618834+00:00"
+        "generated": "2026-11-03T13:01:48.440788+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-03T12:30:00.469474+00:00"
+      "ultima_impresion": "2026-11-03T13:00:01.144804+00:00"
     },
     {
-      "key": "promos cuenta dni noviembre",
-      "title": "Una por una, las promos de Cuenta DNI en noviembre",
+      "key": "condenaron seis anos prision hombre abuso sexual pornografia infantil quequen",
+      "title": "Condenaron a seis años de prisión a un hombre por abuso sexual y pornografía infantil en Quequén",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-11-03T12:30:00.469474+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261102175958_whatsapp-image-2026-11-02-at-17-59-39.jpg",
+      "first_seen": "2026-11-03T13:00:01.144804+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261102121204_whatsapp-image-2026-11-02-at-12-11-08.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Una por una, las promos de Cuenta DNI en noviembre",
-          "url": "https://necocheadigital.com/nota/120081/una-por-una-las-promos-de-cuenta-dni-en-noviembre/",
+          "title": "Condenaron a seis años de prisión a un hombre por abuso sexual y pornografía infantil en Quequén",
+          "url": "https://necocheadigital.com/nota/120077/condenaron-a-seis-anos-de-prision-a-un-hombre-por-abuso-sexual-y-pornografia-infantil-en-quequen/",
           "published_at": null,
-          "first_seen": "2026-11-03T12:30:00.469474+00:00",
+          "first_seen": "2026-11-03T13:00:01.144804+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "Cuenta DNI continúa en noviembre con su oferta de descuentos en distintos rubros y consolida una propuesta que combina ahorro cotidiano con beneficios especiales para compras de alimentos, productos de uso habitual, gastronomía, educación y cuidado de mascotas. Con promociones distribuidas a lo largo de toda la semana, la billetera digital de Banco Provincia sigue siendo una de las herramientas más elegidas por las familias bonaerenses para realizar pagos y gestionar su dinero. TODAS LAS PROMOCIONES DE CUENTA DNI EN NOVIEMBRE Comercios de cercanía: 20% de descuento en comercios adheridos de lunes a viernes, con tope de $6.000 por semana, que se alcanza con consumos de $30.000.",
-          "Ferias y mercados bonaerenses: 40% de descuento todos los días, con tope de $6.000 semanales, que se alcanza con un ticket $15.000. Gastronomía: 25% de descuento los sábados y domingos en locales gastronómicos adheridos."
+          "La resolución judicial acreditó la responsabilidad penal del acusado, originario de Misiones pero afincado en Quequén, bajo dos figuras en concurso real. Por un lado, se lo halló culpable de abuso sexual por aprovechamiento de la inmadurez sexual de la víctima, agravado por la convivencia preexistente, por hechos perpetrados en una vivienda de esa localidad entre agosto y octubre de 2023.",
+          "Por otra parte, la condena incluyó el delito de tenencia de imágenes de representaciones pornográficas de menores de edad, material informático que había sido incautado y certificado por peritos en la investigación previa a mayo de 2024. Además de la pena privativa de la libertad, que deberá cumplir efectivamente en una unidad penal del Servicio Penitenciario Bonaerense, los magistrados del tribunal local le impusieron las accesorias legales correspondientes y el pago de las costas del proceso."
         ],
-        "generated": "2026-11-03T12:31:08.298022+00:00"
+        "generated": "2026-11-03T13:01:49.604609+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-03T12:30:00.469474+00:00"
+      "ultima_impresion": "2026-11-03T13:00:01.144804+00:00"
     },
     {
-      "key": "usina popular cooperativa impulsa creacion primer parque solar necochea",
-      "title": "La Usina Popular Cooperativa impulsa la creación de su primer Parque Solar en Necochea",
+      "key": "joven motociclista hospitalizado chocar camioneta 44 55",
+      "title": "Un joven motociclista fue hospitalizado tras chocar contra una camioneta en 44 y 55",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-11-03T12:30:00.469474+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261102114839_whatsapp-image-2026-11-02-at-11-48-10.jpg",
+      "first_seen": "2026-11-03T13:00:01.144804+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/1ac6adfe8c3054944222264a49874943862bd5e7.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "La Usina Popular Cooperativa impulsa la creación de su primer Parque Solar en Necochea",
-          "url": "https://necocheadigital.com/nota/120073/la-usina-popular-cooperativa-impulsa-la-creacion-de-su-primer-parque-solar-en-necochea/",
+          "title": "Un joven motociclista fue hospitalizado tras chocar contra una camioneta en 44 y 55",
+          "url": "https://necocheadigital.com/nota/120074/un-joven-motociclista-fue-hospitalizado-tras-chocar-contra-una-camioneta-en-44-y-55/",
           "published_at": null,
-          "first_seen": "2026-11-03T12:30:00.469474+00:00",
+          "first_seen": "2026-11-03T13:00:01.144804+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "Esta obra se enmarca en un plan estratégico de autogeneración de energía limpia que busca hacer frente a la desregulación del mercado eléctrico nacional, donde la compra de electricidad a grandes generadores representa el insumo de mayor costo para la distribución eléctrica local. Detalles clave de los proyectos y del plan operativo Parque Solar de Necochea (Ruta 86): Contará con una capacidad de generación de 3 MW .",
-          "Para tomar como referencia, la ciudad de Necochea utiliza actualmente una demanda de alrededor de 30 MW. Inyección a la red local y reinversión: Aunque la UPC opera como agente del mercado eléctrico mayorista y tiene la facultad de vender energía a terceros, la opción más rentable en esta etapa inicial consiste en volcar la producción a las redes locales para reducir la factura global."
+          "Un joven conductor de motocicleta debió ser trasladado de urgencia al nosocomio local tras sufrir diversas lesiones al colisionar contra una camioneta durante las primeras horas de este lunes. El siniestro se registró cerca de las 6:00 en la intersección de las calles 44 y 55, lo que motivó la rápida intervención de las fuerzas de seguridad y asistencia a partir del alerta recibido en la base operativa de la Dirección General de Defensa Civil.",
+          "Agentes del área acudieron de inmediato al sitio del hecho para realizar las primeras maniobras de auxilio e inmovilización al herido hasta la llegada de la ambulancia del SAME, efectores de salud que procedieron a efectuar su traslado al centro hospitalario."
         ],
-        "generated": "2026-11-03T12:31:09.465599+00:00"
+        "generated": "2026-11-03T13:01:50.372399+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-03T12:30:00.469474+00:00"
+      "ultima_impresion": "2026-11-03T13:00:01.144804+00:00"
     },
     {
-      "key": "valle consagro campeon invicto regional clubes sub 19 mar plata",
-      "title": "Del Valle se consagró campeón invicto del Regional de Clubes Sub 19 en Mar del Plata",
+      "key": "lnf equipos san cayetano sacaron ventaja minima ida semifinales femeninas",
+      "title": "LNF: Los equipos de San Cayetano sacaron ventaja por la mínima en la ida de las semifinales femeninas",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-11-03T12:30:00.469474+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/0e22c362de2f39094cdb2b96f0b16f3eeb5fba42.jpg",
+      "first_seen": "2026-11-03T13:00:01.144804+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261102121547_whatsapp-image-2026-11-02-at-12-15-29.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Del Valle se consagró campeón invicto del Regional de Clubes Sub 19 en Mar del Plata",
-          "url": "https://necocheadigital.com/nota/120076/del-valle-se-consagro-campeon-invicto-del-regional-de-clubes-sub-19-en-mar-del-plata/",
+          "title": "LNF: Los equipos de San Cayetano sacaron ventaja por la mínima en la ida de las semifinales femeninas",
+          "url": "https://necocheadigital.com/nota/120078/lnf-los-equipos-de-san-cayetano-sacaron-ventaja-por-la-minima-en-la-ida-de-las-semifinales-femeninas/",
           "published_at": null,
-          "first_seen": "2026-11-03T12:30:00.469474+00:00",
+          "first_seen": "2026-11-03T13:00:01.144804+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "La quinta división de Del Valle se coronó campeona del Regional de Clubes D de hockey al vencer 4-1 a Comercial de Mar del Plata en una final disputada bajo la lluvia. Con este resultado, el equipo concluyó un torneo impecable con cinco victorias consecutivas y logró el ascenso al Regional de Clubes C. El conjunto azulgrana concretó su consagración tras una actuación contundente que comenzó a construirse en el primer cuarto con un remate de media vuelta de Emilia Badié.",
-          "Durante la segunda mitad del encuentro, la capitana Magdalena Raggio y Maite Tabares ampliaron la ventaja a través de la ejecución de dos córner cortos. Pese al descuento convertido por Morena Salaberry para el combinado marplatense, Josefina Daglio capturó un rebote en el área en la última jugada del partido para sellar el 4-1 definitivo."
+          "En el Estadio Panamericano, Sportivo logró un valioso triunfo fuera de casa gracias a la conversión de Yolanda Estarli. Las albirrojas, que llegaron a esta instancia de forma invicta tras liderar la fase regular con 26 puntos y haberse adjudicado el Torneo Preparación en la primera mitad del año, buscarán sellar el pase a la final en el estadio Felipe Serafini. Por su parte, Independiente hizo valer la localía en el estadio Juan Bautista Marlats y superó por 1-0 a Villa Díaz Vélez con gol de Francesca Sanso.",
+          "El elenco sancayetanense, que finalizó tercero en la etapa clasificatoria, sostendrá la diferencia en la revancha que se disputará en el estadio Vasco Iparraguirre. El cuadro de semifinales enfrenta a los cuatro mejores de la etapa regular, donde Villa Díaz Vélez escoltó a las punteras con 22 unidades y Rivadavia completó la nómina en el cuarto lugar con 11 puntos."
         ],
-        "generated": "2026-11-03T12:31:10.145759+00:00"
+        "generated": "2026-11-03T13:01:51.518932+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-03T12:30:00.469474+00:00"
+      "ultima_impresion": "2026-11-03T13:00:01.144804+00:00"
     },
     {
-      "key": "casino ex balneario aca proyectos recuperacion impulsa toda vela mar",
-      "title": "El Casino y el ex balneario del ACA: los proyectos de recuperación que impulsa A Toda Vela Mar",
+      "key": "daniel molina cuestiono calidad democracia actual pidio recuperar compromiso social",
+      "title": "Daniel Molina cuestionó la calidad de la democracia actual y pidió recuperar el compromiso social",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-11-03T12:30:00.469474+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/07a7e10d69e81bc8b8d37146b2f3d2733ec2d675.jpg",
+      "first_seen": "2026-11-03T13:00:01.144804+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/2376697afe0b3a851761394b23c53b7af079a5bd.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "El Casino y el ex balneario del ACA: los proyectos de recuperación que impulsa A Toda Vela Mar",
-          "url": "https://necocheadigital.com/nota/120065/el-casino-y-el-ex-balneario-del-aca-los-proyectos-de-recuperacion-que-impulsa-a-toda-vela-mar/",
+          "title": "Daniel Molina cuestionó la calidad de la democracia actual y pidió recuperar el compromiso social",
+          "url": "https://necocheadigital.com/nota/120064/daniel-molina-cuestiono-la-calidad-de-la-democracia-actual-y-pidio-recuperar-el-compromiso-social/",
           "published_at": null,
-          "first_seen": "2026-11-03T12:30:00.469474+00:00",
+          "first_seen": "2026-11-03T13:00:01.144804+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "La recuperación del Complejo Casino y del ex balneario del Automóvil Club Argentino (ACA) forma parte de los proyectos que A Toda Vela Mar S.A. comenzó a desarrollar en la costa de Necochea. Se trata de dos emprendimientos que requieren importantes inversiones y trabajos de infraestructura, debido al estado de deterioro en el que se encontraban las instalaciones.",
-          "Así lo explicó Oscar Merlo, integrante de la firma, durante una entrevista en Voces de la Tarde , el programa que conduce Jorge Gómez por Radio Noticias Necochea. En la charla, brindó detalles sobre las tareas en marcha, los plazos y las dificultades que enfrenta la empresa para recuperar ambos espacios. Merlo reconoció que el punto de partida representa un desafío importante por los años de falta de mantenimiento y la escasa inversión que recibieron las estructuras."
+          "Al cumplirse 43 años de las elecciones que marcaron el retorno de la democracia en la Argentina, el doctor Daniel Molina realizó un balance sobre el camino recorrido desde aquella jornada histórica y planteó una mirada crítica sobre el funcionamiento actual del sistema político. El actual presidente del Comité Emiliano Abásolo de la Unión Cívica Radical de Necochea y ex intendente municipal fue entrevistado en Voces de la Tarde , el programa que conduce Jorge Gómez por Radio Noticias Necochea. Durante la charla, evocó el contexto de 1983, destacó la figura del expresidente Raúl Alfonsín y reflexionó sobre los desafíos que todavía enfrenta la sociedad argentina.",
+          "Molina definió el regreso de la democracia como un momento excepcional, marcado por la recuperación de las libertades y el fin del miedo que había impuesto la última dictadura militar. “En aquel momento fue algo mágico."
         ],
-        "generated": "2026-11-03T12:31:10.829401+00:00"
+        "generated": "2026-11-03T13:01:52.247345+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-03T12:30:00.469474+00:00"
+      "ultima_impresion": "2026-11-03T13:00:01.144804+00:00"
     },
     {
-      "key": "levanto paro colectivos vuelven circular",
-      "title": "Se levantó el paro y los colectivos vuelven a circular",
+      "key": "unicen quequen celebra hoy 30 anos acto teatro usina",
+      "title": "La UNICEN Quequén celebra hoy sus 30 años con un acto en el Teatro de la Usina",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-11-03T12:30:00.469474+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261030165932_whatsapp-image-2026-10-30-at-16-58-46.jpg",
+      "first_seen": "2026-11-03T13:00:01.144804+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/10/20261030171415_07-11-foto-unicen-quequen.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Se levantó el paro y los colectivos vuelven a circular",
-          "url": "https://necocheadigital.com/nota/120059/se-levanto-el-paro-y-los-colectivos-vuelven-a-circular/",
+          "title": "La UNICEN Quequén celebra hoy sus 30 años con un acto en el Teatro de la Usina",
+          "url": "https://necocheadigital.com/nota/120060/la-unicen-quequen-celebra-hoy-sus-30-anos-con-un-acto-en-el-teatro-de-la-usina/",
           "published_at": null,
-          "first_seen": "2026-11-03T12:30:00.469474+00:00",
+          "first_seen": "2026-11-03T13:00:01.144804+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "Tras cuatro días de interrupción total en el transporte urbano de pasajeros, los colectivos volvieron a circular este viernes a partir de las 16 horas, luego de que la Unión Tranviarios Automotor (UTA) y la Compañía de Transportes Necochea alcanzaran un acuerdo económico en la delegación local del Ministerio de Trabajo de la Provincia de Buenos Aires. La negociación se destrabó tras una extensa jornada de gestiones que comenzó a las 10 de la mañana e incluyó un cuarto intermedio y una asamblea de trabajadores.",
-          "Del encuentro participaron el gerente de la empresa, Carlos Manzano, la representante Erica Giancarelli y los referentes sindicales Gastón Urrutia, Matías Jordán y Mateo González. Además, estuvieron presentes los funcionarios municipales Paula Faramiñán y Facundo Croci, junto a la delegada de Trabajo, Natalia Steffen."
+          "La sede universitaria local alcanza hoy tres décadas de presencia continua y lo conmemora con un evento especial encabezado por el rector de la Universidad Nacional del Centro de la Provincia de Buenos Aires, Marcelo Aba, junto a la coordinadora de la subsede, Patricia Sureda. La cita institucional convocó a la comunidad a reencontrarse a partir de las 19 horas en el Teatro de la Usina, ubicado en avenida 59 y calle 42.",
+          "La ceremonia contará con la participación de decanos de distintas facultades y de los miembros de la histórica comisión pro-universitaria, a quienes se les entregará un reconocimiento por impulsar las gestiones iniciales que permitieron el desembarco de la casa de altos estudios en el distrito. Durante la jornada también se otorgará un presente conmemorativo a las autoridades del Municipio por el acompañamiento sostenido a lo largo de este trayecto."
         ],
-        "generated": "2026-11-03T12:31:11.572902+00:00"
+        "generated": "2026-11-03T13:01:52.969227+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-03T12:30:00.469474+00:00"
+      "ultima_impresion": "2026-11-03T13:00:01.144804+00:00"
+    },
+    {
+      "key": "murio jesus miguel futbolista sufrio paro cardiaco recibir rodillazo pecho",
+      "title": "Murió Jesús de Miguel, el futbolista que sufrió un paro cardíaco tras recibir un rodillazo en el pecho",
+      "score": 0.988,
+      "sources_count": 1,
+      "first_seen": "2026-11-03T12:51:15+00:00",
+      "image": null,
+      "articles": [
+        {
+          "portal": "Necochea News",
+          "title": "Murió Jesús de Miguel, el futbolista que sufrió un paro cardíaco tras recibir un rodillazo en el pecho",
+          "url": "https://necocheanews.com.ar/fallece-jesus-de-miguel-delantero-del-cd-tenerife-tras-paro-cardiaco-provocado-por-un-rodillazo-en-el-pecho/",
+          "published_at": "2026-11-03T12:51:15+00:00",
+          "first_seen": "2026-11-03T13:00:01.144804+00:00",
+          "category": "DEPORTES",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El futbolista español de 30 años murió el martes a las 8 horas de la mañana, tras haber sido ingresado en la UCI del Hospital Universitario Nuestra Señora de la Candelaria luego de sufrir un grave golpe durante el partido contra el FC Andorra. El incidente ocurrió el lunes, en el minuto 98 del encuentro de Segunda División que se disputaba en el Heliodoro Rodríguez López. Con el marcador 2‑2, Jesús de Miguel se encontraba de contragolpe cuando el arquero del Andorra, Jesús Owono, salió a disputar una pelota aérea y le impactó la rodilla directamente en el pecho.",
+          "El delantero quedó inconsciente en el terreno de juego y los servicios médicos tuvieron que intervenir de inmediato. Los profesionales sanitarios realizaron maniobras de reanimación en el césped y, tras estabilizarlo, lo trasladaron al hospital, donde fue ingresado en la unidad de cuidados intensivos."
+        ],
+        "generated": "2026-11-03T13:01:55.853066+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-03T13:00:01.144804+00:00"
+    },
+    {
+      "key": "milei llega espana medio feroz pelea sanchez",
+      "title": "Milei llega a España en medio de su feroz pelea con Sánchez",
+      "score": 0.985,
+      "sources_count": 1,
+      "first_seen": "2026-11-03T12:49:10+00:00",
+      "image": null,
+      "articles": [
+        {
+          "portal": "Necochea News",
+          "title": "Milei llega a España en medio de su feroz pelea con Sánchez",
+          "url": "https://necocheanews.com.ar/milei-aterriza-en-madrid-para-la-cumbre-iberoamericana-mientras-se-intensifica-la-disputa-con-sanchez/",
+          "published_at": "2026-11-03T12:49:10+00:00",
+          "first_seen": "2026-11-03T13:00:01.144804+00:00",
+          "category": "ACTUALIDAD",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El presidente argentino, Javier Milei, inicia su octavo viaje a España desde que asumió el cargo, participando en la Cumbre Iberoamericana que se celebrará en la capital española los días 4 y 5 de noviembre, pese a la marcada tensión diplomática con el presidente del Gobierno, Pedro Sánchez. Milei llega a Madrid en la noche del martes con una delegación que incluye a la secretaria general de la Presidencia, Karina Milei, y al canciller Pablo Quirno. Su agenda se centra en los actos oficiales de la cumbre: la ceremonia inaugural, la foto oficial y los distintos plenarios temáticos.",
+          "No está prevista ninguna reunión bilateral entre los dos mandatarios. Contexto de confrontación La visita se produce en medio de un intercambio verbal entre ambos líderes."
+        ],
+        "generated": "2026-11-03T13:01:56.698662+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-03T13:00:01.144804+00:00"
+    },
+    {
+      "key": "donald trump llamo votar candidatos democratas extremistas peligrosos",
+      "title": "Donald Trump llamó a votar contra los candidatos demócratas: “Extremistas y peligrosos”",
+      "score": 0.979,
+      "sources_count": 1,
+      "first_seen": "2026-11-03T12:44:28+00:00",
+      "image": null,
+      "articles": [
+        {
+          "portal": "Necochea News",
+          "title": "Donald Trump llamó a votar contra los candidatos demócratas: “Extremistas y peligrosos”",
+          "url": "https://necocheanews.com.ar/donald-trump-insta-a-votar-contra-los-democratas-los-califica-de-extremistas-y-peligrosos-en-su-ultimo-mitin-antes-de-los-midterms-del-3-de-noviembre/",
+          "published_at": "2026-11-03T12:44:28+00:00",
+          "first_seen": "2026-11-03T13:00:01.144804+00:00",
+          "category": "INTERNACIONALES",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "En su última intervención pública antes de las elecciones de medio término, el expresidente estadounidense acusó al Partido Demócrata de presentar a los candidatos más extremistas de la historia y resaltó la caída del precio del crudo como señal de la salud económica del país. El acto se realizó en Washington, frente al recientemente remodelado Estanque Reflectante del Monumento a Lincoln. Trump abrió el discurso recordando que “hoy es el último día antes de las elecciones de mitad de mandato, las más importantes de nuestra vida”.",
+          "A continuación, calificó a los candidatos demócratas de “extremistas y peligrosos”, y los describió como “los más peligrosos jamás presentados”. El líder republicano aprovechó la ocasión para subrayar el desempeño económico bajo su gestión. Afirmó que “el país entero está creciendo aceleradamente” y destacó la caída del precio del barril de petróleo, que “bajó diez dólares, la mayor caída en la historia”."
+        ],
+        "generated": "2026-11-03T13:01:57.811017+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-03T13:00:01.144804+00:00"
+    },
+    {
+      "key": "riesgo pais supero 800 puntos alcanzo nivel alto ano",
+      "title": "El riesgo país superó los 800 puntos y alcanzó su nivel más alto en más de un año",
+      "score": 0.947,
+      "sources_count": 2,
+      "first_seen": "2026-11-02T23:40:42+00:00",
+      "image": "https://cdnartic.ar/igaEvG3hMSOUhlC5gpr1rdgKm-s=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/todo_noticias.jpg",
+      "articles": [
+        {
+          "portal": "Ecos Diarios",
+          "title": "El riesgo país superó los 800 puntos y alcanzó su nivel más alto en más de un año",
+          "url": "https://elecos.com.ar/el-riesgo-pais-supero-los-800-puntos-y-alcanzo-su-nivel-mas-alto-en-mas-de-un-ano",
+          "published_at": "2026-11-02T23:40:42+00:00",
+          "first_seen": "2026-11-03T13:00:01.144804+00:00",
+          "category": "nacionales",
+          "image": "https://cdnartic.ar/igaEvG3hMSOUhlC5gpr1rdgKm-s=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/todo_noticias.jpg"
+        },
+        {
+          "portal": "Necochea News",
+          "title": "El riesgo país superó los 800 puntos y alcanzó su nivel más alto en un año",
+          "url": "https://necocheanews.com.ar/riesgo-pais-argentino-supera-los-800-puntos-y-alcanza-su-nivel-mas-alto-en-un-ano/",
+          "published_at": "2026-11-03T12:56:17+00:00",
+          "first_seen": "2026-11-03T13:00:01.144804+00:00",
+          "category": "ECONOMIA",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El índice de riesgo país medido por J.P. Morgan cerró la jornada en 805 puntos básicos, marcando el máximo registrado desde octubre de 2025 y una subida del 41 % en lo que va del 2026. Riesgo país en alza El indicador de riesgo país, que comenzó la semana en 805 puntos básicos, dio vuelta la tendencia a la baja y finalizó en 805, 18 puntos más que el viernes anterior.",
+          "Este salto se produce en medio de la campaña electoral de medio término en Estados Unidos y la incertidumbre que genera la próxima elección presidencial argentina. Desde enero, el índice ha acumulado un incremento del 41 %, situándose en su nivel más alto desde las legislativas de octubre de 2025, cuando llegó a cifras de cuatro dígitos. Mercado de valores En la Bolsa de Nueva York, los ADR argentinos iniciaron la semana en terreno negativo, siguiendo la caída de los principales índices de Wall Street."
+        ],
+        "generated": "2026-11-03T13:03:05.562991+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-03T13:00:01.144804+00:00"
     },
     {
       "key": "robaron computadoras cmyk anos trabajo despues casi estafan dueno",
       "title": "Robaron computadoras de CMYK con años de trabajo y después casi estafan a su dueño",
-      "score": 0.96,
+      "score": 0.921,
       "sources_count": 1,
       "first_seen": "2026-11-03T12:00:32+00:00",
       "image": null,
@@ -229,16 +392,16 @@
           "Ezequiel Herrada sufrió un robo en su vivienda de la zona de la Villa, donde delincuentes se llevaron computadoras con años de trabajos y archivos de clientes, además de documentación y tarjetas. Mientras intentaba realizar las bajas correspondientes, estuvo a punto de ser víctima de una estafa telefónica a través de un número 0800 que había encontrado en Google. Charlando con Fede Cañadas en “Esta Mañana”, por NEC Radio 98.3 del Multimedio NQ, Ezequiel Herrada , vinculado al rubro gráfico, relató el robo sufrido en su vivienda de la zona de la Villa y expresó su preocupación no solamente por lo que le ocurrió personalmente, sino por la cantidad de vecinos que durante los últimos días se comunicaron con él para contarle situaciones similares.",
           "Fue sobre la gráfica, pero más bien en mi casa. Se llevaron varias computadoras que yo me había llevado para trabajar”, explicó."
         ],
-        "generated": "2026-11-03T12:32:09.006557+00:00"
+        "generated": "2026-11-03T13:03:32.369288+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-03T12:30:00.469474+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-03T13:00:01.144804+00:00",
+      "penalizacion": 1.0
     },
     {
       "key": "maria jose hegui necochea tiene convertirse ciudad eventos reinventarse turisticamente",
       "title": "María José Hegui: “Necochea tiene que convertirse en una ciudad de eventos para reinventarse turísticamente”",
-      "score": 0.522,
+      "score": 0.275,
       "sources_count": 1,
       "first_seen": "2026-11-03T11:52:08+00:00",
       "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-02-at-12.38.07-1.jpeg",
@@ -258,16 +421,16 @@
           "La concejal de Nueva Necochea analizó los proyectos que se trabajan en el Concejo Deliberante de cara a la temporada de verano. Confirmó que la peatonalización de calle 4 comenzará el 1º de enero, adelantó iniciativas para ordenar los food trucks y la circulación de vehículos 4×4, y destacó el impacto económico que tendrá el regreso de La Renga.",
           "También se refirió a la crisis comercial, la salud mental y el escenario político de 2027. La concejal de Nueva Necochea María José Hegui, en diálogo con el periodista Miguel Abálsamo, en NEC Radio 98.3 del Multimedio NQ, realizó un amplio análisis de los proyectos que se encuentran en tratamiento en el Concejo Deliberante, las expectativas para la próxima temporada turística y los desafíos que enfrenta Necochea en materia de desarrollo económico, seguridad y planificación urbana."
         ],
-        "generated": "2026-11-03T12:32:12.044825+00:00"
+        "generated": "2026-11-03T13:03:36.283560+00:00"
       },
-      "apariciones": 3,
-      "ultima_impresion": "2026-11-03T12:30:00.469474+00:00",
-      "penalizacion": 0.55
+      "apariciones": 4,
+      "ultima_impresion": "2026-11-03T13:00:01.144804+00:00",
+      "penalizacion": 0.303
     },
     {
       "key": "fava sumo cyber monday descuentos 40 20 cuotas interes",
       "title": "Fava se sumó al Cyber Monday con descuentos de hasta el 40% y hasta 20 cuotas sin interés",
-      "score": 0.521,
+      "score": 0.275,
       "sources_count": 1,
       "first_seen": "2026-11-03T11:50:58+00:00",
       "image": null,
@@ -287,16 +450,16 @@
           "La firma comercial lanzó una serie de promociones especiales en electrodomésticos, tecnología, muebles y otros productos, con descuentos y financiación a través de distintas tarjetas. Las ofertas estarán disponibles durante tres días, tanto en su tienda online como en los locales físicos de Necochea y Lobería.",
           "En diálogo con el periodista Miguel Abálsamo, en NEC Radio 98.3 del Multimedio NQ, Alejandro, representante de Fava, brindó detalles sobre las promociones que la empresa puso en marcha con motivo del Cyber Monday, una de las jornadas comerciales más importantes del año para las compras por internet. La firma decidió sumarse con importantes descuentos, planes de financiación y beneficios que también podrán aprovecharse de manera presencial en sus sucursales."
         ],
-        "generated": "2026-11-03T12:32:14.979481+00:00"
+        "generated": "2026-11-03T13:03:39.246658+00:00"
       },
-      "apariciones": 3,
-      "ultima_impresion": "2026-11-03T12:30:00.469474+00:00",
-      "penalizacion": 0.55
+      "apariciones": 4,
+      "ultima_impresion": "2026-11-03T13:00:01.144804+00:00",
+      "penalizacion": 0.303
     },
     {
       "key": "buscan moto gilera smash 110 sustraida ultimas horas piden colaboracion vecinos",
       "title": "Buscan una moto Gilera Smash 110 sustraída en las últimas horas: piden colaboración a los vecinos",
-      "score": 0.334,
+      "score": 0.176,
       "sources_count": 1,
       "first_seen": "2026-11-03T11:30:02+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/871316152_1659900202306544_2978781754382523040_n.webp",
@@ -316,54 +479,16 @@
           "TSN Necochea | ‹ VOLVER | Locales | inseguridad | Inseguridad Buscan una moto Gilera Smash 110 sustraída en las últimas horas: piden colaboración a los vecinos El vehículo fue robado en el distrito y sus propietarios solicitan el apoyo de la comunidad para aportar datos que permitan localizarlo Por Redacción TSN 03/11/2026 · 08:30 AM Agregar TSN Necochea en Un nuevo hecho de inseguridad moviliza a los vecinos del distrito. En las últimas horas se radicó el pedido de búsqueda para dar con el paradero de una motocicleta Gilera Smash 110 cc , la cual fue sustraída por autores hasta el momento no identificados.",
           "Ante la situación, damnificados y allegados solicitaron la máxima difusión de la comunidad de Necochea y Quequén para aportar cualquier dato que sirva para recuperar el rodado."
         ],
-        "generated": "2026-11-03T12:31:06.901515+00:00"
+        "generated": "2026-11-03T13:01:54.052829+00:00"
       },
-      "apariciones": 4,
-      "ultima_impresion": "2026-11-03T12:30:00.469474+00:00",
-      "penalizacion": 0.302
-    },
-    {
-      "key": "conmocion futbol espanol paro cardiaco jesus miguel fuerte choque",
-      "title": "Conmoción en el fútbol español por el paro cardíaco de Jesús de Miguel tras un fuerte choque",
-      "score": 0.253,
-      "sources_count": 2,
-      "first_seen": "2026-11-02T21:09:33+00:00",
-      "image": "https://cdnartic.ar/IEoWi5Sjs5J8lV3zKOM_URHs9uM=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/club_deportivo_tenerife.webp",
-      "articles": [
-        {
-          "portal": "Ecos Diarios",
-          "title": "Conmoción en el fútbol español por el paro cardíaco de Jesús de Miguel tras un fuerte choque",
-          "url": "https://elecos.com.ar/conmocion-en-el-futbol-espanol-por-el-paro-cardiaco-de-jesus-de-miguel-tras-un-fuerte-choque",
-          "published_at": "2026-11-02T21:09:33+00:00",
-          "first_seen": "2026-11-03T11:30:00.762164+00:00",
-          "category": "deportes-nacional",
-          "image": "https://cdnartic.ar/IEoWi5Sjs5J8lV3zKOM_URHs9uM=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/club_deportivo_tenerife.webp"
-        },
-        {
-          "portal": "Necochea Digital",
-          "title": "Conmoción en el fútbol español: murió Jesús de Miguel tras el fuerte choque durante un partido",
-          "url": "https://necocheadigital.com/nota/120082/conmocion-en-el-futbol-espanol-murio-jesus-de-miguel-tras-el-fuerte-choque-durante-un-partido/",
-          "published_at": null,
-          "first_seen": "2026-11-03T11:30:00.762164+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El fútbol español atraviesa horas de profundo dolor tras confirmarse el fallecimiento de Jesús de Miguel, delantero del Club Deportivo Tenerife, quien murió este martes 3 de noviembre, luego de permanecer internado por las graves consecuencias de un choque ocurrido durante un encuentro frente al FC Andorra. El episodio se produjo el lunes, en los minutos finales del partido correspondiente a la Segunda División española. Durante una disputa por la pelota, el futbolista impactó contra el arquero visitante, Jesús Owono, en una acción que terminó con el delantero tendido sobre el campo de juego.",
-          "La situación generó una inmediata preocupación entre los jugadores de ambos equipos, que solicitaron asistencia médica. Los profesionales atendieron al futbolista durante varios minutos antes de trasladarlo en ambulancia al Hospital Universitario Nuestra Señora de Candelaria."
-        ],
-        "generated": "2026-11-03T12:32:34.391508+00:00"
-      },
-      "apariciones": 4,
-      "ultima_impresion": "2026-11-03T12:30:00.469474+00:00",
-      "penalizacion": 0.302
+      "apariciones": 5,
+      "ultima_impresion": "2026-11-03T13:00:01.144804+00:00",
+      "penalizacion": 0.166
     },
     {
       "key": "avanzan proyectos estacionamiento cruz roja juegos infantiles obras balneario angeles",
       "title": "Avanzan proyectos sobre estacionamiento para Cruz Roja, juegos infantiles y obras en el Balneario Los Ángeles",
-      "score": 0.176,
+      "score": 0.093,
       "sources_count": 1,
       "first_seen": "2026-11-03T11:00:07+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/04-CI-1.webp",
@@ -383,16 +508,16 @@
           "TSN Necochea | ‹ VOLVER | Locales | Infraetsructura | Concejo Avanzan proyectos sobre estacionamiento para Cruz Roja, juegos infantiles y obras en el Balneario Los Ángeles En la Comisión de Infraestructura, presidida por la concejal Silvina Jensen Menna, se despachó el convenio con Hidráulica para nivelación en Los Ángeles. Además, se trató la prevención ante el fenómeno de El Niño y el uso de suelo para agroquímicos Por Redacción TSN 03/11/2026 · 08:00 AM Agregar TSN Necochea en Se llevó a cabo una nueva reunión de la Comisión de Infraestructura, Obras y Servicios Públicos del Honorable Concejo Deliberante de Necochea, bajo la presidencia de la concejal Silvina Jensen Menna (Nueva Necochea).",
           "Durante el encuentro se dio tratamiento a diversos expedientes vinculados a pedidos de instituciones, obras públicas para el interior del distrito y la actualización de normativas sobre el uso del suelo industrial."
         ],
-        "generated": "2026-11-03T12:31:12.296242+00:00"
+        "generated": "2026-11-03T13:01:54.763083+00:00"
       },
-      "apariciones": 5,
-      "ultima_impresion": "2026-11-03T12:30:00.469474+00:00",
-      "penalizacion": 0.166
+      "apariciones": 6,
+      "ultima_impresion": "2026-11-03T13:00:01.144804+00:00",
+      "penalizacion": 0.092
     },
     {
       "key": "avisos funebres dia noviembre 2026",
       "title": "Avisos fúnebres del día 3 de noviembre de 2026",
-      "score": 0.162,
+      "score": 0.086,
       "sources_count": 1,
       "first_seen": "2026-11-03T10:00:58+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2023/09/Necrologicas.jpg",
@@ -412,11 +537,11 @@
           "TSN Necochea | ‹ VOLVER | Fúnebres | fúnebres | Avisos fúnebres Avisos fúnebres del día 3 de noviembre de 2026 Por Redacción TSN 03/11/2026 · 07:00 AM Noticias necrológicas de Necochea. Agregar TSN Necochea en FAIDELLA, Maria del Carmen Q.E.P.D. Falleció en Necochea el 2/11/2026, a los 71 años. Te despiden con amor tu hijo Guido Belliene, tu madre Maria A.",
           "de Faidella, tus hermanos Guillermo, Daniel y Susana, tus cuñados y sobrinos. C/D: 85 269 Sus restos seran velados hoy de 10 a 13hs en Las Acacias donde despues seran inhumados. Las Acacias – Cementerio Parque, Crematorio y Servicio de Sepelio FÚNEBRES NECOCHEA NECROLÓGICAS QUEQUÉN Seguinos en redes"
         ],
-        "generated": "2026-11-03T12:31:40.106707+00:00"
+        "generated": "2026-11-03T13:03:06.646908+00:00"
       },
-      "apariciones": 5,
-      "ultima_impresion": "2026-11-03T12:30:00.469474+00:00",
-      "penalizacion": 0.166
+      "apariciones": 6,
+      "ultima_impresion": "2026-11-03T13:00:01.144804+00:00",
+      "penalizacion": 0.092
     },
     {
       "key": "elecciones cta trabajadores lista unica nivel local 000 afiliados votan martes necochea",
@@ -441,10 +566,10 @@
           "TSN Necochea | ‹ VOLVER | Locales | CYTA de los trabajadores | Gremios Elecciones en la CTA de los Trabajadores: con lista única a nivel local, unos 2.000 afiliados votan este martes en Necochea La central sindical renueva sus autoridades nacionales, provinciales y locales. En el orden distrital se presenta una sola lista encabezada por Ana Inés Larrañaga (SUTEBA), mientras que a nivel nacional habrá compulsa entre Roberto Baradel y Romina Del Plá.",
           "Por Redacción TSN 03/11/2026 · 01:30 AM Agregar TSN Necochea en Este martes , la CTA de los Trabajadores llevará adelante sus elecciones generales en todo el país para la renovación de sus autoridades a nivel nacional, provincial y local. En el distrito de Necochea, un padrón estimado en 2.000 personas en condiciones de votar se acercará a las urnas distribuidas en distintas sedes gremiales."
         ],
-        "generated": "2026-11-03T12:32:35.588219+00:00"
+        "generated": "2026-11-03T13:03:40.389764+00:00"
       },
-      "apariciones": 19,
-      "ultima_impresion": "2026-11-03T12:30:00.469474+00:00",
+      "apariciones": 20,
+      "ultima_impresion": "2026-11-03T13:00:01.144804+00:00",
       "penalizacion": 0.0
     },
     {
@@ -470,10 +595,10 @@
           "TSN Necochea | ‹ VOLVER | Nación | Democracia | Alianza Milei: “No defiendo a Israel por un capricho personal” El presidente brindó un discurso en “la Noche de la Celebración por Israel” y reafirmó su alianza con el Gobierno de Benjamín Netanyahu. Por Redacción TSN 03/11/2026 · 12:59 AM Agregar TSN Necochea en El presidente Javier Milei aseguró este lunes que su defensa del Gobierno de Israel no obedece a un “capricho personal” sino porque “es el baluarte de los valores” de Occidente.",
           "“ No defendemos a Israel por un capricho personal del presidente de la Nación, sino porque hoy es el baluarte de nuestros valores en el mundo frente a quienes quieren destruirnos” , afirmó al brindar un discurso en “la Noche de la Celebración por Israel”, evento organizado por la Coalición Latina por Israel."
         ],
-        "generated": "2026-11-03T12:33:31.404039+00:00"
+        "generated": "2026-11-03T13:04:00.003764+00:00"
       },
-      "apariciones": 19,
-      "ultima_impresion": "2026-11-03T12:30:00.469474+00:00",
+      "apariciones": 20,
+      "ultima_impresion": "2026-11-03T13:00:01.144804+00:00",
       "penalizacion": 0.0
     },
     {
@@ -499,10 +624,10 @@
           "Elegir un buen proveedor de material médico y sanitario es una decisión fundamental para hospitales, clínicas privadas, consultas médicas, residencias, centros de fisioterapia y profesionales de la salud. La calidad de los productos, la amplitud del catálogo, la disponibilidad de suministros y la atención comercial pueden influir directamente en el funcionamiento diario de cualquier centro sanitario. En España existen numerosas empresas especializadas en la distribución de material sanitario, instrumental médico, productos desechables, mobiliario clínico y equipos de electromedicina.",
           "Entre ellas destacan Iberomed, Quirumed, DH Material Médico, Hexamed, Valdán Material Médico y otros distribuidores especializados. Aunque todas estas compañías ofrecen soluciones para el sector sanitario, sus catálogos, especializaciones y servicios presentan diferencias que conviene conocer."
         ],
-        "generated": "2026-11-03T12:33:50.752572+00:00"
+        "generated": "2026-11-03T13:04:01.028621+00:00"
       },
-      "apariciones": 25,
-      "ultima_impresion": "2026-11-03T12:30:00.469474+00:00",
+      "apariciones": 26,
+      "ultima_impresion": "2026-11-03T13:00:01.144804+00:00",
       "penalizacion": 0.0
     },
     {
@@ -528,97 +653,10 @@
           "Elegir una clínica de neurorehabilitación en Madrid es una decisión fundamental para las personas que han sufrido un ictus, un traumatismo craneoencefálico, una lesión medular o que conviven con enfermedades neurológicas como el Parkinson, la esclerosis múltiple o la esclerosis lateral amiotrófica (ELA). Madrid cuenta con una amplia oferta de centros especializados en rehabilitación neurológica, tanto en el ámbito hospitalario como en clínicas privadas.",
           "Muchos disponen de equipos multidisciplinares, programas personalizados y tecnologías diseñadas para favorecer la recuperación funcional. Sin embargo, existen diferencias importantes entre los distintos centros, especialmente en su modelo asistencial, las patologías que atienden, los recursos tecnológicos disponibles y el seguimiento de los pacientes."
         ],
-        "generated": "2026-11-03T12:33:51.830256+00:00"
+        "generated": "2026-11-03T13:04:02.211675+00:00"
       },
-      "apariciones": 25,
-      "ultima_impresion": "2026-11-03T12:30:00.469474+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "cholo servat destaco nueva financiacion acceder casas container antes despues",
-      "title": "Cholo Servat destacó una nueva financiación para acceder a casas container: “Es un antes y un después”",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-11-02T14:52:26+00:00",
-      "image": null,
-      "articles": [
-        {
-          "portal": "Diario NQ",
-          "title": "Cholo Servat destacó una nueva financiación para acceder a casas container: “Es un antes y un después”",
-          "url": "https://diarionq.com.ar/cholo-servat-destaco-una-nueva-financiacion-para-acceder-a-casas-container-es-un-antes-y-un-despues/",
-          "published_at": "2026-11-02T14:52:26+00:00",
-          "first_seen": "2026-11-02T15:39:44.247587+00:00",
-          "category": "La ciudad",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El responsable de Containers Necochea explicó que clientes vinculados al Banco Provincia pueden consultar opciones de financiamiento para viviendas modulares con plazos de hasta 96 cuotas. Aseguró que el nuevo esquema generó un fuerte movimiento durante los últimos días y destacó que una vivienda puede estar terminada en aproximadamente 60 a 90 días.",
-          "Charlando con Fede Cañadas en “Esta Mañana”, por NEC Radio 98.3 del Multimedio NQ, José “Cholo” Servat, referente de Containers Necochea , presentó una alternativa de financiación que, según explicó, comenzó a generar un fuerte movimiento entre personas interesadas en acceder a una vivienda propia. Servat señaló que, mediante una operatoria vinculada con el Banco Provincia , quienes reúnen las condiciones pueden conocer rápidamente cuánto financiamiento tienen disponible y evaluar la compra de una casa container con plazos que pueden extenderse hasta 96 cuotas ."
-        ],
-        "generated": "2026-11-03T12:34:41.591727+00:00"
-      },
-      "apariciones": 48,
-      "ultima_impresion": "2026-11-03T12:30:00.469474+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "viaje historia necochea museos parque miguel lillo reciben escuelas vecinos turistas",
-      "title": "Un viaje por la historia de Necochea: los museos del Parque Miguel Lillo reciben a escuelas, vecinos y turistas",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-11-02T14:40:33+00:00",
-      "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-02-at-10.34.38.jpeg",
-      "articles": [
-        {
-          "portal": "Diario NQ",
-          "title": "Un viaje por la historia de Necochea: los museos del Parque Miguel Lillo reciben a escuelas, vecinos y turistas",
-          "url": "https://diarionq.com.ar/un-viaje-por-la-historia-de-necochea-los-museos-del-parque-miguel-lillo-reciben-a-escuelas-vecinos-y-turistas/",
-          "published_at": "2026-11-02T14:40:33+00:00",
-          "first_seen": "2026-11-02T15:39:44.247587+00:00",
-          "category": "La ciudad",
-          "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-02-at-10.34.38.jpeg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Desde objetos vinculados con las antiguas playas necochenses hasta parte del legado de la histórica Escuela de Fútbol “Nito” Cruz, el Área de Museos mantiene abierta una propuesta para descubrir la identidad de la ciudad. Matías Criado explicó cómo funcionan las visitas guiadas y destacó el creciente acercamiento de instituciones educativas.",
-          "Desde el móvil y charlando con Fede Cañadas en “Esta Mañana”, por NEC Radio 98.3 del Multimedio NQ, Matías Criado, responsable del Área de Museos de Necochea , invitó a vecinos, turistas e instituciones educativas a recorrer los espacios ubicados dentro del Parque Miguel Lillo, donde se conserva una parte fundamental de la historia y el patrimonio natural del distrito."
-        ],
-        "generated": "2026-11-03T12:34:44.800347+00:00"
-      },
-      "apariciones": 48,
-      "ultima_impresion": "2026-11-03T12:30:00.469474+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "punto emprendedor reunira 46 expositores club danes entrada gratuita sorteos musica vivo",
-      "title": "Punto Emprendedor reunirá a 46 expositores en el Club Danés con entrada gratuita, sorteos y música en vivo",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-11-02T14:05:21+00:00",
-      "image": null,
-      "articles": [
-        {
-          "portal": "Diario NQ",
-          "title": "Punto Emprendedor reunirá a 46 expositores en el Club Danés con entrada gratuita, sorteos y música en vivo",
-          "url": "https://diarionq.com.ar/punto-emprendedor-reunira-a-46-expositores-en-el-club-danes-con-entrada-gratuita-sorteos-y-musica-en-vivo/",
-          "published_at": "2026-11-02T14:05:21+00:00",
-          "first_seen": "2026-11-02T15:39:44.247587+00:00",
-          "category": "Interés General",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Roxana Herrera y Julieta Stremiz presentaron una nueva propuesta que busca dar visibilidad al trabajo de emprendedores y artesanos de Necochea y Quequén. El encuentro se realizará este sábado 7 de noviembre, de 15 a 20 horas, en el Club Danés, ubicado en avenida 42 entre 55 y 57. Habrá productos de distintos rubros, sorteos y presentaciones musicales.",
-          "Una nueva propuesta para acompañar y promover el trabajo de los emprendedores locales tendrá lugar este sábado en Necochea. Se trata de Punto Emprendedor, un encuentro que reunirá a 46 expositores en las instalaciones del Club Danés, con entrada libre y gratuita para toda la comunidad."
-        ],
-        "generated": "2026-11-03T12:34:47.518101+00:00"
-      },
-      "apariciones": 48,
-      "ultima_impresion": "2026-11-03T12:30:00.469474+00:00",
+      "apariciones": 26,
+      "ultima_impresion": "2026-11-03T13:00:01.144804+00:00",
       "penalizacion": 0.0
     }
   ]
