@@ -1,237 +1,634 @@
 {
-  "generated_at": "2026-11-04T10:30:00.561325+00:00",
+  "generated_at": "2026-11-04T14:51:31.918601+00:00",
   "article_count": 135,
   "fetch_errors": [],
   "stories": [
     {
-      "key": "extenso orden dia hcd realizara miercoles 13 sesion ordinaria",
-      "title": "Con un extenso orden del día, el HCD realizará este miércoles la 13ª Sesión Ordinaria",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-04T10:30:00.561325+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/60953d0570ef2988f101d321dba06541d6297814.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Con un extenso orden del día, el HCD realizará este miércoles la 13ª Sesión Ordinaria",
-          "url": "https://necocheadigital.com/nota/120090/con-un-extenso-orden-del-dia-el-hcd-realizara-este-miercoles-la-13-ordf-sesion-ordinaria/",
-          "published_at": null,
-          "first_seen": "2026-11-04T10:30:00.561325+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Este martes se definió el Orden del Día para la 13ª Sesión Ordinaria del Honorable Concejo Deliberante de Necochea, convocada para este miércoles 4 a partir de las 10:00. El temario consensuado abarca un total de 40 expedientes despachados por las distintas comisiones internas que incluyen proyectos de control urbano, normativas de seguridad pública, obras de infraestructura, pedidos de informes comunitarios, solicitudes de exenciones impositivas y variados reconocimientos institucionales.",
-          "Entre los expedientes centrales figura la modificación de la Ordenanza 9720/18 sobre ruidos molestos para sancionar la circulación de vehículos con escapes modificados o ineficientes con multas que oscilarán entre $5.702.500 y $11.405.000."
-        ],
-        "generated": "2026-11-04T10:30:57.621240+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-04T10:30:00.561325+00:00"
-    },
-    {
-      "key": "allanamientos robo estacionamiento balneario",
-      "title": "Allanamientos por un robo en el estacionamiento de un balneario",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-04T10:30:00.561325+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/356c8324d3a846deeeee5e79e7ef92aba320a39f.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Allanamientos por un robo en el estacionamiento de un balneario",
-          "url": "https://necocheadigital.com/nota/120086/allanamientos-por-un-robo-en-el-estacionamiento-de-un-balneario/",
-          "published_at": null,
-          "first_seen": "2026-11-04T10:30:00.561325+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Personal policial del Gabinete Técnico Operativo de la Comisaría Tercera llevó a cabo dos procedimientos de allanamiento en viviendas ubicadas sobre la calle 84, en el marco de las tareas investigativas tendientes a esclarecer un hecho delictivo cometido el pasado 27 de octubre en el estacionamiento del predio de un balneario local. La intervención judicial permitió el secuestro de indumentaria, calzado y accesorios que habrían sido utilizados por los responsables durante la comisión del ilícito.",
-          "El episodio investigado se originó cuando un hombre dejó su camioneta estacionada en el sector del balneario y, al retornar al vehículo, constató la rotura de uno de los cristales laterales. De acuerdo a la denuncia radicada por el damnificado, autores desconocidos sustrajeron del interior del habitáculo mochilas que contenían una computadora portátil, prendas de vestir, calzado, documentación personal y una suma de dinero en efectivo."
-        ],
-        "generated": "2026-11-04T10:30:58.857234+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-04T10:30:00.561325+00:00"
-    },
-    {
-      "key": "docentes estatales declaran estado alerta posible reforma ips",
-      "title": "Docentes y estatales se declaran en estado de alerta ante una posible reforma del IPS",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-04T10:30:00.561325+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261103122434_whatsapp-image-2026-11-02-at-14-12-00.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Docentes y estatales se declaran en estado de alerta ante una posible reforma del IPS",
-          "url": "https://necocheadigital.com/nota/120087/docentes-y-estatales-se-declaran-en-estado-de-alerta-ante-una-posible-reforma-del-ips/",
-          "published_at": null,
-          "first_seen": "2026-11-04T10:30:00.561325+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Representantes del FUDB, SADOP y ATE se presentaron en la Comisión de Cultura y Educación para entregar un proyecto de resolución que rechaza eventuales cambios en la caja jubilatoria de los trabajadores públicos de la Provincia. Las organizaciones alertan sobre el riesgo de perder la movilidad docente, el aumento de la edad para jubilarse o el traspaso del organismo a la Nación.",
-          "Pedirán usar la Banca Abierta en la próxima sesión. El Frente de Unidad Docente Bonaerense, con la participación activa de SADOP Necochea y el acompañamiento de ATE, mantuvo una reunión con ediles en la Comisión de Cultura y Educación del Honorable Concejo Deliberante."
-        ],
-        "generated": "2026-11-04T10:31:00.305435+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-04T10:30:00.561325+00:00"
-    },
-    {
-      "key": "habra feria emprendedores locales festejos aniversario quequen",
-      "title": "Habrá feria de emprendedores locales en los festejos por el aniversario de Quequén",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-04T10:30:00.561325+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261103115439_03-02-foto-feria-emprendedores-festival-infantil.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Habrá feria de emprendedores locales en los festejos por el aniversario de Quequén",
-          "url": "https://necocheadigital.com/nota/120084/habra-feria-de-emprendedores-locales-en-los-festejos-por-el-aniversario-de-quequen/",
-          "published_at": null,
-          "first_seen": "2026-11-04T10:30:00.561325+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La propuesta permitirá que los emprendedores locales exhiban y comercialicen sus productos en el marco de una celebración que convoca a toda la comunidad, sumándose a la agenda de espectáculos artísticos , juegos para las infancias, corredor gastronómico y stands comerciales. Desde la Dirección de Emprendimientos y Pymes, a cargo de Valeria Garrido y dependiente de la Secretaría de Turismo y Desarrollo Productivo, el Municipio sostiene el acompañamiento a los productores locales, generando oportunidades para impulsar sus proyectos, promover el consumo de cercanía y fortalecer la economía local.",
-          "Así, la producción de los emprendedores vuelve a ocupar un lugar destacado en una celebración popular que invita a disfrutar en familia y compartir dos jornadas de encuentro comunitario."
-        ],
-        "generated": "2026-11-04T10:31:01.782341+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-04T10:30:00.561325+00:00"
-    },
-    {
-      "key": "avanzan preparativos primer festival democracia plaza dardo rocha",
-      "title": "Avanzan los preparativos para el primer Festival de la Democracia en la plaza Dardo Rocha",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-04T10:30:00.561325+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261103120729_dji-0014.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Avanzan los preparativos para el primer Festival de la Democracia en la plaza Dardo Rocha",
-          "url": "https://necocheadigital.com/nota/120085/avanzan-los-preparativos-para-el-primer-festival-de-la-democracia-en-la-plaza-dardo-rocha/",
-          "published_at": null,
-          "first_seen": "2026-11-04T10:30:00.561325+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La propuesta institucional, enmarcada en el proyecto regional “Trazos de memoria: cinco distritos, una identidad” impulsado por la Jefatura Regional de Educación de Gestión Estatal, viene gestándose desde hace dos meses bajo la coordinación de la inspectora Nancy Almassio. La jornada se desarrollará entre las 18 y las 21 horas con un escenario principal que estará emplazado sobre la avenida 59, en el tramo comprendido entre las calles 56 y 58.",
-          "Uno de los momentos constitutivos del evento será el descubrimiento formal de las cinco placas cementicias que conformarán un mural regional colaborativo. Cada uno de los partidos intervinientes aportó una parte de la composición general para consolidar una obra conceptual única, correspondiendo a la Escuela Provincial de Arte Orillas del Quequén la tarea de culminar el diseño con una representación alusiva al proceso democrático."
-        ],
-        "generated": "2026-11-04T10:31:02.532319+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-04T10:30:00.561325+00:00"
-    },
-    {
-      "key": "joven motociclista hospitalizado chocar camioneta 44 55",
-      "title": "Un joven motociclista fue hospitalizado tras chocar contra una camioneta en 44 y 55",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-04T10:30:00.561325+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/1ac6adfe8c3054944222264a49874943862bd5e7.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Un joven motociclista fue hospitalizado tras chocar contra una camioneta en 44 y 55",
-          "url": "https://necocheadigital.com/nota/120074/un-joven-motociclista-fue-hospitalizado-tras-chocar-contra-una-camioneta-en-44-y-55/",
-          "published_at": null,
-          "first_seen": "2026-11-04T10:30:00.561325+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Un joven conductor de motocicleta debió ser trasladado de urgencia al nosocomio local tras sufrir diversas lesiones al colisionar contra una camioneta durante las primeras horas de este lunes. El siniestro se registró cerca de las 6:00 en la intersección de las calles 44 y 55, lo que motivó la rápida intervención de las fuerzas de seguridad y asistencia a partir del alerta recibido en la base operativa de la Dirección General de Defensa Civil.",
-          "Agentes del área acudieron de inmediato al sitio del hecho para realizar las primeras maniobras de auxilio e inmovilización al herido hasta la llegada de la ambulancia del SAME, efectores de salud que procedieron a efectuar su traslado al centro hospitalario."
-        ],
-        "generated": "2026-11-04T10:31:03.840793+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-04T10:30:00.561325+00:00"
-    },
-    {
-      "key": "como estara tiempo miercoles necochea quequen",
-      "title": "Cómo estará el tiempo este miércoles en Necochea y Quequén",
-      "score": 0.0,
+      "key": "puerto quequen recibio embajador india",
+      "title": "Puerto Quequén recibió al embajador de la India",
+      "score": 2.891,
       "sources_count": 2,
-      "first_seen": "2026-11-04T02:54:00+00:00",
+      "first_seen": "2026-11-04T14:24:49+00:00",
+      "image": "https://cdnartic.ar/zmbubjTbEi4cswxUZOEITWzTQNE=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/puerto_quequen.webp",
+      "articles": [
+        {
+          "portal": "Ecos Diarios",
+          "title": "Puerto Quequén recibió al embajador de la India",
+          "url": "https://elecos.com.ar/puerto-quequen-recibio-al-embajador-de-la-india",
+          "published_at": "2026-11-04T14:24:49+00:00",
+          "first_seen": "2026-11-04T14:51:31.918601+00:00",
+          "category": "ecos-puerto",
+          "image": "https://cdnartic.ar/zmbubjTbEi4cswxUZOEITWzTQNE=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/puerto_quequen.webp"
+        },
+        {
+          "portal": "Necochea Digital",
+          "title": "Puerto Quequén recibió al embajador de India y presentó su potencial agroexportador",
+          "url": "https://necocheadigital.com/nota/120101/puerto-quequen-recibio-al-embajador-de-india-y-presento-su-potencial-agroexportador/",
+          "published_at": null,
+          "first_seen": "2026-11-04T14:51:31.918601+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Puerto Quequén recibió la visita del embajador de la India en Argentina, Ajaneesh Kumar, en el marco de una agenda institucional destinada a fortalecer los vínculos internacionales y explorar oportunidades comerciales para la producción agroexportadora del sudeste bonaerense. El diplomático fue recibido el viernes 30 de octubre por el presidente del Consorcio de Gestión de Puerto Quequén, doctor Ernesto Povilaitis Giovazzino.",
+          "La actividad incluyó una reunión de trabajo y un almuerzo en las instalaciones del Directorio, con la participación del representante municipal en el organismo y secretario general de URGARA Seccional Necochea, Juan Carlos Peralta. Durante el encuentro se abordaron las posibilidades de vinculación comercial entre la Argentina y la India, con especial atención al potencial de la cadena agroexportadora regional."
+        ],
+        "generated": "2026-11-04T14:52:19.152136+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-04T14:51:31.918601+00:00"
+    },
+    {
+      "key": "amenazas partido club rivadavia allanan secuestran arma hay detenido",
+      "title": "Amenazas tras un partido en el Club Rivadavia: allanan, secuestran un arma y hay un detenido",
+      "score": 1.197,
+      "sources_count": 1,
+      "first_seen": "2026-11-04T14:49:47+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/FB_IMG_1793803719069.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Amenazas tras un partido en el Club Rivadavia: allanan, secuestran un arma y hay un detenido",
+          "url": "https://tsnnecochea.com.ar/locales/amenazas-tras-un-partido-en-el-club-rivadavia-allanan-secuestran-un-arma-y-hay-un-detenido-241494/",
+          "published_at": "2026-11-04T14:49:47+00:00",
+          "first_seen": "2026-11-04T14:51:31.918601+00:00",
+          "category": "amenazas",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/FB_IMG_1793803719069.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Locales | amenazas | Detenciones Amenazas tras un partido en el Club Rivadavia: allanan, secuestran un arma y hay un detenido Un joven de 25 años fue aprehendido tras una discusión en una cancha de fútbol amateur donde amenazó a los presentes y efectuó disparos. La Policía secuestró un auto y una pistola de aire comprimido. Por Redacción TSN 04/11/2026 · 11:49 AM Agregar TSN Necochea en Personal del GTO de la Comisaría Primera de Necochea esclareció una causa por amenazas agravadas mediante dos allanamientos y una requisa vehicular, con colaboración de los GTO de las comisarías Segunda y Tercera.",
+          "​La investigación comenzó tras un episodio ocurrido el 21 de septiembre en el Club Rivadavia . Según la denuncia, luego de una discusión por un partido de fútbol amateur, un hombre amenazó a los presentes, se retiró y regresó minutos después, efectuando presuntos disparos al aire ."
+        ],
+        "generated": "2026-11-04T14:53:52.806584+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-04T14:51:31.918601+00:00"
+    },
+    {
+      "key": "gaston llanos mony lombardi necochenses destacados sierras tandil",
+      "title": "Gastón Llanos y Mony Lombardi, entre los necochenses más destacados en las Sierras de Tandil",
+      "score": 1.145,
+      "sources_count": 1,
+      "first_seen": "2026-11-04T14:17:30+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/FOTO-Mony-Lombardi-en-Tandil.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Gastón Llanos y Mony Lombardi, entre los necochenses más destacados en las Sierras de Tandil",
+          "url": "https://tsnnecochea.com.ar/deportes/gaston-llanos-y-mony-lombardi-entre-los-necochenses-mas-destacados-en-las-sierras-de-tandil-241485/",
+          "published_at": "2026-11-04T14:17:30+00:00",
+          "first_seen": "2026-11-04T14:51:31.918601+00:00",
+          "category": "Ciclismo",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/FOTO-Mony-Lombardi-en-Tandil.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Deportes | Ciclismo | Ciclismo Gastón Llanos y Mony Lombardi, entre los necochenses más destacados en las Sierras de Tandil Fue en una nueva edición del exigente Rally, entre más de 800 participantes.",
+          "Por Redacción TSN 04/11/2026 · 11:17 AM Mony Lombardi, la mejor necochense en Tandil Agregar TSN Necochea en La 20ª edición del Rally en las Sierras de Tandil dejó buenos resultados para los representantes de Necochea y Quequén, con Gastón Llanos como uno de los grandes protagonistas entre los caballeros, con un cuarto puesto en su categoría, y con Mónica Lombardi como la mejor necochense clasificada en la rama femenina de la distancia competitiva de 53 kilómetros."
+        ],
+        "generated": "2026-11-04T14:53:53.921568+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-04T14:51:31.918601+00:00"
+    },
+    {
+      "key": "quequen interceptaron dos hombres tirando poste descubrieron uno estaba profugo",
+      "title": "Quequén: interceptaron a dos hombres tirando un poste y descubrieron que uno estaba prófugo",
+      "score": 1.107,
+      "sources_count": 1,
+      "first_seen": "2026-11-04T13:53:37+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/FB_IMG_1793800375519.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Quequén: interceptaron a dos hombres tirando un poste y descubrieron que uno estaba prófugo",
+          "url": "https://tsnnecochea.com.ar/locales/quequen-interceptaron-a-dos-hombres-tirando-un-poste-y-descubrieron-que-uno-estaba-profugo-241478/",
+          "published_at": "2026-11-04T13:53:37+00:00",
+          "first_seen": "2026-11-04T14:51:31.918601+00:00",
+          "category": "Comisaria",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/FB_IMG_1793800375519.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Locales | Comisaria | Procedimiento policial Quequén: interceptaron a dos hombres tirando un poste y descubrieron que uno estaba prófugo Ocurrió en 566 y 525. Quedaron alojados en la Comisaría Segunda mientras se investiga la propiedad del poste, el cual no pertenecía a la Usina Popular Cooperativa. Por Redacción TSN 04/11/2026 · 10:53 AM Agregar TSN Necochea en Personal del Comando de Patrullas aprehendió a dos hombres en la zona de calles 566 y 525, en Quequén , luego de que un llamado al 911 alertara que estaban cortando un poste de madera .",
+          "​Al arribar al lugar, los efectivos encontraron la estructura tendida sobre el suelo e interceptaron a pocos metros a los sospechosos. Al momento de identificarlos, la policía constató que uno de los aprehendidos registraba un pedido de captura activo en una causa por amenazas, resistencia a la autoridad, daño y lesiones leves calificadas."
+        ],
+        "generated": "2026-11-04T14:53:59.040712+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-04T14:51:31.918601+00:00"
+    },
+    {
+      "key": "micros azules aun no decidio competira concesion transporte urbano 20 anos",
+      "title": "Micros Azules aún no decidió si competirá por la concesión del transporte urbano por 20 años",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-04T14:51:31.918601+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261104085206_05-01-foto-colectivo-transporte-5.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Micros Azules aún no decidió si competirá por la concesión del transporte urbano por 20 años",
+          "url": "https://necocheadigital.com/nota/120093/micros-azules-aun-no-decidio-si-competira-por-la-concesion-del-transporte-urbano-por-20-anos/",
+          "published_at": null,
+          "first_seen": "2026-11-04T14:51:31.918601+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La continuidad de Micros Azules al frente del transporte urbano de pasajeros de Necochea todavía es una incógnita. La Compañía de Transportes Necochea no definió si se presentará a la licitación pública que prepara el municipio para adjudicar el servicio por un período de 20 años. La decisión será evaluada por los socios de la firma, que deberán analizar las condiciones del futuro pliego y las posibilidades económicas de afrontar una nueva etapa.",
+          "El escenario quedó atravesado por el reciente conflicto salarial, que durante una semana afectó la prestación del servicio debido a los atrasos en el pago de los haberes. La situación fue abordada por Erica Giancarelli, integrante de la empresa, durante una entrevista en Voces de la Tarde , el programa que conduce Jorge Gómez por Radio Noticias Necochea."
+        ],
+        "generated": "2026-11-04T14:53:59.763757+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-04T14:51:31.918601+00:00"
+    },
+    {
+      "key": "dos adolescentes aprehendidos intentar robar motocicleta necochea",
+      "title": "Dos adolescentes aprehendidos tras intentar robar una motocicleta en Necochea",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-04T14:51:31.918601+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261104090051_whatsapp-image-2026-11-03-at-9-35-22-am.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Dos adolescentes aprehendidos tras intentar robar una motocicleta en Necochea",
+          "url": "https://necocheadigital.com/nota/120095/dos-adolescentes-aprehendidos-tras-intentar-robar-una-motocicleta-en-necochea/",
+          "published_at": null,
+          "first_seen": "2026-11-04T14:51:31.918601+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Dos adolescentes fueron aprehendidos en Necochea en el marco de una investigación por un intento de robo agravado de una motocicleta. Uno de ellos tenía, además, un pedido de captura y detención vigente solicitado por la Justicia juvenil en una causa anterior. El episodio se registró en inmediaciones de las calles 57 y 54, donde personal policial acudió tras recibir un llamado al sistema de emergencias 911.",
+          "Al llegar, los efectivos entrevistaron a la víctima, quien denunció que dos jóvenes habían intentado sustraerle la motocicleta. Según su relato, uno de los sospechosos lo amenazó utilizando un destornillador y llegó a dañar su campera a la altura del hombro antes de escapar junto al otro involucrado. Uno de los sospechosos intentó escapar por los techos Con las características físicas aportadas por la víctima, los efectivos iniciaron un operativo de búsqueda que permitió localizar a uno de los presuntos autores."
+        ],
+        "generated": "2026-11-04T14:54:00.470352+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-04T14:51:31.918601+00:00"
+    },
+    {
+      "key": "dos jornadas reuniran necochea referentes judiciales debatir derechos humanos familia infancias",
+      "title": "Dos jornadas reunirán en Necochea a referentes judiciales para debatir sobre derechos humanos, familia e infancias",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-04T14:51:31.918601+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261104085640_colegio-escribanos-e1508160006502.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Dos jornadas reunirán en Necochea a referentes judiciales para debatir sobre derechos humanos, familia e infancias",
+          "url": "https://necocheadigital.com/nota/120094/dos-jornadas-reuniran-en-necochea-a-referentes-judiciales-para-debatir-sobre-derechos-humanos-familia-e-infancias/",
+          "published_at": null,
+          "first_seen": "2026-11-04T14:51:31.918601+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Necochea se convertirá esta semana en punto de encuentro de autoridades judiciales, profesionales y especialistas de distintos ámbitos de la provincia de Buenos Aires, con dos actividades que pondrán en debate cuestiones vinculadas con los derechos humanos, la justicia, las familias y las infancias. La programación fue presentada por Andrea Salvini, presidenta del Colegio de Escribanos de Necochea, durante una entrevista en Voces de la Tarde , el programa que conduce Jorge Gómez por Radio Noticias Necochea.",
+          "Los encuentros son organizados conjuntamente por el Colegio de Escribanos, el Colegio de Abogados y el Colegio de Magistrados y Funcionarios del Departamento Judicial de Necochea, con la participación de otras instituciones vinculadas al ámbito judicial."
+        ],
+        "generated": "2026-11-04T14:54:01.702276+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-04T14:51:31.918601+00:00"
+    },
+    {
+      "key": "readecuacion tarifas gas demora llegada facturas usuarios",
+      "title": "La readecuación de las tarifas de gas demora la llegada de las facturas a los usuarios",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-04T14:51:31.918601+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/a99b92487a1a0766fe7e3ea3dc28874cc66f9eea.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "La readecuación de las tarifas de gas demora la llegada de las facturas a los usuarios",
+          "url": "https://necocheadigital.com/nota/120092/la-readecuacion-de-las-tarifas-de-gas-demora-la-llegada-de-las-facturas-a-los-usuarios/",
+          "published_at": null,
+          "first_seen": "2026-11-04T14:51:31.918601+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La falta de recepción de las facturas de gas correspondientes a los vencimientos de noviembre comenzó a generar preocupación y consultas entre los usuarios de Necochea. La situación fue analizada este martes 3 de noviembre en Voces de la Tarde , el programa que conduce Jorge Gómez por Radio Noticias Necochea 97.3, durante una entrevista con Silvia Jensen, integrante de Multisectoriales en Red Nacional.",
+          "Según explicó la entrevistada, la demora estaría relacionada con la necesidad de adecuar los sistemas de facturación de Camuzzi Gas Pampeana a los nuevos cuadros tarifarios, luego de los cambios introducidos en el régimen de zona fría y la entrada en vigencia de nuevos aumentos desde el 1º de noviembre."
+        ],
+        "generated": "2026-11-04T14:54:02.402488+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-04T14:51:31.918601+00:00"
+    },
+    {
+      "key": "habra seis dias atencion bancos 11 noviembre",
+      "title": "Habrá seis días sin atención en los bancos, entre el 6 y el 11 de noviembre",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-04T14:51:31.918601+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/56b9b70b1c0d563d569a218f5c9196b59bc9a3ff.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Habrá seis días sin atención en los bancos, entre el 6 y el 11 de noviembre",
+          "url": "https://necocheadigital.com/nota/120091/habra-seis-dias-sin-atencion-en-los-bancos-entre-el-6-y-el-11-de-noviembre/",
+          "published_at": null,
+          "first_seen": "2026-11-04T14:51:31.918601+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El mes de noviembre registrará un esquema inédito en el sistema financiero con una seguidilla de seis jornadas consecutivas sin actividad presencial en las sucursales bancarias de la Provincia de Buenos Aires. La parálisis abarca el calendario operativo a raíz del feriado sectorial, las medidas dispuestas por la llegada del Sumo Pontífice y los feriados provinciales y nacionales programados para este período.",
+          "El cronograma sin atención presencial comenzará este viernes 6 de noviembre con la conmemoración del Día del Bancario, fecha que evoca la fundación de la Asociación Bancaria en 1924 y otorga una jornada no laborable al sector, acompañada por el cobro de un bono de $2.275.519,25 para los trabajadores. La inactividad continuará durante el sábado 7 y el domingo 8, acoplándose al feriado nacional del lunes 9 y al feriado bancario del martes 10 fijado por el BCRA por la visita papal."
+        ],
+        "generated": "2026-11-04T14:54:03.163388+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-04T14:51:31.918601+00:00"
+    },
+    {
+      "key": "registro lluvias cuantos milimetros cayeron necochea localidades region",
+      "title": "Registro de lluvias: cuántos milímetros cayeron en Necochea y las localidades de la región",
+      "score": 1.073,
+      "sources_count": 1,
+      "first_seen": "2026-11-04T13:30:52+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/03/83f684ad-b320-4ee5-8e75-00732b0e4c95.jpg",
       "articles": [
         {
           "portal": "TSN Necochea",
-          "title": "Cómo estará el tiempo este miércoles en Necochea y Quequén",
-          "url": "https://tsnnecochea.com.ar/locales/como-estara-el-tiempo-este-miercoles-en-necochea-y-quequen-18-241450/",
-          "published_at": "2026-11-04T03:54:51+00:00",
-          "first_seen": "2026-11-04T04:00:00.617651+00:00",
-          "category": "humedad",
+          "title": "Registro de lluvias: cuántos milímetros cayeron en Necochea y las localidades de la región",
+          "url": "https://tsnnecochea.com.ar/campo/registro-de-lluvias-cuantos-milimetros-cayeron-en-necochea-y-las-localidades-de-la-region-2-241476/",
+          "published_at": "2026-11-04T13:30:52+00:00",
+          "first_seen": "2026-11-04T14:51:31.918601+00:00",
+          "category": "el tiempo",
           "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/03/83f684ad-b320-4ee5-8e75-00732b0e4c95.jpg"
-        },
-        {
-          "portal": "Noticias de Necochea",
-          "title": "Tormentas en Necochea y Quequén este miércoles: cuándo mejoraría el tiempo",
-          "url": "https://nden.com.ar/nota/38615/tormentas-en-necochea-y-quequen-este-miercoles-cuando-mejoraria-el-tiempo",
-          "published_at": "2026-11-04T02:54:00+00:00",
-          "first_seen": "2026-11-04T04:00:00.617651+00:00",
-          "category": null,
-          "image": "http://nden.com.ar/uploads/noticias/5/2026/11/45944963f81cf0edcd1bde2a022caa23d8dfb040.jpg"
         }
       ],
       "summary": {
         "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Locales | humedad | Clima Cómo estará el tiempo este miércoles en Necochea y Quequén Datos aportados por el Servicio Meteorológico Nacional Por Redacción TSN 04/11/2026 · 12:54 AM Agregar TSN Necochea en El pronóstico del Servicio Meteorológico Nacional para este miércoles 4 de noviembre en Necochea indica una temperatura máxima de 16°C y una mínima de 11° C, con vientos del Norte a 22 km/h. Por la madrugada, la temperatura será de 13° C. El viento es del cuadrante Norte a una velocidad que puede llegar a 22 km/h, con posibilidad de tormentas aisladas.",
-          "En la mañana la temperatura será de 17° C, el viento soplará del cuadrante Norte a una velocidad que puede llegar a 12 km/h, con tormentas aisladas. Por la tarde se espera una temperatura máxima de alrededor de 16 grados, el viento soplará del sector Sudoeste a una velocidad que pueden llegar a los 16 kilómetros y con el cielo parcialmente nublado."
+          "TSN Necochea | ‹ VOLVER | Campo | el tiempo | El tiempo Registro de lluvias: cuántos milímetros cayeron en Necochea y las localidades de la región ​Según el reporte emitido por la Cooperativa Agropecuaria General Necochea Ltda., las precitaciones registradas hasta las 8:00 hs de este miércoles mostraron valores dispares en el distrito y zonas aledañas. Por Redacción TSN 04/11/2026 · 10:30 AM Agregar TSN Necochea en ​Durante las primeras horas de este miércoles 4 de noviembre , la región experimentó precipitaciones dispares que aportaron datos de alivio y seguimiento para el sector agropecuario.",
+          "​De acuerdo con el pluviómetro oficial de la Cooperativa Agropecuaria General Necochea Ltda. , en la ciudad de Necochea se registraron 6 mm , alcanzando un acumulado anual de 811 mm hasta la fecha."
         ],
-        "generated": "2026-11-04T10:30:56.908728+00:00"
+        "generated": "2026-11-04T14:54:04.273442+00:00"
       },
-      "apariciones": 16,
-      "ultima_impresion": "2026-11-04T10:30:00.561325+00:00",
-      "penalizacion": 0.0
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-04T14:51:31.918601+00:00"
     },
     {
-      "key": "conoce agenda eventos deportivos culturales populares disfrutar noviembre necochea quequen",
-      "title": "Noviembre tendrá una variada agenda de eventos deportivos, culturales y populares",
-      "score": 0.0,
-      "sources_count": 2,
-      "first_seen": "2026-11-03T21:47:51+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/27-09-FOTO-ARCHIVO-Aniversario-Necochea-01.webp",
+      "key": "81 anos varadura buque maria victoria entrada puerto quequen",
+      "title": "A 81 años de la varadura del buque ‘María Victoria’ en la entrada de Puerto Quequén",
+      "score": 1.051,
+      "sources_count": 1,
+      "first_seen": "2026-11-04T13:16:16+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/FOTO-buque-Maria-Victoria.webp",
       "articles": [
         {
           "portal": "TSN Necochea",
-          "title": "Noviembre tendrá una variada agenda de eventos deportivos, culturales y populares",
-          "url": "https://tsnnecochea.com.ar/generales/noviembre-tendra-una-variada-agenda-de-eventos-deportivos-culturales-y-populares-241421/",
-          "published_at": "2026-11-03T21:47:51+00:00",
-          "first_seen": "2026-11-03T22:00:01.760980+00:00",
-          "category": "aniversario",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/27-09-FOTO-ARCHIVO-Aniversario-Necochea-01.webp"
-        },
+          "title": "A 81 años de la varadura del buque ‘María Victoria’ en la entrada de Puerto Quequén",
+          "url": "https://tsnnecochea.com.ar/generales/a-81-anos-de-la-varadura-del-buque-maria-victoria-en-la-entrada-de-puerto-quequen-241472/",
+          "published_at": "2026-11-04T13:16:16+00:00",
+          "first_seen": "2026-11-04T14:51:31.918601+00:00",
+          "category": "Buque",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/FOTO-buque-Maria-Victoria.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Generales | Buque | Historia local A 81 años de la varadura del buque ‘María Victoria’ en la entrada de Puerto Quequén El episodio forma parte de una de las tantas historias marítimas que marcaron al puerto local. Por Redacción TSN 04/11/2026 · 10:16 AM Agregar TSN Necochea en El 4 de noviembre de 1945 , el buque de carga español ‘María Victoria’ quedó varado en la entrada de Puerto Quequén . La embarcación permaneció en esa posición durante diez días, hasta que el 14 de noviembre logró liberarse.",
+          "El episodio forma parte de las historias marítimas que marcaron al puerto local y fue recordado por el área de Museos del Parque Miguel Lillo en su espacio de efemérides. Pero aquella no sería la última dificultad para el barco, que años más tarde volvería a protagonizar un episodio similar, esta vez en aguas europeas. Construido en 1920 por el astillero Campbeltown Shipbuilding Co."
+        ],
+        "generated": "2026-11-04T14:54:05.837572+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-04T14:51:31.918601+00:00"
+    },
+    {
+      "key": "cta trabajadores amplio triunfo larranaga calamante baradel",
+      "title": "CTA de los Trabajadores: Amplio triunfo de Larrañaga, Calamante y Baradel",
+      "score": 0.992,
+      "sources_count": 1,
+      "first_seen": "2026-11-04T12:34:44+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-04-at-00.41.05.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "CTA de los Trabajadores: Amplio triunfo de Larrañaga, Calamante y Baradel",
+          "url": "https://tsnnecochea.com.ar/locales/cta-de-los-trabajadores-amplio-triunfo-de-larranaga-calamante-y-baradel-241445/",
+          "published_at": "2026-11-04T12:34:44+00:00",
+          "first_seen": "2026-11-04T14:51:31.918601+00:00",
+          "category": "conducción",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-04-at-00.41.05.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Locales | conducción | Gremios CTA de los Trabajadores: Amplio triunfo de Larrañaga, Calamante y Baradel Se desarrollaron las elecciones de esta central de trabajadores Por Redacción TSN 04/11/2026 · 09:34 AM Agregar TSN Necochea en En el marco de las elecciones generales de la CTA de los Trabajadores a nivel nacional y provincial, la Regional que abarca Necochea, Lobería y San Cayetano definió sus autoridades locales con una participación del 30% del padrón. La Lista 10 “Pablo Masciángelo” logró una amplia victoria al imponerse con el 98% de los votos. La lista Regional la encabezaron Ana Inés Larrañaga (SUTEBA) como Secretaria General y Valeria López (AMS Casinos) como Secretaria General Adjunta.",
+          "En el caso de la nómina nacional fue encabezada por Roberto “Roby” Baradel y a nivel provincial por Raúl Calamante. CONDUCCIÓN CTA DE LOS TRABAJADORES ELECCIONES Seguinos en redes"
+        ],
+        "generated": "2026-11-04T14:54:06.904524+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-04T14:51:31.918601+00:00"
+    },
+    {
+      "key": "mauro mazzucchelli destaco historica actuacion seleccion juvenil basquet necochea provincial",
+      "title": "Mauro Mazzucchelli destacó la histórica actuación de la Selección Juvenil de básquet de Necochea en el Provincial",
+      "score": 0.982,
+      "sources_count": 1,
+      "first_seen": "2026-11-04T14:38:23+00:00",
+      "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/e223a72b-16a3-405b-bea6-69d17246949a.jpg",
+      "articles": [
+        {
+          "portal": "Diario NQ",
+          "title": "Mauro Mazzucchelli destacó la histórica actuación de la Selección Juvenil de básquet de Necochea en el Provincial",
+          "url": "https://diarionq.com.ar/mauro-mazzucchelli-destaco-la-historica-actuacion-de-la-seleccion-juvenil-de-basquet-de-necochea-en-el-provincial/",
+          "published_at": "2026-11-04T14:38:23+00:00",
+          "first_seen": "2026-11-04T14:51:31.918601+00:00",
+          "category": "Deportes",
+          "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/e223a72b-16a3-405b-bea6-69d17246949a.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El entrenador valoró el quinto puesto conseguido en el Campeonato Provincial de Selecciones Juveniles, resaltó el nivel mostrado por sus dirigidos frente a potencias como Mar del Plata y Bahía Blanca y destacó el crecimiento del básquet formativo local. Además, habló sobre la actualidad de Rivadavia y los próximos playoffs del torneo de Primera División.",
+          "La Selección Juvenil masculina de básquet de Necochea tuvo una destacada participación en el Campeonato Provincial de Selecciones, donde consiguió un meritorio quinto puesto y dejó una muy buena imagen frente a algunos de los equipos más importantes de la provincia. En diálogo con Zoom El Deportivo, el entrenador Mauro Mazzucchelli realizó un balance de la experiencia, valoró el rendimiento colectivo y destacó el crecimiento que viene mostrando el básquet local."
+        ],
+        "generated": "2026-11-04T14:54:08.955024+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-04T14:51:31.918601+00:00"
+    },
+    {
+      "key": "salud realizara controles gratuitos pap vph vih sifilis necochea quequen dias horarios lugares",
+      "title": "Salud realizará controles gratuitos de PAP, VPH, VIH y sífilis en Necochea y Quequén: días, horarios y lugares",
+      "score": 0.936,
+      "sources_count": 1,
+      "first_seen": "2026-11-04T14:03:32+00:00",
+      "image": null,
+      "articles": [
+        {
+          "portal": "Diario NQ",
+          "title": "Salud realizará controles gratuitos de PAP, VPH, VIH y sífilis en Necochea y Quequén: días, horarios y lugares",
+          "url": "https://diarionq.com.ar/salud-realizara-controles-gratuitos-de-pap-vph-vih-y-sifilis-en-necochea-y-quequen-dias-horarios-y-lugares/",
+          "published_at": "2026-11-04T14:03:32+00:00",
+          "first_seen": "2026-11-04T14:51:31.918601+00:00",
+          "category": "Interés General",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La Secretaría de Salud municipal anunció una nueva campaña de prevención y detección temprana que se desarrollará del lunes 16 al viernes 20 de noviembre. Los controles serán gratuitos y se realizarán en distintos Centros de Atención Primaria de la Salud y Centros Integradores Comunitarios del distrito.",
+          "La Municipalidad de Necochea, a través de la Secretaría de Salud y la Dirección de Atención Primaria, llevará adelante una nueva campaña de controles gratuitos destinada a promover la prevención y la detección temprana de diferentes enfermedades. La iniciativa se desarrollará entre el lunes 16 y el viernes 20 de noviembre, con atención en distintos Centros de Atención Primaria de la Salud (CAPS) y Centros Integradores Comunitarios (CIC) de Necochea y Quequén."
+        ],
+        "generated": "2026-11-04T14:54:37.250266+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-04T14:51:31.918601+00:00"
+    },
+    {
+      "key": "emotivo homenaje anita peralta torneo clausura voley mar plata llevara nombre",
+      "title": "Emotivo homenaje a Anita Peralta: el Torneo Clausura de vóley de Mar del Plata llevará su nombre",
+      "score": 0.92,
+      "sources_count": 1,
+      "first_seen": "2026-11-04T13:51:08+00:00",
+      "image": null,
+      "articles": [
+        {
+          "portal": "Diario NQ",
+          "title": "Emotivo homenaje a Anita Peralta: el Torneo Clausura de vóley de Mar del Plata llevará su nombre",
+          "url": "https://diarionq.com.ar/emotivo-homenaje-a-anita-peralta-el-torneo-clausura-de-voley-de-mar-del-plata-llevara-su-nombre/",
+          "published_at": "2026-11-04T13:51:08+00:00",
+          "first_seen": "2026-11-04T14:51:31.918601+00:00",
+          "category": "Deportes",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La Asociación Marplatense de Voleibol decidió homenajear a la joven deportista de 15 años que falleció en julio tras un trágico accidente de tránsito en la Ruta 88. Anita, jugadora de Once Unidos, regresaba a Necochea después de disputar un partido cuando ocurrió el siniestro. Su nombre acompañará a todas las categorías del campeonato.",
+          "El vóley de Mar del Plata tendrá un gesto cargado de emoción y recuerdo hacia Anita Peralta, la joven jugadora de 15 años que perdió la vida en julio pasado como consecuencia de un accidente de tránsito ocurrido sobre la Ruta 88. La Asociación Marplatense de Voleibol decidió que el actual Torneo Clausura lleve su nombre, en reconocimiento a su historia deportiva y con el objetivo de mantener viva su memoria dentro de la comunidad del vóley."
+        ],
+        "generated": "2026-11-04T14:54:39.286263+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-04T14:51:31.918601+00:00"
+    },
+    {
+      "key": "industria nacional maquinaria agricola atraviesa momento critico deudas despidos conflictos laborales mayor ingreso equipos usados",
+      "title": "La industria nacional de maquinaria agrícola atraviesa un momento crítico: deudas, despidos, conflictos laborales y mayor ingreso de equipos usados",
+      "score": 0.913,
+      "sources_count": 1,
+      "first_seen": "2026-11-04T13:45:41+00:00",
+      "image": null,
+      "articles": [
+        {
+          "portal": "Diario NQ",
+          "title": "La industria nacional de maquinaria agrícola atraviesa un momento crítico: deudas, despidos, conflictos laborales y mayor ingreso de equipos usados",
+          "url": "https://diarionq.com.ar/la-industria-nacional-de-maquinaria-agricola-atraviesa-un-momento-critico-deudas-despidos-conflictos-laborales-y-mayor-ingreso-de-equipos-usados/",
+          "published_at": "2026-11-04T13:45:41+00:00",
+          "first_seen": "2026-11-04T14:51:31.918601+00:00",
+          "category": "Interés General",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La industria argentina vinculada al sector agropecuario enfrenta un escenario de creciente preocupación. Los problemas financieros de empresas históricas, los conflictos laborales, el cierre temporal de establecimientos y el fuerte incremento de las importaciones de maquinaria usada configuran un panorama complejo para una actividad estratégica para el desarrollo productivo nacional.",
+          "A las dificultades de Metalfor y Pauny se suma ahora la situación de Plantium, empresa dedicada al desarrollo de tecnología para agricultura de precisión, y de su vinculada Gentec, que cerraron temporalmente sus instalaciones en Villa Constitución, provincia de Santa Fe. La decisión estuvo acompañada por despidos que afectan a más de 100 trabajadores, generando preocupación por el futuro laboral de los empleados y la continuidad de las actividades de ambas compañías."
+        ],
+        "generated": "2026-11-04T14:54:41.038648+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-04T14:51:31.918601+00:00"
+    },
+    {
+      "key": "argentina posiciono como tercer exportador mundial merluza congelada genero us 313 millones 2025",
+      "title": "Argentina se posicionó como el tercer exportador mundial de merluza congelada: generó más de US$ 313 millones en 2025",
+      "score": 0.911,
+      "sources_count": 1,
+      "first_seen": "2026-11-04T13:44:14+00:00",
+      "image": null,
+      "articles": [
+        {
+          "portal": "Diario NQ",
+          "title": "Argentina se posicionó como el tercer exportador mundial de merluza congelada: generó más de US$ 313 millones en 2025",
+          "url": "https://diarionq.com.ar/argentina-se-posiciono-como-el-tercer-exportador-mundial-de-merluza-congelada-genero-mas-de-us-313-millones-en-2025/",
+          "published_at": "2026-11-04T13:44:14+00:00",
+          "first_seen": "2026-11-04T14:51:31.918601+00:00",
+          "category": "Interés General",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La actividad pesquera argentina consolidó su presencia en los mercados internacionales. Durante 2025, el país exportó 123.440 toneladas de merluza congelada por un valor de 313,15 millones de dólares, alcanzando el tercer puesto entre los principales exportadores mundiales de este producto.",
+          "La información surge de un relevamiento de la Secretaría de Agricultura, Ganadería y Pesca de la Nación, elaborado sobre la base de estadísticas internacionales de comercio exterior de Naciones Unidas (UN Comtrade). El resultado vuelve a poner en primer plano la importancia de la pesca dentro de la estructura exportadora argentina y, particularmente, el papel de Mar del Plata como principal polo productivo de la merluza en el país."
+        ],
+        "generated": "2026-11-04T14:54:43.080743+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-04T14:51:31.918601+00:00"
+    },
+    {
+      "key": "aumentan multas transito provincia algunas infracciones podran superar millon pesos",
+      "title": "Aumentan las multas de tránsito en la Provincia: algunas infracciones podrán superar el millón de pesos",
+      "score": 0.906,
+      "sources_count": 1,
+      "first_seen": "2026-11-04T13:40:46+00:00",
+      "image": null,
+      "articles": [
+        {
+          "portal": "Diario NQ",
+          "title": "Aumentan las multas de tránsito en la Provincia: algunas infracciones podrán superar el millón de pesos",
+          "url": "https://diarionq.com.ar/aumentan-las-multas-de-transito-en-la-provincia-algunas-infracciones-podran-superar-el-millon-de-pesos/",
+          "published_at": "2026-11-04T13:40:46+00:00",
+          "first_seen": "2026-11-04T14:51:31.918601+00:00",
+          "category": "Provincia",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El Ministerio de Transporte bonaerense actualizó el valor de la Unidad Fija (UF) a $2.340, monto que se utiliza para calcular las sanciones por infracciones viales. La medida rige desde el 1° de noviembre y se mantendrá hasta el 31 de diciembre de 2026.",
+          "Las multas de tránsito en la provincia de Buenos Aires vuelven a aumentar durante los últimos dos meses del año, luego de que el Ministerio de Transporte bonaerense estableciera un nuevo valor para la Unidad Fija (UF), el parámetro que determina el costo de las infracciones. A través de la Resolución 6-SSPYSVMTRAGP-2026, publicada este miércoles en el Boletín Oficial, se fijó en $2.340 el valor de cada Unidad Fija, que será utilizado para calcular las sanciones correspondientes al período noviembre-diciembre de 2026."
+        ],
+        "generated": "2026-11-04T14:54:45.081037+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-04T14:51:31.918601+00:00"
+    },
+    {
+      "key": "leonardo ponzio evalua tres alternativas cubrir anibal moreno aldosivi",
+      "title": "Leonardo Ponzio evalúa tres alternativas para cubrir a Aníbal Moreno contra Aldosivi",
+      "score": 0.75,
+      "sources_count": 1,
+      "first_seen": "2026-11-04T11:24:33+00:00",
+      "image": null,
+      "articles": [
+        {
+          "portal": "Necochea News",
+          "title": "Leonardo Ponzio evalúa tres alternativas para cubrir a Aníbal Moreno contra Aldosivi",
+          "url": "https://necocheanews.com.ar/leonardo-ponzio-evalua-tres-alternativas-para-cubrir-a-anibal-moreno-contra-aldosivi/",
+          "published_at": "2026-11-04T11:24:33+00:00",
+          "first_seen": "2026-11-04T14:51:31.918601+00:00",
+          "category": "DEPORTES",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El técnico interino de River Plate debe decidir quién ocupará el puesto de volante central en el próximo encuentro de la fecha 25 del Torneo Clausura, tras la ausencia de Aníbal Moreno y la lesión de Fausto Vera. Opciones para el eje del mediocampo Ponzio tiene a Lucas Silva, Tobías Andrada y Mauro Arambarri como candidatos para reemplazar a Moreno. Silva, quien inició el Superclásico y fue sustituido al descanso, vuelve a figurar como la alternativa más viable pese a su desempeño irregular.",
+          "Andrada, que ya desempeñó la función en la segunda mitad del partido contra Boca, podría entrar y permitir que Lautaro Pereyra refuerce la faceta ofensiva del medio campo. Por su parte, Arambarri posee características que se ajustan al puesto, aunque su consideración se ha enfriado y no participó en el último encuentro."
+        ],
+        "generated": "2026-11-04T14:54:45.972838+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-04T14:51:31.918601+00:00"
+    },
+    {
+      "key": "scaloni presento lista partidos amistosos sorpresa dos regresos",
+      "title": "Scaloni presentó la lista para los partidos amistosos con una sorpresa y dos regresos",
+      "score": 0.742,
+      "sources_count": 1,
+      "first_seen": "2026-11-04T11:16:54+00:00",
+      "image": null,
+      "articles": [
+        {
+          "portal": "Necochea News",
+          "title": "Scaloni presentó la lista para los partidos amistosos con una sorpresa y dos regresos",
+          "url": "https://necocheanews.com.ar/scaloni-convoca-a-27-futbolistas-para-los-amistosos-contra-uruguay-y-costa-rica-y-anuncia-debut-de-aaron-anselmino/",
+          "published_at": "2026-11-04T11:16:54+00:00",
+          "first_seen": "2026-11-04T14:51:31.918601+00:00",
+          "category": "DEPORTES",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El entrenador Lionel Scaloni presentó la lista para los partidos amistosos del 13 y 17 de noviembre, incorporando a un joven de Boca y recuperando a dos jugadores que no habían sido convocados desde la final del Mundial 2026. Nuevos ingresos y primeras citaciones Entre los 27 convocados destaca la inclusión de Aaron Anselmino, de 21 años, que llega a la Selección mayor después de su paso por Boca Juniors y su fichaje por el Chelsea por 18 millones de dólares, más variables por objetivos.",
+          "El centrocampista, cuya carrera ha estado marcada por problemas físicos, debutará en la mayor bajo la dirección de Scaloni. Regresos al plantel El defensor Mariano Troilo vuelve a la nómina tras su primera convocatoria en mayo de 2025, cuando formó parte del grupo para los encuentros de Eliminatorias contra Chile y Colombia, aunque en esa ocasión no llegó a jugar."
+        ],
+        "generated": "2026-11-04T14:54:47.049525+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-04T14:51:31.918601+00:00"
+    },
+    {
+      "key": "duro reves trump democratas arrasaron legislativas quedaron todo congreso",
+      "title": "Duro revés para Trump: Los demócratas arrasaron en las legislativas y se quedaron con todo el Congreso",
+      "score": 0.736,
+      "sources_count": 1,
+      "first_seen": "2026-11-04T11:11:09+00:00",
+      "image": null,
+      "articles": [
+        {
+          "portal": "Necochea News",
+          "title": "Duro revés para Trump: Los demócratas arrasaron en las legislativas y se quedaron con todo el Congreso",
+          "url": "https://necocheanews.com.ar/democratas-se-quedan-con-el-senado-y-la-camara-tras-las-legislativas-del-3-de-noviembre-en-ee-uu/",
+          "published_at": "2026-11-04T11:11:09+00:00",
+          "first_seen": "2026-11-04T14:51:31.918601+00:00",
+          "category": "INTERNACIONALES",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Los comicios de medio término dejaron al Partido Demócrata con la mayoría en ambas cámaras del Congreso, marcando una de las derrotas republicanas más significativas de los últimos años y complicando la agenda del presidente Donald Trump para los dos últimos años de su mandato. Con la victoria demócrata, el control del Congreso pasa a manos de la oposición, que ahora cuenta con la capacidad de bloquear las iniciativas legislativas del Ejecutivo. El resultado refleja un amplio descontento con la gestión del presidente y reconfigura el equilibrio de fuerzas en Washington.",
+          "Los resultados se consolidaron en varios estados que históricamente habían favorecido a los republicanos. Texas, Iowa, Kansas, Ohio, Carolina del Norte y Maine fueron algunos de los territorios donde los demócratas lograron imponerse, alterando la composición del Senado y la Cámara de Representantes."
+        ],
+        "generated": "2026-11-04T14:54:48.105581+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-04T14:51:31.918601+00:00"
+    },
+    {
+      "key": "conoce agenda eventos deportivos culturales populares disfrutar noviembre necochea quequen",
+      "title": "Conocé la agenda de eventos deportivos, culturales y populares para disfrutar en noviembre en Necochea y Quequén",
+      "score": 0.0,
+      "sources_count": 3,
+      "first_seen": "2026-11-03T22:00:01.760980+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261103174253_27-09-foto-archivo-aniversario-necochea-01.jpg",
+      "articles": [
         {
           "portal": "Necochea Digital",
           "title": "Conocé la agenda de eventos deportivos, culturales y populares para disfrutar en noviembre en Necochea y Quequén",
@@ -240,354 +637,35 @@
           "first_seen": "2026-11-03T22:00:01.760980+00:00",
           "category": null,
           "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Generales | aniversario | En Necochea y Quequén Noviembre tendrá una variada agenda de eventos deportivos, culturales y populares Uno de los meses con más movimiento a lo largo del año. Entre las actividades están los festejos postergados por los aniversarios de las dos principales ciudades del distrito Por Redacción TSN 03/11/2026 · 06:47 PM Agregar TSN Necochea en Con una nutrida programación de actividades para todos los gustos y edades, noviembre tendrá una intensa agenda de eventos en Necochea, Quequén y las localidades del distrito .",
-          "La propuesta incluye competencias deportivas de alcance nacional y regional, aniversarios, encuentros culturales, fiestas tradicionalistas, muestras y actividades recreativas , con el acompañamiento de la Secretaría de Turismo y Desarrollo Productivo de la Municipalidad de Necochea."
-        ],
-        "generated": "2026-11-04T10:31:05.841674+00:00"
-      },
-      "apariciones": 30,
-      "ultima_impresion": "2026-11-04T10:30:00.561325+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "pusieron marcha nuevo generador electrico hospital irurzun quequen",
-      "title": "Pusieron en marcha el nuevo generador eléctrico del Hospital Irurzun de Quequén",
-      "score": 0.0,
-      "sources_count": 3,
-      "first_seen": "2026-11-03T13:13:59+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/03-11-FOTO-generador-Irurzun3-1.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Pusieron en marcha el nuevo generador eléctrico del Hospital Irurzun de Quequén",
-          "url": "https://tsnnecochea.com.ar/generales/pusieron-en-marcha-el-nuevo-generador-electrico-del-hospital-irurzun-de-quequen-241413/",
-          "published_at": "2026-11-03T21:42:18+00:00",
-          "first_seen": "2026-11-03T22:00:01.760980+00:00",
-          "category": "fomento",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/03-11-FOTO-generador-Irurzun3-1.webp"
         },
         {
           "portal": "Necochea News",
-          "title": "Nuevo generador de 90 kVA entra en funcionamiento en el Hospital Irurzun de Quequén",
-          "url": "https://necocheanews.com.ar/nuevo-generador-de-90-kva-entra-en-funcionamiento-en-el-hospital-irurzun-de-quequen/",
-          "published_at": "2026-11-03T13:13:59+00:00",
-          "first_seen": "2026-11-03T19:28:44.559385+00:00",
+          "title": "Noviembre se llena de eventos deportivos, culturales y populares en Necochea y Quequén",
+          "url": "https://necocheanews.com.ar/titulo-4/",
+          "published_at": "2026-11-04T11:36:41+00:00",
+          "first_seen": "2026-11-04T14:51:31.918601+00:00",
           "category": "LOCALES",
           "image": null
         },
         {
-          "portal": "Informate Necochea",
-          "title": "Recorrieron las obras finalizadas para poner en funcionamiento el nuevo generador del Hospital Irurzun",
-          "url": "https://informatenecochea.com/noticia/recorrieron-las-obras-finalizadas-para-poner-en-funcionamiento-el-nuevo-generador-del-hospital-irurzun",
-          "published_at": "2026-11-03T16:52:59+00:00",
-          "first_seen": "2026-11-03T17:00:01.355293+00:00",
-          "category": "Local",
-          "image": "https://res.cloudinary.com/dsugba4yh/image/upload/v1793724721/iru_s1ej7f.png"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Generales | fomento | Salud Pusieron en marcha el nuevo generador eléctrico del Hospital Irurzun de Quequén Se trata de un equipo de 90 KVA de encendido automático que garantiza la continuidad de cirugías y atención ante cortes de luz. La obra incluyó un depósito de residuos patogénicos, nuevo tablero y adecuación de potencia junto a la UPC.",
-          "Por Redacción TSN 03/11/2026 · 06:42 PM Agregar TSN Necochea en Autoridades municipales y miembros de la cooperadora de la «Asociación Civil Fomento por la Salud del Hospital Irurzun» concretaron una recorrida oficial por las obras finalizadas que permitieron la puesta en funcionamiento del nuevo generador eléctrico de 90 KVA en el nosocomio quequenense. La jornada contó con la presencia de la secretaria de Salud, Andrea Perestiuk , funcionarios de la Secretaría de Planeamiento, Obras y Servicios Públicos, e integrantes de la comisión directiva de la cooperadora."
-        ],
-        "generated": "2026-11-04T10:31:10.045860+00:00"
-      },
-      "apariciones": 30,
-      "ultima_impresion": "2026-11-04T10:30:00.561325+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "milei viajo espana cumbre iberoamericana agenda acotada audiencia rey felipe vi",
-      "title": "Milei viajó a España para la Cumbre Iberoamericana con agenda acotada y sin audiencia con el rey Felipe VI",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-11-04T03:45:27+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/01/milei.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Milei viajó a España para la Cumbre Iberoamericana con agenda acotada y sin audiencia con el rey Felipe VI",
-          "url": "https://tsnnecochea.com.ar/nacion/milei-viajo-a-espana-para-la-cumbre-iberoamericana-con-agenda-acotada-y-sin-audiencia-con-el-rey-felipe-vi-241448/",
-          "published_at": "2026-11-04T03:45:27+00:00",
-          "first_seen": "2026-11-04T04:00:00.617651+00:00",
-          "category": "España",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/01/milei.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Nación | España | Visita Milei viajó a España para la Cumbre Iberoamericana con agenda acotada y sin audiencia con el rey Felipe VI El presidente partió rumbo a Madrid para participar del foro internacional y reunirse con el líder de VOX, Santiago Abascal. Por Redacción TSN 04/11/2026 · 12:45 AM Agregar TSN Necochea en En el marco de un viaje oficial marcado por las recientes fricciones políticas con el gobierno local, el presidente Javier Milei partió este martes a las 23:00 (hora argentina) con destino a España para participar de una nueva edición de la Cumbre Iberoamericana , que se desarrollará en Madrid entre el 4 y el 5 de noviembre.",
-          "Uno de los datos políticos más salientes del itinerario del jefe de Estado es la ausencia de una audiencia o encuentro bilateral con el rey Felipe VI , máxima autoridad del Estado español."
-        ],
-        "generated": "2026-11-04T10:31:29.578926+00:00"
-      },
-      "apariciones": 16,
-      "ultima_impresion": "2026-11-04T10:30:00.561325+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "bancaria solicito implementar horario verano provincia piden atender 13",
-      "title": "La Bancaria solicitó implementar el horario de verano en la Provincia: piden atender de 8 a 13",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-11-04T03:07:15+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2024/01/Captura-de-pantalla-2024-01-23-105033.jpg",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "La Bancaria solicitó implementar el horario de verano en la Provincia: piden atender de 8 a 13",
-          "url": "https://tsnnecochea.com.ar/generales/la-bancaria-solicito-implementar-el-horario-de-verano-en-la-provincia-piden-atender-de-8-a-13-241433/",
-          "published_at": "2026-11-04T03:07:15+00:00",
-          "first_seen": "2026-11-04T03:30:00.405669+00:00",
-          "category": "bancos",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2024/01/Captura-de-pantalla-2024-01-23-105033.jpg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Generales | bancos | Solicitud La Bancaria solicitó implementar el horario de verano en la Provincia: piden atender de 8 a 13 Buscan reducir el impacto del calor en usuarios y trabajadores Por Redacción TSN 04/11/2026 · 12:07 AM Banco Provincia sucursal playa Necochea Agregar TSN Necochea en La Asociación Bancaria elevó un pedido formal al gobernador de la provincia de Buenos Aires, Axel Kicillof , para solicitar la pronta implementación del habitual horario de verano en todas las entidades financieras que operan dentro del territorio bonaerense, incluyendo el distrito de Necochea.",
-          "La iniciativa del sindicato apunta a modificar temporalmente la jornada de atención al público —que actualmente funciona de 10:00 a 15:00— para pasar a un esquema matutino de 8:00 a 13:00 horas ."
-        ],
-        "generated": "2026-11-04T10:31:30.340869+00:00"
-      },
-      "apariciones": 17,
-      "ultima_impresion": "2026-11-04T10:30:00.561325+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "horoscopo semanal lunes domingo noviembre 2026 dicen predicciones",
-      "title": "Horóscopo semanal del lunes 2 al domingo 8 de noviembre de 2026: qué dicen las predicciones",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-11-03T23:24:48+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/02/signos-13.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Horóscopo semanal del lunes 2 al domingo 8 de noviembre de 2026: qué dicen las predicciones",
-          "url": "https://tsnnecochea.com.ar/generales/horoscopo-semanal-del-lunes-2-al-domingo-8-de-noviembre-de-2026-que-dicen-las-predicciones-241411/",
-          "published_at": "2026-11-03T23:24:48+00:00",
-          "first_seen": "2026-11-03T23:30:01.117330+00:00",
-          "category": "Horóscopo",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/02/signos-13.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Generales | Horóscopo | Signos del zodíaco Horóscopo semanal del lunes 2 al domingo 8 de noviembre de 2026: qué dicen las predicciones Esta semana la luna se ubica en Leo, ¿qué significa esto? Conocé todas las energías que influenciarán a tu signo. Por Redacción TSN 03/11/2026 · 08:24 PM Tauro, Cáncer, Leo, Escorpio y Capricornio son los signos más fieles en el amor, según la IA.",
-          "Foto: Agencia Noticias Argentinas - Freepik. Agregar TSN Necochea en El horóscopo de la semana del lunes 2 al domingo 8 de noviembre de 2026 de todos los signos: las predicciones para nuestra vida cotidiana, trabajo y vínculos afectivos que tenemos que saber y tener en cuenta. Empieza una nueva semana con la luna ubicada en Leo , ¿qué significa esto?"
-        ],
-        "generated": "2026-11-04T10:34:05.926774+00:00"
-      },
-      "apariciones": 27,
-      "ultima_impresion": "2026-11-04T10:30:00.561325+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "frente judicial zona fria radical miguel lunghi presento amparo tandil frenar recorte descuentos gas",
-      "title": "Frente judicial por la \"Zona Fría\": el radical Miguel Lunghi presentó un amparo en Tandil para frenar el recorte en los descuentos de gas",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-11-04T01:29:01+00:00",
-      "image": "https://res.cloudinary.com/dsugba4yh/image/upload/v1793755724/lu_f9aink.png",
-      "articles": [
-        {
-          "portal": "Informate Necochea",
-          "title": "Frente judicial por la \"Zona Fría\": el radical Miguel Lunghi presentó un amparo en Tandil para frenar el recorte en los descuentos de gas",
-          "url": "https://informatenecochea.com/noticia/frente-judicial-por-la-zona-fria-el-radical-miguel-lunghi-presento-un-amparo-en-tandil-para-frenar-el-recorte-en-los-descuentos-de-gas",
-          "published_at": "2026-11-04T01:29:01+00:00",
-          "first_seen": "2026-11-04T01:30:00.761389+00:00",
-          "category": "Nacional",
-          "image": "https://res.cloudinary.com/dsugba4yh/image/upload/v1793755724/lu_f9aink.png"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Inicio / Nacional Nacional Frente judicial por la \"Zona Fría\": el radical Miguel Lunghi presentó un amparo en Tandil para frenar el recorte en los descuentos de gas La resistencia municipal de la provincia de Buenos Aires contra las reformas del Poder Ejecutivo Nacional al régimen de subsidios de la \"Zona Fría\" sumó este martes un capítulo clave.",
-          "El histórico intendente radical de Tandil, Miguel Lunghi, formalizó un amparo colectivo ante la Justicia Federal con un pedido explícito de medida cautelar urgente para suspender las restricciones que eliminan o achican las bonificaciones en las facturas de gas de los usuarios de su distrito."
-        ],
-        "generated": "2026-11-04T10:34:11.833052+00:00"
-      },
-      "apariciones": 21,
-      "ultima_impresion": "2026-11-04T10:30:00.561325+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "monica lombardi sexta rally sierras sueno disfrutar seguir superandome",
-      "title": "Mónica Lombardi, sexta en el Rally de las Sierras: “El sueño es disfrutar y seguir superándome”",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-11-04T00:49:00+00:00",
-      "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/b6377f1c-1589-4a5a-96a9-77130e1fdd2e.jpg",
-      "articles": [
-        {
           "portal": "Diario NQ",
-          "title": "Mónica Lombardi, sexta en el Rally de las Sierras: “El sueño es disfrutar y seguir superándome”",
-          "url": "https://diarionq.com.ar/monica-lombardi-sexta-en-el-rally-de-las-sierras-el-sueno-es-disfrutar-y-seguir-superandome/",
-          "published_at": "2026-11-04T00:49:00+00:00",
-          "first_seen": "2026-11-04T01:00:00.410511+00:00",
-          "category": "Deportes",
-          "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/b6377f1c-1589-4a5a-96a9-77130e1fdd2e.jpg"
+          "title": "Agenda cargada para noviembre: Necochea y Quequén tendrán un mes repleto de eventos deportivos, culturales y populares",
+          "url": "https://diarionq.com.ar/agenda-cargada-para-noviembre-necochea-y-quequen-tendran-un-mes-repleto-de-eventos-deportivos-culturales-y-populares/",
+          "published_at": "2026-11-04T12:19:28+00:00",
+          "first_seen": "2026-11-04T14:51:31.918601+00:00",
+          "category": "La ciudad",
+          "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/PLACA1.jpeg"
         }
       ],
       "summary": {
         "paragraphs": [
-          "La ciclista necochense Mónica Lombardi tuvo una destacada participación en el tradicional Rally de las Sierras, disputado en Tandil, una de las competencias más exigentes del calendario del mountain bike. En una prueba que reunió a unos 800 participantes de distintos puntos del país, finalizó sexta en su categoría de damas, luego de completar los 53 kilómetros del recorrido. En diálogo con Zoom El Deportivo, Lombardi compartió sus sensaciones sobre la competencia y destacó que, pese a las dificultades del circuito y una caída que le hizo perder algunos minutos, logró cumplir con sus expectativas y mejorar considerablemente su rendimiento respecto de la edición anterior.",
-          "“Estoy muy contenta porque bajé diez minutos del año pasado. El terreno estaba bastante complicado, con toda la lluvia que había caído desde el miércoles. Era terrible, se te hundía la cubierta”, contó."
+          "A través de este acompañamiento, la gestión municipal busca fortalecer las iniciativas de instituciones, clubes, asociaciones y organizadores locales, promoviendo la llegada de visitantes, el movimiento turístico y comercial y la generación de oportunidades para distintos sectores de la comunidad. La agenda de noviembre Sábado 7 y domingo 8: -Torneo Nacional de Belleza y Estructura del Ovejero Alemán: el Club Luz y Fuerza, en la ribera del río Quequén, recibirá a criadores y expositores de distintos puntos del país para la gran definición de la temporada. Organizan entidades locales junto al Club Argentino de Criadores del Perro Ovejero Alemán y COANE.",
+          "-172° Aniversario de Quequén: los festejos se desarrollarán en la Plaza Hipólito Yrigoyen, frente a la Delegación, con música en vivo, actividades para las infancias, juegos, corredor gastronómico, stands comerciales y feria de emprendedores. Entrada libre y gratuita."
         ],
-        "generated": "2026-11-04T10:34:36.841203+00:00"
+        "generated": "2026-11-04T14:53:57.837735+00:00"
       },
-      "apariciones": 22,
-      "ultima_impresion": "2026-11-04T10:30:00.561325+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "marcos bertone nosotros medalla como haber salido campeones mundo",
-      "title": "Marcos Bertone: “Para nosotros, esta medalla es como haber salido campeones del mundo”",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-11-04T00:42:57+00:00",
-      "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/0ee38438-5297-4bf8-8279-d5c480ee75b2.jpg",
-      "articles": [
-        {
-          "portal": "Diario NQ",
-          "title": "Marcos Bertone: “Para nosotros, esta medalla es como haber salido campeones del mundo”",
-          "url": "https://diarionq.com.ar/marcos-bertone-para-nosotros-esta-medalla-es-como-haber-salido-campeones-del-mundo/",
-          "published_at": "2026-11-04T00:42:57+00:00",
-          "first_seen": "2026-11-04T01:00:00.410511+00:00",
-          "category": "Deportes",
-          "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/0ee38438-5297-4bf8-8279-d5c480ee75b2.jpg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La histórica medalla de bronce conseguida por la posta argentina de 4×200 metros libres en el Mundial de Natación para Personas con Síndrome de Down, que se desarrolla en Albufeira, Portugal, tuvo un protagonista necochense: Nicolás Amendola. Tras este importante resultado, el entrenador de la Selección Argentina y director de la Escuela Municipal de Natación Adaptada “Todos al Agua”, Marcos Bertone, dialogó con Zoom El Deportivo y compartió sus sensaciones sobre un logro que calificó como histórico para la natación nacional.",
-          "“Fue una grata sorpresa, porque no estaba dentro de lo planificado ni de lo que pensábamos que podíamos hacer”, reconoció Bertone al referirse a la medalla obtenida por el equipo integrado por Bautista Bal, de General Pico; Agustín Bortolotto, de Mar del Plata; Nicolás Amendola, de Necochea; y Joaquín Perren, de Santa Fe."
-        ],
-        "generated": "2026-11-04T10:34:39.159038+00:00"
-      },
-      "apariciones": 22,
-      "ultima_impresion": "2026-11-04T10:30:00.561325+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "senadores libertarios apuran tramite votar ley discapacitados",
-      "title": "LOS SENADORES LIBERTARIOS APURAN EL TRÀMITE PARA VOTAR LA LEY DE DISCAPACITADOS",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-11-03T22:14:40+00:00",
-      "image": null,
-      "articles": [
-        {
-          "portal": "Necochea Libre",
-          "title": "LOS SENADORES LIBERTARIOS APURAN EL TRÀMITE PARA VOTAR LA LEY DE DISCAPACITADOS",
-          "url": "https://necochealibre.com.ar/los-senadores-libertarios-apuran-el-tramite-para-votar-la-ley-de-discapacitados/",
-          "published_at": "2026-11-03T22:14:40+00:00",
-          "first_seen": "2026-11-03T22:30:01.571027+00:00",
-          "category": "Generales",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Generales Política Regionales LOS SENADORES LIBERTARIOS APURAN EL TRÀMITE PARA VOTAR LA LEY DE DISCAPACITADOS Por admin - 3 noviembre, 2026 0 6 Facebook Twitter Pinterest WhatsApp Caba.- Senado: tras el revés en Diputados, los libertarios buscan dictaminar la ley que reemplaza la Emergencia en Discapacidad. El oficialismo buscará dictaminar este miércoles el proyecto, luego de ceder ante la oposición en Diputados para conseguir su aprobación y frenar la propuesta opositora.",
-          "La iniciativa llega tras meses de reclamos por el ajuste en discapacidad y las prestaciones adeudadas. Tras el revés que sufrió La Libertad Avanza en Diputados, el bloque oficialista en el Senado, concentra sus esfuerzos en acelerar el tratamiento de la nueva ley de discapacidad y conseguir dictamen este miércoles, con el objetivo de llevarla al recinto antes de que termine el período ordinario."
-        ],
-        "generated": "2026-11-04T10:35:25.000598+00:00"
-      },
-      "apariciones": 29,
-      "ultima_impresion": "2026-11-04T10:30:00.561325+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "reunio hoy comision obras servicios publicos concejo deliberante",
-      "title": "SE REUNIÒ HOY LA COMISIÒN DE OBRAS Y SERVICIOS PÙBLICOS DEL CONCEJO DELIBERANTE.",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-11-03T21:50:45+00:00",
-      "image": null,
-      "articles": [
-        {
-          "portal": "Necochea Libre",
-          "title": "SE REUNIÒ HOY LA COMISIÒN DE OBRAS Y SERVICIOS PÙBLICOS DEL CONCEJO DELIBERANTE.",
-          "url": "https://necochealibre.com.ar/se-reunio-hoy-la-comision-de-obras-y-servicios-publicos-del-concejo-deliberante/",
-          "published_at": "2026-11-03T21:50:45+00:00",
-          "first_seen": "2026-11-03T22:00:01.760980+00:00",
-          "category": "Locales",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Locales Política Regionales SE REUNIÒ HOY LA COMISIÒN DE OBRAS Y SERVICIOS PÙBLICOS DEL CONCEJO DELIBERANTE. Por admin - 3 noviembre, 2026 0 7 Facebook Twitter Pinterest WhatsApp Necochea.- Este lunes 2 de Noviembre se realizó una reunión de la Comisión de Infraestructura, Obras y Servicios Públicos del Honorable Concejo Deliberante de Necochea.",
-          "En primer lugar, se analizó una solicitud de reserva de estacionamiento para la sede de la Cruz Roja, ubicada en la zona céntrica de la ciudad, con el objetivo de facilitar el acceso de los vehículos de la institución. Por otra parte, se abordó un proyecto de resolución referido a la restauración de juegos infantiles en la plaza céntrica y la posibilidad de instalar baños públicos, teniendo en cuenta la concurrencia de vecinos y el uso del espacio."
-        ],
-        "generated": "2026-11-04T10:35:25.792294+00:00"
-      },
-      "apariciones": 30,
-      "ultima_impresion": "2026-11-04T10:30:00.561325+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "scaloni anuncio convocatoria seleccion argentina amistosos uruguay costa rica",
-      "title": "Scaloni anunció la convocatoria de la Selección Argentina para los amistosos ante Uruguay y Costa Rica",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-11-03T19:30:27+00:00",
-      "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/2322209b-cc0c-44ee-aabf-cf52b16be447.jpg",
-      "articles": [
-        {
-          "portal": "Diario NQ",
-          "title": "Scaloni anunció la convocatoria de la Selección Argentina para los amistosos ante Uruguay y Costa Rica",
-          "url": "https://diarionq.com.ar/scaloni-anuncio-la-convocatoria-de-la-seleccion-argentina-para-los-amistosos-ante-uruguay-y-costa-rica/",
-          "published_at": "2026-11-03T19:30:27+00:00",
-          "first_seen": "2026-11-03T20:00:08.638418+00:00",
-          "category": "Deportes",
-          "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/2322209b-cc0c-44ee-aabf-cf52b16be447.jpg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Con el regreso de Gonzalo Montiel y las sorpresivas citaciones de los jóvenes Aaron Anselmino y Mariano Troilo, Lionel Scaloni confirmó la lista de convocados para la doble fecha de noviembre. La Albiceleste enfrentará a Uruguay el 13 de noviembre y a Costa Rica el 17, en una nueva etapa tras la despedida de Lionel Messi. La Selección Argentina ya tiene a sus convocados para afrontar los próximos compromisos internacionales.",
-          "El entrenador Lionel Scaloni dio a conocer la nómina de futbolistas que integrarán el plantel para los amistosos frente a Uruguay y Costa Rica, previstos para el 13 y 17 de noviembre, respectivamente. Una de las principales novedades de la convocatoria es el regreso de Gonzalo Montiel, lateral derecho de River Plate, quien vuelve a formar parte del seleccionado luego de varias ausencias."
-        ],
-        "generated": "2026-11-04T10:35:28.319409+00:00"
-      },
-      "apariciones": 34,
-      "ultima_impresion": "2026-11-04T10:30:00.561325+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "nicolas amendola medalla bronce mundial natacion portugal",
-      "title": "¡Nicolás Améndola es medalla de bronce en el Mundial de natación de Portugal!",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-11-03T19:15:40+00:00",
-      "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/0ee38438-5297-4bf8-8279-d5c480ee75b2.jpg",
-      "articles": [
-        {
-          "portal": "Diario NQ",
-          "title": "¡Nicolás Améndola es medalla de bronce en el Mundial de natación de Portugal!",
-          "url": "https://diarionq.com.ar/nicolas-amendola-es-medalla-de-bronce-en-el-mundial-de-natacion-de-portugal/",
-          "published_at": "2026-11-03T19:15:40+00:00",
-          "first_seen": "2026-11-04T04:00:00.617651+00:00",
-          "category": "Destacadas",
-          "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/0ee38438-5297-4bf8-8279-d5c480ee75b2.jpg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El nadador necochense consiguió el tercer puesto en la prueba de 4×200 metros libres, en el marco del 12° Mundial de Natación para Personas con Síndrome de Down que se desarrolla en Albufeira, Portugal. Améndola continúa teniendo una destacada actuación internacional y suma una nueva alegría para el deporte local. Nicolás Améndola volvió a destacarse en el plano internacional al conseguir la medalla de bronce en la prueba de relevos 4×200 metros libres, durante su participación en el 12° Mundial de Natación para Personas con Síndrome de Down, que se disputa en Albufeira, Portugal.",
-          "El representante de la Escuela Municipal de Natación Adaptada “Todos al Agua” tuvo una sobresaliente actuación y se subió al podio mundialista, sumando una nueva conquista en una competencia que reúne a nadadores de distintos países. Cabe recordar que, en la jornada anterior, Améndola también había tenido una actuación destacada en los 50 metros mariposa."
-        ],
-        "generated": "2026-11-04T10:35:30.218636+00:00"
-      },
-      "apariciones": 16,
-      "ultima_impresion": "2026-11-04T10:30:00.561325+00:00",
+      "apariciones": 31,
+      "ultima_impresion": "2026-11-04T14:51:31.918601+00:00",
       "penalizacion": 0.0
     }
   ]
