@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-05T14:00:00.605619+00:00",
+  "generated_at": "2026-11-05T14:04:07.495754+00:00",
   "article_count": 135,
   "fetch_errors": [],
   "stories": [
     {
       "key": "erosion costera necochea quequen informe advierte deterioro cuatro sectores",
       "title": "Erosión costera en Necochea y Quequén: un informe advierte deterioro en cuatro sectores",
-      "score": 2.322,
+      "score": 1.378,
       "sources_count": 2,
       "first_seen": "2026-11-05T13:06:51+00:00",
       "image": "http://nden.com.ar/uploads/noticias/5/2026/11/20261105102648_en-la-imagen-se-nota-la-reduccion-de-la-playa-y-el-socavamiento-de-los-acantilados.png",
@@ -35,16 +35,190 @@
           "Un estudio del Ministerio de Ambiente bonaerense analizó cuatro sectores del frente costero local y detectó problemas de conservación en todos ellos. El documento señala que la erosión en Bahía de los Vientos afecta a los acantilados y a viviendas cercanas, mientras que en Barrio Médanos y Punta Negra se registran daños vinculados a la intervención humana y al retroceso de la costa.",
           "Un informe elaborado por el Ministerio de Ambiente de la Provincia de Buenos Aires puso el foco sobre el estado de las costas de Necochea y Quequén y advirtió sobre el deterioro ambiental que presentan distintos sectores del litoral marítimo local."
         ],
-        "generated": "2026-11-05T14:00:58.985041+00:00"
+        "generated": "2026-11-05T14:05:03.745823+00:00"
+      },
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-05T14:04:07.495754+00:00",
+      "penalizacion": 0.597
+    },
+    {
+      "key": "dos motocicletas protagonizaron choque interseccion 18 63",
+      "title": "Dos motocicletas protagonizaron un choque en la intersección de 18 y 63",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-05T14:04:07.495754+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/1f7ce8748dd6c53d6379d8ee8d99bf2c0b1e4d4f.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Dos motocicletas protagonizaron un choque en la intersección de 18 y 63",
+          "url": "https://necocheadigital.com/nota/120107/dos-motocicletas-protagonizaron-un-choque-en-la-interseccion-de-18-y-63/",
+          "published_at": null,
+          "first_seen": "2026-11-05T14:04:07.495754+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El hecho ocurrió alrededor de las 00:30, cuando el Centro de Operaciones y Monitoreo (COM) recibió el alerta sobre la colisión y dio intervención a los servicios de emergencia. Una unidad de Defensa Civil se desplazó hasta el lugar y asistió inicialmente a los dos conductores, quienes presentaban lesiones de carácter leve. También se coordinó la llegada de una ambulancia del SAME.",
+          "Tras evaluar a los involucrados, el personal médico determinó que no era necesario trasladarlos al hospital local. En el operativo trabajaron además agentes de Tránsito y efectivos policiales, quienes realizaron tareas de prevención, ordenamiento de la circulación y seguridad en la zona."
+        ],
+        "generated": "2026-11-05T14:07:04.622027+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-05T14:00:00.605619+00:00"
+      "ultima_impresion": "2026-11-05T14:04:07.495754+00:00"
+    },
+    {
+      "key": "rojas encabezo reunion delegados municipales coordinar prevencion posibles contingencias climaticas",
+      "title": "Rojas encabezó una reunión con los delegados municipales para coordinar la prevención ante posibles contingencias climáticas",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-05T14:04:07.495754+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/f9ee0cc446fc0d4d0086db6ac9149eddc44a53b6.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Rojas encabezó una reunión con los delegados municipales para coordinar la prevención ante posibles contingencias climáticas",
+          "url": "https://necocheadigital.com/nota/120110/rojas-encabezo-una-reunion-con-los-delegados-municipales-para-coordinar-la-prevencion-ante-posibles-contingencias-climaticas/",
+          "published_at": null,
+          "first_seen": "2026-11-05T14:04:07.495754+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El municipio de Necochea continúa avanzando en la planificación de medidas preventivas frente a posibles contingencias climáticas. En ese marco, el intendente Arturo Rojas encabezó una nueva reunión de trabajo en el Centro Operativo de Monitoreo (COM), esta vez con la participación de los delegados municipales de las localidades del interior del distrito. Del encuentro participaron Diego Angeli, de La Dulce; Martín Méndez, de Juan N.",
+          "Fernández; Virginia Hefner, de Ramón Santamarina; y Marina Aineseder, de Claraz, quienes expusieron las principales necesidades de sus respectivas localidades y las tareas de mantenimiento que se encuentran pendientes. Uno de los ejes centrales fue la coordinación del trabajo entre las distintas dependencias municipales para actuar ante eventuales emergencias, especialmente frente a los escenarios meteorológicos que podrían presentarse por la influencia del fenómeno de El Niño en la provincia de Buenos Aires."
+        ],
+        "generated": "2026-11-05T14:07:05.480184+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-05T14:04:07.495754+00:00"
+    },
+    {
+      "key": "walter pereyra papa viene renovar nuestro compromiso quienes necesitan",
+      "title": "Walter Pereyra: “El Papa viene a renovar nuestro compromiso con quienes más necesitan”",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-05T14:04:07.495754+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261105081234_captura.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Walter Pereyra: “El Papa viene a renovar nuestro compromiso con quienes más necesitan”",
+          "url": "https://necocheadigital.com/nota/120109/walter-pereyra-el-papa-viene-a-renovar-nuestro-compromiso-con-quienes-mas-necesitan/",
+          "published_at": null,
+          "first_seen": "2026-11-05T14:04:07.495754+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La próxima visita del papa León XIV a la Argentina genera expectativas en la comunidad católica y abre una oportunidad para reflexionar sobre el papel de la Iglesia frente a los desafíos sociales actuales. En ese marco, el sacerdote Walter Pereyra, párroco de Nuestra Señora de la Merced de Quequén, destacó que la llegada del Pontífice debe ser entendida no solamente como un acontecimiento religioso, sino también como un llamado a renovar el compromiso con el prójimo.",
+          "En una entrevista con el programa Voces de la Tarde , que conduce Jorge Gómez por Radio Noticias Necochea, Pereyra expresó su alegría por la visita y consideró que la presencia del Papa permitirá fortalecer la fe y generar una mayor conciencia sobre la importancia de ayudar a quienes atraviesan situaciones difíciles. El sacerdote explicó que el mensaje de León XIV no estará dirigido exclusivamente a los católicos, sino también a todas las personas de buena voluntad."
+        ],
+        "generated": "2026-11-05T14:07:06.698627+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-05T14:04:07.495754+00:00"
+    },
+    {
+      "key": "necochea sera sede primer festival democracia region educativa 20",
+      "title": "Necochea será sede del primer Festival de la Democracia de la Región Educativa 20",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-05T14:04:07.495754+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/ccd6867ec4c590b0abf5a3c1bf2d8d848a89bc29.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Necochea será sede del primer Festival de la Democracia de la Región Educativa 20",
+          "url": "https://necocheadigital.com/nota/120108/necochea-sera-sede-del-primer-festival-de-la-democracia-de-la-region-educativa-20/",
+          "published_at": null,
+          "first_seen": "2026-11-05T14:04:07.495754+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Necochea será sede del primer Festival de la Democracia de la Región Educativa 20, una iniciativa que reunirá a instituciones educativas de cinco distritos bonaerenses en una jornada destinada a poner en valor la memoria, la participación ciudadana y la continuidad democrática en la Argentina. El encuentro tendrá lugar el jueves 10 de diciembre, entre las 18 y las 21, en la plaza Dardo Rocha, bajo el lema “Trazos de memoria: cinco distritos, una identidad” .",
+          "La propuesta contempla una programación que combinará música, teatro, danza, poesía, intervenciones artísticas y actividades participativas. En diálogo con el programa radial Voces de la Tarde , que conduce Jorge Gómez por Radio Noticias Necochea, Nancy Almassio, inspectora de Nivel Primario de Educación de la Provincia de Buenos Aires, brindó detalles sobre la organización y destacó la respuesta positiva que tuvo la convocatoria entre las instituciones educativas."
+        ],
+        "generated": "2026-11-05T14:07:07.409840+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-05T14:04:07.495754+00:00"
+    },
+    {
+      "key": "sancionaron multas 11 millones quienes usen canos escapes modificados",
+      "title": "Sancionaron multas de hasta $11 millones para quienes usen caños de escapes modificados",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-05T14:04:07.495754+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261104174929_whatsapp-image-2026-11-04-at-17-49-07.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Sancionaron multas de hasta $11 millones para quienes usen caños de escapes modificados",
+          "url": "https://necocheadigital.com/nota/120105/sancionaron-multas-de-hasta-11-millones-para-quienes-usen-canos-de-escapes-modificados/",
+          "published_at": null,
+          "first_seen": "2026-11-05T14:04:07.495754+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El Concejo Deliberante sancionó por unanimidad la modificación de la ordenanza destinada a combatir los ruidos molestos ocasionados por sistemas de escape intervenidos en vehículos. La iniciativa impulsada por La Libertad Avanza actualiza el marco regulatorio vigente para brindar al Municipio herramientas de intervención más estrictas frente a una problemática recurrente en la convivencia urbana y la seguridad vial.",
+          "La nueva escala contravencional prevé multas de entre 2.500 y 5.000 unidades fijas, montos que equivalen a sumas de entre 5 y 11 millones de pesos según la gravedad del hecho. El tratamiento de la propuesta en la sesión ordinaria permitió repasar las principales novedades técnicas y procedimentales de la normativa."
+        ],
+        "generated": "2026-11-05T14:07:08.053246+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-05T14:04:07.495754+00:00"
+    },
+    {
+      "key": "hospital irurzun completo obra electrica clave inversion superior 80 mil dolares",
+      "title": "El Hospital Irurzun completó una obra eléctrica clave con una inversión superior a los 80 mil dólares",
+      "score": 0.509,
+      "sources_count": 1,
+      "first_seen": "2026-11-05T12:09:28+00:00",
+      "image": null,
+      "articles": [
+        {
+          "portal": "Diario NQ",
+          "title": "El Hospital Irurzun completó una obra eléctrica clave con una inversión superior a los 80 mil dólares",
+          "url": "https://diarionq.com.ar/el-hospital-irurzun-completo-una-obra-electrica-clave-con-una-inversion-superior-a-los-80-mil-dolares/",
+          "published_at": "2026-11-05T12:09:28+00:00",
+          "first_seen": "2026-11-05T14:00:00.605619+00:00",
+          "category": "La ciudad",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La cooperadora del Hospital Irurzun de Quequén concretó, junto al Municipio y con el acompañamiento de empresas y vecinos, una intervención fundamental para garantizar el funcionamiento del establecimiento ante los cortes de energía. La obra incluyó el nuevo grupo electrógeno, infraestructura civil, conexiones eléctricas y mejoras en el sector de residuos patogénicos.",
+          "Charlando con Fede Cañadas en “Esta Mañana”, por NEC Radio 98.3 del Multimedio NQ, Jorge Salazar y Matías Corapi, integrantes de la cooperadora del Hospital Irurzun de Quequén , brindaron detalles de una de las obras más importantes desarrolladas en los últimos tiempos dentro del establecimiento sanitario. La intervención tuvo como eje la incorporación de un nuevo grupo electrógeno y toda la infraestructura necesaria para garantizar su funcionamiento y conexión con el hospital."
+        ],
+        "generated": "2026-11-05T14:07:46.299187+00:00"
+      },
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-05T14:04:07.495754+00:00",
+      "penalizacion": 0.597
     },
     {
       "key": "aniversario quequen modifican recorridos colectivos habra viajes gratis menores 10 anos",
       "title": "Habrá cambio de recorridos y micros gratuitos para menores de 10 años por el Aniversario de Quequén",
-      "score": 1.277,
+      "score": 0.417,
       "sources_count": 2,
       "first_seen": "2026-11-05T12:31:16+00:00",
       "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261104173334_foto-colectivo.jpg",
@@ -73,161 +247,16 @@
           "La Municipalidad de Necochea, a través de la Dirección de Transporte, a cargo de Facundo Croci, informa que, con motivo de los festejos por el 172° aniversario de la fundación de Quequén, se implementarán modificaciones en los recorridos de las líneas 511 y 514 del transporte público , lo cual entrará en vigencia este jueves 5 y se extenderá hasta el venidero lunes 9 de noviembre, inclusive. Asimismo, se informó que los menores de 10 años podrán viajar gratis en los micros hacia los festejos de Quequén, puntualmente durante el sábado 7 y domingo 8 , en el horario de 14 a 22.",
           "LÍNEAS 511 Y 514 – RECORRIDO DE REGRESO Las líneas mencionadas modificarán su recorrido habitual en el sector céntrico de Quequén, en inmediaciones de la Plaza Hipólito Yrigoyen."
         ],
-        "generated": "2026-11-05T14:01:02.003561+00:00"
+        "generated": "2026-11-05T14:05:07.005321+00:00"
       },
-      "apariciones": 3,
-      "ultima_impresion": "2026-11-05T14:00:00.605619+00:00",
-      "penalizacion": 0.55
-    },
-    {
-      "key": "lnf sancionaron newbery agresion ministerio clasifico semifinales",
-      "title": "LNF: Sancionaron a Newbery por agresión y Ministerio clasificó a semifinales",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-05T14:00:00.605619+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261104180024_whatsapp-image-2026-11-04-at-18-00-09.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "LNF: Sancionaron a Newbery por agresión y Ministerio clasificó a semifinales",
-          "url": "https://necocheadigital.com/nota/120106/lnf-sancionaron-a-newbery-por-agresion-y-ministerio-clasifico-a-semifinales/",
-          "published_at": null,
-          "first_seen": "2026-11-05T14:00:00.605619+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El Tribunal de Disciplina de la Liga Necochea de Fútbol resolvió sancionar a Jorge Newbery de Lobería con la pérdida de los encuentros de Primera División, Reserva y Sexta División frente al Club Ministerio, correspondientes a la vigésima primera y anteúltima fecha del Campeonato “Giuseppe Portugal”. La medida fue adoptada en el marco reglamentario tras la agresión perpetrada por el jugador Juan Martín Enrique, integrante de la Sexta División de la entidad loberense, contra el árbitro Cristian Smith.",
-          "Como consecuencia directa de los hechos, el Tribunal aplicó el artículo 106, inciso g), del Reglamento de Transgresiones y Penas del Consejo Federal, fijando un resultado administrativo de uno a cero en favor del conjunto de Quequén y disponiendo una pena de un año de suspensión para el deportista involucrado."
-        ],
-        "generated": "2026-11-05T14:03:00.598841+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-05T14:00:00.605619+00:00"
-    },
-    {
-      "key": "salud lanza nuevo cronograma controles gratuitos pap vph testeos vih sifilis",
-      "title": "Salud lanza un nuevo cronograma de controles gratuitos de PAP, VPH y testeos de VIH y Sífilis",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-05T14:00:00.605619+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261104105657_19-03-foto-ilustrativa-pap-cancer-cuello-utero.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Salud lanza un nuevo cronograma de controles gratuitos de PAP, VPH y testeos de VIH y Sífilis",
-          "url": "https://necocheadigital.com/nota/120100/salud-lanza-un-nuevo-cronograma-de-controles-gratuitos-de-pap-vph-y-testeos-de-vih-y-sifilis/",
-          "published_at": null,
-          "first_seen": "2026-11-05T14:00:00.605619+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La Secretaría de Salud, a través de la Dirección de Atención Primaria, llevará adelante una nueva campaña gratuita de prevención y detección temprana en los Centros de Atención Primaria de la Salud (CAPS) y Centros Integradores Comunitarios (CIC) del distrito, entre el lunes 16 y el viernes 20 de noviembre . La propuesta está destinada a personas de entre 21 y 64 años, tengan o no obra social , y contempla la realización de controles de Papanicolaou (PAP) y pruebas de VPH (Virus del Papiloma Humano) , fundamentales para la prevención y detección temprana del cáncer cervicouterino. Además, se ofrecerán testeos rápidos, gratuitos y confidenciales de VIH y sífilis , abiertos a la comunidad.",
-          "Cronograma de atención y profesionales a cargo Lunes 16 de noviembre CAPS Madre Teresa de Calcuta (Calle 578 Nº 2941) Horario: 8:30 a 13:00 hs. Yésica Ruiz Martes 17 de noviembre CAPS Playa «Carlos Fucile» (Calle 71 Nº 276) Horario: 9:00 a 13:00 hs."
-        ],
-        "generated": "2026-11-05T14:03:01.661694+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-05T14:00:00.605619+00:00"
-    },
-    {
-      "key": "nico amendola logro podio mundial posta 4x200 libres",
-      "title": "Nico Améndola logró el podio mundial en la posta 4x200 libres",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-05T14:00:00.605619+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261104103548_04-11-foto-bronce-amendola-posta.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Nico Améndola logró el podio mundial en la posta 4x200 libres",
-          "url": "https://necocheadigital.com/nota/120097/nico-amendola-logro-el-podio-mundial-en-la-posta-4x200-libres/",
-          "published_at": null,
-          "first_seen": "2026-11-05T14:00:00.605619+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "«Argentina acaba de ganar la medalla de bronce en la posta 4×200 libres, quedando número 3 del mundo. Frente a las máximas potencias de la especialidad. Es un resultado histórico para nuestro país .",
-          "Una medalla en una posta por equipos. Dentro del equipo está Nicolás Amendola», fueron las emotivas palabras que comunicó el entrenador de Nicolás, y coordinador de Todos al Agua desde 2016, Marcos Bertone , feliz por todo el trabajo realizado con su alumno y con el resto del equipo argentino. En la posta ganada por Gran Bretaña y que tuvo a Polonia como subcampeón, Argentina se llevó el bronce con Nico Améndola, Bautista Bal, Agustín Bortolotto y Joaquín Perren, con un tiempo de 12.31.58 , alcanzando de esa manera un logró histórico para la natación adaptada nacional."
-        ],
-        "generated": "2026-11-05T14:03:02.849946+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-05T14:00:00.605619+00:00"
-    },
-    {
-      "key": "micros azules aun no decidio competira concesion transporte urbano 20 anos",
-      "title": "Micros Azules aún no decidió si competirá por la concesión del transporte urbano por 20 años",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-05T14:00:00.605619+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261104085206_05-01-foto-colectivo-transporte-5.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Micros Azules aún no decidió si competirá por la concesión del transporte urbano por 20 años",
-          "url": "https://necocheadigital.com/nota/120093/micros-azules-aun-no-decidio-si-competira-por-la-concesion-del-transporte-urbano-por-20-anos/",
-          "published_at": null,
-          "first_seen": "2026-11-05T14:00:00.605619+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La continuidad de Micros Azules al frente del transporte urbano de pasajeros de Necochea todavía es una incógnita. La Compañía de Transportes Necochea no definió si se presentará a la licitación pública que prepara el municipio para adjudicar el servicio por un período de 20 años. La decisión será evaluada por los socios de la firma, que deberán analizar las condiciones del futuro pliego y las posibilidades económicas de afrontar una nueva etapa.",
-          "El escenario quedó atravesado por el reciente conflicto salarial, que durante una semana afectó la prestación del servicio debido a los atrasos en el pago de los haberes. La situación fue abordada por Erica Giancarelli, integrante de la empresa, durante una entrevista en Voces de la Tarde , el programa que conduce Jorge Gómez por Radio Noticias Necochea."
-        ],
-        "generated": "2026-11-05T14:03:03.774401+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-05T14:00:00.605619+00:00"
-    },
-    {
-      "key": "habra seis dias atencion bancos 11 noviembre",
-      "title": "Habrá seis días sin atención en los bancos, entre el 6 y el 11 de noviembre",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-05T14:00:00.605619+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/56b9b70b1c0d563d569a218f5c9196b59bc9a3ff.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Habrá seis días sin atención en los bancos, entre el 6 y el 11 de noviembre",
-          "url": "https://necocheadigital.com/nota/120091/habra-seis-dias-sin-atencion-en-los-bancos-entre-el-6-y-el-11-de-noviembre/",
-          "published_at": null,
-          "first_seen": "2026-11-05T14:00:00.605619+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El mes de noviembre registrará un esquema inédito en el sistema financiero con una seguidilla de seis jornadas consecutivas sin actividad presencial en las sucursales bancarias de la Provincia de Buenos Aires. La parálisis abarca el calendario operativo a raíz del feriado sectorial, las medidas dispuestas por la llegada del Sumo Pontífice y los feriados provinciales y nacionales programados para este período.",
-          "El cronograma sin atención presencial comenzará este viernes 6 de noviembre con la conmemoración del Día del Bancario, fecha que evoca la fundación de la Asociación Bancaria en 1924 y otorga una jornada no laborable al sector, acompañada por el cobro de un bono de $2.275.519,25 para los trabajadores. La inactividad continuará durante el sábado 7 y el domingo 8, acoplándose al feriado nacional del lunes 9 y al feriado bancario del martes 10 fijado por el BCRA por la visita papal."
-        ],
-        "generated": "2026-11-05T14:03:05.104623+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-05T14:00:00.605619+00:00"
+      "apariciones": 4,
+      "ultima_impresion": "2026-11-05T14:04:07.495754+00:00",
+      "penalizacion": 0.181
     },
     {
       "key": "industria automotriz sigue caida produccion 14 octubre",
       "title": "La industria automotriz sigue en caída: la producción bajó un 14,4% en octubre",
-      "score": 0.952,
+      "score": 0.311,
       "sources_count": 1,
       "first_seen": "2026-11-05T13:24:39+00:00",
       "image": null,
@@ -247,16 +276,16 @@
           "La industria automotriz argentina volvió a registrar números negativos durante octubre, con caídas en la producción, las ventas al mercado interno y las exportaciones mensuales. Según datos de ADEFA, en los primeros diez meses del año se fabricaron un 15,5% menos de vehículos que en el mismo período de 2025. La industria automotriz argentina continúa atravesando un escenario de desaceleración, con nuevos retrocesos en los principales indicadores de actividad.",
           "Durante octubre, la producción de vehículos volvió a caer en comparación con el mes anterior y registró una disminución más pronunciada frente al mismo período del año pasado. Según informó la Asociación de Fábricas de Automotores (ADEFA), las terminales radicadas en el país produjeron 40.426 vehículos, entre automóviles y utilitarios livianos, durante el décimo mes de 2026."
         ],
-        "generated": "2026-11-05T14:03:09.576848+00:00"
+        "generated": "2026-11-05T14:07:12.450622+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-11-05T14:00:00.605619+00:00",
-      "penalizacion": 1.0
+      "apariciones": 3,
+      "ultima_impresion": "2026-11-05T14:04:07.495754+00:00",
+      "penalizacion": 0.328
     },
     {
       "key": "bancos cerraran cinco dias jueves ultima jornada realizar tramites presenciales",
       "title": "Los bancos cerrarán durante cinco días: este jueves es la última jornada para realizar trámites presenciales",
-      "score": 0.942,
+      "score": 0.308,
       "sources_count": 1,
       "first_seen": "2026-11-05T13:16:59+00:00",
       "image": null,
@@ -276,16 +305,16 @@
           "Las entidades bancarias de todo el país permanecerán sin atención al público desde el viernes 6 hasta el martes 10 de noviembre inclusive. La medida responde al Día del Bancario, el fin de semana y los feriados vinculados a la visita del papa León XIV. Los cajeros automáticos y los canales digitales continuarán funcionando.",
           "Los bancos de todo el país permanecerán cerrados durante cinco días consecutivos, por lo que este jueves 5 de noviembre será la última oportunidad para realizar trámites presenciales antes del período de inactividad. La interrupción de la atención comenzará el viernes 6 de noviembre, cuando se celebra el Día del Bancario, y continuará durante el sábado 7 y domingo 8, correspondientes al fin de semana habitual."
         ],
-        "generated": "2026-11-05T14:03:11.916762+00:00"
+        "generated": "2026-11-05T14:07:14.633919+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-11-05T14:00:00.605619+00:00",
-      "penalizacion": 1.0
+      "apariciones": 3,
+      "ultima_impresion": "2026-11-05T14:04:07.495754+00:00",
+      "penalizacion": 0.328
     },
     {
       "key": "rosca politica necochense",
       "title": "La “rosca” política necochense",
-      "score": 0.931,
+      "score": 0.304,
       "sources_count": 1,
       "first_seen": "2026-11-05T13:08:41+00:00",
       "image": null,
@@ -305,45 +334,16 @@
           "Ese miedo a competir Por Miguel Abálsamo Históricamente asistimos a internas en los partidos políticos; actualmente asistimos a la negación a competir y a la debilidad de aquellos partidos. ¿Hay temor a competir internamente? La única solución, al menos para el peronismo, es abrir las PASO (Primarias Abiertas, Simultáneas y Obligatorias), esperando sigan adelante, y que haya elección por el voto popular del afiliado o de toda la sociedad. Existen varias clases de dirigentes en el peronismo del presente en el distrito de Necochea.",
           "Los que aspiran a esas internas para participar y que de allí surjan los candidatos. Los temerosos que hablan de lista única (que no es lista de unidad), y con el menor trajín posible acomodan su lugarcito en la silla de la lista. Los que solamente miran de cara al padrino provincial o nacional para que les dé la mano final."
         ],
-        "generated": "2026-11-05T14:03:15.298312+00:00"
+        "generated": "2026-11-05T14:07:17.377683+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-11-05T14:00:00.605619+00:00",
-      "penalizacion": 1.0
-    },
-    {
-      "key": "hospital irurzun completo obra electrica clave inversion superior 80 mil dolares",
-      "title": "El Hospital Irurzun completó una obra eléctrica clave con una inversión superior a los 80 mil dólares",
-      "score": 0.858,
-      "sources_count": 1,
-      "first_seen": "2026-11-05T12:09:28+00:00",
-      "image": null,
-      "articles": [
-        {
-          "portal": "Diario NQ",
-          "title": "El Hospital Irurzun completó una obra eléctrica clave con una inversión superior a los 80 mil dólares",
-          "url": "https://diarionq.com.ar/el-hospital-irurzun-completo-una-obra-electrica-clave-con-una-inversion-superior-a-los-80-mil-dolares/",
-          "published_at": "2026-11-05T12:09:28+00:00",
-          "first_seen": "2026-11-05T14:00:00.605619+00:00",
-          "category": "La ciudad",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La cooperadora del Hospital Irurzun de Quequén concretó, junto al Municipio y con el acompañamiento de empresas y vecinos, una intervención fundamental para garantizar el funcionamiento del establecimiento ante los cortes de energía. La obra incluyó el nuevo grupo electrógeno, infraestructura civil, conexiones eléctricas y mejoras en el sector de residuos patogénicos.",
-          "Charlando con Fede Cañadas en “Esta Mañana”, por NEC Radio 98.3 del Multimedio NQ, Jorge Salazar y Matías Corapi, integrantes de la cooperadora del Hospital Irurzun de Quequén , brindaron detalles de una de las obras más importantes desarrolladas en los últimos tiempos dentro del establecimiento sanitario. La intervención tuvo como eje la incorporación de un nuevo grupo electrógeno y toda la infraestructura necesaria para garantizar su funcionamiento y conexión con el hospital."
-        ],
-        "generated": "2026-11-05T14:03:45.144621+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-05T14:00:00.605619+00:00"
+      "apariciones": 3,
+      "ultima_impresion": "2026-11-05T14:04:07.495754+00:00",
+      "penalizacion": 0.328
     },
     {
       "key": "camping miguel lillo apuesta temporada tarifas contenidas estamos haciendo esfuerzo muy grande",
       "title": "Camping Miguel Lillo apuesta a una temporada con tarifas contenidas: “Estamos haciendo un esfuerzo muy grande”",
-      "score": 0.497,
+      "score": 0.162,
       "sources_count": 1,
       "first_seen": "2026-11-05T12:46:09+00:00",
       "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-05-at-09.37.11.jpeg",
@@ -363,16 +363,16 @@
           "Rafael Mujica anticipó cómo se prepara el complejo para el próximo verano y señaló que quienes ya están realizando reservas mantienen los valores de la temporada pasada. Adelantó que analizan una actualización cercana al 10%, pese a que los costos crecieron muy por encima de ese porcentaje. También reconoció que el verano anterior recibieron unas 3.500 personas menos.",
           "Desde el móvil y charlando con Fede Cañadas en “Esta Mañana”, por NEC Radio 98.3 del Multimedio NQ, Rafael Mujica, titular del Camping Miguel Lillo , habló sobre las expectativas para la próxima temporada de verano y aseguró que el complejo volverá a realizar un esfuerzo para mantener las tarifas por debajo de la evolución general de los costos. “Todos los años nos preparamos para que esta sea la mejor temporada de todas”, señaló, aunque reconoció que el contexto económico obliga a mirar con atención el bolsillo de quienes eligen Necochea para vacacionar."
         ],
-        "generated": "2026-11-05T14:03:40.196365+00:00"
+        "generated": "2026-11-05T14:07:42.126943+00:00"
       },
-      "apariciones": 3,
-      "ultima_impresion": "2026-11-05T14:00:00.605619+00:00",
-      "penalizacion": 0.55
+      "apariciones": 4,
+      "ultima_impresion": "2026-11-05T14:04:07.495754+00:00",
+      "penalizacion": 0.181
     },
     {
       "key": "presidente suprema corte bonaerense sergio torres brindara conferencia megacausa esma",
       "title": "El presidente de la Suprema Corte bonaerense, Sergio Torres, brindará una conferencia sobre la Megacausa ESMA",
-      "score": 0.308,
+      "score": 0.1,
       "sources_count": 1,
       "first_seen": "2026-11-05T12:00:34+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/imagenportadaredes-1.webp",
@@ -392,16 +392,16 @@
           "TSN Necochea | ‹ VOLVER | Locales | ESMA | En el Colegio de Escribanos El presidente de la Suprema Corte bonaerense, Sergio Torres, brindará una conferencia sobre la Megacausa ESMA La disertación está considerada \"Un hito de justicia reparadora a medio siglo del golpe de Estado\" . Organizan tres entidades profesionales del distrito.",
           "Por Redacción TSN 05/11/2026 · 09:00 AM Agregar TSN Necochea en Este jueves 5 de noviembre , la ciudad de Necochea será sede de un relevante encuentro académico y judicial con la presencia del Dr. Sergio Torres , actual presidente de la Suprema Corte de Justicia de la Provincia de Buenos Aires y exjuez federal a cargo de la instrucción de la emblemática Megacausa ESMA ."
         ],
-        "generated": "2026-11-05T14:03:06.161514+00:00"
+        "generated": "2026-11-05T14:07:09.093550+00:00"
       },
-      "apariciones": 4,
-      "ultima_impresion": "2026-11-05T14:00:00.605619+00:00",
-      "penalizacion": 0.303
+      "apariciones": 5,
+      "ultima_impresion": "2026-11-05T14:04:07.495754+00:00",
+      "penalizacion": 0.099
     },
     {
       "key": "comenzo nueva obra hospital irurzun crear espacio exclusivo neurodesarrollo",
       "title": "Comenzó una nueva obra en el Hospital Irurzun para crear un espacio exclusivo de Neurodesarrollo",
-      "score": 0.263,
+      "score": 0.086,
       "sources_count": 1,
       "first_seen": "2026-11-05T12:19:47+00:00",
       "image": null,
@@ -421,16 +421,16 @@
           "La cooperadora inició la transformación de la antigua capilla en un área especialmente preparada para la atención de niños vinculados con Neurodesarrollo. Tendrá dos consultorios, un acceso más sencillo y un espacio cálido, separado de sectores de mantenimiento y servicios donde actualmente se realizan algunas prestaciones. Charlando con Fede Cañadas en “Esta Mañana”, por NEC Radio 98.3 del Multimedio NQ, Jorge Salazar y Matías Corapi, integrantes de la cooperadora del Hospital Irurzun de Quequén , anunciaron el inicio de una nueva intervención destinada a crear un espacio específico para Neurodesarrollo .",
           "Los trabajos comenzaron inmediatamente después de finalizar la obra vinculada con el grupo electrógeno. “No es un proyecto: ya es una obra y ya está funcionando”, remarcaron."
         ],
-        "generated": "2026-11-05T14:03:42.761728+00:00"
+        "generated": "2026-11-05T14:07:44.080779+00:00"
       },
-      "apariciones": 4,
-      "ultima_impresion": "2026-11-05T14:00:00.605619+00:00",
-      "penalizacion": 0.303
+      "apariciones": 5,
+      "ultima_impresion": "2026-11-05T14:04:07.495754+00:00",
+      "penalizacion": 0.099
     },
     {
       "key": "preocupacion sector comercial caida ventas alquileres perdidas locales necochea",
       "title": "Preocupación en el sector comercial por la caída de ventas, alquileres y pérdidas de locales en Necochea",
-      "score": 0.162,
+      "score": 0.053,
       "sources_count": 1,
       "first_seen": "2026-11-05T11:30:59+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/20210416094404_d1e0c34f-c322-4c4e-b726-a0b433d6c65e.webp",
@@ -450,16 +450,16 @@
           "TSN Necochea | ‹ VOLVER | Locales | camara comercial | Declaraciones Preocupación en el sector comercial por la caída de ventas, alquileres y pérdidas de locales en Necochea El presidente de la Cámara Comercial e Industrial, Mariano González, advirtió sobre la falta de rentabilidad y la presión tributaria. Reveló que en la ciudad se realizan entre 1.500 y 2.000 compras online diarias que antes iban al comercio tradicional y llamó a \"aggiornarse\".",
           "Por Redacción TSN 05/11/2026 · 08:30 AM Agregar TSN Necochea en El presidente de la Cámara Comercial e Industrial de Necochea , Mariano González , trazó un preocupante diagnóstico sobre la actualidad del sector en el distrito, alertando sobre la marcada caída de las ventas, la pérdida de rentabilidad de las pymes y el persistente cierre de locales gastronómicos e indumentaria en la ciudad."
         ],
-        "generated": "2026-11-05T14:03:07.288816+00:00"
+        "generated": "2026-11-05T14:07:10.101575+00:00"
       },
-      "apariciones": 5,
-      "ultima_impresion": "2026-11-05T14:00:00.605619+00:00",
-      "penalizacion": 0.166
+      "apariciones": 6,
+      "ultima_impresion": "2026-11-05T14:04:07.495754+00:00",
+      "penalizacion": 0.055
     },
     {
       "key": "aportamos herramientas seguridad defensa derechos previsionales",
       "title": "“Aportamos herramientas en seguridad y en defensa de los derechos previsionales”",
-      "score": 0.047,
+      "score": 0.015,
       "sources_count": 1,
       "first_seen": "2026-11-05T11:00:03+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-20-at-21.14.47.jpeg",
@@ -479,16 +479,16 @@
           "TSN Necochea | ‹ VOLVER | Locales | concejo | Concejo “Aportamos herramientas en seguridad y en defensa de los derechos previsionales” Afirmó, Silvia Blanco, concejal de Fuerza Patria, quién analizó el balance de la 13ª sesión ordinaria.",
           "Destacó el acompañamiento unánime al endurecimiento de multas para escapes ruidosos, el respaldo docente al IPS Por Redacción TSN 05/11/2026 · 08:00 AM Silvia Blanco Agregar TSN Necochea en Tras la finalización de la 13ª sesión ordinaria del Honorable Concejo Deliberante de Necochea , la concejal del bloque Fuerza Patria, Silvia Blanco , ofreció un balance del debate legislativo que dejó como saldo la aprobación de normativas clave para la seguridad, el tránsito y la postura institucional del cuerpo frente a la situación del sistema previsional provincial."
         ],
-        "generated": "2026-11-05T14:03:13.023558+00:00"
+        "generated": "2026-11-05T14:07:15.624936+00:00"
       },
-      "apariciones": 7,
-      "ultima_impresion": "2026-11-05T14:00:00.605619+00:00",
-      "penalizacion": 0.05
+      "apariciones": 8,
+      "ultima_impresion": "2026-11-05T14:04:07.495754+00:00",
+      "penalizacion": 0.017
     },
     {
       "key": "semana ecologia cierra charla ingeniero martin bruno",
       "title": "La Semana de la Ecología cierra con una charla del ingeniero Martín Bruno",
-      "score": 0.038,
+      "score": 0.012,
       "sources_count": 1,
       "first_seen": "2026-11-05T10:33:57+00:00",
       "image": null,
@@ -508,16 +508,16 @@
           "El viernes 6 de noviembre, a las 10 hs, el Salón de Actos «Domingo J. Taraborelli» del Palacio Municipal será el escenario de la actividad de cierre de la Semana de la Ecología, dirigida a estudiantes de nivel secundario. La jornada contará con la participación del ingeniero Martín Bruno, quien será el disertante principal.",
           "El encuentro forma parte de las iniciativas impulsadas por la Municipalidad de Necochea para fomentar la educación ambiental entre los jóvenes y reforzar su compromiso con el cuidado del entorno. Durante la semana se desarrollaron distintas actividades educativas en varios establecimientos escolares del distrito. Los temas abordados incluyeron la generación de residuos, la separación en origen, las 5 R (reducir, reutilizar, reciclar, recuperar y reparar) y la incorporación de hábitos sustentables en la vida cotidiana."
         ],
-        "generated": "2026-11-05T14:03:46.120616+00:00"
+        "generated": "2026-11-05T14:07:47.334445+00:00"
       },
-      "apariciones": 7,
-      "ultima_impresion": "2026-11-05T14:00:00.605619+00:00",
-      "penalizacion": 0.05
+      "apariciones": 8,
+      "ultima_impresion": "2026-11-05T14:04:07.495754+00:00",
+      "penalizacion": 0.017
     },
     {
       "key": "arquero fc andorra fatal choque jesus miguel rompio silencio",
       "title": "El arquero del FC Andorra, del fatal choque con Jesús de Miguel, rompió el silencio",
-      "score": 0.021,
+      "score": 0.007,
       "sources_count": 1,
       "first_seen": "2026-11-05T10:25:59+00:00",
       "image": null,
@@ -537,16 +537,16 @@
           "El guardameta Jesús Owono, del FC Andorra, emitió un comunicado en el que manifestó su dolor por el fallecimiento del delantero español Jesús de Miguel y se refirió a la investigación policial y judicial que se está llevando a cabo. El arquero, nacido en Guinea Ecuatorial, habló por primera vez públicamente desde el trágico incidente ocurrido el lunes durante un encuentro de la Segunda División de España. En el mensaje difundido por su club, Owono describió los últimos días como “los más difíciles de mi vida” y reconoció la dificultad de encontrar palabras para asimilar lo sucedido.",
           "Antes de publicar el comunicado, el futbolista decidió cerrar sus redes sociales personales tras recibir amenazas y mensajes de odio vinculados al episodio. En el texto, expresó: “Siento un dolor enorme por la pérdida de Jesús. Pienso en él, su familia y en todas las personas que lo querían”."
         ],
-        "generated": "2026-11-05T14:03:47.105826+00:00"
+        "generated": "2026-11-05T14:07:48.320462+00:00"
       },
-      "apariciones": 8,
-      "ultima_impresion": "2026-11-05T14:00:00.605619+00:00",
-      "penalizacion": 0.028
+      "apariciones": 9,
+      "ultima_impresion": "2026-11-05T14:04:07.495754+00:00",
+      "penalizacion": 0.009
     },
     {
       "key": "ley discapacidad senado respaldo comision nuevo proyecto",
       "title": "Ley de discapacidad: el Senado respaldó en comisión el nuevo proyecto",
-      "score": 0.021,
+      "score": 0.007,
       "sources_count": 1,
       "first_seen": "2026-11-05T10:24:51+00:00",
       "image": null,
@@ -566,16 +566,16 @@
           "El proyecto de ley de discapacidad, respaldado por La Libertad Avanza y una amplia mayoría de bloques, será sometido a votación en el pleno del Senado el 19 de noviembre. El texto fue aprobado en la comisión mixta de Presupuesto y Hacienda y de Población y Desarrollo Humano, presidida por el senador libertario Agustín Monteverde y la peronista Alicia Kirchner.",
           "El dictamen contó con el apoyo de La Libertad Avanza, el bloque Justicialista, PRO, UCR y diversas agrupaciones provinciales, lo que garantiza un amplio consenso para su tramitación. Patricia Bullrich, jefa del bloque de La Libertad Avanza, subrayó que la iniciativa busca “superar la emergencia y ofrecer una salida concreta”, resaltando la necesidad de compatibilizar la pensión por discapacidad con el empleo."
         ],
-        "generated": "2026-11-05T14:03:48.132537+00:00"
+        "generated": "2026-11-05T14:07:49.303620+00:00"
       },
-      "apariciones": 8,
-      "ultima_impresion": "2026-11-05T14:00:00.605619+00:00",
-      "penalizacion": 0.028
+      "apariciones": 9,
+      "ultima_impresion": "2026-11-05T14:04:07.495754+00:00",
+      "penalizacion": 0.009
     },
     {
       "key": "nico paz brillo historico como lens gol dos asistencias",
       "title": "Nico Paz brilló en el ¡9-1! histórico del Como al Lens con un gol y dos asistencias",
-      "score": 0.02,
+      "score": 0.007,
       "sources_count": 1,
       "first_seen": "2026-11-05T10:19:44+00:00",
       "image": null,
@@ -595,11 +595,11 @@
           "El argentino anotó y repartió dos asistencias en la histórica victoria del conjunto italiano por 9‑1 al club francés, en la cuarta fecha de la fase de grupos de la Champions League 2026‑27. Actuación estelar de Nico Paz Desde los minutos iniciales, Paz se mostró determinante. A los 32 del primer tiempo recibió por la banda derecha y centró al segundo palo, generando el gol de Álex Valle que abrió el marcador.",
           "Ocho minutos después, el propio argentino amplió la ventaja al aprovechar un contraataque: dentro del área recibió el balón y disparó un potente zurdazo que venció al arquero Robin Risser. Tras el tanto, mostró una camiseta en homenaje a Jesús de Miguel Alameda, fallecido recientemente en Tenerife, y dedicó el gol a su memoria. Contribución en la segunda mitad En el inicio del segundo tiempo, a los 47 minutos, Paz volvió a intervenir con una asistencia precisa a Lucas Da Cunha, que definió cruzado para poner el 4‑0."
         ],
-        "generated": "2026-11-05T14:03:49.004641+00:00"
+        "generated": "2026-11-05T14:07:50.274692+00:00"
       },
-      "apariciones": 8,
-      "ultima_impresion": "2026-11-05T14:00:00.605619+00:00",
-      "penalizacion": 0.028
+      "apariciones": 9,
+      "ultima_impresion": "2026-11-05T14:04:07.495754+00:00",
+      "penalizacion": 0.009
     },
     {
       "key": "necochea sera sede primer campeonato regional pan dulce artesanal",
@@ -651,10 +651,10 @@
           "La propuesta, para la que ya están las inscripciones abiertas , busca posicionar a Necochea como un punto de referencia de la tradición panadera regional, poniendo en valor los saberes artesanales, el talento de panaderos y confiteros, y generando un nuevo atractivo turístico y cultural. La convocatoria está dirigida a panaderos profesionales, emprendedores gastronómicos y aficionados de Necochea y la región. La competencia contará con tres categorías: Tradicional, Genovés e Innovación.",
           "Un jurado integrado por chefs, referentes de la gastronomía local y representantes culturales tendrá a su cargo la evaluación de las elaboraciones, teniendo en cuenta aspectos como el aroma, la textura de la miga, la distribución de los ingredientes y el sabor. Inscripción gratuita Los interesados ya pueden inscribirse en la Dirección General de Cultura, ubicada en calle 62 Nº 2171 , o comunicarse por WhatsApp al 2262-218227 ."
         ],
-        "generated": "2026-11-05T14:01:24.984250+00:00"
+        "generated": "2026-11-05T14:05:29.003497+00:00"
       },
-      "apariciones": 32,
-      "ultima_impresion": "2026-11-05T14:00:00.605619+00:00",
+      "apariciones": 33,
+      "ultima_impresion": "2026-11-05T14:04:07.495754+00:00",
       "penalizacion": 0.0
     },
     {
@@ -689,10 +689,10 @@
           "TSN Necochea | ‹ VOLVER | Locales | 63 y 18 | Accidente Choque entre dos motos en 63 y 18: un conductor manejaba con la licencia vencida El accidente ocurrió durante la noche. Uno de los vehículos fue secuestrado por inspectores de Tránsito, mientras que el dueño de la otra moto se presentó en el lugar y la retiró.",
           "No hubo heridos de gravedad. Por Redacción TSN 05/11/2026 · 07:59 AM Agregar TSN Necochea en Un accidente de tránsito entre dos motocicletas se registró durante la noche en la intersección de las calles 63 y 18 , movilizando a las fuerzas de seguridad y áreas de emergencia del Municipio."
         ],
-        "generated": "2026-11-05T14:02:05.239692+00:00"
+        "generated": "2026-11-05T14:06:08.850785+00:00"
       },
-      "apariciones": 21,
-      "ultima_impresion": "2026-11-05T14:00:00.605619+00:00",
+      "apariciones": 22,
+      "ultima_impresion": "2026-11-05T14:04:07.495754+00:00",
       "penalizacion": 0.0
     },
     {
@@ -727,10 +727,10 @@
           "TSN Necochea | ‹ VOLVER | Locales | auto | Tránsito Dos adolescentes aprehendidos tras intentar robar una moto: uno de ellos tenía pedido de captura Ocurrió en la zona de calles 57 y 54. La víctima fue amenazada con un destornillador. Uno de los acusados intentó fugarse por los techos y sobre él pesaba una orden de detención del Juzgado de Garantías del Joven.",
           "Por Redacción TSN 04/11/2026 · 06:31 PM Agregar TSN Necochea en Dos adolescentes fueron aprehendidos en la zona céntrica de Necochea luego de un violento intento de robo contra un motociclista. Tras las aprehensiones, se constató que uno de los implicados contaba con un pedido de captura y detención activo dispuesto por la justicia de responsabilidad juvenil. El hecho se desencadenó en la intersección de las calles 57 y 54 , tras una llamada de alerta cursada al sistema de emergencias 911 que movilizó a los móviles del Comando de Patrullas."
         ],
-        "generated": "2026-11-05T14:03:50.793257+00:00"
+        "generated": "2026-11-05T14:07:51.980004+00:00"
       },
-      "apariciones": 36,
-      "ultima_impresion": "2026-11-05T14:00:00.605619+00:00",
+      "apariciones": 37,
+      "ultima_impresion": "2026-11-05T14:04:07.495754+00:00",
       "penalizacion": 0.0
     },
     {
@@ -756,10 +756,10 @@
           "TSN Necochea | ‹ VOLVER | Locales | humedad | Clima Cómo estará el tiempo este Jueves en Necochea y Quequén Datos aportados por el Servicio Meteorológico Nacional Por Redacción TSN 05/11/2026 · 01:51 AM Agregar TSN Necochea en El pronóstico del Servicio Meteorológico Nacional para este jueves 5 de noviembre en Necochea indica una temperatura máxima de 23°C y una mínima de 6° C, con vientos del Noroeste a 31 km/h. Por la madrugada, la temperatura será de 6° C. El viento es del cuadrante Noroeste a una velocidad que puede llegar a 12 km/h, con el cielo despejado.",
           "En la mañana la temperatura será de 17° C, el viento soplará del cuadrante Oeste a una velocidad que puede llegar a 31 km/h, con el cielo despejado. Por la tarde se espera una temperatura máxima de alrededor de 23 grados, el viento soplará del sector Oeste a una velocidad que pueden llegar a los 50 kilómetros y con el cielo algo nublado."
         ],
-        "generated": "2026-11-05T14:03:51.886062+00:00"
+        "generated": "2026-11-05T14:07:53.005136+00:00"
       },
-      "apariciones": 20,
-      "ultima_impresion": "2026-11-05T14:00:00.605619+00:00",
+      "apariciones": 21,
+      "ultima_impresion": "2026-11-05T14:04:07.495754+00:00",
       "penalizacion": 0.0
     }
   ]
