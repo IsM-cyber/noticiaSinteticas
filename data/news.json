@@ -1,12 +1,41 @@
 {
-  "generated_at": "2026-11-07T13:00:01.051468+00:00",
+  "generated_at": "2026-11-07T13:30:00.779900+00:00",
   "article_count": 120,
   "fetch_errors": [],
   "stories": [
     {
+      "key": "buscan operario planta acopio empresa agropecuaria quequen",
+      "title": "Buscan operario de planta de acopio para una empresa agropecuaria de Quequén",
+      "score": 1.182,
+      "sources_count": 1,
+      "first_seen": "2026-11-07T13:19:15+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/Screenshot_20261107_1005142.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Buscan operario de planta de acopio para una empresa agropecuaria de Quequén",
+          "url": "https://tsnnecochea.com.ar/generales/buscan-operario-de-planta-de-acopio-para-una-empresa-agropecuaria-de-quequen-241743/",
+          "published_at": "2026-11-07T13:19:15+00:00",
+          "first_seen": "2026-11-07T13:30:00.779900+00:00",
+          "category": "acopio",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/Screenshot_20261107_1005142.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Generales | acopio | Empleo Buscan operario de planta de acopio para una empresa agropecuaria de Quequén Conocé los requisitos y los pasos para la postulación. Por Redacción TSN 07/11/2026 · 10:19 AM Agregar TSN Necochea en Una consultora de recursos humanos, Consultora RH, abrió una búsqueda laboral para cubrir un puesto de operario de planta de acopio en una empresa del sector agropecuario en crecimiento, con actividad en Quequén .",
+          "Entre las principales tareas del puesto se encuentran la operación de la planta, incluyendo apertura y cierre, calado, carga y descarga de camiones, manejo de sinfines y norias, y controles de humedad e insectos en los granos. Además, quien se incorpore deberá realizar tareas de mantenimiento general de galpones, maquinarias, instalaciones y accesos, así como colaborar en trabajos de campo, recorridas y operaciones vinculadas con la carga y descarga de silobolsas."
+        ],
+        "generated": "2026-11-07T13:30:49.585484+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-07T13:30:00.779900+00:00"
+    },
+    {
       "key": "profunda relacion celebran hoy dia periodista deportivo dia canillita",
       "title": "Con una profunda relación entre sí, se celebran hoy el Día del Periodista Deportivo y el Día del Canillita",
-      "score": 1.158,
+      "score": 1.111,
       "sources_count": 1,
       "first_seen": "2026-11-07T12:34:22+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/canillita-y-periodista-deportivo.webp",
@@ -26,16 +55,190 @@
           "TSN Necochea | ‹ VOLVER | Deportes | canillita | Efemérides Con una profunda relación entre sí, se celebran hoy el Día del Periodista Deportivo y el Día del Canillita Son dos celebraciones diferentes, pero tienen una relación profunda en la historia del periodismo. Por Redacción TSN 07/11/2026 · 09:34 AM Agregar TSN Necochea en El 7 de noviembre, Argentina rinde homenaje a los periodistas deportivos en el Día del Periodista Deportivo . Estos profesionales desempeñan un papel crucial en mantenernos informados sobre el apasionante mundo del deporte, tanto a nivel nacional como internacional.",
           "Pero el mismo día, también celebra el Día del Canillita , una profesión que ha estado estrechamente vinculada al periodismo a lo largo de los años. En esta nota, se explora la importancia de ambos días y cómo estas dos celebraciones están intrínsecamente relacionadas en la difusión de noticias deportivas."
         ],
-        "generated": "2026-11-07T13:02:20.204822+00:00"
+        "generated": "2026-11-07T13:32:21.779926+00:00"
+      },
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-07T13:30:00.779900+00:00",
+      "penalizacion": 1.0
+    },
+    {
+      "key": "necochea quequen avanzan renovacion alumbrado comenzo recambio casi 500 luminarias led",
+      "title": "Necochea y Quequén avanzan con la renovación del alumbrado: comenzó el recambio de casi 1.500 luminarias LED",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-07T13:30:00.779900+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/67fdc966641ff6f843ebf89740b6a70d2a4e9325.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Necochea y Quequén avanzan con la renovación del alumbrado: comenzó el recambio de casi 1.500 luminarias LED",
+          "url": "https://necocheadigital.com/nota/120118/necochea-y-quequen-avanzan-con-la-renovacion-del-alumbrado-comenzo-el-recambio-de-casi-1-500-luminarias-led/",
+          "published_at": null,
+          "first_seen": "2026-11-07T13:30:00.779900+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La renovación del alumbrado público comenzó a ejecutarse en distintos sectores de Necochea y Quequén, mediante un plan municipal que contempla el recambio de 1.492 luminarias por tecnología LED en 20 barrios. La intervención representa una inversión cercana a los 300 millones de pesos y, de acuerdo con las previsiones oficiales, podría completarse antes de los 60 días establecidos en el contrato.",
+          "El subsecretario de Obras Públicas, arquitecto Lisandro Dones, brindó detalles del avance de los trabajos durante una entrevista con el programa Voces de la Tarde , que conduce Jorge Gómez por Radio Noticias Necochea. El funcionario confirmó que la empresa adjudicataria ya comenzó las tareas en la vía pública y explicó que el proyecto contempla reemplazar artefactos de sodio y mercurio, además de luminarias LED que cumplieron su vida útil."
+        ],
+        "generated": "2026-11-07T13:32:22.810790+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-07T13:00:01.051468+00:00"
+      "ultima_impresion": "2026-11-07T13:30:00.779900+00:00"
+    },
+    {
+      "key": "municipio necochea consolida digitalizacion sistema publico salud suma avances historia salud integrada",
+      "title": "El Municipio de Necochea consolida la digitalización del sistema público de salud y suma avances en la Historia de Salud Integrada",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-07T13:30:00.779900+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261106161927_06-11-foto-jornada-hsi8.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "El Municipio de Necochea consolida la digitalización del sistema público de salud y suma avances en la Historia de Salud Integrada",
+          "url": "https://necocheadigital.com/nota/120122/el-municipio-de-necochea-consolida-la-digitalizacion-del-sistema-publico-de-salud-y-suma-avances-en-la-historia-de-salud-integrada/",
+          "published_at": null,
+          "first_seen": "2026-11-07T13:30:00.779900+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El sistema público de salud de Necochea continúa avanzando en la incorporación de herramientas digitales. En ese marco, representantes del Ministerio de Salud de la Provincia de Buenos Aires y del Banco Mundial visitaron el distrito para conocer el desarrollo de la Historia de Salud Integrada (HSI), una plataforma que permite centralizar y mejorar el acceso a la información sanitaria de los pacientes. La actividad fue coordinada por la Secretaría de Salud municipal e incluyó una presentación en la Escuela de Enfermería del Hospital Municipal Dr.",
+          "Emilio Ferreyra, donde se repasó el proceso iniciado en 2021, a partir de la firma del convenio para implementar esta herramienta y la posterior entrega de equipamiento tecnológico. La secretaria de Salud, Andrea Perestiuk, explicó que la delegación recorrió luego distintos efectores del distrito."
+        ],
+        "generated": "2026-11-07T13:32:23.460676+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-07T13:30:00.779900+00:00"
+    },
+    {
+      "key": "rodrigo tabarez respaldo nuevas sanciones escapes libres",
+      "title": "Rodrigo Tabarez respaldó las nuevas sanciones contra los escapes libres",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-07T13:30:00.779900+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261106071649_21-so-1.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Rodrigo Tabarez respaldó las nuevas sanciones contra los escapes libres",
+          "url": "https://necocheadigital.com/nota/120117/rodrigo-tabarez-respaldo-las-nuevas-sanciones-contra-los-escapes-libres/",
+          "published_at": null,
+          "first_seen": "2026-11-07T13:30:00.779900+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La nueva ordenanza que establece sanciones más severas para las motocicletas que circulan con escapes libres y dispositivos de corte, el clima de debate político en el Concejo Deliberante y el futuro electoral de Nueva Necochea fueron algunos de los principales temas que abordó el concejal Rodrigo Tabarez. En una entrevista con el programa Voces de la Tarde , que conduce Jorge Gómez por Radio Noticias Necochea, el integrante del bloque oficialista defendió la normativa recientemente aprobada por unanimidad y explicó que apunta a brindar mayores herramientas al Departamento Ejecutivo para combatir los ruidos molestos que generan este tipo de vehículos.",
+          "Tabarez recordó que el proyecto original fue presentado por Nueva Necochea en septiembre y que posteriormente se incorporó una iniciativa de La Libertad Avanza, que había ingresado en julio de 2025."
+        ],
+        "generated": "2026-11-07T13:32:24.486895+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-07T13:30:00.779900+00:00"
+    },
+    {
+      "key": "necochea tendra primer festival botanico propuestas toda comunidad",
+      "title": "Necochea tendrá su primer Festival Botánico con propuestas para toda la comunidad",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-07T13:30:00.779900+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261105165231_foto-raiz.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Necochea tendrá su primer Festival Botánico con propuestas para toda la comunidad",
+          "url": "https://necocheadigital.com/nota/120111/necochea-tendra-su-primer-festival-botanico-con-propuestas-para-toda-la-comunidad/",
+          "published_at": null,
+          "first_seen": "2026-11-07T13:30:00.779900+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La iniciativa surge del trabajo conjunto de tres espacios: el Necochea Rowing Club, como institución anfitriona; Salvia Melchora, dedicado a la terapia hortícola y la conexión con la naturaleza; y Flor de Pan – Vivero y Huerta, proyecto laboral inclusivo de la Asociación Civil Todos al Agua. Durante la jornada, vecinos y visitantes podrán recorrer distintos espacios temáticos, como el Paseo Botánico, la Galería Botánica, el Patio Botánico y el Aula Botánica.",
+          "La programación incluirá viveros, productores, emprendedores, artistas, talleres, experiencias educativas, arte botánico, cosmética natural y música en vivo . Río Raíz propone generar un ámbito de encuentro e intercambio que integre naturaleza, producción local, cultura e inclusión, con actividades destinadas a todas las edades y la participación de emprendedores, artistas e instituciones de Necochea y la región."
+        ],
+        "generated": "2026-11-07T13:32:25.114661+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-07T13:30:00.779900+00:00"
+    },
+    {
+      "key": "liga necochea futbol todo listo definicion fase regular descenso",
+      "title": "Liga Necochea de Fútbol: Todo listo para la definición de la fase regular y el descenso",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-07T13:30:00.779900+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261105172536_lnf-fecha7-indepe-vdp-2.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Liga Necochea de Fútbol: Todo listo para la definición de la fase regular y el descenso",
+          "url": "https://necocheadigital.com/nota/120115/liga-necochea-de-futbol-todo-listo-para-la-definicion-de-la-fase-regular-y-el-descenso/",
+          "published_at": null,
+          "first_seen": "2026-11-07T13:30:00.779900+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El foco principal de la fecha estará puesto en el Estadio Panamericano, donde Rivadavia (24 puntos) y Villa del Parque (22 puntos) se jugarán la permanencia en la máxima categoría este lunes a las 16:00 hs. Si Villa del Parque gana o empata, evitará el descenso directo y condenará a Rivadavia, debiendo disputar la promoción ante el ganador del reducido de la Zona B. Si Rivadavia se queda con la victoria, mantendrá la categoría y enviará al descenso a su rival, apenas una temporada después de su ascenso en 2025.",
+          "Panorama de arriba y cruces de playoffs En la parte alta, Villa Díaz Vélez se consolidó como el indiscutido N.º 1 de la fase regular (45 puntos) y ya espera rival en semifinales. Su oponente saldrá del cruce previo (repechaje) que disputarán Estación Quequén (líder y ascendido de la Zona B) frente a Mataderos (cuarto de la Zona A)."
+        ],
+        "generated": "2026-11-07T13:32:26.132041+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-07T13:30:00.779900+00:00"
+    },
+    {
+      "key": "necorrido cerro primer ciclo muy buena respuesta publico",
+      "title": "‘Necorrido’ cerró su primer ciclo con una muy buena respuesta del público",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-07T13:30:00.779900+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/999824efecf4e722a06e19d49cd6657f2802b41a.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "‘Necorrido’ cerró su primer ciclo con una muy buena respuesta del público",
+          "url": "https://necocheadigital.com/nota/120112/lsquo-necorrido-rsquo-cerro-su-primer-ciclo-con-una-muy-buena-respuesta-del-publico/",
+          "published_at": null,
+          "first_seen": "2026-11-07T13:30:00.779900+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "‘Necorrido’ fue una iniciativa innovadora que combinó turismo y redes sociales, invitando a jóvenes, vecinos y visitantes a conocer distintos lugares del distrito mediante reels con recorridos, vivencias e información sobre los principales atractivos del destino.",
+          "Al respecto, la subdirectora de Juventud, Agustina Di Russo , destacó la buena recepción de la propuesta y señaló que “con el objetivo de promover el turismo local desde una mirada fresca y auténtica, se lanzó este año Necorrido, que invitó a conocer y redescubrir el distrito de Necochea a través de reels en redes sociales, con experiencias en primera persona e información clave sobre los principales atractivos del destino”."
+        ],
+        "generated": "2026-11-07T13:32:26.788025+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-07T13:30:00.779900+00:00"
     },
     {
       "key": "sportivo sc rivadavia definen hoy primer finalista torneo femenino",
       "title": "Sportivo SC y Rivadavia definen hoy el primer finalista del torneo femenino",
-      "score": 1.131,
+      "score": 0.597,
       "sources_count": 1,
       "first_seen": "2026-11-07T12:17:31+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/Screenshot_20261107_0912212.webp",
@@ -55,16 +258,16 @@
           "TSN Necochea | ‹ VOLVER | Deportes | Femenino | Fútbol femenino Sportivo SC y Rivadavia definen hoy el primer finalista del torneo femenino Con ventaja leve de las albirrojas, se juega el desquite en San Cayetano. Por Redacción TSN 07/11/2026 · 09:17 AM Agregar TSN Necochea en El Torneo Clausura femenino de la Liga Necochea en Primera División comienza a vibrar sus últimos partidos y este sábado se jugará la revancha de una de las semifinales en San Cayetano.",
           "A partir de las 18 hs, en el estadio “Nuevo Felipe Serafini”, Sportivo San Cayetano recibirá a Rivadavia en el desquite de la semana pasada, que fue favorable a las de San Cayetano. Las “Albirrojas” ganaron 1 a 0 en las Aguas Corrientes de Necochea con gol de Yolanda Estarli y esta tarde como locales buscarán cerrar la serie para meterse en la final del Clausura."
         ],
-        "generated": "2026-11-07T13:02:21.172456+00:00"
+        "generated": "2026-11-07T13:32:27.782758+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-11-07T13:00:01.051468+00:00",
-      "penalizacion": 1.0
+      "apariciones": 3,
+      "ultima_impresion": "2026-11-07T13:30:00.779900+00:00",
+      "penalizacion": 0.55
     },
     {
       "key": "video intento robo supermercado lider cajera echo delincuente armado tijerazos",
       "title": "VIDEO | Intento de robo en el supermercado Líder: una cajera echó a un delincuente armado a tijerazos",
-      "score": 1.124,
+      "score": 0.593,
       "sources_count": 1,
       "first_seen": "2026-11-07T12:13:09+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/1794053483435-scaled.webp",
@@ -84,16 +287,16 @@
           "TSN Necochea | ‹ VOLVER | Locales | asalto | Inseguridad VIDEO | Intento de robo en el supermercado Líder: una cajera echó a un delincuente armado a tijerazos Un delincuente ingresó al comercio con un cuchillo para robar la caja, pero la empleada reaccionó al instante, tomó unas tijeras para defenderse y logró ponerlo en fuga. El dramático momento quedó registrado por las cámaras de seguridad. Por Redacción TSN 07/11/2026 · 09:13 AM Agregar TSN Necochea en Un tenso e impactante episodio de inseguridad se vivió en el supermercado Líder , cuando un delincuente armado intentó asaltar a una de las empleadas del comercio.",
           "Sin embargo, la rápida e inesperada reacción de la trabajadora logró neutralizar el atraco y poner en fuga al agresor sin que se registraran heridos. This browser does not support the video element. ​El hecho ocurrió pasadas las 18:40 , según quedó registrado en las cámaras de videovigilancia."
         ],
-        "generated": "2026-11-07T13:02:22.147745+00:00"
+        "generated": "2026-11-07T13:32:28.789253+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-11-07T13:00:01.051468+00:00",
-      "penalizacion": 1.0
+      "apariciones": 3,
+      "ultima_impresion": "2026-11-07T13:30:00.779900+00:00",
+      "penalizacion": 0.55
     },
     {
       "key": "viejo clasico barrial sabado abre ultima fecha futbol local",
       "title": "Con un viejo clásico barrial este sábado se abre la última fecha del fútbol local",
-      "score": 1.109,
+      "score": 0.585,
       "sources_count": 1,
       "first_seen": "2026-11-07T12:03:20+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2024/09/futbol-ilustrativa.jpeg",
@@ -113,190 +316,16 @@
           "TSN Necochea | ‹ VOLVER | Deportes | futbol | Liga Necochea Con un viejo clásico barrial este sábado se abre la última fecha del fútbol local El partido por la zona B comenzará a las 16 hs. Por Redacción TSN 07/11/2026 · 09:03 AM Agregar TSN Necochea en Con el estadio “Cacho Bandiera” de Villa del Parque como escenario, este sábado se abre la 22da y última fecha del Campeonato “Giuseppe Portugal” de la Liga Necochea de Fútbol en Primera División, con un único partido , correspondiente a la zona B.",
           "Desde las 16, Huracán hará las veces de local en la villa frente a Gimnasia , reeditando una vez más aquel viejo clásico barrial del oeste de la ciudad. Si toca pensar en Huracán y Gimnasia al mismo tiempo, el recuerdo máximo es el viejo estadio “Mariano Necochea”, que compartieron el Globo y el Lobo en una época dorada del fútbol local, donde hoy se encuentra el Hipermercado Toledo."
         ],
-        "generated": "2026-11-07T13:02:22.831353+00:00"
+        "generated": "2026-11-07T13:32:29.779183+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-11-07T13:00:01.051468+00:00",
-      "penalizacion": 1.0
-    },
-    {
-      "key": "intendentes bonaerenses contaran libre disponibilidad fondo fortalecimiento municipal",
-      "title": "Intendentes bonaerenses contarán con libre disponibilidad del Fondo de Fortalecimiento Municipal",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-07T13:00:01.051468+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/759dde5969f361eb48ffc2fa2c12feff4b5eb4ae.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Intendentes bonaerenses contarán con libre disponibilidad del Fondo de Fortalecimiento Municipal",
-          "url": "https://necocheadigital.com/nota/120129/intendentes-bonaerenses-contaran-con-libre-disponibilidad-del-fondo-de-fortalecimiento-municipal/",
-          "published_at": null,
-          "first_seen": "2026-11-07T13:00:01.051468+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "En una sesión marcada por negociaciones a contrarreloj en los pasillos legislativos, la Cámara Alta provincial convirtió en ley el proyecto que otorga la libre disponibilidad total de los recursos del Fondo de Emergencia y Fortalecimiento Municipal (FEFIM). La medida, que ya contaba con media sanción de la Cámara de Diputados, modifica la Ley N° 15.561 y representa un importante respiro económico para los 135 jefes comunales bonaerenses de cara al cierre del año.",
-          "La flamante normativa elimina las restricciones que pesaban sobre la primera de las cuatro cuotas previstas, las cuales obligaban anteriormente a los municipios a destinar partidas a programas provinciales específicos."
-        ],
-        "generated": "2026-11-07T13:02:23.856767+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-07T13:00:01.051468+00:00"
-    },
-    {
-      "key": "ogro fabbiani necochea compartio visita redes sociales",
-      "title": "El Ogro Fabbiani está en Necochea y compartió su visita en las redes sociales",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-07T13:00:01.051468+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/cfcb43032479d88e03d4a537cb1e9d19cb45e69e.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "El Ogro Fabbiani está en Necochea y compartió su visita en las redes sociales",
-          "url": "https://necocheadigital.com/nota/120126/el-ogro-fabbiani-esta-en-necochea-y-compartio-su-visita-en-las-redes-sociales/",
-          "published_at": null,
-          "first_seen": "2026-11-07T13:00:01.051468+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "“Como siempre a Necochea”, publicó Fabbiani en una de sus historias de Instagram, acompañando el mensaje con una fotografía familiar. Posteriormente, el exdelantero compartió otra imagen de la escollera de Necochea, una postal característica del frente costero local, dando cuenta de su presencia en la ciudad. Fabbiani, quien tuvo una extensa trayectoria como futbolista profesional, vistió las camisetas de distintos equipos del fútbol argentino e internacional.",
-          "Entre ellos se destacan River Plate, Newell’s Old Boys, Lanús, All Boys y Deportivo Merlo, además de sus experiencias en el exterior. Ver esta publicación en Instagram Una publicación compartida de Ogro Fabbiani - entrenador (@fabbianiok) Tras su retiro como jugador, inició su carrera como director técnico y recientemente tuvo una experiencia internacional al frente del FK Vardar, de Macedonia del Norte."
-        ],
-        "generated": "2026-11-07T13:02:24.917849+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-07T13:00:01.051468+00:00"
-    },
-    {
-      "key": "silvia jensen asumio frente turismo desarrollo productivo necochea",
-      "title": "Silvia Jensen asumió al frente de Turismo y Desarrollo Productivo de Necochea",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-07T13:00:01.051468+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/256e5e7095b9dde64e48e3fa334e3737225ba655.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Silvia Jensen asumió al frente de Turismo y Desarrollo Productivo de Necochea",
-          "url": "https://necocheadigital.com/nota/120125/silvia-jensen-asumio-al-frente-de-turismo-y-desarrollo-productivo-de-necochea/",
-          "published_at": null,
-          "first_seen": "2026-11-07T13:00:01.051468+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El municipio de Necochea confirmó este viernes la designación de Silvia Jensen como nueva secretaria de Turismo y Desarrollo Productivo. Jensen se desempeñaba hasta el jueves como directora de Relaciones Públicas e Institucionales de la Municipalidad y ahora estará al frente de una de las áreas vinculadas con la actividad turística y el desarrollo económico del distrito. En declaraciones a Ecos Diarios, la funcionaria explicó que su llegada al cargo había sido conversada previamente con el intendente municipal, quien le había propuesto asumir la responsabilidad.",
-          "Luego de aceptar, aguardó la resolución de algunos aspectos administrativos hasta que la designación quedó formalizada mediante el decreto correspondiente. “Formalmente ya me encuentro en funciones”, confirmó."
-        ],
-        "generated": "2026-11-07T13:02:25.957113+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-07T13:00:01.051468+00:00"
-    },
-    {
-      "key": "mujer resulto herida choque dos automoviles quequen",
-      "title": "Una mujer resultó herida tras un choque entre dos automóviles en Quequén",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-07T13:00:01.051468+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261106175354_whatsapp-image-2026-11-06-at-17-53-34.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Una mujer resultó herida tras un choque entre dos automóviles en Quequén",
-          "url": "https://necocheadigital.com/nota/120128/una-mujer-resulto-herida-tras-un-choque-entre-dos-automoviles-en-quequen/",
-          "published_at": null,
-          "first_seen": "2026-11-07T13:00:01.051468+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Una mujer de 34 años debió ser trasladada de urgencia al Hospital Municipal Dr. Emilio Ferreyra tras protagonizar un violento accidente de tránsito durante la tarde de este jueves en el barrio Atepam. El hecho se registró alrededor de las 16 en la intersección de las calles 521 y 548, donde por causas que aún son materia de peritajes por parte de las autoridades competentes, colisionaron dos vehículos particulares que circulaban por la zona.",
-          "El siniestro involucró a un Ford Ka que transitaba por la calle 548 y a un Chevrolet Aveo que se desplazaba por la arteria 521. Como consecuencia del fuerte impacto entre ambos rodados al llegar a la esquina, la conductora del Ford Ka salió despedida hacia el frente e impactó fuertemente su cabeza contra el cristal parabrisas del automóvil, lo que le provocó un corte profundo en la zona frontal del rostro."
-        ],
-        "generated": "2026-11-07T13:02:26.957758+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-07T13:00:01.051468+00:00"
-    },
-    {
-      "key": "karamawi ofrece promocion noviembre alquilar carpas sombrillas todo verano",
-      "title": "Karamawi ofrece una promoción de noviembre para alquilar carpas y sombrillas durante todo el verano",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-07T13:00:01.051468+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/55ea7f547e7fc9d89ebe9c5815ae0a864d6db664.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Karamawi ofrece una promoción de noviembre para alquilar carpas y sombrillas durante todo el verano",
-          "url": "https://necocheadigital.com/nota/120120/karamawi-ofrece-una-promocion-de-noviembre-para-alquilar-carpas-y-sombrillas-durante-todo-el-verano/",
-          "published_at": null,
-          "first_seen": "2026-11-07T13:00:01.051468+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Con la mirada puesta en la próxima temporada de verano, Karamawi avanza con los preparativos para recibir a turistas y residentes en su parador, ubicado en el sector sudoeste del frente costero de Necochea. Mientras se desarrollan las tareas de puesta a punto del predio, continúa vigente durante noviembre una promoción para contratar carpas o sombrillas por los cuatro meses de la temporada. Claudio González, integrante de la concesión y conocido como “Zurdo”, brindó detalles de la propuesta durante una entrevista con el programa Voces de la Tarde , que conduce Jorge Gómez por Radio Noticias Necochea.",
-          "El concesionario explicó que la preventa tuvo una buena respuesta inicial, con clientes que renovaron sus espacios respecto de temporadas anteriores y nuevas incorporaciones. La promoción vigente establece un valor de $1.500.000 por toda la temporada, que comprende diciembre, enero, febrero y marzo."
-        ],
-        "generated": "2026-11-07T13:02:27.613007+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-07T13:00:01.051468+00:00"
-    },
-    {
-      "key": "repudian nuevo acto vandalismo monumento centenario necochea",
-      "title": "Repudian un nuevo acto de vandalismo contra el Monumento al Centenario de Necochea",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-07T13:00:01.051468+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/5d19f028fbd38874d27b9cf37797cbc47ee7c06c.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Repudian un nuevo acto de vandalismo contra el Monumento al Centenario de Necochea",
-          "url": "https://necocheadigital.com/nota/120119/repudian-un-nuevo-acto-de-vandalismo-contra-el-monumento-al-centenario-de-necochea/",
-          "published_at": null,
-          "first_seen": "2026-11-07T13:00:01.051468+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El Monumento al Centenario de Necochea volvió a ser blanco de un nuevo acto de vandalismo, situación que generó el repudio de la ONG Brisa Solidaria, que difundió un comunicado expresando su preocupación por los daños ocasionados a uno de los espacios que forman parte del patrimonio histórico y cultural de la ciudad. Desde la organización señalaron que el ataque se produjo durante las últimas 24 horas y remarcaron que se trata de un lugar que representa parte de la historia, la identidad y la memoria colectiva de los necochenses.",
-          "En el comunicado, la ONG reclamó que lo ocurrido no quede impune y exigió que se avance con una investigación para identificar a los responsables."
-        ],
-        "generated": "2026-11-07T13:02:28.615496+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-07T13:00:01.051468+00:00"
+      "apariciones": 3,
+      "ultima_impresion": "2026-11-07T13:30:00.779900+00:00",
+      "penalizacion": 0.55
     },
     {
       "key": "choque fuga secuestro circulaba moto robada 66 61",
       "title": "​Choque, fuga y secuestro: circulaba en una moto robada por 66 y 61",
-      "score": 0.584,
+      "score": 0.308,
       "sources_count": 1,
       "first_seen": "2026-11-07T11:31:41+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/IMG-20261106-WA0024.webp",
@@ -316,16 +345,16 @@
           "TSN Necochea | ‹ VOLVER | Locales | centro | Procedimiento policial ​Choque, fuga y secuestro: circulaba en una moto robada por 66 y 61 El conductor realizaba maniobras peligrosas en pleno centro, impactó contra dos automóviles y huyó a pie. Tránsito y personal policial constataron la irregularidad del vehículo y lo trasladaron a la dependencia. Por Redacción TSN 07/11/2026 · 08:31 AM Agregar TSN Necochea en ​Un violento episodio de tránsito alteró la rutina en pleno centro de la ciudad.",
           "Un motociclista que circulaba realizando maniobras altamente peligrosas provocó un siniestro en la concurrida intersección de las calles 66 y 61 . ​Según informaron fuentes oficiales, el conductor perdió el control e impactó de lleno contra dos automóviles . Tras el fuerte choque, el sujeto abandonó la motocicleta en la cinta asfáltica y se dio a la fuga a pie , perdiéndose de vista antes de la llegada de las fuerzas de seguridad."
         ],
-        "generated": "2026-11-07T13:02:29.604699+00:00"
+        "generated": "2026-11-07T13:32:30.765252+00:00"
       },
-      "apariciones": 3,
-      "ultima_impresion": "2026-11-07T13:00:01.051468+00:00",
-      "penalizacion": 0.55
+      "apariciones": 4,
+      "ultima_impresion": "2026-11-07T13:30:00.779900+00:00",
+      "penalizacion": 0.302
     },
     {
       "key": "provincia banco mundial destacaron avances necochea digitalizacion sistema salud",
       "title": "La Provincia y el Banco Mundial destacaron los avances de Necochea en la digitalización del sistema de salud",
-      "score": 0.137,
+      "score": 0.073,
       "sources_count": 1,
       "first_seen": "2026-11-06T13:11:24+00:00",
       "image": null,
@@ -345,40 +374,11 @@
           "Representantes del Ministerio de Salud bonaerense y del Banco Mundial recorrieron los hospitales Ferreyra e Irurzun y el CAPS Flores para conocer el funcionamiento de la Historia de Salud Integrada. La secretaria de Salud, Andrea Perestiuk, destacó los resultados de la visita y adelantó que se gestionará nuevo equipamiento para continuar ampliando el sistema.",
           "La Secretaría de Salud de Necochea recibió la visita de profesionales del Ministerio de Salud de la provincia de Buenos Aires y representantes del Banco Mundial, quienes llegaron al distrito para conocer los avances en la implementación de la Historia de Salud Integrada (HSI), una herramienta digital destinada a mejorar la organización, el acceso y la gestión de la información sanitaria de los pacientes. La recorrida permitió mostrar el trabajo que viene desarrollando el municipio en materia de modernización del sistema público de salud, tanto en el Hospital Municipal Dr."
         ],
-        "generated": "2026-11-07T13:05:00.986368+00:00"
+        "generated": "2026-11-07T13:34:49.827662+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-11-07T13:00:01.051468+00:00",
-      "penalizacion": 1.0
-    },
-    {
-      "key": "fin semana clima cambiante necochea quequen sabado fresco ventoso domingo primaveral",
-      "title": "Fin de semana con clima cambiante en Necochea y Quequén: de un sábado fresco y ventoso a un domingo primaveral",
-      "score": 0.009,
-      "sources_count": 1,
-      "first_seen": "2026-11-07T05:06:07+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2024/07/564559e2-b6c1-49d2-bbdd-80216d60feda.jpg",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Fin de semana con clima cambiante en Necochea y Quequén: de un sábado fresco y ventoso a un domingo primaveral",
-          "url": "https://tsnnecochea.com.ar/locales/fin-de-semana-con-clima-cambiante-en-necochea-y-quequen-de-un-sabado-fresco-y-ventoso-a-un-domingo-primaveral-241710/",
-          "published_at": "2026-11-07T05:06:07+00:00",
-          "first_seen": "2026-11-07T05:30:00.608173+00:00",
-          "category": "el tiempo",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2024/07/564559e2-b6c1-49d2-bbdd-80216d60feda.jpg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Locales | el tiempo | El tiempo Fin de semana con clima cambiante en Necochea y Quequén: de un sábado fresco y ventoso a un domingo primaveral Tras un sábado marcado por el aire frío y el viento del sur, Necochea y Quequén tendrán un repunte térmico el domingo con cielo despejado y una tarde de más de 22 °C, ideal para disfrutar al aire libre. Por Redacción TSN 07/11/2026 · 02:06 AM El frío sigue diciendo presente Agregar TSN Necochea en El Servicio Meteorológico Nacional (SMN) prevé un fin de semana con condiciones marcadamente diferentes entre el sábado y el domingo para el distrito de Necochea y Quequén.",
-          "Tras el paso del frente frío, la región experimentará un marcado descenso térmico este sábado, para luego dar paso a un notable repunte de la temperatura a partir del domingo."
-        ],
-        "generated": "2026-11-07T13:02:30.633213+00:00"
-      },
-      "apariciones": 9,
-      "ultima_impresion": "2026-11-07T13:00:01.051468+00:00",
-      "penalizacion": 0.015
+      "apariciones": 3,
+      "ultima_impresion": "2026-11-07T13:30:00.779900+00:00",
+      "penalizacion": 0.55
     },
     {
       "key": "multas whatsapp nuevos radares provincia amplia controles transito",
@@ -403,10 +403,10 @@
           "El Gobierno bonaerense aprobó la creación de un asistente virtual que permitirá consultar infracciones y generar cupones de pago a través de WhatsApp. Además, autorizó un nuevo modelo de radar fijo para detectar infracciones de tránsito, que deberá integrarse al sistema oficial de multas. El Gobierno de la provincia de Buenos Aires avanza con nuevas herramientas tecnológicas para la gestión de multas y la fiscalización del tránsito.",
           "A través de dos disposiciones del Ministerio de Transporte, se aprobó la creación de un asistente virtual que permitirá consultar infracciones mediante WhatsApp y se autorizó la incorporación de un nuevo modelo de cinemómetro fijo para detectar faltas viales. Las medidas forman parte de un proceso de digitalización del sistema provincial, con el objetivo de facilitar el acceso de los conductores a la información sobre sus infracciones y ampliar las tecnologías disponibles para el control vehicular."
         ],
-        "generated": "2026-11-07T13:04:58.797062+00:00"
+        "generated": "2026-11-07T13:34:47.898278+00:00"
       },
-      "apariciones": 35,
-      "ultima_impresion": "2026-11-07T13:00:01.051468+00:00",
+      "apariciones": 36,
+      "ultima_impresion": "2026-11-07T13:30:00.779900+00:00",
       "penalizacion": 0.0
     },
     {
@@ -432,10 +432,10 @@
           "La institución intensificará este año su campaña de prevención de la diabetes con controles de glucosa en su sede de calle 58 N° 3154. Gloria Resuene remarcó la importancia de detectar señales de alerta y adoptar hábitos saludables. El lunes 16, además, habrá una charla en el Centro de Salud de Seis Esquinas.",
           "Charlando con Fede Cañadas en “Esta Mañana”, por NEC Radio 98.3 del Multimedio NQ, Gloria Resuene, integrante del Club de Leones , anticipó la nueva campaña de prevención de la diabetes que la institución desarrollará entre el 10 y el 18 de noviembre , con controles de glucosa y acciones de concientización destinadas a la comunidad. “Este año hemos decidido intensificarla porque la diabetes es una de las causas globales que tiene el Club de Leones a nivel mundial”, explicó."
         ],
-        "generated": "2026-11-07T13:05:04.287597+00:00"
+        "generated": "2026-11-07T13:34:51.669139+00:00"
       },
-      "apariciones": 37,
-      "ultima_impresion": "2026-11-07T13:00:01.051468+00:00",
+      "apariciones": 38,
+      "ultima_impresion": "2026-11-07T13:30:00.779900+00:00",
       "penalizacion": 0.0
     },
     {
@@ -461,10 +461,10 @@
           "El subsecretario de Obras y Servicios Públicos, Lisandro Dones, brindó detalles sobre los trabajos de puesta en valor del edificio municipal ubicado en 54 y 63, que presentaba importantes problemas de humedad y deterioro estructural. Además, confirmó el inicio de una obra de recambio de 1.500 luminarias que beneficiará a más de 20 barrios de Necochea y Quequén, con una inversión superior a los 300 millones de pesos.",
           "El subsecretario de Obras y Servicios Públicos de Necochea, Lisandro Dones, brindó detalles sobre las obras que lleva adelante el municipio para recuperar edificios públicos y mejorar la infraestructura urbana."
         ],
-        "generated": "2026-11-07T13:05:06.261159+00:00"
+        "generated": "2026-11-07T13:34:53.528989+00:00"
       },
-      "apariciones": 37,
-      "ultima_impresion": "2026-11-07T13:00:01.051468+00:00",
+      "apariciones": 38,
+      "ultima_impresion": "2026-11-07T13:30:00.779900+00:00",
       "penalizacion": 0.0
     },
     {
@@ -490,10 +490,10 @@
           "La histórica cadena de supermercados atraviesa una delicada situación económica y judicial, con más de $12.000 millones en cheques impagos, demandas de proveedores y embargos sobre sus cuentas bancarias. El Ministerio de Trabajo bonaerense encabezó una nueva audiencia con representantes sindicales, municipales y de la empresa para buscar una salida que permita preservar las fuentes laborales.",
           "La histórica cadena marplatense Supermercados Toledo atraviesa una profunda crisis financiera y judicial que genera una creciente preocupación por la continuidad de sus operaciones y el futuro laboral de aproximadamente 1.400 trabajadores. La empresa enfrenta deudas millonarias, embargos judiciales, reclamos de proveedores y dificultades para sostener su funcionamiento, mientras avanzan las negociaciones para encontrar una alternativa que permita evitar un agravamiento de la situación."
         ],
-        "generated": "2026-11-07T13:05:08.286973+00:00"
+        "generated": "2026-11-07T13:34:55.464753+00:00"
       },
-      "apariciones": 38,
-      "ultima_impresion": "2026-11-07T13:00:01.051468+00:00",
+      "apariciones": 39,
+      "ultima_impresion": "2026-11-07T13:30:00.779900+00:00",
       "penalizacion": 0.0
     },
     {
@@ -519,10 +519,10 @@
           "Una jornada al aire libre reunió a niños, docentes y familias del Jardín de Infantes “Lassalle” para celebrar el cierre del programa anual de Educación Física y el Día de la Familia, en la base de campamento del CEF Nº 76, el jueves 5 de noviembre de 2026. Más de ciento cincuenta niños asistieron acompañados por dos o tres familiares cada uno, convirtiendo el evento en una verdadera fiesta comunitaria. La mañana estuvo dedicada a juegos motores y actividades típicas de campamento, donde los pequeños pusieron en práctica lo aprendido durante el año: armar una carpa, encender un fogón y reconocer distintos elementos de la naturaleza.",
           "Los organizadores subrayaron la importancia de alejar a los niños de las pantallas y fomentar el contacto directo con el entorno. Al mediodía, las familias se sumaron al picnic y a una serie de dinámicas colaborativas."
         ],
-        "generated": "2026-11-07T13:05:09.229394+00:00"
+        "generated": "2026-11-07T13:34:56.399526+00:00"
       },
-      "apariciones": 40,
-      "ultima_impresion": "2026-11-07T13:00:01.051468+00:00",
+      "apariciones": 41,
+      "ultima_impresion": "2026-11-07T13:30:00.779900+00:00",
       "penalizacion": 0.0
     }
   ]
