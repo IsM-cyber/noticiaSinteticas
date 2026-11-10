@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-10T22:00:00.558032+00:00",
+  "generated_at": "2026-11-10T22:30:00.667298+00:00",
   "article_count": 120,
   "fetch_errors": [],
   "stories": [
     {
       "key": "murio marcos camino historico acordeonista fundador palmeras",
       "title": "Murió Marcos Camino, histórico acordeonista y fundador de Los Palmeras",
-      "score": 2.776,
+      "score": 1.464,
       "sources_count": 2,
       "first_seen": "2026-11-10T21:04:03+00:00",
       "image": "https://cdnartic.ar/uzz4xpx1aFnidBYjv4kG8_-Jht8=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/murio_marcos_camino_el_acordeonista_de_los_palmeras.webp",
@@ -35,55 +35,17 @@
           "Espectáculos y arte Añadir como fuente en Murió Marcos Camino, histórico acordeonista y fundador de Los Palmeras El músico santafesino falleció este martes 10 de noviembre a los 76 años; fue hallado sin vida en un estudio de grabación del barrio Candioti Norte. 10 de noviembre de 2026 | 18:04 Murió Marcos Camino, el acordeonista de Los Palmeras Ads El mundo de la música tropical se encuentra de luto tras confirmarse el fallecimiento de Marcos Camino , reconocido acordeonista y uno de los fundadores del emblemático conjunto Los Palmeras .",
           "Ads El músico, de 76 años, fue hallado sin vida este martes 10 de noviembre en un domicilio ubicado sobre la calle Alvear al 4900, en la ciudad de Santa Fe. El inmueble, según se informó, funcionaba como estudio de grabación y se encuentra situado en el barrio Candioti Norte."
         ],
-        "generated": "2026-11-10T22:00:40.317575+00:00"
+        "generated": "2026-11-10T22:30:43.241637+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-11-10T22:00:00.558032+00:00",
-      "penalizacion": 1.0
-    },
-    {
-      "key": "don quijote llega necochea gala ballet promete sorprender",
-      "title": "“Don Quijote” llega a Necochea con una gala de ballet que promete sorprender",
-      "score": 2.169,
-      "sources_count": 2,
-      "first_seen": "2026-11-10T18:37:09+00:00",
-      "image": "https://cdnartic.ar/6ed5Qqj0AHujil7egyDS3RqcfFw=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/danza_1.webp",
-      "articles": [
-        {
-          "portal": "Ecos Diarios",
-          "title": "“Don Quijote” llega a Necochea con una gala de ballet que promete sorprender",
-          "url": "https://elecos.com.ar/don-quijote-llega-a-necochea-con-una-gala-de-ballet-que-promete-sorprender",
-          "published_at": "2026-11-10T18:37:09+00:00",
-          "first_seen": "2026-11-10T22:00:00.558032+00:00",
-          "category": "ecos-radio",
-          "image": "https://cdnartic.ar/6ed5Qqj0AHujil7egyDS3RqcfFw=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/danza_1.webp"
-        },
-        {
-          "portal": "Noticias de Necochea",
-          "title": "“Don Quijote” llega al Cine Teatro París con una gala de ballet y figuras invitadas",
-          "url": "https://nden.com.ar/nota/38682/don-quijote-llega-al-cine-teatro-paris-con-una-gala-de-ballet-y-figuras-invitadas",
-          "published_at": "2026-11-10T21:27:00+00:00",
-          "first_seen": "2026-11-10T22:00:00.558032+00:00",
-          "category": null,
-          "image": "http://nden.com.ar/uploads/noticias/5/2026/11/20261110183026_foto-gala-instituto-superior-cine-paris.jpg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Ecos Radio Añadir como fuente en “Don Quijote” llega a Necochea con una gala de ballet que promete sorprender En diálogo con Ecos Radio, Patricia Aloe anticipó los detalles de la función y anunció nuevas propuestas de formación 10 de noviembre de 2026 | 15:37 Ads El Instituto Superior Municipal de Necochea presentará el próximo domingo 15 de noviembre una gala de ballet con una versión adaptada de “Don Quijote” , que tendrá lugar a las 18 en el Cine Teatro París .",
-          "La propuesta reunirá a estudiantes de la institución y contará con la participación especial de los primeros bailarines Romina Panelo y Emanuel Gómez , del Teatro Argentino de La Plata , quienes interpretarán el cuadro de la boda, correspondiente al tercer acto de la obra."
-        ],
-        "generated": "2026-11-10T22:00:44.855532+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-10T22:00:00.558032+00:00"
+      "apariciones": 3,
+      "ultima_impresion": "2026-11-10T22:30:00.667298+00:00",
+      "penalizacion": 0.55
     },
     {
       "key": "instituto superior municipal presenta gala don quijote cine teatro paris",
       "title": "El Instituto Superior Municipal presenta la Gala “Don Quijote” en el Cine Teatro París",
-      "score": 1.455,
-      "sources_count": 2,
+      "score": 1.321,
+      "sources_count": 3,
       "first_seen": "2026-11-10T21:00:01.025657+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/FOTO-Gala-Instituto-Superior-Cine-Paris.webp",
       "articles": [
@@ -104,6 +66,15 @@
           "first_seen": "2026-11-10T21:00:01.025657+00:00",
           "category": null,
           "image": null
+        },
+        {
+          "portal": "Noticias de Necochea",
+          "title": "“Don Quijote” llega al Cine Teatro París con una gala de ballet y figuras invitadas",
+          "url": "https://nden.com.ar/nota/38682/don-quijote-llega-al-cine-teatro-paris-con-una-gala-de-ballet-y-figuras-invitadas",
+          "published_at": "2026-11-10T21:27:00+00:00",
+          "first_seen": "2026-11-10T22:00:00.558032+00:00",
+          "category": null,
+          "image": "http://nden.com.ar/uploads/noticias/5/2026/11/20261110183026_foto-gala-instituto-superior-cine-paris.jpg"
         }
       ],
       "summary": {
@@ -111,286 +82,335 @@
           "TSN Necochea | ‹ VOLVER | | ballet | BAllet El Instituto Superior Municipal presenta la Gala “Don Quijote” en el Cine Teatro París El objetivo poner en valor el recorrido pedagógico de los estudiantes, el acompañamiento de la comunidad educativa y el trabajo integral que lleva adelante el Centro Cultural Municipal Por Redacción TSN 10/11/2026 · 06:26 PM Agregar TSN Necochea en El próximo domingo 15 de noviembre, a partir de las 18 , el Cine Teatro París será escenario de la Gala de Ballet “Don Quijote”, un espectáculo que reunirá a estudiantes del Instituto Superior Municipal de Necochea (ISMN) , junto a destacadas figuras de la danza. La propuesta ofrecerá un recorrido por distintas piezas coreográficas de vanguardia y una Suite del clásico ballet “Don Quijote”, en una versión adaptada.",
           "La velada contará además con la participación especial de las primeras figuras del ballet Romina Panelo y Emanuel Gómez."
         ],
-        "generated": "2026-11-10T22:00:42.753581+00:00"
+        "generated": "2026-11-10T22:30:35.862995+00:00"
       },
-      "apariciones": 3,
-      "ultima_impresion": "2026-11-10T22:00:00.558032+00:00",
-      "penalizacion": 0.55
+      "apariciones": 4,
+      "ultima_impresion": "2026-11-10T22:30:00.667298+00:00",
+      "penalizacion": 0.303
     },
     {
-      "key": "eest abrira puertas comunidad semana educacion tecnica",
-      "title": "La EEST N° 2 abrirá sus puertas a la comunidad por la Semana de la Educación Técnica",
-      "score": 1.271,
+      "key": "feroz incendio consume bazar bahia blanca",
+      "title": "Feroz incendio consume un bazar en Bahía Blanca",
+      "score": 1.287,
       "sources_count": 1,
-      "first_seen": "2026-11-10T21:43:47+00:00",
-      "image": "https://cdnartic.ar/zdF4wlttU1tiKogSesee9yQC2V4=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2022/11/tecnica.jpg",
+      "first_seen": "2026-11-10T22:22:58+00:00",
+      "image": "https://cdnartic.ar/MTYGV-TkTg5jIAE8DTUtYraAJTw=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/la_nueva.jpg",
       "articles": [
         {
           "portal": "Ecos Diarios",
-          "title": "La EEST N° 2 abrirá sus puertas a la comunidad por la Semana de la Educación Técnica",
-          "url": "https://elecos.com.ar/la-eest-n-2-abrira-sus-puertas-a-la-comunidad-por-la-semana-de-la-educacion-tecnica",
-          "published_at": "2026-11-10T21:43:47+00:00",
-          "first_seen": "2026-11-10T22:00:00.558032+00:00",
-          "category": "14",
-          "image": "https://cdnartic.ar/zdF4wlttU1tiKogSesee9yQC2V4=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2022/11/tecnica.jpg"
+          "title": "Feroz incendio consume un bazar en Bahía Blanca",
+          "url": "https://elecos.com.ar/feroz-incendio-consume-un-bazar-en-la-primera-cuadra-de-calle-chiclana",
+          "published_at": "2026-11-10T22:22:58+00:00",
+          "first_seen": "2026-11-10T22:30:00.667298+00:00",
+          "category": "13",
+          "image": "https://cdnartic.ar/MTYGV-TkTg5jIAE8DTUtYraAJTw=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/la_nueva.jpg"
         }
       ],
       "summary": {
         "paragraphs": [
-          "La ciudad Añadir como fuente en La EEST N° 2 abrirá sus puertas a la comunidad por la Semana de la Educación Técnica Con una nueva edición de “Expo Técnica”, este viernes, durante la mañana y la tarde 10 de noviembre de 2026 | 18:43 Las escuelas técnicas realizan sus exposiciones cada año Ads En el marco de la Semana de la Educación Técnica , la Escuela de Educación Secundaria Técnica N° 2 “Mariano Necochea” invita a la comunidad a participar de una jornada en la que se pondrán en común las herramientas y los saberes que incorporan los estudiantes durante el ciclo lectivo. Ads La Expo Técnica se realizará este viernes, en la sede de la institución, ubicada en calle 46 y avenida Jesuita Cardiel.",
-          "Los interesados en conocer la escuela podrán acercarse durante el turno mañana, de 8.30 a 12, y el turno tarde, de 13.30 a 17. Durante el encuentro se expondrán las formaciones en Maestro Mayor de Obra, Electromecánica y Alimentación ."
+          "Policiales Añadir como fuente en Feroz incendio consume un bazar en Bahía Blanca Cinco dotaciones de bomberos trabajan en el lugar tras un incendio que afecta la planta superior de un bazar. Dos mujeres fueron trasladadas por inhalación de humo. 10 de noviembre de 2026 | 19:22 Ads BAHIA BLANCA .- Un feroz incendio se registra en estos momentos en la primera cuadra de calle Chiclana, donde las llamas afectan la planta superior de un bazar. El edificio, que antiguamente funcionó como el Café Nº 1 y actualmente alberga al emprendimiento comercial XT Regalos , se encuentra ubicado frente a la Plaza Rivadavia y contiguo a dos entidades bancarias.",
+          "Ads Según las primeras informaciones, el fuego se inició pasadas las 17. La magnitud del siniestro generó una humareda que puede observarse desde varias cuadras de distancia. Ante la emergencia, cinco dotaciones de bomberos se encuentran trabajando en el lugar para controlar las llamas."
         ],
-        "generated": "2026-11-10T22:00:48.418612+00:00"
+        "generated": "2026-11-10T22:30:44.635556+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-10T22:00:00.558032+00:00"
+      "ultima_impresion": "2026-11-10T22:30:00.667298+00:00"
     },
     {
-      "key": "250 necochenses partieron rumbo lujan",
-      "title": "Más de 250 necochenses partieron rumbo a Luján",
-      "score": 1.24,
+      "key": "murio musico productor apolo kidd atravesar dificil situacion laboral",
+      "title": "Murió el músico y productor Apolo Kidd tras atravesar una difícil situación laboral",
+      "score": 1.285,
       "sources_count": 1,
-      "first_seen": "2026-11-10T21:25:58+00:00",
-      "image": "https://cdnartic.ar/9qdwgnYSax9jCGYM6RLGF3ALNVw=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/viaje_papa_leon_xiv.webp",
+      "first_seen": "2026-11-10T22:21:38+00:00",
+      "image": "https://cdnartic.ar/6yY9TrdRgND_bHcM_q52hIiS_jM=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/murio_apolo_kidd.jpg",
       "articles": [
         {
           "portal": "Ecos Diarios",
-          "title": "Más de 250 necochenses partieron rumbo a Luján",
-          "url": "https://elecos.com.ar/mas-de-250-necochenses-partieron-rumbo-a-lujan",
-          "published_at": "2026-11-10T21:25:58+00:00",
-          "first_seen": "2026-11-10T21:30:00.598478+00:00",
-          "category": "14",
-          "image": "https://cdnartic.ar/9qdwgnYSax9jCGYM6RLGF3ALNVw=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/viaje_papa_leon_xiv.webp"
+          "title": "Murió el músico y productor Apolo Kidd tras atravesar una difícil situación laboral",
+          "url": "https://elecos.com.ar/murio-el-musico-y-productor-apolo-kidd-tras-atravesar-una-dificil-situacion-laboral",
+          "published_at": "2026-11-10T22:21:38+00:00",
+          "first_seen": "2026-11-10T22:30:00.667298+00:00",
+          "category": "104",
+          "image": "https://cdnartic.ar/6yY9TrdRgND_bHcM_q52hIiS_jM=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/murio_apolo_kidd.jpg"
         }
       ],
       "summary": {
         "paragraphs": [
-          "La ciudad Añadir como fuente en Más de 250 necochenses partieron rumbo a Luján Para participar de la misa del Papa León XIV en esa localidad 10 de noviembre de 2026 | 18:25 Necochenses viajan hacia Luján Ads Pasadas las 17, la Terminal de Ómnibus de Necochea se convirtió en escenario de una importante movilización de fieles. Más de 250 necochenses comenzaron el viaje hacia Luján para participar de la misa del Papa León XIV . Ads Con bolsos, banderas y mucha expectativa, los pasajeros fueron ocupando sus lugares para emprender el recorrido.",
-          "Congregaciones religiosas y familias iniciaron su viaje con entusiasmo y felices de ser parte de este acontecimiento religioso. Ads Ads Ads Temas Papa León XIV AUTOR Ecos Diarios Comentarios Para comentar, debés estar registrado Por favor, iniciá sesión INGRESA Ads Ads"
+          "Espectáculos y arte Añadir como fuente en Murió el músico y productor Apolo Kidd tras atravesar una difícil situación laboral El artista, conocido por su trabajo como productor y su cercanía con L-Gante, falleció el pasado 7 de noviembre. Su familia denunció presiones y contratos abusivos en la industria musical. 10 de noviembre de 2026 | 19:21 Ads El fallecimiento del cantante y productor Apolo Kidd , cuyo nombre real era Marcos Daniel , causó una profunda conmoción en el ambiente artístico.",
+          "El joven de 28 años, quien mantenía un vínculo de amistad con el cantante L-Gante , perdió la vida el sábado 7 de noviembre cerca de las 20:30, según informó su entorno familiar a través de un comunicado oficial. Ads La familia del artista reveló que Marcos Daniel atravesaba un momento de gran vulnerabilidad debido a diversas complicaciones en su carrera profesional."
         ],
-        "generated": "2026-11-10T22:00:51.490047+00:00"
-      },
-      "apariciones": 2,
-      "ultima_impresion": "2026-11-10T22:00:00.558032+00:00",
-      "penalizacion": 1.0
-    },
-    {
-      "key": "fervor religioso necochea cuatro micros decenas particulares parten lujan misa papa leon xiv",
-      "title": "Fervor religioso en Necochea: cuatro micros y decenas de particulares partieron hacia Luján para la misa del Papa León XIV",
-      "score": 1.14,
-      "sources_count": 1,
-      "first_seen": "2026-11-10T21:22:51+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/lujan.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Fervor religioso en Necochea: cuatro micros y decenas de particulares partieron hacia Luján para la misa del Papa León XIV",
-          "url": "https://tsnnecochea.com.ar/generales/fervor-religioso-en-necochea-cuatro-micros-y-decenas-de-particulares-parten-hacia-lujan-para-la-misa-del-papa-leon-xiv-242008/",
-          "published_at": "2026-11-10T21:22:51+00:00",
-          "first_seen": "2026-11-10T21:30:00.598478+00:00",
-          "category": "Luján",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/lujan.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | | Luján | Iglesia Católica Fervor religioso en Necochea: cuatro micros y decenas de particulares partieron hacia Luján para la misa del Papa León XIV La delegación de fieles y vecinos salió desde la Terminal de Ómnibus. La celebración histórica en la Basílica Nacional se llevará a cabo este miércoles a las 10:00.",
-          "Por Redacción TSN 10/11/2026 · 06:22 PM Agregar TSN Necochea en Una masiva movilización de la comunidad de Necochea partió en la tarde de este martes con destino a la ciudad de Luján , en una peregrinación marcada por la fe y el entusiasmo para asistir a la histórica misa que oficiará el Papa León XIV en la emblemática Basílica Nacional. La partida principal se concentró en las plataformas de la Terminal de Ómnibus de Necochea , desde donde emprenderán viaje cuatro micros de larga distancia repletos de fieles pertenecientes a diversas parroquias e instituciones religiosas del distrito."
-        ],
-        "generated": "2026-11-10T22:00:52.699063+00:00"
-      },
-      "apariciones": 2,
-      "ultima_impresion": "2026-11-10T22:00:00.558032+00:00",
-      "penalizacion": 1.0
-    },
-    {
-      "key": "allanaron vivienda acusado intentar robar supermercado chino avenida 59 pidieron detencion",
-      "title": "Allanaron la vivienda del acusado de intentar robar un supermercado chino de avenida 59 y pidieron su detención",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-10T22:00:00.558032+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261110121810_whatsapp-image-2026-11-10-at-12-17-59.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Allanaron la vivienda del acusado de intentar robar un supermercado chino de avenida 59 y pidieron su detención",
-          "url": "https://necocheadigital.com/nota/120147/allanaron-la-vivienda-del-acusado-de-intentar-robar-un-supermercado-chino-de-avenida-59-y-pidieron-su-detencion/",
-          "published_at": null,
-          "first_seen": "2026-11-10T22:00:00.558032+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Un hombre de 44 años fue aprehendido en Necochea tras un allanamiento donde se secuestró la cuchilla utilizada y la vestimenta empleada en el hecho. El imputado ingresó al comercio, amenazó a una empleada y se dio a la fuga sin lograr sustraer dinero. El procedimiento policial se llevó a cabo a raíz de un intento de robo perpetrado en un supermercado de inversionistas chinos ubicado sobre la avenida 59, entre 92 y 94.",
-          "Durante el asalto, el individuo ingresó al local comercial, tomó del brazo a una trabajadora y le exigió la entrega del dinero de la caja registradora mientras la amenazaba exhibiendo una cuchilla. La empleada logró zafarse sin entregar el efectivo, momento en que intervino la propietaria del establecimiento y logró que el agresor se retirara y se diera a la fuga."
-        ],
-        "generated": "2026-11-10T22:00:53.909180+00:00"
+        "generated": "2026-11-10T22:30:46.007819+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-10T22:00:00.558032+00:00"
+      "ultima_impresion": "2026-11-10T22:30:00.667298+00:00"
     },
     {
-      "key": "jugo ultima fecha liga necochea rivadavia descendio zona definieron cruces playoffs",
-      "title": "Se jugó la última fecha de la Liga Necochea: Rivadavia descendió a la zona B y se definieron los cruces de playoffs",
+      "key": "fenomeno nino amenaza intensificarse prolongar calor extremo 2027",
+      "title": "El fenómeno de El Niño amenaza con intensificarse y prolongar el calor extremo hasta 2027",
+      "score": 1.28,
+      "sources_count": 1,
+      "first_seen": "2026-11-10T22:18:47+00:00",
+      "image": "https://cdnartic.ar/nIYISb_tDmxVQaGbAdf4JyjsLds=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/corriente_del_nino.jpeg",
+      "articles": [
+        {
+          "portal": "Ecos Diarios",
+          "title": "El fenómeno de El Niño amenaza con intensificarse y prolongar el calor extremo hasta 2027",
+          "url": "https://elecos.com.ar/el-fenomeno-de-el-nino-amenaza-con-intensificarse-y-prolongar-el-calor-extremo-hasta-2027",
+          "published_at": "2026-11-10T22:18:47+00:00",
+          "first_seen": "2026-11-10T22:30:00.667298+00:00",
+          "category": "105",
+          "image": "https://cdnartic.ar/nIYISb_tDmxVQaGbAdf4JyjsLds=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/corriente_del_nino.jpeg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El mundo Añadir como fuente en El fenómeno de El Niño amenaza con intensificarse y prolongar el calor extremo hasta 2027 La Administración Nacional Oceánica y Atmosférica de Estados Unidos advierte que existe una probabilidad superior al 83% de que el evento mantenga una intensidad fuerte durante los próximos años. 10 de noviembre de 2026 | 19:18 Ads La temperatura del océano Pacífico tropical ya supera los umbrales que sitúan a El Niño como uno de los factores climáticos determinantes para los próximos meses.",
+          "La Administración Nacional Oceánica y Atmosférica (NOAA) de Estados Unidos mantiene su alerta activa ante el calentamiento del Pacífico ecuatorial, donde se han registrado anomalías de temperatura en la superficie del mar superiores a los 4 ℃ en ciertas áreas. Ads Según el Centro de Predicción Climática , organismo dependiente de la NOAA, los indicadores oceánicos y atmosféricos sugieren un refuerzo del fenómeno durante 2026."
+        ],
+        "generated": "2026-11-10T22:30:47.368152+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-10T22:30:00.667298+00:00"
+    },
+    {
+      "key": "multitudinaria vigilia jovenes espera llegada papa leon xiv",
+      "title": "Multitudinaria vigilia de jóvenes espera la llegada del papa León XIV",
+      "score": 1.278,
+      "sources_count": 1,
+      "first_seen": "2026-11-10T22:17:39+00:00",
+      "image": "https://cdnartic.ar/_v6Q16ft37_bF9ZFghcaWcyOeDA=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/vigilia_de_jovenes.JPG",
+      "articles": [
+        {
+          "portal": "Ecos Diarios",
+          "title": "Multitudinaria vigilia de jóvenes espera la llegada del papa León XIV",
+          "url": "https://elecos.com.ar/multitudinaria-vigilia-de-jovenes-espera-la-llegada-del-papa-leon-xiv",
+          "published_at": "2026-11-10T22:17:39+00:00",
+          "first_seen": "2026-11-10T22:30:00.667298+00:00",
+          "category": "nacionales",
+          "image": "https://cdnartic.ar/_v6Q16ft37_bF9ZFghcaWcyOeDA=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/vigilia_de_jovenes.JPG"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Nacionales Añadir como fuente en Multitudinaria vigilia de jóvenes espera la llegada del papa León XIV Bajo el lema ¡Ánimo, levántate! Él te llama, miles de jóvenes de todo el país se congregan en Palermo para participar del encuentro con el Sumo Pontífice. 10 de noviembre de 2026 | 19:17 Ads La juventud se convirtió en la protagonista de una jornada de espera marcada por la fe y el entusiasmo. Con rosarios, mates y remeras distintivas de sus parroquias, grupos de diversas provincias aguardan en la Avenida del Libertador y los parques de Palermo la vigilia convocada por el papa León XIV .",
+          "Ads Trinidad Moutin, de 18 años y oriunda de Concordia , expresó su emoción ante la convocatoria: La juventud está muy necesitada y creo 100% que el Papa puede guiarla. Se nota por toda la gente que viene que se necesita mucho de Dios. Ads La música en vivo acompaña la espera, con canciones que los asistentes celebran con aplausos y baile."
+        ],
+        "generated": "2026-11-10T22:30:48.769998+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-10T22:30:00.667298+00:00"
+    },
+    {
+      "key": "rio parana crece santa fe acerca nivel alerta",
+      "title": "El río Paraná crece en Santa Fe y se acerca al nivel de alerta",
+      "score": 1.275,
+      "sources_count": 1,
+      "first_seen": "2026-11-10T22:16:00+00:00",
+      "image": "https://cdnartic.ar/BarDB2duKmMGUJ5iOqud9VRgeV4=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/el_litoral.jpg",
+      "articles": [
+        {
+          "portal": "Ecos Diarios",
+          "title": "El río Paraná crece en Santa Fe y se acerca al nivel de alerta",
+          "url": "https://elecos.com.ar/el-rio-parana-crece-en-santa-fe-y-se-acerca-al-nivel-de-alerta",
+          "published_at": "2026-11-10T22:16:00+00:00",
+          "first_seen": "2026-11-10T22:30:00.667298+00:00",
+          "category": "nacionales",
+          "image": "https://cdnartic.ar/BarDB2duKmMGUJ5iOqud9VRgeV4=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/el_litoral.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Nacionales Añadir como fuente en El río Paraná crece en Santa Fe y se acerca al nivel de alerta El curso de agua alcanzó los 5,02 metros en el puerto local, registrando un incremento constante que mantiene en observación a las zonas ribereñas e isleñas. 10 de noviembre de 2026 | 19:16 Ads El río Paraná continúa su proceso de ascenso en la ciudad de Santa Fe . Según los registros oficiales de la Prefectura Naval Argentina , este martes 10 de noviembre el hidrómetro local marcó 5,02 metros, lo que representa un incremento de 15 centímetros respecto a la jornada anterior.",
+          "Ads Esta medición sitúa al curso de agua a solo 28 centímetros del nivel de alerta , establecido en 5,30 metros. Si bien la marca actual se mantiene por debajo de dicho umbral y del nivel de evacuación , fijado en 5,70 metros, la tendencia sostenida de crecimiento obliga a un seguimiento constante de las próximas mediciones."
+        ],
+        "generated": "2026-11-10T22:30:50.134365+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-10T22:30:00.667298+00:00"
+    },
+    {
+      "key": "agrava situacion toledo",
+      "title": "Se agrava la situación de Toledo",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-11-10T22:00:00.558032+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261110121053_whatsapp-image-2026-11-10-at-12-10-43.jpg",
+      "first_seen": "2026-11-10T22:30:00.667298+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261110180950_uqleuj6wnrhppgn5jmlfssy7cm.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Se jugó la última fecha de la Liga Necochea: Rivadavia descendió a la zona B y se definieron los cruces de playoffs",
-          "url": "https://necocheadigital.com/nota/120146/se-jugo-la-ultima-fecha-de-la-liga-necochea-rivadavia-descendio-a-la-zona-b-y-se-definieron-los-cruces-de-playoffs/",
+          "title": "Se agrava la situación de Toledo",
+          "url": "https://necocheadigital.com/nota/120153/se-agrava-la-situacion-de-toledo/",
           "published_at": null,
-          "first_seen": "2026-11-10T22:00:00.558032+00:00",
+          "first_seen": "2026-11-10T22:30:00.667298+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "El Torneo Sergio “Giuseppe” Portugal 2026 de la Liga Necochea de Fútbol completó su fase regular con la disputa de la vigesimosegunda fecha. La jornada del feriado del lunes 9 de noviembre dejó un registro de 20 goles en seis partidos y definió el panorama en ambos extremos de la tabla. El cruce principal se dio en el Estadio Panamericano, donde Villa del Parque derrotó por 3 a 2 a Rivadavia en un enfrentamiento directo por la permanencia.",
-          "Con este resultado, el equipo de la playa salvó su categoría de forma directa y mandó al \"Decano\" a jugar en la Zona B durante la temporada 2027, mientras que el \"León\" deberá disputar la promoción. El trámite en el Estadio Panamericano empezó favorable para el conjunto local, que se puso en ventaja a través de Diman Carmilla. Sin embargo, Villa del Parque dio vuelta la historia con un doblete de Juan Manuel Szpyt y un gol de Lucio Szpyt."
+          "En las últimas semanas, la acumulación de embargos bancarios, demandas judiciales presentadas por proveedores y una millonaria deuda en cheques rechazados intensificaron la incertidumbre sobre la continuidad operativa de la empresa y la estabilidad laboral de sus empleados, especialmente en la ciudad de Necochea. De acuerdo con datos difundidos por La Capital de Mar del Plata, la compañía arrastra un registro de 1.330 cheques rechazados por un monto superior a los $13.700 millones.",
+          "Aunque un porcentaje menor fue regularizado, la deuda impaga en documentos comerciales se sitúa cerca de los $12.100 millones, reflejando el complejo escenario financiero que atraviesa la firma. El impacto local en las sucursales de Necochea El deterioro de la liquidez de Toledo se da tres meses después del fuerte conflicto laboral registrado en las tres sucursales que la firma opera en Necochea."
         ],
-        "generated": "2026-11-10T22:00:54.588270+00:00"
+        "generated": "2026-11-10T22:30:53.293290+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-10T22:00:00.558032+00:00"
+      "ultima_impresion": "2026-11-10T22:30:00.667298+00:00"
     },
     {
-      "key": "anuncia nueva jornada castracion masiva mascotas sabado",
-      "title": "Se anuncia una nueva jornada de castración masiva de mascotas para este sábado",
+      "key": "facundo bosch vuelve pumas despues cinco anos suma partido italia",
+      "title": "Facundo Bosch vuelve a Los Pumas después de cinco años y se suma para el partido ante Italia",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-11-10T22:00:00.558032+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261110115543_whatsapp-image-2026-11-10-at-11-55-32.jpg",
+      "first_seen": "2026-11-10T22:30:00.667298+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261110182150_bosch-jaguares.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Se anuncia una nueva jornada de castración masiva de mascotas para este sábado",
-          "url": "https://necocheadigital.com/nota/120145/se-anuncia-una-nueva-jornada-de-castracion-masiva-de-mascotas-para-este-sabado/",
+          "title": "Facundo Bosch vuelve a Los Pumas después de cinco años y se suma para el partido ante Italia",
+          "url": "https://necocheadigital.com/nota/120154/facundo-bosch-vuelve-a-los-pumas-despues-de-cinco-anos-y-se-suma-para-el-partido-ante-italia/",
           "published_at": null,
-          "first_seen": "2026-11-10T22:00:00.558032+00:00",
+          "first_seen": "2026-11-10T22:30:00.667298+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "La actividad es organizada por la Dirección de Bromatología e Higiene, dependiente de la Secretaría de Salud municipal, y comenzará a las 9 en el establecimiento ubicado en calle 574 entre 541 y 543. Los turnos se otorgarán por orden de llegada y se realizarán intervenciones hasta alcanzar un máximo de 45 mascotas. En caso de lluvia, la jornada quedará suspendida. Requisitos para acceder al servicio: Presentarse con una persona mayor de 18 años, que deberá acreditar su identidad con DNI y prestar el consentimiento para la cirugía.",
-          "Los perros deberán concurrir con bozal. Los gatos serán atendidos durante el primer turno. De esta manera, la gestión municipal le continuidad a las políticas públicas gratuitas que favorecen el bienestar animal y brindan herramientas concretas a los vecinos para promover una tenencia responsable."
+          "El rugby de Necochea vuelve a tener un representante en el máximo nivel internacional. Facundo Bosch recibió una nueva convocatoria para sumarse a la concentración de Los Pumas, marcando su retorno al equipo nacional tras un extenso período sin vestir la celeste y blanca. Su última participación oficial se remonta al 21 de noviembre de 2021, fecha en la que ingresó desde el banco de suplentes durante la derrota por 53-7 frente a Irlanda, en Dublín.",
+          "Desde aquel entonces, el forward había quedado al margen de las listas del seleccionado mayor, aunque su nombre se mantuvo en la consideración general gracias a su permanente protagonismo en el competitivo rugby europeo. La citación del necochense llega en un momento de urgencias y complicaciones físicas para el plantel conducido por Felipe Contepomi, especialmente en la posición de hooker."
         ],
-        "generated": "2026-11-10T22:00:55.263448+00:00"
+        "generated": "2026-11-10T22:30:53.980655+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-10T22:00:00.558032+00:00"
+      "ultima_impresion": "2026-11-10T22:30:00.667298+00:00"
     },
     {
-      "key": "silvia jensen anticipo prioridades frente turismo desarrollo productivo hay mucho hacer potenciar",
-      "title": "Silvia Jensen anticipó sus prioridades al frente de Turismo y Desarrollo Productivo: “Hay mucho por hacer y por potenciar”",
+      "key": "municipio destinara 250 millones obras bacheo necochea quequen",
+      "title": "El Municipio destinará $250 millones a obras de bacheo en Necochea y Quequén",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-11-10T22:00:00.558032+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/22ae2fa3881021959819f5d26c71eadd91d30d36.jpg",
+      "first_seen": "2026-11-10T22:30:00.667298+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/8086ea01411390fe6171adefe42c67d9fd8d2df2.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Silvia Jensen anticipó sus prioridades al frente de Turismo y Desarrollo Productivo: “Hay mucho por hacer y por potenciar”",
-          "url": "https://necocheadigital.com/nota/120142/silvia-jensen-anticipo-sus-prioridades-al-frente-de-turismo-y-desarrollo-productivo-hay-mucho-por-hacer-y-por-potenciar/",
+          "title": "El Municipio destinará $250 millones a obras de bacheo en Necochea y Quequén",
+          "url": "https://necocheadigital.com/nota/120144/el-municipio-destinara-250-millones-a-obras-de-bacheo-en-necochea-y-quequen/",
           "published_at": null,
-          "first_seen": "2026-11-10T22:00:00.558032+00:00",
-          "category": null,
-          "image": null
-        },
-        {
-          "portal": "Necochea Digital",
-          "title": "Silvia Jensen asumió al frente de Turismo y Desarrollo Productivo de Necochea",
-          "url": "https://necocheadigital.com/nota/120125/silvia-jensen-asumio-al-frente-de-turismo-y-desarrollo-productivo-de-necochea/",
-          "published_at": null,
-          "first_seen": "2026-11-10T22:00:00.558032+00:00",
+          "first_seen": "2026-11-10T22:30:00.667298+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "La nueva secretaria de Turismo y Desarrollo Productivo de Necochea, Silvia Jensen, comenzó a delinear los principales objetivos de su gestión, con la temporada de verano como primer gran desafío y la intención de fortalecer el trabajo conjunto entre el municipio, los sectores turísticos, comerciales y productivos. En una entrevista realizada por Horacio Castelli en Radio Noticias Necochea 97.3 , la funcionaria destacó que llega a una secretaría con numerosas áreas bajo su órbita y un equipo que ya tiene una dinámica de trabajo consolidada.",
-          "“Es una secretaría enorme que ya venía trabajando muy bien, así que con la continuidad y, a su vez, yo pondré un poco de mi impronta y algunas ideas que espero poder desarrollar”, expresó. Jensen explicó que durante sus primeras jornadas comenzó a interiorizarse sobre los proyectos en marcha, las iniciativas pendientes y las posibilidades de ampliar las actividades del área."
+          "El Municipio de Necochea pondrá en marcha un nuevo plan de obras de bacheo con una inversión de $250 millones provenientes del Fondo de Emergencia y Fortalecimiento de la Inversión Municipal (FEFIM). Las tareas apuntarán a mejorar el estado de las calles del microcentro y distintos sectores de Quequén. En una entrevista realizada por Quimey Marfil en Radio Noticias Necochea 97.3 , el secretario de Planeamiento, Obras y Servicios Públicos, Adrián Furno, explicó que el proceso administrativo ya está avanzado y que solo resta que la empresa adjudicataria presente las pólizas para avanzar con la firma del contrato.",
+          "Falta simplemente firmar el contrato y empezar”, señaló el funcionario. Los trabajos se concentrarán principalmente en el microcentro de Necochea, donde se registra un importante deterioro de la carpeta asfáltica, y también contemplarán algunas calles de Quequén."
         ],
-        "generated": "2026-11-10T22:00:57.183435+00:00"
+        "generated": "2026-11-10T22:30:54.874896+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-10T22:00:00.558032+00:00"
+      "ultima_impresion": "2026-11-10T22:30:00.667298+00:00"
     },
     {
-      "key": "independiente goleo san cayetano gimnasia derroto huracan hoy completa fecha 22 torneo local",
-      "title": "Independiente goleó en San Cayetano, Gimnasia derrotó a Huracán y hoy se completa la fecha 22 del torneo local",
+      "key": "polemica misa papa leon xiv carpa vip cuestionamientos gastos ausencia villarruel",
+      "title": "Polémica por la misa del papa León XIV: una carpa VIP, cuestionamientos por los gastos y la ausencia de Villarruel",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-11-10T22:00:00.558032+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261109150845_whatsapp-image-2026-11-09-at-15-08-33.jpg",
+      "first_seen": "2026-11-10T22:30:00.667298+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/32c4f7fb842c689c799142c9005bc0397c470802.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Independiente goleó en San Cayetano, Gimnasia derrotó a Huracán y hoy se completa la fecha 22 del torneo local",
-          "url": "https://necocheadigital.com/nota/120138/independiente-goleo-en-san-cayetano-gimnasia-derroto-a-huracan-y-hoy-se-completa-la-fecha-22-del-torneo-local/",
+          "title": "Polémica por la misa del papa León XIV: una carpa VIP, cuestionamientos por los gastos y la ausencia de Villarruel",
+          "url": "https://necocheadigital.com/nota/120143/polemica-por-la-misa-del-papa-leon-xiv-una-carpa-vip-cuestionamientos-por-los-gastos-y-la-ausencia-de-villarruel/",
           "published_at": null,
-          "first_seen": "2026-11-10T22:00:00.558032+00:00",
+          "first_seen": "2026-11-10T22:30:00.667298+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "La acción comenzó el sábado con la victoria de Gimnasia por 2 a 0 ante Huracán en el estadio de Villa del Parque con goles de Jonatan Balquín, que llegó a nueve en el torneo, y Nehemías Estarli. Con este resultado, el equipo de Pablo Fernández llegó a 35 puntos y quedó tercero en la Zona B, por lo que jugará el reducido a partido único en su cancha frente a Nicanor Olivera, mientras que el Globo finalizó quinto con 22 unidades y deberá visitar a Independiente de Lobería en la misma instancia.",
-          "El domingo, en el estadio Juan Bautista Marlats, Independiente de San Cayetano goleó 3 a 0 a Jorge Newbery de Lobería con un doblete de Nicolás Ferreira, que alcanzó las catorce conquistas en el certamen, y un tanto de Daniel Azurmendi."
+          "La primera misa celebrada por el papa León XIV en Argentina estuvo atravesada por una serie de polémicas que dejaron en segundo plano, por momentos, el carácter religioso e histórico de la jornada. La controversia comenzó cuando se difundieron en redes sociales imágenes de una carpa VIP instalada a pocos metros del altar, donde distintas personalidades del espectáculo y el ámbito empresarial disfrutaron de un espacio exclusivo con servicio de catering. Mientras tanto, miles de fieles permanecían en el exterior, bajo el sol, para participar de la ceremonia realizada en el Monumento a los Españoles.",
+          "Entre quienes mostraron su presencia en ese sector estuvieron Yanina Latorre, Analía Franchín, Valeria Mazza junto a su marido y Angie Landaburu. Las publicaciones despertaron críticas por las diferencias entre las comodidades destinadas a los invitados especiales y las condiciones en las que siguieron la misa los demás asistentes."
         ],
-        "generated": "2026-11-10T22:00:58.407283+00:00"
+        "generated": "2026-11-10T22:30:55.601041+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-10T22:00:00.558032+00:00"
+      "ultima_impresion": "2026-11-10T22:30:00.667298+00:00"
     },
     {
-      "key": "violento vuelco ruta 226 automovilista choco cartel debio hospitalizado",
-      "title": "Violento vuelco en la Ruta 226: un automovilista chocó contra un cartel y debió ser hospitalizado",
+      "key": "necochea brillo cierre final nacional torneo ovejeros alemanes",
+      "title": "Necochea brilló en el cierre de la Final Nacional del Torneo de Ovejeros Alemanes",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-11-10T22:00:00.558032+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261109151859_whatsapp-image-2026-11-09-at-15-18-46.jpg",
+      "first_seen": "2026-11-10T22:30:00.667298+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261109145211_whatsapp-image-2026-11-09-at-14-51-54.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Violento vuelco en la Ruta 226: un automovilista chocó contra un cartel y debió ser hospitalizado",
-          "url": "https://necocheadigital.com/nota/120139/violento-vuelco-en-la-ruta-226-un-automovilista-choco-contra-un-cartel-y-debio-ser-hospitalizado/",
+          "title": "Necochea brilló en el cierre de la Final Nacional del Torneo de Ovejeros Alemanes",
+          "url": "https://necocheadigital.com/nota/120136/necochea-brillo-en-el-cierre-de-la-final-nacional-del-torneo-de-ovejeros-alemanes/",
           "published_at": null,
-          "first_seen": "2026-11-10T22:00:00.558032+00:00",
+          "first_seen": "2026-11-10T22:30:00.667298+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "El episodio ocurrió minutos antes de las 7.25, hora en que ingresó el alerta al sistema de emergencias para reportar el despiste de un Volkswagen Gol. Como único ocupante viajaba Juan Cruz Celillo, de 31 años, quien circulaba solo al momento en que el vehículo salió de la cinta asfáltica por causas que todavía se intentan establecer. A raíz del fuerte impacto contra la cartelería y posterior vuelco, acudieron de inmediato las dotaciones 26 y 29 de los Bomberos Voluntarios de Sierra de los Padres.",
-          "Los efectivos brindaron las primeras asistencias al conductor en el lugar hasta la llegada de una ambulancia del SAME, que posteriormente dispuso su traslado de urgencia al Hospital Interzonal General de Agudos para una atención médica más compleja. En la escena también trabajaron inspectores de Tránsito, personal del móvil vial de El Soldado y fuerzas policiales para ordenar la circulación vehicular."
+          "La novena y última fecha del torneo nacional del Club Argentino de Criadores del Perro Ovejero Alemán concluyó en las instalaciones del Complejo Luz y Fuerza tras dos jornadas de intensa actividad competitiva e institucional. El certamen reunió a más de doscientos cincuenta ejemplares provenientes de quince provincias y países limítrofes, consolidando un encuentro de gran envergadura organizativa en coincidencia con el trigésimo aniversario de la agrupación filial anfitriona.",
+          "El predio del Paseo de La Ribera lució colmado de criadores, expositores y familias que acompañaron el desarrollo de las pruebas de pista, evaluadas por jueces oficiales de trayectoria internacional."
         ],
-        "generated": "2026-11-10T22:00:59.633570+00:00"
+        "generated": "2026-11-10T22:30:56.847500+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-10T22:00:00.558032+00:00"
+      "ultima_impresion": "2026-11-10T22:30:00.667298+00:00"
+    },
+    {
+      "key": "historica misa papa leon xiv buenos aires mensaje dirigido familia argentina ovacion francisco",
+      "title": "Histórica misa del papa León XIV en Buenos Aires: mensaje dirigido a la familia argentina y ovación a Francisco",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-10T22:30:00.667298+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261109143524_whatsapp-image-2026-11-09-at-14-35-00.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Histórica misa del papa León XIV en Buenos Aires: mensaje dirigido a la familia argentina y ovación a Francisco",
+          "url": "https://necocheadigital.com/nota/120135/historica-misa-del-papa-leon-xiv-en-buenos-aires-mensaje-dirigido-a-la-familia-argentina-y-ovacion-a-francisco/",
+          "published_at": null,
+          "first_seen": "2026-11-10T22:30:00.667298+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "“Queridos hermanas y hermanos” fueron las primeras cuatro palabras que emitió el papa León XIV frente a una multitud de fieles. Antes habían sonado canciones de misa, habían alternado las oraciones de alabanzas, el conductor Fernando Bravo había leído la profecía de Ezequiel y un clérigo había enseñado el evangelio según San Juan. El pontífice daba comienzo así a la primera santa misa en Argentina en los últimos 39 años.",
+          "La última había sido el 12 de abril de 1987, un domingo de Ramos, ante una multitud estimada en aproximadamente un millón de personas, congregadas en torno a la avenida 9 de Julio. En el Monumento de los Españoles, el número se duplicó."
+        ],
+        "generated": "2026-11-10T22:30:58.078793+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-10T22:30:00.667298+00:00"
     },
     {
       "key": "julio consagro campeon vencer malaver loberia",
       "title": "9 de Julio se consagró campeón tras vencer por 4 a 1 a Malaver de Lobería",
-      "score": 0.982,
+      "score": 0.941,
       "sources_count": 1,
       "first_seen": "2026-11-10T21:46:34+00:00",
       "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/9db7f875-7e90-43c4-a25c-babdb44daad7.jpg",
@@ -410,16 +430,16 @@
           "Por Thomás Vidal El conjunto de 9 de Julio se quedó con el título luego de imponerse por 4 a 1 frente a Malaver de Lobería, en una final que tuvo un desarrollo parejo durante la primera etapa y un claro dominio del equipo de Necochea en el complemento. Ambos equipos llegaban al encuentro con un día de descanso, debido a la postergación de sus respectivos compromisos de la jornada anterior. El antecedente inmediato favorecía a Malaver, que se había impuesto por 2 a 0 en Lobería.",
           "Sin embargo, en esta oportunidad, el contexto era diferente: ambos conjuntos disputaban la posibilidad de quedarse con el campeonato. Durante los primeros 45 minutos, el partido se caracterizó por la intensidad, la disputa en la mitad de la cancha y las situaciones repartidas. Ninguno de los dos equipos logró establecer una diferencia futbolística considerable."
         ],
-        "generated": "2026-11-10T22:01:04.656170+00:00"
+        "generated": "2026-11-10T22:31:02.777744+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-10T22:00:00.558032+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-10T22:30:00.667298+00:00",
+      "penalizacion": 1.0
     },
     {
       "key": "comienza tramo final liga necochea futbol",
       "title": "Comienza el tramo final de la Liga Necochea de Fútbol",
-      "score": 0.97,
+      "score": 0.931,
       "sources_count": 1,
       "first_seen": "2026-11-10T21:38:18+00:00",
       "image": "https://diarionq.com.ar/wp-content/uploads/2026/09/c05eec39-c630-4ecb-b905-27e3602a6f80.jpg",
@@ -439,16 +459,45 @@
           "Reducido, repechaje y quienes esperan en las semis – Por Thomás Vidal Culminó la fecha N°22 del Torneo Sergio “Giuseppe” Portugal y última de la fase regular, por ende quedaron confirmados los cruces en el reducido por el ascenso, el repechaje a los play off y los semifinalistas que deberán esperar 15 días para volver a jugar. Por el reducido y un pase a la promoción, Independiente de Lobería, Gimnasia, Nicanor Olivera y Huracán deberán jugar entre sí. Independiente de Lobería (2do) recibirá a Huracán (5to) en el Esteban V.",
           "Sanz de la vecina localidad para encontrar su lugar en la final, mientras que en el Williams Gabriele, Gimnasia (3ero) se tendrá que imponer como local ante Nicanor Olivera (4to). Estos duelos son a un solo partido, en cancha del mejor clasificado, en caso de empate, habrá penales. A priori, se jugaría el próximo jueves 12 de noviembre."
         ],
-        "generated": "2026-11-10T22:01:07.020724+00:00"
+        "generated": "2026-11-10T22:31:04.592806+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-10T22:00:00.558032+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-10T22:30:00.667298+00:00",
+      "penalizacion": 1.0
+    },
+    {
+      "key": "fervor religioso necochea cuatro micros decenas particulares parten lujan misa papa leon xiv",
+      "title": "Fervor religioso en Necochea: cuatro micros y decenas de particulares partieron hacia Luján para la misa del Papa León XIV",
+      "score": 0.601,
+      "sources_count": 1,
+      "first_seen": "2026-11-10T21:22:51+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/lujan.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Fervor religioso en Necochea: cuatro micros y decenas de particulares partieron hacia Luján para la misa del Papa León XIV",
+          "url": "https://tsnnecochea.com.ar/generales/fervor-religioso-en-necochea-cuatro-micros-y-decenas-de-particulares-parten-hacia-lujan-para-la-misa-del-papa-leon-xiv-242008/",
+          "published_at": "2026-11-10T21:22:51+00:00",
+          "first_seen": "2026-11-10T21:30:00.598478+00:00",
+          "category": "Luján",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/lujan.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | | Luján | Iglesia Católica Fervor religioso en Necochea: cuatro micros y decenas de particulares partieron hacia Luján para la misa del Papa León XIV La delegación de fieles y vecinos salió desde la Terminal de Ómnibus. La celebración histórica en la Basílica Nacional se llevará a cabo este miércoles a las 10:00.",
+          "Por Redacción TSN 10/11/2026 · 06:22 PM Agregar TSN Necochea en Una masiva movilización de la comunidad de Necochea partió en la tarde de este martes con destino a la ciudad de Luján , en una peregrinación marcada por la fe y el entusiasmo para asistir a la histórica misa que oficiará el Papa León XIV en la emblemática Basílica Nacional. La partida principal se concentró en las plataformas de la Terminal de Ómnibus de Necochea , desde donde emprenderán viaje cuatro micros de larga distancia repletos de fieles pertenecientes a diversas parroquias e instituciones religiosas del distrito."
+        ],
+        "generated": "2026-11-10T22:30:59.262957+00:00"
+      },
+      "apariciones": 3,
+      "ultima_impresion": "2026-11-10T22:30:00.667298+00:00",
+      "penalizacion": 0.55
     },
     {
       "key": "papa pidio suenen iglesia siga haciendo lio como decia francisco",
       "title": "El Papa pidió que “sueñen con una iglesia que siga haciendo lío” como decía Francisco",
-      "score": 0.315,
+      "score": 0.166,
       "sources_count": 1,
       "first_seen": "2026-11-10T20:16:50+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/papa-cordoba21.avif",
@@ -468,16 +517,16 @@
           "TSN Necochea | ‹ VOLVER | Nación | Papa León XIV | Visita Histórica El Papa pidió que “sueñen con una iglesia que siga haciendo lío” como decía Francisco Tras recorrer las calles cordobesas, León XIV encabezó un encuentro con el clero y religiosos. Por Redacción TSN 10/11/2026 · 05:16 PM Agregar TSN Necochea en El papa León XIV se reunió este martes por la tarde en la Catedral de Córdoba con seminaristas y religiosos, a quienes les agradeció “por el cariño con el que lo recibieron” y destacó: “Muchos de ustedes estaban con las manos en el aire, quizás para saludarme o para acompañar el canto. Estas son las manos que Jesús está buscando “.",
           "“Estas son las manos que Jesús está buscando, y tiene sus manos para continuar su misión” , enfatizó. Luego habló sobre la vocación religiosa y planteó: “¿Para qué estamos aquí?” y advirtió que es posible “trabajar mucho para Dios y pasar cada vez menos tiempo con Dios”."
         ],
-        "generated": "2026-11-10T22:01:02.277452+00:00"
+        "generated": "2026-11-10T22:31:00.494208+00:00"
       },
-      "apariciones": 4,
-      "ultima_impresion": "2026-11-10T22:00:00.558032+00:00",
-      "penalizacion": 0.302
+      "apariciones": 5,
+      "ultima_impresion": "2026-11-10T22:30:00.667298+00:00",
+      "penalizacion": 0.166
     },
     {
       "key": "discusion dinero termino aprehendido amenazas",
       "title": "Una discusión por dinero terminó con un aprehendido por amenazas",
-      "score": 0.271,
+      "score": 0.143,
       "sources_count": 3,
       "first_seen": "2026-11-10T15:51:14+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-10-at-10.57.35.webp",
@@ -515,16 +564,16 @@
           "TSN Necochea | ‹ VOLVER | | Comando de Patrullas | Comando de patrullas Una discusión por dinero terminó con un aprehendido por amenazas El conflicto fue entre dos hombres. La Fiscalía N.º 1 de Necochea avaló el procedimiento Por Redacción TSN 10/11/2026 · 02:35 PM Agregar TSN Necochea en Un hombre fue aprehendido el en Necochea, luego de que efectivos del Comando de Patrullas acudieron a una vivienda por un conflicto entre dos hombres. Según lo informado, la discusión se habría originado por cuestiones personales y de dinero . Al llegar, los efectivos constataron que uno de los involucrados profería amenazas a viva voz.",
           "El aprehendido fue trasladado a la Comisaría Primera y se radicó la denuncia. La UFI N.º 1 de Necochea avaló el procedimiento y dispuso que el hombre permaneciera alojado en la dependencia policial. COMANDO DE PATRULLAS DINERO AMENAZAS Seguinos en redes"
         ],
-        "generated": "2026-11-10T22:00:38.016474+00:00"
+        "generated": "2026-11-10T22:30:40.477992+00:00"
       },
-      "apariciones": 6,
-      "ultima_impresion": "2026-11-10T22:00:00.558032+00:00",
-      "penalizacion": 0.092
+      "apariciones": 7,
+      "ultima_impresion": "2026-11-10T22:30:00.667298+00:00",
+      "penalizacion": 0.05
     },
     {
       "key": "sanchez jauregui trabajo justicia social tienen prioridades construccion argentina",
       "title": "Sánchez Jauregui: “El trabajo y la justicia social tienen que ser prioridades en la construcción de la Argentina”",
-      "score": 0.26,
+      "score": 0.137,
       "sources_count": 1,
       "first_seen": "2026-11-10T20:10:00+00:00",
       "image": "http://nden.com.ar/uploads/noticias/5/2026/11/20261110171104_whatsapp-image-2026-11-10-at-4-31-42-pm.jpg",
@@ -543,83 +592,16 @@
         "paragraphs": [
           "TRAS EL ENCUENTRO CON LEÓN XIV EN LA UCA Sánchez Jauregui: “El trabajo y la justicia social tienen que ser prioridades en la construcción de la Argentina”"
         ],
-        "generated": "2026-11-10T22:01:08.525896+00:00"
-      },
-      "apariciones": 4,
-      "ultima_impresion": "2026-11-10T22:00:00.558032+00:00",
-      "penalizacion": 0.302
-    },
-    {
-      "key": "como sera organizacion peatonales necochea temporada verano",
-      "title": "Cómo será la organización de las peatonales en Necochea para la temporada de verano",
-      "score": 0.177,
-      "sources_count": 1,
-      "first_seen": "2026-11-10T19:36:11+00:00",
-      "image": "https://cdnartic.ar/Q0UVKbLvLCTUN7RTPx2WvUD1zko=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/peatonal_en_2026_2027.webp",
-      "articles": [
-        {
-          "portal": "Ecos Diarios",
-          "title": "Cómo será la organización de las peatonales en Necochea para la temporada de verano",
-          "url": "https://elecos.com.ar/como-sera-la-organizacion-de-las-peatonales-en-necochea-para-la-temporada-de-verano",
-          "published_at": "2026-11-10T19:36:11+00:00",
-          "first_seen": "2026-11-10T20:00:01.050662+00:00",
-          "category": "14",
-          "image": "https://cdnartic.ar/Q0UVKbLvLCTUN7RTPx2WvUD1zko=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/peatonal_en_2026_2027.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La ciudad Añadir como fuente en Cómo será la organización de las peatonales en Necochea para la temporada de verano El municipio trabaja en la regulación de los food trucks, la parada de taxis de calle 4 y 83 y la circulación de repartidores en moto 10 de noviembre de 2026 | 16:36 Ampliación. Del paseo peatonal, que sumará más calles en esta temporada de verano. | PH: Ecos Diarios Ads Con la aprobación de las ordenanzas en el Concejo Deliberante , Necochea se prepara para implementar cambios en la circulación vehicular y peatonal durante la temporada de verano .",
-          "Las modificaciones alcanzan a las calles 4 y 83 , con el objetivo de ordenar el tránsito en sectores de importante movimiento turístico y comercial. Ads Una de las disposiciones establece que la calle 4, entre las calles 81 y 87 , se convertirá en peatonal desde el 15 de diciembre hasta el 15 de marzo , todos los días entre las 20 y las 2 ."
-        ],
-        "generated": "2026-11-10T22:01:01.059947+00:00"
+        "generated": "2026-11-10T22:31:06.083006+00:00"
       },
       "apariciones": 5,
-      "ultima_impresion": "2026-11-10T22:00:00.558032+00:00",
+      "ultima_impresion": "2026-11-10T22:30:00.667298+00:00",
       "penalizacion": 0.166
-    },
-    {
-      "key": "sportivo villa diaz velez jugaran final futbol femenino",
-      "title": "Sportivo y Villa Díaz Vélez jugarán la final del fútbol femenino",
-      "score": 0.059,
-      "sources_count": 2,
-      "first_seen": "2026-11-10T17:55:52+00:00",
-      "image": "https://cdnartic.ar/MxkiCefpkrvcXj1UbJMmh0auD9w=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/sportivo_san_cayetano_uno_de_los_equipos_finalistas_del_torneo_oficial_femenino.webp",
-      "articles": [
-        {
-          "portal": "Ecos Diarios",
-          "title": "Sportivo y Villa Díaz Vélez jugarán la final del fútbol femenino",
-          "url": "https://elecos.com.ar/sportivo-y-villa-diaz-velez-jugaran-la-final-del-futbol-femenino",
-          "published_at": "2026-11-10T17:55:52+00:00",
-          "first_seen": "2026-11-10T18:30:00.548612+00:00",
-          "category": "11",
-          "image": "https://cdnartic.ar/MxkiCefpkrvcXj1UbJMmh0auD9w=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/sportivo_san_cayetano_uno_de_los_equipos_finalistas_del_torneo_oficial_femenino.webp"
-        },
-        {
-          "portal": "Necochea Digital",
-          "title": "Villa Díaz Vélez ganó por penales y avanzó a la final del fútbol femenino contra Independiente SC",
-          "url": "https://necocheadigital.com/nota/120137/villa-diaz-velez-gano-por-penales-y-avanzo-a-la-final-del-futbol-femenino-contra-independiente-sc/",
-          "published_at": null,
-          "first_seen": "2026-11-10T18:30:00.548612+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Deportes locales Añadir como fuente en Sportivo y Villa Díaz Vélez jugarán la final del fútbol femenino Las \"Albirrojas\" eliminaron a Rivadavia y las \"Naranjas\" superaron por penales a Independiente 10 de noviembre de 2026 | 14:55 Sportivo San Cayetano, uno de los equipos finalistas del Torneo Oficial femenino. Gentileza: @femenino_sportivo Ads Sportivo San Cayetano se medirá frente a Villa Díaz Vélez en la final del Torneo Oficial femenino de la Liga Necochea de Fútbol , tras superar sus respectivas series de semifinales.",
-          "Las “Albirrojas”, que van por el bicampeonato, dejaron en el camino a Rivadavia , mientras que las “Naranjas” eliminaron a Independiente San Cayetano en una llave que se resolvió desde el punto del penal. Ads Victoria “Albirroja” Sportivo derrotó 3-1 a Rivadavia y, con un global de 4-1, consiguió el pasaje a la definición del campeonato."
-        ],
-        "generated": "2026-11-10T22:00:47.040750+00:00"
-      },
-      "apariciones": 8,
-      "ultima_impresion": "2026-11-10T22:00:00.558032+00:00",
-      "penalizacion": 0.028
     },
     {
       "key": "detuvieron hombre orden vigente robo",
       "title": "Detuvieron a un hombre con una orden vigente por robo",
-      "score": 0.012,
+      "score": 0.006,
       "sources_count": 1,
       "first_seen": "2026-11-10T17:14:11+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/IMG_20261110_140022.webp",
@@ -639,16 +621,16 @@
           "TSN Necochea | ‹ VOLVER | Locales | Comisaria | Grupo Técnico Operativo Detuvieron a un hombre con una orden vigente por robo La detención se produjo durante una recorrida de prevención Por Redacción TSN 10/11/2026 · 02:14 PM Agregar TSN Necochea en En el marco de los patrullajes de control y prevención que se vienen desplegando en distintos sectores de la ciudad, efectivos del Grupo Técnico Operativo (GTO) de la Comisaría Primera procedieron a la aprehensión de un hombre de 33 años en la vía pública. ​La interceptación del sujeto se produjo durante una recorrida preventiva de rutina .",
           "Al momento de identificarlo y consultar sus datos en el sistema informático policial, los uniformados constataron que sobre él pesaba un pedido de detención activo solicitado por el Juzgado Correccional N.º 1 , en el marco de una causa caratulada como robo ."
         ],
-        "generated": "2026-11-10T22:01:09.749873+00:00"
+        "generated": "2026-11-10T22:31:07.274304+00:00"
       },
-      "apariciones": 9,
-      "ultima_impresion": "2026-11-10T22:00:00.558032+00:00",
-      "penalizacion": 0.015
+      "apariciones": 10,
+      "ultima_impresion": "2026-11-10T22:30:00.667298+00:00",
+      "penalizacion": 0.008
     },
     {
       "key": "revisar antes contactar soporte cuando pago queda pendiente",
       "title": "Qué revisar antes de contactar a soporte cuando un pago queda pendiente",
-      "score": 0.011,
+      "score": 0.006,
       "sources_count": 1,
       "first_seen": "2026-11-10T17:47:00+00:00",
       "image": "http://nden.com.ar/uploads/noticias/5/2026/11/647743690d6421a2e9d97900392fc911feda38c7.jpg",
@@ -667,16 +649,16 @@
         "paragraphs": [
           "10 DE NOVIEMBRE Día de la Tradición: del mate en la playa a las peñas, las costumbres que siguen vivas en Necochea"
         ],
-        "generated": "2026-11-10T22:01:11.110371+00:00"
+        "generated": "2026-11-10T22:31:08.048738+00:00"
       },
-      "apariciones": 9,
-      "ultima_impresion": "2026-11-10T22:00:00.558032+00:00",
-      "penalizacion": 0.015
+      "apariciones": 10,
+      "ultima_impresion": "2026-11-10T22:30:00.667298+00:00",
+      "penalizacion": 0.008
     },
     {
       "key": "quequen cerro festejo 172 anos jornada pleno sol musica alegria",
       "title": "Quequén cerró el festejo de sus 172 años con una jornada a pleno sol, música y alegría",
-      "score": 0.002,
+      "score": 0.001,
       "sources_count": 2,
       "first_seen": "2026-11-10T12:41:00+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/10-11-FOTO-festejos-Quequen.webp",
@@ -705,16 +687,16 @@
           "TSN Necochea | ‹ VOLVER | Generales | 172 años | Alegría Quequén cerró el festejo de sus 172 años con una jornada a pleno sol, música y alegría El tiempo acompañó y los vecinos se sumaron a la celebración Por Redacción TSN 10/11/2026 · 11:21 AM Agregar TSN Necochea en Con una plaza Hipólito Yrigoyen colmada de familias, sol, calor y un clima ideal para disfrutar al aire libre, Quequén cerró este lunes los festejos por su 172° aniversario con dos jornadas a pura música, alegría y propuestas para todas las edades.",
           "Después de varias postergaciones obligadas por las condiciones climáticas, el fin de semana largo permitió finalmente concretar la celebración que la comunidad esperaba y a la que la gestión municipal del intendente Arturo Rojas no renunciaba, con dos días de espectáculos protagonizados por destacados artistas locales y una amplia variedad de actividades para compartir en familia."
         ],
-        "generated": "2026-11-10T22:00:50.918075+00:00"
+        "generated": "2026-11-10T22:30:52.101435+00:00"
       },
-      "apariciones": 13,
-      "ultima_impresion": "2026-11-10T22:00:00.558032+00:00",
+      "apariciones": 14,
+      "ultima_impresion": "2026-11-10T22:30:00.667298+00:00",
       "penalizacion": 0.001
     },
     {
       "key": "club observadores aves prepara nueva salida descubrir especies migratorias",
       "title": "El Club de Observadores de Aves prepara una nueva salida para descubrir especies migratorias",
-      "score": 0.001,
+      "score": 0.0,
       "sources_count": 1,
       "first_seen": "2026-11-10T14:28:39+00:00",
       "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-10-at-09.19.48-scaled-e1794320911192.jpeg",
@@ -734,16 +716,16 @@
           "La actividad se realizará el 21 de noviembre y formará parte de una serie de recorridas iniciadas en septiembre para observar la llegada progresiva de aves migratorias. Ricardo Doumecq Milieu explicó que la inscripción abrirá el 16 y que la caminata recorrerá uno de los sectores de mayor biodiversidad del Parque Miguel Lillo. Charlando con Fede Cañadas en “Esta Mañana”, por NEC Radio 98.3 del Multimedio NQ, Ricardo Doumecq Milieu, integrante del Club de Observadores de Aves , anticipó la tercera salida destinada a conocer las especies migratorias que llegan a la ciudad durante la primavera.",
           "La actividad está prevista para el 21 de noviembre y forma parte de una serie de encuentros que comenzó en septiembre y continuó durante octubre. “La mayor cantidad de migratorias viene en primavera, pero es un proceso natural que se va dando progresivamente a medida que aumenta la temperatura y se acerca el verano”, explicó Doumecq Milieu."
         ],
-        "generated": "2026-11-10T22:01:13.394638+00:00"
+        "generated": "2026-11-10T22:31:10.288516+00:00"
       },
-      "apariciones": 13,
-      "ultima_impresion": "2026-11-10T22:00:00.558032+00:00",
+      "apariciones": 14,
+      "ultima_impresion": "2026-11-10T22:30:00.667298+00:00",
       "penalizacion": 0.001
     },
     {
       "key": "necoeduca actualiza 2027 heiland propone vincular oferta educativa necesidades laborales necochea",
       "title": "Necoeduca se actualiza para 2027 y Heiland propone vincular la oferta educativa con las necesidades laborales de Necochea",
-      "score": 0.001,
+      "score": 0.0,
       "sources_count": 1,
       "first_seen": "2026-11-10T14:22:00+00:00",
       "image": null,
@@ -763,16 +745,16 @@
           "Sonia Heiland repasó el crecimiento de Necoeduca, una plataforma que desde 2015 reúne la oferta educativa pública y privada del distrito. El proyecto ya comenzó a actualizar carreras y capacitaciones para 2027, sumó educación para adultos y planteó la necesidad de conocer qué perfiles laborales demandan empresas y comercios para orientar mejor la formación local.",
           "Charlando con Fede Cañadas en “Esta Mañana”, por NEC Radio 98.3 del Multimedio NQ, Sonia Heiland repasó el trabajo que desde 2015 desarrolla junto a su hija Magdalena y un grupo de colaboradores al frente de Necoeduca , un proyecto sin fines de lucro que reúne en un mismo sitio la oferta educativa pública y privada disponible en el partido de Necochea. La plataforma incluye propuestas terciarias, universitarias y de formación profesional, además de cursos presenciales, virtuales e híbridos."
         ],
-        "generated": "2026-11-10T22:01:15.573995+00:00"
+        "generated": "2026-11-10T22:31:12.146370+00:00"
       },
-      "apariciones": 13,
-      "ultima_impresion": "2026-11-10T22:00:00.558032+00:00",
+      "apariciones": 14,
+      "ultima_impresion": "2026-11-10T22:30:00.667298+00:00",
       "penalizacion": 0.001
     },
     {
       "key": "nombrar duele realizaran taller duelo gestacional perinatal",
       "title": "“Nombrar lo que duele”: realizarán un taller sobre duelo gestacional y perinatal",
-      "score": 0.001,
+      "score": 0.0,
       "sources_count": 1,
       "first_seen": "2026-11-10T14:18:19+00:00",
       "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-10-at-11.18.00.jpeg",
@@ -792,16 +774,16 @@
           "La propuesta fue reprogramada para el 26 de noviembre a las 19.30 y estará abierta a toda la comunidad, especialmente a familias que hayan atravesado este tipo de pérdidas y a profesionales de la salud. Candelaria Bargallo y Paula Cerda destacaron la necesidad de generar espacios de escucha, acompañamiento y capacitación.",
           "Charlando con Fede Cañadas en “Esta Mañana”, por NEC Radio 98.3 del Multimedio NQ, Candelaria Bargallo, licenciada en Terapia Ocupacional y Puericultura, y Paula Cerda, licenciada en Psicología , presentaron el taller “Nombrar lo que duele, acompañar lo que permanece” , una propuesta destinada a abordar el duelo gestacional y perinatal desde un espacio de encuentro, escucha y reflexión."
         ],
-        "generated": "2026-11-10T22:01:17.776287+00:00"
+        "generated": "2026-11-10T22:31:14.381782+00:00"
       },
-      "apariciones": 13,
-      "ultima_impresion": "2026-11-10T22:00:00.558032+00:00",
+      "apariciones": 14,
+      "ultima_impresion": "2026-11-10T22:30:00.667298+00:00",
       "penalizacion": 0.001
     },
     {
       "key": "multimedio nq emilia petrarca lanzara campana incentivar donacion sangre",
       "title": "Multimedio NQ y la Dra. Emilia Petrarca lanzaran una campaña para incentivar la donación de sangre",
-      "score": 0.001,
+      "score": 0.0,
       "sources_count": 1,
       "first_seen": "2026-11-10T14:12:45+00:00",
       "image": null,
@@ -821,10 +803,10 @@
           "La doctora María Emilia Petrarca presentó una iniciativa solidaria que tendrá su primera jornada este jueves en el Servicio de Hemoterapia del Hospital Emilio Ferreyra. La propuesta busca incentivar la donación voluntaria ante la disminución de personas que se acercan espontáneamente al banco de sangre.",
           "Charlando con Fede Cañadas en “Esta Mañana”, por NEC Radio 98.3 del Multimedio NQ, la doctora María Emilia Petrarca presentó una campaña solidaria que busca incentivar a los vecinos de Necochea y Quequén a acercarse al Servicio de Hemoterapia del Hospital Emilio Ferreyra para donar sangre de manera voluntaria . La iniciativa surgió luego de una entrevista realizada en su programa junto a la doctora Vanessa Castaño, hematóloga y responsable del Servicio de Hemoterapia, en el marco del Día Nacional del Donante Voluntario de Sangre, que se conmemora cada 9 de noviembre."
         ],
-        "generated": "2026-11-10T22:01:19.997446+00:00"
+        "generated": "2026-11-10T22:31:16.279969+00:00"
       },
-      "apariciones": 13,
-      "ultima_impresion": "2026-11-10T22:00:00.558032+00:00",
+      "apariciones": 14,
+      "ultima_impresion": "2026-11-10T22:30:00.667298+00:00",
       "penalizacion": 0.001
     },
     {
@@ -849,11 +831,11 @@
         "paragraphs": [
           "10 DE NOVIEMBRE Día de la Tradición: del mate en la playa a las peñas, las costumbres que siguen vivas en Necochea"
         ],
-        "generated": "2026-11-10T22:01:20.734540+00:00"
+        "generated": "2026-11-10T22:31:17.069521+00:00"
       },
-      "apariciones": 14,
-      "ultima_impresion": "2026-11-10T22:00:00.558032+00:00",
-      "penalizacion": 0.001
+      "apariciones": 15,
+      "ultima_impresion": "2026-11-10T22:30:00.667298+00:00",
+      "penalizacion": 0.0
     },
     {
       "key": "leon xiv argentina agenda papa ultimos dos dias visita",
@@ -877,10 +859,10 @@
         "paragraphs": [
           "VISITA PAPAL A LA ARGENTINA León XIV en Argentina: la agenda del Papa para sus últimos dos días de visita"
         ],
-        "generated": "2026-11-10T22:01:21.477425+00:00"
+        "generated": "2026-11-10T22:31:17.833456+00:00"
       },
-      "apariciones": 16,
-      "ultima_impresion": "2026-11-10T22:00:00.558032+00:00",
+      "apariciones": 17,
+      "ultima_impresion": "2026-11-10T22:30:00.667298+00:00",
       "penalizacion": 0.0
     },
     {
@@ -905,10 +887,10 @@
         "paragraphs": [
           "Atletismo necochense Santibáñez terminó octavo en los 21K de Mar del Plata y Marchetti subió al podio en los 5K"
         ],
-        "generated": "2026-11-10T22:01:22.835391+00:00"
+        "generated": "2026-11-10T22:31:18.570356+00:00"
       },
-      "apariciones": 34,
-      "ultima_impresion": "2026-11-10T22:00:00.558032+00:00",
+      "apariciones": 35,
+      "ultima_impresion": "2026-11-10T22:30:00.667298+00:00",
       "penalizacion": 0.0
     }
   ]
