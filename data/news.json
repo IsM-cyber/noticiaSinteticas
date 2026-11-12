@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-12T17:02:58.808294+00:00",
+  "generated_at": "2026-11-12T17:30:01.242380+00:00",
   "article_count": 120,
   "fetch_errors": [],
   "stories": [
     {
       "key": "murio 68 anos jorge juan montejo actor interpreto paolo rockero",
       "title": "Murió a los 68 años Jorge Juan Montejo, el actor que interpretó a Paolo el Rockero",
-      "score": 3.258,
+      "score": 2.958,
       "sources_count": 3,
       "first_seen": "2026-11-12T11:19:23+00:00",
       "image": "https://cdnartic.ar/3xX8KbxnLTTF4aymjLO5eb342VE=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/paolo_el_rockero.webp",
@@ -44,16 +44,54 @@
           "Espectáculos y arte Añadir como fuente en Murió a los 68 años Jorge Juan Montejo, el actor que interpretó a Paolo el Rockero El humorista, reconocido por su icónico personaje en el cine y la televisión argentina, falleció en Tandil tras permanecer internado por una neumonía. 12 de noviembre de 2026 | 10:59 Paolo el Rockero Ads El actor Jorge Juan Montejo , quien alcanzó gran popularidad en la década de los 80 con su personaje Paolo el Rockero , murió este miércoles en Tandil a los 68 años. El artista se encontraba internado en el Hospital Municipal Ramón Santamarina debido a un cuadro de neumonía.",
           "Ads La noticia fue confirmada por la Asociación Argentina de Actores , entidad que recordó sus inicios en el circuito del under porteño, donde realizaba imitaciones de músicos como Charly García y Luis Alberto Spinetta . Posteriormente, integró el dúo humorístico Las Personas antes de saltar a la fama masiva."
         ],
-        "generated": "2026-11-12T17:03:33.452717+00:00"
+        "generated": "2026-11-12T17:30:41.199377+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-12T17:02:58.808294+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-12T17:30:01.242380+00:00",
+      "penalizacion": 0.943
+    },
+    {
+      "key": "montan operativo vacunacion antirrabica villa caso positivo murcielago",
+      "title": "Montan un operativo de vacunación antirrábica en la Villa por un caso positivo en un murciélago",
+      "score": 1.905,
+      "sources_count": 2,
+      "first_seen": "2026-11-12T13:16:21+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/03/ILUSTRATIVA-Murcielago.jpg",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Montan un operativo de vacunación antirrábica en la Villa por un caso positivo en un murciélago",
+          "url": "https://tsnnecochea.com.ar/generales/montan-un-operativo-de-vacunacion-antirrabica-en-la-villa-por-un-caso-positivo-en-un-murcielago-242140/",
+          "published_at": "2026-11-12T13:16:21+00:00",
+          "first_seen": "2026-11-12T17:02:58.808294+00:00",
+          "category": "bromatologia",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/03/ILUSTRATIVA-Murcielago.jpg"
+        },
+        {
+          "portal": "Necochea Digital",
+          "title": "Activan un operativo de vacunación antirrábica en la villa balnearia tras detectar un caso positivo en un murciélago",
+          "url": "https://necocheadigital.com/nota/120165/activan-un-operativo-de-vacunacion-antirrabica-en-la-villa-balnearia-tras-detectar-un-caso-positivo-en-un-murcielago/",
+          "published_at": null,
+          "first_seen": "2026-11-12T17:30:01.242380+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Generales | bromatologia | Bromatología Montan un operativo de vacunación antirrábica en la Villa por un caso positivo en un murciélago Atención vecinos de la playa para este viernes. Por Redacción TSN 12/11/2026 · 10:16 AM Agregar TSN Necochea en La Dirección de Bromatología e Higiene, dependiente de la Secretaria de Salud Pública, confirmó la detección de un caso positivo de rabia en murciélago , el cual mantuvo contacto con una mascota en zona de la villa balnearia de la ciudad.",
+          "En seguimiento a los protocolos sanitarios, se dispondrá para este viernes 13 de noviembre, a partir de las 9 hs ., un operativo de vacunación preventiva , alrededor de un radio de 200 metros del punto de detección a fin de reforzar y proteger la salud pública."
+        ],
+        "generated": "2026-11-12T17:30:42.772103+00:00"
+      },
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-12T17:30:01.242380+00:00",
+      "penalizacion": 0.943
     },
     {
       "key": "municipio destinara 250 millones obras bacheo necochea quequen",
       "title": "El Municipio invertirá $250 millones en un nuevo plan de bacheo para el microcentro y Quequén",
-      "score": 2.053,
+      "score": 1.864,
       "sources_count": 2,
       "first_seen": "2026-11-12T13:00:32+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/09/bacheo-2.jpeg",
@@ -82,16 +120,170 @@
           "TSN Necochea | ‹ VOLVER | Locales | bacheo | Obras El Municipio invertirá $250 millones en un nuevo plan de bacheo para el microcentro y Quequén Los fondos provienen del FEFIM y las obras comenzarán ni bien la empresa adjudicataria presente las pólizas para la firma del contrato. En paralelo, avanza el recambio de 1.472 luminarias en distintos barrios del distrito.",
           "Por Redacción TSN 12/11/2026 · 10:00 AM Agregar TSN Necochea en La Municipalidad de Necochea pondrá en marcha un nuevo plan integral de obras de bacheo que demandará una inversión de $250 millones , financiados a través del Fondo de Emergencia y Fortalecimiento de la Inversión Municipal (FEFIM) . Los trabajos estarán orientados a recuperar la transitabilidad de las arterias del microcentro de Necochea y diversos sectores de Quequén ."
         ],
-        "generated": "2026-11-12T17:03:34.785821+00:00"
+        "generated": "2026-11-12T17:30:44.551739+00:00"
+      },
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-12T17:30:01.242380+00:00",
+      "penalizacion": 0.943
+    },
+    {
+      "key": "cooperadora hospital ferreyra invirtio 000 000 equipamiento neumonologia",
+      "title": "La Cooperadora del Hospital Ferreyra invirtió más de $6.000.000 en equipamiento para Neumonología",
+      "score": 1.644,
+      "sources_count": 2,
+      "first_seen": "2026-11-12T11:30:18+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/cooperadora.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "La Cooperadora del Hospital Ferreyra invirtió más de $6.000.000 en equipamiento para Neumonología",
+          "url": "https://tsnnecochea.com.ar/locales/la-cooperadora-del-hospital-ferreyra-invirtio-mas-de-6-000-000-en-equipamiento-para-neumonologia-242105/",
+          "published_at": "2026-11-12T11:30:18+00:00",
+          "first_seen": "2026-11-12T17:02:58.808294+00:00",
+          "category": "cooperadora",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/cooperadora.webp"
+        },
+        {
+          "portal": "Necochea Digital",
+          "title": "La Cooperadora del Hospital Ferreyra invirtió más de $6 millones en equipamiento para Neumonología",
+          "url": "https://necocheadigital.com/nota/120166/la-cooperadora-del-hospital-ferreyra-invirtio-mas-de-6-millones-en-equipamiento-para-neumonologia/",
+          "published_at": null,
+          "first_seen": "2026-11-12T17:30:01.242380+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Locales | cooperadora | Salud La Cooperadora del Hospital Ferreyra invirtió más de $6.000.000 en equipamiento para Neumonología La entidad adquirió un polígrafo para detectar trastornos del sueño y un dispositivo AutoCPAP de última generación, que se suman a una computadora instalada recientemente en el área. Por Redacción TSN 12/11/2026 · 08:30 AM Agregar TSN Necochea en La Asociación Cooperadora del Hospital Municipal Dr.",
+          "Emilio Ferreyra concretó una nueva entrega de aparatología médica de alta complejidad destinada al servicio de Neumonología , en el marco de su labor sostenida para fortalecer el sistema de salud pública local y optimizar la atención a los pacientes del distrito. La inversión global realizada por la entidad solidaria ascendió a $6.059.574 , permitiendo dotar al área de herramientas clave tanto para el diagnóstico preciso como para el abordaje terapéutico de patologías respiratorias."
+        ],
+        "generated": "2026-11-12T17:30:46.743310+00:00"
+      },
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-12T17:30:01.242380+00:00",
+      "penalizacion": 0.943
+    },
+    {
+      "key": "river plate tiene carpeta volante central erick pulgar",
+      "title": "River Plate tiene en carpeta al volante central Erick Pulgar",
+      "score": 1.272,
+      "sources_count": 1,
+      "first_seen": "2026-11-12T17:14:30+00:00",
+      "image": "https://cdnartic.ar/UtNNS9NbTjn8MJ4bLPQeaxnwsxM=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/erick_pulgar.jpg",
+      "articles": [
+        {
+          "portal": "Ecos Diarios",
+          "title": "River Plate tiene en carpeta al volante central Erick Pulgar",
+          "url": "https://elecos.com.ar/river-plate-tiene-en-carpeta-al-volante-central-erick-pulgar",
+          "published_at": "2026-11-12T17:14:30+00:00",
+          "first_seen": "2026-11-12T17:30:01.242380+00:00",
+          "category": "deportes-nacional",
+          "image": "https://cdnartic.ar/UtNNS9NbTjn8MJ4bLPQeaxnwsxM=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/erick_pulgar.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Deportes nacionales Añadir como fuente en River Plate tiene en carpeta al volante central Erick Pulgar El club de Núñez busca reforzar su mediocampo y el futbolista chileno aparece como una de las alternativas principales para el próximo mercado de pases. 12 de noviembre de 2026 | 14:14 Ads River Plate se encuentra en la búsqueda activa de un volante central para el próximo mercado de pases, ante la necesidad de corregir rendimientos irregulares en esa zona del campo de juego. En este contexto, la dirigencia ha sumado a su lista de candidatos al mediocampista Erick Pulgar .",
+          "Ads Según lo informado por DSports Radio , el futbolista chileno es una de las opciones que maneja el club en caso de que no se concrete la incorporación permanente de Fausto Vera . La situación contractual de Pulgar presenta un desafío, ya que recientemente extendió su vínculo con el Flamengo hasta diciembre de 2029."
+        ],
+        "generated": "2026-11-12T17:30:47.235152+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-12T17:02:58.808294+00:00"
+      "ultima_impresion": "2026-11-12T17:30:01.242380+00:00"
+    },
+    {
+      "key": "ofrecen 20 millones datos leonardo bertulazzi fuga san telmo",
+      "title": "Ofrecen 20 millones por datos de Leonardo Bertulazzi tras su fuga en San Telmo",
+      "score": 1.27,
+      "sources_count": 1,
+      "first_seen": "2026-11-12T17:13:17+00:00",
+      "image": "https://cdnartic.ar/WadFzqjRAAdPG8Qqmw_zsaQ5aU4=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/leonardo_bertulazzi.jpg",
+      "articles": [
+        {
+          "portal": "Ecos Diarios",
+          "title": "Ofrecen 20 millones por datos de Leonardo Bertulazzi tras su fuga en San Telmo",
+          "url": "https://elecos.com.ar/ofrecen-20-millones-por-datos-de-leonardo-bertulazzi-tras-su-fuga-en-san-telmo",
+          "published_at": "2026-11-12T17:13:17+00:00",
+          "first_seen": "2026-11-12T17:30:01.242380+00:00",
+          "category": "13",
+          "image": "https://cdnartic.ar/WadFzqjRAAdPG8Qqmw_zsaQ5aU4=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/leonardo_bertulazzi.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Policiales Añadir como fuente en Ofrecen 20 millones por datos de Leonardo Bertulazzi tras su fuga en San Telmo El exintegrante de las Brigadas Rojas, de 74 años, escapó de su arresto domiciliario descolgándose desde un quinto piso en un edificio de la Ciudad de Buenos Aires. 12 de noviembre de 2026 | 14:13 Ads Las autoridades han iniciado una intensa búsqueda para dar con el paradero de Leonardo Bertulazzi , el exintegrante de las Brigadas Rojas italianas que protagonizó una fuga de película. El hombre, de 74 años, cumplía una medida de arresto domiciliario en un departamento ubicado en la calle Defensa al 600, en el barrio de San Telmo .",
+          "Ads Según la información oficial, el prófugo logró evadir la custodia descolgándose desde el quinto piso del edificio donde se encontraba alojado. Ante la gravedad del hecho, se ha fijado una recompensa de 20 millones de pesos para aquellas personas que aporten datos certeros que permitan localizarlo."
+        ],
+        "generated": "2026-11-12T17:30:47.727420+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-12T17:30:01.242380+00:00"
+    },
+    {
+      "key": "murio futbolista wanis honsor sufrir paro cardiaco entrenamiento",
+      "title": "Murió el futbolista Wanis Honsor tras sufrir un paro cardíaco en un entrenamiento",
+      "score": 1.269,
+      "sources_count": 1,
+      "first_seen": "2026-11-12T17:12:22+00:00",
+      "image": "https://cdnartic.ar/dR4gzFkRl_ilrsYs22yGdBs5yhg=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/jugador.webp",
+      "articles": [
+        {
+          "portal": "Ecos Diarios",
+          "title": "Murió el futbolista Wanis Honsor tras sufrir un paro cardíaco en un entrenamiento",
+          "url": "https://elecos.com.ar/murio-el-futbolista-wanis-honsor-tras-sufrir-un-paro-cardiaco-en-un-entrenamiento",
+          "published_at": "2026-11-12T17:12:22+00:00",
+          "first_seen": "2026-11-12T17:30:01.242380+00:00",
+          "category": "deportes-nacional",
+          "image": "https://cdnartic.ar/dR4gzFkRl_ilrsYs22yGdBs5yhg=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/jugador.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Deportes nacionales Añadir como fuente en Murió el futbolista Wanis Honsor tras sufrir un paro cardíaco en un entrenamiento El deportista francés de 22 años se descompensó durante una práctica con el Saint-Denis FC y falleció pese a los intentos de reanimación de los servicios de emergencia. 12 de noviembre de 2026 | 14:12 Ads El mundo del fútbol se encuentra de luto tras el fallecimiento de Wanis Honsor , un jugador francés de 22 años que perdió la vida de manera repentina mientras participaba en un entrenamiento con su equipo, el Saint-Denis FC . Ads El trágico episodio ocurrió en medio de una práctica, cuando el deportista se descompensó y cayó sobre el terreno de juego.",
+          "A pesar de la rápida intervención de los equipos de emergencia, quienes trabajaron durante 45 minutos para intentar reanimarlo, los esfuerzos resultaron infructuosos y se confirmó su fallecimiento. Wanis Honsor se había incorporado al Saint-Denis FC en enero de 2026."
+        ],
+        "generated": "2026-11-12T17:30:48.226855+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-12T17:30:01.242380+00:00"
+    },
+    {
+      "key": "italia francia enfrentan milan uefa nations league",
+      "title": "Italia y Francia se enfrentan en Milán por la UEFA Nations League",
+      "score": 1.267,
+      "sources_count": 1,
+      "first_seen": "2026-11-12T17:11:37+00:00",
+      "image": "https://cdnartic.ar/Gdr13pl4j2omglCkR_4NwjVV7u8=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/nations_league.jpg",
+      "articles": [
+        {
+          "portal": "Ecos Diarios",
+          "title": "Italia y Francia se enfrentan en Milán por la UEFA Nations League",
+          "url": "https://elecos.com.ar/italia-y-francia-se-enfrentan-en-milan-por-la-uefa-nations-league",
+          "published_at": "2026-11-12T17:11:37+00:00",
+          "first_seen": "2026-11-12T17:30:01.242380+00:00",
+          "category": "deportes-nacional",
+          "image": "https://cdnartic.ar/Gdr13pl4j2omglCkR_4NwjVV7u8=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/nations_league.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Deportes nacionales Añadir como fuente en Italia y Francia se enfrentan en Milán por la UEFA Nations League El seleccionado italiano recibe a su par francés en el estadio Giuseppe Meazza en un duelo clave por el liderazgo del Grupo 1 de la Liga A del torneo europeo. 12 de noviembre de 2026 | 14:11 Ads En el marco de la jornada cinco de la UEFA Nations League , Italia y Francia se verán las caras en el estadio Giuseppe Meazza de Milán.",
+          "El conjunto local llega al encuentro con la necesidad de sumar de a tres para recortar distancias con el líder del grupo, mientras que el equipo visitante busca consolidar su posición en la cima de la tabla. Ads El equipo dirigido por Roberto Mancini ocupa actualmente el segundo lugar con ocho unidades, dos menos que Francia."
+        ],
+        "generated": "2026-11-12T17:30:48.713846+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-12T17:30:01.242380+00:00"
     },
     {
       "key": "necochea recibira 88 millones participacion juegos bonaerenses",
       "title": "Necochea recibirá más de $88 millones por su participación en los Juegos Bonaerenses",
-      "score": 1.228,
+      "score": 1.114,
       "sources_count": 1,
       "first_seen": "2026-11-12T16:21:45+00:00",
       "image": "https://cdnartic.ar/W2BF9q9RmhcaNACi64wkCBngUY0=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/fondos_juegos_bonaerenses.webp",
@@ -111,306 +303,199 @@
           "La ciudad Añadir como fuente en Necochea recibirá más de $88 millones por su participación en los Juegos Bonaerenses La Provincia aprobó una nueva partida de fondos para los municipios que participaron de la etapa final de la competencia. 12 de noviembre de 2026 | 13:21 Ads Necochea recibirá $88.524.000 del Gobierno de la provincia de Buenos Aires en el marco de una nueva distribución de fondos destinada a cubrir los gastos que demandó la participación de los municipios en la etapa final de los 35° Juegos Bonaerenses 2026.",
           "Ads La medida forma parte de una partida global de $9.232.518.706 , aprobada mediante un decreto provincial y distribuida entre los 135 municipios que formaron parte de la competencia . Los aportes son de carácter no reintegrable y están destinados a afrontar gastos de traslado, alojamiento y transporte de las delegaciones."
         ],
-        "generated": "2026-11-12T17:03:35.911458+00:00"
+        "generated": "2026-11-12T17:30:49.866278+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-12T17:02:58.808294+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-12T17:30:01.242380+00:00",
+      "penalizacion": 0.943
     },
     {
-      "key": "entregan martin fierro cable 2026 a24 tn como grandes protagonistas",
-      "title": "Se entregan los Martín Fierro de Cable 2026 con A24 y TN como grandes protagonistas",
-      "score": 1.15,
-      "sources_count": 1,
-      "first_seen": "2026-11-12T15:34:33+00:00",
-      "image": "https://cdnartic.ar/usWnOdkiJdQYSCfSq2mnmvriaWQ=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2024/08/martin_fierro_digital_2024.webp",
-      "articles": [
-        {
-          "portal": "Ecos Diarios",
-          "title": "Se entregan los Martín Fierro de Cable 2026 con A24 y TN como grandes protagonistas",
-          "url": "https://elecos.com.ar/se-entregan-los-martin-fierro-de-cable-2026-con-a24-y-tn-como-grandes-protagonistas",
-          "published_at": "2026-11-12T15:34:33+00:00",
-          "first_seen": "2026-11-12T17:02:58.808294+00:00",
-          "category": "104",
-          "image": "https://cdnartic.ar/usWnOdkiJdQYSCfSq2mnmvriaWQ=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2024/08/martin_fierro_digital_2024.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Espectáculos y arte Añadir como fuente en Se entregan los Martín Fierro de Cable 2026 con A24 y TN como grandes protagonistas La Asociación de Periodistas de la Televisión y la Radiofonía Argentinas celebra este jueves una nueva edición de sus galardones, que distinguen a lo mejor de la producción televisiva por cable con una fuerte disputa entre las señales informativas 12 de noviembre de 2026 | 12:34 Martín Fierro Digital 2024 | PH: Ecos Diarios Ads La Asociación de Periodistas de la Televisión y la Radiofonía Argentinas (APTRA) , presidida por Luis Ventura , difundió la lista de nominados para los premios Martín Fierro de Cable 2026 . La ceremonia, que tendrá lugar este 12 de noviembre en Buenos Aires, contará con la conducción de Marina Calabró y Sergio Lapegüe , y será transmitida en vivo por la señal A24 .",
-          "Ads En esta edición, los canales A24 y TN lideran las postulaciones con 21 candidaturas cada uno."
-        ],
-        "generated": "2026-11-12T17:03:36.987147+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-12T17:02:58.808294+00:00"
-    },
-    {
-      "key": "buenas nuevas segunda vida hojas caen",
-      "title": "Buenas Nuevas - Una segunda vida para las hojas que caen",
-      "score": 1.12,
-      "sources_count": 1,
-      "first_seen": "2026-11-12T15:15:53+00:00",
-      "image": "https://cdnartic.ar/NiCh0gprfb_tpSw0-YQGBlnflXM=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/valentyn_frechka_1.webp",
-      "articles": [
-        {
-          "portal": "Ecos Diarios",
-          "title": "Buenas Nuevas - Una segunda vida para las hojas que caen",
-          "url": "https://elecos.com.ar/buenas-nuevas-una-segunda-vida-para-las-hojas-que-caen",
-          "published_at": "2026-11-12T15:15:53+00:00",
-          "first_seen": "2026-11-12T17:02:58.808294+00:00",
-          "category": "ecos-radio",
-          "image": "https://cdnartic.ar/NiCh0gprfb_tpSw0-YQGBlnflXM=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/valentyn_frechka_1.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Ecos Radio Añadir como fuente en Buenas Nuevas - Una segunda vida para las hojas que caen 12 de noviembre de 2026 | 12:15 Ads En la Buena Nueva de cada día en Desde Temprano , Micky nos trajo una historia que combina creatividad, innovación y cuidado del planeta . ¿Sabías que las hojas que caen de los árboles pueden convertirse en papel y envases biodegradables? Conocemos la historia de Valentyn Frechka , un joven inventor ucraniano que transformó una simple pregunta en una idea revolucionaria: aprovechar lo que la naturaleza descarta para darle una nueva oportunidad.",
-          "Porque a veces, para cambiar el mundo, alcanza con aprender a mirar lo que tenemos de otra manera. Escuchá la columna en el siguiente link: Ads Ads Ads Temas Buenas Nuevas Comentarios Para comentar, debés estar registrado Por favor, iniciá sesión INGRESA Ads Ads"
-        ],
-        "generated": "2026-11-12T17:03:37.708379+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-12T17:02:58.808294+00:00"
-    },
-    {
-      "key": "archivo ecos diarios comercios centenarios personajes construyeron historia necochea",
-      "title": "Archivo Ecos Diarios - Comercios centenarios y personajes que construyeron la historia de Necochea",
-      "score": 1.101,
-      "sources_count": 1,
-      "first_seen": "2026-11-12T15:03:31+00:00",
-      "image": "https://cdnartic.ar/fETW4gEhIOQKZafTYAPuHpvl7gw=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/05/raul_jauregui.jpeg",
-      "articles": [
-        {
-          "portal": "Ecos Diarios",
-          "title": "Archivo Ecos Diarios - Comercios centenarios y personajes que construyeron la historia de Necochea",
-          "url": "https://elecos.com.ar/archivo-ecos-diarios-comercios-centenarios-y-personajes-que-construyeron-la-historia-de-necochea",
-          "published_at": "2026-11-12T15:03:31+00:00",
-          "first_seen": "2026-11-12T17:02:58.808294+00:00",
-          "category": "ecos-radio",
-          "image": "https://cdnartic.ar/fETW4gEhIOQKZafTYAPuHpvl7gw=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/05/raul_jauregui.jpeg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Ecos Radio Añadir como fuente en Archivo Ecos Diarios - Comercios centenarios y personajes que construyeron la historia de Necochea 12 de noviembre de 2026 | 12:03 Ads En una nueva edición del Archivo Histórico de Ecos Diarios en Desde Temprano , Raúl Jáuregui nos invita a recorrer algunos de esos lugares que forman parte de la memoria afectiva de Necochea. Hoy conocemos la historia del Bar Rex , un clásico que conserva su esencia desde fines de los años 30, y de la tradicional Agencia Dones , que cumplió 100 años y guarda innumerables anécdotas de la ciudad.",
-          "Además, en el Bonus Track, descubrimos algunas historias poco conocidas de Juan Manuel Fangio y su vínculo con Necochea. Escuchá la columna completa en el siguiente link: Ads Ads Ads Ads Temas archivo Comentarios Para comentar, debés estar registrado Por favor, iniciá sesión INGRESA Ads Ads"
-        ],
-        "generated": "2026-11-12T17:03:38.824949+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-12T17:02:58.808294+00:00"
-    },
-    {
-      "key": "murio paolo rockero personaje marco television 80",
-      "title": "Murió Paolo, el rockero, el personaje que marcó la televisión de los 80",
+      "key": "hallan abandonada necochea moto robada mar plata",
+      "title": "Hallan abandonada en Necochea una moto robada en Mar del Plata",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-11-12T17:02:58.808294+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/0baba738645ba67c545cb730f41a4f9f4ccc96ef.jpg",
+      "first_seen": "2026-11-12T17:30:01.242380+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/343ee5c8e7167edf4d326f9e9705fa8c62bbe42e.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Murió Paolo, el rockero, el personaje que marcó la televisión de los 80",
-          "url": "https://necocheadigital.com/nota/120167/murio-paolo-el-rockero-el-personaje-que-marco-la-television-de-los-80/",
+          "title": "Hallan abandonada en Necochea una moto robada en Mar del Plata",
+          "url": "https://necocheadigital.com/nota/120168/hallan-abandonada-en-necochea-una-moto-robada-en-mar-del-plata/",
           "published_at": null,
-          "first_seen": "2026-11-12T17:02:58.808294+00:00",
+          "first_seen": "2026-11-12T17:30:01.242380+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "Jorge Juan Montejo , el actor y humorista que dio vida a Paolo, el rockero, murió a los 68 años en el Hospital Santamarina de Tandil, su ciudad natal. Según pudo saber Infobae por fuentes municipales, el artista estaba internado por una infección respiratoria y falleció a las 21.16 del miércoles 11 de noviembre en el nosocomio local. Con su vincha, el pelo largo, el morral multicolor y expresiones como “¡Uhhh, loco!”, “¿Entendés, chabón?”, “Qué mala onda” y “Mató la onda, loco”, Paolo se convirtió en una figura reconocible de la televisión argentina de las décadas de 1980 y 1990.",
-          "El personaje nació en 1986, luego de que Daniel Ripoll, fundador de la revista Pelo , le sugiriera incursionar en la interpretación. Montejo relató que armó el look con elementos de cotillón y que el nombre surgió por una cuestión de imagen: “No se podía llamar Johnny, tenía que ser Paolo” ."
+          "Personal policial y de Tránsito recuperó en las últimas horas una motocicleta que había sido robada meses atrás en Mar del Plata. El operativo se desencadenó en plena vía pública, en la intersección de la avenida 2 y la calle 81, donde el rodado fue abandonado. De acuerdo con el reporte oficial, los efectivos del Comando de Patrullas advirtieron la presencia de una Honda Wave rojinegra que estaba sin patente y con faltantes en sus plásticos.",
+          "En el lugar se encontraba un hombre que, al notar la presencia de los agentes, decidió escapar a pie antes de ser interceptado. Al revisar los números de cuadro y motor, las autoridades constataron mediante el sistema informático que la moto contaba con un pedido de secuestro activo emitido el pasado 23 de mayo, a raíz de una denuncia por robo radicada en la Comisaría Cuarta de Mar del Plata."
         ],
-        "generated": "2026-11-12T17:03:39.917098+00:00"
+        "generated": "2026-11-12T17:30:50.570394+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-12T17:02:58.808294+00:00"
+      "ultima_impresion": "2026-11-12T17:30:01.242380+00:00"
     },
     {
-      "key": "havanna registro caida 25 ventas comercializo 215 mil kilos productos",
-      "title": "Havanna registró una caída del 25,8% en sus ventas y comercializó 215 mil kilos menos de productos",
+      "key": "comienza domingo operativo guardavidas necochea quequen",
+      "title": "Comienza el domingo el operativo de guardavidas en Necochea y Quequén",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-11-12T17:02:58.808294+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/0a0d696e4548a42ff50ae37008bf088148a2832c.jpg",
+      "first_seen": "2026-11-12T17:30:01.242380+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/5119303cd27a10dbc228d89ee7d0dabc5ca5e131.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Havanna registró una caída del 25,8% en sus ventas y comercializó 215 mil kilos menos de productos",
-          "url": "https://necocheadigital.com/nota/120164/havanna-registro-una-caida-del-25-8-en-sus-ventas-y-comercializo-215-mil-kilos-menos-de-productos/",
+          "title": "Comienza el domingo el operativo de guardavidas en Necochea y Quequén",
+          "url": "https://necocheadigital.com/nota/120161/comienza-el-domingo-el-operativo-de-guardavidas-en-necochea-y-quequen/",
           "published_at": null,
-          "first_seen": "2026-11-12T17:02:58.808294+00:00",
+          "first_seen": "2026-11-12T17:30:01.242380+00:00",
+          "category": null,
+          "image": null
+        },
+        {
+          "portal": "Necochea Digital",
+          "title": "El domingo 15 comienza el servicio de guardavidas en las playas de Necochea y Quequén",
+          "url": "https://necocheadigital.com/nota/120124/el-domingo-15-comienza-el-servicio-de-guardavidas-en-las-playas-de-necochea-y-quequen/",
+          "published_at": null,
+          "first_seen": "2026-11-12T17:30:01.242380+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "La empresa Havanna, una de las marcas emblemáticas de Mar del Plata, registró una fuerte caída en sus ventas durante el tercer trimestre de 2026. Según los resultados financieros difundidos por la compañía, los ingresos alcanzaron los $35.493 millones, lo que representa una disminución del 25,8% respecto del mismo período de 2025. El principal retroceso se produjo en el segmento de alfajores, galletitas y havannets, que registró ventas por 973 mil kilos entre julio y septiembre.",
-          "La cifra representa una reducción de 215 mil kilos en comparación con el mismo trimestre del año anterior. En términos de facturación, ese rubro generó casi $11.500 millones menos que en 2025, convirtiéndose en el principal factor detrás de la caída general de los ingresos."
+          "El próximo domingo 15 de noviembre comenzará oficialmente el operativo de guardavidas en las playas de Necochea y Quequén. El servicio se extenderá hasta el 15 de abril y, durante esta primera etapa, contará con 70 trabajadores distribuidos en dos turnos, con cobertura entre las 9 y las 20. Así lo confirmó Pablo Suárez, secretario general de la Asociación de Guardavidas de Necochea, durante una entrevista en el programa Voces de la Tarde , que conduce Jorge Gómez por Radio Noticias Necochea 97.3.",
+          "El dirigente explicó que el dispositivo inicial tendrá tres puestos en Quequén y distintos puntos de cobertura en Necochea, desde Playa de los Patos y la zona de la Escollera hasta la continuidad de calle 75 y el sector de Neptuno, con una distancia aproximada de 250 metros entre puestos. “Comenzamos con un servicio reducido en cantidad de guardavidas y en metros de cobertura, como para ir calentando motores”, explicó Suárez."
         ],
-        "generated": "2026-11-12T17:03:41.008943+00:00"
+        "generated": "2026-11-12T17:30:52.332157+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-12T17:02:58.808294+00:00"
+      "ultima_impresion": "2026-11-12T17:30:01.242380+00:00"
     },
     {
-      "key": "desempleo endeudamiento salud mental",
-      "title": "Desempleo, endeudamiento y Salud Mental",
+      "key": "juan bautista benedictis confirmo continuidad rus med team temporada 2027 tc",
+      "title": "Juan Bautista De Benedictis confirmó su continuidad en el RUS Med Team para la temporada 2027 del TC",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-11-12T17:02:58.808294+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/92a25d7c5338d6680b8df2cff92d463d0a5c87ef.jpg",
+      "first_seen": "2026-11-12T17:30:01.242380+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261111184308_whatsapp-image-2026-11-11-at-18-42-50.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Desempleo, endeudamiento y Salud Mental",
-          "url": "https://necocheadigital.com/nota/120163/desempleo-endeudamiento-y-salud-mental/",
+          "title": "Juan Bautista De Benedictis confirmó su continuidad en el RUS Med Team para la temporada 2027 del TC",
+          "url": "https://necocheadigital.com/nota/120159/juan-bautista-de-benedictis-confirmo-su-continuidad-en-el-rus-med-team-para-la-temporada-2027-del-tc/",
           "published_at": null,
-          "first_seen": "2026-11-12T17:02:58.808294+00:00",
+          "first_seen": "2026-11-12T17:30:01.242380+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "Políticas gubernamentales han llevado a crisis económicas de gran magnitud, acarreando a individuos y familias al desempleo, conduciendo a endeudarse a comercios e instituciones, en muchos casos cerrando sus establecimientos para poder solventar sus necesidades básicas: alimentos, salud, vivienda, entre otros. La tragedia social continúa con la banalización de esta situación por parte de los Estados actores políticos y sectores de la ciudadanía que desmienten y niegan responsabilidad sobre lo que ellos mismos generan: un conflicto estructural “ Arréglese quien pueda y como pueda, que sobreviva el mas fuerte” generando amputaciones sociales, desestructuraciones psicológicas, biológicas y conductuales.",
-          "Se han incrementado la ansiedad, los suicidios, dificultades para dormir, las conductas antisociales, tanto como la disminución del rendimiento académico ."
+          "Juan Bautista De Benedictis oficializó su continuidad dentro del RUS Med Team para disputar la temporada 2027 del Turismo Carretera. El acuerdo se concretó cuando todavía restan dos competencias para finalizar el calendario vigente, permitiendo que el piloto local planifique el próximo año con antelación junto a la escudería dirigida por Mauro Medina.",
+          "Con esta firma, el corredor de 39 años se convirtió en el primer piloto confirmado por la estructura con sede en Arrecifes de cara al futuro campeonato. El proyecto deportivo mantendrá la misma base técnica que viene desarrollando durante el presente certamen, con el Ford Mustang atendido integralmente en el taller arrecifeño y la motorización a cargo de Próspero Bonelli."
         ],
-        "generated": "2026-11-12T17:03:42.109837+00:00"
+        "generated": "2026-11-12T17:30:53.412699+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-12T17:02:58.808294+00:00"
+      "ultima_impresion": "2026-11-12T17:30:01.242380+00:00"
     },
     {
-      "key": "club leones realiza controles gratuitos glucemia prevenir diabetes",
-      "title": "El Club de Leones realiza controles gratuitos de glucemia para prevenir la diabetes",
+      "key": "estacion quequen mataderos abren jueves eliminatorias liga necochea futbol",
+      "title": "Estación Quequén y Mataderos abren este jueves las eliminatorias de la Liga Necochea de Fútbol",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-11-12T17:02:58.808294+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/3b2309610b1f6f5e994318556c4ea05de736c63c.jpg",
+      "first_seen": "2026-11-12T17:30:01.242380+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261111183651_26b943cd-7002-4333-8aec-a58d8a9b50c0.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "El Club de Leones realiza controles gratuitos de glucemia para prevenir la diabetes",
-          "url": "https://necocheadigital.com/nota/120162/el-club-de-leones-realiza-controles-gratuitos-de-glucemia-para-prevenir-la-diabetes/",
+          "title": "Estación Quequén y Mataderos abren este jueves las eliminatorias de la Liga Necochea de Fútbol",
+          "url": "https://necocheadigital.com/nota/120158/estacion-quequen-y-mataderos-abren-este-jueves-las-eliminatorias-de-la-liga-necochea-de-futbol/",
           "published_at": null,
-          "first_seen": "2026-11-12T17:02:58.808294+00:00",
+          "first_seen": "2026-11-12T17:30:01.242380+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "En el marco de la Semana de la Diabetes, el Club de Leones de Necochea puso en marcha una campaña de controles gratuitos de glucemia, con el objetivo de facilitar la detección temprana de posibles alteraciones en los niveles de azúcar en sangre y promover hábitos saludables. La iniciativa se desarrolla en la sede de la institución, ubicada en avenida 58 Nº 3154, y continuará hasta el miércoles 18 de noviembre, con una interrupción el domingo. Los controles se realizan de 8 a 10 y requieren concurrir en ayunas, aunque está permitido tomar agua o mate amargo.",
-          "La propuesta fue explicada por Gloria Resuene, licenciada en Enfermería e integrante del Club de Leones que preside Emilce Valenzuela, durante una entrevista en el programa Voces de la Tarde , que conduce Jorge Gómez por Radio Noticias Necochea 97.3. “Una de las causas globales del Club de Leones es la diabetes, que está creciendo cada vez más a nivel mundial."
+          "El partido de ida del repechaje entre Estación Quequén y Mataderos se disputará este jueves 12 de noviembre desde las 16 en el estadio Carlos Cuomo, marcando el inicio de los playoffs por el título del Torneo 2026 \"Sergio 'Giuseppe' Portugal\" de Primera división masculina de la Liga Necochea de Fútbol, mientras que los cruces del torneo reducido por el ascenso aguardan la confirmación de su fecha oficial por parte de la entidad. La etapa decisiva del certamen local comienza formalmente con este primer compromiso confirmado de la llave eliminatoria. El duelo pondrá frente a frente al campeón de la Zona B con el cuarto clasificado de la Zona A.",
+          "El elenco quequenense llega a esta instancia tras adjudicarse su grupo bajo la conducción técnica de Abel Aníbal Coría, quien trabaja acompañado por sus hijos en el cuerpo técnico. Del otro lado estará el conjunto de Barrio Norte, que buscará sacar ventaja como visitante en el primer chico."
         ],
-        "generated": "2026-11-12T17:03:42.738384+00:00"
+        "generated": "2026-11-12T17:30:54.060137+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-12T17:02:58.808294+00:00"
+      "ultima_impresion": "2026-11-12T17:30:01.242380+00:00"
     },
     {
-      "key": "transito asistido ruta 228 camion detenido altura kilometro",
-      "title": "Tránsito asistido en la Ruta 228 por un camión detenido a la altura del kilómetro 6",
+      "key": "gobierno oficializo aumento 100 dni 30 pasaporte",
+      "title": "El Gobierno oficializó un aumento de hasta 100% en el DNI y 30% en el pasaporte",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-11-12T17:02:58.808294+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/5fba2c6acb2e8f02e394d02c6fa397c0f618ce29.jpg",
+      "first_seen": "2026-11-12T17:30:01.242380+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/88d31c2fb153bc64c1a44757699208cb1d409b7b.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Tránsito asistido en la Ruta 228 por un camión detenido a la altura del kilómetro 6",
-          "url": "https://necocheadigital.com/nota/120160/transito-asistido-en-la-ruta-228-por-un-camion-detenido-a-la-altura-del-kilometro-6/",
+          "title": "El Gobierno oficializó un aumento de hasta 100% en el DNI y 30% en el pasaporte",
+          "url": "https://necocheadigital.com/nota/120156/el-gobierno-oficializo-un-aumento-de-hasta-100-en-el-dni-y-30-en-el-pasaporte/",
           "published_at": null,
-          "first_seen": "2026-11-12T17:02:58.808294+00:00",
+          "first_seen": "2026-11-12T17:30:01.242380+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "Un camión quedó detenido sobre la calzada de la Ruta Nacional 228, a la altura del kilómetro 6, lo que genera complicaciones en la circulación vehicular. Ante esta situación, personal policial y de Defensa Civil se encuentra trabajando en el sector, implementando un operativo de tránsito asistido para ordenar el paso de los vehículos.",
-          "Desde las autoridades solicitaron a los conductores circular con precaución, reducir la velocidad y respetar las indicaciones del personal que trabaja en el lugar, debido a que la calzada se encuentra parcialmente obstruida. Se recomienda evitar maniobras de sobrepaso y extremar las medidas de seguridad al atravesar el sector."
+          "La medida fue formalizada mediante la Resolución 151/2026 de la Vicejefatura de Gabinete del Interior y las Disposiciones 755/2026 y 759/2026 del RENAPER, con el objetivo de garantizar la sustentabilidad financiera del organismo y mantener las inversiones en tecnología y seguridad documental. Actualización semestral por inflación La principal novedad del nuevo esquema es la creación de la Unidad Arancelaria Documental (UAD) , cuyo valor inicial se fijó en $1.000.",
+          "A partir de esta norma, los valores en pesos se actualizarán cada seis meses en función de la evolución del Índice de Precios al Consumidor (IPC) del INDEC, evitando así depender de decisiones administrativas aisladas. Los montos resultantes se redondearán al múltiplo de $500 más cercano y estarán publicados de forma continua en el portal oficial argentina.gob.ar ."
         ],
-        "generated": "2026-11-12T17:03:43.357571+00:00"
+        "generated": "2026-11-12T17:30:54.763185+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-12T17:02:58.808294+00:00"
+      "ultima_impresion": "2026-11-12T17:30:01.242380+00:00"
     },
     {
-      "key": "sergio nicolas detallo cambios ley transito principales infracciones distrito",
-      "title": "Sergio Nicolás detalló los cambios en la Ley de Tránsito y las principales infracciones en el distrito",
+      "key": "colegio abogados necochea volvio reunirse procurador general julio conte grand",
+      "title": "El Colegio de Abogados de Necochea volvió a reunirse con el procurador general Julio Conte-Grand",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-11-12T17:02:58.808294+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261110175845_20240703174200-whatsapp-image-2024-07-03-at-15-02-19.jpg",
+      "first_seen": "2026-11-12T17:30:01.242380+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261110175329_whatsapp-image-2026-11-09-at-5-25-07-pm.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Sergio Nicolás detalló los cambios en la Ley de Tránsito y las principales infracciones en el distrito",
-          "url": "https://necocheadigital.com/nota/120150/sergio-nicolas-detallo-los-cambios-en-la-ley-de-transito-y-las-principales-infracciones-en-el-distrito/",
+          "title": "El Colegio de Abogados de Necochea volvió a reunirse con el procurador general Julio Conte-Grand",
+          "url": "https://necocheadigital.com/nota/120149/el-colegio-de-abogados-de-necochea-volvio-a-reunirse-con-el-procurador-general-julio-conte-grand/",
           "published_at": null,
-          "first_seen": "2026-11-12T17:02:58.808294+00:00",
+          "first_seen": "2026-11-12T17:30:01.242380+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "La modificación de la Ley Provincial de Tránsito volvió a poner en debate las normas de circulación y las prioridades de paso en las esquinas. En Necochea y Quequén, donde la siniestralidad vial continúa siendo una preocupación, el director de Tránsito municipal, Sergio Nicolás, analizó los cambios y brindó datos sobre las infracciones y los accidentes registrados en el distrito. En una entrevista realizada por Quimey Marfil en Radio Noticias Necochea 97.3, el funcionario consideró que la actualización de la Ley 15.657 no generará grandes modificaciones en los hábitos de circulación locales, ya que buena parte de las nuevas disposiciones coincide con prácticas que, según explicó, los conductores de la ciudad ya venían aplicando.",
-          "“La modificación hoy, la principal, es el paso de la prioridad en lo que es las avenidas. La avenida tiene una circulación de 60 kilómetros por hora como máximo y las calles transversales 40."
+          "En el marco de una agenda de trabajo institucional, integrantes del Consejo Directivo del Colegio de Abogados de Necochea mantuvieron este jueves una nueva reunión con el procurador general de la Suprema Corte de Justicia de la provincia de Buenos Aires, doctor Julio Conte-Grand. El encuentro permitió retomar los temas abordados durante la anterior visita del funcionario, realizada en junio, realizar un balance de los avances registrados y coordinar los próximos pasos para avanzar en la concreción de las distintas gestiones.",
+          "Entre los asuntos tratados se destacaron las cuestiones relacionadas con el acceso al Sistema Informático del Ministerio Público (SIMP), la gestión de los organismos judiciales y otras iniciativas orientadas a mejorar el funcionamiento del servicio de justicia."
         ],
-        "generated": "2026-11-12T17:03:44.399927+00:00"
+        "generated": "2026-11-12T17:30:55.783944+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-12T17:02:58.808294+00:00"
-    },
-    {
-      "key": "oportunidad cruzar fronteras historia nico grande bordo cruceros",
-      "title": "Una oportunidad para cruzar fronteras y la historia de Nico Grande a bordo de cruceros",
-      "score": 1.087,
-      "sources_count": 1,
-      "first_seen": "2026-11-12T14:53:52+00:00",
-      "image": "https://cdnartic.ar/xDqflQGoZgUdnLE-9VLxllfTuKk=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/nico_grande.webp",
-      "articles": [
-        {
-          "portal": "Ecos Diarios",
-          "title": "Una oportunidad para cruzar fronteras y la historia de Nico Grande a bordo de cruceros",
-          "url": "https://elecos.com.ar/una-oportunidad-para-cruzar-fronteras-y-la-historia-de-nico-grande-a-bordo-de-cruceros",
-          "published_at": "2026-11-12T14:53:52+00:00",
-          "first_seen": "2026-11-12T17:02:58.808294+00:00",
-          "category": "ecos-radio",
-          "image": "https://cdnartic.ar/xDqflQGoZgUdnLE-9VLxllfTuKk=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/nico_grande.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Ecos Radio Añadir como fuente en De Quequén al mundo: trabaja en cruceros y regala una beca completa Nicolás Grande contó en Ecos Radio cómo unió sus pasiones por el cine y la fotografía con una experiencia laboral que lo lleva a recorrer distintos destinos internacionales 12 de noviembre de 2026 | 11:53 Nicolás Grande, fotógrafo quequenense, en Ecos Radio. Ads El quequenense Nicolás Grande encontró una manera de combinar sus dos pasiones, el cine y la fotografía , con una actividad laboral que le permite recorrer distintos lugares del mundo.",
-          "Después de estudiar cine y advertir las dificultades para insertarse en esa industria, decidió explorar otras posibilidades y se formó para trabajar en cruceros internacionales . Ads Durante una entrevista en el programa “Desde Temprano” , de Ecos Radio , contó cómo surgió esa decisión y qué implica trabajar a bordo de una embarcación."
-        ],
-        "generated": "2026-11-12T17:03:44.906694+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-12T17:02:58.808294+00:00"
+      "ultima_impresion": "2026-11-12T17:30:01.242380+00:00"
     },
     {
       "key": "acudieron pelea callejera terminaron atrapando profugo",
       "title": "Acudieron por una pelea callejera y terminaron atrapando a un prófugo",
-      "score": 0.995,
+      "score": 0.903,
       "sources_count": 1,
       "first_seen": "2026-11-12T14:47:46+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/FB_IMG_1794494701839.webp",
@@ -430,16 +515,16 @@
           "TSN Necochea | ‹ VOLVER | Locales | allanamiento | Procedimiento policial Acudieron por una pelea callejera y terminaron atrapando a un prófugo Personal del Comando de Patrullas intervino en una confrontación en calles 45 y 78. Al identificar a los involucrados, descubrieron que uno de ellos tenía un pedido de captura activo por robo agravado. Por Redacción TSN 12/11/2026 · 11:47 AM Agregar TSN Necochea en Efectivos del Comando de Patrullas de Necochea acudieron a la esquina de calles 45 y 78 tras una alerta por una pelea entre varias personas .",
           "Sin embargo, lo que comenzó como una intervención por disturbios terminó con la detención de un prófugo . ​Al identificar a los involucrados, los agentes consultaron el sistema informático policial y descubrieron que uno de los hombres tenía un pedido de captura activo por robo agravado por el uso de armas , solicitado desde el 2 de noviembre por el Juzgado de Garantías N.º 2 de Mar del Plata."
         ],
-        "generated": "2026-11-12T17:03:45.776618+00:00"
+        "generated": "2026-11-12T17:30:56.673755+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-12T17:02:58.808294+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-12T17:30:01.242380+00:00",
+      "penalizacion": 0.943
     },
     {
       "key": "92 anos naufragio vapor griego perdio aguas quequen",
       "title": "A 92 años del naufragio del vapor griego que se perdió en aguas del Quequén",
-      "score": 0.96,
+      "score": 0.872,
       "sources_count": 1,
       "first_seen": "2026-11-12T14:22:21+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/Foto-Goulandris.webp",
@@ -459,16 +544,16 @@
           "TSN Necochea | ‹ VOLVER | Generales | Goulandris | Efemérides A 92 años del naufragio del vapor griego que se perdió en aguas del Quequén Tras quedar varada, la embarcación no pudo ser recuperada. Por Redacción TSN 12/11/2026 · 11:22 AM Agregar TSN Necochea en Un día como hoy, pero de 1934, el vapor griego Marionga J. Goulandris encallaba pocos minutos después de salir del puerto , protagonizando uno de los tantos episodios que forman parte de la historia marítima de la región.",
           "La embarcación había cargado unas 6.000 toneladas de cereal, pero tras quedar varada no pudo ser recuperada y terminó perdiéndose totalmente. El hecho es recordado por el área de Museos del Parque Miguel Lillo y suma un nuevo capítulo a las numerosas historias de barcos y naufragios que guardan las aguas del río Quequén. GOULANDRIS MUSEOS PUERTO Seguinos en redes"
         ],
-        "generated": "2026-11-12T17:03:46.523430+00:00"
+        "generated": "2026-11-12T17:30:57.366214+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-12T17:02:58.808294+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-12T17:30:01.242380+00:00",
+      "penalizacion": 0.943
     },
     {
       "key": "anita luz no apaga hoy estrena necochea documental cuenta historia",
       "title": "“Anita, una luz que no se apaga”: hoy se estrena en Necochea el documental que cuenta su historia",
-      "score": 0.921,
+      "score": 0.836,
       "sources_count": 1,
       "first_seen": "2026-11-12T16:04:00+00:00",
       "image": "http://nden.com.ar/uploads/noticias/5/2026/11/1e2f0ec40b4910e817e7c84275d257bb1ef3ad1b.jpg",
@@ -487,45 +572,16 @@
         "paragraphs": [
           "ESTRENO EN EL CINE TEATRO TOLEDO “Anita, una luz que no se apaga”: hoy se estrena en Necochea el documental que cuenta su historia"
         ],
-        "generated": "2026-11-12T17:03:47.643895+00:00"
+        "generated": "2026-11-12T17:30:58.148881+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-12T17:02:58.808294+00:00"
-    },
-    {
-      "key": "montan operativo vacunacion antirrabica villa caso positivo murcielago",
-      "title": "Montan un operativo de vacunación antirrábica en la Villa por un caso positivo en un murciélago",
-      "score": 0.876,
-      "sources_count": 1,
-      "first_seen": "2026-11-12T13:16:21+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/03/ILUSTRATIVA-Murcielago.jpg",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Montan un operativo de vacunación antirrábica en la Villa por un caso positivo en un murciélago",
-          "url": "https://tsnnecochea.com.ar/generales/montan-un-operativo-de-vacunacion-antirrabica-en-la-villa-por-un-caso-positivo-en-un-murcielago-242140/",
-          "published_at": "2026-11-12T13:16:21+00:00",
-          "first_seen": "2026-11-12T17:02:58.808294+00:00",
-          "category": "bromatologia",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/03/ILUSTRATIVA-Murcielago.jpg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Generales | bromatologia | Bromatología Montan un operativo de vacunación antirrábica en la Villa por un caso positivo en un murciélago Atención vecinos de la playa para este viernes. Por Redacción TSN 12/11/2026 · 10:16 AM Agregar TSN Necochea en La Dirección de Bromatología e Higiene, dependiente de la Secretaria de Salud Pública, confirmó la detección de un caso positivo de rabia en murciélago , el cual mantuvo contacto con una mascota en zona de la villa balnearia de la ciudad.",
-          "En seguimiento a los protocolos sanitarios, se dispondrá para este viernes 13 de noviembre, a partir de las 9 hs ., un operativo de vacunación preventiva , alrededor de un radio de 200 metros del punto de detección a fin de reforzar y proteger la salud pública."
-        ],
-        "generated": "2026-11-12T17:03:48.678095+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-12T17:02:58.808294+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-12T17:30:01.242380+00:00",
+      "penalizacion": 0.943
     },
     {
       "key": "squash necochense sigue creciendo titulos nacionales plaza sudamericano",
       "title": "El squash necochense sigue creciendo: títulos nacionales y una plaza para el Sudamericano",
-      "score": 0.804,
+      "score": 0.73,
       "sources_count": 1,
       "first_seen": "2026-11-12T14:25:59+00:00",
       "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/4a255f62-11b7-428a-9d94-fd40f109360b-edited.jpg",
@@ -545,16 +601,16 @@
           "El squash necochense sigue creciendo: títulos nacionales y una plaza para el Sudamericano Necochea fue sede de la última fecha del Campeonato Nacional de Menores, que se disputó en el complejo del Club Villa Díaz Vélez. Isidro Ortiz se consagró campeón en Sub-11 y también obtuvo el título anual, mientras que Tomy Decker se quedó con el campeonato nacional Sub-17 y logró la clasificación al Sudamericano de Medellín.",
           "El squash de Necochea atraviesa un gran presente y volvió a demostrar su crecimiento con una destacada actuación en la última fecha del Campeonato Nacional de Menores, que se desarrolló durante el último fin de semana en el complejo del Club Villa Díaz Vélez."
         ],
-        "generated": "2026-11-12T17:03:50.753048+00:00"
+        "generated": "2026-11-12T17:31:01.006283+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-12T17:02:58.808294+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-12T17:30:01.242380+00:00",
+      "penalizacion": 0.943
     },
     {
       "key": "rivadavia prepara 21 edicion encuentro minibasquet femenino",
       "title": "Rivadavia se prepara para la 21ª edición del Encuentro de Minibásquet Femenino",
-      "score": 0.797,
+      "score": 0.723,
       "sources_count": 1,
       "first_seen": "2026-11-12T14:19:26+00:00",
       "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/edd907ab-3670-4753-9684-3a8fcd2fa537-edited.jpg",
@@ -574,16 +630,16 @@
           "El tradicional evento se realizará este sábado 14 y domingo 15 de noviembre en el Piso de los Deportes del Club Atlético Rivadavia. Participarán delegaciones de distintos puntos de la región y de Buenos Aires, en dos jornadas que combinarán básquet, recreación, amistad y turismo.",
           "El básquet femenino del Club Atlético Rivadavia se prepara para vivir una nueva edición de uno de sus acontecimientos más importantes: el 21° Encuentro de Minibásquet Femenino , que tendrá lugar este fin de semana, los días 14 y 15 de noviembre, en el Piso de los Deportes. En diálogo con Zoom, la entrenadora Fabrina Labarthe y Emmanuel Cappone, integrantes de la subcomisión de básquet femenino, brindaron detalles de la organización y destacaron el trabajo conjunto de entrenadores, jugadoras y familias para llevar adelante un evento que ya es un clásico de la ciudad."
         ],
-        "generated": "2026-11-12T17:03:52.797324+00:00"
+        "generated": "2026-11-12T17:31:03.559989+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-12T17:02:58.808294+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-12T17:30:01.242380+00:00",
+      "penalizacion": 0.943
     },
     {
       "key": "alertan camion averiado ruta 228",
       "title": "Alertan por un camión averiado en la Ruta 228",
-      "score": 0.78,
+      "score": 0.708,
       "sources_count": 1,
       "first_seen": "2026-11-12T11:52:53+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/Ruta-228-cortada.webp",
@@ -603,16 +659,16 @@
           "TSN Necochea | ‹ VOLVER | Generales | 228 | Kilómetro 6 Alertan por un camión averiado en la Ruta 228 Se solicita a los conductores transitar con máxima precaución Por Redacción TSN 12/11/2026 · 08:52 AM Agregar TSN Necochea en Un camión se encuentra averiado sobre la calzada de la Ruta Nacional 228, a la altura del kilómetro 6 , por lo que personal de Policía Vial Quequén trabaja en el lugar realizando tareas de tránsito asistido. Debido a que la circulación se encuentra reducida, se solicita a los conductores transitar con máxima precaución y respetar las indicaciones del personal policial.",
           "La información fue difundida por Policía Vial Quequén. 228 CAMIÓN POLICIA RUTA VIAL Seguinos en redes"
         ],
-        "generated": "2026-11-12T17:03:53.465679+00:00"
+        "generated": "2026-11-12T17:31:04.535186+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-12T17:02:58.808294+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-12T17:30:01.242380+00:00",
+      "penalizacion": 0.943
     },
     {
       "key": "hector nito escobar cumplio sueno todo triatleta parte mundial ironman hawai",
       "title": "Héctor “Nito” Escobar cumplió el sueño de todo triatleta: fue parte del Mundial de Ironman en Hawái",
-      "score": 0.776,
+      "score": 0.704,
       "sources_count": 1,
       "first_seen": "2026-11-12T13:59:57+00:00",
       "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/de175457-984b-4841-acff-5f8c5d4643de.jpg",
@@ -632,45 +688,16 @@
           "El deportista necochense se convirtió en el primer representante de la ciudad en participar del Mundial de Ironman, disputado en Kona, Hawái. En Zoom El Deportivo, compartió las sensaciones de una experiencia inolvidable, las exigencias de la competencia, el camino que lo llevó hasta allí y sus próximos desafíos deportivos. El necochense, primer y hasta el momento único representante de Necochea en llegar a esta competencia, visitó los estudios de Nec Radio y relató los detalles de un viaje que significó mucho más que una carrera: fue la concreción de un objetivo que había perseguido durante años.",
           "Su clasificación llegó a través del programa Legacy , una modalidad que reconoce la trayectoria y la constancia de los deportistas que completaron al menos 12 competencias de distancia Ironman. De esta manera, Escobar accedió a una plaza mundialista como reconocimiento a su recorrido dentro de la disciplina."
         ],
-        "generated": "2026-11-12T17:03:55.614013+00:00"
+        "generated": "2026-11-12T17:31:06.546464+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-12T17:02:58.808294+00:00"
-    },
-    {
-      "key": "cooperadora hospital ferreyra invirtio 000 000 equipamiento neumonologia",
-      "title": "La Cooperadora del Hospital Ferreyra invirtió más de $6.000.000 en equipamiento para Neumonología",
-      "score": 0.756,
-      "sources_count": 1,
-      "first_seen": "2026-11-12T11:30:18+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/cooperadora.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "La Cooperadora del Hospital Ferreyra invirtió más de $6.000.000 en equipamiento para Neumonología",
-          "url": "https://tsnnecochea.com.ar/locales/la-cooperadora-del-hospital-ferreyra-invirtio-mas-de-6-000-000-en-equipamiento-para-neumonologia-242105/",
-          "published_at": "2026-11-12T11:30:18+00:00",
-          "first_seen": "2026-11-12T17:02:58.808294+00:00",
-          "category": "cooperadora",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/cooperadora.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Locales | cooperadora | Salud La Cooperadora del Hospital Ferreyra invirtió más de $6.000.000 en equipamiento para Neumonología La entidad adquirió un polígrafo para detectar trastornos del sueño y un dispositivo AutoCPAP de última generación, que se suman a una computadora instalada recientemente en el área. Por Redacción TSN 12/11/2026 · 08:30 AM Agregar TSN Necochea en La Asociación Cooperadora del Hospital Municipal Dr.",
-          "Emilio Ferreyra concretó una nueva entrega de aparatología médica de alta complejidad destinada al servicio de Neumonología , en el marco de su labor sostenida para fortalecer el sistema de salud pública local y optimizar la atención a los pacientes del distrito. La inversión global realizada por la entidad solidaria ascendió a $6.059.574 , permitiendo dotar al área de herramientas clave tanto para el diagnóstico preciso como para el abordaje terapéutico de patologías respiratorias."
-        ],
-        "generated": "2026-11-12T17:03:56.277759+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-12T17:02:58.808294+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-12T17:30:01.242380+00:00",
+      "penalizacion": 0.943
     },
     {
       "key": "donar sangre necochea petrarca mostro proceso primera persona llamo perder miedo",
       "title": "Donar sangre en Necochea: Petrarca mostró el proceso en primera persona y llamó a perder el miedo",
-      "score": 0.726,
+      "score": 0.659,
       "sources_count": 1,
       "first_seen": "2026-11-12T13:11:59+00:00",
       "image": null,
@@ -690,16 +717,16 @@
           "La doctora María Emilia Petrarca concretó la iniciativa impulsada junto a Multimedio NQ y donó sangre en el Hospital Emilio Ferreyra. Desde el Servicio de Hemoterapia remarcaron que la donación funciona de lunes a viernes, que no es necesario concurrir en ayunas y que uno de los principales obstáculos sigue siendo la desinformación. “No llegué a diez minutos”, contó Petrarca después de donar.",
           "Desde el Hospital Emilio Ferreyra y charlando con Fede Cañadas en “Esta Mañana”, por NEC Radio 98.3 del Multimedio NQ, María Emilia Petrarca llevó a la práctica la campaña de donación voluntaria de sangre impulsada junto a Multimedio NQ , mostrando en primera persona cómo es el procedimiento e invitando a la comunidad a sumarse. La actividad fue transmitida desde el propio Servicio de Hemoterapia, donde Petrarca realizó la entrevista previa, pasó al sillón de extracción y completó la donación en pocos minutos."
         ],
-        "generated": "2026-11-12T17:03:58.480439+00:00"
+        "generated": "2026-11-12T17:31:08.284262+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-12T17:02:58.808294+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-12T17:30:01.242380+00:00",
+      "penalizacion": 0.943
     },
     {
       "key": "mauro cabrera destaco presente atletismo necochense hemos naturalizado posible tener campeones argentinos",
       "title": "Mauro Cabrera destacó el presente del atletismo necochense: “Hemos naturalizado que es posible tener campeones argentinos”",
-      "score": 0.672,
+      "score": 0.61,
       "sources_count": 1,
       "first_seen": "2026-11-12T12:16:22+00:00",
       "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/83df549b-ed4c-48cf-b60b-17dd43b33a62.jpg",
@@ -719,16 +746,16 @@
           "El director de la Escuela Municipal de Atletismo pasó por los micrófonos de Zoom El Deportivo y realizó un balance de la temporada 2026. También habló sobre los resultados de los atletas locales, la proyección de Santino Marchetti, el crecimiento de la escuela y la importancia del sentido de pertenencia con el Polideportivo.",
           "Como cada martes, el espacio dedicado al atletismo tuvo su lugar en Zoom, con la visita del profesor Mauro Cabrera, director de la Escuela Municipal de Atletismo, quien repasó la actualidad de los deportistas necochenses y compartió su mirada sobre el crecimiento de la disciplina en la ciudad. Uno de los primeros temas estuvo relacionado con la destacada participación de los atletas locales en la media maratón de Mar del Plata, competencia que reunió a unos 13.000 corredores en las distancias de 21, 10 y 5 kilómetros."
         ],
-        "generated": "2026-11-12T17:04:00.472200+00:00"
+        "generated": "2026-11-12T17:31:10.420851+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-12T17:02:58.808294+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-12T17:30:01.242380+00:00",
+      "penalizacion": 0.943
     },
     {
       "key": "demandan google uso inteligencia artificial caso involucra adolescente",
       "title": "Demandan a Google por el uso de su inteligencia artificial en un caso que involucra a una adolescente",
-      "score": 0.664,
+      "score": 0.603,
       "sources_count": 1,
       "first_seen": "2026-11-12T12:08:33+00:00",
       "image": null,
@@ -748,16 +775,16 @@
           "Una familia de Carolina del Norte, Estados Unidos, presentó una demanda contra Google y cuestionó los mecanismos de seguridad de sus herramientas de inteligencia artificial. Los padres de una adolescente de 13 años sostienen que su hija utilizó funciones de IA integradas en el buscador para preparar una carta de despedida y organizar su funeral. Según la presentación judicial, la menor, identificada como Emma, accedía a estas herramientas desde una Chromebook proporcionada por su escuela.",
           "Aunque la institución había bloqueado el acceso directo a plataformas como Gemini y ChatGPT, la adolescente podía utilizar funciones de inteligencia artificial incorporadas en Google Search. La familia sostiene que, después de varios meses de interacción con estas herramientas, la joven comenzó a atravesar una grave crisis emocional."
         ],
-        "generated": "2026-11-12T17:04:06.271838+00:00"
+        "generated": "2026-11-12T17:31:14.623053+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-12T17:02:58.808294+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-12T17:30:01.242380+00:00",
+      "penalizacion": 0.943
     },
     {
       "key": "feriado visita papa movio turismo costa atlantica paso necochea",
       "title": "El feriado por la visita del Papa movió el turismo en la Costa Atlántica: qué pasó en Necochea",
-      "score": 0.656,
+      "score": 0.595,
       "sources_count": 1,
       "first_seen": "2026-11-12T11:59:00+00:00",
       "image": "http://nden.com.ar/uploads/noticias/5/2026/11/3bff1ab6c8cae8a2aede22c3e9470b9240ee57a1.jpg",
@@ -776,16 +803,16 @@
         "paragraphs": [
           "Balance turístico El feriado por la visita del Papa movió el turismo en la Costa Atlántica: qué pasó en Necochea"
         ],
-        "generated": "2026-11-12T17:04:06.920616+00:00"
+        "generated": "2026-11-12T17:31:15.623456+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-12T17:02:58.808294+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-12T17:30:01.242380+00:00",
+      "penalizacion": 0.943
     },
     {
       "key": "zidane mbappe relacion empieza mostrar diferencias seleccion francia",
       "title": "Zidane y Mbappé, una relación que empieza a mostrar diferencias en la Selección de Francia",
-      "score": 0.652,
+      "score": 0.592,
       "sources_count": 1,
       "first_seen": "2026-11-12T11:55:05+00:00",
       "image": null,
@@ -805,16 +832,16 @@
           "La llegada de Zinedine Zidane al banco de la Selección de Francia parece haber abierto un nuevo escenario en la convivencia de sus principales figuras. Según publicó el diario francés L’Équipe, la relación entre el entrenador y Kylian Mbappé no atraviesa su momento más fluido, luego de una decisión táctica que habría generado cierta incomodidad en el capitán. El punto de conflicto se originó durante la concentración de septiembre, la primera bajo la conducción de Zidane.",
           "El técnico decidió ubicar a Mbappé sobre el sector izquierdo del ataque y darle a Ousmane Dembélé la posición de centrodelantero, una modificación que, de acuerdo con el medio francés, pudo ser interpretada como un cambio en las jerarquías dentro del equipo. Aunque el delantero del Real Madrid ya se desempeñó en esa posición a lo largo de su carrera, su preferencia es jugar cerca del área y contar con libertad para definir."
         ],
-        "generated": "2026-11-12T17:04:13.598148+00:00"
+        "generated": "2026-11-12T17:31:19.264653+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-12T17:02:58.808294+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-12T17:30:01.242380+00:00",
+      "penalizacion": 0.943
     },
     {
       "key": "aumentan precios dni pasaporte cuanto costara hacer tramites noviembre",
       "title": "Aumentan los precios del DNI y el pasaporte: cuánto costará hacer los trámites desde noviembre",
-      "score": 0.643,
+      "score": 0.584,
       "sources_count": 1,
       "first_seen": "2026-11-12T11:45:27+00:00",
       "image": null,
@@ -834,16 +861,16 @@
           "El Registro Nacional de las Personas (Renaper) oficializó un incremento del 30% en los valores de los pasaportes y de hasta el 100% en los trámites del Documento Nacional de Identidad. Con las nuevas tarifas, el pasaporte regular costará $130.000 y el DNI común pasará a valer $20.000. También se modificaron los requisitos para acceder a la documentación gratuita.",
           "El Registro Nacional de las Personas (Renaper) dispuso una actualización de los valores para tramitar el Documento Nacional de Identidad (DNI) y los pasaportes argentinos, con aumentos que alcanzan el 30% en los documentos de viaje y hasta el 100% en el DNI. La medida fue formalizada mediante distintas disposiciones publicadas en el Boletín Oficial y tendrá impacto en todo el país, incluidos los vecinos de Necochea y Quequén que necesiten realizar trámites de documentación durante las próximas semanas."
         ],
-        "generated": "2026-11-12T17:04:15.814876+00:00"
+        "generated": "2026-11-12T17:31:21.465875+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-12T17:02:58.808294+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-12T17:30:01.242380+00:00",
+      "penalizacion": 0.943
     },
     {
       "key": "polemica sacude nvidia investigan vinculos ceo presunta espia china",
       "title": "La polémica que sacude a Nvidia: investigan los vínculos de su CEO con una presunta espía china",
-      "score": 0.631,
+      "score": 0.573,
       "sources_count": 1,
       "first_seen": "2026-11-12T11:31:51+00:00",
       "image": null,
@@ -863,16 +890,16 @@
           "La compañía tecnológica Nvidia quedó en el centro de una controversia internacional luego de que trascendieran los vínculos personales de su fundador y director ejecutivo, Jensen Huang, con una empresaria china sospechada por las autoridades estadounidenses de colaborar con los servicios de inteligencia de ese país. El caso abrió interrogantes sobre la seguridad de la información estratégica de la empresa, una de las principales protagonistas del desarrollo mundial de la inteligencia artificial.",
           "También provocó repercusiones en los mercados financieros y motivó pedidos de explicaciones en el Congreso de Estados Unidos. Huang reconoció ante los empleados de Nvidia haber mantenido una relación extramatrimonial, aunque no identificó públicamente a la mujer involucrada ni admitió haber compartido información confidencial."
         ],
-        "generated": "2026-11-12T17:04:19.707261+00:00"
+        "generated": "2026-11-12T17:31:25.302352+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-12T17:02:58.808294+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-12T17:30:01.242380+00:00",
+      "penalizacion": 0.943
     },
     {
       "key": "inflacion octubre conocera jueves consultoras estiman rondara",
       "title": "La inflación de octubre se conocerá este jueves y las consultoras estiman que rondará el 2%",
-      "score": 0.578,
+      "score": 0.525,
       "sources_count": 1,
       "first_seen": "2026-11-12T10:28:49+00:00",
       "image": null,
@@ -892,11 +919,11 @@
           "El Instituto Nacional de Estadística y Censos (Indec) dará a conocer este jueves el índice de inflación correspondiente a octubre. Las estimaciones de las principales consultoras económicas anticipan que el aumento de precios se habría ubicado entre el 1,8% y el 2,1%, en línea con el registro de septiembre, que fue del 1,9%. Los relevamientos privados muestran que todavía existen dificultades para profundizar la desaceleración inflacionaria, especialmente por los incrementos en distintos servicios, entre ellos transporte y salud, cuyos ajustes suelen estar vinculados a la evolución de los precios del mes anterior.",
           "Qué proyectan las consultoras Entre las estimaciones difundidas, Equilibra calculó que la inflación de octubre habría alcanzado el 1,8%. Dentro de ese relevamiento, los precios regulados también habrían aumentado un 1,8%, aunque el transporte público registró una suba del 3,3%."
         ],
-        "generated": "2026-11-12T17:04:23.302753+00:00"
+        "generated": "2026-11-12T17:31:29.297432+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-12T17:02:58.808294+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-12T17:30:01.242380+00:00",
+      "penalizacion": 0.943
     }
   ]
 }
