@@ -1,12 +1,513 @@
 {
-  "generated_at": "2026-11-13T12:30:01.012664+00:00",
+  "generated_at": "2026-11-13T13:00:00.774887+00:00",
   "article_count": 120,
   "fetch_errors": [],
   "stories": [
     {
+      "key": "advierten fuertes tormentas necochea region rige alerta amarilla",
+      "title": "​Alerta amarilla por tormentas fuertes, ráfagas y posible granizo en Necochea y la región",
+      "score": 1.592,
+      "sources_count": 2,
+      "first_seen": "2026-11-13T05:54:34+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2023/10/tormenta-campo.jpg",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "​Alerta amarilla por tormentas fuertes, ráfagas y posible granizo en Necochea y la región",
+          "url": "https://tsnnecochea.com.ar/locales/alerta-amarilla-por-tormentas-fuertes-rafagas-y-posible-granizo-en-necochea-y-la-region-242225/",
+          "published_at": "2026-11-13T05:54:34+00:00",
+          "first_seen": "2026-11-13T13:00:00.774887+00:00",
+          "category": "alerta amarillo",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2023/10/tormenta-campo.jpg"
+        },
+        {
+          "portal": "Necochea Digital",
+          "title": "Advierten por fuertes tormentas en Necochea y la región: rige una alerta amarilla",
+          "url": "https://necocheadigital.com/nota/120175/advierten-por-fuertes-tormentas-en-necochea-y-la-region-rige-una-alerta-amarilla/",
+          "published_at": null,
+          "first_seen": "2026-11-13T13:00:00.774887+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Locales | alerta amarillo | El tiempo ​Alerta amarilla por tormentas fuertes, ráfagas y posible granizo en Necochea y la región El Servicio Meteorológico Nacional anunció un marcado descenso de la temperatura y precipitaciones de variada intensidad para este viernes, con acumulados que podrían superar los 50 milímetros. Por Redacción TSN 13/11/2026 · 02:54 AM Alerta por tormentas fuertes - Foto Info Campo Agregar TSN Necochea en El Servicio Meteorológico Nacional (SMN) emitió una alerta amarilla por tormentas para este viernes en Necochea, Quequén y la región , donde se esperan lluvias de variada intensidad, ráfagas de viento y ocasional caída de granizo .",
+          "​Luego de una jornada con temperaturas que alcanzaron los 22 grados , las condiciones meteorológicas comenzarán a desmejorar durante la tarde/noche con la llegada de precipitaciones y tormentas."
+        ],
+        "generated": "2026-11-13T13:00:40.992028+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-13T13:00:00.774887+00:00"
+    },
+    {
+      "key": "liga necochea futbol local horarios partidos fin semana",
+      "title": "Liga Necochea de Fútbol local: horarios y partidos del fin de semana",
+      "score": 1.218,
+      "sources_count": 1,
+      "first_seen": "2026-11-13T12:12:55+00:00",
+      "image": "https://cdnartic.ar/AbIa7OyrMAseO0BIMf53PiZm1hU=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/liga_necochea_de_futbol_5.webp",
+      "articles": [
+        {
+          "portal": "Ecos Diarios",
+          "title": "Liga Necochea de Fútbol local: horarios y partidos del fin de semana",
+          "url": "https://elecos.com.ar/liga-necochea-de-futbol-local-horarios-y-partidos-del-fin-de-semana",
+          "published_at": "2026-11-13T12:12:55+00:00",
+          "first_seen": "2026-11-13T13:00:00.774887+00:00",
+          "category": "11",
+          "image": "https://cdnartic.ar/AbIa7OyrMAseO0BIMf53PiZm1hU=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/liga_necochea_de_futbol_5.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Deportes locales Añadir como fuente en Liga Necochea de Fútbol local: horarios y partidos del fin de semana Primera división tendrá semifinales de reducido y el repechaje, mientras que las inferiores jugarán los cuartos de final 13 de noviembre de 2026 | 09:12 Independiente recibe a Huracán en Lobería, por el reducido de la Zona B Ads La Liga Necochea de Fútbol tendrá un nuevo fin de semana de definiciones, con actividad en las categorías Primera división , Sexta y Reserva del Torneo Sergio “Giuseppe” Portugal 2026 . La programación incluirá las semifinales del reducido de la Zona B, que definirán a los equipos que irán por un lugar en la promoción, la revancha del repechaje entre Mataderos y Estación Quequén y los cruces de ida de los cuartos de final en las divisiones formativas.",
+          "Ads Primera división La atención estará puesta en las dos semifinales del reducido de la Zona B, que se disputarán el sábado a partido único."
+        ],
+        "generated": "2026-11-13T13:00:42.416631+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-13T13:00:00.774887+00:00"
+    },
+    {
+      "key": "clementina nicolas voluntaria visita papa xiv argentina experiencia unica",
+      "title": "Clementina Nicolás, voluntaria en la visita del Papa XIV a la Argentina: \"Fue una experiencia única\"",
+      "score": 1.199,
+      "sources_count": 1,
+      "first_seen": "2026-11-13T12:01:35+00:00",
+      "image": "https://cdnartic.ar/6IJolbWGluf6vJMq94pjZIhR21Y=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/clementina_nicolas.webp",
+      "articles": [
+        {
+          "portal": "Ecos Diarios",
+          "title": "Clementina Nicolás, voluntaria en la visita del Papa XIV a la Argentina: \"Fue una experiencia única\"",
+          "url": "https://elecos.com.ar/clementina-nicolas-voluntaria-en-la-visita-del-papa-xiv-a-la-argentina-fue-una-experiencia-unica",
+          "published_at": "2026-11-13T12:01:35+00:00",
+          "first_seen": "2026-11-13T13:00:00.774887+00:00",
+          "category": "ecos-radio",
+          "image": "https://cdnartic.ar/6IJolbWGluf6vJMq94pjZIhR21Y=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/clementina_nicolas.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Ecos Radio Añadir como fuente en Clementina Nicolás, voluntaria en la visita del Papa XIV a la Argentina: \"Fue una experiencia única\" 13 de noviembre de 2026 | 09:01 Ads La médica generalista dialogó con Punto de Vista y contó su experiencia como parte del operativo de prevención que estuvo presente en Luján , durante la visita del Papa León XIV.",
+          "Escuchá la nota completa: Ads Ads Ads Temas Papa León XIV Comentarios Para comentar, debés estar registrado Por favor, iniciá sesión INGRESA Ads Ads"
+        ],
+        "generated": "2026-11-13T13:00:43.672851+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-13T13:00:00.774887+00:00"
+    },
+    {
+      "key": "eduardo feinmann quedo oro edicion 30 martin fierro cable",
+      "title": "Eduardo Feinmann se quedó con el oro en la edición 30 de los Martín Fierro de Cable",
+      "score": 1.157,
+      "sources_count": 1,
+      "first_seen": "2026-11-13T11:36:05+00:00",
+      "image": "https://cdnartic.ar/KFBJwg6kVnZATSckN--Te-58hoU=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/eduardo_feimann.webp",
+      "articles": [
+        {
+          "portal": "Ecos Diarios",
+          "title": "Eduardo Feinmann se quedó con el oro en la edición 30 de los Martín Fierro de Cable",
+          "url": "https://elecos.com.ar/eduardo-feinmann-se-quedo-con-el-oro-en-la-edicion-30-de-los-martin-fierro-de-cable",
+          "published_at": "2026-11-13T11:36:05+00:00",
+          "first_seen": "2026-11-13T12:30:01.012664+00:00",
+          "category": "104",
+          "image": "https://cdnartic.ar/KFBJwg6kVnZATSckN--Te-58hoU=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/eduardo_feimann.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Espectáculos y arte Añadir como fuente en Eduardo Feinmann se quedó con el oro en la edición 30 de los Martín Fierro de Cable El periodista fue distinguido con el máximo galardón en una ceremonia que premió a lo mejor de la televisión de cable emitida durante 2025. 13 de noviembre de 2026 | 08:36 Eduardo Feimann se llevó este jueves el galardón de oro en la edición número 30 de los premios Martín Fierro de Cable Ads En una gala celebrada en el Goldcenter, el periodista Eduardo Feinmann obtuvo el premio de oro en la edición número 30 de los Martín Fierro de Cable .",
+          "El evento, organizado por la Asociación de Periodistas de la Televisión y la Radiofonía Argentinas (APTRA) , reconoció la labor de los profesionales y las producciones destacadas durante 2025. Ads La ceremonia fue conducida por Marina Calabró y Sergio Lapegüe , y contó con la presencia de numerosas figuras del medio."
+        ],
+        "generated": "2026-11-13T13:01:21.158722+00:00"
+      },
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-13T13:00:00.774887+00:00",
+      "penalizacion": 1.0
+    },
+    {
+      "key": "quinta division nautico necochense cerro gran campana subcampeonato tres arroyos",
+      "title": "La Quinta división del Náutico necochense cerró una gran campaña con el subcampeonato en Tres Arroyos",
+      "score": 1.153,
+      "sources_count": 1,
+      "first_seen": "2026-11-13T12:31:00+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/Foto-5ta-Nautico2.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "La Quinta división del Náutico necochense cerró una gran campaña con el subcampeonato en Tres Arroyos",
+          "url": "https://tsnnecochea.com.ar/deportes/la-quinta-division-del-nautico-necochense-cerro-una-gran-campana-con-el-subcampeonato-en-tres-arroyos-242235/",
+          "published_at": "2026-11-13T12:31:00+00:00",
+          "first_seen": "2026-11-13T13:00:00.774887+00:00",
+          "category": "Hockey",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/Foto-5ta-Nautico2.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Deportes | Hockey | Hockey La Quinta división del Náutico necochense cerró una gran campaña con el subcampeonato en Tres Arroyos El equipo necochense disputó la final del torneo frente a TARHC de Tres Arroyos y, luego de un encuentro muy parejo, la definición se resolvió mediante shootouts. Por Redacción TSN 13/11/2026 · 09:31 AM Agregar TSN Necochea en La Quinta división de hockey del Club Náutico de Necochea tuvo un destacado cierre de temporada al consagrarse subcampeona del torneo de Tres Arroyos , luego de protagonizar una final muy disputada frente a TARHC de dicha ciudad bonaerense.",
+          "El encuentro se jugó el pasado sábado y tuvo una marcada paridad entre ambos equipos, que dejaron todo en busca del título. Sin embargo, al no poder establecer diferencias durante el partido, la definición debió trasladarse a los shootouts, donde finalmente se resolvió el campeonato en favor del conjunto tresarroyense."
+        ],
+        "generated": "2026-11-13T13:01:22.241852+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-13T13:00:00.774887+00:00"
+    },
+    {
+      "key": "sabado reducido domingo revancha cuartos primera final femenina",
+      "title": "Sábado con reducido de la B y domingo con revancha de cuartos y primera final femenina",
+      "score": 1.106,
+      "sources_count": 1,
+      "first_seen": "2026-11-13T12:01:04+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/Screenshot_20261112_1818242.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Sábado con reducido de la B y domingo con revancha de cuartos y primera final femenina",
+          "url": "https://tsnnecochea.com.ar/deportes/sabado-con-reducido-de-la-b-y-domingo-con-revancha-de-cuartos-y-primera-final-femenina-242231/",
+          "published_at": "2026-11-13T12:01:04+00:00",
+          "first_seen": "2026-11-13T12:30:01.012664+00:00",
+          "category": "cuartos",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/Screenshot_20261112_1818242.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Deportes | cuartos | Liga Necochea de Fútbol Sábado con reducido de la B y domingo con revancha de cuartos y primera final femenina Así es el mapa del fútbol local para este fin de semana. Por Redacción TSN 13/11/2026 · 09:01 AM Agregar TSN Necochea en El fútbol de la Liga Necochea entra en plena etapa de definiciones y para este fin de semana hay cuatro partidos en el orden de la Primera División. El sábado se jugarán los reducidos de la zona B a partido único, mientras que el domingo se juega la revancha de cuartos de final y la primera final femenina.",
+          "En el reducido de la B, se recuerda que Independiente Lobería y Gimnasia tienen la ventaja de localía en el partido único, pero si hay empates la definición será por penales. Para el domingo, Mataderos buscará revertir la serie ante Estación por un lugar en las semifinales del campeonato, y en simultáneo se juega la ida de la gran final del torneo de mujeres."
+        ],
+        "generated": "2026-11-13T13:01:25.763111+00:00"
+      },
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-13T13:00:00.774887+00:00",
+      "penalizacion": 1.0
+    },
+    {
+      "key": "inflacion acelero octubre alcanzo nivel alto ultimos cinco meses",
+      "title": "La inflación se aceleró en octubre y alcanzó el nivel más alto de los últimos cinco meses",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-13T13:00:00.774887+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/0e20bc0ff1effd56d2d3e2dbce6cbecc3c7faaed.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "La inflación se aceleró en octubre y alcanzó el nivel más alto de los últimos cinco meses",
+          "url": "https://necocheadigital.com/nota/120169/la-inflacion-se-acelero-en-octubre-y-alcanzo-el-nivel-mas-alto-de-los-ultimos-cinco-meses/",
+          "published_at": null,
+          "first_seen": "2026-11-13T13:00:00.774887+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La inflación volvió a acelerarse durante octubre y alcanzó el 2,2%, según informó este jueves el Instituto Nacional de Estadística y Censos (INDEC). El dato representa un incremento de tres décimas respecto de septiembre, cuando el Índice de Precios al Consumidor (IPC) había registrado un 1,9%, y constituye el nivel más alto desde abril, mes en el que había llegado al 2,6%. Con este resultado, la inflación acumulada durante los primeros diez meses de 2026 alcanzó el 26,3%, mientras que la variación interanual se ubicó en el 33,1%.",
+          "El registro de octubre interrumpió la tendencia de relativa estabilidad que había mostrado el índice durante los meses anteriores. Después del 2,1% de mayo, la inflación descendió al 1,9% en junio, volvió al 2,1% en julio y bajó al 1,7% en agosto. En septiembre había retomado una trayectoria ascendente, con el 1,9%, que ahora se profundizó."
+        ],
+        "generated": "2026-11-13T13:01:26.449925+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-13T13:00:00.774887+00:00"
+    },
+    {
+      "key": "murio paolo rockero personaje marco television 80",
+      "title": "Murió Paolo, el rockero, el personaje que marcó la televisión de los 80",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-13T13:00:00.774887+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/0baba738645ba67c545cb730f41a4f9f4ccc96ef.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Murió Paolo, el rockero, el personaje que marcó la televisión de los 80",
+          "url": "https://necocheadigital.com/nota/120167/murio-paolo-el-rockero-el-personaje-que-marco-la-television-de-los-80/",
+          "published_at": null,
+          "first_seen": "2026-11-13T13:00:00.774887+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Jorge Juan Montejo , el actor y humorista que dio vida a Paolo, el rockero, murió a los 68 años en el Hospital Santamarina de Tandil, su ciudad natal. Según pudo saber Infobae por fuentes municipales, el artista estaba internado por una infección respiratoria y falleció a las 21.16 del miércoles 11 de noviembre en el nosocomio local. Con su vincha, el pelo largo, el morral multicolor y expresiones como “¡Uhhh, loco!”, “¿Entendés, chabón?”, “Qué mala onda” y “Mató la onda, loco”, Paolo se convirtió en una figura reconocible de la televisión argentina de las décadas de 1980 y 1990.",
+          "El personaje nació en 1986, luego de que Daniel Ripoll, fundador de la revista Pelo , le sugiriera incursionar en la interpretación. Montejo relató que armó el look con elementos de cotillón y que el nombre surgió por una cuestión de imagen: “No se podía llamar Johnny, tenía que ser Paolo” ."
+        ],
+        "generated": "2026-11-13T13:01:27.570476+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-13T13:00:00.774887+00:00"
+    },
+    {
+      "key": "sergio nicolas detallo cambios ley transito principales infracciones distrito",
+      "title": "Sergio Nicolás detalló los cambios en la Ley de Tránsito y las principales infracciones en el distrito",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-13T13:00:00.774887+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261110175845_20240703174200-whatsapp-image-2024-07-03-at-15-02-19.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Sergio Nicolás detalló los cambios en la Ley de Tránsito y las principales infracciones en el distrito",
+          "url": "https://necocheadigital.com/nota/120150/sergio-nicolas-detallo-los-cambios-en-la-ley-de-transito-y-las-principales-infracciones-en-el-distrito/",
+          "published_at": null,
+          "first_seen": "2026-11-13T13:00:00.774887+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La modificación de la Ley Provincial de Tránsito volvió a poner en debate las normas de circulación y las prioridades de paso en las esquinas. En Necochea y Quequén, donde la siniestralidad vial continúa siendo una preocupación, el director de Tránsito municipal, Sergio Nicolás, analizó los cambios y brindó datos sobre las infracciones y los accidentes registrados en el distrito. En una entrevista realizada por Quimey Marfil en Radio Noticias Necochea 97.3, el funcionario consideró que la actualización de la Ley 15.657 no generará grandes modificaciones en los hábitos de circulación locales, ya que buena parte de las nuevas disposiciones coincide con prácticas que, según explicó, los conductores de la ciudad ya venían aplicando.",
+          "“La modificación hoy, la principal, es el paso de la prioridad en lo que es las avenidas. La avenida tiene una circulación de 60 kilómetros por hora como máximo y las calles transversales 40."
+        ],
+        "generated": "2026-11-13T13:01:28.686723+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-13T13:00:00.774887+00:00"
+    },
+    {
+      "key": "desempleo endeudamiento salud mental",
+      "title": "Desempleo, endeudamiento y Salud Mental",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-13T13:00:00.774887+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/92a25d7c5338d6680b8df2cff92d463d0a5c87ef.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Desempleo, endeudamiento y Salud Mental",
+          "url": "https://necocheadigital.com/nota/120163/desempleo-endeudamiento-y-salud-mental/",
+          "published_at": null,
+          "first_seen": "2026-11-13T13:00:00.774887+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Políticas gubernamentales han llevado a crisis económicas de gran magnitud, acarreando a individuos y familias al desempleo, conduciendo a endeudarse a comercios e instituciones, en muchos casos cerrando sus establecimientos para poder solventar sus necesidades básicas: alimentos, salud, vivienda, entre otros. La tragedia social continúa con la banalización de esta situación por parte de los Estados actores políticos y sectores de la ciudadanía que desmienten y niegan responsabilidad sobre lo que ellos mismos generan: un conflicto estructural “ Arréglese quien pueda y como pueda, que sobreviva el mas fuerte” generando amputaciones sociales, desestructuraciones psicológicas, biológicas y conductuales.",
+          "Se han incrementado la ansiedad, los suicidios, dificultades para dormir, las conductas antisociales, tanto como la disminución del rendimiento académico ."
+        ],
+        "generated": "2026-11-13T13:01:29.787944+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-13T13:00:00.774887+00:00"
+    },
+    {
+      "key": "club leones realiza controles gratuitos glucemia prevenir diabetes",
+      "title": "El Club de Leones realiza controles gratuitos de glucemia para prevenir la diabetes",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-13T13:00:00.774887+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/3b2309610b1f6f5e994318556c4ea05de736c63c.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "El Club de Leones realiza controles gratuitos de glucemia para prevenir la diabetes",
+          "url": "https://necocheadigital.com/nota/120162/el-club-de-leones-realiza-controles-gratuitos-de-glucemia-para-prevenir-la-diabetes/",
+          "published_at": null,
+          "first_seen": "2026-11-13T13:00:00.774887+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "En el marco de la Semana de la Diabetes, el Club de Leones de Necochea puso en marcha una campaña de controles gratuitos de glucemia, con el objetivo de facilitar la detección temprana de posibles alteraciones en los niveles de azúcar en sangre y promover hábitos saludables. La iniciativa se desarrolla en la sede de la institución, ubicada en avenida 58 Nº 3154, y continuará hasta el miércoles 18 de noviembre, con una interrupción el domingo. Los controles se realizan de 8 a 10 y requieren concurrir en ayunas, aunque está permitido tomar agua o mate amargo.",
+          "La propuesta fue explicada por Gloria Resuene, licenciada en Enfermería e integrante del Club de Leones que preside Emilce Valenzuela, durante una entrevista en el programa Voces de la Tarde , que conduce Jorge Gómez por Radio Noticias Necochea 97.3. “Una de las causas globales del Club de Leones es la diabetes, que está creciendo cada vez más a nivel mundial."
+        ],
+        "generated": "2026-11-13T13:01:30.481867+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-13T13:00:00.774887+00:00"
+    },
+    {
+      "key": "transito asistido ruta 228 camion detenido altura kilometro",
+      "title": "Tránsito asistido en la Ruta 228 por un camión detenido a la altura del kilómetro 6",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-13T13:00:00.774887+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/5fba2c6acb2e8f02e394d02c6fa397c0f618ce29.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Tránsito asistido en la Ruta 228 por un camión detenido a la altura del kilómetro 6",
+          "url": "https://necocheadigital.com/nota/120160/transito-asistido-en-la-ruta-228-por-un-camion-detenido-a-la-altura-del-kilometro-6/",
+          "published_at": null,
+          "first_seen": "2026-11-13T13:00:00.774887+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Un camión quedó detenido sobre la calzada de la Ruta Nacional 228, a la altura del kilómetro 6, lo que genera complicaciones en la circulación vehicular. Ante esta situación, personal policial y de Defensa Civil se encuentra trabajando en el sector, implementando un operativo de tránsito asistido para ordenar el paso de los vehículos.",
+          "Desde las autoridades solicitaron a los conductores circular con precaución, reducir la velocidad y respetar las indicaciones del personal que trabaja en el lugar, debido a que la calzada se encuentra parcialmente obstruida. Se recomienda evitar maniobras de sobrepaso y extremar las medidas de seguridad al atravesar el sector."
+        ],
+        "generated": "2026-11-13T13:01:31.609585+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-13T13:00:00.774887+00:00"
+    },
+    {
+      "key": "inflacion octubre alta region pampeana patagonia",
+      "title": "La inflación de octubre fue más alta en la región Pampeana y la Patagonia",
+      "score": 1.074,
+      "sources_count": 1,
+      "first_seen": "2026-11-13T11:40:20+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2024/10/Inflacion-Octubre-1.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "La inflación de octubre fue más alta en la región Pampeana y la Patagonia",
+          "url": "https://tsnnecochea.com.ar/generales/la-inflacion-de-octubre-fue-mas-alta-en-la-region-pampeana-y-la-patagonia-242233/",
+          "published_at": "2026-11-13T11:40:20+00:00",
+          "first_seen": "2026-11-13T12:30:01.012664+00:00",
+          "category": "inflacion",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2024/10/Inflacion-Octubre-1.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Generales | inflacion | Economía La inflación de octubre fue más alta en la región Pampeana y la Patagonia Los datos oficiales difundidos por el INDEC marcaron subas del 2,6% y del 2,5% en esas zonas, impulsadas principalmente por el fuerte aumento en el rubro de vivienda, tarifas de servicios públicos y transporte. Por Redacción TSN 13/11/2026 · 08:40 AM Agregar TSN Necochea en El Instituto Nacional de Estadística y Censos (INDEC) informó que el Índice de Precios al Consumidor (IPC) de octubre de 2026 marcó un 2,2% a nivel nacional, pero el mapa económico del país dejó en evidencia que la presión sobre los bolsillos fue significativamente más intensa en el centro y el sur de la Argentina .",
+          "La región Pampeana encabezó el ranking de aumentos mensuales en todo el territorio nacional con un salto del 2,6% ."
+        ],
+        "generated": "2026-11-13T13:01:32.702051+00:00"
+      },
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-13T13:00:00.774887+00:00",
+      "penalizacion": 1.0
+    },
+    {
+      "key": "alerta amarilla probabilidad lluvias viernes sabado necochea",
+      "title": "Alerta amarilla y probabilidad de lluvias para este viernes y sábado en Necochea",
+      "score": 0.977,
+      "sources_count": 1,
+      "first_seen": "2026-11-13T12:43:23+00:00",
+      "image": null,
+      "articles": [
+        {
+          "portal": "Diario NQ",
+          "title": "Alerta amarilla y probabilidad de lluvias para este viernes y sábado en Necochea",
+          "url": "https://diarionq.com.ar/alerta-amarilla-y-probabilidad-de-lluvias-para-este-viernes-y-sabado-en-necochea/",
+          "published_at": "2026-11-13T12:43:23+00:00",
+          "first_seen": "2026-11-13T13:00:00.774887+00:00",
+          "category": "Destacadas",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La alerta amarilla rige para este viernes 13 y el sábado 14. El pronóstico anticipa lluvias, con mayor probabilidad durante la tarde y la noche de hoy y en las primeras horas de mañana. Para este viernes se esperan temperaturas de entre 15° y 22°. La probabilidad de precipitaciones será del 10 al 40% durante la mañana y aumentará al 70-100% por la tarde y la noche.",
+          "El viento soplará del noreste, con ráfagas de hasta 50 km/h por la mañana y de entre 51 y 59 km/h durante la noche. El sábado tendrá una mínima de 13° y una máxima de 19°. Se prevén vientos de entre 7 y 22 km/h, sin ráfagas informadas."
+        ],
+        "generated": "2026-11-13T13:01:36.918815+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-13T13:00:00.774887+00:00"
+    },
+    {
+      "key": "necochea lanza nueva campana pap test vph centros salud",
+      "title": "Necochea lanza una nueva campaña de PAP y test de VPH en los centros de salud",
+      "score": 0.956,
+      "sources_count": 1,
+      "first_seen": "2026-11-13T12:27:51+00:00",
+      "image": null,
+      "articles": [
+        {
+          "portal": "Diario NQ",
+          "title": "Necochea lanza una nueva campaña de PAP y test de VPH en los centros de salud",
+          "url": "https://diarionq.com.ar/necochea-lanza-una-nueva-campana-de-pap-y-test-de-vph-en-los-centros-de-salud/",
+          "published_at": "2026-11-13T12:27:51+00:00",
+          "first_seen": "2026-11-13T12:30:01.012664+00:00",
+          "category": "Interés General",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La propuesta comenzará el lunes y se extenderá hasta el viernes en distintos CAPS del distrito. Carina Maceris, directora de Atención Primaria de la Salud, destacó que el objetivo es llegar especialmente a mujeres que permanecen fuera de los controles habituales y detectar de manera temprana posibles patologías del cuello uterino.",
+          "Charlando con Fede Cañadas en “Esta Mañana”, por NEC Radio 98.3 del Multimedio NQ, Carina Maceris, directora de Atención Primaria de la Salud , anunció una nueva campaña de PAP y test de VPH que comenzará el lunes y se desarrollará durante toda la semana en diferentes centros de salud de Necochea y Quequén. La iniciativa forma parte de un trabajo que el sistema sanitario local viene sosteniendo desde hace tres años, con distintas jornadas distribuidas durante el año."
+        ],
+        "generated": "2026-11-13T13:01:39.347535+00:00"
+      },
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-13T13:00:00.774887+00:00",
+      "penalizacion": 1.0
+    },
+    {
+      "key": "baguales milonga sigue pie dos dias tradicion desfile jineteada espectaculos san cayetano",
+      "title": "Baguales y Milonga sigue en pie: dos días de tradición, desfile, jineteada y espectáculos en San Cayetano",
+      "score": 0.934,
+      "sources_count": 1,
+      "first_seen": "2026-11-13T12:10:46+00:00",
+      "image": null,
+      "articles": [
+        {
+          "portal": "Diario NQ",
+          "title": "Baguales y Milonga sigue en pie: dos días de tradición, desfile, jineteada y espectáculos en San Cayetano",
+          "url": "https://diarionq.com.ar/baguales-y-milonga-sigue-en-pie-dos-dias-de-tradicion-desfile-jineteada-y-espectaculos-en-san-cayetano/",
+          "published_at": "2026-11-13T12:10:46+00:00",
+          "first_seen": "2026-11-13T12:30:01.012664+00:00",
+          "category": "Destacadas",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La tradicional fiesta se desarrollará este sábado 14 y domingo 15 de noviembre en San Cayetano. Pese a la incertidumbre por el pronóstico, Alejo de Francisco confirmó que hasta el momento no hubo modificaciones en el programa. El sábado habrá desfile, espectáculos y bailanta con entrada gratuita, mientras que el domingo llegará la jineteada y la última clasificatoria para Jesús María.",
+          "Charlando con Fede Cañadas en “Esta Mañana”, por NEC Radio 98.3 del Multimedio NQ, Alejo de Francisco , uno de los responsables de la organización, confirmó que la fiesta de Baguales y Milonga continúa en pie y que, pese a la atención puesta sobre las condiciones climáticas, hasta el momento no se realizaron cambios en la programación prevista para el fin de semana. “Todo sigue en pie como está programado."
+        ],
+        "generated": "2026-11-13T13:01:41.247066+00:00"
+      },
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-13T13:00:00.774887+00:00",
+      "penalizacion": 1.0
+    },
+    {
+      "key": "crisis textil argentina produccion cayo 20 cadena perdio casi 29 000 empleos",
+      "title": "Crisis textil en Argentina: la producción cayó 20,8 % y la cadena perdió casi 29.000 empleos",
+      "score": 0.926,
+      "sources_count": 1,
+      "first_seen": "2026-11-13T12:05:00+00:00",
+      "image": "http://nden.com.ar/uploads/noticias/5/2026/11/7cfb8ecea00fcb307f4354521a2df6b25b46da4e.jpg",
+      "articles": [
+        {
+          "portal": "Noticias de Necochea",
+          "title": "Crisis textil en Argentina: la producción cayó 20,8 % y la cadena perdió casi 29.000 empleos",
+          "url": "https://nden.com.ar/nota/38704/crisis-textil-en-argentina-la-produccion-cayo-20-8-y-la-cadena-perdio-casi-29-000-empleos",
+          "published_at": "2026-11-13T12:05:00+00:00",
+          "first_seen": "2026-11-13T12:30:01.012664+00:00",
+          "category": null,
+          "image": "http://nden.com.ar/uploads/noticias/5/2026/11/7cfb8ecea00fcb307f4354521a2df6b25b46da4e.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Industria y empleo Crisis textil en Argentina: la producción cayó 20,8 % y la cadena perdió casi 29.000 empleos"
+        ],
+        "generated": "2026-11-13T13:01:41.970387+00:00"
+      },
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-13T13:00:00.774887+00:00",
+      "penalizacion": 1.0
+    },
+    {
       "key": "necochea tendra primer festival botanico propuestas toda comunidad",
       "title": "Necochea tendrá su primer Festival Botánico con propuestas para toda la comunidad",
-      "score": 1.455,
+      "score": 0.767,
       "sources_count": 2,
       "first_seen": "2026-11-13T11:30:00.979286+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-12-at-19.27.48.webp",
@@ -35,45 +536,16 @@
           "TSN Necochea | ‹ VOLVER | Generales | Festival Botanico | En el Rowing Club Necochea tendrá su primer Festival Botánico con propuestas para toda la comunidad HAbra multiples actividades, Paseo Botánico, la Galería Botánica, el Patio Botánico y el Aula Botánica. La programación incluirá viveros, productores, emprendedores, artistas, talleres, experiencias educativas, arte botánico, cosmética natural y música en vivo.",
           "Por Redacción TSN 13/11/2026 · 08:30 AM Agregar TSN Necochea en La Secretaría de Turismo y Desarrollo Productivo acompaña la primera edición de Río Raíz – Festival Botánico , una nueva propuesta cultural, turística, educativa y social que se realizará el sábado 14 de noviembre, de 11 a 20, en las instalaciones del Necochea Rowing Club , junto a la ribera del río Quequén. La entrada será libre y gratuita."
         ],
-        "generated": "2026-11-13T12:30:37.740014+00:00"
+        "generated": "2026-11-13T13:00:38.774115+00:00"
       },
-      "apariciones": 3,
-      "ultima_impresion": "2026-11-13T12:30:01.012664+00:00",
-      "penalizacion": 0.55
-    },
-    {
-      "key": "eduardo feinmann quedo oro edicion 30 martin fierro cable",
-      "title": "Eduardo Feinmann se quedó con el oro en la edición 30 de los Martín Fierro de Cable",
-      "score": 1.206,
-      "sources_count": 1,
-      "first_seen": "2026-11-13T11:36:05+00:00",
-      "image": "https://cdnartic.ar/KFBJwg6kVnZATSckN--Te-58hoU=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/eduardo_feimann.webp",
-      "articles": [
-        {
-          "portal": "Ecos Diarios",
-          "title": "Eduardo Feinmann se quedó con el oro en la edición 30 de los Martín Fierro de Cable",
-          "url": "https://elecos.com.ar/eduardo-feinmann-se-quedo-con-el-oro-en-la-edicion-30-de-los-martin-fierro-de-cable",
-          "published_at": "2026-11-13T11:36:05+00:00",
-          "first_seen": "2026-11-13T12:30:01.012664+00:00",
-          "category": "104",
-          "image": "https://cdnartic.ar/KFBJwg6kVnZATSckN--Te-58hoU=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/eduardo_feimann.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Espectáculos y arte Añadir como fuente en Eduardo Feinmann se quedó con el oro en la edición 30 de los Martín Fierro de Cable El periodista fue distinguido con el máximo galardón en una ceremonia que premió a lo mejor de la televisión de cable emitida durante 2025. 13 de noviembre de 2026 | 08:36 Eduardo Feimann se llevó este jueves el galardón de oro en la edición número 30 de los premios Martín Fierro de Cable Ads En una gala celebrada en el Goldcenter, el periodista Eduardo Feinmann obtuvo el premio de oro en la edición número 30 de los Martín Fierro de Cable .",
-          "El evento, organizado por la Asociación de Periodistas de la Televisión y la Radiofonía Argentinas (APTRA) , reconoció la labor de los profesionales y las producciones destacadas durante 2025. Ads La ceremonia fue conducida por Marina Calabró y Sergio Lapegüe , y contó con la presencia de numerosas figuras del medio."
-        ],
-        "generated": "2026-11-13T12:30:42.195314+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-13T12:30:01.012664+00:00"
+      "apariciones": 4,
+      "ultima_impresion": "2026-11-13T13:00:00.774887+00:00",
+      "penalizacion": 0.302
     },
     {
       "key": "fracasa tratamiento ley ludopatia falta quorum comision",
       "title": "Fracasa el tratamiento de la ley de ludopatía por falta de quorum en la comisión",
-      "score": 1.183,
+      "score": 0.624,
       "sources_count": 1,
       "first_seen": "2026-11-13T11:21:49+00:00",
       "image": "https://cdnartic.ar/geAN1E2XTdTCV6NFAthSM37WxXY=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/la_campora.JPG",
@@ -93,16 +565,16 @@
           "Nacionales Añadir como fuente en Fracasa el tratamiento de la ley de ludopatía por falta de quorum en la comisión Solo dos diputados asistieron a la reunión para debatir proyectos contra el juego, mientras persiste la falta de consenso sobre la regulación de las apuestas online. 13 de noviembre de 2026 | 08:21 Ads La comisión encargada de tratar los proyectos contra la ludopatía no logró avanzar en su agenda debido a la ausencia de los legisladores. A pesar de la relevancia del tema, solo dos diputados se presentaron para debatir las iniciativas orientadas a frenar el avance de las apuestas online.",
           "Ads El estancamiento en el debate se mantiene a pesar de los diversos intentos por destrabar la discusión legislativa. Según reportó el diario La Nación , ni siquiera el mensaje del papa León XIV logró generar el consenso necesario para que la comisión pudiera sesionar y avanzar en la regulación del juego."
         ],
-        "generated": "2026-11-13T12:30:43.412756+00:00"
+        "generated": "2026-11-13T13:01:23.461588+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-11-13T12:30:01.012664+00:00",
-      "penalizacion": 1.0
+      "apariciones": 3,
+      "ultima_impresion": "2026-11-13T13:00:00.774887+00:00",
+      "penalizacion": 0.55
     },
     {
       "key": "marcelo gallardo debuta como entrenador ecuador estadio olimpico atahualpa",
       "title": "Marcelo Gallardo debuta como entrenador de Ecuador en el estadio Olímpico Atahualpa",
-      "score": 1.182,
+      "score": 0.623,
       "sources_count": 1,
       "first_seen": "2026-11-13T11:21:15+00:00",
       "image": "https://cdnartic.ar/zdwFQTKcK_KVRM3OJox0lq4ksFE=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/marcelo_gallardo.jpg",
@@ -122,392 +594,16 @@
           "Deportes nacionales Añadir como fuente en Marcelo Gallardo debuta como entrenador de Ecuador en el estadio Olímpico Atahualpa La selección de Ecuador se mide ante Costa Rica en un amistoso internacional, marcando el estreno del director técnico argentino en suelo ecuatoriano y el regreso del equipo al histórico recinto de Quito. 13 de noviembre de 2026 | 08:21 Ads La selección de Ecuador se enfrentará a Costa Rica este viernes 13 de noviembre en el marco de una nueva fecha FIFA.",
           "El encuentro, que se disputará en el Estadio Olímpico Atahualpa de Quito, representa un momento significativo para el equipo local, ya que será el primer partido de Marcelo Gallardo al frente de la Tri en territorio ecuatoriano. Ads El entrenador argentino, quien asumió el cargo en septiembre, busca consolidar su idea de juego tras una gira por Asia donde el equipo no logró victorias."
         ],
-        "generated": "2026-11-13T12:30:44.662978+00:00"
+        "generated": "2026-11-13T13:01:24.690179+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-11-13T12:30:01.012664+00:00",
-      "penalizacion": 1.0
-    },
-    {
-      "key": "leandro gonzalez pirez polemica penal no cobrado independiente rivadavia",
-      "title": "Leandro González Pirez y la polémica por el penal no cobrado a Independiente Rivadavia",
-      "score": 1.18,
-      "sources_count": 1,
-      "first_seen": "2026-11-13T11:20:05+00:00",
-      "image": "https://cdnartic.ar/UyiQgAeoWopVajNCs7YsZ_671ak=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/leandro_gonzalez_pirez.jpg",
-      "articles": [
-        {
-          "portal": "Ecos Diarios",
-          "title": "Leandro González Pirez y la polémica por el penal no cobrado a Independiente Rivadavia",
-          "url": "https://elecos.com.ar/leandro-gonzalez-pirez-y-la-polemica-por-el-penal-no-cobrado-a-independiente-rivadavia",
-          "published_at": "2026-11-13T11:20:05+00:00",
-          "first_seen": "2026-11-13T12:00:00.891927+00:00",
-          "category": "deportes-nacional",
-          "image": "https://cdnartic.ar/UyiQgAeoWopVajNCs7YsZ_671ak=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/leandro_gonzalez_pirez.jpg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Deportes nacionales Añadir como fuente en Leandro González Pirez y la polémica por el penal no cobrado a Independiente Rivadavia La actuación del VAR en la Supercopa Argentina generó controversia tras una agresión de Leandro González Pirez sobre Florentín que no fue sancionada ni revisada por el juez. 13 de noviembre de 2026 | 08:20 Ads La reciente edición de la Supercopa Argentina dejó un saldo de reclamos y cuestionamientos por decisiones arbitrales que pudieron alterar el resultado final.",
-          "Uno de los puntos más críticos fue la acción protagonizada por Leandro González Pirez , quien agredió a Florentín mientras la pelota estaba en juego. Ads A pesar de la claridad de la infracción, el juez de VAR, Héctor Paletta , decidió no convocar al árbitro Falcó Pérez para una revisión en el monitor."
-        ],
-        "generated": "2026-11-13T12:30:45.892078+00:00"
-      },
-      "apariciones": 2,
-      "ultima_impresion": "2026-11-13T12:30:01.012664+00:00",
-      "penalizacion": 1.0
-    },
-    {
-      "key": "noruega construye tunel submarino largo profundo mundo",
-      "title": "Noruega construye el túnel submarino más largo y profundo del mundo",
-      "score": 1.179,
-      "sources_count": 1,
-      "first_seen": "2026-11-13T11:19:26+00:00",
-      "image": "https://cdnartic.ar/cgkyFvSZp943lGVFZI4R6DYysWg=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/tunel_submarino.jpg",
-      "articles": [
-        {
-          "portal": "Ecos Diarios",
-          "title": "Noruega construye el túnel submarino más largo y profundo del mundo",
-          "url": "https://elecos.com.ar/noruega-construye-el-tunel-submarino-mas-largo-y-profundo-del-mundo",
-          "published_at": "2026-11-13T11:19:26+00:00",
-          "first_seen": "2026-11-13T12:00:00.891927+00:00",
-          "category": "105",
-          "image": "https://cdnartic.ar/cgkyFvSZp943lGVFZI4R6DYysWg=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/tunel_submarino.jpg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El mundo Añadir como fuente en Noruega construye el túnel submarino más largo y profundo del mundo La obra Rogfast, que se extenderá por 27 kilómetros bajo el mar, busca modernizar la conectividad vial noruega y estará operativa en 2033 con tecnología de precisión láser. 13 de noviembre de 2026 | 08:19 Ads Noruega avanza en la construcción del túnel vial submarino más largo y profundo del mundo, una megaobra denominada Rogfast . El proyecto contempla una extensión de 27 kilómetros que atravesará el subsuelo marino de la costa oeste del país, alcanzando una profundidad de 392 metros bajo el nivel del mar.",
-          "Ads La infraestructura, ubicada en la región de Rogaland , tiene como objetivo reemplazar los servicios de ferry actuales, optimizando los tiempos de traslado y consolidando la ruta costera E39 como un corredor sin transbordadores. Se estima que la obra, con un presupuesto de 25.000 millones de coronas noruegas, estará inaugurada en 2033."
-        ],
-        "generated": "2026-11-13T12:30:47.120162+00:00"
-      },
-      "apariciones": 2,
-      "ultima_impresion": "2026-11-13T12:30:01.012664+00:00",
-      "penalizacion": 1.0
-    },
-    {
-      "key": "sabado reducido domingo revancha cuartos primera final femenina",
-      "title": "Sábado con reducido de la B y domingo con revancha de cuartos y primera final femenina",
-      "score": 1.153,
-      "sources_count": 1,
-      "first_seen": "2026-11-13T12:01:04+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/Screenshot_20261112_1818242.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Sábado con reducido de la B y domingo con revancha de cuartos y primera final femenina",
-          "url": "https://tsnnecochea.com.ar/deportes/sabado-con-reducido-de-la-b-y-domingo-con-revancha-de-cuartos-y-primera-final-femenina-242231/",
-          "published_at": "2026-11-13T12:01:04+00:00",
-          "first_seen": "2026-11-13T12:30:01.012664+00:00",
-          "category": "cuartos",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/Screenshot_20261112_1818242.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Deportes | cuartos | Liga Necochea de Fútbol Sábado con reducido de la B y domingo con revancha de cuartos y primera final femenina Así es el mapa del fútbol local para este fin de semana. Por Redacción TSN 13/11/2026 · 09:01 AM Agregar TSN Necochea en El fútbol de la Liga Necochea entra en plena etapa de definiciones y para este fin de semana hay cuatro partidos en el orden de la Primera División. El sábado se jugarán los reducidos de la zona B a partido único, mientras que el domingo se juega la revancha de cuartos de final y la primera final femenina.",
-          "En el reducido de la B, se recuerda que Independiente Lobería y Gimnasia tienen la ventaja de localía en el partido único, pero si hay empates la definición será por penales. Para el domingo, Mataderos buscará revertir la serie ante Estación por un lugar en las semifinales del campeonato, y en simultáneo se juega la ida de la gran final del torneo de mujeres."
-        ],
-        "generated": "2026-11-13T12:30:48.231056+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-13T12:30:01.012664+00:00"
-    },
-    {
-      "key": "inflacion octubre alta region pampeana patagonia",
-      "title": "La inflación de octubre fue más alta en la región Pampeana y la Patagonia",
-      "score": 1.12,
-      "sources_count": 1,
-      "first_seen": "2026-11-13T11:40:20+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2024/10/Inflacion-Octubre-1.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "La inflación de octubre fue más alta en la región Pampeana y la Patagonia",
-          "url": "https://tsnnecochea.com.ar/generales/la-inflacion-de-octubre-fue-mas-alta-en-la-region-pampeana-y-la-patagonia-242233/",
-          "published_at": "2026-11-13T11:40:20+00:00",
-          "first_seen": "2026-11-13T12:30:01.012664+00:00",
-          "category": "inflacion",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2024/10/Inflacion-Octubre-1.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Generales | inflacion | Economía La inflación de octubre fue más alta en la región Pampeana y la Patagonia Los datos oficiales difundidos por el INDEC marcaron subas del 2,6% y del 2,5% en esas zonas, impulsadas principalmente por el fuerte aumento en el rubro de vivienda, tarifas de servicios públicos y transporte. Por Redacción TSN 13/11/2026 · 08:40 AM Agregar TSN Necochea en El Instituto Nacional de Estadística y Censos (INDEC) informó que el Índice de Precios al Consumidor (IPC) de octubre de 2026 marcó un 2,2% a nivel nacional, pero el mapa económico del país dejó en evidencia que la presión sobre los bolsillos fue significativamente más intensa en el centro y el sur de la Argentina .",
-          "La región Pampeana encabezó el ranking de aumentos mensuales en todo el territorio nacional con un salto del 2,6% ."
-        ],
-        "generated": "2026-11-13T12:30:49.335636+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-13T12:30:01.012664+00:00"
-    },
-    {
-      "key": "activan protocolos nos indican provincia operativo vacunacion antirrabica villa balnearia",
-      "title": "“Se activan los protocolos que nos indican desde Provincia”: operativo de vacunación antirrábica en la Villa Balnearia",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-13T12:30:01.012664+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261113092511_7l66mhv2bjdqtmztdxcroda55m.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "“Se activan los protocolos que nos indican desde Provincia”: operativo de vacunación antirrábica en la Villa Balnearia",
-          "url": "https://necocheadigital.com/nota/120174/se-activan-los-protocolos-que-nos-indican-desde-provincia-operativo-de-vacunacion-antirrabica-en-la-villa-balnearia/",
-          "published_at": null,
-          "first_seen": "2026-11-13T12:30:01.012664+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La confirmación de un murciélago con rabia en la Villa Balnearia de Necochea puso en marcha un operativo sanitario para reforzar la vacunación antirrábica de perros y gatos en la zona. La intervención estará a cargo del área municipal de Bromatología e Higiene y se realizará este viernes 13 de noviembre, a partir de las 8. Gustavo Fuhr, integrante del equipo municipal, explicó que el caso se conoció luego de que dos vecinos acercaran durante la semana pasada ejemplares de murciélagos que habían tenido contacto con sus mascotas.",
-          "Los animales fueron enviados para su análisis y el martes por la tarde se confirmó que uno de ellos había dado positivo. “Se activan los protocolos que nos indican desde Provincia. El accionar consiste en una vacunación alrededor de los 200 metros radiales”, señaló Fuhr durante una entrevista en el programa Voces de la Tarde , que conduce Jorge Gómez por Radio Noticias Necochea 97.3."
-        ],
-        "generated": "2026-11-13T12:30:50.029036+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-13T12:30:01.012664+00:00"
-    },
-    {
-      "key": "tecnica realizara expo compartir proyectos estudiantes",
-      "title": "La Técnica Nº 2 realizará una Expo para compartir los proyectos de sus estudiantes",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-13T12:30:01.012664+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261113092241_20200403123732-irurzun-3.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "La Técnica Nº 2 realizará una Expo para compartir los proyectos de sus estudiantes",
-          "url": "https://necocheadigital.com/nota/120173/la-tecnica-n-2-realizara-una-expo-para-compartir-los-proyectos-de-sus-estudiantes/",
-          "published_at": null,
-          "first_seen": "2026-11-13T12:30:01.012664+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La Escuela de Educación Secundaria Técnica Nº 2 de Necochea, conocida históricamente como el ex Colegio Industrial, realizará este viernes una nueva edición de su Expo Técnica, una propuesta que permitirá conocer de cerca los proyectos y las actividades que desarrollan sus estudiantes durante el año. La exposición se llevará adelante en el marco de la Semana de la Educación Técnica y tendrá dos horarios para recibir a los visitantes: de 8.30 a 12 y de 13.30 a 17.",
-          "La convocatoria está dirigida a toda la comunidad, con una invitación especial a las escuelas primarias para que sus alumnos puedan recorrer los talleres y participar de algunas prácticas. La vicedirectora del establecimiento, Natalín Gaggero, brindó detalles de la actividad durante una entrevista en el programa Voces de la Tarde , que conduce Jorge Gómez por Radio Noticias Necochea."
-        ],
-        "generated": "2026-11-13T12:30:50.713270+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-13T12:30:01.012664+00:00"
-    },
-    {
-      "key": "chocamos ayuda estremecedor testimonio adolescente sobrevivio choque fatal ruta 88",
-      "title": "“¡Chocamos, ayuda!”: el estremecedor testimonio de la adolescente que sobrevivió al choque fatal en la Ruta 88",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-13T12:30:01.012664+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261112163459_captura.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "“¡Chocamos, ayuda!”: el estremecedor testimonio de la adolescente que sobrevivió al choque fatal en la Ruta 88",
-          "url": "https://necocheadigital.com/nota/120170/chocamos-ayuda-el-estremecedor-testimonio-de-la-adolescente-que-sobrevivio-al-choque-fatal-en-la-ruta-88/",
-          "published_at": null,
-          "first_seen": "2026-11-13T12:30:01.012664+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "“¡Chocamos, ayuda, necesito ayuda!”. Esas fueron las palabras que Cata, una adolescente de 15 años, comenzó a repetir desesperadamente después de recuperar el conocimiento tras el choque frontal entre el remís en el que viajaba y un camión sobre la Ruta Provincial 88. El testimonio, cargado de angustia y emoción, forma parte del documental “Anita, una luz que no se apaga” , realizado por el periodista Fabián Pérez Battaglini.",
-          "La producción reconstruye la tragedia que tuvo como víctima a Ana Peralta Rondanina, de 15 años, compañera de vóley de Cata en el club Once Unidos. El accidente ocurrió alrededor de las 20.30 del domingo 12 de julio de 2026, cerca del paraje San José, en el trayecto entre Mar del Plata y Necochea. Las adolescentes regresaban a nuestra ciudad en un Fiat Siena conducido por Santiago Juan Manuel Irigoyen, un remisero de 58 años oriundo de Lobería."
-        ],
-        "generated": "2026-11-13T12:30:51.851434+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-13T12:30:01.012664+00:00"
-    },
-    {
-      "key": "havanna registro caida 25 ventas comercializo 215 mil kilos productos",
-      "title": "Havanna registró una caída del 25,8% en sus ventas y comercializó 215 mil kilos menos de productos",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-13T12:30:01.012664+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/0a0d696e4548a42ff50ae37008bf088148a2832c.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Havanna registró una caída del 25,8% en sus ventas y comercializó 215 mil kilos menos de productos",
-          "url": "https://necocheadigital.com/nota/120164/havanna-registro-una-caida-del-25-8-en-sus-ventas-y-comercializo-215-mil-kilos-menos-de-productos/",
-          "published_at": null,
-          "first_seen": "2026-11-13T12:30:01.012664+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La empresa Havanna, una de las marcas emblemáticas de Mar del Plata, registró una fuerte caída en sus ventas durante el tercer trimestre de 2026. Según los resultados financieros difundidos por la compañía, los ingresos alcanzaron los $35.493 millones, lo que representa una disminución del 25,8% respecto del mismo período de 2025. El principal retroceso se produjo en el segmento de alfajores, galletitas y havannets, que registró ventas por 973 mil kilos entre julio y septiembre.",
-          "La cifra representa una reducción de 215 mil kilos en comparación con el mismo trimestre del año anterior. En términos de facturación, ese rubro generó casi $11.500 millones menos que en 2025, convirtiéndose en el principal factor detrás de la caída general de los ingresos."
-        ],
-        "generated": "2026-11-13T12:30:52.993779+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-13T12:30:01.012664+00:00"
-    },
-    {
-      "key": "juan bautista benedictis confirmo continuidad rus med team temporada 2027 tc",
-      "title": "Juan Bautista De Benedictis confirmó su continuidad en el RUS Med Team para la temporada 2027 del TC",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-13T12:30:01.012664+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261111184308_whatsapp-image-2026-11-11-at-18-42-50.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Juan Bautista De Benedictis confirmó su continuidad en el RUS Med Team para la temporada 2027 del TC",
-          "url": "https://necocheadigital.com/nota/120159/juan-bautista-de-benedictis-confirmo-su-continuidad-en-el-rus-med-team-para-la-temporada-2027-del-tc/",
-          "published_at": null,
-          "first_seen": "2026-11-13T12:30:01.012664+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Juan Bautista De Benedictis oficializó su continuidad dentro del RUS Med Team para disputar la temporada 2027 del Turismo Carretera. El acuerdo se concretó cuando todavía restan dos competencias para finalizar el calendario vigente, permitiendo que el piloto local planifique el próximo año con antelación junto a la escudería dirigida por Mauro Medina.",
-          "Con esta firma, el corredor de 39 años se convirtió en el primer piloto confirmado por la estructura con sede en Arrecifes de cara al futuro campeonato. El proyecto deportivo mantendrá la misma base técnica que viene desarrollando durante el presente certamen, con el Ford Mustang atendido integralmente en el taller arrecifeño y la motorización a cargo de Próspero Bonelli."
-        ],
-        "generated": "2026-11-13T12:30:53.696247+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-13T12:30:01.012664+00:00"
-    },
-    {
-      "key": "estacion quequen mataderos abren jueves eliminatorias liga necochea futbol",
-      "title": "Estación Quequén y Mataderos abren este jueves las eliminatorias de la Liga Necochea de Fútbol",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-13T12:30:01.012664+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261111183651_26b943cd-7002-4333-8aec-a58d8a9b50c0.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Estación Quequén y Mataderos abren este jueves las eliminatorias de la Liga Necochea de Fútbol",
-          "url": "https://necocheadigital.com/nota/120158/estacion-quequen-y-mataderos-abren-este-jueves-las-eliminatorias-de-la-liga-necochea-de-futbol/",
-          "published_at": null,
-          "first_seen": "2026-11-13T12:30:01.012664+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El partido de ida del repechaje entre Estación Quequén y Mataderos se disputará este jueves 12 de noviembre desde las 16 en el estadio Carlos Cuomo, marcando el inicio de los playoffs por el título del Torneo 2026 \"Sergio 'Giuseppe' Portugal\" de Primera división masculina de la Liga Necochea de Fútbol, mientras que los cruces del torneo reducido por el ascenso aguardan la confirmación de su fecha oficial por parte de la entidad. La etapa decisiva del certamen local comienza formalmente con este primer compromiso confirmado de la llave eliminatoria. El duelo pondrá frente a frente al campeón de la Zona B con el cuarto clasificado de la Zona A.",
-          "El elenco quequenense llega a esta instancia tras adjudicarse su grupo bajo la conducción técnica de Abel Aníbal Coría, quien trabaja acompañado por sus hijos en el cuerpo técnico. Del otro lado estará el conjunto de Barrio Norte, que buscará sacar ventaja como visitante en el primer chico."
-        ],
-        "generated": "2026-11-13T12:30:54.900703+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-13T12:30:01.012664+00:00"
-    },
-    {
-      "key": "necochea lanza nueva campana pap test vph centros salud",
-      "title": "Necochea lanza una nueva campaña de PAP y test de VPH en los centros de salud",
-      "score": 0.997,
-      "sources_count": 1,
-      "first_seen": "2026-11-13T12:27:51+00:00",
-      "image": null,
-      "articles": [
-        {
-          "portal": "Diario NQ",
-          "title": "Necochea lanza una nueva campaña de PAP y test de VPH en los centros de salud",
-          "url": "https://diarionq.com.ar/necochea-lanza-una-nueva-campana-de-pap-y-test-de-vph-en-los-centros-de-salud/",
-          "published_at": "2026-11-13T12:27:51+00:00",
-          "first_seen": "2026-11-13T12:30:01.012664+00:00",
-          "category": "Interés General",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La propuesta comenzará el lunes y se extenderá hasta el viernes en distintos CAPS del distrito. Karina Maceris, directora de Atención Primaria de la Salud, destacó que el objetivo es llegar especialmente a mujeres que permanecen fuera de los controles habituales y detectar de manera temprana posibles patologías del cuello uterino.",
-          "Charlando con Fede Cañadas en “Esta Mañana”, por NEC Radio 98.3 del Multimedio NQ, Karina Maceris, directora de Atención Primaria de la Salud , anunció una nueva campaña de PAP y test de VPH que comenzará el lunes y se desarrollará durante toda la semana en diferentes centros de salud de Necochea y Quequén. La iniciativa forma parte de un trabajo que el sistema sanitario local viene sosteniendo desde hace tres años, con distintas jornadas distribuidas durante el año."
-        ],
-        "generated": "2026-11-13T12:30:58.450606+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-13T12:30:01.012664+00:00"
-    },
-    {
-      "key": "baguales milonga sigue pie dos dias tradicion desfile jineteada espectaculos san cayetano",
-      "title": "Baguales y Milonga sigue en pie: dos días de tradición, desfile, jineteada y espectáculos en San Cayetano",
-      "score": 0.974,
-      "sources_count": 1,
-      "first_seen": "2026-11-13T12:10:46+00:00",
-      "image": null,
-      "articles": [
-        {
-          "portal": "Diario NQ",
-          "title": "Baguales y Milonga sigue en pie: dos días de tradición, desfile, jineteada y espectáculos en San Cayetano",
-          "url": "https://diarionq.com.ar/baguales-y-milonga-sigue-en-pie-dos-dias-de-tradicion-desfile-jineteada-y-espectaculos-en-san-cayetano/",
-          "published_at": "2026-11-13T12:10:46+00:00",
-          "first_seen": "2026-11-13T12:30:01.012664+00:00",
-          "category": "Destacadas",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La tradicional fiesta se desarrollará este sábado 14 y domingo 15 de noviembre en San Cayetano. Pese a la incertidumbre por el pronóstico, Alejo de Francisco confirmó que hasta el momento no hubo modificaciones en el programa. El sábado habrá desfile, espectáculos y bailanta con entrada gratuita, mientras que el domingo llegará la jineteada y la última clasificatoria para Jesús María.",
-          "Charlando con Fede Cañadas en “Esta Mañana”, por NEC Radio 98.3 del Multimedio NQ, Alejo de Francisco , uno de los responsables de la organización, confirmó que la fiesta de Baguales y Milonga continúa en pie y que, pese a la atención puesta sobre las condiciones climáticas, hasta el momento no se realizaron cambios en la programación prevista para el fin de semana. “Todo sigue en pie como está programado."
-        ],
-        "generated": "2026-11-13T12:31:00.856387+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-13T12:30:01.012664+00:00"
-    },
-    {
-      "key": "crisis textil argentina produccion cayo 20 cadena perdio casi 29 000 empleos",
-      "title": "Crisis textil en Argentina: la producción cayó 20,8 % y la cadena perdió casi 29.000 empleos",
-      "score": 0.966,
-      "sources_count": 1,
-      "first_seen": "2026-11-13T12:05:00+00:00",
-      "image": "http://nden.com.ar/uploads/noticias/5/2026/11/7cfb8ecea00fcb307f4354521a2df6b25b46da4e.jpg",
-      "articles": [
-        {
-          "portal": "Noticias de Necochea",
-          "title": "Crisis textil en Argentina: la producción cayó 20,8 % y la cadena perdió casi 29.000 empleos",
-          "url": "https://nden.com.ar/nota/38704/crisis-textil-en-argentina-la-produccion-cayo-20-8-y-la-cadena-perdio-casi-29-000-empleos",
-          "published_at": "2026-11-13T12:05:00+00:00",
-          "first_seen": "2026-11-13T12:30:01.012664+00:00",
-          "category": null,
-          "image": "http://nden.com.ar/uploads/noticias/5/2026/11/7cfb8ecea00fcb307f4354521a2df6b25b46da4e.jpg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Industria y empleo Crisis textil en Argentina: la producción cayó 20,8 % y la cadena perdió casi 29.000 empleos"
-        ],
-        "generated": "2026-11-13T12:31:01.568913+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-13T12:30:01.012664+00:00"
+      "apariciones": 3,
+      "ultima_impresion": "2026-11-13T13:00:00.774887+00:00",
+      "penalizacion": 0.55
     },
     {
       "key": "comenzaron colocar alambrado perimetral alrededor complejo casino",
       "title": "Comenzaron a colocar el alambrado perimetral alrededor del Complejo Casino",
-      "score": 0.583,
+      "score": 0.308,
       "sources_count": 1,
       "first_seen": "2026-11-13T11:00:34+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/900498802_891179837418151_7462984774168078611_n.webp",
@@ -527,16 +623,16 @@
           "TSN Necochea | ‹ VOLVER | Locales | alambrado | Infraestructura Comenzaron a colocar el alambrado perimetral alrededor del Complejo Casino Para evitar accidentes o ingresos a lugares indebidos Por Redacción TSN 13/11/2026 · 08:00 AM Agregar TSN Necochea en La empresa “A Toda Mar Vela” SA decidió colocar un alambre periférico alrededor del Complejo Casino. Esto limita el ingreso de personas a lugares donde no está habilitad o o pueden ser peligrosos teniendo en cuenta el estado de la infraestructura de la mayoría de ese sitio.",
           "Por otro lado, deja abierto los sectores a donde se puede ingresar como la sala de juegos u otras dependencias que funcionan en el Complejo. ALAMBRADO COMPLEJO CASINO INGRESO Seguinos en redes"
         ],
-        "generated": "2026-11-13T12:30:56.005517+00:00"
+        "generated": "2026-11-13T13:01:33.798927+00:00"
       },
-      "apariciones": 3,
-      "ultima_impresion": "2026-11-13T12:30:01.012664+00:00",
-      "penalizacion": 0.55
+      "apariciones": 4,
+      "ultima_impresion": "2026-11-13T13:00:00.774887+00:00",
+      "penalizacion": 0.302
     },
     {
       "key": "claraz celebrara 117 aniversario espectaculos musica actividades toda familia",
       "title": "Claraz celebrará su 117° aniversario con espectáculos, música y actividades para toda la familia",
-      "score": 0.503,
+      "score": 0.266,
       "sources_count": 1,
       "first_seen": "2026-11-13T11:25:59+00:00",
       "image": null,
@@ -556,16 +652,16 @@
           "La localidad de Claraz se prepara para celebrar su 117° aniversario con una jornada de actividades recreativas, propuestas culturales y espectáculos musicales. Los festejos tendrán lugar este domingo 15 de noviembre, con entrada libre y una programación que se extenderá desde la mañana hasta la noche. La celebración se desarrollará en el predio de Espacios Verdes La Vía, ubicado sobre la Ruta Nº 80, entre las calles 712 y 714.",
           "Si bien Claraz cumplió años el pasado 26 de julio, los festejos se trasladaron a noviembre, como ocurre habitualmente, para aprovechar las mejores condiciones climáticas. Las actividades comenzarán a las 10 con una tradicional barrileteada. Luego, a partir de las 14, tendrá lugar el acto inaugural, seguido del tradicional corte de torta y una programación que incluirá peñas folclóricas, grupos de danza, artistas locales y música en vivo."
         ],
-        "generated": "2026-11-13T12:31:07.076051+00:00"
+        "generated": "2026-11-13T13:01:46.223224+00:00"
       },
-      "apariciones": 3,
-      "ultima_impresion": "2026-11-13T12:30:01.012664+00:00",
-      "penalizacion": 0.55
+      "apariciones": 4,
+      "ultima_impresion": "2026-11-13T13:00:00.774887+00:00",
+      "penalizacion": 0.302
     },
     {
       "key": "ema monzon sorprendio nino vende necochea dinero televisor",
       "title": "Ema Monzón sorprendió a un niño que vende en Necochea con dinero y un televisor",
-      "score": 0.501,
+      "score": 0.264,
       "sources_count": 1,
       "first_seen": "2026-11-13T11:23:01+00:00",
       "image": null,
@@ -585,16 +681,16 @@
           "El influencer Ema Monzón viajó desde Rosario y se acercó a un niño que vende cosas junto a su mamá en la esquina de 75 y 50, en Necochea. Después de comprarle, quiso ayudarlos y les propuso que al día siguiente no trabajaran para poder descansar. La sorpresa emocionó al nene, que se largó a llorar y abrazó a Ema. El influencer le entregó a su mamá $1.500.000 para la producción y luego sumó otros $100.000.",
           "También le dio $200.000 al chico para que los destinara a la escuela o a lo que quisiera. Durante la charla, la mamá contó que querían comprar un televisor. Ema les dio uno y la familia recibió el regalo con emoción."
         ],
-        "generated": "2026-11-13T12:31:08.962185+00:00"
+        "generated": "2026-11-13T13:01:48.689397+00:00"
       },
-      "apariciones": 3,
-      "ultima_impresion": "2026-11-13T12:30:01.012664+00:00",
-      "penalizacion": 0.55
+      "apariciones": 4,
+      "ultima_impresion": "2026-11-13T13:00:00.774887+00:00",
+      "penalizacion": 0.302
     },
     {
       "key": "scaloni confirmo continuidad seleccion argentina 2030",
       "title": "Scaloni confirmó su continuidad en la Selección Argentina hasta 2030",
-      "score": 0.497,
+      "score": 0.262,
       "sources_count": 1,
       "first_seen": "2026-11-13T11:17:01+00:00",
       "image": null,
@@ -614,16 +710,16 @@
           "Lionel Scaloni continuará al frente de la Selección Argentina. El entrenador confirmó la renovación de su contrato hasta 2030 durante una conferencia de prensa que compartió con el presidente de la Asociación del Fútbol Argentino (AFA), Claudio Tapia. El nuevo vínculo se extenderá desde 2027 hasta 2030 y permitirá que Scaloni encabece un nuevo ciclo mundialista, con el objetivo de conducir al seleccionado argentino hacia la Copa del Mundo de 2030.",
           "El anuncio fue realizado por Tapia, quien destacó la importancia de darle continuidad al proyecto deportivo que comenzó en 2018 y que consiguió importantes conquistas para el fútbol argentino. Por su parte, el entrenador expresó su satisfacción por haber llegado a un acuerdo y aseguró que mantiene el entusiasmo para continuar en el cargo. “Tengo la misma ilusión de siempre”, manifestó, al tiempo que agradeció el esfuerzo realizado por la dirigencia para concretar la renovación."
         ],
-        "generated": "2026-11-13T12:31:12.578583+00:00"
+        "generated": "2026-11-13T13:01:51.311029+00:00"
       },
-      "apariciones": 3,
-      "ultima_impresion": "2026-11-13T12:30:01.012664+00:00",
-      "penalizacion": 0.55
+      "apariciones": 4,
+      "ultima_impresion": "2026-11-13T13:00:00.774887+00:00",
+      "penalizacion": 0.302
     },
     {
       "key": "villa diaz velez va titulo",
       "title": "Villa Díaz Vélez va por el título",
-      "score": 0.491,
+      "score": 0.259,
       "sources_count": 1,
       "first_seen": "2026-11-13T11:07:39+00:00",
       "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/c50ce045-6a59-4e11-a25f-d91be3c0877b.jpg",
@@ -643,16 +739,16 @@
           "Las futbolistas de Villa Díaz Vélez Morella Ordóñez y Estefanía Besoin visitaron Zoom El Deportivo y repasaron la clasificación ante Independiente de San Cayetano. El Naranja revirtió la serie, llegó al empate global sobre el cierre y consiguió el pasaje a la final mediante los penales. Ahora se prepara para enfrentar a Sportivo San Cayetano en la definición del campeonato. Villa Díaz Vélez está en la gran final del fútbol femenino y buscará quedarse con el título de la temporada frente a Sportivo San Cayetano.",
           "En la previa de una definición que genera mucha expectativa, Morella Ordóñez pasaron por Zoom junto a Estefanía Besoin y compartieron detalles de una clasificación cargada de emociones, esfuerzo y suspenso. El camino hacia la final tuvo una parada complicada ante Independiente de San Cayetano. Después de caer 1 a 0 en el encuentro de ida, el conjunto naranja necesitaba ganar para seguir en carrera."
         ],
-        "generated": "2026-11-13T12:31:14.602969+00:00"
+        "generated": "2026-11-13T13:01:54.092303+00:00"
       },
-      "apariciones": 3,
-      "ultima_impresion": "2026-11-13T12:30:01.012664+00:00",
-      "penalizacion": 0.55
+      "apariciones": 4,
+      "ultima_impresion": "2026-11-13T13:00:00.774887+00:00",
+      "penalizacion": 0.302
     },
     {
       "key": "inflacion octubre cuales fueron 10 alimentos aumentaron precio",
       "title": "Inflación de octubre: cuáles fueron los 10 alimentos que más aumentaron de precio",
-      "score": 0.145,
+      "score": 0.076,
       "sources_count": 1,
       "first_seen": "2026-11-13T10:49:26+00:00",
       "image": null,
@@ -672,16 +768,16 @@
           "La inflación de octubre fue del 2,2%, según informó el Instituto Nacional de Estadística y Censos (INDEC). El dato representó una suba de 0,3 puntos porcentuales respecto de septiembre, cuando el Índice de Precios al Consumidor (IPC) había registrado un incremento del 1,9%. De acuerdo con el organismo, la variación interanual alcanzó el 33,1%, mientras que la inflación acumulada durante los primeros diez meses de 2026 llegó al 26,3%.",
           "Entre las divisiones que componen el índice, Vivienda, agua, electricidad, gas y otros combustibles encabezó los aumentos, con una suba del 4,2%. Le siguieron Recreación y cultura, con el 3,3%, y Bienes y servicios varios, con el 2,3%. Por su parte, Alimentos y bebidas no alcohólicas registró un incremento del 2%, ubicándose por debajo del nivel general de inflación."
         ],
-        "generated": "2026-11-13T12:31:18.649546+00:00"
+        "generated": "2026-11-13T13:01:56.736964+00:00"
       },
-      "apariciones": 5,
-      "ultima_impresion": "2026-11-13T12:30:01.012664+00:00",
-      "penalizacion": 0.166
+      "apariciones": 6,
+      "ultima_impresion": "2026-11-13T13:00:00.774887+00:00",
+      "penalizacion": 0.091
     },
     {
       "key": "independiente recupero chances clasificarse copa sudamericana 2027",
       "title": "Independiente recuperó sus chances de clasificarse a la Copa Sudamericana 2027",
-      "score": 0.144,
+      "score": 0.076,
       "sources_count": 1,
       "first_seen": "2026-11-13T10:44:39+00:00",
       "image": null,
@@ -701,69 +797,11 @@
           "Independiente recibió una noticia que renovó sus expectativas de cara a la clasificación a las copas internacionales de 2027. Una serie de sanciones disciplinarias aplicadas a integrantes del cuerpo técnico de Defensa y Justicia podría modificar el orden de la tabla anual y favorecer al conjunto de Avellaneda. La situación se originó a partir de la igualdad entre ambos equipos en la tabla anual, donde finalizaron con 47 puntos, 39 goles a favor y 36 en contra.",
           "Ante la paridad en esos registros, la posición debió definirse mediante el criterio de fair play. Este sistema establece que cada equipo comienza con 1000 unidades y recibe descuentos por las sanciones disciplinarias: una por cada tarjeta amarilla, cuatro por una expulsión por doble amonestación y cinco por una tarjeta roja directa. El reglamento contempla tanto a los futbolistas como a los integrantes de los cuerpos técnicos."
         ],
-        "generated": "2026-11-13T12:31:23.663341+00:00"
+        "generated": "2026-11-13T13:01:59.190462+00:00"
       },
-      "apariciones": 5,
-      "ultima_impresion": "2026-11-13T12:30:01.012664+00:00",
-      "penalizacion": 0.166
-    },
-    {
-      "key": "como estara tiempo viernes necochea quequen",
-      "title": "Cómo estará el tiempo este viernes en Necochea y Quequén",
-      "score": 0.003,
-      "sources_count": 1,
-      "first_seen": "2026-11-13T05:04:48+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2023/12/WhatsApp-Image-2023-12-16-at-11.43.09.jpeg",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Cómo estará el tiempo este viernes en Necochea y Quequén",
-          "url": "https://tsnnecochea.com.ar/locales/como-estara-el-tiempo-este-viernes-en-necochea-y-quequen-18-242222/",
-          "published_at": "2026-11-13T05:04:48+00:00",
-          "first_seen": "2026-11-13T05:30:00.587392+00:00",
-          "category": "humedad",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2023/12/WhatsApp-Image-2023-12-16-at-11.43.09.jpeg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Locales | humedad | Clima Cómo estará el tiempo este viernes en Necochea y Quequén El Servicio Meteorológico Nacional anticipa una jornada con posibilidades de lluvias y altas temperaturas Por Redacción TSN 13/11/2026 · 02:04 AM El clima Agregar TSN Necochea en E ste viernes 13 de noviembre se presenta en Necochea y Quequén con condiciones meteorológicas cambiantes. El Servicio Meteorológico Nacional (SMN) prevé una jornada con probabilidades de tormentas y una temperatura máxima que alcanzará los 22°C . La humedad relativa del aire se ubica en un 97 % , mientras que la presión atmosférica se mantiene alta y estable en 1019 hectopascales .",
-          "El pronóstico extendido punto por punto El comportamiento del tiempo a lo largo del día se estructurará de la siguiente manera: Madrugada: Temperatura mínima de 16 °C con tormentas. Vientos del sector Este con velocidades de hasta 59 km/h."
-        ],
-        "generated": "2026-11-13T12:31:24.755832+00:00"
-      },
-      "apariciones": 11,
-      "ultima_impresion": "2026-11-13T12:30:01.012664+00:00",
-      "penalizacion": 0.005
-    },
-    {
-      "key": "milei tecnologia multiplica productividad falso destruya trabajo",
-      "title": "Milei : “La tecnología multiplica la productividad y es falso que destruya el trabajo”",
-      "score": 0.002,
-      "sources_count": 1,
-      "first_seen": "2026-11-13T04:45:19+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/540-1-2.avif",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Milei : “La tecnología multiplica la productividad y es falso que destruya el trabajo”",
-          "url": "https://tsnnecochea.com.ar/nacion/milei-la-tecnologia-multiplica-la-productividad-y-es-falso-que-destruya-el-trabajo-242219/",
-          "published_at": "2026-11-13T04:45:19+00:00",
-          "first_seen": "2026-11-13T05:00:01.009065+00:00",
-          "category": "gala",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/540-1-2.avif"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Nación | gala | Gala Endeavor 2026 Milei : “La tecnología multiplica la productividad y es falso que destruya el trabajo” El Presidente valoró el desarrollo tecnológico y pidió que el Estado no intervenga. Por Redacción TSN 13/11/2026 · 01:45 AM Agregar TSN Necochea en El presidente Javier Milei participó este jueves por la noche de la Gala Endeavor Argentina 2026 , llevada adelante en el complejo Rut Haus de la Ciudad de Buenos Aires.",
-          "Ante un auditorio integrado por referentes y emprendedores de todo el país, el mandatario brindó un discurso enfocado en la centralidad de la revolución tecnológica en la historia económica de las naciones. Sin mencionarlo, contradijo al Papa León XIV que pidió atención a la tecnología, en especial a la inteligencia artificial."
-        ],
-        "generated": "2026-11-13T12:31:25.887864+00:00"
-      },
-      "apariciones": 12,
-      "ultima_impresion": "2026-11-13T12:30:01.012664+00:00",
-      "penalizacion": 0.003
+      "apariciones": 6,
+      "ultima_impresion": "2026-11-13T13:00:00.774887+00:00",
+      "penalizacion": 0.091
     },
     {
       "key": "estudiantes gano independiente rivadavia alargue campeon supercopa argentina",
@@ -797,10 +835,10 @@
           "Deportes nacionales Añadir como fuente en Estudiantes le ganó a Independiente Rivadavia en el alargue y es campeón de la Supercopa Argentina El Pincha se impuso 3 a 2 en Córdoba en una final de alto voltaje. Ganaba 2 a 0, la Lepra mendocina lo empató en el descuento y Lucas Alario lo resolvió de cabeza en el tiempo suplementario. 12 de noviembre de 2026 | 23:18 Ads Estudiantes de La Plata se consagró campeón de la Supercopa Argentina al vencer 3 a 2 a Independiente Rivadavia de Mendoza , en una final que se definió en el tiempo suplementario. Se jugó anoche en el estadio Julio César Villagra, la cancha de Belgrano en Córdoba.",
           "Ads El conjunto que dirige Alexander Medina parecía tener el título encaminado. A los 10 minutos del segundo tiempo, Guido Carrillo abrió el marcador con un cabezazo tras un tiro de esquina. A los 23, un rebote desafortunado de Iván Villalba terminó en su propio arco y estiró la ventaja a 2 a 0."
         ],
-        "generated": "2026-11-13T12:30:41.656093+00:00"
+        "generated": "2026-11-13T13:01:20.630821+00:00"
       },
-      "apariciones": 18,
-      "ultima_impresion": "2026-11-13T12:30:01.012664+00:00",
+      "apariciones": 19,
+      "ultima_impresion": "2026-11-13T13:00:00.774887+00:00",
       "penalizacion": 0.0
     },
     {
@@ -826,67 +864,10 @@
           "El nadador necochense visitó Zoom El Deportivo junto a su entrenador, Marcos Bertone, y compartió la emoción por la medalla de bronce conseguida con la Selección Argentina en el Mundial de Natación para Personas con Síndrome de Down, disputado en Portugal. Entre anécdotas, sonrisas y agradecimientos, repasaron una temporada histórica y hablaron de los próximos objetivos. La alegría todavía se siente.",
           "Después de una experiencia mundialista inolvidable en Albufeira, Portugal, Nicolás Amendola regresó a Necochea con una medalla de bronce y la satisfacción de haber sido protagonista de un logro histórico para la natación argentina. Junto a su entrenador, Marcos Bertone, el joven nadador pasó por los micrófonos de Zoom y dejó una entrevista cargada de emoción, humor y espontaneidad."
         ],
-        "generated": "2026-11-13T12:31:28.331772+00:00"
-      },
-      "apariciones": 19,
-      "ultima_impresion": "2026-11-13T12:30:01.012664+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "estacion quequen saco ventaja ida repechaje mataderos",
-      "title": "Estación Quequén sacó ventaja en la ida del repechaje ante Mataderos",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-11-13T01:22:05+00:00",
-      "image": null,
-      "articles": [
-        {
-          "portal": "Diario NQ",
-          "title": "Estación Quequén sacó ventaja en la ida del repechaje ante Mataderos",
-          "url": "https://diarionq.com.ar/estacion-quequen-saco-ventaja-en-la-ida-del-repechaje-ante-mataderos/",
-          "published_at": "2026-11-13T01:22:05+00:00",
-          "first_seen": "2026-11-13T01:30:00.536579+00:00",
-          "category": "Deportes",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El Verde se impuso por 2-0 en el estadio Carlos Cuomo, con goles de Leonel Rodríguez y David Del Rey, y quedó bien perfilado de cara a la revancha. La serie definirá el último lugar disponible en las semifinales del Torneo “Sergio ‘Giuseppe’ Portugal” 2026. Estación Quequén dio un paso importante en el repechaje al derrotar por 2-0 a Mataderos, en el encuentro de ida disputado en el estadio Carlos Cuomo.",
-          "Con goles de Leonel Rodríguez y David Del Rey, el conjunto quequenense consiguió una ventaja valiosa y llegará con mayor tranquilidad al partido de vuelta. El equipo dirigido por Abel Aníbal Coria encontró la apertura del marcador durante la primera mitad. Tras una buena acción individual de Eduardo “Kuky” Berón por el sector izquierdo, el atacante envió un pase atrás que encontró a Leonel Rodríguez, quien solamente tuvo que empujar la pelota para establecer el 1-0."
-        ],
-        "generated": "2026-11-13T12:31:30.168361+00:00"
+        "generated": "2026-11-13T13:02:01.020228+00:00"
       },
       "apariciones": 20,
-      "ultima_impresion": "2026-11-13T12:30:01.012664+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "lagrimas abrazos sala colmada emotivo estreno documental anita",
-      "title": "Lágrimas, abrazos y una sala colmada: el emotivo estreno del documental de Anita",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-11-13T00:44:00+00:00",
-      "image": "http://nden.com.ar/uploads/noticias/5/2026/11/fdfefc4223686997f7df39e6f46166995d7f7bce.jpg",
-      "articles": [
-        {
-          "portal": "Noticias de Necochea",
-          "title": "Lágrimas, abrazos y una sala colmada: el emotivo estreno del documental de Anita",
-          "url": "https://nden.com.ar/nota/38702/lagrimas-abrazos-y-una-sala-colmada-el-emotivo-estreno-del-documental-de-anita",
-          "published_at": "2026-11-13T00:44:00+00:00",
-          "first_seen": "2026-11-13T01:00:01.439259+00:00",
-          "category": null,
-          "image": "http://nden.com.ar/uploads/noticias/5/2026/11/fdfefc4223686997f7df39e6f46166995d7f7bce.jpg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Pronóstico Tras un jueves ventoso, Necochea y Quequén tienen alerta amarilla por tormentas para el viernes"
-        ],
-        "generated": "2026-11-13T12:31:31.407002+00:00"
-      },
-      "apariciones": 21,
-      "ultima_impresion": "2026-11-13T12:30:01.012664+00:00",
+      "ultima_impresion": "2026-11-13T13:00:00.774887+00:00",
       "penalizacion": 0.0
     }
   ]
