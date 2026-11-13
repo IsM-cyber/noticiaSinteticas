@@ -1,12 +1,164 @@
 {
-  "generated_at": "2026-11-13T17:30:00.494669+00:00",
+  "generated_at": "2026-11-13T18:00:00.653301+00:00",
   "article_count": 120,
   "fetch_errors": [],
   "stories": [
     {
+      "key": "comienza domingo operativo guardavidas necochea quequen",
+      "title": "Comienza el servicio de guardavidas en las playas del distrito de Necochea",
+      "score": 1.469,
+      "sources_count": 4,
+      "first_seen": "2026-11-12T22:23:54+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2024/03/37564cf0-add4-42e8-bca1-82d90b127ef1.jpg",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Comienza el servicio de guardavidas en las playas del distrito de Necochea",
+          "url": "https://tsnnecochea.com.ar/locales/comienza-el-servicio-de-guardavidas-en-las-playas-del-distrito-de-necochea-242255/",
+          "published_at": "2026-11-13T17:57:27+00:00",
+          "first_seen": "2026-11-13T18:00:00.653301+00:00",
+          "category": "guardavidas",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2024/03/37564cf0-add4-42e8-bca1-82d90b127ef1.jpg"
+        },
+        {
+          "portal": "Necochea Digital",
+          "title": "Comienza el domingo el operativo de guardavidas en Necochea y Quequén",
+          "url": "https://necocheadigital.com/nota/120161/comienza-el-domingo-el-operativo-de-guardavidas-en-necochea-y-quequen/",
+          "published_at": null,
+          "first_seen": "2026-11-13T18:00:00.653301+00:00",
+          "category": null,
+          "image": null
+        },
+        {
+          "portal": "Necochea Digital",
+          "title": "El domingo 15 comienza el servicio de guardavidas en las playas de Necochea y Quequén",
+          "url": "https://necocheadigital.com/nota/120124/el-domingo-15-comienza-el-servicio-de-guardavidas-en-las-playas-de-necochea-y-quequen/",
+          "published_at": null,
+          "first_seen": "2026-11-13T18:00:00.653301+00:00",
+          "category": null,
+          "image": null
+        },
+        {
+          "portal": "Necochea Libre",
+          "title": "ESTE DOMINGO 15/11 COMENZARÀ EL SERVICIO DE GUARDAVIDAS EN LAS PLAYAS DE NECOCHEA Y DE QUEQUÈN.",
+          "url": "https://necochealibre.com.ar/este-domingo-15-11-comenzara-el-servicio-de-guardavidas-en-las-playas-de-necochea-y-de-quequen/",
+          "published_at": "2026-11-12T22:23:54+00:00",
+          "first_seen": "2026-11-13T18:00:00.653301+00:00",
+          "category": "Generales",
+          "image": null
+        },
+        {
+          "portal": "Noticias de Necochea",
+          "title": "Guardavidas en Necochea y Quequén: qué 13 puestos abren este domingo",
+          "url": "https://nden.com.ar/nota/38707/guardavidas-en-necochea-y-quequen-que-13-puestos-abren-este-domingo",
+          "published_at": "2026-11-13T14:59:00+00:00",
+          "first_seen": "2026-11-13T18:00:00.653301+00:00",
+          "category": null,
+          "image": "http://nden.com.ar/uploads/noticias/5/2026/11/20261113120753_20251003113655-guardavidas.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Locales | guardavidas | Temporada Comienza el servicio de guardavidas en las playas del distrito de Necochea La cobertura diaria es de 9 a 20 en distintos sectores. Por Redacción TSN 13/11/2026 · 02:57 PM El 15 de noviembre ya habrá guardavidas Agregar TSN Necochea en La Municipalidad de Necochea informa que este domingo 15 de noviembre comenzará el servicio municipal de guardavidas en las playas del distrito , dando inicio al operativo de seguridad correspondiente a la temporada 2026/2027.",
+          "La Secretaría de Gobierno, a través de la Jefatura de Guardavidas y Operativo en Playas, dio a conocer los horarios y puestos que estarán cubiertos durante esta primera etapa, que se extenderá hasta el lunes 30 de noviembre. En Necochea , el servicio funcionará de lunes a domingo, de 9 a 20, en los siguientes puestos: Los Patos, 75, 79, 83 y Tarsis, 87, 91, ExAca/Zeus, Zeus/Sahara, Neptuno y Sotavento."
+        ],
+        "generated": "2026-11-13T18:00:42.207977+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-13T18:00:00.653301+00:00"
+    },
+    {
+      "key": "explosion rotura cano gas remedios escalada dejo 20 heridos",
+      "title": "Explosión por rotura de un caño de gas en Remedios de Escalada dejó 20 heridos",
+      "score": 1.206,
+      "sources_count": 1,
+      "first_seen": "2026-11-13T17:05:51+00:00",
+      "image": "https://cdnartic.ar/0KtyLeA6aNV6PQIxnlwX7XJ9W2o=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/la_explosion_se_produjo_alrededor_de_las_944_en_la_interseccion_de_las_calles_beltran_y_del_valle_iberlucea.webp",
+      "articles": [
+        {
+          "portal": "Ecos Diarios",
+          "title": "Explosión por rotura de un caño de gas en Remedios de Escalada dejó 20 heridos",
+          "url": "https://elecos.com.ar/explosion-por-rotura-de-un-cano-de-gas-en-remedios-de-escalada-dejo-20-heridos",
+          "published_at": "2026-11-13T17:05:51+00:00",
+          "first_seen": "2026-11-13T18:00:00.653301+00:00",
+          "category": "13",
+          "image": "https://cdnartic.ar/0KtyLeA6aNV6PQIxnlwX7XJ9W2o=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/la_explosion_se_produjo_alrededor_de_las_944_en_la_interseccion_de_las_calles_beltran_y_del_valle_iberlucea.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Policiales Añadir como fuente en Explosión por rotura de un caño de gas en Remedios de Escalada dejó 20 heridos Una máquina dañó la red de distribución durante trabajos de renovación, provocando una fuerte detonación que afectó a locales comerciales y viviendas de la zona. 13 de noviembre de 2026 | 14:05 La explosión se produjo alrededor de las 9.44 en la intersección de las calles Beltrán y Del Valle Iberlucea, Ads Una fuerte explosión seguida de un incendio sacudió este viernes por la mañana el centro de Remedios de Escalada, en el partido de Lanús.",
+          "El siniestro dejó al menos 20 personas heridas, cinco de ellas con quemaduras graves, y provocó importantes daños materiales en una zona comercial. Ads Según las primeras informaciones, el episodio se desencadenó cuando una máquina dañó un caño de la red de distribución de gas durante trabajos de renovación realizados por Metrogas ."
+        ],
+        "generated": "2026-11-13T18:00:43.680114+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-13T18:00:00.653301+00:00"
+    },
+    {
+      "key": "mayra mendoza presento guia posvencion abordar suicidio ambitos educativos",
+      "title": "Mayra Mendoza presentó la Guía de Posvención para abordar el suicidio en ámbitos educativos",
+      "score": 1.203,
+      "sources_count": 1,
+      "first_seen": "2026-11-13T17:04:19+00:00",
+      "image": "https://cdnartic.ar/Q77qKSc2rM8BAgDfLFoqAj6OmJw=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/mayra_mendoza.webp",
+      "articles": [
+        {
+          "portal": "Ecos Diarios",
+          "title": "Mayra Mendoza presentó la Guía de Posvención para abordar el suicidio en ámbitos educativos",
+          "url": "https://elecos.com.ar/mayra-mendoza-presento-la-guia-de-posvencion-para-abordar-el-suicidio-en-ambitos-educativos",
+          "published_at": "2026-11-13T17:04:19+00:00",
+          "first_seen": "2026-11-13T18:00:00.653301+00:00",
+          "category": "nacionales",
+          "image": "https://cdnartic.ar/Q77qKSc2rM8BAgDfLFoqAj6OmJw=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/mayra_mendoza.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Nacionales Añadir como fuente en Mayra Mendoza presentó la Guía de Posvención para abordar el suicidio en ámbitos educativos La diputada provincial presentó una iniciativa para capacitar a docentes y equipos directivos en la prevención y el acompañamiento tras muertes por suicidio. 13 de noviembre de 2026 | 14:04 Mayra Mendoza Ads En La Casita de los Pibes, ubicada en Villa Elvira, La Plata, la diputada provincial Mayra Mendoza presentó la Guía de Posvención . Esta herramienta forma parte de un conjunto de proyectos orientados a la salud mental que incluyen guías de intervención destinadas a familiares, amigos, docentes y compañeros tras una muerte por suicidio.",
+          "Ads Durante el encuentro, la legisladora destacó la urgencia de la problemática: El incremento de los suicidios es la principal causa de muerte violenta en La Plata. Y sobre todo entre varones de 18 a 29 años."
+        ],
+        "generated": "2026-11-13T18:00:44.889029+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-13T18:00:00.653301+00:00"
+    },
+    {
+      "key": "empleo formal cayo agosto mientras monotributo registro fuerte crecimiento",
+      "title": "El empleo formal cayó en agosto mientras el monotributo registró un fuerte crecimiento",
+      "score": 1.2,
+      "sources_count": 1,
+      "first_seen": "2026-11-13T17:02:27+00:00",
+      "image": "https://cdnartic.ar/JMjtQIZZUHps9XcBWNptGzBGY88=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/la_mano_de_un_trabajador_agencia_xinhua.webp",
+      "articles": [
+        {
+          "portal": "Ecos Diarios",
+          "title": "El empleo formal cayó en agosto mientras el monotributo registró un fuerte crecimiento",
+          "url": "https://elecos.com.ar/el-empleo-formal-cayo-en-agosto-mientras-el-monotributo-registro-un-fuerte-crecimiento",
+          "published_at": "2026-11-13T17:02:27+00:00",
+          "first_seen": "2026-11-13T18:00:00.653301+00:00",
+          "category": "nacionales",
+          "image": "https://cdnartic.ar/JMjtQIZZUHps9XcBWNptGzBGY88=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/la_mano_de_un_trabajador_agencia_xinhua.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Nacionales Añadir como fuente en El empleo formal cayó en agosto mientras el monotributo registró un fuerte crecimiento Durante el octavo mes del año se perdieron 13.640 puestos de trabajo registrados, mientras que el sector independiente sumó 19.046 nuevos inscriptos. 13 de noviembre de 2026 | 14:02 La mano de un trabajador. (Agencia Xinhua) Ads El mercado laboral argentino volvió a mostrar señales de deterioro durante agosto.",
+          "Según los datos difundidos por el Sistema Integrado Previsional Argentino (SIPA) , en ese mes se perdieron 13.640 puestos de trabajo registrados en comparación con julio, producto de una caída generalizada tanto en el sector asalariado privado como en el público. Ads En contrapartida, el monotributo incorporó 19.046 inscriptos, lo que representa su mayor crecimiento mensual de los últimos 19 meses."
+        ],
+        "generated": "2026-11-13T18:00:46.435554+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-13T18:00:00.653301+00:00"
+    },
+    {
       "key": "autorizan extradicion estados unidos ladrones juan martin potro travis kelce",
       "title": "Autorizan la extradición a Estados Unidos de los ladrones de Juan Martín del Potro y Travis Kelce",
-      "score": 1.248,
+      "score": 1.197,
       "sources_count": 1,
       "first_seen": "2026-11-13T17:00:35+00:00",
       "image": "https://cdnartic.ar/qp7M53dF5hDi7ijC3k7973afdT0=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/juan_martin_del_potro.jpg",
@@ -26,16 +178,16 @@
           "Policiales Añadir como fuente en Autorizan la extradición a Estados Unidos de los ladrones de Juan Martín del Potro y Travis Kelce La Justicia federal dio luz verde para extraditar a dos ciudadanos chilenos acusados de integrar una banda que desvalijó a deportistas de élite en Estados Unidos y al tenista argentino en Tandil. 13 de noviembre de 2026 | 14:00 Ads La Justicia federal autorizó la extradición a Estados Unidos de Bastián Jiménez Freraut e Ignacio Zuñiga Cartés , los delincuentes chilenos acusados de desvalijar a Travis Kelce , el marido de Taylor Swift . Los imputados también están acusados de robarle al tenista Juan Martín del Potro en la ciudad de Tandil .",
           "Ads La decisión fue tomada por el juez federal Sebastián Ramos , a cargo del proceso. Según confirmó a Infobae la abogada de los imputados, Florencia Barba , la defensa apelará la medida una vez que se conozcan los fundamentos la semana próxima."
         ],
-        "generated": "2026-11-13T17:30:37.784303+00:00"
+        "generated": "2026-11-13T18:00:47.689662+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-13T17:30:00.494669+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-13T18:00:00.653301+00:00",
+      "penalizacion": 1.0
     },
     {
       "key": "polemica decision taylor fritz calendario circuito atp",
       "title": "La polémica decisión de Taylor Fritz sobre su calendario en el circuito ATP",
-      "score": 1.247,
+      "score": 1.196,
       "sources_count": 1,
       "first_seen": "2026-11-13T17:00:01+00:00",
       "image": "https://cdnartic.ar/kYZ4tNk56hG96K2lfjH-z7gXWHk=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/taylor_fritz.jpg",
@@ -55,16 +207,16 @@
           "Deportes nacionales Añadir como fuente en La polémica decisión de Taylor Fritz sobre su calendario en el circuito ATP El tenista estadounidense sorprendió al confirmar su participación en el torneo de Estocolmo, una elección que genera dudas en medio de su lucha por clasificar a las ATP Finals. 13 de noviembre de 2026 | 14:00 Ads El presente de Taylor Fritz en el circuito profesional es de alta intensidad.",
           "El estadounidense se encuentra actualmente en plena competencia en el Paris Masters , donde busca sumar los puntos necesarios para asegurar su lugar en las ATP Finals que se disputarán al cierre de la temporada. Para mantener vivas sus aspiraciones, el jugador debe alcanzar al menos las semifinales en el torneo francés, aunque este resultado no garantiza matemáticamente su clasificación entre los nueve mejores."
         ],
-        "generated": "2026-11-13T17:30:39.063551+00:00"
+        "generated": "2026-11-13T18:00:48.964469+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-13T17:30:00.494669+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-13T18:00:00.653301+00:00",
+      "penalizacion": 1.0
     },
     {
       "key": "vuelos demorados aeroparque ezeiza paro japonesa ate anac",
       "title": "Vuelos demorados en Aeroparque y Ezeiza por un paro a la japonesa de ATE-ANAC",
-      "score": 1.245,
+      "score": 1.195,
       "sources_count": 1,
       "first_seen": "2026-11-13T16:59:06+00:00",
       "image": "https://cdnartic.ar/vAg74iIPSA7OqEDFohfxXaoRekk=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/protesta.jpg",
@@ -84,248 +236,190 @@
           "Nacionales Añadir como fuente en Vuelos demorados en Aeroparque y Ezeiza por un paro a la japonesa de ATE-ANAC Trabajadores de la Administración Nacional de Aviación Civil llevan adelante una medida de fuerza que intensifica los controles de seguridad, generando demoras en las terminales aéreas. 13 de noviembre de 2026 | 13:59 Ads Este viernes por la mañana se reportan varios vuelos demorados en el Aeroparque Jorge Newbery debido a una medida de fuerza implementada por la Asociación de Trabajadores del Estado (ATE), gremio que nuclea a empleados de la Administración Nacional de Aviación Civil (ANAC).",
           "La protesta, denominada paro a la japonesa , consiste en que los trabajadores, en lugar de cesar sus actividades, continúan con sus tareas habituales e incluso las intensifican para generar dificultades operativas."
         ],
-        "generated": "2026-11-13T17:30:39.575235+00:00"
+        "generated": "2026-11-13T18:00:49.466855+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-13T17:30:00.494669+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-13T18:00:00.653301+00:00",
+      "penalizacion": 1.0
     },
     {
-      "key": "seleccionador nigeria aclara ausencia george ilenikhena clasificacion copa africana naciones",
-      "title": "El seleccionador de Nigeria aclara la ausencia de George Ilenikhena en la clasificación para la Copa Africana de Naciones",
-      "score": 1.244,
+      "key": "calido reconocimiento gestion municipal medallistas locales juegos bonaerenses",
+      "title": "Cálido reconocimiento de la gestión municipal hacia los medallistas locales en los Juegos Bonaerenses",
+      "score": 1.175,
       "sources_count": 1,
-      "first_seen": "2026-11-13T16:58:12+00:00",
-      "image": "https://cdnartic.ar/hGyB-cVDCffmCA0HP7JvtX5MpmI=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/clasificacion_para_la_copa_africana_de_naciones.jpg",
+      "first_seen": "2026-11-13T17:44:50+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/13-11-FOTO-Rojas-Bonaerenses3.webp",
       "articles": [
         {
-          "portal": "Ecos Diarios",
-          "title": "El seleccionador de Nigeria aclara la ausencia de George Ilenikhena en la clasificación para la Copa Africana de Naciones",
-          "url": "https://elecos.com.ar/el-seleccionador-de-nigeria-aclara-la-ausencia-de-george-ilenikhena-en-la-clasificacion-para-la-copa-africana-de-naciones",
-          "published_at": "2026-11-13T16:58:12+00:00",
-          "first_seen": "2026-11-13T17:30:00.494669+00:00",
-          "category": "deportes-nacional",
-          "image": "https://cdnartic.ar/hGyB-cVDCffmCA0HP7JvtX5MpmI=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/clasificacion_para_la_copa_africana_de_naciones.jpg"
+          "portal": "TSN Necochea",
+          "title": "Cálido reconocimiento de la gestión municipal hacia los medallistas locales en los Juegos Bonaerenses",
+          "url": "https://tsnnecochea.com.ar/deportes/calido-reconocimiento-de-la-gestion-municipal-hacia-los-medallistas-locales-en-los-juegos-bonaerenses-242252/",
+          "published_at": "2026-11-13T17:44:50+00:00",
+          "first_seen": "2026-11-13T18:00:00.653301+00:00",
+          "category": "intendente",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/13-11-FOTO-Rojas-Bonaerenses3.webp"
         }
       ],
       "summary": {
         "paragraphs": [
-          "Deportes nacionales Añadir como fuente en El seleccionador de Nigeria aclara la ausencia de George Ilenikhena en la clasificación para la Copa Africana de Naciones Tras las críticas recibidas por la exclusión del delantero del Al-Ittihad, el entrenador Eric Chelle confirmó que el futbolista padece una lesión. 13 de noviembre de 2026 | 13:58 Ads El seleccionador de Nigeria , Eric Chelle , respondió a las fuertes críticas que recibió durante el último periodo por no convocar a George Ilenikhena , delantero del Al-Ittihad saudí, durante el actual parón internacional.",
-          "La selección se prepara para enfrentar a Tanzania en dos partidos, este viernes y el próximo martes, correspondientes a la tercera y cuarta jornada de la fase de clasificación para la Copa Africana de Naciones 2027 ."
+          "TSN Necochea | ‹ VOLVER | Deportes | intendente | Emotivo Cálido reconocimiento de la gestión municipal hacia los medallistas locales en los Juegos Bonaerenses El intendente Arturo Rojas encabezó una ceremonia de entrega de diplomas para quienes consiguieron medallas de oro, plata y bronce en las finales disputadas en Mar del Plata. Por Redacción TSN 13/11/2026 · 02:44 PM Agregar TSN Necochea en La gestión del intendente Arturo Rojas realizó un reconocimiento a los deportistas necochenses y exponentes de la cultura que consiguieron medallas en las finales de los 35° Juegos Bonaerenses , disputadas recientemente en Mar del Plata.",
+          "En una jornada de encuentro y celebración, se entregaron diplomas a los representantes locales que alcanzaron los podios en las distintas disciplinas."
         ],
-        "generated": "2026-11-13T17:30:40.835909+00:00"
+        "generated": "2026-11-13T18:00:50.547158+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-13T17:30:00.494669+00:00"
+      "ultima_impresion": "2026-11-13T18:00:00.653301+00:00"
     },
     {
-      "key": "avril lavigne anuncio nacimiento primera hija",
-      "title": "Avril Lavigne anunció el nacimiento de su primera hija",
-      "score": 1.243,
-      "sources_count": 1,
-      "first_seen": "2026-11-13T16:57:29+00:00",
-      "image": "https://cdnartic.ar/HYrvXKjCYyYE7qqaBgzuRpT_sX4=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/avril_lavigne.png",
-      "articles": [
-        {
-          "portal": "Ecos Diarios",
-          "title": "Avril Lavigne anunció el nacimiento de su primera hija",
-          "url": "https://elecos.com.ar/avril-lavigne-anuncio-el-nacimiento-de-su-primera-hija",
-          "published_at": "2026-11-13T16:57:29+00:00",
-          "first_seen": "2026-11-13T17:30:00.494669+00:00",
-          "category": "104",
-          "image": "https://cdnartic.ar/HYrvXKjCYyYE7qqaBgzuRpT_sX4=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/avril_lavigne.png"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Espectáculos y arte Añadir como fuente en Avril Lavigne anunció el nacimiento de su primera hija La reconocida cantante pop de 42 años sorprendió a sus seguidores en las redes sociales al confirmar la llegada de su primera hija junto a su pareja. 13 de noviembre de 2026 | 13:57 Ads La artista Avril Lavigne compartió la noticia a través de sus plataformas digitales, donde publicó una serie de tres fotografías para oficializar la llegada de su bebé. En las imágenes se puede observar la mano de la recién nacida sosteniendo las manos de dos adultos, a la cantante junto a la niña y tres pares de zapatillas Vans sobre una patineta.",
-          "Ads Junto al material fotográfico, la intérprete de Sk8er Boi escribió un breve mensaje: Our Mini Fucking Princess has arrived. Ads Hasta el momento, no se han brindado otros detalles sobre el nacimiento ni se ha revelado la identidad de su pareja."
-        ],
-        "generated": "2026-11-13T17:30:42.071008+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-13T17:30:00.494669+00:00"
-    },
-    {
-      "key": "escuela tecnica presento nueva expo tecnica",
-      "title": "La Escuela Técnica Nº 2 presentó una nueva Expo Técnica",
-      "score": 1.239,
-      "sources_count": 1,
-      "first_seen": "2026-11-13T16:55:31+00:00",
-      "image": "https://cdnartic.ar/ZQJGNfn9osWiA9Fw-qYjqjDZj4g=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/expo_tecnica.webp",
-      "articles": [
-        {
-          "portal": "Ecos Diarios",
-          "title": "La Escuela Técnica Nº 2 presentó una nueva Expo Técnica",
-          "url": "https://elecos.com.ar/la-escuela-tecnica-no-2-presento-una-nueva-expo-tecnica",
-          "published_at": "2026-11-13T16:55:31+00:00",
-          "first_seen": "2026-11-13T17:30:00.494669+00:00",
-          "category": "14",
-          "image": "https://cdnartic.ar/ZQJGNfn9osWiA9Fw-qYjqjDZj4g=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/expo_tecnica.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La ciudad Añadir como fuente en La Escuela Técnica Nº 2 presentó una nueva Expo Técnica 13 de noviembre de 2026 | 13:55 Estudiantes de la Escuela Técnica Nº 2 de Necochea posan juntos durante la nueva edición de la Expo Técnica Ads La Escuela de Educación Secundaria Técnica Nº 2 llevó adelante este viernes 13 de noviembre una nueva edición de su Expo Técnica , una muestra institucional en la que los estudiantes exhibieron los proyectos y trabajos desarrollados durante el ciclo lectivo.",
-          "Ads La actividad se realizó en las instalaciones del establecimiento, en el marco de la Semana de la Educación Técnica y en conmemoración del Día de la Educación Técnica, que se celebra el domingo 15 de noviembre."
-        ],
-        "generated": "2026-11-13T17:30:43.301440+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-13T17:30:00.494669+00:00"
-    },
-    {
-      "key": "lionel scaloni renovo contrato seleccion argentina seguira como dt mundial 2030",
-      "title": "Lionel Scaloni renovó su contrato en la Selección Argentina y seguirá como DT hasta el Mundial 2030",
+      "key": "advierten fuertes tormentas necochea region rige alerta amarilla",
+      "title": "Advierten por fuertes tormentas en Necochea y la región: rige una alerta amarilla",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-11-13T17:30:00.494669+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/eb8b90319984c3cdcc3e70a2427eeec805787fb3.jpg",
+      "first_seen": "2026-11-13T18:00:00.653301+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/aa0bc79f869cb3451f9a68e1ba033581664d56d8.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Lionel Scaloni renovó su contrato en la Selección Argentina y seguirá como DT hasta el Mundial 2030",
-          "url": "https://necocheadigital.com/nota/120172/lionel-scaloni-renovo-su-contrato-en-la-seleccion-argentina-y-seguira-como-dt-hasta-el-mundial-2030/",
+          "title": "Advierten por fuertes tormentas en Necochea y la región: rige una alerta amarilla",
+          "url": "https://necocheadigital.com/nota/120175/advierten-por-fuertes-tormentas-en-necochea-y-la-region-rige-una-alerta-amarilla/",
           "published_at": null,
-          "first_seen": "2026-11-13T17:30:00.494669+00:00",
+          "first_seen": "2026-11-13T18:00:00.653301+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "La noticia que estaba esperando todo el país: Lionel Scaloni seguirá al frente de la Selección Argentina . Un par de reuniones con el presidente Claudio Tapia bastaron. Con ambas partes predispuestas, solo hubo que sentarse, ajustar algunos números en el papel y seguir mirando hacia adelante . El entrenador, que con los ojos inundados de lágrimas había puesto en duda su continuidad tras perder la final del Mundial , renueva su contrato y continuará liderando este proceso hasta el Mundial 2030 .",
-          "\"Vamos a anunciar oficialmente la renovación del cuerpo técnico del Gringo Lionel Scaloni por el período 27 al 30 al mando de la Selección Argentina. Es una alegría para todos los que componen el Comité Ejecutivo de la AFA como para todos los argentinos y las argentinas\" , indicó el Chiqui ante los medios. \"Es un anuncio importantísimo."
+          "Defensa Civil de Necochea difundió una alerta amarilla por tormentas para la costa de Necochea y localidades de la región, en base al pronóstico oficial del Servicio Meteorológico Nacional (SMN). El aviso comprende también a la costa de Lobería, San Cayetano y Tres Arroyos, donde se prevé que durante este viernes 13 de noviembre se desarrollen tormentas aisladas, algunas de ellas fuertes o puntualmente severas.",
+          "De acuerdo con el informe meteorológico, los fenómenos podrían estar acompañados por precipitaciones intensas en cortos períodos, frecuente actividad eléctrica, ocasional caída de granizo y ráfagas de viento de intensidad considerable. En cuanto a las lluvias, se estiman valores acumulados de entre 20 y 50 milímetros, aunque no se descarta que esos registros puedan ser superados de manera puntual."
         ],
-        "generated": "2026-11-13T17:30:44.014847+00:00"
+        "generated": "2026-11-13T18:00:51.243526+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-13T17:30:00.494669+00:00"
+      "ultima_impresion": "2026-11-13T18:00:00.653301+00:00"
     },
     {
-      "key": "inflacion acelero octubre alcanzo nivel alto ultimos cinco meses",
-      "title": "La inflación se aceleró en octubre y alcanzó el nivel más alto de los últimos cinco meses",
+      "key": "activan protocolos nos indican provincia operativo vacunacion antirrabica villa balnearia",
+      "title": "“Se activan los protocolos que nos indican desde Provincia”: operativo de vacunación antirrábica en la Villa Balnearia",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-11-13T17:30:00.494669+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/0e20bc0ff1effd56d2d3e2dbce6cbecc3c7faaed.jpg",
+      "first_seen": "2026-11-13T18:00:00.653301+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261113092511_7l66mhv2bjdqtmztdxcroda55m.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "La inflación se aceleró en octubre y alcanzó el nivel más alto de los últimos cinco meses",
-          "url": "https://necocheadigital.com/nota/120169/la-inflacion-se-acelero-en-octubre-y-alcanzo-el-nivel-mas-alto-de-los-ultimos-cinco-meses/",
+          "title": "“Se activan los protocolos que nos indican desde Provincia”: operativo de vacunación antirrábica en la Villa Balnearia",
+          "url": "https://necocheadigital.com/nota/120174/se-activan-los-protocolos-que-nos-indican-desde-provincia-operativo-de-vacunacion-antirrabica-en-la-villa-balnearia/",
           "published_at": null,
-          "first_seen": "2026-11-13T17:30:00.494669+00:00",
+          "first_seen": "2026-11-13T18:00:00.653301+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "La inflación volvió a acelerarse durante octubre y alcanzó el 2,2%, según informó este jueves el Instituto Nacional de Estadística y Censos (INDEC). El dato representa un incremento de tres décimas respecto de septiembre, cuando el Índice de Precios al Consumidor (IPC) había registrado un 1,9%, y constituye el nivel más alto desde abril, mes en el que había llegado al 2,6%. Con este resultado, la inflación acumulada durante los primeros diez meses de 2026 alcanzó el 26,3%, mientras que la variación interanual se ubicó en el 33,1%.",
-          "El registro de octubre interrumpió la tendencia de relativa estabilidad que había mostrado el índice durante los meses anteriores. Después del 2,1% de mayo, la inflación descendió al 1,9% en junio, volvió al 2,1% en julio y bajó al 1,7% en agosto. En septiembre había retomado una trayectoria ascendente, con el 1,9%, que ahora se profundizó."
+          "La confirmación de un murciélago con rabia en la Villa Balnearia de Necochea puso en marcha un operativo sanitario para reforzar la vacunación antirrábica de perros y gatos en la zona. La intervención estará a cargo del área municipal de Bromatología e Higiene y se realizará este viernes 13 de noviembre, a partir de las 8. Gustavo Fuhr, integrante del equipo municipal, explicó que el caso se conoció luego de que dos vecinos acercaran durante la semana pasada ejemplares de murciélagos que habían tenido contacto con sus mascotas.",
+          "Los animales fueron enviados para su análisis y el martes por la tarde se confirmó que uno de ellos había dado positivo. “Se activan los protocolos que nos indican desde Provincia. El accionar consiste en una vacunación alrededor de los 200 metros radiales”, señaló Fuhr durante una entrevista en el programa Voces de la Tarde , que conduce Jorge Gómez por Radio Noticias Necochea 97.3."
         ],
-        "generated": "2026-11-13T17:30:44.721321+00:00"
+        "generated": "2026-11-13T18:00:51.925607+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-13T17:30:00.494669+00:00"
+      "ultima_impresion": "2026-11-13T18:00:00.653301+00:00"
     },
     {
-      "key": "murio paolo rockero personaje marco television 80",
-      "title": "Murió Paolo, el rockero, el personaje que marcó la televisión de los 80",
+      "key": "tecnica realizara expo compartir proyectos estudiantes",
+      "title": "La Técnica Nº 2 realizará una Expo para compartir los proyectos de sus estudiantes",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-11-13T17:30:00.494669+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/0baba738645ba67c545cb730f41a4f9f4ccc96ef.jpg",
+      "first_seen": "2026-11-13T18:00:00.653301+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261113092241_20200403123732-irurzun-3.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Murió Paolo, el rockero, el personaje que marcó la televisión de los 80",
-          "url": "https://necocheadigital.com/nota/120167/murio-paolo-el-rockero-el-personaje-que-marco-la-television-de-los-80/",
+          "title": "La Técnica Nº 2 realizará una Expo para compartir los proyectos de sus estudiantes",
+          "url": "https://necocheadigital.com/nota/120173/la-tecnica-n-2-realizara-una-expo-para-compartir-los-proyectos-de-sus-estudiantes/",
           "published_at": null,
-          "first_seen": "2026-11-13T17:30:00.494669+00:00",
+          "first_seen": "2026-11-13T18:00:00.653301+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "Jorge Juan Montejo , el actor y humorista que dio vida a Paolo, el rockero, murió a los 68 años en el Hospital Santamarina de Tandil, su ciudad natal. Según pudo saber Infobae por fuentes municipales, el artista estaba internado por una infección respiratoria y falleció a las 21.16 del miércoles 11 de noviembre en el nosocomio local. Con su vincha, el pelo largo, el morral multicolor y expresiones como “¡Uhhh, loco!”, “¿Entendés, chabón?”, “Qué mala onda” y “Mató la onda, loco”, Paolo se convirtió en una figura reconocible de la televisión argentina de las décadas de 1980 y 1990.",
-          "El personaje nació en 1986, luego de que Daniel Ripoll, fundador de la revista Pelo , le sugiriera incursionar en la interpretación. Montejo relató que armó el look con elementos de cotillón y que el nombre surgió por una cuestión de imagen: “No se podía llamar Johnny, tenía que ser Paolo” ."
+          "La Escuela de Educación Secundaria Técnica Nº 2 de Necochea, conocida históricamente como el ex Colegio Industrial, realizará este viernes una nueva edición de su Expo Técnica, una propuesta que permitirá conocer de cerca los proyectos y las actividades que desarrollan sus estudiantes durante el año. La exposición se llevará adelante en el marco de la Semana de la Educación Técnica y tendrá dos horarios para recibir a los visitantes: de 8.30 a 12 y de 13.30 a 17.",
+          "La convocatoria está dirigida a toda la comunidad, con una invitación especial a las escuelas primarias para que sus alumnos puedan recorrer los talleres y participar de algunas prácticas. La vicedirectora del establecimiento, Natalín Gaggero, brindó detalles de la actividad durante una entrevista en el programa Voces de la Tarde , que conduce Jorge Gómez por Radio Noticias Necochea."
         ],
-        "generated": "2026-11-13T17:30:45.438077+00:00"
+        "generated": "2026-11-13T18:00:52.611715+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-13T17:30:00.494669+00:00"
+      "ultima_impresion": "2026-11-13T18:00:00.653301+00:00"
     },
     {
-      "key": "juan bautista benedictis confirmo continuidad rus med team temporada 2027 tc",
-      "title": "Juan Bautista De Benedictis confirmó su continuidad en el RUS Med Team para la temporada 2027 del TC",
+      "key": "chocamos ayuda estremecedor testimonio adolescente sobrevivio choque fatal ruta 88",
+      "title": "“¡Chocamos, ayuda!”: el estremecedor testimonio de la adolescente que sobrevivió al choque fatal en la Ruta 88",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-11-13T17:30:00.494669+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261111184308_whatsapp-image-2026-11-11-at-18-42-50.jpg",
+      "first_seen": "2026-11-13T18:00:00.653301+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261112163459_captura.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Juan Bautista De Benedictis confirmó su continuidad en el RUS Med Team para la temporada 2027 del TC",
-          "url": "https://necocheadigital.com/nota/120159/juan-bautista-de-benedictis-confirmo-su-continuidad-en-el-rus-med-team-para-la-temporada-2027-del-tc/",
+          "title": "“¡Chocamos, ayuda!”: el estremecedor testimonio de la adolescente que sobrevivió al choque fatal en la Ruta 88",
+          "url": "https://necocheadigital.com/nota/120170/chocamos-ayuda-el-estremecedor-testimonio-de-la-adolescente-que-sobrevivio-al-choque-fatal-en-la-ruta-88/",
           "published_at": null,
-          "first_seen": "2026-11-13T17:30:00.494669+00:00",
+          "first_seen": "2026-11-13T18:00:00.653301+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "Juan Bautista De Benedictis oficializó su continuidad dentro del RUS Med Team para disputar la temporada 2027 del Turismo Carretera. El acuerdo se concretó cuando todavía restan dos competencias para finalizar el calendario vigente, permitiendo que el piloto local planifique el próximo año con antelación junto a la escudería dirigida por Mauro Medina.",
-          "Con esta firma, el corredor de 39 años se convirtió en el primer piloto confirmado por la estructura con sede en Arrecifes de cara al futuro campeonato. El proyecto deportivo mantendrá la misma base técnica que viene desarrollando durante el presente certamen, con el Ford Mustang atendido integralmente en el taller arrecifeño y la motorización a cargo de Próspero Bonelli."
+          "“¡Chocamos, ayuda, necesito ayuda!”. Esas fueron las palabras que Cata, una adolescente de 15 años, comenzó a repetir desesperadamente después de recuperar el conocimiento tras el choque frontal entre el remís en el que viajaba y un camión sobre la Ruta Provincial 88. El testimonio, cargado de angustia y emoción, forma parte del documental “Anita, una luz que no se apaga” , realizado por el periodista Fabián Pérez Battaglini.",
+          "La producción reconstruye la tragedia que tuvo como víctima a Ana Peralta Rondanina, de 15 años, compañera de vóley de Cata en el club Once Unidos. El accidente ocurrió alrededor de las 20.30 del domingo 12 de julio de 2026, cerca del paraje San José, en el trayecto entre Mar del Plata y Necochea. Las adolescentes regresaban a nuestra ciudad en un Fiat Siena conducido por Santiago Juan Manuel Irigoyen, un remisero de 58 años oriundo de Lobería."
         ],
-        "generated": "2026-11-13T17:30:46.179562+00:00"
+        "generated": "2026-11-13T18:00:53.307156+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-13T17:30:00.494669+00:00"
+      "ultima_impresion": "2026-11-13T18:00:00.653301+00:00"
     },
     {
-      "key": "estacion quequen mataderos abren jueves eliminatorias liga necochea futbol",
-      "title": "Estación Quequén y Mataderos abren este jueves las eliminatorias de la Liga Necochea de Fútbol",
+      "key": "havanna registro caida 25 ventas comercializo 215 mil kilos productos",
+      "title": "Havanna registró una caída del 25,8% en sus ventas y comercializó 215 mil kilos menos de productos",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-11-13T17:30:00.494669+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261111183651_26b943cd-7002-4333-8aec-a58d8a9b50c0.jpg",
+      "first_seen": "2026-11-13T18:00:00.653301+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/0a0d696e4548a42ff50ae37008bf088148a2832c.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Estación Quequén y Mataderos abren este jueves las eliminatorias de la Liga Necochea de Fútbol",
-          "url": "https://necocheadigital.com/nota/120158/estacion-quequen-y-mataderos-abren-este-jueves-las-eliminatorias-de-la-liga-necochea-de-futbol/",
+          "title": "Havanna registró una caída del 25,8% en sus ventas y comercializó 215 mil kilos menos de productos",
+          "url": "https://necocheadigital.com/nota/120164/havanna-registro-una-caida-del-25-8-en-sus-ventas-y-comercializo-215-mil-kilos-menos-de-productos/",
           "published_at": null,
-          "first_seen": "2026-11-13T17:30:00.494669+00:00",
+          "first_seen": "2026-11-13T18:00:00.653301+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "El partido de ida del repechaje entre Estación Quequén y Mataderos se disputará este jueves 12 de noviembre desde las 16 en el estadio Carlos Cuomo, marcando el inicio de los playoffs por el título del Torneo 2026 \"Sergio 'Giuseppe' Portugal\" de Primera división masculina de la Liga Necochea de Fútbol, mientras que los cruces del torneo reducido por el ascenso aguardan la confirmación de su fecha oficial por parte de la entidad. La etapa decisiva del certamen local comienza formalmente con este primer compromiso confirmado de la llave eliminatoria. El duelo pondrá frente a frente al campeón de la Zona B con el cuarto clasificado de la Zona A.",
-          "El elenco quequenense llega a esta instancia tras adjudicarse su grupo bajo la conducción técnica de Abel Aníbal Coría, quien trabaja acompañado por sus hijos en el cuerpo técnico. Del otro lado estará el conjunto de Barrio Norte, que buscará sacar ventaja como visitante en el primer chico."
+          "La empresa Havanna, una de las marcas emblemáticas de Mar del Plata, registró una fuerte caída en sus ventas durante el tercer trimestre de 2026. Según los resultados financieros difundidos por la compañía, los ingresos alcanzaron los $35.493 millones, lo que representa una disminución del 25,8% respecto del mismo período de 2025. El principal retroceso se produjo en el segmento de alfajores, galletitas y havannets, que registró ventas por 973 mil kilos entre julio y septiembre.",
+          "La cifra representa una reducción de 215 mil kilos en comparación con el mismo trimestre del año anterior. En términos de facturación, ese rubro generó casi $11.500 millones menos que en 2025, convirtiéndose en el principal factor detrás de la caída general de los ingresos."
         ],
-        "generated": "2026-11-13T17:30:46.936494+00:00"
+        "generated": "2026-11-13T18:00:54.020612+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-13T17:30:00.494669+00:00"
+      "ultima_impresion": "2026-11-13T18:00:00.653301+00:00"
     },
     {
       "key": "felicidad orgullo club necochense formo facundo bosch nautico mundo",
       "title": "Felicidad y orgullo en el club necochense que formó a Facundo Bosch: “Del Náutico al mundo”",
-      "score": 0.583,
+      "score": 0.308,
       "sources_count": 1,
       "first_seen": "2026-11-13T16:00:39+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/FOTO-Nautico-Bosch.webp",
@@ -345,16 +439,16 @@
           "TSN Necochea | ‹ VOLVER | Deportes | Facundo Bosch | Rugby Felicidad y orgullo en el club necochense que formó a Facundo Bosch: “Del Náutico al mundo” El regreso del hooker necochense a Los Pumas, después de cinco años de ausencia, despertó una enorme emoción en el Club Náutico, donde dio sus primeros pasos en el rugby. Por Redacción TSN 13/11/2026 · 01:00 PM Agregar TSN Necochea en Hay noticias que se disfrutan de una manera especial cuando se conoce el camino que hay detrás.",
           "Y en el Club Náutico de Necochea, el regreso de Facundo Bosch a Los Pumas se vive con una mezcla de felicidad, orgullo y emoción difícil de disimular. Durante esta semana se confirmó que el hooker necochense, de 35 años, volverá a vestir la camiseta de la Selección Argentina de Rugby, conducida por Felipe Contepomi, después de cinco años de ausencia ."
         ],
-        "generated": "2026-11-13T17:30:48.068852+00:00"
+        "generated": "2026-11-13T18:00:54.747100+00:00"
       },
-      "apariciones": 3,
-      "ultima_impresion": "2026-11-13T17:30:00.494669+00:00",
-      "penalizacion": 0.55
+      "apariciones": 4,
+      "ultima_impresion": "2026-11-13T18:00:00.653301+00:00",
+      "penalizacion": 0.303
     },
     {
       "key": "atcade confirmo aumento 16 transporte ratifico prioridad local carga fertilizantes",
       "title": "ATCADE confirmó un aumento del 16% para el transporte y ratificó la prioridad local en la carga de fertilizantes",
-      "score": 0.487,
+      "score": 0.257,
       "sources_count": 1,
       "first_seen": "2026-11-13T16:02:42+00:00",
       "image": null,
@@ -374,16 +468,16 @@
           "Miguel Aguilar confirmó que el nuevo cuadro tarifario para el transporte de cereales y oleaginosas ya se encuentra vigente luego de una extensa negociación. Además, aseguró que se mantienen los acuerdos para priorizar a los camioneros locales en las cargas de fertilizantes y planteó la necesidad de contar con una playa para ordenar la espera de vehículos. Charlando con Fede Cañadas en “Esta Mañana”, por NEC Radio 98.3 del Multimedio NQ, Miguel Aguilar, referente de ATCADE , confirmó un incremento del 16% en la tarifa del transporte de cereales y oleaginosas , luego de una reunión que calificó como una de las más tensas de los últimos tiempos.",
           "“Dentro de todo estamos conformes. Pudimos incrementar nuevamente el cuadro tarifario”, expresó Aguilar. Según explicó, los estudios de costos presentados por las entidades transportistas mostraban porcentajes superiores al finalmente acordado."
         ],
-        "generated": "2026-11-13T17:30:51.759800+00:00"
+        "generated": "2026-11-13T18:00:58.318691+00:00"
       },
-      "apariciones": 3,
-      "ultima_impresion": "2026-11-13T17:30:00.494669+00:00",
-      "penalizacion": 0.55
+      "apariciones": 4,
+      "ultima_impresion": "2026-11-13T18:00:00.653301+00:00",
+      "penalizacion": 0.303
     },
     {
       "key": "instituto 163 realizara coloquio investigacion extension divulgacion cientifica",
       "title": "El Instituto Nº 163 realizará su I Coloquio de Investigación, Extensión y Divulgación Científica",
-      "score": 0.308,
+      "score": 0.162,
       "sources_count": 1,
       "first_seen": "2026-11-13T15:30:56+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2023/12/instituto-163-nacional.jpg",
@@ -403,16 +497,16 @@
           "TSN Necochea | ‹ VOLVER | Educación | cientifica | Jornada El Instituto Nº 163 realizará su I Coloquio de Investigación, Extensión y Divulgación Científica La cita será el próximo miércoles 19 de noviembre, a las 18:00, en la sede de calle 57. El encuentro abierto a toda la comunidad presentará las líneas de trabajo, proyectos pedagógicos y avances de los equipos institucionales del establecimiento.",
           "Por Redacción TSN 13/11/2026 · 12:30 PM Agregar TSN Necochea en El Instituto Superior de Formación Docente (ISFD) Nº 163 de nuestra ciudad puso en marcha los preparativos para el I Coloquio de Investigación, Extensión y Divulgación Científica , un evento institucional de gran relevancia destinado a socializar la labor desarrollada por los Equipos Institucionales de Investigación, Extensión y Fortalecimiento de Trayectorias."
         ],
-        "generated": "2026-11-13T17:30:48.825051+00:00"
+        "generated": "2026-11-13T18:00:55.466911+00:00"
       },
-      "apariciones": 4,
-      "ultima_impresion": "2026-11-13T17:30:00.494669+00:00",
-      "penalizacion": 0.302
+      "apariciones": 5,
+      "ultima_impresion": "2026-11-13T18:00:00.653301+00:00",
+      "penalizacion": 0.166
     },
     {
       "key": "facundo bosch vuelve pumas despues cinco anos suma partido italia",
       "title": "Facundo Bosch vuelve a Los Pumas después de cinco años y se suma para el partido ante Italia",
-      "score": 0.029,
+      "score": 0.016,
       "sources_count": 2,
       "first_seen": "2026-11-13T13:49:00+00:00",
       "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261110182150_bosch-jaguares.jpg",
@@ -441,16 +535,16 @@
           "El rugby de Necochea vuelve a tener un representante en el máximo nivel internacional. Facundo Bosch recibió una nueva convocatoria para sumarse a la concentración de Los Pumas, marcando su retorno al equipo nacional tras un extenso período sin vestir la celeste y blanca. Su última participación oficial se remonta al 21 de noviembre de 2021, fecha en la que ingresó desde el banco de suplentes durante la derrota por 53-7 frente a Irlanda, en Dublín.",
           "Desde aquel entonces, el forward había quedado al margen de las listas del seleccionado mayor, aunque su nombre se mantuvo en la consideración general gracias a su permanente protagonismo en el competitivo rugby europeo. La citación del necochense llega en un momento de urgencias y complicaciones físicas para el plantel conducido por Felipe Contepomi, especialmente en la posición de hooker."
         ],
-        "generated": "2026-11-13T17:30:34.559401+00:00"
+        "generated": "2026-11-13T18:00:38.340269+00:00"
       },
-      "apariciones": 9,
-      "ultima_impresion": "2026-11-13T17:30:00.494669+00:00",
-      "penalizacion": 0.015
+      "apariciones": 10,
+      "ultima_impresion": "2026-11-13T18:00:00.653301+00:00",
+      "penalizacion": 0.008
     },
     {
       "key": "rivadavia hacer historia basquet usa emilia sierra rompio record universitario 20 anos",
       "title": "De Rivadavia a hacer historia en el básquet de USA: Emilia Sierra rompió un récord universitario de 20 años",
-      "score": 0.025,
+      "score": 0.013,
       "sources_count": 1,
       "first_seen": "2026-11-13T14:00:22+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/Foto-Emilia-Sierra.webp",
@@ -470,16 +564,16 @@
           "TSN Necochea | ‹ VOLVER | Deportes | Básquet | Básquet De Rivadavia a hacer historia en el básquet de USA: Emilia Sierra rompió un récord universitario de 20 años La basquetbolista necochense, formada desde los 7 años en Rivadavia, tuvo una actuación extraordinaria para Wheeling University y superó la máxima marca individual de anotación de la institución, vigente desde 2006. Por Redacción TSN 13/11/2026 · 11:00 AM Agregar TSN Necochea en El talento necochense sigue dejando huella en el básquetbol internacional.",
           "Esta vez, la protagonista es Emilia Sierra, quien tuvo una noche consagratoria en el básquet universitario de Estados Unidos al convertir 42 puntos en la victoria de Wheeling University por un ajustadísimo 63-62 frente a Walsh."
         ],
-        "generated": "2026-11-13T17:30:49.565842+00:00"
+        "generated": "2026-11-13T18:00:56.191363+00:00"
       },
-      "apariciones": 8,
-      "ultima_impresion": "2026-11-13T17:30:00.494669+00:00",
-      "penalizacion": 0.028
+      "apariciones": 9,
+      "ultima_impresion": "2026-11-13T18:00:00.653301+00:00",
+      "penalizacion": 0.015
     },
     {
       "key": "cuatro horas negociacion atcade acordo aumento tarifario 16",
       "title": "Tras cuatro horas de negociación, ATCADe acordó un aumento tarifario del 16%",
-      "score": 0.013,
+      "score": 0.007,
       "sources_count": 1,
       "first_seen": "2026-11-13T13:30:54+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-12-at-15.18.26-1.webp",
@@ -499,16 +593,16 @@
           "TSN Necochea | ‹ VOLVER | Locales | camiones | Transporte de cargas Tras cuatro horas de negociación, ATCADe acordó un aumento tarifario del 16% La aplicación del nuevo cuadro no tendrá demoras Por Redacción TSN 13/11/2026 · 10:30 AM Agregar TSN Necochea en Luego de una extensa jornada de deliberaciones que se prolongó por más de cuatro horas, el sector del transporte automotor de cargas alcanzó un acuerdo clave para recomponer sus ingresos frente a la suba de los costos operativos. Según se confirmó oficialmente, se pactó un incremento tarifario del 16% para el traslado de granos sobre la tarifa de referencia.",
           "La negociación estuvo encabezada por Miguel Aguilar, representantes de la Asociación de Transportistas de Cereales y Afines p or sus Derechos (ATCADe), quienes llevaron adelante el reclamo para actualizar los valores vigentes en el marco de la actividad agropecuaria local y regional."
         ],
-        "generated": "2026-11-13T17:30:52.486248+00:00"
+        "generated": "2026-11-13T18:00:59.033991+00:00"
       },
-      "apariciones": 9,
-      "ultima_impresion": "2026-11-13T17:30:00.494669+00:00",
-      "penalizacion": 0.015
+      "apariciones": 10,
+      "ultima_impresion": "2026-11-13T18:00:00.653301+00:00",
+      "penalizacion": 0.008
     },
     {
       "key": "tramos ruta 228 une necochea tres arroyos podrian concesionarse peaje",
       "title": "Tramos de la Ruta 228 que une Necochea con Tres Arroyos podrían concesionarse con peaje",
-      "score": 0.011,
+      "score": 0.006,
       "sources_count": 1,
       "first_seen": "2026-11-13T13:31:59+00:00",
       "image": null,
@@ -528,45 +622,16 @@
           "La Ruta Nacional 228, que conecta Necochea con Tres Arroyos, quedó incluida entre los corredores que podrán ser concesionados mediante futuras licitaciones. La medida fue dispuesta por el Decreto 1358/2026, publicado este viernes, que amplía la Red Federal de Concesiones. La inclusión de la ruta no significa que toda su extensión vaya a quedar en manos privadas ni que el cobro de peajes comience de inmediato.",
           "Primero deberán definirse los tramos que se licitarán; para ello, la Secretaría de Transporte tendrá que contar con un informe técnico de la Dirección Nacional de Vialidad. También quedarán afuera los sectores que ya estén incluidos en concesiones vigentes. El decreto habilita a las empresas adjudicatarias a hacerse cargo de la construcción, administración, reparación, conservación y mantenimiento de los tramos concesionados, además de prestar servicios a los usuarios."
         ],
-        "generated": "2026-11-13T17:30:55.314693+00:00"
-      },
-      "apariciones": 9,
-      "ultima_impresion": "2026-11-13T17:30:00.494669+00:00",
-      "penalizacion": 0.015
-    },
-    {
-      "key": "horarios puestos cobertura guardavidas domingo",
-      "title": "Horarios y puestos de cobertura de los guardavidas desde este domingo",
-      "score": 0.007,
-      "sources_count": 1,
-      "first_seen": "2026-11-13T13:23:50+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/12/31-01-FOTO-Guardavidas.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Horarios y puestos de cobertura de los guardavidas desde este domingo",
-          "url": "https://tsnnecochea.com.ar/generales/horarios-y-puestos-de-cobertura-de-los-guardavidas-desde-este-domingo-242239/",
-          "published_at": "2026-11-13T13:23:50+00:00",
-          "first_seen": "2026-11-13T13:30:00.644827+00:00",
-          "category": "guardavidas",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/12/31-01-FOTO-Guardavidas.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Generales | guardavidas | Servicio de playa Horarios y puestos de cobertura de los guardavidas desde este domingo La primera etapa del operativo de seguridad en playas se extenderá hasta el 30 de noviembre, con cobertura diaria de 9 a 20 en distintos sectores de Necochea y Quequén. Por Redacción TSN 13/11/2026 · 10:23 AM Agregar TSN Necochea en Este domingo 15 de noviembre comenzará el servicio municipal de guardavidas en las playas del distrito , dando inicio al operativo de seguridad correspondiente a la temporada 2026/2027.",
-          "La Secretaría de Gobierno, a través de la Jefatura de Guardavidas y Operativo en Playas, dio a conocer los horarios y puesto s que estarán cubiertos durante esta primera etapa, que se extenderá hasta el 30 de noviembre."
-        ],
-        "generated": "2026-11-13T17:30:53.210690+00:00"
+        "generated": "2026-11-13T18:01:01.147909+00:00"
       },
       "apariciones": 10,
-      "ultima_impresion": "2026-11-13T17:30:00.494669+00:00",
+      "ultima_impresion": "2026-11-13T18:00:00.653301+00:00",
       "penalizacion": 0.008
     },
     {
       "key": "alerta amarilla probabilidad lluvias viernes sabado necochea",
       "title": "Alerta amarilla y probabilidad de lluvias para este viernes y sábado en Necochea",
-      "score": 0.003,
+      "score": 0.002,
       "sources_count": 1,
       "first_seen": "2026-11-13T12:43:23+00:00",
       "image": null,
@@ -586,16 +651,16 @@
           "La alerta amarilla rige para este viernes 13 y el sábado 14. El pronóstico anticipa lluvias, con mayor probabilidad durante la tarde y la noche de hoy y en las primeras horas de mañana. Para este viernes se esperan temperaturas de entre 15° y 22°. La probabilidad de precipitaciones será del 10 al 40% durante la mañana y aumentará al 70-100% por la tarde y la noche.",
           "El viento soplará del noreste, con ráfagas de hasta 50 km/h por la mañana y de entre 51 y 59 km/h durante la noche. El sábado tendrá una mínima de 13° y una máxima de 19°. Se prevén vientos de entre 7 y 22 km/h, sin ráfagas informadas."
         ],
-        "generated": "2026-11-13T17:30:57.833746+00:00"
+        "generated": "2026-11-13T18:01:04.352419+00:00"
       },
-      "apariciones": 11,
-      "ultima_impresion": "2026-11-13T17:30:00.494669+00:00",
-      "penalizacion": 0.005
+      "apariciones": 12,
+      "ultima_impresion": "2026-11-13T18:00:00.653301+00:00",
+      "penalizacion": 0.003
     },
     {
       "key": "necochea lanza nueva campana pap test vph centros salud",
       "title": "Necochea lanza una nueva campaña de PAP y test de VPH en los centros de salud",
-      "score": 0.002,
+      "score": 0.001,
       "sources_count": 1,
       "first_seen": "2026-11-13T12:27:51+00:00",
       "image": null,
@@ -615,16 +680,16 @@
           "La propuesta comenzará el lunes y se extenderá hasta el viernes en distintos CAPS del distrito. Carina Maceris, directora de Atención Primaria de la Salud, destacó que el objetivo es llegar especialmente a mujeres que permanecen fuera de los controles habituales y detectar de manera temprana posibles patologías del cuello uterino.",
           "Charlando con Fede Cañadas en “Esta Mañana”, por NEC Radio 98.3 del Multimedio NQ, Carina Maceris, directora de Atención Primaria de la Salud , anunció una nueva campaña de PAP y test de VPH que comenzará el lunes y se desarrollará durante toda la semana en diferentes centros de salud de Necochea y Quequén. La iniciativa forma parte de un trabajo que el sistema sanitario local viene sosteniendo desde hace tres años, con distintas jornadas distribuidas durante el año."
         ],
-        "generated": "2026-11-13T17:30:59.895107+00:00"
+        "generated": "2026-11-13T18:01:06.317375+00:00"
       },
-      "apariciones": 12,
-      "ultima_impresion": "2026-11-13T17:30:00.494669+00:00",
-      "penalizacion": 0.003
+      "apariciones": 13,
+      "ultima_impresion": "2026-11-13T18:00:00.653301+00:00",
+      "penalizacion": 0.001
     },
     {
       "key": "baguales milonga sigue pie dos dias tradicion desfile jineteada espectaculos san cayetano",
       "title": "Baguales y Milonga sigue en pie: dos días de tradición, desfile, jineteada y espectáculos en San Cayetano",
-      "score": 0.002,
+      "score": 0.001,
       "sources_count": 1,
       "first_seen": "2026-11-13T12:10:46+00:00",
       "image": null,
@@ -644,16 +709,16 @@
           "La tradicional fiesta se desarrollará este sábado 14 y domingo 15 de noviembre en San Cayetano. Pese a la incertidumbre por el pronóstico, Alejo de Francisco confirmó que hasta el momento no hubo modificaciones en el programa. El sábado habrá desfile, espectáculos y bailanta con entrada gratuita, mientras que el domingo llegará la jineteada y la última clasificatoria para Jesús María.",
           "Charlando con Fede Cañadas en “Esta Mañana”, por NEC Radio 98.3 del Multimedio NQ, Alejo de Francisco , uno de los responsables de la organización, confirmó que la fiesta de Baguales y Milonga continúa en pie y que, pese a la atención puesta sobre las condiciones climáticas, hasta el momento no se realizaron cambios en la programación prevista para el fin de semana. “Todo sigue en pie como está programado."
         ],
-        "generated": "2026-11-13T17:31:02.070495+00:00"
+        "generated": "2026-11-13T18:01:08.621532+00:00"
       },
-      "apariciones": 12,
-      "ultima_impresion": "2026-11-13T17:30:00.494669+00:00",
-      "penalizacion": 0.003
+      "apariciones": 13,
+      "ultima_impresion": "2026-11-13T18:00:00.653301+00:00",
+      "penalizacion": 0.001
     },
     {
       "key": "crisis textil argentina produccion cayo 20 cadena perdio casi 29 000 empleos",
       "title": "Crisis textil en Argentina: la producción cayó 20,8 % y la cadena perdió casi 29.000 empleos",
-      "score": 0.002,
+      "score": 0.001,
       "sources_count": 1,
       "first_seen": "2026-11-13T12:05:00+00:00",
       "image": "http://nden.com.ar/uploads/noticias/5/2026/11/7cfb8ecea00fcb307f4354521a2df6b25b46da4e.jpg",
@@ -672,48 +737,10 @@
         "paragraphs": [
           "Industria y empleo Crisis textil en Argentina: la producción cayó 20,8 % y la cadena perdió casi 29.000 empleos"
         ],
-        "generated": "2026-11-13T17:31:02.832031+00:00"
+        "generated": "2026-11-13T18:01:09.336007+00:00"
       },
-      "apariciones": 12,
-      "ultima_impresion": "2026-11-13T17:30:00.494669+00:00",
-      "penalizacion": 0.003
-    },
-    {
-      "key": "necochea tendra primer festival botanico propuestas toda comunidad",
-      "title": "Necochea tendrá su primer Festival Botánico con propuestas para toda la comunidad",
-      "score": 0.001,
-      "sources_count": 2,
-      "first_seen": "2026-11-13T11:30:00.979286+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-12-at-19.27.48.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Necochea tendrá su primer Festival Botánico con propuestas para toda la comunidad",
-          "url": "https://tsnnecochea.com.ar/generales/necochea-tendra-su-primer-festival-botanico-con-propuestas-para-toda-la-comunidad-242202/",
-          "published_at": "2026-11-13T11:30:08+00:00",
-          "first_seen": "2026-11-13T11:30:00.979286+00:00",
-          "category": "Festival Botanico",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-12-at-19.27.48.webp"
-        },
-        {
-          "portal": "Necochea Digital",
-          "title": "Necochea tendrá su primer Festival Botánico con propuestas para toda la comunidad",
-          "url": "https://necocheadigital.com/nota/120111/necochea-tendra-su-primer-festival-botanico-con-propuestas-para-toda-la-comunidad/",
-          "published_at": null,
-          "first_seen": "2026-11-13T11:30:00.979286+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Generales | Festival Botanico | En el Rowing Club Necochea tendrá su primer Festival Botánico con propuestas para toda la comunidad HAbra multiples actividades, Paseo Botánico, la Galería Botánica, el Patio Botánico y el Aula Botánica. La programación incluirá viveros, productores, emprendedores, artistas, talleres, experiencias educativas, arte botánico, cosmética natural y música en vivo.",
-          "Por Redacción TSN 13/11/2026 · 08:30 AM Agregar TSN Necochea en La Secretaría de Turismo y Desarrollo Productivo acompaña la primera edición de Río Raíz – Festival Botánico , una nueva propuesta cultural, turística, educativa y social que se realizará el sábado 14 de noviembre, de 11 a 20, en las instalaciones del Necochea Rowing Club , junto a la ribera del río Quequén. La entrada será libre y gratuita."
-        ],
-        "generated": "2026-11-13T17:30:36.389474+00:00"
-      },
-      "apariciones": 14,
-      "ultima_impresion": "2026-11-13T17:30:00.494669+00:00",
+      "apariciones": 13,
+      "ultima_impresion": "2026-11-13T18:00:00.653301+00:00",
       "penalizacion": 0.001
     },
     {
@@ -739,11 +766,11 @@
           "La localidad de Claraz se prepara para celebrar su 117° aniversario con una jornada de actividades recreativas, propuestas culturales y espectáculos musicales. Los festejos tendrán lugar este domingo 15 de noviembre, con entrada libre y una programación que se extenderá desde la mañana hasta la noche. La celebración se desarrollará en el predio de Espacios Verdes La Vía, ubicado sobre la Ruta Nº 80, entre las calles 712 y 714.",
           "Si bien Claraz cumplió años el pasado 26 de julio, los festejos se trasladaron a noviembre, como ocurre habitualmente, para aprovechar las mejores condiciones climáticas. Las actividades comenzarán a las 10 con una tradicional barrileteada. Luego, a partir de las 14, tendrá lugar el acto inaugural, seguido del tradicional corte de torta y una programación que incluirá peñas folclóricas, grupos de danza, artistas locales y música en vivo."
         ],
-        "generated": "2026-11-13T17:31:06.249002+00:00"
+        "generated": "2026-11-13T18:01:12.667152+00:00"
       },
-      "apariciones": 14,
-      "ultima_impresion": "2026-11-13T17:30:00.494669+00:00",
-      "penalizacion": 0.001
+      "apariciones": 15,
+      "ultima_impresion": "2026-11-13T18:00:00.653301+00:00",
+      "penalizacion": 0.0
     },
     {
       "key": "ema monzon sorprendio nino vende necochea dinero televisor",
@@ -768,11 +795,11 @@
           "El influencer Ema Monzón viajó desde Rosario y se acercó a un niño que vende cosas junto a su mamá en la esquina de 75 y 50, en Necochea. Después de comprarle, quiso ayudarlos y les propuso que al día siguiente no trabajaran para poder descansar. La sorpresa emocionó al nene, que se largó a llorar y abrazó a Ema. El influencer le entregó a su mamá $1.500.000 para la producción y luego sumó otros $100.000.",
           "También le dio $200.000 al chico para que los destinara a la escuela o a lo que quisiera. Durante la charla, la mamá contó que querían comprar un televisor. Ema les dio uno y la familia recibió el regalo con emoción."
         ],
-        "generated": "2026-11-13T17:31:08.506465+00:00"
+        "generated": "2026-11-13T18:01:14.967696+00:00"
       },
-      "apariciones": 14,
-      "ultima_impresion": "2026-11-13T17:30:00.494669+00:00",
-      "penalizacion": 0.001
+      "apariciones": 15,
+      "ultima_impresion": "2026-11-13T18:00:00.653301+00:00",
+      "penalizacion": 0.0
     },
     {
       "key": "scaloni confirmo continuidad seleccion argentina 2030",
@@ -797,11 +824,11 @@
           "Lionel Scaloni continuará al frente de la Selección Argentina. El entrenador confirmó la renovación de su contrato hasta 2030 durante una conferencia de prensa que compartió con el presidente de la Asociación del Fútbol Argentino (AFA), Claudio Tapia. El nuevo vínculo se extenderá desde 2027 hasta 2030 y permitirá que Scaloni encabece un nuevo ciclo mundialista, con el objetivo de conducir al seleccionado argentino hacia la Copa del Mundo de 2030.",
           "El anuncio fue realizado por Tapia, quien destacó la importancia de darle continuidad al proyecto deportivo que comenzó en 2018 y que consiguió importantes conquistas para el fútbol argentino. Por su parte, el entrenador expresó su satisfacción por haber llegado a un acuerdo y aseguró que mantiene el entusiasmo para continuar en el cargo. “Tengo la misma ilusión de siempre”, manifestó, al tiempo que agradeció el esfuerzo realizado por la dirigencia para concretar la renovación."
         ],
-        "generated": "2026-11-13T17:31:12.015402+00:00"
+        "generated": "2026-11-13T18:01:18.208321+00:00"
       },
-      "apariciones": 14,
-      "ultima_impresion": "2026-11-13T17:30:00.494669+00:00",
-      "penalizacion": 0.001
+      "apariciones": 15,
+      "ultima_impresion": "2026-11-13T18:00:00.653301+00:00",
+      "penalizacion": 0.0
     },
     {
       "key": "inflacion octubre cuales fueron 10 alimentos aumentaron precio",
@@ -826,10 +853,10 @@
           "La inflación de octubre fue del 2,2%, según informó el Instituto Nacional de Estadística y Censos (INDEC). El dato representó una suba de 0,3 puntos porcentuales respecto de septiembre, cuando el Índice de Precios al Consumidor (IPC) había registrado un incremento del 1,9%. De acuerdo con el organismo, la variación interanual alcanzó el 33,1%, mientras que la inflación acumulada durante los primeros diez meses de 2026 llegó al 26,3%.",
           "Entre las divisiones que componen el índice, Vivienda, agua, electricidad, gas y otros combustibles encabezó los aumentos, con una suba del 4,2%. Le siguieron Recreación y cultura, con el 3,3%, y Bienes y servicios varios, con el 2,3%. Por su parte, Alimentos y bebidas no alcohólicas registró un incremento del 2%, ubicándose por debajo del nivel general de inflación."
         ],
-        "generated": "2026-11-13T17:31:16.040090+00:00"
+        "generated": "2026-11-13T18:01:21.081822+00:00"
       },
-      "apariciones": 16,
-      "ultima_impresion": "2026-11-13T17:30:00.494669+00:00",
+      "apariciones": 17,
+      "ultima_impresion": "2026-11-13T18:00:00.653301+00:00",
       "penalizacion": 0.0
     },
     {
@@ -855,10 +882,10 @@
           "Independiente recibió una noticia que renovó sus expectativas de cara a la clasificación a las copas internacionales de 2027. Una serie de sanciones disciplinarias aplicadas a integrantes del cuerpo técnico de Defensa y Justicia podría modificar el orden de la tabla anual y favorecer al conjunto de Avellaneda. La situación se originó a partir de la igualdad entre ambos equipos en la tabla anual, donde finalizaron con 47 puntos, 39 goles a favor y 36 en contra.",
           "Ante la paridad en esos registros, la posición debió definirse mediante el criterio de fair play. Este sistema establece que cada equipo comienza con 1000 unidades y recibe descuentos por las sanciones disciplinarias: una por cada tarjeta amarilla, cuatro por una expulsión por doble amonestación y cinco por una tarjeta roja directa. El reglamento contempla tanto a los futbolistas como a los integrantes de los cuerpos técnicos."
         ],
-        "generated": "2026-11-13T17:31:18.918115+00:00"
+        "generated": "2026-11-13T18:01:23.990556+00:00"
       },
-      "apariciones": 16,
-      "ultima_impresion": "2026-11-13T17:30:00.494669+00:00",
+      "apariciones": 17,
+      "ultima_impresion": "2026-11-13T18:00:00.653301+00:00",
       "penalizacion": 0.0
     }
   ]
