@@ -1,186 +1,253 @@
 {
-  "generated_at": "2026-11-14T11:30:00.789426+00:00",
+  "generated_at": "2026-11-14T12:00:00.721566+00:00",
   "article_count": 120,
   "fetch_errors": [],
   "stories": [
     {
-      "key": "gobierno nacional habilito concesion privada peajes ruta nacional 228 necochea tres arroyos",
-      "title": "El Gobierno nacional habilitó la concesión privada con peajes de la Ruta Nacional 228 entre Necochea y Tres Arroyos",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-14T11:30:00.789426+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261113164728_whatsapp-image-2026-11-13-at-16-47-12-1.jpg",
+      "key": "anuncia nueva jornada castracion masiva mascotas sabado",
+      "title": "Suspendieron la jornada de castración masiva",
+      "score": 2.839,
+      "sources_count": 2,
+      "first_seen": "2026-11-14T11:50:57+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2024/01/FOTO-Quirofano-Movil-parque2.jpeg",
       "articles": [
         {
+          "portal": "TSN Necochea",
+          "title": "Suspendieron la jornada de castración masiva",
+          "url": "https://tsnnecochea.com.ar/generales/suspendieron-la-jornada-de-castracion-masiva-242288/",
+          "published_at": "2026-11-14T11:50:57+00:00",
+          "first_seen": "2026-11-14T12:00:00.721566+00:00",
+          "category": null,
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2024/01/FOTO-Quirofano-Movil-parque2.jpeg"
+        },
+        {
           "portal": "Necochea Digital",
-          "title": "El Gobierno nacional habilitó la concesión privada con peajes de la Ruta Nacional 228 entre Necochea y Tres Arroyos",
-          "url": "https://necocheadigital.com/nota/120180/el-gobierno-nacional-habilito-la-concesion-privada-con-peajes-de-la-ruta-nacional-228-entre-necochea-y-tres-arroyos/",
+          "title": "Se anuncia una nueva jornada de castración masiva de mascotas para este sábado",
+          "url": "https://necocheadigital.com/nota/120145/se-anuncia-una-nueva-jornada-de-castracion-masiva-de-mascotas-para-este-sabado/",
           "published_at": null,
-          "first_seen": "2026-11-14T11:30:00.789426+00:00",
+          "first_seen": "2026-11-14T12:00:00.721566+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "El Gobierno nacional oficializó este viernes 13 de noviembre, mediante la publicación en el Boletín Oficial del Decreto 1358/2026, la ampliación de la Red Federal de Concesiones, incorporando 27 rutas nacionales de 16 provincias al sistema de gestión privada bajo el régimen de la Ley 17.520. Dentro del listado bonaerense figura la Ruta Nacional 228 —que une Necochea con Tres Arroyos—, junto a sectores de las rutas nacionales 3 (que podría extenderse desde Bahía Blanca hacia la Patagonia), 22, 33, 35 y el acceso A0017.",
-          "La normativa habilita que empresas privadas asuman la construcción, reparación, conservación, mantenimiento y explotación de los corredores a cambio del cobro de tarifas o peajes, con el objetivo oficial de reducir la dependencia de recursos del Tesoro nacional."
+          "TSN Necochea | ‹ VOLVER | Generales | Clima Suspendieron la jornada de castración masiva Se iba a realizar en Quequén. Por Redacción TSN 14/11/2026 · 08:50 AM Agregar TSN Necochea en La Municipalidad de Necochea, a través de la Dirección de Bromatología e Higiene, comunicó que fue suspendida la jornada de castración masiva de mascotas. El operativo se iba a realizar este sábado en el sector del Hospital Irurzun de Quequén, pero después de las intensas lluvias del viernes por la noche y las consecuencias de la misma se tomó la medida de suspender.",
+          "Desde Bromatología se comunicará sobre la reprogramación de la fecha de castración, un servicio gratuito que apunta a la tenencia responsable de mascotas en la comunidad. La actividad es organizada por la Dirección de Bromatología e Higiene, dependiente de la Secretaría de Salud municipal, y comenzará a las 9 en el establecimiento ubicado en calle 574 entre 541 y 543."
         ],
-        "generated": "2026-11-14T11:30:36.430758+00:00"
+        "generated": "2026-11-14T12:00:39.274488+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-14T11:30:00.789426+00:00"
+      "ultima_impresion": "2026-11-14T12:00:00.721566+00:00"
     },
     {
-      "key": "realizaran charla abierta uso cannabis medicinal adultos mayores medicina veterinaria",
-      "title": "Realizarán una charla abierta sobre el uso de cannabis medicinal en adultos mayores y medicina veterinaria",
-      "score": 1.1,
+      "key": "sabado reducido partidos necochea loberia",
+      "title": "Sábado de reducido con partidos en Necochea y Lobería",
+      "score": 1.171,
       "sources_count": 1,
-      "first_seen": "2026-11-14T11:30:00.789426+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261113165349_whatsapp-image-2026-11-13-at-16-53-38.jpg",
+      "first_seen": "2026-11-14T11:42:18+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/03/GIMNASIA-1.jpg",
       "articles": [
         {
-          "portal": "Necochea Digital",
-          "title": "Realizarán una charla abierta sobre el uso de cannabis medicinal en adultos mayores y medicina veterinaria",
-          "url": "https://necocheadigital.com/nota/120181/realizaran-una-charla-abierta-sobre-el-uso-de-cannabis-medicinal-en-adultos-mayores-y-medicina-veterinaria/",
-          "published_at": null,
-          "first_seen": "2026-11-14T11:30:00.789426+00:00",
+          "portal": "TSN Necochea",
+          "title": "Sábado de reducido con partidos en Necochea y Lobería",
+          "url": "https://tsnnecochea.com.ar/deportes/sabado-de-reducido-con-partidos-en-necochea-y-loberia-242284/",
+          "published_at": "2026-11-14T11:42:18+00:00",
+          "first_seen": "2026-11-14T12:00:00.721566+00:00",
           "category": null,
-          "image": null
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/03/GIMNASIA-1.jpg"
         }
       ],
       "summary": {
         "paragraphs": [
-          "La Asociación Civil Mediterps Necochea llevará adelante el próximo jueves 19 de noviembre, a partir de las 18, una charla educativa e informativa centrada en las aplicaciones terapéuticas del cannabis medicinal en dos ámbitos específicos: las personas adultas mayores y los animales de compañía. El encuentro tendrá lugar en el Centro Cultural de Necochea (calle 54 Nº 3062) y estará abierto a toda la comunidad con acceso libre y gratuito.",
-          "La jornada estará estructurada en dos exposiciones principales a cargo de profesionales especializados. En primer término, el doctor Walter Zagame, diplomado en Cannabis Medicinal, abordará la temática vinculada a la longevidad saludable en la tercera edad, haciendo foco en las estrategias de tratamiento individualizadas para mejorar la calidad de vida de los adultos mayores."
+          "TSN Necochea | ‹ VOLVER | Deportes | Liga Necochea de Fútbol Sábado de reducido con partidos en Necochea y Lobería Comienzan los cruces de la zona B. Por Redacción TSN 14/11/2026 · 08:42 AM Agregar TSN Necochea en Este sábado comienzan los cruces del reducido de la zona B por un lugar en la promoción del Campeonato Giuseppe Portugal de la Liga Necochea de Fútbol. Los mano a mano serán a partido único y hoy se conocerá quiénes juegan la final del reducido. En Necochea, Gimnasia es local de La Dulce desde las 16.30.",
+          "Media hora antes, a partir de las 16, en Lobería comenzará el partido entre Independiente y Huracán. Si hay empate al cabo de los 90 minutos, el clasificado se definirá por penales. Se recuerda que en la promoción, por parte de la zona A, se encuentra esperando Villa del Parque, que buscará defender su cupo en dicha zona."
         ],
-        "generated": "2026-11-14T11:30:37.070045+00:00"
+        "generated": "2026-11-14T12:00:43.294078+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-14T11:30:00.789426+00:00"
+      "ultima_impresion": "2026-11-14T12:00:00.721566+00:00"
     },
     {
-      "key": "definiciones clave liga necochea juegan reducido zona repechaje final femenina",
-      "title": "Definiciones clave en la Liga Necochea: se juegan el reducido de la Zona B, el repechaje y la final femenina",
+      "key": "augusto fulton hablo tn intenso temporal necochea cantidad agua muy grande poco tiempo",
+      "title": "Augusto Fulton habló en TN sobre el intenso temporal en Necochea: “Fue una cantidad de agua muy grande en poco tiempo”",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-11-14T11:30:00.789426+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261113163829_dominio-de-jonatan-bernal-ante-la-marca-de-pablo-maidana.jpg",
+      "first_seen": "2026-11-14T12:00:00.721566+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/5c2aa28f5197fd1a07eebf2b07be4cd7bd677ea8.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Definiciones clave en la Liga Necochea: se juegan el reducido de la Zona B, el repechaje y la final femenina",
-          "url": "https://necocheadigital.com/nota/120178/definiciones-clave-en-la-liga-necochea-se-juegan-el-reducido-de-la-zona-b-el-repechaje-y-la-final-femenina/",
+          "title": "Augusto Fulton habló en TN sobre el intenso temporal en Necochea: “Fue una cantidad de agua muy grande en poco tiempo”",
+          "url": "https://necocheadigital.com/nota/120183/augusto-fulton-hablo-en-tn-sobre-el-intenso-temporal-en-necochea-fue-una-cantidad-de-agua-muy-grande-en-poco-tiempo/",
           "published_at": null,
-          "first_seen": "2026-11-14T11:30:00.789426+00:00",
+          "first_seen": "2026-11-14T12:00:00.721566+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "La Liga Necochea de Fútbol atraviesa un fin de semana cargado de instancias decisivas en el marco del Torneo 2026 “Sergio ‘Giuseppe’ Portugal”, con actividad oficial en Primera División masculina, el certamen femenino y los cruces de ida de cuartos de final en Reserva y Sexta. La jornada del sábado 14 estará centrada en las semifinales del reducido de la Zona B, instancia que se resuelve a partido único en cancha del mejor ubicado en la fase regular, con definición por penales en caso de igualdad durante los noventa minutos.",
-          "Desde las 16, Independiente de Lobería recibirá a Huracán en el estadio Esteban Valentín Sanz, respaldado por dos antecedentes favorables en la etapa regular: sendos triunfos por 1-0, primero como visitante con gol de Francisco Galassi en la cuarta fecha y luego como local con tanto de Áxel Etcheverry en la jornada 19."
+          "Durante la comunicación, Fulton puso el foco en la importante cantidad de agua caída en un período muy corto, una situación que generó complicaciones en distintos sectores de Necochea. En el intercambio televisivo se mencionaron registros de entre 70 y 90 milímetros de lluvia, mientras que algunos sectores llegaron a alcanzar los 115 milímetros. Las cifras reflejaron la magnitud del fenómeno meteorológico y la intensidad de las precipitaciones.",
+          "“Fue una cantidad de agua muy grande en poco tiempo”, señaló Fulton al describir las características del temporal, que provocó importantes acumulaciones de agua en calles y distintos puntos de la ciudad. Ver esta publicación en Instagram Una publicación compartida de Necochea Digital (@necocheadigital) Otro de los datos destacados durante la entrevista fue que, pese a la magnitud de las precipitaciones, al momento de la comunicación no se registraban personas evacuadas."
         ],
-        "generated": "2026-11-14T11:30:37.689621+00:00"
+        "generated": "2026-11-14T12:00:44.337087+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-14T11:30:00.789426+00:00"
+      "ultima_impresion": "2026-11-14T12:00:00.721566+00:00"
     },
     {
-      "key": "advierten fuertes tormentas necochea region rige alerta amarilla",
-      "title": "Advierten por fuertes tormentas en Necochea y la región: rige una alerta amarilla",
+      "key": "ultimos 15 dias renovaron 600 luminarias continua recambio led necochea quequen",
+      "title": "En los últimos 15 días se renovaron 600 luminarias y continúa el recambio LED en Necochea y Quequén",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-11-14T11:30:00.789426+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/aa0bc79f869cb3451f9a68e1ba033581664d56d8.jpg",
+      "first_seen": "2026-11-14T12:00:00.721566+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/427fa36133f995d5087515cc795098a5af38bbef.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Advierten por fuertes tormentas en Necochea y la región: rige una alerta amarilla",
-          "url": "https://necocheadigital.com/nota/120175/advierten-por-fuertes-tormentas-en-necochea-y-la-region-rige-una-alerta-amarilla/",
+          "title": "En los últimos 15 días se renovaron 600 luminarias y continúa el recambio LED en Necochea y Quequén",
+          "url": "https://necocheadigital.com/nota/120182/en-los-ultimos-15-dias-se-renovaron-600-luminarias-y-continua-el-recambio-led-en-necochea-y-quequen/",
           "published_at": null,
-          "first_seen": "2026-11-14T11:30:00.789426+00:00",
+          "first_seen": "2026-11-14T12:00:00.721566+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "Defensa Civil de Necochea difundió una alerta amarilla por tormentas para la costa de Necochea y localidades de la región, en base al pronóstico oficial del Servicio Meteorológico Nacional (SMN). El aviso comprende también a la costa de Lobería, San Cayetano y Tres Arroyos, donde se prevé que durante este viernes 13 de noviembre se desarrollen tormentas aisladas, algunas de ellas fuertes o puntualmente severas.",
-          "De acuerdo con el informe meteorológico, los fenómenos podrían estar acompañados por precipitaciones intensas en cortos períodos, frecuente actividad eléctrica, ocasional caída de granizo y ráfagas de viento de intensidad considerable. En cuanto a las lluvias, se estiman valores acumulados de entre 20 y 50 milímetros, aunque no se descarta que esos registros puedan ser superados de manera puntual."
+          "La Municipalidad de Necochea registra un importante avance en una nueva etapa del plan de recambio de luminarias , que se desarrolla en distintos barrios y espacios públicos de Necochea y Quequén. A apenas dos semanas del inicio de los trabajos, ya fueron reemplazados alrededor de 600 equipos de un total de 1472 previstos.",
+          "La intervención responde a una política sostenida por el intendente Arturo Rojas desde el inicio de su gestión , con el objetivo de extender progresivamente la iluminación LED y alcanzar la cobertura total en los sectores urbanizados que cuentan con columnas de alumbrado. Al respecto, el secretario de Planeamiento, Obras y Servicios Públicos, Adrián Furno , explicó que esta nueva etapa permitirá completar el recambio en numerosos sectores que todavía cuentan con luminarias de sodio y mercurio."
         ],
-        "generated": "2026-11-14T11:30:38.714014+00:00"
+        "generated": "2026-11-14T12:00:45.347642+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-14T11:30:00.789426+00:00"
+      "ultima_impresion": "2026-11-14T12:00:00.721566+00:00"
     },
     {
-      "key": "lionel scaloni renovo contrato seleccion argentina seguira como dt mundial 2030",
-      "title": "Lionel Scaloni renovó su contrato en la Selección Argentina y seguirá como DT hasta el Mundial 2030",
+      "key": "messi jugara inter miami frente river monumental",
+      "title": "Messi jugará con Inter Miami frente a River en el Monumental",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-11-14T11:30:00.789426+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/eb8b90319984c3cdcc3e70a2427eeec805787fb3.jpg",
+      "first_seen": "2026-11-14T12:00:00.721566+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261113164232_whatsapp-image-2026-11-13-at-16-42-20.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Lionel Scaloni renovó su contrato en la Selección Argentina y seguirá como DT hasta el Mundial 2030",
-          "url": "https://necocheadigital.com/nota/120172/lionel-scaloni-renovo-su-contrato-en-la-seleccion-argentina-y-seguira-como-dt-hasta-el-mundial-2030/",
+          "title": "Messi jugará con Inter Miami frente a River en el Monumental",
+          "url": "https://necocheadigital.com/nota/120179/messi-jugara-con-inter-miami-frente-a-river-en-el-monumental/",
           "published_at": null,
-          "first_seen": "2026-11-14T11:30:00.789426+00:00",
+          "first_seen": "2026-11-14T12:00:00.721566+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "La noticia que estaba esperando todo el país: Lionel Scaloni seguirá al frente de la Selección Argentina . Un par de reuniones con el presidente Claudio Tapia bastaron. Con ambas partes predispuestas, solo hubo que sentarse, ajustar algunos números en el papel y seguir mirando hacia adelante . El entrenador, que con los ojos inundados de lágrimas había puesto en duda su continuidad tras perder la final del Mundial , renueva su contrato y continuará liderando este proceso hasta el Mundial 2030 .",
-          "\"Vamos a anunciar oficialmente la renovación del cuerpo técnico del Gringo Lionel Scaloni por el período 27 al 30 al mando de la Selección Argentina. Es una alegría para todos los que componen el Comité Ejecutivo de la AFA como para todos los argentinos y las argentinas\" , indicó el Chiqui ante los medios. \"Es un anuncio importantísimo."
+          "Lo que comenzó como un rumor y hasta el propio Kily González había admitido como \" una posibilidad muy fuerte \" , finalmente fue confirmado por River a través de sus cuentas oficiales en redes sociales. El Millonario recibirá a Inter Miami el próximo 19 de enero en un amistoso internacional que marcará el regreso de Lionel Messi al Monumental tras su retiro de la Selección Argentina. La Pulga se despidió del público argentino el pasado 6 de octubre , en el triunfo sobre Benín disputado en Núñez en una noche inolvidable por diversos motivos.",
+          "Aquel gol de penal para decretar el 3-0 final fue el último que marcó con la celeste y blanca, pero podría no ser el último en suelo argentino. El amistoso ante River significará el primer partido de Messi a nivel clubes en territorio argentino ."
         ],
-        "generated": "2026-11-14T11:30:39.748382+00:00"
+        "generated": "2026-11-14T12:00:45.967033+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-14T11:30:00.789426+00:00"
+      "ultima_impresion": "2026-11-14T12:00:00.721566+00:00"
     },
     {
-      "key": "inflacion acelero octubre alcanzo nivel alto ultimos cinco meses",
-      "title": "La inflación se aceleró en octubre y alcanzó el nivel más alto de los últimos cinco meses",
+      "key": "estacion quequen vencio mataderos ida repechaje quedo paso semifinales",
+      "title": "Estación Quequén venció 2-0 a Mataderos en la ida del repechaje y quedó a un paso de las semifinales",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-11-14T11:30:00.789426+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/0e20bc0ff1effd56d2d3e2dbce6cbecc3c7faaed.jpg",
+      "first_seen": "2026-11-14T12:00:00.721566+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261113163103_whatsapp-image-2026-11-13-at-16-30-50.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "La inflación se aceleró en octubre y alcanzó el nivel más alto de los últimos cinco meses",
-          "url": "https://necocheadigital.com/nota/120169/la-inflacion-se-acelero-en-octubre-y-alcanzo-el-nivel-mas-alto-de-los-ultimos-cinco-meses/",
+          "title": "Estación Quequén venció 2-0 a Mataderos en la ida del repechaje y quedó a un paso de las semifinales",
+          "url": "https://necocheadigital.com/nota/120177/estacion-quequen-vencio-2-0-a-mataderos-en-la-ida-del-repechaje-y-quedo-a-un-paso-de-las-semifinales/",
           "published_at": null,
-          "first_seen": "2026-11-14T11:30:00.789426+00:00",
+          "first_seen": "2026-11-14T12:00:00.721566+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "La inflación volvió a acelerarse durante octubre y alcanzó el 2,2%, según informó este jueves el Instituto Nacional de Estadística y Censos (INDEC). El dato representa un incremento de tres décimas respecto de septiembre, cuando el Índice de Precios al Consumidor (IPC) había registrado un 1,9%, y constituye el nivel más alto desde abril, mes en el que había llegado al 2,6%. Con este resultado, la inflación acumulada durante los primeros diez meses de 2026 alcanzó el 26,3%, mientras que la variación interanual se ubicó en el 33,1%.",
-          "El registro de octubre interrumpió la tendencia de relativa estabilidad que había mostrado el índice durante los meses anteriores. Después del 2,1% de mayo, la inflación descendió al 1,9% en junio, volvió al 2,1% en julio y bajó al 1,7% en agosto. En septiembre había retomado una trayectoria ascendente, con el 1,9%, que ahora se profundizó."
+          "Estación Quequén dio un paso fundamental en su objetivo de meterse entre los cuatro mejores del Torneo 2026 “Sergio ‘Giuseppe’ Portugal” de Primera División masculina de la Liga Necochea de Fútbol. Este jueves por la tarde, en el estadio Carlos Cuomo, el conjunto verdiblanco derrotó por 2-0 a Mataderos en el encuentro de ida de los cuartos de final, quedando bien perfilado para definir la llave este fin de semana.",
+          "El desarrollo comenzó con mucho estudio y ataques directos por ambos lados, sin posesiones prolongadas, donde los dos equipos intentaron aprovechar cualquier desatención defensiva. Con el correr de los minutos, el ganador de la zona B se aproximó con mayor peligro y logró abrir el marcador tras una buena acción individual de Eduardo “Kuky” Berón por el sector izquierdo; el atacante envió un pase atrás que encontró a Leonel Rodríguez, quien solamente tuvo que empujar la pelota para establecer el 1-0 parcial en el primer tiempo."
         ],
-        "generated": "2026-11-14T11:30:40.796889+00:00"
+        "generated": "2026-11-14T12:00:47.019726+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-14T11:30:00.789426+00:00"
+      "ultima_impresion": "2026-11-14T12:00:00.721566+00:00"
+    },
+    {
+      "key": "chocamos ayuda estremecedor testimonio adolescente sobrevivio choque fatal ruta 88",
+      "title": "“¡Chocamos, ayuda!”: el estremecedor testimonio de la adolescente que sobrevivió al choque fatal en la Ruta 88",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-14T12:00:00.721566+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261112163459_captura.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "“¡Chocamos, ayuda!”: el estremecedor testimonio de la adolescente que sobrevivió al choque fatal en la Ruta 88",
+          "url": "https://necocheadigital.com/nota/120170/chocamos-ayuda-el-estremecedor-testimonio-de-la-adolescente-que-sobrevivio-al-choque-fatal-en-la-ruta-88/",
+          "published_at": null,
+          "first_seen": "2026-11-14T12:00:00.721566+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "“¡Chocamos, ayuda, necesito ayuda!”. Esas fueron las palabras que Cata, una adolescente de 15 años, comenzó a repetir desesperadamente después de recuperar el conocimiento tras el choque frontal entre el remís en el que viajaba y un camión sobre la Ruta Provincial 88. El testimonio, cargado de angustia y emoción, forma parte del documental “Anita, una luz que no se apaga” , realizado por el periodista Fabián Pérez Battaglini.",
+          "La producción reconstruye la tragedia que tuvo como víctima a Ana Peralta Rondanina, de 15 años, compañera de vóley de Cata en el club Once Unidos. El accidente ocurrió alrededor de las 20.30 del domingo 12 de julio de 2026, cerca del paraje San José, en el trayecto entre Mar del Plata y Necochea. Las adolescentes regresaban a nuestra ciudad en un Fiat Siena conducido por Santiago Juan Manuel Irigoyen, un remisero de 58 años oriundo de Lobería."
+        ],
+        "generated": "2026-11-14T12:00:47.662563+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-14T12:00:00.721566+00:00"
+    },
+    {
+      "key": "hallan abandonada necochea moto robada mar plata",
+      "title": "Hallan abandonada en Necochea una moto robada en Mar del Plata",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-14T12:00:00.721566+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/343ee5c8e7167edf4d326f9e9705fa8c62bbe42e.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Hallan abandonada en Necochea una moto robada en Mar del Plata",
+          "url": "https://necocheadigital.com/nota/120168/hallan-abandonada-en-necochea-una-moto-robada-en-mar-del-plata/",
+          "published_at": null,
+          "first_seen": "2026-11-14T12:00:00.721566+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Personal policial y de Tránsito recuperó en las últimas horas una motocicleta que había sido robada meses atrás en Mar del Plata. El operativo se desencadenó en plena vía pública, en la intersección de la avenida 2 y la calle 81, donde el rodado fue abandonado. De acuerdo con el reporte oficial, los efectivos del Comando de Patrullas advirtieron la presencia de una Honda Wave rojinegra que estaba sin patente y con faltantes en sus plásticos.",
+          "En el lugar se encontraba un hombre que, al notar la presencia de los agentes, decidió escapar a pie antes de ser interceptado. Al revisar los números de cuadro y motor, las autoridades constataron mediante el sistema informático que la moto contaba con un pedido de secuestro activo emitido el pasado 23 de mayo, a raíz de una denuncia por robo radicada en la Comisaría Cuarta de Mar del Plata."
+        ],
+        "generated": "2026-11-14T12:00:48.661074+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-14T12:00:00.721566+00:00"
     },
     {
       "key": "claraz celebra 117 anos predio antigua estacion ferroviaria",
       "title": "Claraz celebra sus 117 años en el predio de la antigua estación ferroviaria",
-      "score": 0.152,
+      "score": 0.08,
       "sources_count": 1,
       "first_seen": "2026-11-13T12:53:00+00:00",
       "image": "http://nden.com.ar/uploads/noticias/5/2026/11/ea2186a38e809aeb77b56a415a16fba257063982.jpg",
@@ -199,201 +266,11 @@
         "paragraphs": [
           "De Rivadavia a la NCAA Emilia Sierra, la basquetbolista de Necochea que anotó 42 puntos y batió un récord en Estados Unidos"
         ],
-        "generated": "2026-11-14T11:31:02.646783+00:00"
+        "generated": "2026-11-14T12:01:12.103535+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-11-14T11:30:00.789426+00:00",
-      "penalizacion": 1.0
-    },
-    {
-      "key": "reconocimiento medallistas locales juegos bonaerenses",
-      "title": "Cálido reconocimiento de la gestión municipal hacia los medallistas locales en los Juegos Bonaerenses",
-      "score": 0.001,
-      "sources_count": 2,
-      "first_seen": "2026-11-13T17:44:50+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/13-11-FOTO-Rojas-Bonaerenses3.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Cálido reconocimiento de la gestión municipal hacia los medallistas locales en los Juegos Bonaerenses",
-          "url": "https://tsnnecochea.com.ar/deportes/calido-reconocimiento-de-la-gestion-municipal-hacia-los-medallistas-locales-en-los-juegos-bonaerenses-242252/",
-          "published_at": "2026-11-13T17:44:50+00:00",
-          "first_seen": "2026-11-14T06:10:19.126765+00:00",
-          "category": "intendente",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/13-11-FOTO-Rojas-Bonaerenses3.webp"
-        },
-        {
-          "portal": "Necochea Digital",
-          "title": "Reconocimiento a los medallistas locales de los Juegos Bonaerenses",
-          "url": "https://necocheadigital.com/nota/120176/reconocimiento-a-los-medallistas-locales-de-los-juegos-bonaerenses/",
-          "published_at": null,
-          "first_seen": "2026-11-14T06:10:19.126765+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Deportes | intendente | Emotivo Cálido reconocimiento de la gestión municipal hacia los medallistas locales en los Juegos Bonaerenses El intendente Arturo Rojas encabezó una ceremonia de entrega de diplomas para quienes consiguieron medallas de oro, plata y bronce en las finales disputadas en Mar del Plata. Por Redacción TSN 13/11/2026 · 02:44 PM Agregar TSN Necochea en La gestión del intendente Arturo Rojas realizó un reconocimiento a los deportistas necochenses y exponentes de la cultura que consiguieron medallas en las finales de los 35° Juegos Bonaerenses , disputadas recientemente en Mar del Plata.",
-          "En una jornada de encuentro y celebración, se entregaron diplomas a los representantes locales que alcanzaron los podios en las distintas disciplinas."
-        ],
-        "generated": "2026-11-14T11:30:42.727284+00:00"
-      },
-      "apariciones": 13,
-      "ultima_impresion": "2026-11-14T11:30:00.789426+00:00",
-      "penalizacion": 0.001
-    },
-    {
-      "key": "hay sectores ciudad anegados sigue vigente alerta amarillo",
-      "title": "Hay sectores de la ciudad anegados y sigue vigente el alerta amarillo",
-      "score": 0.001,
-      "sources_count": 1,
-      "first_seen": "2026-11-13T22:29:02+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/Screenshot_20261113_1917152.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Hay sectores de la ciudad anegados y sigue vigente el alerta amarillo",
-          "url": "https://tsnnecochea.com.ar/generales/hay-sectores-de-la-ciudad-anegados-y-sigue-vigente-el-alerta-amarillo-242270/",
-          "published_at": "2026-11-13T22:29:02+00:00",
-          "first_seen": "2026-11-14T06:10:19.126765+00:00",
-          "category": "alerta",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/Screenshot_20261113_1917152.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Generales | alerta | Fuertes tormentas Hay sectores de la ciudad anegados y sigue vigente el alerta amarillo Tras las intensas lluvias de esta tarde hay zonas intransitables en la ciudad y se aconseja evitar circular en la vía pública. Por Redacción TSN 13/11/2026 · 07:29 PM Agregar TSN Necochea en Una intensa lluvia en corto periodo de tiempo azotó Necochea y Quequén en la tarde de este viernes, dejando lugares con abundante acumulación de agua y otros dónde el exceso ha dejado la zona totalmente anegada e intransitable. This browser does not support the video element.",
-          "74 y 43 en Barrio Norte , como se observa en el video,con el agua de vereda a vereda. Asimismo, el municipio reportó lugares con acumulación de agua donde es peligroso circular, como 58 entre 75 y 65; 97 y 30 o 91 entre 24 y 28 ."
-        ],
-        "generated": "2026-11-14T11:30:46.061829+00:00"
-      },
-      "apariciones": 13,
-      "ultima_impresion": "2026-11-14T11:30:00.789426+00:00",
-      "penalizacion": 0.001
-    },
-    {
-      "key": "visita leon xiv lujan como trabajaron equipos ninez extravios",
-      "title": "Visita de León XIV a Luján: cómo trabajaron los equipos de Niñez ante los extravíos",
-      "score": 0.001,
-      "sources_count": 1,
-      "first_seen": "2026-11-14T00:13:00+00:00",
-      "image": "http://nden.com.ar/uploads/noticias/5/2026/11/f2dd9c5e86ea5cd4860571fa1b831cb36f5db319.jpg",
-      "articles": [
-        {
-          "portal": "Noticias de Necochea",
-          "title": "Visita de León XIV a Luján: cómo trabajaron los equipos de Niñez ante los extravíos",
-          "url": "https://nden.com.ar/nota/38711/visita-de-leon-xiv-a-lujan-como-trabajaron-los-equipos-de-ninez-ante-los-extravios",
-          "published_at": "2026-11-14T00:13:00+00:00",
-          "first_seen": "2026-11-14T06:10:19.126765+00:00",
-          "category": null,
-          "image": "http://nden.com.ar/uploads/noticias/5/2026/11/f2dd9c5e86ea5cd4860571fa1b831cb36f5db319.jpg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "De Rivadavia a la NCAA Emilia Sierra, la basquetbolista de Necochea que anotó 42 puntos y batió un récord en Estados Unidos"
-        ],
-        "generated": "2026-11-14T11:30:47.177050+00:00"
-      },
-      "apariciones": 13,
-      "ultima_impresion": "2026-11-14T11:30:00.789426+00:00",
-      "penalizacion": 0.001
-    },
-    {
-      "key": "tormenta anego avenidas barrios necochea tramos complicaron transito",
-      "title": "La tormenta anegó avenidas y barrios de Necochea: qué tramos complicaron el tránsito",
-      "score": 0.001,
-      "sources_count": 1,
-      "first_seen": "2026-11-13T23:55:00+00:00",
-      "image": "http://nden.com.ar/uploads/noticias/5/2026/11/20261113210236_whatsapp-image-2026-11-13-at-8-51-52-pm-1.jpg",
-      "articles": [
-        {
-          "portal": "Noticias de Necochea",
-          "title": "La tormenta anegó avenidas y barrios de Necochea: qué tramos complicaron el tránsito",
-          "url": "https://nden.com.ar/nota/38710/la-tormenta-anego-avenidas-y-barrios-de-necochea-que-tramos-complicaron-el-transito",
-          "published_at": "2026-11-13T23:55:00+00:00",
-          "first_seen": "2026-11-14T06:10:19.126765+00:00",
-          "category": null,
-          "image": "http://nden.com.ar/uploads/noticias/5/2026/11/20261113210236_whatsapp-image-2026-11-13-at-8-51-52-pm-1.jpg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "De Rivadavia a la NCAA Emilia Sierra, la basquetbolista de Necochea que anotó 42 puntos y batió un récord en Estados Unidos"
-        ],
-        "generated": "2026-11-14T11:30:47.812485+00:00"
-      },
-      "apariciones": 13,
-      "ultima_impresion": "2026-11-14T11:30:00.789426+00:00",
-      "penalizacion": 0.001
-    },
-    {
-      "key": "sigue alerta amarilla necochea quequen madrugada sabado",
-      "title": "Sigue la alerta amarilla en Necochea y Quequén hasta la madrugada del sábado",
-      "score": 0.001,
-      "sources_count": 2,
-      "first_seen": "2026-11-13T12:43:23+00:00",
-      "image": "http://nden.com.ar/uploads/noticias/5/2026/11/20261114011041_fb-img-1794627347678.jpg",
-      "articles": [
-        {
-          "portal": "Noticias de Necochea",
-          "title": "Sigue la alerta amarilla en Necochea y Quequén hasta la madrugada del sábado",
-          "url": "https://nden.com.ar/nota/38713/sigue-la-alerta-amarilla-en-necochea-y-quequen-hasta-la-madrugada-del-sabado",
-          "published_at": "2026-11-14T04:06:00+00:00",
-          "first_seen": "2026-11-14T06:10:19.126765+00:00",
-          "category": null,
-          "image": "http://nden.com.ar/uploads/noticias/5/2026/11/20261114011041_fb-img-1794627347678.jpg"
-        },
-        {
-          "portal": "Diario NQ",
-          "title": "Alerta amarilla y probabilidad de lluvias para este viernes y sábado en Necochea",
-          "url": "https://diarionq.com.ar/alerta-amarilla-y-probabilidad-de-lluvias-para-este-viernes-y-sabado-en-necochea/",
-          "published_at": "2026-11-13T12:43:23+00:00",
-          "first_seen": "2026-11-13T13:00:00.774887+00:00",
-          "category": "Destacadas",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La alerta amarilla rige para este viernes 13 y el sábado 14. El pronóstico anticipa lluvias, con mayor probabilidad durante la tarde y la noche de hoy y en las primeras horas de mañana. Para este viernes se esperan temperaturas de entre 15° y 22°. La probabilidad de precipitaciones será del 10 al 40% durante la mañana y aumentará al 70-100% por la tarde y la noche.",
-          "El viento soplará del noreste, con ráfagas de hasta 50 km/h por la mañana y de entre 51 y 59 km/h durante la noche. El sábado tendrá una mínima de 13° y una máxima de 19°. Se prevén vientos de entre 7 y 22 km/h, sin ráfagas informadas."
-        ],
-        "generated": "2026-11-14T11:30:51.276779+00:00"
-      },
-      "apariciones": 13,
-      "ultima_impresion": "2026-11-14T11:30:00.789426+00:00",
-      "penalizacion": 0.001
-    },
-    {
-      "key": "tres aprehendidos secuestros allanamiento robo",
-      "title": "Tres aprehendidos y secuestros tras un allanamiento por robo",
-      "score": 0.001,
-      "sources_count": 1,
-      "first_seen": "2026-11-13T21:07:05+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-13-at-11.15.50.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Tres aprehendidos y secuestros tras un allanamiento por robo",
-          "url": "https://tsnnecochea.com.ar/locales/tres-aprehendidos-y-secuestros-tras-un-allanamiento-por-robo-242260/",
-          "published_at": "2026-11-13T21:07:05+00:00",
-          "first_seen": "2026-11-14T06:10:19.126765+00:00",
-          "category": "allanamiento",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-13-at-11.15.50.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Locales | allanamiento | Comisaría Segunda Tres aprehendidos y secuestros tras un allanamiento por robo La víctima fue interceptado por dos masculinos y una mujer. secuestraron una cuchilla tipo carnicero Por Redacción TSN 13/11/2026 · 06:07 PM Agregar TSN Necochea en Una investigación por el robo de un celular permitió identificar a tres personas y concretar un allanamiento con resultado positivo en una vivienda de Quequén .",
-          "​El episodio ocurrió el 9 de noviembre , cuando un hombre fue interceptado por dos masculinos y una mujer, quienes le sustrajeron su teléfono. ​A partir de tareas de campo, declaraciones testimoniales y análisis de registros fílmicos, efectivos del Gabinete Técnico Operativo de la Comisaría Segunda (con colaboración de la Comisaría Primera) realizaron el procedimiento el [fecha] , con intervención de la UFI N.º 3 y el Juzgado de Garantías N.º 1 ."
-        ],
-        "generated": "2026-11-14T11:30:52.220062+00:00"
-      },
-      "apariciones": 13,
-      "ultima_impresion": "2026-11-14T11:30:00.789426+00:00",
-      "penalizacion": 0.001
+      "apariciones": 3,
+      "ultima_impresion": "2026-11-14T12:00:00.721566+00:00",
+      "penalizacion": 0.55
     },
     {
       "key": "argentina cayo uruguay bombonera inicio post messi",
@@ -427,11 +304,49 @@
           "Deportes nacionales Añadir como fuente en La selección argentina cayó ante Uruguay en el inicio de la era post Messi El equipo dirigido por Lionel Scaloni perdió 2-1 en La Bombonera ante Uruguay, en un encuentro marcado por la baja asistencia de público y errores defensivos. 13 de noviembre de 2026 | 23:51 Ads La selección argentina vivió una jornada compleja en La Bombonera, escenario que albergó el primer compromiso del equipo tras el retiro de Lionel Messi .",
           "En un estadio que registró una baja asistencia de público, el conjunto nacional no logró imponer su juego y terminó cayendo por 2-1 ante Uruguay . Este resultado representa la 11° derrota del entrenador Lionel Scaloni al frente del seleccionado, en un ciclo que ha estado marcado por grandes éxitos pero que ahora enfrenta el desafío de reinventarse sin su máxima figura histórica."
         ],
-        "generated": "2026-11-14T11:30:35.428817+00:00"
+        "generated": "2026-11-14T12:00:42.433521+00:00"
       },
-      "apariciones": 22,
-      "ultima_impresion": "2026-11-14T11:30:00.789426+00:00",
+      "apariciones": 23,
+      "ultima_impresion": "2026-11-14T12:00:00.721566+00:00",
       "penalizacion": 0.0
+    },
+    {
+      "key": "reconocimiento medallistas locales juegos bonaerenses",
+      "title": "Cálido reconocimiento de la gestión municipal hacia los medallistas locales en los Juegos Bonaerenses",
+      "score": 0.0,
+      "sources_count": 2,
+      "first_seen": "2026-11-13T17:44:50+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/13-11-FOTO-Rojas-Bonaerenses3.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Cálido reconocimiento de la gestión municipal hacia los medallistas locales en los Juegos Bonaerenses",
+          "url": "https://tsnnecochea.com.ar/deportes/calido-reconocimiento-de-la-gestion-municipal-hacia-los-medallistas-locales-en-los-juegos-bonaerenses-242252/",
+          "published_at": "2026-11-13T17:44:50+00:00",
+          "first_seen": "2026-11-14T06:10:19.126765+00:00",
+          "category": "intendente",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/13-11-FOTO-Rojas-Bonaerenses3.webp"
+        },
+        {
+          "portal": "Necochea Digital",
+          "title": "Reconocimiento a los medallistas locales de los Juegos Bonaerenses",
+          "url": "https://necocheadigital.com/nota/120176/reconocimiento-a-los-medallistas-locales-de-los-juegos-bonaerenses/",
+          "published_at": null,
+          "first_seen": "2026-11-14T06:10:19.126765+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Deportes | intendente | Emotivo Cálido reconocimiento de la gestión municipal hacia los medallistas locales en los Juegos Bonaerenses El intendente Arturo Rojas encabezó una ceremonia de entrega de diplomas para quienes consiguieron medallas de oro, plata y bronce en las finales disputadas en Mar del Plata. Por Redacción TSN 13/11/2026 · 02:44 PM Agregar TSN Necochea en La gestión del intendente Arturo Rojas realizó un reconocimiento a los deportistas necochenses y exponentes de la cultura que consiguieron medallas en las finales de los 35° Juegos Bonaerenses , disputadas recientemente en Mar del Plata.",
+          "En una jornada de encuentro y celebración, se entregaron diplomas a los representantes locales que alcanzaron los podios en las distintas disciplinas."
+        ],
+        "generated": "2026-11-14T12:00:50.464962+00:00"
+      },
+      "apariciones": 14,
+      "ultima_impresion": "2026-11-14T12:00:00.721566+00:00",
+      "penalizacion": 0.001
     },
     {
       "key": "fuerte temporal provoco graves danos escuela agraria germania estacion servicio",
@@ -456,10 +371,10 @@
           "La región y provincia Añadir como fuente en Un fuerte temporal provocó graves daños en la Escuela Agraria de Germania y una estación de servicio Un violento fenómeno climático causó la destrucción de instalaciones educativas y el desplome de una estructura en una estación de servicio en el partido de General Pinto, sin registrarse heridos. 13 de noviembre de 2026 | 23:19 Ads Un violento temporal azotó el noroeste bonaerense y provocó importantes destrozos en diversas localidades del partido de General Pinto .",
           "Según lo informado por el Servicio Meteorológico Nacional , la zona se encontraba bajo alerta por fuertes tormentas y eventos climáticos con capacidad de daño. Ads En la localidad de Iriarte , la estructura de la playa de carga de una estación de servicio YPF , situada sobre la Ruta Nacional 7 , cedió ante la intensidad de las ráfagas y se desplomó sobre un camión cisterna."
         ],
-        "generated": "2026-11-14T11:30:43.193824+00:00"
+        "generated": "2026-11-14T12:00:51.576624+00:00"
       },
-      "apariciones": 19,
-      "ultima_impresion": "2026-11-14T11:30:00.789426+00:00",
+      "apariciones": 20,
+      "ultima_impresion": "2026-11-14T12:00:00.721566+00:00",
       "penalizacion": 0.0
     },
     {
@@ -485,10 +400,10 @@
           "Espectáculos y arte Añadir como fuente en Milo J brilló en los Latin Grammy 2026 al obtener cuatro premios El joven artista de Morón se destacó en la ceremonia realizada en Las Vegas, consolidando su trayectoria en el género urbano y el folclore con cuatro galardones. 13 de noviembre de 2026 | 23:17 Milo J, de solo 20 años, se quedó con cuatro premios en la gala de los Latin Grammy 2026.",
           "Ads Los artistas argentinos fueron grandes protagonistas en la última edición de los Latin Grammy 2026 , celebrada en el MGM Grand Garden Arena de Las Vegas. Entre los premiados, Milo J , de 20 años, se alzó con cuatro gramófonos, posicionándose como una de las figuras más destacadas de la gala."
         ],
-        "generated": "2026-11-14T11:30:43.664524+00:00"
+        "generated": "2026-11-14T12:00:52.681258+00:00"
       },
-      "apariciones": 19,
-      "ultima_impresion": "2026-11-14T11:30:00.789426+00:00",
+      "apariciones": 20,
+      "ultima_impresion": "2026-11-14T12:00:00.721566+00:00",
       "penalizacion": 0.0
     },
     {
@@ -514,10 +429,10 @@
           "Espectáculos y arte Añadir como fuente en Pescadores & Guitarras, el documental sobre conservación marina que ganó un premio Oscar La producción argentina, que retrata la protección de la especie Guitarra Grande en la costa bonaerense, fue galardonada en los Jackson Wild 2026 en Estados Unidos. 13 de noviembre de 2026 | 23:15 Ads El cine documental ambiental argentino alcanzó un reconocimiento internacional de gran relevancia.",
           "La producción Pescadores & Guitarras , que aborda la conservación marina en las costas del sudoeste y sur bonaerense, se consagró en los Jackson Wild / Hollywood Climate Summit Awards 2026 , certamen considerado como los premios Oscar de la naturaleza. Ads La distinción fue otorgada durante la gala celebrada en Los Ángeles, Estados Unidos, donde el filme se impuso en la categoría Branded Content ."
         ],
-        "generated": "2026-11-14T11:30:44.132081+00:00"
+        "generated": "2026-11-14T12:00:53.794793+00:00"
       },
-      "apariciones": 19,
-      "ultima_impresion": "2026-11-14T11:30:00.789426+00:00",
+      "apariciones": 20,
+      "ultima_impresion": "2026-11-14T12:00:00.721566+00:00",
       "penalizacion": 0.0
     },
     {
@@ -543,10 +458,10 @@
           "Deportes nacionales Añadir como fuente en El Atlético de Madrid adquiere el 50% del Atlético Fútbol Club de Ecuador La institución española oficializó la compra de la mitad del paquete accionario del club ecuatoriano, consolidando así su expansión deportiva y formativa en el país sudamericano. 13 de noviembre de 2026 | 23:13 Ads El Atlético de Madrid anunció este viernes la adquisición del 50% del Atlético Fútbol Club ecuatoriano, entidad que logró recientemente el ascenso a la Serie A bajo la dirección técnica de Carlos Santamarina . Ads A través de un comunicado oficial, el equipo español informó que se convierte en accionista de la institución, en la cual también participa la Junta de Beneficencia de Guayaquil .",
           "El consejo de administración estará integrado por seis miembros, con tres representantes de cada entidad. El Atlético de Madrid ha hecho efectiva la adquisición del 50% del Atlético Fútbol Club."
         ],
-        "generated": "2026-11-14T11:30:44.595219+00:00"
+        "generated": "2026-11-14T12:00:54.901930+00:00"
       },
-      "apariciones": 19,
-      "ultima_impresion": "2026-11-14T11:30:00.789426+00:00",
+      "apariciones": 20,
+      "ultima_impresion": "2026-11-14T12:00:00.721566+00:00",
       "penalizacion": 0.0
     },
     {
@@ -572,11 +487,163 @@
           "El mundo Añadir como fuente en Vacaciones 2027: cómo impacta la devaluación del real en los precios de Brasil Una creadora de contenido comparó los valores de productos básicos en Brasil y Argentina, revelando diferencias de hasta el 50% tras la reciente depreciación de la moneda brasileña. 13 de noviembre de 2026 | 23:12 Ads Una creadora de contenido argentina que viaja por Brasil publicó un video en Instagram donde compara los precios de diversos productos con sus equivalentes en la Argentina.",
           "La diferencia encontrada, que alcanza hasta el 50% o más en algunos rubros, se viralizó rápidamente en los últimos días. La influencer Andrea Heller recorrió una tienda de chocolates, una farmacia, un supermercado y un shopping para registrar los valores de mercado."
         ],
-        "generated": "2026-11-14T11:30:45.060753+00:00"
+        "generated": "2026-11-14T12:00:56.008708+00:00"
       },
-      "apariciones": 19,
-      "ultima_impresion": "2026-11-14T11:30:00.789426+00:00",
+      "apariciones": 20,
+      "ultima_impresion": "2026-11-14T12:00:00.721566+00:00",
       "penalizacion": 0.0
+    },
+    {
+      "key": "hay sectores ciudad anegados sigue vigente alerta amarillo",
+      "title": "Hay sectores de la ciudad anegados y sigue vigente el alerta amarillo",
+      "score": 0.0,
+      "sources_count": 1,
+      "first_seen": "2026-11-13T22:29:02+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/Screenshot_20261113_1917152.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Hay sectores de la ciudad anegados y sigue vigente el alerta amarillo",
+          "url": "https://tsnnecochea.com.ar/generales/hay-sectores-de-la-ciudad-anegados-y-sigue-vigente-el-alerta-amarillo-242270/",
+          "published_at": "2026-11-13T22:29:02+00:00",
+          "first_seen": "2026-11-14T06:10:19.126765+00:00",
+          "category": "alerta",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/Screenshot_20261113_1917152.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Generales | alerta | Fuertes tormentas Hay sectores de la ciudad anegados y sigue vigente el alerta amarillo Tras las intensas lluvias de esta tarde hay zonas intransitables en la ciudad y se aconseja evitar circular en la vía pública. Por Redacción TSN 13/11/2026 · 07:29 PM Agregar TSN Necochea en Una intensa lluvia en corto periodo de tiempo azotó Necochea y Quequén en la tarde de este viernes, dejando lugares con abundante acumulación de agua y otros dónde el exceso ha dejado la zona totalmente anegada e intransitable. This browser does not support the video element.",
+          "74 y 43 en Barrio Norte , como se observa en el video,con el agua de vereda a vereda. Asimismo, el municipio reportó lugares con acumulación de agua donde es peligroso circular, como 58 entre 75 y 65; 97 y 30 o 91 entre 24 y 28 ."
+        ],
+        "generated": "2026-11-14T12:00:57.019065+00:00"
+      },
+      "apariciones": 14,
+      "ultima_impresion": "2026-11-14T12:00:00.721566+00:00",
+      "penalizacion": 0.001
+    },
+    {
+      "key": "visita leon xiv lujan como trabajaron equipos ninez extravios",
+      "title": "Visita de León XIV a Luján: cómo trabajaron los equipos de Niñez ante los extravíos",
+      "score": 0.0,
+      "sources_count": 1,
+      "first_seen": "2026-11-14T00:13:00+00:00",
+      "image": "http://nden.com.ar/uploads/noticias/5/2026/11/f2dd9c5e86ea5cd4860571fa1b831cb36f5db319.jpg",
+      "articles": [
+        {
+          "portal": "Noticias de Necochea",
+          "title": "Visita de León XIV a Luján: cómo trabajaron los equipos de Niñez ante los extravíos",
+          "url": "https://nden.com.ar/nota/38711/visita-de-leon-xiv-a-lujan-como-trabajaron-los-equipos-de-ninez-ante-los-extravios",
+          "published_at": "2026-11-14T00:13:00+00:00",
+          "first_seen": "2026-11-14T06:10:19.126765+00:00",
+          "category": null,
+          "image": "http://nden.com.ar/uploads/noticias/5/2026/11/f2dd9c5e86ea5cd4860571fa1b831cb36f5db319.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "De Rivadavia a la NCAA Emilia Sierra, la basquetbolista de Necochea que anotó 42 puntos y batió un récord en Estados Unidos"
+        ],
+        "generated": "2026-11-14T12:00:58.076737+00:00"
+      },
+      "apariciones": 14,
+      "ultima_impresion": "2026-11-14T12:00:00.721566+00:00",
+      "penalizacion": 0.001
+    },
+    {
+      "key": "tormenta anego avenidas barrios necochea tramos complicaron transito",
+      "title": "La tormenta anegó avenidas y barrios de Necochea: qué tramos complicaron el tránsito",
+      "score": 0.0,
+      "sources_count": 1,
+      "first_seen": "2026-11-13T23:55:00+00:00",
+      "image": "http://nden.com.ar/uploads/noticias/5/2026/11/20261113210236_whatsapp-image-2026-11-13-at-8-51-52-pm-1.jpg",
+      "articles": [
+        {
+          "portal": "Noticias de Necochea",
+          "title": "La tormenta anegó avenidas y barrios de Necochea: qué tramos complicaron el tránsito",
+          "url": "https://nden.com.ar/nota/38710/la-tormenta-anego-avenidas-y-barrios-de-necochea-que-tramos-complicaron-el-transito",
+          "published_at": "2026-11-13T23:55:00+00:00",
+          "first_seen": "2026-11-14T06:10:19.126765+00:00",
+          "category": null,
+          "image": "http://nden.com.ar/uploads/noticias/5/2026/11/20261113210236_whatsapp-image-2026-11-13-at-8-51-52-pm-1.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "De Rivadavia a la NCAA Emilia Sierra, la basquetbolista de Necochea que anotó 42 puntos y batió un récord en Estados Unidos"
+        ],
+        "generated": "2026-11-14T12:00:59.094737+00:00"
+      },
+      "apariciones": 14,
+      "ultima_impresion": "2026-11-14T12:00:00.721566+00:00",
+      "penalizacion": 0.001
+    },
+    {
+      "key": "sigue alerta amarilla necochea quequen madrugada sabado",
+      "title": "Sigue la alerta amarilla en Necochea y Quequén hasta la madrugada del sábado",
+      "score": 0.0,
+      "sources_count": 2,
+      "first_seen": "2026-11-13T12:43:23+00:00",
+      "image": "http://nden.com.ar/uploads/noticias/5/2026/11/20261114011041_fb-img-1794627347678.jpg",
+      "articles": [
+        {
+          "portal": "Noticias de Necochea",
+          "title": "Sigue la alerta amarilla en Necochea y Quequén hasta la madrugada del sábado",
+          "url": "https://nden.com.ar/nota/38713/sigue-la-alerta-amarilla-en-necochea-y-quequen-hasta-la-madrugada-del-sabado",
+          "published_at": "2026-11-14T04:06:00+00:00",
+          "first_seen": "2026-11-14T06:10:19.126765+00:00",
+          "category": null,
+          "image": "http://nden.com.ar/uploads/noticias/5/2026/11/20261114011041_fb-img-1794627347678.jpg"
+        },
+        {
+          "portal": "Diario NQ",
+          "title": "Alerta amarilla y probabilidad de lluvias para este viernes y sábado en Necochea",
+          "url": "https://diarionq.com.ar/alerta-amarilla-y-probabilidad-de-lluvias-para-este-viernes-y-sabado-en-necochea/",
+          "published_at": "2026-11-13T12:43:23+00:00",
+          "first_seen": "2026-11-13T13:00:00.774887+00:00",
+          "category": "Destacadas",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La alerta amarilla rige para este viernes 13 y el sábado 14. El pronóstico anticipa lluvias, con mayor probabilidad durante la tarde y la noche de hoy y en las primeras horas de mañana. Para este viernes se esperan temperaturas de entre 15° y 22°. La probabilidad de precipitaciones será del 10 al 40% durante la mañana y aumentará al 70-100% por la tarde y la noche.",
+          "El viento soplará del noreste, con ráfagas de hasta 50 km/h por la mañana y de entre 51 y 59 km/h durante la noche. El sábado tendrá una mínima de 13° y una máxima de 19°. Se prevén vientos de entre 7 y 22 km/h, sin ráfagas informadas."
+        ],
+        "generated": "2026-11-14T12:01:01.682747+00:00"
+      },
+      "apariciones": 14,
+      "ultima_impresion": "2026-11-14T12:00:00.721566+00:00",
+      "penalizacion": 0.001
+    },
+    {
+      "key": "tres aprehendidos secuestros allanamiento robo",
+      "title": "Tres aprehendidos y secuestros tras un allanamiento por robo",
+      "score": 0.0,
+      "sources_count": 1,
+      "first_seen": "2026-11-13T21:07:05+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-13-at-11.15.50.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Tres aprehendidos y secuestros tras un allanamiento por robo",
+          "url": "https://tsnnecochea.com.ar/locales/tres-aprehendidos-y-secuestros-tras-un-allanamiento-por-robo-242260/",
+          "published_at": "2026-11-13T21:07:05+00:00",
+          "first_seen": "2026-11-14T06:10:19.126765+00:00",
+          "category": "allanamiento",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-13-at-11.15.50.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Locales | allanamiento | Comisaría Segunda Tres aprehendidos y secuestros tras un allanamiento por robo La víctima fue interceptado por dos masculinos y una mujer. secuestraron una cuchilla tipo carnicero Por Redacción TSN 13/11/2026 · 06:07 PM Agregar TSN Necochea en Una investigación por el robo de un celular permitió identificar a tres personas y concretar un allanamiento con resultado positivo en una vivienda de Quequén .",
+          "​El episodio ocurrió el 9 de noviembre , cuando un hombre fue interceptado por dos masculinos y una mujer, quienes le sustrajeron su teléfono. ​A partir de tareas de campo, declaraciones testimoniales y análisis de registros fílmicos, efectivos del Gabinete Técnico Operativo de la Comisaría Segunda (con colaboración de la Comisaría Primera) realizaron el procedimiento el [fecha] , con intervención de la UFI N.º 3 y el Juzgado de Garantías N.º 1 ."
+        ],
+        "generated": "2026-11-14T12:01:02.706994+00:00"
+      },
+      "apariciones": 14,
+      "ultima_impresion": "2026-11-14T12:00:00.721566+00:00",
+      "penalizacion": 0.001
     },
     {
       "key": "futbol local define ultimos lugares semifinales toda atencion estara mataderos",
@@ -601,10 +668,10 @@
           "Este fin de semana se disputarán los encuentros del reducido y la revancha del repechaje del Torneo “Sergio ‘Giuseppe’ Portugal” 2026. Multimedio NQ y Nec Radio 98.3 transmitirán este domingo el duelo entre Mataderos y Estación Quequén, que definirá al último clasificado a las semifinales. La Liga Necochea de Fútbol tendrá un fin de semana de definiciones con la disputa de los partidos correspondientes al reducido y la revancha del repechaje, instancias que determinarán los equipos que continuarán en carrera por el título del Torneo “Sergio ‘Giuseppe’ Portugal” 2026.",
           "Uno de los encuentros más esperados será el que protagonizarán Mataderos y Estación Quequén, este domingo desde las 16.30, en el Complejo Gustavo Atilio Portugal. Allí se definirá el último lugar disponible en las semifinales. Multimedio NQ y Nec Radio 98.3 estarán presentes con una transmisión en vivo para acompañar todas las alternativas de este importante compromiso."
         ],
-        "generated": "2026-11-14T11:30:54.184751+00:00"
+        "generated": "2026-11-14T12:01:04.988594+00:00"
       },
-      "apariciones": 28,
-      "ultima_impresion": "2026-11-14T11:30:00.789426+00:00",
+      "apariciones": 29,
+      "ultima_impresion": "2026-11-14T12:00:00.721566+00:00",
       "penalizacion": 0.0
     },
     {
@@ -630,68 +697,10 @@
           "TSN Necochea | ‹ VOLVER | Locales | actividad | Turismo «Hay que romper con ese mito de que a Necochea se puede venir solo en verano, cuando en realidad hay actividad todo el año” Afirmó la flamante Secretaria de Turismo y Desarrollo Productivo, Silvia Jensen. Agradeció el respaldo del Intendente Por Redacción TSN 13/11/2026 · 05:15 PM Agregar TSN Necochea en Tras asumir al frente de la Secretaría de Turismo y Desarrollo Productivo, Silvia Jensen completó su primera semana de trabajo y compartió sus primeras impresiones sobre el desafío de conducir el área , con una política de continuidad respecto de lo realizado durante los últimos siete años por Matías Sierra.",
           "La funcionaria destacó que se encontró con una Secretaría en plena actividad y que comenzó a interiorizarse sobre el funcionamiento de cada una de sus dependencias, entre ellas Turismo, Emprendimientos y Pymes, Producción, Juventud, Deportes y Cultura."
         ],
-        "generated": "2026-11-14T11:30:54.828731+00:00"
+        "generated": "2026-11-14T12:01:05.656868+00:00"
       },
-      "apariciones": 13,
-      "ultima_impresion": "2026-11-14T11:30:00.789426+00:00",
-      "penalizacion": 0.001
-    },
-    {
-      "key": "habilitan poner peajes ruta 228 otros 27 caminos entregaran empresas privadas",
-      "title": "Habilitan poner peajes en la Ruta 228 y otros 27 caminos que entregarán a empresas privadas",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-11-13T19:00:25+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/images-7.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Habilitan poner peajes en la Ruta 228 y otros 27 caminos que entregarán a empresas privadas",
-          "url": "https://tsnnecochea.com.ar/locales/habilitan-poner-peajes-en-la-ruta-228-y-otros-27-caminos-que-entregaran-a-empresas-privadas-242266/",
-          "published_at": "2026-11-13T19:00:25+00:00",
-          "first_seen": "2026-11-14T06:10:19.126765+00:00",
-          "category": "concesiones",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/images-7.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Locales | concesiones | Caminos Habilitan poner peajes en la Ruta 228 y otros 27 caminos que entregarán a empresas privadas La decisión se oficializó en medio de reclamos provinciales por el deterioro de los caminos y de una fuerte caída de la inversión vial nacional. Por Redacción TSN 13/11/2026 · 04:00 PM Agregar TSN Necochea en El Gobierno de Javier Milei sumó 27 rutas nacionales a la red federal de concesiones , con la que busca entregarlas a empresas privadas bajo un esquema que habilita la colocación de más peajes pese al deplorable estado de los corredores por la paralización de la obra pública.",
-          "El Gobierno de Javier Milei avanza con la concesión de 27 rutas nacionales en el marco de un esquema que habilita la colocación de más peajes , pese al deplorable estado de las trazas en buena parte del país."
-        ],
-        "generated": "2026-11-14T11:30:55.835253+00:00"
-      },
-      "apariciones": 13,
-      "ultima_impresion": "2026-11-14T11:30:00.789426+00:00",
-      "penalizacion": 0.001
-    },
-    {
-      "key": "dos aprehendidos quequen recuperaron elementos sustraidos auto comercio",
-      "title": "Dos aprehendidos en Quequén: recuperaron elementos sustraídos de un auto y un comercio",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-11-13T18:05:30+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/905046839_1920457189326162_1815815266253036541_n.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Dos aprehendidos en Quequén: recuperaron elementos sustraídos de un auto y un comercio",
-          "url": "https://tsnnecochea.com.ar/locales/dos-aprehendidos-en-quequen-recuperaron-elementos-sustraidos-de-un-auto-y-un-comercio-242257/",
-          "published_at": "2026-11-13T18:05:30+00:00",
-          "first_seen": "2026-11-14T06:10:19.126765+00:00",
-          "category": "Comando de Patrullas",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/905046839_1920457189326162_1815815266253036541_n.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Locales | Comando de Patrullas | Comando de Patrullas Dos aprehendidos en Quequén: recuperaron elementos sustraídos de un auto y un comercio El propietario del automóvil reconoció una hidrolavadora y una botella que le habían robado Por Redacción TSN 13/11/2026 · 03:05 PM Agregar TSN Necochea en Personal del Comando de Patrullas aprehendió a una mujer y un hombre en Quequén, tras un aviso por la sustracción de una hidrolavadora del interior de un vehículo estacionado. Durante la intervención, los efectivos interceptaron a ambos mientras caminaban por la zona con una hidrolavadora, una botella metálica y un pack de jugos.",
-          "El propietario del automóvil reconoció la hidrolavadora y la botella como los elementos que le habían sustraído. En ese momento, una comerciante se acercó y señaló a los interceptados como responsables del hurto de un pack de 18 jugos de su local."
-        ],
-        "generated": "2026-11-14T11:30:56.489274+00:00"
-      },
-      "apariciones": 13,
-      "ultima_impresion": "2026-11-14T11:30:00.789426+00:00",
+      "apariciones": 14,
+      "ultima_impresion": "2026-11-14T12:00:00.721566+00:00",
       "penalizacion": 0.001
     },
     {
@@ -716,10 +725,10 @@
         "paragraphs": [
           "De Rivadavia a la NCAA Emilia Sierra, la basquetbolista de Necochea que anotó 42 puntos y batió un récord en Estados Unidos"
         ],
-        "generated": "2026-11-14T11:30:57.169748+00:00"
+        "generated": "2026-11-14T12:01:06.395486+00:00"
       },
-      "apariciones": 13,
-      "ultima_impresion": "2026-11-14T11:30:00.789426+00:00",
+      "apariciones": 14,
+      "ultima_impresion": "2026-11-14T12:00:00.721566+00:00",
       "penalizacion": 0.001
     },
     {
@@ -744,10 +753,10 @@
         "paragraphs": [
           "De Rivadavia a la NCAA Emilia Sierra, la basquetbolista de Necochea que anotó 42 puntos y batió un récord en Estados Unidos"
         ],
-        "generated": "2026-11-14T11:30:57.794418+00:00"
+        "generated": "2026-11-14T12:01:07.160304+00:00"
       },
-      "apariciones": 13,
-      "ultima_impresion": "2026-11-14T11:30:00.789426+00:00",
+      "apariciones": 14,
+      "ultima_impresion": "2026-11-14T12:00:00.721566+00:00",
       "penalizacion": 0.001
     },
     {
@@ -773,10 +782,10 @@
           "Miguel Aguilar confirmó que el nuevo cuadro tarifario para el transporte de cereales y oleaginosas ya se encuentra vigente luego de una extensa negociación. Además, aseguró que se mantienen los acuerdos para priorizar a los camioneros locales en las cargas de fertilizantes y planteó la necesidad de contar con una playa para ordenar la espera de vehículos. Charlando con Fede Cañadas en “Esta Mañana”, por NEC Radio 98.3 del Multimedio NQ, Miguel Aguilar, referente de ATCADE , confirmó un incremento del 16% en la tarifa del transporte de cereales y oleaginosas , luego de una reunión que calificó como una de las más tensas de los últimos tiempos.",
           "“Dentro de todo estamos conformes. Pudimos incrementar nuevamente el cuadro tarifario”, expresó Aguilar. Según explicó, los estudios de costos presentados por las entidades transportistas mostraban porcentajes superiores al finalmente acordado."
         ],
-        "generated": "2026-11-14T11:30:59.772218+00:00"
+        "generated": "2026-11-14T12:01:08.872245+00:00"
       },
-      "apariciones": 42,
-      "ultima_impresion": "2026-11-14T11:30:00.789426+00:00",
+      "apariciones": 43,
+      "ultima_impresion": "2026-11-14T12:00:00.721566+00:00",
       "penalizacion": 0.0
     },
     {
@@ -802,10 +811,10 @@
           "La Ruta Nacional 228, que conecta Necochea con Tres Arroyos, quedó incluida entre los corredores que podrán ser concesionados mediante futuras licitaciones. La medida fue dispuesta por el Decreto 1358/2026, publicado este viernes, que amplía la Red Federal de Concesiones. La inclusión de la ruta no significa que toda su extensión vaya a quedar en manos privadas ni que el cobro de peajes comience de inmediato.",
           "Primero deberán definirse los tramos que se licitarán; para ello, la Secretaría de Transporte tendrá que contar con un informe técnico de la Dirección Nacional de Vialidad. También quedarán afuera los sectores que ya estén incluidos en concesiones vigentes. El decreto habilita a las empresas adjudicatarias a hacerse cargo de la construcción, administración, reparación, conservación y mantenimiento de los tramos concesionados, además de prestar servicios a los usuarios."
         ],
-        "generated": "2026-11-14T11:31:01.492619+00:00"
+        "generated": "2026-11-14T12:01:11.063943+00:00"
       },
-      "apariciones": 48,
-      "ultima_impresion": "2026-11-14T11:30:00.789426+00:00",
+      "apariciones": 49,
+      "ultima_impresion": "2026-11-14T12:00:00.721566+00:00",
       "penalizacion": 0.0
     },
     {
@@ -831,10 +840,10 @@
           "La propuesta comenzará el lunes y se extenderá hasta el viernes en distintos CAPS del distrito. Carina Maceris, directora de Atención Primaria de la Salud, destacó que el objetivo es llegar especialmente a mujeres que permanecen fuera de los controles habituales y detectar de manera temprana posibles patologías del cuello uterino.",
           "Charlando con Fede Cañadas en “Esta Mañana”, por NEC Radio 98.3 del Multimedio NQ, Carina Maceris, directora de Atención Primaria de la Salud , anunció una nueva campaña de PAP y test de VPH que comenzará el lunes y se desarrollará durante toda la semana en diferentes centros de salud de Necochea y Quequén. La iniciativa forma parte de un trabajo que el sistema sanitario local viene sosteniendo desde hace tres años, con distintas jornadas distribuidas durante el año."
         ],
-        "generated": "2026-11-14T11:31:04.846112+00:00"
+        "generated": "2026-11-14T12:01:13.779002+00:00"
       },
-      "apariciones": 51,
-      "ultima_impresion": "2026-11-14T11:30:00.789426+00:00",
+      "apariciones": 52,
+      "ultima_impresion": "2026-11-14T12:00:00.721566+00:00",
       "penalizacion": 0.0
     },
     {
@@ -860,10 +869,10 @@
           "La tradicional fiesta se desarrollará este sábado 14 y domingo 15 de noviembre en San Cayetano. Pese a la incertidumbre por el pronóstico, Alejo de Francisco confirmó que hasta el momento no hubo modificaciones en el programa. El sábado habrá desfile, espectáculos y bailanta con entrada gratuita, mientras que el domingo llegará la jineteada y la última clasificatoria para Jesús María.",
           "Charlando con Fede Cañadas en “Esta Mañana”, por NEC Radio 98.3 del Multimedio NQ, Alejo de Francisco , uno de los responsables de la organización, confirmó que la fiesta de Baguales y Milonga continúa en pie y que, pese a la atención puesta sobre las condiciones climáticas, hasta el momento no se realizaron cambios en la programación prevista para el fin de semana. “Todo sigue en pie como está programado."
         ],
-        "generated": "2026-11-14T11:31:06.827373+00:00"
+        "generated": "2026-11-14T12:01:15.884594+00:00"
       },
-      "apariciones": 18,
-      "ultima_impresion": "2026-11-14T11:30:00.789426+00:00",
+      "apariciones": 19,
+      "ultima_impresion": "2026-11-14T12:00:00.721566+00:00",
       "penalizacion": 0.0
     },
     {
@@ -889,10 +898,10 @@
           "La localidad de Claraz se prepara para celebrar su 117° aniversario con una jornada de actividades recreativas, propuestas culturales y espectáculos musicales. Los festejos tendrán lugar este domingo 15 de noviembre, con entrada libre y una programación que se extenderá desde la mañana hasta la noche. La celebración se desarrollará en el predio de Espacios Verdes La Vía, ubicado sobre la Ruta Nº 80, entre las calles 712 y 714.",
           "Si bien Claraz cumplió años el pasado 26 de julio, los festejos se trasladaron a noviembre, como ocurre habitualmente, para aprovechar las mejores condiciones climáticas. Las actividades comenzarán a las 10 con una tradicional barrileteada. Luego, a partir de las 14, tendrá lugar el acto inaugural, seguido del tradicional corte de torta y una programación que incluirá peñas folclóricas, grupos de danza, artistas locales y música en vivo."
         ],
-        "generated": "2026-11-14T11:31:08.938973+00:00"
+        "generated": "2026-11-14T12:01:18.443329+00:00"
       },
-      "apariciones": 15,
-      "ultima_impresion": "2026-11-14T11:30:00.789426+00:00",
+      "apariciones": 16,
+      "ultima_impresion": "2026-11-14T12:00:00.721566+00:00",
       "penalizacion": 0.0
     }
   ]
