@@ -1,273 +1,369 @@
 {
-  "generated_at": "2026-11-16T16:30:01.324147+00:00",
-  "article_count": 120,
+  "generated_at": "2026-11-16T17:00:01.099740+00:00",
+  "article_count": 110,
   "fetch_errors": [],
   "stories": [
     {
-      "key": "cuanto cuestan entradas festival isoca 2027 necochea",
-      "title": "¿Cuánto cuestan las entradas para el Festival Isoca 2027 en Necochea?",
-      "score": 1.208,
+      "key": "camioneta perdio control choco toyota sw4 estacionada avenida",
+      "title": "Una camioneta perdió el control y chocó contra una Toyota SW4 estacionada en avenida 2",
+      "score": 1.648,
+      "sources_count": 2,
+      "first_seen": "2026-11-16T11:24:52+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/8c093d6a6980644439edaa561e12de0b5f52b6f1.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Una camioneta perdió el control y chocó contra una Toyota SW4 estacionada en avenida 2",
+          "url": "https://necocheadigital.com/nota/120190/una-camioneta-perdio-el-control-y-choco-contra-una-toyota-sw4-estacionada-en-avenida-2/",
+          "published_at": null,
+          "first_seen": "2026-11-16T12:00:01.026068+00:00",
+          "category": null,
+          "image": null
+        },
+        {
+          "portal": "Diario NQ",
+          "title": "Un auto chocó contra una camioneta estacionada en avenida 2",
+          "url": "https://diarionq.com.ar/un-auto-choco-contra-una-camioneta-estacionada-en-avenida-2/",
+          "published_at": "2026-11-16T11:24:52+00:00",
+          "first_seen": "2026-11-16T11:30:00.709481+00:00",
+          "category": "Destacadas",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Un accidente de tránsito se registró durante la madrugada de este lunes en avenida 2, entre las calles 81 y 83, donde una camioneta utilitaria Fiat perdió el control y terminó impactando contra una Toyota SW4 que se encontraba estacionada. El episodio fue advertido por el Centro de Operaciones y Monitoreo (COM), que alertó sobre lo sucedido y permitió activar rápidamente la intervención de los equipos de emergencia. Una unidad móvil se dirigió al lugar y, al arribar, efectivos policiales y personal de Tránsito constataron que no había personas con heridas de gravedad, por lo que no fue necesaria la intervención de una ambulancia.",
+          "En el lugar trabajaron conjuntamente agentes de Tránsito y efectivos policiales, quienes realizaron las actuaciones correspondientes y ordenaron la circulación vehicular. El siniestro provocó daños materiales en los vehículos involucrados, aunque no se informaron consecuencias personales de gravedad."
+        ],
+        "generated": "2026-11-16T17:00:51.762507+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-16T17:00:01.099740+00:00"
+    },
+    {
+      "key": "axel kicillof cruzo javier milei figura belgrano eliminacion paso",
+      "title": "Axel Kicillof cruzó a Javier Milei por la figura de Belgrano y la eliminación de las PASO",
+      "score": 1.288,
       "sources_count": 1,
-      "first_seen": "2026-11-16T15:36:59+00:00",
-      "image": "https://cdnartic.ar/x8SXWimQWteTb6D06KNriff-jTM=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/divididos_1.webp",
+      "first_seen": "2026-11-16T16:53:36+00:00",
+      "image": "https://cdnartic.ar/JkAID0n2fUR9wVi4T1381EY_6Tc=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/el_gobernador_axel_kicillof_en_conferencia_de_prensa.webp",
       "articles": [
         {
           "portal": "Ecos Diarios",
-          "title": "¿Cuánto cuestan las entradas para el Festival Isoca 2027 en Necochea?",
-          "url": "https://elecos.com.ar/cuanto-cuestan-las-entradas-para-el-festival-isoca-2027-en-necochea",
-          "published_at": "2026-11-16T15:36:59+00:00",
-          "first_seen": "2026-11-16T16:00:00.837497+00:00",
-          "category": "104",
-          "image": "https://cdnartic.ar/x8SXWimQWteTb6D06KNriff-jTM=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/divididos_1.webp"
+          "title": "Axel Kicillof cruzó a Javier Milei por la figura de Belgrano y la eliminación de las PASO",
+          "url": "https://elecos.com.ar/axel-kicillof-cruzo-a-javier-milei-por-la-figura-de-belgrano-y-la-eliminacion-de-las-paso",
+          "published_at": "2026-11-16T16:53:36+00:00",
+          "first_seen": "2026-11-16T17:00:01.099740+00:00",
+          "category": "nacionales",
+          "image": "https://cdnartic.ar/JkAID0n2fUR9wVi4T1381EY_6Tc=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/el_gobernador_axel_kicillof_en_conferencia_de_prensa.webp"
         }
       ],
       "summary": {
         "paragraphs": [
-          "Espectáculos y arte Añadir como fuente en ¿Cuánto cuestan las entradas para el Festival Isoca 2027 en Necochea? Ya comenzó la venta anticipada para el encuentro que se realizará el 13 y 14 de febrero en el Club Villa del Parque.",
-          "Los precios de la primera fase incluyen entradas generales, abonos para ambas jornadas y acceso al sector de acampe 16 de noviembre de 2026 | 12:36 Divididos será una de las principales atracciones del Festival Isoca 2027, que ya inició la venta anticipada de entradas Ads El Festival Isoca 2027 ya puso a la venta sus primeras entradas anticipadas a través de Ticketek. El evento se desarrollará el 13 y 14 de febrero en el predio del Club Villa del Parque, en Necochea, y contará con distintas opciones de acceso para quienes quieran asistir a una o ambas jornadas."
+          "Nacionales Añadir como fuente en Axel Kicillof cruzó a Javier Milei por la figura de Belgrano y la eliminación de las PASO El gobernador bonaerense cuestionó al presidente por reivindicar al prócer como libertario y criticó la intención oficial de modificar el sistema electoral vigente. 16 de noviembre de 2026 | 13:53 El gobernador Axel Kicillof en conferencia de prensa. Ads El gobernador bonaerense, Axel Kicillof , acusó al presidente Javier Milei de “adulterar la historia” y “destruir el futuro”, luego de que el mandatario nacional calificara a Manuel Belgrano como el primer economista moderno y precursor de las ideas libertarias.",
+          "A través de un extenso mensaje, el titular del Ejecutivo provincial contrapuso las ideas económicas del creador de la bandera con las políticas actuales. Ads Para respaldar su postura, Axel Kicillof citó dos escritos de Manuel Belgrano ."
         ],
-        "generated": "2026-11-16T16:31:16.580157+00:00"
+        "generated": "2026-11-16T17:00:54.520660+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-11-16T16:30:01.324147+00:00",
-      "penalizacion": 1.0
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-16T17:00:01.099740+00:00"
     },
     {
-      "key": "divididos plan mariposa guasones encabezaran festival isoca 2027",
-      "title": "Divididos, El Plan de la Mariposa y Guasones encabezarán el Festival Isoca 2027",
-      "score": 1.177,
+      "key": "alerta nuevo escape gas remedios escalada explosion fatal",
+      "title": "Alerta por un nuevo escape de gas en Remedios de Escalada tras la explosión fatal",
+      "score": 1.284,
       "sources_count": 1,
-      "first_seen": "2026-11-16T15:18:27+00:00",
-      "image": "https://cdnartic.ar/x_zPbrxD_bCmikmhHsphL9iWoEY=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/festival_isoca.webp",
+      "first_seen": "2026-11-16T16:51:19+00:00",
+      "image": "https://cdnartic.ar/YkSbgkO8jwxKPfjGFXpNHMsMxBQ=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/el_escape_de_gas_en_lanus_imagen_tv.webp",
       "articles": [
         {
           "portal": "Ecos Diarios",
-          "title": "Divididos, El Plan de la Mariposa y Guasones encabezarán el Festival Isoca 2027",
-          "url": "https://elecos.com.ar/divididos-el-plan-de-la-mariposa-y-guasones-encabezaran-el-festival-isoca-2027",
-          "published_at": "2026-11-16T15:18:27+00:00",
-          "first_seen": "2026-11-16T16:00:00.837497+00:00",
-          "category": "104",
-          "image": "https://cdnartic.ar/x_zPbrxD_bCmikmhHsphL9iWoEY=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/festival_isoca.webp"
+          "title": "Alerta por un nuevo escape de gas en Remedios de Escalada tras la explosión fatal",
+          "url": "https://elecos.com.ar/alerta-por-un-nuevo-escape-de-gas-en-remedios-de-escalada-tras-la-explosion-fatal",
+          "published_at": "2026-11-16T16:51:19+00:00",
+          "first_seen": "2026-11-16T17:00:01.099740+00:00",
+          "category": "nacionales",
+          "image": "https://cdnartic.ar/YkSbgkO8jwxKPfjGFXpNHMsMxBQ=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/el_escape_de_gas_en_lanus_imagen_tv.webp"
         }
       ],
       "summary": {
         "paragraphs": [
-          "Espectáculos y arte Añadir como fuente en Divididos, El Plan de la Mariposa y Guasones encabezarán el Festival Isoca 2027 El encuentro musical se realizará el 13 y 14 de febrero en Necochea. La organización confirmó una amplia grilla de artistas nacionales y anunció que ya se encuentran disponibles las primeras entradas anticipadas con descuento 16 de noviembre de 2026 | 12:18 La música y el público, protagonistas de una edición anterior del Festival Isoca en Necochea Ads Necochea se prepara para recibir una nueva edición del Festival Isoca, que tendrá lugar el sábado 13 y domingo 14 de febrero de 2027 .",
-          "La organización dio a conocer la programación musical del encuentro, que contará con la participación de reconocidos artistas y bandas de distintos géneros, además de propuestas vinculadas con la naturaleza y los talleres."
+          "Nacionales Añadir como fuente en Alerta por un nuevo escape de gas en Remedios de Escalada tras la explosión fatal A pocos días de la tragedia que dejó un muerto y 30 heridos, un nuevo incidente con una pérdida de gas en la vía pública obligó a desplegar un operativo preventivo en la zona. 16 de noviembre de 2026 | 13:51 El escape de gas en Lanús. (Imagen TV) Ads Mientras los vecinos de Remedios de Escalada comenzaban a regresar a sus hogares tras la explosión ocurrida el viernes pasado, un nuevo escape de gas generó preocupación este lunes a pocas cuadras del primer hecho.",
+          "El operativo se desplegó a unos 500 metros de la zona donde una obra provocó un siniestro que dejó un muerto y 30 heridos. Ads Ante la alarma, las autoridades montaron un operativo preventivo y ampliaron el perímetro de seguridad en torno a la estación de trenes. Como consecuencia, se dispuso el corte del tránsito sobre la avenida Hipólito Yrigoyen y la calle 25 de Mayo ."
         ],
-        "generated": "2026-11-16T16:31:17.258758+00:00"
+        "generated": "2026-11-16T17:00:55.224759+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-11-16T16:30:01.324147+00:00",
-      "penalizacion": 1.0
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-16T17:00:01.099740+00:00"
     },
     {
-      "key": "puede darse hoy tormenta como viernes alertan sectores vulnerables ciudad",
-      "title": "¿Puede darse hoy una tormenta como la del viernes? Alertan sobre los sectores más vulnerables de la ciudad",
-      "score": 1.127,
+      "key": "baja proporcion alcoholemias positivas rutas bonaerenses",
+      "title": "Baja la proporción de alcoholemias positivas en las rutas bonaerenses",
+      "score": 1.277,
       "sources_count": 1,
-      "first_seen": "2026-11-16T15:44:51+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/FOTO-lluvia-en-Necochea.webp",
+      "first_seen": "2026-11-16T16:47:08+00:00",
+      "image": "https://cdnartic.ar/6bztVtn5iuswymWOLJ6SDkeDIQg=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/parque_eolico.webp",
+      "articles": [
+        {
+          "portal": "Ecos Diarios",
+          "title": "Baja la proporción de alcoholemias positivas en las rutas bonaerenses",
+          "url": "https://elecos.com.ar/baja-la-proporcion-de-alcoholemias-positivas-en-las-rutas-bonaerenses",
+          "published_at": "2026-11-16T16:47:08+00:00",
+          "first_seen": "2026-11-16T17:00:01.099740+00:00",
+          "category": "108",
+          "image": "https://cdnartic.ar/6bztVtn5iuswymWOLJ6SDkeDIQg=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/parque_eolico.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La región y provincia Añadir como fuente en Baja la proporción de alcoholemias positivas en las rutas bonaerenses El Ministerio de Transporte informó que la positividad en los controles descendió del 5% al 1,24% tras la implementación de diversas políticas de prevención. 16 de noviembre de 2026 | 13:47 Ads La proporción de alcoholemias positivas en los controles viales de la provincia de Buenos Aires registró una baja significativa, pasando del 5% al 1,24%, según el balance oficial difundido por el Ministerio de Transporte .",
+          "Los datos corresponden al período comprendido entre el inicio de 2025 y el 31 de octubre de 2026. Ads Durante este lapso, se realizaron 622.834 testeos en 5.075 operativos, logrando detectar 7.745 conductores con alcohol en sangre."
+        ],
+        "generated": "2026-11-16T17:00:55.931155+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-16T17:00:01.099740+00:00"
+    },
+    {
+      "key": "gobierno aprobo ingreso rigi parque eolico rinconada olavarria",
+      "title": "El Gobierno aprobó el ingreso al RIGI del parque eólico La Rinconada en Olavarría",
+      "score": 1.271,
+      "sources_count": 1,
+      "first_seen": "2026-11-16T16:43:58+00:00",
+      "image": "https://cdnartic.ar/51HAMdfxC3R4pYMYzP3LBZjmkko=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/molino.webp",
+      "articles": [
+        {
+          "portal": "Ecos Diarios",
+          "title": "El Gobierno aprobó el ingreso al RIGI del parque eólico La Rinconada en Olavarría",
+          "url": "https://elecos.com.ar/el-gobierno-aprobo-el-ingreso-al-rigi-del-parque-eolico-la-rinconada-en-olavarria",
+          "published_at": "2026-11-16T16:43:58+00:00",
+          "first_seen": "2026-11-16T17:00:01.099740+00:00",
+          "category": "nacionales",
+          "image": "https://cdnartic.ar/51HAMdfxC3R4pYMYzP3LBZjmkko=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/molino.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Nacionales Añadir como fuente en El Gobierno aprobó el ingreso al RIGI del parque eólico La Rinconada en Olavarría El Ministerio de Economía autorizó la adhesión del proyecto al Régimen de Incentivo para Grandes Inversiones con una inversión superior a los 230 millones de dólares. 16 de noviembre de 2026 | 13:43 Ads El Ministerio de Economía oficializó la aprobación del ingreso del proyecto Parque Eólico La Rinconada al Régimen de Incentivo para Grandes Inversiones (RIGI) . La iniciativa, que se desarrollará a 40 kilómetros de Olavarría , es llevada adelante por la empresa Vientos La Rinconada S.A.U.",
+          "Ads El proyecto contempla una inversión total de 230,7 millones de dólares y contará con una potencia instalada de 94,5 megavatios. Según la resolución, el objetivo central es abastecer el proceso productivo de la siderúrgica Siderca S.A.I.C."
+        ],
+        "generated": "2026-11-16T17:00:56.645091+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-16T17:00:01.099740+00:00"
+    },
+    {
+      "key": "wanda nara mauro icardi china suarez conflicto suma otro capitulo",
+      "title": "Wanda Nara, Mauro Icardi y la China Suárez: el conflicto suma otro capítulo",
+      "score": 1.266,
+      "sources_count": 1,
+      "first_seen": "2026-11-16T16:40:53+00:00",
+      "image": "https://cdnartic.ar/8Hf1y6fOya-HoVVI2xoFTsPNPxM=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/wanda_icardi_y_la_china.webp",
+      "articles": [
+        {
+          "portal": "Ecos Diarios",
+          "title": "Wanda Nara, Mauro Icardi y la China Suárez: el conflicto suma otro capítulo",
+          "url": "https://elecos.com.ar/wanda-nara-mauro-icardi-y-la-china-suarez-el-conflicto-suma-otro-capitulo",
+          "published_at": "2026-11-16T16:40:53+00:00",
+          "first_seen": "2026-11-16T17:00:01.099740+00:00",
+          "category": "ecos-radio",
+          "image": "https://cdnartic.ar/8Hf1y6fOya-HoVVI2xoFTsPNPxM=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/wanda_icardi_y_la_china.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Ecos Radio Añadir como fuente en Wanda Nara, Mauro Icardi y la China Suárez: el conflicto suma otro capítulo En Ecos Radio, la periodista de espectáculos Ailen Abrego analizó el enfrentamiento, la intervención judicial y los nuevos cruces en redes sociales 16 de noviembre de 2026 | 13:40 Ads El conflicto entre Wanda Nara , Mauro Icardi y Eugenia “la China” Suárez volvió a escalar tras un episodio que involucró a una de las hijas de la expareja. El tema fue analizado por la periodista de espectáculos Ailen Abrego en su columna del programa “Desde Temprano”, de Ecos Radio .",
+          "Ads El conflicto comenzó cuando Francesca , de 11 años, habría llamado a su madre para pedirle ayuda y denunciar que su padre le había pegado. Wanda interrumpió las grabaciones de MasterChef Celebrity y se dirigió al barrio privado de Nordelta donde se encontraba Icardi."
+        ],
+        "generated": "2026-11-16T17:00:57.555523+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-16T17:00:01.099740+00:00"
+    },
+    {
+      "key": "vecinos remedios escalada regresan hogares temor explosion",
+      "title": "Vecinos de Remedios de Escalada regresan a sus hogares con temor tras la explosión",
+      "score": 1.266,
+      "sources_count": 1,
+      "first_seen": "2026-11-16T16:40:41+00:00",
+      "image": "https://cdnartic.ar/BHhp1wt54oolAULjOOl67T_MO_8=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/el_reclamo_de_los_vecinos_dos_dias_despues_de_la_explosion_en_remedios_de_escalada.webp",
+      "articles": [
+        {
+          "portal": "Ecos Diarios",
+          "title": "Vecinos de Remedios de Escalada regresan a sus hogares con temor tras la explosión",
+          "url": "https://elecos.com.ar/vecinos-de-remedios-de-escalada-regresan-a-sus-hogares-con-temor-tras-la-explosion",
+          "published_at": "2026-11-16T16:40:41+00:00",
+          "first_seen": "2026-11-16T17:00:01.099740+00:00",
+          "category": "nacionales",
+          "image": "https://cdnartic.ar/BHhp1wt54oolAULjOOl67T_MO_8=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/el_reclamo_de_los_vecinos_dos_dias_despues_de_la_explosion_en_remedios_de_escalada.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Nacionales Añadir como fuente en Vecinos de Remedios de Escalada regresan a sus hogares con temor tras la explosión Los habitantes de la zona afectada comenzaron a retornar a sus viviendas mientras avanzan los peritajes y el municipio se prepara para querellar a MetroGAS. 16 de noviembre de 2026 | 13:40 El reclamo de los vecinos, dos días después de la explosión en Remedios de Escalada.",
+          "Ads Los vecinos de Remedios de Escalada iniciaron un regreso paulatino a sus hogares tras la explosión ocurrida el viernes, la cual dejó un saldo de un muerto, 30 heridos y daños materiales de consideración en el centro comercial de la localidad del partido de Lanús . Ante la reducción del perímetro de seguridad, las autoridades trabajan para restablecer los servicios básicos, aunque persiste el temor entre los residentes por posibles nuevas fugas de gas."
+        ],
+        "generated": "2026-11-16T17:00:58.311816+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-16T17:00:01.099740+00:00"
+    },
+    {
+      "key": "identificaron 50 vehiculos puerte colgante",
+      "title": "Identificaron más de 50 vehículos en el Puerte Colgante",
+      "score": 1.182,
+      "sources_count": 1,
+      "first_seen": "2026-11-16T16:49:17+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-16-at-10.18.04.webp",
       "articles": [
         {
           "portal": "TSN Necochea",
-          "title": "¿Puede darse hoy una tormenta como la del viernes? Alertan sobre los sectores más vulnerables de la ciudad",
-          "url": "https://tsnnecochea.com.ar/generales/puede-darse-hoy-una-tormenta-como-la-del-viernes-alertan-sobre-los-sectores-mas-vulnerables-de-la-ciudad-242524/",
-          "published_at": "2026-11-16T15:44:51+00:00",
-          "first_seen": "2026-11-16T16:00:00.837497+00:00",
-          "category": "lluvias",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/FOTO-lluvia-en-Necochea.webp"
+          "title": "Identificaron más de 50 vehículos en el Puerte Colgante",
+          "url": "https://tsnnecochea.com.ar/locales/identificaron-mas-de-50-vehiculos-en-el-puerte-colgante-242536/",
+          "published_at": "2026-11-16T16:49:17+00:00",
+          "first_seen": "2026-11-16T17:00:01.099740+00:00",
+          "category": "controles",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-16-at-10.18.04.webp"
         }
       ],
       "summary": {
         "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Generales | lluvias | Prevención ¿Puede darse hoy una tormenta como la del viernes? Alertan sobre los sectores más vulnerables de la ciudad Se aconseja a los vecinos a estar preparados y tener a mano todas las líneas de emergencia.",
-          "Por Redacción TSN 16/11/2026 · 12:44 PM Agregar TSN Necochea en La Municipalidad de Necochea mantiene desplegados sus equipos y refuerza las recomendaciones preventivas para que los vecinos conozcan las características de las zonas donde viven y sepan cómo actuar ante posibles lluvias extraordinarias que pueden llegar a darse durante la tarde-noche de este lunes y madrugada del martes , similares a las registradas el último viernes."
+          "TSN Necochea | ‹ VOLVER | Locales | controles | Controles Identificaron más de 50 vehículos en el Puerte Colgante Inspectores municipales labraron actas de infracción Por Redacción TSN 16/11/2026 · 01:49 PM Agregar TSN Necochea en Personal de la Comisaría Primera, junto a otras dependencias de la Estación Departamental de Seguridad Necochea y con la colaboración de Tránsito Municipal, realizó un operativo de interceptación vehicular en el acceso al Puente Colgante, sobre la margen de Necochea. El procedimiento se desarrolló el domingo 15 de noviembre, entre las 19 y las 21 horas. Durante los controles se identificaron 38 automóviles y 17 motocicletas.",
+          "Como resultado, inspectores municipales labraron un acta de infracción a la Ley Nacional de Tránsito y secuestraron un automóvil por falta de documentación obligatoria para circular. El rodado fue trasladado al predio de Tránsito Municipal."
         ],
-        "generated": "2026-11-16T16:31:19.108937+00:00"
+        "generated": "2026-11-16T17:00:59.777933+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-11-16T16:30:01.324147+00:00",
-      "penalizacion": 1.0
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-16T17:00:01.099740+00:00"
     },
     {
-      "key": "asociacion deportiva arenas volvio competir sumo importantes podios",
-      "title": "La Asociación Deportiva Arenas volvió a competir y sumó importantes podios",
-      "score": 1.105,
-      "sources_count": 1,
-      "first_seen": "2026-11-16T15:30:41+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/FOTO-ADA-Arenas.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "La Asociación Deportiva Arenas volvió a competir y sumó importantes podios",
-          "url": "https://tsnnecochea.com.ar/deportes/la-asociacion-deportiva-arenas-volvio-a-competir-y-sumo-importantes-podios-242518/",
-          "published_at": "2026-11-16T15:30:41+00:00",
-          "first_seen": "2026-11-16T16:00:00.837497+00:00",
-          "category": "ADA",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/FOTO-ADA-Arenas.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Deportes | ADA | Natación La Asociación Deportiva Arenas volvió a competir y sumó importantes podios El equipo de jóvenes nadadores necochenses estuvo acompañado por \"Yuri\" Quaglia.",
-          "Por Redacción TSN 16/11/2026 · 12:30 PM Agregar TSN Necochea en El equipo de la Asociación Deportiva Arenas de Necochea (ADA) de Necochea , volvió a salir a la ruta para participar de una nueva competencia de natación, donde sus jóvenes representantes, acompañados por Marcelo “Yuri” Quaglia , tuvieron destacadas actuaciones y consiguieron varios lugares en el podio, tanto en sus respectivas categorías como en la clasificación absoluta."
-        ],
-        "generated": "2026-11-16T16:31:22.342667+00:00"
-      },
-      "apariciones": 2,
-      "ultima_impresion": "2026-11-16T16:30:01.324147+00:00",
-      "penalizacion": 1.0
-    },
-    {
-      "key": "vecina necochea conquisto television torta emociono recordar papa",
-      "title": "Una vecina de Necochea conquistó la televisión con su torta de E.T. y se emocionó al recordar a su papá",
+      "key": "dos muertos herido grave choque frontal ruta altura chascomus",
+      "title": "Dos muertos y un herido grave tras un choque frontal en la Ruta 2 a la altura de Chascomús",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-11-16T16:30:01.324147+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/fc8605adb22feaf74d4383e1cf41373b8ccdd8ad.jpg",
+      "first_seen": "2026-11-16T17:00:01.099740+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261116114506_whatsapp-image-2026-11-16-at-11-44-51.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Una vecina de Necochea conquistó la televisión con su torta de E.T. y se emocionó al recordar a su papá",
-          "url": "https://necocheadigital.com/nota/120191/una-vecina-de-necochea-conquisto-la-television-con-su-torta-de-e-t-y-se-emociono-al-recordar-a-su-papa/",
+          "title": "Dos muertos y un herido grave tras un choque frontal en la Ruta 2 a la altura de Chascomús",
+          "url": "https://necocheadigital.com/nota/120196/dos-muertos-y-un-herido-grave-tras-un-choque-frontal-en-la-ruta-2-a-la-altura-de-chascomus/",
           "published_at": null,
-          "first_seen": "2026-11-16T16:30:01.324147+00:00",
+          "first_seen": "2026-11-16T17:00:01.099740+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "Una historia de talento, esfuerzo y emoción tuvo como protagonista a Brenda Recavarren, una vecina de Necochea que sorprendió en la televisión nacional con una original creación inspirada en el recordado personaje de la película E.T. Brenda, oriunda de La Plata y radicada en nuestra ciudad desde hace 16 años, participó de la competencia de tortas de diseño del programa La cocina rebelde , que conduce Jimena Monteverde por eltrece. Para llegar a la grabación debió recorrer 600 kilómetros y, pese a las dificultades que atravesó durante el viaje, logró destacarse y quedarse con el reconocimiento del día.",
-          "Su creación, a la que llamó “Mi casa, mi teléfono” , reprodujo al emblemático extraterrestre e incorporó efectos de luz y sonido que sorprendieron al equipo del programa. La preparación le demandó una semana de trabajo."
+          "Dos personas fallecieron y otra resultó gravemente herida este sábado 14 de noviembre a raíz de una colisión frontal entre un camión cisterna y una camioneta particular en el kilómetro 95 de la Autovía 2, dentro de la jurisdicción del partido de Chascomús. El siniestro vial se desencadenó cuando un camión Scania afectado al transporte de combustible de la empresa Axion, que circulaba en sentido hacia Mar del Plata, atravesó el cantero central por causas que aún son materia de investigación.",
+          "Al invadir la mano contraria, el transporte pesado impactó de frente contra una camioneta Chevrolet Tracker que se desplazaba en dirección opuesta con tres ocupantes a bordo. Como consecuencia de la violencia del choque, dos de las personas que viajaban en el vehículo menor perdieron la vida en el acto, mientras que el conductor sufrió lesiones de gravedad y debió ser trasladado de urgencia para recibir asistencia médica."
         ],
-        "generated": "2026-11-16T16:31:23.153315+00:00"
+        "generated": "2026-11-16T17:01:01.281679+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-16T16:30:01.324147+00:00"
+      "ultima_impresion": "2026-11-16T17:00:01.099740+00:00"
     },
     {
-      "key": "matias rossi quebro sequia tres anos tc benedictis cerro 12 rio cuarto",
-      "title": "Matías Rossi quebró una sequía de más de tres años en el TC y De Benedictis cerró 12° en Río Cuarto",
+      "key": "ocho anos hallazgo ara san juan dolor sigue presente recuerdo necochense jesica gopar",
+      "title": "A ocho años del hallazgo del ARA San Juan, el dolor sigue presente: el recuerdo de la necochense Jésica Gopar",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-11-16T16:30:01.324147+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261115155627_whatsapp-image-2026-11-15-at-15-53-08-1.jpg",
+      "first_seen": "2026-11-16T17:00:01.099740+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/991d2ac9286c47d97b730822b1814bd52b1dd703.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Matías Rossi quebró una sequía de más de tres años en el TC y De Benedictis cerró 12° en Río Cuarto",
-          "url": "https://necocheadigital.com/nota/120186/matias-rossi-quebro-una-sequia-de-mas-de-tres-anos-en-el-tc-y-de-benedictis-cerro-12-deg-en-rio-cuarto/",
+          "title": "A ocho años del hallazgo del ARA San Juan, el dolor sigue presente: el recuerdo de la necochense Jésica Gopar",
+          "url": "https://necocheadigital.com/nota/120192/a-ocho-anos-del-hallazgo-del-ara-san-juan-el-dolor-sigue-presente-el-recuerdo-de-la-necochense-jesica-gopar/",
           "published_at": null,
-          "first_seen": "2026-11-16T16:30:01.324147+00:00",
+          "first_seen": "2026-11-16T17:00:01.099740+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "Matías Rossi puso fin a una espera de 3 años, 3 meses y 20 días al imponerse con autoridad en la final de la penúltima fecha del Turismo Carretera disputada en el autódromo de Río Cuarto. Al volante del Toyota Camry atendido por la escuadra Pradecon Racing, el representante de Del Viso no solo obtuvo la victoria reglamentaria indispensable para pelear por el campeonato, sino que además alcanzó su 27° triunfo en la máxima categoría del automovilismo nacional, cifra con la que iguala a otros tres corredores en el selecto grupo de los diez máximos ganadores de la historia del TC.",
-          "Su último festejo se remontaba al 23 de julio de 2023, cuando ganó el \"Desafío de las Estrellas\" por la 9ª fecha en San Juan, logrando en aquella oportunidad su primer éxito con la marca japonesa. El desarrollo del fin de semana mostró una progresión constante para Rossi, quien fue de menos a más en el trazado cordobés."
+          "A ocho años de uno de los momentos más importantes y dolorosos de la historia reciente de la Armada Argentina, el hallazgo del submarino ARA San Juan vuelve a poner en primer plano la memoria de sus 44 tripulantes y el reclamo de sus familiares por conocer toda la verdad sobre lo ocurrido. El viernes 16 de noviembre de 2018, la Armada Argentina y el Ministerio de Defensa confirmaron que la empresa Ocean Infinity había localizado la nave a 907 metros de profundidad, a unos 500 kilómetros de Comodoro Rivadavia. La identificación se produjo un día después del primer aniversario de la última comunicación con el submarino.",
+          "La búsqueda estaba a cargo de la empresa estadounidense, cuyo buque Seabed Constructor había detectado un nuevo contacto en el fondo del mar, identificado como el punto de interés número 24. A partir de ese registro, se desplegó un vehículo submarino operado remotamente que permitió confirmar que se trataba del ARA San Juan."
         ],
-        "generated": "2026-11-16T16:31:24.024075+00:00"
+        "generated": "2026-11-16T17:01:02.104144+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-16T16:30:01.324147+00:00"
+      "ultima_impresion": "2026-11-16T17:00:01.099740+00:00"
     },
     {
-      "key": "santino marchetti gano 3000 metros mar plata cerrara ano competitivo milla urbana buenos aires",
-      "title": "Santino Marchetti ganó los 3000 metros en Mar del Plata y cerrará su año competitivo en la Milla Urbana de Buenos Aires",
+      "key": "presupuesto bonaerense 2027 avanzan obras estacion transformadora quequen suben fondos coparticipables necochea",
+      "title": "Presupuesto Bonaerense 2027: avanzan las obras de la Estación Transformadora de Quequén y suben los fondos coparticipables para Necochea",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-11-16T16:30:01.324147+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/f7deae0d37e5e97405ae5d90a59e6c1d8e26dd04.jpg",
+      "first_seen": "2026-11-16T17:00:01.099740+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261115160344_whatsapp-image-2026-11-15-at-16-03-31.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Santino Marchetti ganó los 3000 metros en Mar del Plata y cerrará su año competitivo en la Milla Urbana de Buenos Aires",
-          "url": "https://necocheadigital.com/nota/120189/santino-marchetti-gano-los-3000-metros-en-mar-del-plata-y-cerrara-su-ano-competitivo-en-la-milla-urbana-de-buenos-aires/",
+          "title": "Presupuesto Bonaerense 2027: avanzan las obras de la Estación Transformadora de Quequén y suben los fondos coparticipables para Necochea",
+          "url": "https://necocheadigital.com/nota/120187/presupuesto-bonaerense-2027-avanzan-las-obras-de-la-estacion-transformadora-de-quequen-y-suben-los-fondos-coparticipables-para-necochea/",
           "published_at": null,
-          "first_seen": "2026-11-16T16:30:01.324147+00:00",
+          "first_seen": "2026-11-16T17:00:01.099740+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "El atleta necochense Santino Marchetti cerró la temporada de pista con una destacada victoria en la ciudad de Mar del Plata. En el marco del último torneo federado de pista y campo del calendario desarrollado este sábado en el Estadio Atlético Justo Ernesto Román, el fondista local se quedó con el primer puesto en la exigente prueba de los 3000 metros llanos al registrar un crono oficial de 8.59.19.",
-          "Este triunfo representa un nuevo paso de jerarquía dentro de su actual preparación deportiva y confirma el buen nivel sostenido a lo largo del ciclo. Sin pausa en su agenda, el deportista dará continuidad inmediata a su calendario competitivo el próximo sábado en la Ciudad Autónoma de Buenos Aires, donde formará parte de la tradicional Milla Urbana sobre la emblemática Avenida 9 de Julio, competencia organizada por New Balance Race Series."
+          "El proyecto de Presupuesto 2027 de la provincia de Buenos Aires, elevado por el gobernador Axel Kicillof ante la Legislatura bonaerense, incorpora definiciones relevantes para el distrito de Necochea en materia de infraestructura eléctrica y distribución de recursos hacia los gobiernos locales. A nivel general, la \"Ley de Leyes\" proyecta erogaciones totales estimadas en 58,65 billones de pesos y recursos por 56,5 billones de pesos.",
+          "Dentro de ese esquema global, el Ejecutivo provincial destina más de 4 billones de pesos a inversión de capital para sostener el Plan de Obra Provincial en áreas viales, hídricas, sanitarias, educativas y energéticas."
         ],
-        "generated": "2026-11-16T16:31:24.816506+00:00"
+        "generated": "2026-11-16T17:01:03.908932+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-16T16:30:01.324147+00:00"
+      "ultima_impresion": "2026-11-16T17:00:01.099740+00:00"
     },
     {
-      "key": "gimnasia huracan jugaran final reducido mataderos estacion definen ultimo clasificado semifinales",
-      "title": "Gimnasia y Huracán jugarán la final del reducido de la B y Mataderos y Estación definen el último clasificado a semifinales",
+      "key": "augusto fulton hablo tn intenso temporal necochea cantidad agua muy grande poco tiempo",
+      "title": "Augusto Fulton habló en TN sobre el intenso temporal en Necochea: “Fue una cantidad de agua muy grande en poco tiempo”",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-11-16T16:30:01.324147+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261115161532_whatsapp-image-2026-11-15-at-16-15-19.jpg",
+      "first_seen": "2026-11-16T17:00:01.099740+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/5c2aa28f5197fd1a07eebf2b07be4cd7bd677ea8.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Gimnasia y Huracán jugarán la final del reducido de la B y Mataderos y Estación definen el último clasificado a semifinales",
-          "url": "https://necocheadigital.com/nota/120188/gimnasia-y-huracan-jugaran-la-final-del-reducido-de-la-b-y-mataderos-y-estacion-definen-el-ultimo-clasificado-a-semifinales/",
+          "title": "Augusto Fulton habló en TN sobre el intenso temporal en Necochea: “Fue una cantidad de agua muy grande en poco tiempo”",
+          "url": "https://necocheadigital.com/nota/120183/augusto-fulton-hablo-en-tn-sobre-el-intenso-temporal-en-necochea-fue-una-cantidad-de-agua-muy-grande-en-poco-tiempo/",
           "published_at": null,
-          "first_seen": "2026-11-16T16:30:01.324147+00:00",
+          "first_seen": "2026-11-16T17:00:01.099740+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "El Torneo Sergio \"Giuseppe\" Portugal 2026 de Primera División masculina de la Liga Necochea de Fútbol entró en su recta decisiva con la disputa de las semifinales a partido único del reducido de la Zona B. Durante la tarde del sábado, Huracán y Gimnasia y Esgrima lograron imponerse en sus respectivos compromisos y sellaron el pase a la final por el derecho a disputar la promoción hacia la máxima divisional. En el estadio Esteban Valentín Sanz de Lobería, Huracán protagonizó el gran batacazo de la jornada al vencer por 2 a 1 como visitante a Independiente, conjunto que llegaba como favorito en la previa.",
-          "El elenco conducido por Marcelo Gallinotti se adelantó en el marcador mediante las conquistas de Alexis Gabriel García y Franco Landa, mientras que Joaquín Indacoechea anotó el descuento para los \"Bichos Colorados\". Más tarde, en el estadio Williams Gabriele, Gimnasia y Esgrima derrotó por 2 a 0 a Nicanor Olivera de La Dulce."
+          "Durante la comunicación, Fulton puso el foco en la importante cantidad de agua caída en un período muy corto, una situación que generó complicaciones en distintos sectores de Necochea. En el intercambio televisivo se mencionaron registros de entre 70 y 90 milímetros de lluvia, mientras que algunos sectores llegaron a alcanzar los 115 milímetros. Las cifras reflejaron la magnitud del fenómeno meteorológico y la intensidad de las precipitaciones.",
+          "“Fue una cantidad de agua muy grande en poco tiempo”, señaló Fulton al describir las características del temporal, que provocó importantes acumulaciones de agua en calles y distintos puntos de la ciudad. Ver esta publicación en Instagram Una publicación compartida de Necochea Digital (@necocheadigital) Otro de los datos destacados durante la entrevista fue que, pese a la magnitud de las precipitaciones, al momento de la comunicación no se registraban personas evacuadas."
         ],
-        "generated": "2026-11-16T16:31:25.698503+00:00"
+        "generated": "2026-11-16T17:01:04.767757+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-16T16:30:01.324147+00:00"
-    },
-    {
-      "key": "orgullo necochense emilia sierra brillo estados unidos actuacion historica 42 puntos ncaa",
-      "title": "Orgullo necochense: Emilia Sierra brilló en Estados Unidos con una actuación histórica de 42 puntos en la NCAA",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-16T16:30:01.324147+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/74633d1119da7efc515c3272f9e4355d2bc4ae5f.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Orgullo necochense: Emilia Sierra brilló en Estados Unidos con una actuación histórica de 42 puntos en la NCAA",
-          "url": "https://necocheadigital.com/nota/120184/orgullo-necochense-emilia-sierra-brillo-en-estados-unidos-con-una-actuacion-historica-de-42-puntos-en-la-ncaa/",
-          "published_at": null,
-          "first_seen": "2026-11-16T16:30:01.324147+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Una vez más, el talento deportivo de Necochea trasciende fronteras. Esta vez, la protagonista es Emilia Sierra, una joven basquetbolista necochense que tuvo una actuación sobresaliente en el básquet universitario de Estados Unidos, al convertir 42 puntos y convertirse en la figura de Wheeling University en el inicio de una nueva temporada de la NCAA. Con apenas 21 años, Sierra fue determinante en la ajustada victoria de su equipo frente a Walsh University por 63 a 62, en el primer encuentro de la temporada 2026/27 de la División II.",
-          "La jugadora argentina aportó 42 puntos, es decir, el 66,6% de la anotación total de su equipo. Su planilla incluyó 12 conversiones de 26 lanzamientos de campo, siete triples en 12 intentos y 11 tiros libres convertidos sobre 14 ejecutados."
-        ],
-        "generated": "2026-11-16T16:31:26.922167+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-16T16:30:01.324147+00:00"
+      "ultima_impresion": "2026-11-16T17:00:01.099740+00:00"
     },
     {
       "key": "festival isoca vuelve necochea grilla artistas renombre nacional",
       "title": "El Festival Isoca vuelve a Necochea con una grilla de artistas de renombre nacional",
-      "score": 0.986,
+      "score": 0.945,
       "sources_count": 1,
       "first_seen": "2026-11-16T16:19:36+00:00",
       "image": null,
@@ -287,16 +383,16 @@
           "El encuentro se realizará el 13 y 14 de febrero de 2027 en el predio del Club Villa del Parque, a 200 metros del mar y rodeado de un bosque de pinos. Divididos, El Plan de la Mariposa, Guasones, León Gieco, La Delio Valdez y El Mató a un Policía Motorizado son algunos de los artistas anunciados. El Festival Isoca regresará a Necochea, ciudad donde nació, para celebrar una nueva edición con dos jornadas de música, arte y actividades vinculadas con la sustentabilidad, el bienestar y la espiritualidad.",
           "La grilla reunirá a reconocidos artistas y bandas de distintos géneros. Entre los nombres principales figuran Divididos, El Plan de la Mariposa, El Mató a un Policía Motorizado, Guasones, León Gieco, La Delio Valdez, La Vitale Band, Marilina Bertoldi y Dancing Mood."
         ],
-        "generated": "2026-11-16T16:31:29.568391+00:00"
+        "generated": "2026-11-16T17:01:10.185259+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-16T16:30:01.324147+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-16T17:00:01.099740+00:00",
+      "penalizacion": 1.0
     },
     {
       "key": "comenzo temporada guardavidas cobertura necochea quequen",
       "title": "Comenzó la temporada de guardavidas con cobertura en Necochea y Quequén",
-      "score": 0.983,
+      "score": 0.943,
       "sources_count": 1,
       "first_seen": "2026-11-16T16:17:51+00:00",
       "image": null,
@@ -316,16 +412,16 @@
           "El operativo comenzó el 15 de noviembre y se extenderá hasta el 15 de abril. Pablo Soares explicó que durante esta primera etapa funciona con una cobertura reducida, que se ampliará desde el 1º de diciembre con la incorporación de más personal y los puestos de los balnearios privados. Charlando con Fede Cañadas en “Esta Mañana”, por NEC Radio 98.3 del Multimedio NQ, Pablo Soares, secretario de Guardavidas de Necochea y Quequén , confirmó el inicio formal de la cobertura de seguridad en las playas, que comenzó el 15 de noviembre y se mantendrá hasta el 15 de abril.",
           "“Ya comenzó la cobertura de guardavidas y, como siempre, arrancamos con un día medio gris, pero hay que estar igual”, señaló Soares. A pesar de las condiciones climáticas, remarcó que desde el primer día hubo personas ingresando al mar, por lo que los puestos ya se encuentran activos en los sectores habilitados."
         ],
-        "generated": "2026-11-16T16:31:31.889490+00:00"
+        "generated": "2026-11-16T17:01:12.491652+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-16T16:30:01.324147+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-16T17:00:01.099740+00:00",
+      "penalizacion": 1.0
     },
     {
       "key": "divididos encabezara festival isoca 2027 necochea confirmaron grilla repleta figuras rock nacional",
       "title": "Divididos encabezará el Festival Isoca 2027 en Necochea: confirmaron una grilla repleta de figuras del rock nacional",
-      "score": 0.949,
+      "score": 0.91,
       "sources_count": 1,
       "first_seen": "2026-11-16T15:52:00+00:00",
       "image": "http://nden.com.ar/uploads/noticias/5/2026/11/5c8c5937c207fdcb766b374f8f83156e3a5d4a48.jpg",
@@ -344,16 +440,74 @@
         "paragraphs": [
           "VERANO 2027 | MÚSICA EN NECOCHEA Divididos encabezará el Festival Isoca 2027 en Necochea: confirmaron una grilla repleta de figuras del rock nacional"
         ],
-        "generated": "2026-11-16T16:31:33.196977+00:00"
+        "generated": "2026-11-16T17:01:13.630738+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-16T16:30:01.324147+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-16T17:00:01.099740+00:00",
+      "penalizacion": 1.0
+    },
+    {
+      "key": "puede darse hoy tormenta como viernes alertan sectores vulnerables ciudad",
+      "title": "¿Puede darse hoy una tormenta como la del viernes? Alertan sobre los sectores más vulnerables de la ciudad",
+      "score": 0.595,
+      "sources_count": 1,
+      "first_seen": "2026-11-16T15:44:51+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/FOTO-lluvia-en-Necochea.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "¿Puede darse hoy una tormenta como la del viernes? Alertan sobre los sectores más vulnerables de la ciudad",
+          "url": "https://tsnnecochea.com.ar/generales/puede-darse-hoy-una-tormenta-como-la-del-viernes-alertan-sobre-los-sectores-mas-vulnerables-de-la-ciudad-242524/",
+          "published_at": "2026-11-16T15:44:51+00:00",
+          "first_seen": "2026-11-16T16:00:00.837497+00:00",
+          "category": "lluvias",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/FOTO-lluvia-en-Necochea.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Generales | lluvias | Prevención ¿Puede darse hoy una tormenta como la del viernes? Alertan sobre los sectores más vulnerables de la ciudad Se aconseja a los vecinos a estar preparados y tener a mano todas las líneas de emergencia.",
+          "Por Redacción TSN 16/11/2026 · 12:44 PM Agregar TSN Necochea en La Municipalidad de Necochea mantiene desplegados sus equipos y refuerza las recomendaciones preventivas para que los vecinos conozcan las características de las zonas donde viven y sepan cómo actuar ante posibles lluvias extraordinarias que pueden llegar a darse durante la tarde-noche de este lunes y madrugada del martes , similares a las registradas el último viernes."
+        ],
+        "generated": "2026-11-16T17:01:06.268509+00:00"
+      },
+      "apariciones": 3,
+      "ultima_impresion": "2026-11-16T17:00:01.099740+00:00",
+      "penalizacion": 0.55
+    },
+    {
+      "key": "asociacion deportiva arenas volvio competir sumo importantes podios",
+      "title": "La Asociación Deportiva Arenas volvió a competir y sumó importantes podios",
+      "score": 0.583,
+      "sources_count": 1,
+      "first_seen": "2026-11-16T15:30:41+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/FOTO-ADA-Arenas.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "La Asociación Deportiva Arenas volvió a competir y sumó importantes podios",
+          "url": "https://tsnnecochea.com.ar/deportes/la-asociacion-deportiva-arenas-volvio-a-competir-y-sumo-importantes-podios-242518/",
+          "published_at": "2026-11-16T15:30:41+00:00",
+          "first_seen": "2026-11-16T16:00:00.837497+00:00",
+          "category": "ADA",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/FOTO-ADA-Arenas.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Deportes | ADA | Natación La Asociación Deportiva Arenas volvió a competir y sumó importantes podios El equipo de jóvenes nadadores necochenses estuvo acompañado por \"Yuri\" Quaglia.",
+          "Por Redacción TSN 16/11/2026 · 12:30 PM Agregar TSN Necochea en El equipo de la Asociación Deportiva Arenas de Necochea (ADA) de Necochea , volvió a salir a la ruta para participar de una nueva competencia de natación, donde sus jóvenes representantes, acompañados por Marcelo “Yuri” Quaglia , tuvieron destacadas actuaciones y consiguieron varios lugares en el podio, tanto en sus respectivas categorías como en la clasificación absoluta."
+        ],
+        "generated": "2026-11-16T17:01:07.548727+00:00"
+      },
+      "apariciones": 3,
+      "ultima_impresion": "2026-11-16T17:00:01.099740+00:00",
+      "penalizacion": 0.55
     },
     {
       "key": "claraz celebro 117 anos jornada musica tradicion encuentro comunitario",
       "title": "Claraz celebró sus 117 años con una jornada de música, tradición y encuentro comunitario",
-      "score": 0.941,
+      "score": 0.496,
       "sources_count": 3,
       "first_seen": "2026-11-16T11:40:29+00:00",
       "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/6e26eefe69d13457cdd1538e6ced3882b8fc29c6.jpg",
@@ -391,103 +545,16 @@
           "La comunidad de Claraz vivió este domingo 15 de noviembre una jornada de festejos por sus 117 años de historia. Con una importante convocatoria de vecinos y familias, la celebración reunió propuestas recreativas, expresiones culturales y música, en un encuentro que volvió a poner en valor la identidad de la localidad. Aunque el aniversario se conmemora cada 26 de julio, los festejos se trasladaron a noviembre para aprovechar las mejores condiciones climáticas y permitir que más vecinos pudieran participar al aire libre.",
           "Las actividades se desarrollaron en el predio de los Espacios Verdes La Vía, ubicado sobre la Ruta Nº 80, entre las calles 712 y 714. La jornada comenzó por la mañana con una barrileteada y continuó después del mediodía con el acto central y el tradicional corte de la torta de cumpleaños."
         ],
-        "generated": "2026-11-16T16:31:15.867975+00:00"
+        "generated": "2026-11-16T17:00:48.780032+00:00"
       },
-      "apariciones": 4,
-      "ultima_impresion": "2026-11-16T16:30:01.324147+00:00",
-      "penalizacion": 0.303
-    },
-    {
-      "key": "cyrano suma semana helado artesanal necochea quequen",
-      "title": "Cyrano se suma a la Semana del Helado Artesanal en Necochea y Quequén",
-      "score": 0.62,
-      "sources_count": 1,
-      "first_seen": "2026-11-16T14:47:12+00:00",
-      "image": "https://cdnartic.ar/xJFOFqgxeXDoL6hyz9ktl_mQPRs=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2025/12/paris_cyrano.jpeg",
-      "articles": [
-        {
-          "portal": "Ecos Diarios",
-          "title": "Cyrano se suma a la Semana del Helado Artesanal en Necochea y Quequén",
-          "url": "https://elecos.com.ar/cyrano-se-suma-a-la-semana-del-helado-artesanal-en-necochea-y-quequen",
-          "published_at": "2026-11-16T14:47:12+00:00",
-          "first_seen": "2026-11-16T15:30:01.021982+00:00",
-          "category": "14",
-          "image": "https://cdnartic.ar/xJFOFqgxeXDoL6hyz9ktl_mQPRs=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2025/12/paris_cyrano.jpeg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La ciudad Añadir como fuente en Cyrano se suma a la Semana del Helado Artesanal en Necochea y Quequén Habrá promociones especiales durante siete días en sus tres sucursales. 16 de noviembre de 2026 | 11:47 Promociones. Las que habrá en Cyrano por la Semana del Autentico Helado Artesanal | PH: Ecos Diarios Ads En ese marco, Cyrano preparó distintas opciones para que los clientes puedan disfrutar de sus sabores favoritos durante toda la semana.",
-          "De lunes a viernes habrá 2x1 en vasos medianos y un 10% de descuento en frutas cubiertas con chocolate: moras, frutillas y frambuesas. Ads Además, todos los días se entregarán tres cucuruchos de regalo con la compra de cualquiera de los baldes de tres litros. La propuesta tendrá una promoción especial el miércoles 18, desde las 19, con un 2x1 en cuartos de kilo , en coincidencia con La Noche de las Heladerías ."
-        ],
-        "generated": "2026-11-16T16:31:17.946993+00:00"
-      },
-      "apariciones": 3,
-      "ultima_impresion": "2026-11-16T16:30:01.324147+00:00",
-      "penalizacion": 0.55
-    },
-    {
-      "key": "gimnasia huracan definen pase promocion futbol local",
-      "title": "Gimnasia y Huracán definen el pase a la promoción del fútbol local",
-      "score": 0.619,
-      "sources_count": 1,
-      "first_seen": "2026-11-16T14:46:20+00:00",
-      "image": "https://cdnartic.ar/y-ubdEr5S2TrpZyec2rwFhxDV3U=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/liga_necochea_de_futbol_10.webp",
-      "articles": [
-        {
-          "portal": "Ecos Diarios",
-          "title": "Gimnasia y Huracán definen el pase a la promoción del fútbol local",
-          "url": "https://elecos.com.ar/gimnasia-y-huracan-definen-el-pase-a-la-promocion-del-futbol-local",
-          "published_at": "2026-11-16T14:46:20+00:00",
-          "first_seen": "2026-11-16T15:30:01.021982+00:00",
-          "category": "11",
-          "image": "https://cdnartic.ar/y-ubdEr5S2TrpZyec2rwFhxDV3U=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/liga_necochea_de_futbol_10.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Deportes locales Añadir como fuente en Gimnasia y Huracán definen el pase a la promoción del fútbol local Se enfrentan este miércoles por la final del reducido. El “Lobo” tiene ventaja deportiva y le alcanza con empatar 16 de noviembre de 2026 | 11:46 Gimnasia y Huracán definirán el rival de Villa del Parque en la promoción Ads Gimnasia y Huracán protagonizarán este miércoles una definición clave del fútbol local, cuando se enfrenten desde las 16:30 en el Estadio Williams Gabriele por la final del reducido de la Zona B del Torneo Sergio “Giuseppe” Portugal 2026 de la Liga Necochea de Fútbol .",
-          "El clásico de barrio pondrá en juego un lugar en la promoción, instancia en la que Villa del Parque espera por su rival para definir la permanencia en la máxima categoría. Ads El “ Lobo ” contará con una ventaja importante por haber terminado mejor ubicado que su adversario en la fase regular."
-        ],
-        "generated": "2026-11-16T16:31:19.752436+00:00"
-      },
-      "apariciones": 3,
-      "ultima_impresion": "2026-11-16T16:30:01.324147+00:00",
-      "penalizacion": 0.55
-    },
-    {
-      "key": "buenas nuevas cinco minutos naturaleza bajar estres",
-      "title": "Buenas Nuevas - Cinco minutos de naturaleza para bajar el estrés.",
-      "score": 0.609,
-      "sources_count": 1,
-      "first_seen": "2026-11-16T14:35:08+00:00",
-      "image": "https://cdnartic.ar/4Tfto1NgCyPOhzLZdNmt3P0ZKr4=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/pajaros.webp",
-      "articles": [
-        {
-          "portal": "Ecos Diarios",
-          "title": "Buenas Nuevas - Cinco minutos de naturaleza para bajar el estrés.",
-          "url": "https://elecos.com.ar/buenas-nuevas-cinco-minutos-de-naturaleza-para-bajar-el-estres",
-          "published_at": "2026-11-16T14:35:08+00:00",
-          "first_seen": "2026-11-16T15:30:01.021982+00:00",
-          "category": "ecos-radio",
-          "image": "https://cdnartic.ar/4Tfto1NgCyPOhzLZdNmt3P0ZKr4=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/pajaros.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Ecos Radio Añadir como fuente en Buenas Nuevas - Cinco minutos de naturaleza para bajar el estrés. 16 de noviembre de 2026 | 11:35 Ads ¿Sabías que mirar pájaros, escuchar su canto o simplemente observar peces nadando puede ayudarnos a reducir la ansiedad y mejorar el ánimo ? La ciencia lo viene comprobando: a veces, para sentirnos mejor, no necesitamos grandes soluciones, sino hacer una pausa y conectarnos con la naturaleza. Y en Necochea tenemos todo a mano: el mar, el parque, los árboles y los pájaros .",
-          "La propuesta es sencilla: regalate entre cinco y diez minutos al día para observar, escuchar y disfrutar de lo que nos rodea. Sin celular, sin apuro y sin hacer nada más. Porque quizás la receta para bajar un cambio sea mucho más simple de lo que pensamos: menos pantalla y un poquito más de naturaleza."
-        ],
-        "generated": "2026-11-16T16:31:21.142960+00:00"
-      },
-      "apariciones": 3,
-      "ultima_impresion": "2026-11-16T16:30:01.324147+00:00",
-      "penalizacion": 0.55
+      "apariciones": 5,
+      "ultima_impresion": "2026-11-16T17:00:01.099740+00:00",
+      "penalizacion": 0.166
     },
     {
       "key": "nueva alerta tormentas necochea advierten barrios podrian volver inundarse",
       "title": "Nueva alerta por tormentas en Necochea: advierten qué barrios podrían volver a inundarse",
-      "score": 0.496,
+      "score": 0.261,
       "sources_count": 1,
       "first_seen": "2026-11-16T15:15:00+00:00",
       "image": "http://nden.com.ar/uploads/noticias/5/2026/11/94b1d946479edfdca45d65126e189c94a577e91d.jpg",
@@ -506,16 +573,45 @@
         "paragraphs": [
           "ALERTA AMARILLA Y RIESGO DE ANEGAMIENTOS Nueva alerta por tormentas en Necochea: advierten qué barrios podrían volver a inundarse"
         ],
-        "generated": "2026-11-16T16:31:36.338638+00:00"
+        "generated": "2026-11-16T17:01:16.779886+00:00"
       },
-      "apariciones": 3,
-      "ultima_impresion": "2026-11-16T16:30:01.324147+00:00",
-      "penalizacion": 0.55
+      "apariciones": 4,
+      "ultima_impresion": "2026-11-16T17:00:01.099740+00:00",
+      "penalizacion": 0.302
+    },
+    {
+      "key": "pelota paleta mateo alberdi joseba bilbao fueron subcampeones ultima fecha apertura",
+      "title": "Pelota paleta: Mateo Alberdi y Joseba Bilbao fueron subcampeones de la última fecha del apertura",
+      "score": 0.261,
+      "sources_count": 1,
+      "first_seen": "2026-11-16T00:54:07+00:00",
+      "image": null,
+      "articles": [
+        {
+          "portal": "Diario NQ",
+          "title": "Pelota paleta: Mateo Alberdi y Joseba Bilbao fueron subcampeones de la última fecha del apertura",
+          "url": "https://diarionq.com.ar/pelota-paleta-mateo-alberdi-y-joseba-bilbao-fueron-subcampeones-de-la-ultima-fecha-del-apertura/",
+          "published_at": "2026-11-16T00:54:07+00:00",
+          "first_seen": "2026-11-16T17:00:01.099740+00:00",
+          "category": "Deportes",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La dupla del Centro Basko “Euzko Etxea” de Necochea alcanzó la final de la última fecha del Torneo Apertura, donde cayó ante Atlético Alumni de Benito Juárez por 2 a 1. De esta manera, cerró una destacada actuación en la competencia. La jornada tuvo como escenario una nueva instancia del certamen, que reunió a distintas parejas de la región.",
+          "En los cuartos de final, el Centro Basko “Euzko Etxea” de Necochea, representado por Mateo Alberdi y Joseba Bilbao, consiguió una importante victoria frente a Ferrocarril Sud de Tandil por 2 a 0, con parciales de 12-11 y 12-7, para meterse entre los cuatro mejores. En semifinales, la pareja necochense volvió a mostrar un buen nivel y superó por 2 a 0 a Club de Pelota Chaves, con parciales de 12-11 y 12-10, asegurando su lugar en el partido decisivo. En la final se enfrentaron a Atlético Alumni de Benito Juárez, integrado por Jesús Matías Baltar Gizzi y Guillermo Daniel Osorio."
+        ],
+        "generated": "2026-11-16T17:01:29.477516+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-16T17:00:01.099740+00:00"
     },
     {
       "key": "kicillof proyecta 885 millones necochea presupuesto 2027 fondos irian obra quequen",
       "title": "Kicillof proyecta $7.885 millones para Necochea en el Presupuesto 2027: los fondos irían a una obra en Quequén",
-      "score": 0.481,
+      "score": 0.254,
       "sources_count": 1,
       "first_seen": "2026-11-16T14:54:00+00:00",
       "image": "http://nden.com.ar/uploads/noticias/5/2026/11/44159eb270626116e4352a1bc77075d5a029137f.jpg",
@@ -534,45 +630,74 @@
         "paragraphs": [
           "PRESUPUESTO BONAERENSE 2027 Kicillof proyecta $7.885 millones para Necochea en el Presupuesto 2027: los fondos irían a una obra en Quequén"
         ],
-        "generated": "2026-11-16T16:31:38.038005+00:00"
+        "generated": "2026-11-16T17:01:19.853938+00:00"
       },
-      "apariciones": 3,
-      "ultima_impresion": "2026-11-16T16:30:01.324147+00:00",
-      "penalizacion": 0.55
+      "apariciones": 4,
+      "ultima_impresion": "2026-11-16T17:00:01.099740+00:00",
+      "penalizacion": 0.302
     },
     {
-      "key": "lunes disfruta semana helado artesanal necochea conoce todas promos",
-      "title": "Desde este lunes se disfruta la Semana del Helado Artesanal en Necochea: conocé todas las promos",
-      "score": 0.026,
+      "key": "rosca politica necochense",
+      "title": "La “rosca” política necochense",
+      "score": 0.211,
       "sources_count": 1,
-      "first_seen": "2026-11-16T13:21:23+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/helado-1-880x660-1.webp",
+      "first_seen": "2026-11-15T22:19:15+00:00",
+      "image": null,
       "articles": [
         {
-          "portal": "TSN Necochea",
-          "title": "Desde este lunes se disfruta la Semana del Helado Artesanal en Necochea: conocé todas las promos",
-          "url": "https://tsnnecochea.com.ar/generales/desde-este-lunes-se-disfruta-la-semana-del-helado-artesanal-en-necochea-conoce-todas-las-promos-242505/",
-          "published_at": "2026-11-16T13:21:23+00:00",
-          "first_seen": "2026-11-16T13:30:00.737192+00:00",
-          "category": "artesanal",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/helado-1-880x660-1.webp"
+          "portal": "Diario NQ",
+          "title": "La “rosca” política necochense",
+          "url": "https://diarionq.com.ar/la-rosca-politica-necochense-55/",
+          "published_at": "2026-11-15T22:19:15+00:00",
+          "first_seen": "2026-11-16T17:00:01.099740+00:00",
+          "category": "Política",
+          "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Generales | artesanal | Sabores Desde este lunes se disfruta la Semana del Helado Artesanal en Necochea: conocé todas las promos La iniciativa busca poner en valor la tradición, la calidad y el trabajo de quienes elaboran este producto en la ciudad. Por Redacción TSN 16/11/2026 · 10:21 AM Agregar TSN Necochea en Desde este lunes 16 al domingo 22 de noviembre, Necochea celebrará la Semana del Helado Artesanal , una iniciativa que busca poner en valor la tradición, la calidad y el trabajo de quienes elaboran este producto, además de promover el consumo local y acompañar al sector comercial.",
-          "A través de la gestión del área de Producción Municipal y de la articulación de la Dirección de Desarrollo Comercial, Industrial y Agropecuario, a cargo de Florencia Martín, dependiente de la Secretaría de Turismo y Desarrollo Productivo, se coordinó una propuesta junto a distintas heladerías tradicionales de la ciudad."
+          "Por Miguel Abálsamo Simplemente una pregunta vía mi Facebook: ¿En qué época de la Argentina usted vivió mejor? Escribió Julio Cortázar: “Siempre he sabido que las grandes sorpresas nos esperan allí donde hayamos aprendido por fin a no sorprendernos de nada”. Me sorprendieron dos cosas: la primera, las 2.500 respuestas —hasta el presente— en un día; y la segunda, el análisis desapasionado, entendiendo cada concepto del ciudadano, de cualquier edad o filosofía política, que se manifestó con total libertad.",
+          "No nos enojemos con el espejo, solía decir mi abuela. Yo agregaría: ni con el espejo ni con la realidad. Imposible analizar caso por caso, no solo en qué época argentina vivió mejor, sino también los agregados analíticos."
         ],
-        "generated": "2026-11-16T16:31:34.316869+00:00"
+        "generated": "2026-11-16T17:01:32.139549+00:00"
       },
-      "apariciones": 8,
-      "ultima_impresion": "2026-11-16T16:30:01.324147+00:00",
-      "penalizacion": 0.028
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-16T17:00:01.099740+00:00"
+    },
+    {
+      "key": "necochea sede primer torneo temporada beach tennis costa atlantica",
+      "title": "Necochea fue sede del primer torneo de la temporada de beach tennis de la costa atlántica",
+      "score": 0.186,
+      "sources_count": 1,
+      "first_seen": "2026-11-15T20:48:24+00:00",
+      "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/3df7fdad-560c-45ec-9fb8-ebf9daf0aee7.jpg",
+      "articles": [
+        {
+          "portal": "Diario NQ",
+          "title": "Necochea fue sede del primer torneo de la temporada de beach tennis de la costa atlántica",
+          "url": "https://diarionq.com.ar/necochea-fue-sede-del-primer-torneo-de-la-temporada-de-beach-tennis-de-la-costa-atlantica/",
+          "published_at": "2026-11-15T20:48:24+00:00",
+          "first_seen": "2026-11-16T17:00:01.099740+00:00",
+          "category": "Deportes",
+          "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/3df7fdad-560c-45ec-9fb8-ebf9daf0aee7.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La competencia reunió a 87 participantes, superando ampliamente las expectativas iniciales de la organización. El certamen abrió el calendario de la Federación del Atlántico y contó con jugadores de distintas localidades, en una jornada marcada por el crecimiento de la disciplina y el buen clima deportivo. Necochea fue escenario del primer torneo de la temporada de beach tennis de la costa atlántica, una competencia organizada por la Asociación de Beach Tennis de Necochea, con el acompañamiento de la Federación del Atlántico.",
+          "El certamen tuvo una convocatoria récord de 87 participantes, superando las expectativas iniciales de la organización, que estimaba recibir entre 40 y 50 jugadores. La propuesta reunió a deportistas de Necochea y de distintas localidades de la región, entre ellas Mar del Plata, Miramar, Tres Arroyos y Mechongué."
+        ],
+        "generated": "2026-11-16T17:01:34.442086+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-16T17:00:01.099740+00:00"
     },
     {
       "key": "estacion quequen goleo mataderos quedaron definidas semifinales futbol local",
       "title": "Estación Quequén goleó 6-0 a Mataderos y quedaron definidas las semifinales del fútbol local",
-      "score": 0.026,
+      "score": 0.014,
       "sources_count": 2,
       "first_seen": "2026-11-15T21:31:53+00:00",
       "image": "http://nden.com.ar/uploads/noticias/5/2026/11/ebc63d7eddcc717d877c414ca6547666cc1624f0.jpg",
@@ -601,16 +726,45 @@
           "MÚSICA Y MEMORIA Club Artístico Libertad vuelve a Mar del Plata con nuevas canciones sobre memoria y resistencia El Verde se impuso por 6-0 en la revancha del repechaje y cerró la serie con un contundente global de 8-0. En la próxima instancia enfrentará a Villa Díaz Vélez, ganador de la Zona A.",
           "Estación Quequén consiguió una contundente victoria frente a Mataderos y aseguró su clasificación a las semifinales del Torneo Sergio “Giuseppe” Portugal 2026. El Verde goleó por 6-0 en el encuentro de vuelta del repechaje y, con un resultado global de 8-0, se metió entre los cuatro mejores del campeonato. Los goles de la victoria fueron convertidos por Alexis Latorre, Eduardo Berón, en dos oportunidades, Leonel Rodríguez, David Del Rey y Nahuel López, quienes le dieron forma a una amplia diferencia en el marcador."
         ],
-        "generated": "2026-11-16T16:32:31.305655+00:00"
+        "generated": "2026-11-16T17:01:26.285625+00:00"
       },
-      "apariciones": 7,
-      "ultima_impresion": "2026-11-16T16:30:01.324147+00:00",
-      "penalizacion": 0.05
+      "apariciones": 8,
+      "ultima_impresion": "2026-11-16T17:00:01.099740+00:00",
+      "penalizacion": 0.028
+    },
+    {
+      "key": "lunes disfruta semana helado artesanal necochea conoce todas promos",
+      "title": "Desde este lunes se disfruta la Semana del Helado Artesanal en Necochea: conocé todas las promos",
+      "score": 0.013,
+      "sources_count": 1,
+      "first_seen": "2026-11-16T13:21:23+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/helado-1-880x660-1.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Desde este lunes se disfruta la Semana del Helado Artesanal en Necochea: conocé todas las promos",
+          "url": "https://tsnnecochea.com.ar/generales/desde-este-lunes-se-disfruta-la-semana-del-helado-artesanal-en-necochea-conoce-todas-las-promos-242505/",
+          "published_at": "2026-11-16T13:21:23+00:00",
+          "first_seen": "2026-11-16T13:30:00.737192+00:00",
+          "category": "artesanal",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/helado-1-880x660-1.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Generales | artesanal | Sabores Desde este lunes se disfruta la Semana del Helado Artesanal en Necochea: conocé todas las promos La iniciativa busca poner en valor la tradición, la calidad y el trabajo de quienes elaboran este producto en la ciudad. Por Redacción TSN 16/11/2026 · 10:21 AM Agregar TSN Necochea en Desde este lunes 16 al domingo 22 de noviembre, Necochea celebrará la Semana del Helado Artesanal , una iniciativa que busca poner en valor la tradición, la calidad y el trabajo de quienes elaboran este producto, además de promover el consumo local y acompañar al sector comercial.",
+          "A través de la gestión del área de Producción Municipal y de la articulación de la Dirección de Desarrollo Comercial, Industrial y Agropecuario, a cargo de Florencia Martín, dependiente de la Secretaría de Turismo y Desarrollo Productivo, se coordinó una propuesta junto a distintas heladerías tradicionales de la ciudad."
+        ],
+        "generated": "2026-11-16T17:01:14.545475+00:00"
+      },
+      "apariciones": 9,
+      "ultima_impresion": "2026-11-16T17:00:01.099740+00:00",
+      "penalizacion": 0.015
     },
     {
       "key": "58 anos accidente imabha buque choco roca frente costas necochea",
       "title": "A 58 años del accidente del Imabha: el buque que chocó contra una roca frente a las costas de Necochea",
-      "score": 0.025,
+      "score": 0.013,
       "sources_count": 1,
       "first_seen": "2026-11-16T13:11:08+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/Foto-Imabha.webp",
@@ -630,16 +784,16 @@
           "TSN Necochea | ‹ VOLVER | Generales | Buque | Efemérides A 58 años del accidente del Imabha: el buque que chocó contra una roca frente a las costas de Necochea Conocé otra de las tantas historias de embarcaciones en las aguas locales. Por Redacción TSN 16/11/2026 · 10:11 AM Agregar TSN Necochea en El 16 de noviembre de 1968 , un episodio marítimo tuvo como protagonista al buque Imabha , que sufrió un grave accidente mientras navegaba frente a las costas de Necochea y terminó declarado como pérdida total.",
           "La historia fue recordada por el área de Museos del Parque Miguel Lillo, en el marco de su tradicional espacio de efemérides, que recupera acontecimientos vinculados con la historia local. Aquel día, el Imabha navegaba desde Necochea con destino a Recife, Brasil, transportando un cargamento de 2.800 toneladas de cereal."
         ],
-        "generated": "2026-11-16T16:31:35.457376+00:00"
+        "generated": "2026-11-16T17:01:15.716200+00:00"
       },
-      "apariciones": 8,
-      "ultima_impresion": "2026-11-16T16:30:01.324147+00:00",
-      "penalizacion": 0.028
+      "apariciones": 9,
+      "ultima_impresion": "2026-11-16T17:00:01.099740+00:00",
+      "penalizacion": 0.015
     },
     {
       "key": "reprogramaron presentacion proyecto pavimento articulado necochea hoy",
       "title": "Reprogramaron la presentación del proyecto de pavimento articulado en Necochea para hoy",
-      "score": 0.013,
+      "score": 0.007,
       "sources_count": 1,
       "first_seen": "2026-11-16T12:46:55+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/comite-abasolo.webp",
@@ -659,45 +813,16 @@
           "TSN Necochea | ‹ VOLVER | Locales | Cómite radical Reprogramaron la presentación del proyecto de pavimento articulado en Necochea para hoy Iba a realizarse el pasado viernes pero por cuestiones climáticas se postergó para este lunes. Por Redacción TSN 16/11/2026 · 09:46 AM Agregar TSN Necochea en El Comité Emiliano Abásolo de la UCR Necochea invita a afiliados y a toda la comunidad a participar este lunes 16, a las 19, de la presentación del proyecto “Pavimento Articulado” , una iniciativa impulsada por un grupo de afiliados radicales que busca generar una alternativa para mejorar la infraestructura urbana.",
           "El encuentro, que debió reprogramarse por cuestiones climáticas, permitirá conocer las características de esta modalidad de pavimentación, sus posibilidades de implementación y los beneficios que ofrece para calles que actualmente cuentan con cordón cuneta y mejorado de tierra."
         ],
-        "generated": "2026-11-16T16:31:37.160416+00:00"
+        "generated": "2026-11-16T17:01:18.964559+00:00"
       },
-      "apariciones": 9,
-      "ultima_impresion": "2026-11-16T16:30:01.324147+00:00",
-      "penalizacion": 0.015
-    },
-    {
-      "key": "justicia habilito defensoria pueblo reclamar recorte zona fria",
-      "title": "La Justicia habilitó a la Defensoría del Pueblo a reclamar por el recorte de la Zona Fría",
-      "score": 0.013,
-      "sources_count": 1,
-      "first_seen": "2026-11-16T12:30:26+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/07/Servicios-Gas-Luz-Tarifas.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "La Justicia habilitó a la Defensoría del Pueblo a reclamar por el recorte de la Zona Fría",
-          "url": "https://tsnnecochea.com.ar/locales/la-justicia-habilito-a-la-defensoria-del-pueblo-a-reclamar-por-el-recorte-de-la-zona-fria-242484/",
-          "published_at": "2026-11-16T12:30:26+00:00",
-          "first_seen": "2026-11-16T13:00:00.447225+00:00",
-          "category": "amparo",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/07/Servicios-Gas-Luz-Tarifas.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Locales | amparo | Servicios La Justicia habilitó a la Defensoría del Pueblo a reclamar por el recorte de la Zona Fría Por un fallo de la justicia de Mar del Plata Por Redacción TSN 16/11/2026 · 09:30 AM Rigen los nuevos cuadros tarifarios de los servicios. Fotografía: Agencia Noticias Argentinas / Archivo.",
-          "Agregar TSN Necochea en La Cámara Federal de Apelaciones de Mar del Plata revocó por unanimidad un fallo de primera instancia y habilitó a la Defensoría del Pueblo de General Pueyrredon (conducida por Marcelo Pablo Lacedonia) a continuar con un amparo colectivo contra los cambios en el Régimen de Zona Fría."
-        ],
-        "generated": "2026-11-16T16:31:39.168818+00:00"
-      },
-      "apariciones": 9,
-      "ultima_impresion": "2026-11-16T16:30:01.324147+00:00",
-      "penalizacion": 0.015
+      "apariciones": 10,
+      "ultima_impresion": "2026-11-16T17:00:01.099740+00:00",
+      "penalizacion": 0.008
     },
     {
       "key": "necochea campeon zonal bochas trios mar plata",
       "title": "Necochea campeón zonal de bochas por tríos en Mar del Plata",
-      "score": 0.011,
+      "score": 0.006,
       "sources_count": 1,
       "first_seen": "2026-11-16T12:58:23+00:00",
       "image": null,
@@ -717,16 +842,16 @@
           "El equipo de nuestra ciudad se quedó con el título luego de una extensa jornada que incluyó cinco partidos y más de 12 horas de competencia. Con esta consagración, obtuvo la clasificación al Campeonato Provincial, que se disputará el próximo fin de semana en La Plata.",
           "Necochea tuvo una destacada actuación en el torneo de bochas por tríos de tercera categoría y se consagró campeón tras una maratónica jornada de competencia, en la que debió disputar cinco encuentros y permanecer más de 12 horas en cancha. El equipo local estuvo integrado por Oscar Ibarlucea, Leonardo González, Nicolás Angel y Máximo Alberto González, quienes lograron superar a sus rivales de Mar del Plata, Partido de la Costa y Miramar, al que vencieron en dos oportunidades para quedarse con la final y asegurar el primer puesto."
         ],
-        "generated": "2026-11-16T16:32:27.332163+00:00"
+        "generated": "2026-11-16T17:01:22.201469+00:00"
       },
-      "apariciones": 9,
-      "ultima_impresion": "2026-11-16T16:30:01.324147+00:00",
-      "penalizacion": 0.015
+      "apariciones": 10,
+      "ultima_impresion": "2026-11-16T17:00:01.099740+00:00",
+      "penalizacion": 0.008
     },
     {
       "key": "club artistico libertad vuelve mar plata nuevas canciones memoria resistencia",
       "title": "Club Artístico Libertad vuelve a Mar del Plata con nuevas canciones sobre memoria y resistencia",
-      "score": 0.011,
+      "score": 0.006,
       "sources_count": 1,
       "first_seen": "2026-11-16T12:36:00+00:00",
       "image": "http://nden.com.ar/uploads/noticias/5/2026/11/8187da741dcc412387887772a00f0f7db4a89fdc.jpg",
@@ -745,58 +870,11 @@
         "paragraphs": [
           "MÚSICA Y MEMORIA Club Artístico Libertad vuelve a Mar del Plata con nuevas canciones sobre memoria y resistencia"
         ],
-        "generated": "2026-11-16T16:32:28.500399+00:00"
+        "generated": "2026-11-16T17:01:23.079159+00:00"
       },
-      "apariciones": 9,
-      "ultima_impresion": "2026-11-16T16:30:01.324147+00:00",
-      "penalizacion": 0.015
-    },
-    {
-      "key": "conductor utilitario perdio control choco camioneta termino vereda avenida",
-      "title": "El conductor de un utilitario perdió el control, chocó una camioneta y terminó sobre la vereda de la avenida 2",
-      "score": 0.008,
-      "sources_count": 3,
-      "first_seen": "2026-11-16T10:58:01+00:00",
-      "image": "https://cdnartic.ar/R6AyD0pT-oEJMNiiKHBabatzJD0=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/choque_2.webp",
-      "articles": [
-        {
-          "portal": "Ecos Diarios",
-          "title": "El conductor de un utilitario perdió el control, chocó una camioneta y terminó sobre la vereda de la avenida 2",
-          "url": "https://elecos.com.ar/el-conductor-de-un-utilitario-perdio-el-control-choco-una-camioneta-y-termino-sobre-la-vereda-de-la-avenida-2",
-          "published_at": "2026-11-16T10:58:01+00:00",
-          "first_seen": "2026-11-16T11:30:00.709481+00:00",
-          "category": "13",
-          "image": "https://cdnartic.ar/R6AyD0pT-oEJMNiiKHBabatzJD0=/800x0/filters:no_upscale():format(webp):quality(40)/https://ecosdiarioscdn.eleco.com.ar/media/2026/11/choque_2.webp"
-        },
-        {
-          "portal": "Necochea Digital",
-          "title": "Una camioneta perdió el control y chocó contra una Toyota SW4 estacionada en avenida 2",
-          "url": "https://necocheadigital.com/nota/120190/una-camioneta-perdio-el-control-y-choco-contra-una-toyota-sw4-estacionada-en-avenida-2/",
-          "published_at": null,
-          "first_seen": "2026-11-16T12:00:01.026068+00:00",
-          "category": null,
-          "image": null
-        },
-        {
-          "portal": "Diario NQ",
-          "title": "Un auto chocó contra una camioneta estacionada en avenida 2",
-          "url": "https://diarionq.com.ar/un-auto-choco-contra-una-camioneta-estacionada-en-avenida-2/",
-          "published_at": "2026-11-16T11:24:52+00:00",
-          "first_seen": "2026-11-16T11:30:00.709481+00:00",
-          "category": "Destacadas",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Policiales Añadir como fuente en El conductor de un utilitario perdió el control, chocó una camioneta y terminó sobre la vereda de la avenida 2 El siniestro ocurrió durante la madrugada de este lunes, entre las calles 81 y 83. Intervinieron Policía, Tránsito y Defensa Civil. No hubo heridos de gravedad.",
-          "16 de noviembre de 2026 | 07:58 Ads Un accidente de tránsito se produjo durante la madrugada de este lunes en avenida 2, entre las calles 81 y 83, cuando un utilitario Fiat Fiorino perdió el control y terminó impactando contra una camioneta que se encontraba estacionada. Ads El hecho fue advertido por el Centro de Operaciones y Monitoreo (COM), que alertó sobre lo ocurrido y dio aviso para que una unidad móvil se dirigiera al lugar."
-        ],
-        "generated": "2026-11-16T16:31:11.095974+00:00"
-      },
-      "apariciones": 12,
-      "ultima_impresion": "2026-11-16T16:30:01.324147+00:00",
-      "penalizacion": 0.003
+      "apariciones": 10,
+      "ultima_impresion": "2026-11-16T17:00:01.099740+00:00",
+      "penalizacion": 0.008
     },
     {
       "key": "canasta alimentaria necochea supero 830 mil quedo 14 encima valor indec",
@@ -820,10 +898,10 @@
         "paragraphs": [
           "DEBATE EN LA LEGISLATURA BONAERENSE Buscan prohibir vehículos en playas y médanos bonaerenses: qué cambiaría en Necochea y Quequén"
         ],
-        "generated": "2026-11-16T16:35:17.188652+00:00"
+        "generated": "2026-11-16T17:01:27.135047+00:00"
       },
-      "apariciones": 29,
-      "ultima_impresion": "2026-11-16T16:30:01.324147+00:00",
+      "apariciones": 30,
+      "ultima_impresion": "2026-11-16T17:00:01.099740+00:00",
       "penalizacion": 0.0
     }
   ]
