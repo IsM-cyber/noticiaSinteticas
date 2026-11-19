@@ -1,360 +1,340 @@
 {
-  "generated_at": "2026-11-19T12:30:00.536622+00:00",
+  "generated_at": "2026-11-19T13:00:00.806573+00:00",
   "article_count": 120,
   "fetch_errors": [],
   "stories": [
     {
-      "key": "magdalena celebra 250 anos agenda festejos gratuitos",
-      "title": "Magdalena celebra sus 250 años con una agenda de festejos gratuitos",
-      "score": 1.187,
-      "sources_count": 1,
-      "first_seen": "2026-11-19T11:24:45+00:00",
-      "image": "https://cdnartic.ar/_0IaarrC4AwRSmelj0KyFBgyzxg=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/magdalena_y_su_costanera.webp",
+      "key": "senado tratara jueves sancion definitiva ley discapacidad",
+      "title": "El Senado tratará este jueves la sanción definitiva de la Ley de Discapacidad",
+      "score": 1.421,
+      "sources_count": 2,
+      "first_seen": "2026-11-19T03:32:32+00:00",
+      "image": "https://cdnartic.ar/QmcUwcNQ2z4gSPeSgOsYarryzVA=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/senado.webp",
       "articles": [
         {
           "portal": "Ecos Diarios",
-          "title": "Magdalena celebra sus 250 años con una agenda de festejos gratuitos",
-          "url": "https://elecos.com.ar/magdalena-celebra-sus-250-anos-con-una-agenda-de-festejos-gratuitos",
-          "published_at": "2026-11-19T11:24:45+00:00",
-          "first_seen": "2026-11-19T12:00:01.362375+00:00",
-          "category": "108",
-          "image": "https://cdnartic.ar/_0IaarrC4AwRSmelj0KyFBgyzxg=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/magdalena_y_su_costanera.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La región y provincia Añadir como fuente en Magdalena celebra sus 250 años con una agenda de festejos gratuitos El distrito bonaerense conmemora su fundación con una serie de eventos que incluyen desfiles, música en vivo y actividades culturales durante cinco jornadas. 19 de noviembre de 2026 | 08:24 Magdalena y su costanera. Ads El partido de Magdalena se prepara para celebrar sus 250 años de historia con una programación especial que se extenderá desde el jueves 19 hasta el lunes 23 de noviembre.",
-          "Los festejos incluyen una vigilia en el Teatro Español , un desfile en la Plaza San Martín y tres jornadas de recitales gratuitos en el Parque de la Memoria . Ads Fundado el 20 de noviembre de 1776, el poblado tiene sus raíces en las exploraciones de Juan de Garay realizadas en 1580. En sus inicios, el territorio fue conocido como Valle de Santa Ana y posteriormente como el Pago de la Magdalena ."
-        ],
-        "generated": "2026-11-19T12:30:53.512428+00:00"
-      },
-      "apariciones": 2,
-      "ultima_impresion": "2026-11-19T12:30:00.536622+00:00",
-      "penalizacion": 1.0
-    },
-    {
-      "key": "colegios privados debaten fusiones optimizacion recursos caida matricula",
-      "title": "Colegios privados debaten fusiones y optimización de recursos ante la caída de la matrícula",
-      "score": 1.185,
-      "sources_count": 1,
-      "first_seen": "2026-11-19T11:23:18+00:00",
-      "image": "https://cdnartic.ar/iMDH5h8uoiAUkY-WgfN7I1GKxcI=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/novedades_sobre_la_educacion_privada.webp",
-      "articles": [
-        {
-          "portal": "Ecos Diarios",
-          "title": "Colegios privados debaten fusiones y optimización de recursos ante la caída de la matrícula",
-          "url": "https://elecos.com.ar/colegios-privados-debaten-fusiones-y-optimizacion-de-recursos-ante-la-caida-de-la-matricula",
-          "published_at": "2026-11-19T11:23:18+00:00",
-          "first_seen": "2026-11-19T12:00:01.362375+00:00",
+          "title": "El Senado tratará este jueves la sanción definitiva de la Ley de Discapacidad",
+          "url": "https://elecos.com.ar/el-senado-tratara-este-jueves-la-sancion-definitiva-de-la-ley-de-discapacidad",
+          "published_at": "2026-11-19T12:21:01+00:00",
+          "first_seen": "2026-11-19T13:00:00.806573+00:00",
           "category": "nacionales",
-          "image": "https://cdnartic.ar/iMDH5h8uoiAUkY-WgfN7I1GKxcI=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/novedades_sobre_la_educacion_privada.webp"
+          "image": "https://cdnartic.ar/QmcUwcNQ2z4gSPeSgOsYarryzVA=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/senado.webp"
+        },
+        {
+          "portal": "TSN Necochea",
+          "title": "El Senado tratará este jueves la sanción definitiva de la Ley de Discapacidad",
+          "url": "https://tsnnecochea.com.ar/nacion/el-senado-tratara-este-jueves-la-sancion-definitiva-de-la-ley-de-discapacidad-242726/",
+          "published_at": "2026-11-19T03:32:32+00:00",
+          "first_seen": "2026-11-19T13:00:00.806573+00:00",
+          "category": "Discapacidad",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2024/05/Senadores-12.webp"
         }
       ],
       "summary": {
         "paragraphs": [
-          "Nacionales Añadir como fuente en Colegios privados debaten fusiones y optimización de recursos ante la caída de la matrícula Representantes de instituciones educativas analizaron el impacto de la baja natalidad y proyectan una reducción significativa de alumnos para los próximos años. 19 de noviembre de 2026 | 08:23 Novedades sobre la educación privada.",
-          "Ads El sistema educativo atraviesa una etapa de transformación marcada por una desaceleración demográfica que impacta directamente en las aulas. Durante el último Congreso Nacional de Educación organizado por la Asociación de Institutos de Enseñanza Privada de Argentina (AIEPA) , más de 400 representantes debatieron estrategias para afrontar la disminución de alumnos, una tendencia que se proyecta con fuerza hacia el año 2030."
+          "Nacionales Añadir como fuente en El Senado tratará este jueves la sanción definitiva de la Ley de Discapacidad El temario también incluye el Tratado de Cooperación en Materia de Patentes, Ley de Tierras y Ley Joaquín. 19 de noviembre de 2026 | 09:21 Ads El Senado realizará este jueves una sesión que tendrá como eje central la sanción definitiva del proyecto de ley de Discapacidad, que tiene el respaldo de todo el arco político dado que mantiene los principales puntos de la emergencia que vence en diciembre.",
+          "Ads El temario de la sesión convocada para las 11 incluye el tratamiento de los proyectos de adhesión al Tratado de Cooperación en Materia de Patentes, Propiedad Privada para restablecer la ley de Tierras, Ley Joaquin, entre otros temas."
         ],
-        "generated": "2026-11-19T12:30:54.906225+00:00"
+        "generated": "2026-11-19T13:00:38.684136+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-11-19T12:30:00.536622+00:00",
-      "penalizacion": 1.0
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-19T13:00:00.806573+00:00"
     },
     {
-      "key": "intendente franco flexas lanzo candidatura gobernador caminata plata",
-      "title": "El intendente Franco Flexas lanzó su candidatura a gobernador con una caminata hacia La Plata",
-      "score": 1.182,
+      "key": "armando farina cadam hay apuntar todo consumidor no puede comprar plataformas",
+      "title": "Armando Farina de CADAM: \"hay que apuntar a todo lo que el consumidor no puede comprar en las plataformas\"",
+      "score": 1.225,
       "sources_count": 1,
-      "first_seen": "2026-11-19T11:21:44+00:00",
-      "image": "https://cdnartic.ar/ATFylqHcuVD04RPJ9UpzmADUNiQ=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/el_intendente_de_general_viamonte_franco_flexas.webp",
+      "first_seen": "2026-11-19T12:17:26+00:00",
+      "image": "https://cdnartic.ar/27phuPEevARPDJf1cD58ifoEJjg=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/armando_farina.webp",
       "articles": [
         {
           "portal": "Ecos Diarios",
-          "title": "El intendente Franco Flexas lanzó su candidatura a gobernador con una caminata hacia La Plata",
-          "url": "https://elecos.com.ar/el-intendente-franco-flexas-lanzo-su-candidatura-a-gobernador-con-una-caminata-hacia-la-plata",
-          "published_at": "2026-11-19T11:21:44+00:00",
-          "first_seen": "2026-11-19T12:00:01.362375+00:00",
-          "category": "108",
-          "image": "https://cdnartic.ar/ATFylqHcuVD04RPJ9UpzmADUNiQ=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/el_intendente_de_general_viamonte_franco_flexas.webp"
+          "title": "Armando Farina de CADAM: \"hay que apuntar a todo lo que el consumidor no puede comprar en las plataformas\"",
+          "url": "https://elecos.com.ar/armando-farina-de-cadam-hay-que-apuntar-a-todo-lo-que-el-consumidor-no-puede-comprar-en-las-plataformas",
+          "published_at": "2026-11-19T12:17:26+00:00",
+          "first_seen": "2026-11-19T13:00:00.806573+00:00",
+          "category": "ecos-radio",
+          "image": "https://cdnartic.ar/27phuPEevARPDJf1cD58ifoEJjg=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/armando_farina.webp"
         }
       ],
       "summary": {
         "paragraphs": [
-          "La región y provincia Añadir como fuente en El intendente Franco Flexas lanzó su candidatura a gobernador con una caminata hacia La Plata El jefe comunal de General Viamonte inició un recorrido a pie de 350 kilómetros para oficializar su postulación de cara a las elecciones de 2027. 19 de noviembre de 2026 | 08:21 El intendente de General Viamonte, Franco Flexas. Ads El intendente de General Viamonte, Franco Flexas , confirmó su decisión de competir por la Gobernación en 2027.",
-          "Para oficializar su postulación, el dirigente radical emprendió una caminata de más de 350 kilómetros desde Los Toldos hasta la ciudad de La Plata, con el objetivo de mantener un contacto directo con los vecinos de diversas localidades. Ads El anuncio fue realizado a través de sus redes sociales, donde el jefe comunal explicó los motivos de su candidatura y reivindicó su gestión al frente de un municipio del interior."
+          "Ecos Radio Añadir como fuente en Armando Farina de CADAM: \"Hay que apuntar a todo lo que el consumidor no puede comprar en las plataformas\" 19 de noviembre de 2026 | 09:17 Ads El vicepresidente de la Cámara Argentina de Distribuidores y Autoservicios Mayoristas (Cadam) dialogó con Punto de Vista sobre el black mayorista. Además, analizó el rumbo de la economía.",
+          "Escuchá la nota completa: Ads Ads Ads Temas comercio Comentarios Para comentar, debés estar registrado Por favor, iniciá sesión INGRESA Ads Ads"
         ],
-        "generated": "2026-11-19T12:30:56.319364+00:00"
+        "generated": "2026-11-19T13:00:39.213993+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-11-19T12:30:00.536622+00:00",
-      "penalizacion": 1.0
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-19T13:00:00.806573+00:00"
     },
     {
-      "key": "gobierno aumento prestaciones discapacidad noviembre",
-      "title": "El Gobierno aumentó un 2,2% las prestaciones por discapacidad para noviembre",
-      "score": 1.18,
+      "key": "abad designado integrar consejo magistratura nacion",
+      "title": "Abad fue designado para integrar el Consejo de la Magistratura de la Nación",
+      "score": 1.221,
       "sources_count": 1,
-      "first_seen": "2026-11-19T11:20:10+00:00",
-      "image": "https://cdnartic.ar/rmKa44bDFY5Q7dYkBplZPGxCL0E=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/novedades_sobre_discapacidad.webp",
+      "first_seen": "2026-11-19T12:15:02+00:00",
+      "image": "https://cdnartic.ar/ZwuvtOtjGlfORlK3LEbOS0B0GxQ=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/07/senador_nacional_maximiliano_abad_1.webp",
       "articles": [
         {
           "portal": "Ecos Diarios",
-          "title": "El Gobierno aumentó un 2,2% las prestaciones por discapacidad para noviembre",
-          "url": "https://elecos.com.ar/el-gobierno-aumento-un-22-las-prestaciones-por-discapacidad-para-noviembre",
-          "published_at": "2026-11-19T11:20:10+00:00",
-          "first_seen": "2026-11-19T12:00:01.362375+00:00",
+          "title": "Abad fue designado para integrar el Consejo de la Magistratura de la Nación",
+          "url": "https://elecos.com.ar/abad-fue-designado-para-integrar-el-consejo-de-la-magistratura-de-la-nacion",
+          "published_at": "2026-11-19T12:15:02+00:00",
+          "first_seen": "2026-11-19T13:00:00.806573+00:00",
           "category": "nacionales",
-          "image": "https://cdnartic.ar/rmKa44bDFY5Q7dYkBplZPGxCL0E=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/novedades_sobre_discapacidad.webp"
+          "image": "https://cdnartic.ar/ZwuvtOtjGlfORlK3LEbOS0B0GxQ=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/07/senador_nacional_maximiliano_abad_1.webp"
         }
       ],
       "summary": {
         "paragraphs": [
-          "Nacionales Añadir como fuente en El Gobierno aumentó un 2,2% las prestaciones por discapacidad para noviembre La medida se calculó en base a la inflación de octubre y alcanza a la totalidad de los servicios contemplados en el nomenclador nacional. 19 de noviembre de 2026 | 08:20 Novedades sobre discapacidad.",
-          "Ads El Gobierno nacional dispuso un incremento del 2,2% en los aranceles del Sistema de Prestaciones Básicas de Atención Integral a favor de las Personas con Discapacidad, correspondiente a noviembre de 2026. La actualización, que alcanza a todas las prestaciones sin distinción por tipo de servicio, fue calculada en función de la variación del Índice de Precios al Consumidor (IPC) de octubre."
+          "Nacionales Añadir como fuente en Abad fue designado para integrar el Consejo de la Magistratura de la Nación El legislador marplatense fue notificado este jueves y ahora aguarda la ceremonia de Jura ante la Corte Suprema para convertirse en Consejo titular del organismo. 19 de noviembre de 2026 | 09:15 Senador nacional Maximiliano Abad Ads El senador nacional por la provincia de Buenos Aires, Maximiliano Abad , fue designado consejero titular del Consejo de la Magistratura de la Nación , en representación del Senado .",
+          "El legislador marplatense formalizó su designación este jueves y ahora deberá prestar juramento ante la Corte Suprema de Justicia para incorporarse al organismo. Ads El Consejo de la Magistratura ocupa un lugar central en el funcionamiento del sistema judicial argentino."
         ],
-        "generated": "2026-11-19T12:30:57.785014+00:00"
+        "generated": "2026-11-19T13:00:40.745422+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-11-19T12:30:00.536622+00:00",
-      "penalizacion": 1.0
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-19T13:00:00.806573+00:00"
     },
     {
-      "key": "yamada cup 2026 gran cosecha skif hoitsukai doble podio rosa parson",
-      "title": "Yamada Cup 2026 con gran cosecha de SKIF Hoitsukai y doble podio para Rosa Parson",
-      "score": 1.151,
+      "key": "asociacion yipuy proyecto montar bebeteca",
+      "title": "Asociación Yipuy y su proyecto de montar una bebeteca",
+      "score": 1.198,
       "sources_count": 1,
-      "first_seen": "2026-11-19T12:00:17+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/85ccf615-1a3e-40ff-808b-1bb515e69fa7.webp",
+      "first_seen": "2026-11-19T12:00:56+00:00",
+      "image": "https://cdnartic.ar/4heawmepdw1Dfn3vwxaJO0NgRmc=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/asociacion_yipuy.webp",
+      "articles": [
+        {
+          "portal": "Ecos Diarios",
+          "title": "Asociación Yipuy y su proyecto de montar una bebeteca",
+          "url": "https://elecos.com.ar/asociacion-yipuy-y-su-proyecto-de-montar-una-bebeteca",
+          "published_at": "2026-11-19T12:00:56+00:00",
+          "first_seen": "2026-11-19T13:00:00.806573+00:00",
+          "category": "ecos-radio",
+          "image": "https://cdnartic.ar/4heawmepdw1Dfn3vwxaJO0NgRmc=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/asociacion_yipuy.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Ecos Radio Añadir como fuente en Asociación Yipuy y su proyecto de montar una bebeteca 19 de noviembre de 2026 | 09:00 Ads Ana Inés Orte , presidenta de la Asociación Yipuy ; la profesora Doris Laiz del Instituto 31 y la alumna de la carrera de Educación Inicial, Brisa Benega , pasaron por Punto de Vista para hablar sobre el trabajo que lleva adelante la institución y el proyecto de la bebeteca para acercar la literatura a los niños pequeños.",
+          "Escuchá la nota completa: Ads Ads Ads Temas Educación Comentarios Para comentar, debés estar registrado Por favor, iniciá sesión INGRESA Ads Ads"
+        ],
+        "generated": "2026-11-19T13:00:42.145260+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-19T13:00:00.806573+00:00"
+    },
+    {
+      "key": "mesa social reunio analizar ordenamiento via publica",
+      "title": "La Mesa Social se reunió para analizar el ordenamiento de la vía pública",
+      "score": 1.152,
+      "sources_count": 1,
+      "first_seen": "2026-11-19T12:30:49+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/01-MS-scaled.webp",
       "articles": [
         {
           "portal": "TSN Necochea",
-          "title": "Yamada Cup 2026 con gran cosecha de SKIF Hoitsukai y doble podio para Rosa Parson",
-          "url": "https://tsnnecochea.com.ar/deportes/yamada-cup-2026-con-gran-cosecha-de-skif-hoitsukai-y-doble-podio-para-rosa-parson-242728/",
-          "published_at": "2026-11-19T12:00:17+00:00",
-          "first_seen": "2026-11-19T12:00:01.362375+00:00",
-          "category": "Karate",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/85ccf615-1a3e-40ff-808b-1bb515e69fa7.webp"
+          "title": "La Mesa Social se reunió para analizar el ordenamiento de la vía pública",
+          "url": "https://tsnnecochea.com.ar/locales/la-mesa-social-se-reunio-para-analizar-el-ordenamiento-de-la-via-publica-242732/",
+          "published_at": "2026-11-19T12:30:49+00:00",
+          "first_seen": "2026-11-19T13:00:00.806573+00:00",
+          "category": "Mesa Social",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/01-MS-scaled.webp"
         }
       ],
       "summary": {
         "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Deportes | Karate | Karate: Yamada Cup 2026 con gran cosecha de SKIF Hoitsukai y doble podio para Rosa Parson La deportista local dejó tanto a su institución como a la disciplina necochense en lo más alto de una de las citas más exigentes del calendario federativo. Por Redacción TSN 19/11/2026 · 09:00 AM Agregar TSN Necochea en E l pasado domingo 15 de noviembre, el Microestadio de la Ciudad Deportiva Don Bosco fue el escenario de una intensa jornada marcial con la realización de la Yamada Cup 2026 – Copa Nelson Vidal, certamen que funcionó además como la 4.ª Fecha del Ranking Oficial de FEDAKKO (Federación Argentina de Karate y Kobudo).",
-          "El torneo estuvo organizado por la escuela Yamada Ha Shito Ryu Shukokai Argentin a , encabezada por el Renshi Nelson Vidal."
+          "TSN Necochea | ‹ VOLVER | Locales | Mesa Social | En el Centro de Operaciones y Monitoreo La Mesa Social se reunió para analizar el ordenamiento de la vía pública Con la participación de concejalas, funcionarios del Departamento Ejecutivo y referentes de organizaciones sociales, el encuentro permitió interiorizarse sobre el funcionamiento del COM y repasar las acciones previstas para aplicar la ordenanza que regula las actividades en el espacio público.",
+          "Por Redacción TSN 19/11/2026 · 09:30 AM Agregar TSN Necochea en En el marco del trabajo articulado entre el ámbito legislativo, el Ejecutivo municipal y entidades comunitarias, se llevó a cabo en las instalaciones del Centro de Operaciones y Monitoreo (COM) una nueva reunión de la Mesa Social , con eje en la seguridad urbana y la regulación del espacio público."
         ],
-        "generated": "2026-11-19T12:30:59.229315+00:00"
+        "generated": "2026-11-19T13:00:49.658376+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-11-19T12:30:00.536622+00:00",
-      "penalizacion": 1.0
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-19T13:00:00.806573+00:00"
     },
     {
-      "key": "barrio serie semifinales huracan necochea avanza tres arroyos",
-      "title": "Barrió la serie y está en semifinales: Huracán de Necochea avanza en Tres Arroyos",
-      "score": 1.149,
-      "sources_count": 1,
-      "first_seen": "2026-11-19T11:58:49+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/Screenshot_20261114_1856253.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Barrió la serie y está en semifinales: Huracán de Necochea avanza en Tres Arroyos",
-          "url": "https://tsnnecochea.com.ar/deportes/barrio-la-serie-y-esta-en-semifinales-huracan-de-necochea-avanza-en-tres-arroyos-242754/",
-          "published_at": "2026-11-19T11:58:49+00:00",
-          "first_seen": "2026-11-19T12:00:01.362375+00:00",
-          "category": "Básquet",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/Screenshot_20261114_1856253.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Deportes | Básquet | Básquet Barrió la serie y está en semifinales: Huracán de Necochea avanza en Tres Arroyos El Globo ganó como visitante en Claromecó y selló la clasificación. Por Redacción TSN 19/11/2026 · 08:58 AM Agregar TSN Necochea en Una vez más, Huracán de Necochea logra meterse en las semifinales del Torneo Oficial de Tres Arroyos , en este caso tras haber barrido la serie de cuartos de final por 2-0 ante Recreativo Claromecó .",
-          "Después de una victoria clara como local, el equipo de Santiago Cuñado ganó un partido más parejo como visitante, por 72-67 , y de esa manera cerró la serie a su favor para meterse en la próxima instancia, donde ya se ve en el cuadro como uno de los cuatro mejores."
-        ],
-        "generated": "2026-11-19T12:31:00.631108+00:00"
-      },
-      "apariciones": 2,
-      "ultima_impresion": "2026-11-19T12:30:00.536622+00:00",
-      "penalizacion": 1.0
-    },
-    {
-      "key": "dengue notificaron dos nuevos casos 14 fueron clasificados como probables",
-      "title": "Dengue: se notificaron dos nuevos casos y 14 fueron clasificados como probables",
-      "score": 1.123,
-      "sources_count": 1,
-      "first_seen": "2026-11-19T11:42:13+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/Aedesaegypti.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Dengue: se notificaron dos nuevos casos y 14 fueron clasificados como probables",
-          "url": "https://tsnnecochea.com.ar/nacion/dengue-se-notificaron-dos-nuevos-casos-y-14-fueron-clasificados-como-probables-242751/",
-          "published_at": "2026-11-19T11:42:13+00:00",
-          "first_seen": "2026-11-19T12:00:01.362375+00:00",
-          "category": "casos",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/Aedesaegypti.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Nación | casos | En CABA Dengue: se notificaron dos nuevos casos y 14 fueron clasificados como probables La tendencia continúa sugiriendo la interrupción de la transmisión viral autóctona sostenida en el territorio nacional.",
-          "Por Redacción TSN 19/11/2026 · 08:42 AM Agregar TSN Necochea en El Boletín Epidemiológico Nacional (BEN) correspondiente a la semana epidemiológica (SE) 44 informó que, en lo que refiere al dengue , la tendencia continúa sugiriendo la interrupción de la transmisión viral autóctona sostenida en el territorio nacional e indicó que se notificaron dos nuevos casos, ambos pertenecientes a la Ciudad Autónoma de Buenos Aires (CABA) ."
-        ],
-        "generated": "2026-11-19T12:31:01.979532+00:00"
-      },
-      "apariciones": 2,
-      "ultima_impresion": "2026-11-19T12:30:00.536622+00:00",
-      "penalizacion": 1.0
-    },
-    {
-      "key": "88 vehiculos bonaerenses podria pagar patente 2027",
-      "title": "El 88,6% de los vehículos bonaerenses podría pagar menos de patente en 2027",
+      "key": "aguinaldo diciembre cuando cobra como calcula quienes tienen derecho percibirlo",
+      "title": "Aguinaldo de diciembre: cuándo se cobra, cómo se calcula y quiénes tienen derecho a percibirlo",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-11-19T12:30:00.536622+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/a0dc50c2c30b2881f196ba74ba2b521916346d3f.jpg",
+      "first_seen": "2026-11-19T13:00:00.806573+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/008af87b560f0999745f0c458ce57351571befbf.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "El 88,6% de los vehículos bonaerenses podría pagar menos de patente en 2027",
-          "url": "https://necocheadigital.com/nota/120227/el-88-6-de-los-vehiculos-bonaerenses-podria-pagar-menos-de-patente-en-2027/",
+          "title": "Aguinaldo de diciembre: cuándo se cobra, cómo se calcula y quiénes tienen derecho a percibirlo",
+          "url": "https://necocheadigital.com/nota/120228/aguinaldo-de-diciembre-cuando-se-cobra-como-se-calcula-y-quienes-tienen-derecho-a-percibirlo/",
           "published_at": null,
-          "first_seen": "2026-11-19T12:30:00.536622+00:00",
+          "first_seen": "2026-11-19T13:00:00.806573+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "El Gobierno de la provincia de Buenos Aires presentó ante la Legislatura el proyecto de Ley Impositiva 2027, que propone una reducción en el monto de las patentes para la mayoría de los vehículos radicados en territorio bonaerense. Según los datos difundidos por la administración provincial, el beneficio alcanzaría al 88,6% del parque automotor , siempre que la iniciativa sea aprobada. La propuesta mantiene los cinco tramos de alícuotas vigentes, que van del 1% al 4,5%, y establece que el impuesto se abonará en diez cuotas a partir de marzo.",
-          "La reducción se explica por la combinación entre la actualización del valor de los vehículos y la continuidad de la escala de alícuotas. De esta manera, una parte importante de los automotores podría quedar ubicada en categorías inferiores y tributar un importe menor."
+          "Con la llegada de diciembre, el aguinaldo se convierte en uno de los ingresos más esperados por millones de trabajadores argentinos. El Sueldo Anual Complementario (SAC) representa un derecho laboral establecido por ley y se abona en dos cuotas anuales: una en junio y otra en diciembre. La segunda cuota corresponde al período comprendido entre julio y diciembre de 2026. Según el calendario previsto, la fecha límite para el pago es el viernes 18 de diciembre.",
+          "Sin embargo, se contemplan cuatro días hábiles de gracia, por lo que el plazo efectivo se extiende hasta el jueves 24 de diciembre. Si el empleador no cumple con el pago dentro de ese período, incurre en mora automáticamente y debe afrontar los intereses correspondientes. En caso de incumplimiento, el trabajador puede realizar el reclamo mediante un telegrama laboral gratuito del Correo Argentino."
         ],
-        "generated": "2026-11-19T12:31:02.935398+00:00"
+        "generated": "2026-11-19T13:00:56.140454+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-19T12:30:00.536622+00:00"
+      "ultima_impresion": "2026-11-19T13:00:00.806573+00:00"
     },
     {
-      "key": "hombre descompenso volante choco auto estacionado frente municipalidad",
-      "title": "Un hombre se descompensó al volante y chocó contra un auto estacionado frente a la Municipalidad",
+      "key": "adicciones ayudar otros historia superacion bautista buno llego medios nacionales",
+      "title": "De las adicciones a ayudar a otros: la historia de superación de Bautista Buño que llegó a los medios nacionales",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-11-19T12:30:00.536622+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/08916a2c60514fc2583b0076e6e9155882d2beab.jpg",
+      "first_seen": "2026-11-19T13:00:00.806573+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/0e33fcb1db4d93c9eaf39177174408c6ed5cbf74.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Un hombre se descompensó al volante y chocó contra un auto estacionado frente a la Municipalidad",
-          "url": "https://necocheadigital.com/nota/120224/un-hombre-se-descompenso-al-volante-y-choco-contra-un-auto-estacionado-frente-a-la-municipalidad/",
+          "title": "De las adicciones a ayudar a otros: la historia de superación de Bautista Buño que llegó a los medios nacionales",
+          "url": "https://necocheadigital.com/nota/120218/de-las-adicciones-a-ayudar-a-otros-la-historia-de-superacion-de-bautista-buno-que-llego-a-los-medios-nacionales/",
           "published_at": null,
-          "first_seen": "2026-11-19T12:30:00.536622+00:00",
+          "first_seen": "2026-11-19T13:00:00.806573+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "Un siniestro vial alteró el movimiento habitual del centro de la ciudad durante la mañana de este miércoles, cuando un automóvil impactó contra otro vehículo que se encontraba estacionado frente al Palacio Municipal, sobre la calle 56, entre 61 y avenida 59. El episodio se desencadenó a raíz de un problema de salud que sufrió el conductor de un automóvil marca BMW —un hombre mayor de edad— mientras circulaba por el sector. Producto de la descompensación, perdió el control del rodado y terminó colisionando contra un vehículo marca KIA que permanecía detenido sobre la misma arteria.",
-          "La alerta ingresó al sistema de emergencias a través del Centro de Operaciones y Monitoreo (COM), luego de que inspectores de Tránsito que cumplían funciones en la zona advirtieran el choque y solicitaran asistencia. De inmediato, una unidad operativa de la Dirección General de Defensa Civil se desplazó hacia el lugar para intervenir en la escena."
+          "La historia de Bautista Buño es un testimonio de superación, segundas oportunidades y compromiso con los demás. A los 27 años, su recorrido personal llegó a los medios nacionales a través de una extensa publicación del diario LA NACION , firmada por la periodista María Ayuso, que reconstruye el camino que lo llevó desde una adolescencia atravesada por las adicciones hasta convertirse en referente de un espacio de ayuda en Necochea. Bautista comenzó a consumir alcohol y marihuana cuando tenía apenas 12 o 13 años.",
+          "Con el paso del tiempo se sumaron otras sustancias, como cocaína, tranquilizantes y LSD. Aquello que comenzó como una experiencia ocasional se transformó en una dependencia que fue deteriorando su vida, sus vínculos familiares y sus proyectos personales. Uno de los momentos más difíciles llegó en noviembre de 2017, cuando la Policía allanó la vivienda familiar en Orense."
         ],
-        "generated": "2026-11-19T12:31:04.425539+00:00"
+        "generated": "2026-11-19T13:00:57.533493+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-19T12:30:00.536622+00:00"
+      "ultima_impresion": "2026-11-19T13:00:00.806573+00:00"
     },
     {
-      "key": "empresario local reparo recursos propios paso peatonal puente dardo rocha",
-      "title": "Un empresario local reparó con recursos propios el paso peatonal del Puente Dardo Rocha",
+      "key": "papa dijo milei no necesario usar lenguaje violento habra entendido",
+      "title": "El Papa le dijo a Milei: “No es necesario usar un lenguaje violento”, ¿habrá entendido?",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-11-19T12:30:00.536622+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261118113504_rocha.jpg",
+      "first_seen": "2026-11-19T13:00:00.806573+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261117110722_captura.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Un empresario local reparó con recursos propios el paso peatonal del Puente Dardo Rocha",
-          "url": "https://necocheadigital.com/nota/120216/un-empresario-local-reparo-con-recursos-propios-el-paso-peatonal-del-puente-dardo-rocha/",
+          "title": "El Papa le dijo a Milei: “No es necesario usar un lenguaje violento”, ¿habrá entendido?",
+          "url": "https://necocheadigital.com/nota/120206/el-papa-le-dijo-a-milei-no-es-necesario-usar-un-lenguaje-violento-habra-entendido/",
           "published_at": null,
-          "first_seen": "2026-11-19T12:30:00.536622+00:00",
+          "first_seen": "2026-11-19T13:00:00.806573+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "Un destacado gesto solidario y de compromiso comunitario generó un fuerte reconocimiento entre los vecinos de Necochea y Quequén durante las últimas horas. El empresario local Carlos Salmo decidió llevar adelante, utilizando recursos propios de su firma, las reparaciones indispensables para restablecer la seguridad en el paso peatonal del Puente Dardo Rocha. La iniciativa privada surgió como una respuesta inmediata ante el marcado deterioro que presentaba el sector destinado exclusivamente al tránsito de los transeúntes sobre este histórico viaducto.",
-          "Se trata de una vía de comunicación fundamental que une ambas ciudades y por la cual cruzan a diario cientos de trabajadores, estudiantes y residentes de los dos márgenes del río Quequén. Para concretar las mejoras, Salmo dispuso tanto del personal especializado como de los materiales necesarios aportados íntegramente por su empresa."
+          "El papa León XIV dejó una serie de definiciones sobre la Argentina y el clima político del país durante una conferencia de prensa a bordo del avión que lo trasladaba desde Lima hacia Roma, luego de concluir su gira por América Latina. Consultado sobre su encuentro con el presidente Javier Milei, el Pontífice contó que conversaron sobre la situación económica argentina, las dificultades que atraviesa el país y la necesidad de prestar especial atención a quienes más lo necesitan. “Yo encontré al presidente Milei ya en Roma, cuando vino al Vaticano, lo mismo que con Francisco.",
+          "Ellos, políticamente, representaban líneas muy distintas y, sin embargo, se llevaban aparentemente muy bien”, recordó León XIV. Sobre la conversación que mantuvo con el mandatario, explicó que su mensaje no busca ubicarse en una posición política, sino promover el respeto por las personas y la dignidad humana."
         ],
-        "generated": "2026-11-19T12:31:05.849991+00:00"
+        "generated": "2026-11-19T13:00:58.897286+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-19T12:30:00.536622+00:00"
+      "ultima_impresion": "2026-11-19T13:00:00.806573+00:00"
     },
     {
-      "key": "abre inscripcion nuevo curso gratuito manipulacion alimentos",
-      "title": "Se abre la inscripción para un nuevo curso gratuito de Manipulación de Alimentos",
+      "key": "provincia proyecta comenzar 2027 autovia 88 primera etapa llegara otamendi",
+      "title": "La Provincia proyecta comenzar en 2027 la Autovía 88: la primera etapa llegará hasta Otamendi",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-11-19T12:30:00.536622+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261118170438_26-11-foto-curso-manipulacion-aimentos3.jpg",
+      "first_seen": "2026-11-19T13:00:00.806573+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/87ace14309ac6f6c466420da30b8d2e6f5ab1fda.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Se abre la inscripción para un nuevo curso gratuito de Manipulación de Alimentos",
-          "url": "https://necocheadigital.com/nota/120223/se-abre-la-inscripcion-para-un-nuevo-curso-gratuito-de-manipulacion-de-alimentos/",
+          "title": "La Provincia proyecta comenzar en 2027 la Autovía 88: la primera etapa llegará hasta Otamendi",
+          "url": "https://necocheadigital.com/nota/120205/la-provincia-proyecta-comenzar-en-2027-la-autovia-88-la-primera-etapa-llegara-hasta-otamendi/",
           "published_at": null,
-          "first_seen": "2026-11-19T12:30:00.536622+00:00",
+          "first_seen": "2026-11-19T13:00:00.806573+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "La propuesta es impulsada por la Dirección de Bromatología e Higiene, dependiente de la Secretaría de Salud, y tendrá lugar en el Salón de Actos “Domingo J. Taraborelli” del municipio . Durante los tres encuentros se abordarán contenidos esenciales como la prevención de enfermedades transmitidas por alimentos (ETA), higiene personal, limpieza, desinfección y normativas vigentes. Al finalizar y aprobar la capacitación, los participantes recibirán el carnet de manipulador de alimentos, con validez en todo el territorio nacional y una vigencia de tres años.",
-          "Esta iniciativa permite facilitar el acceso a una formación fundamental para quienes trabajan o buscan desempeñarse en el rubro alimenticio, al tiempo que contribuye a fortalecer las condiciones de seguridad e higiene y el cuidado de la salud de toda la comunidad. A continuación, se adjunta el formulario para realizar la inscripción al curso. FORMULARIO DE INSCRIPCION"
+          "La transformación de la Ruta Provincial 88 en autovía podría comenzar durante 2027. Así lo establece el proyecto de Presupuesto presentado por el gobierno bonaerense de Axel Kicillof ante la Legislatura, que contempla una inversión de $33.200 millones para ejecutar la primera etapa de una obra largamente reclamada por los vecinos del sudeste de la provincia. Los trabajos iniciales comprenderían un tramo de 17,5 kilómetros, entre la rotonda de El Gaucho, en Batán, y el acceso a Comandante Nicanor Otamendi, en el partido de General Alvarado.",
+          "La intervención permitirá pasar de la actual calzada única, con un carril para cada sentido, a dos vías independientes, con separación física entre ambas manos de circulación. La ejecución estará a cargo de la Dirección Provincial de Vialidad."
         ],
-        "generated": "2026-11-19T12:31:06.709922+00:00"
+        "generated": "2026-11-19T13:01:00.240999+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-19T12:30:00.536622+00:00"
+      "ultima_impresion": "2026-11-19T13:00:00.806573+00:00"
     },
     {
-      "key": "clasico barrio promocion gimnasia huracan definen hoy finalista reducido zona",
-      "title": "Clásico de barrio por la promoción: Gimnasia y Huracán definen hoy al finalista del reducido de la Zona B",
+      "key": "justicia habilito defensoria pueblo reclamar recorte zona fria",
+      "title": "La Justicia habilitó a la Defensoría del Pueblo a reclamar por el recorte de la Zona Fría",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-11-19T12:30:00.536622+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261118113152_whatsapp-image-2026-11-18-at-11-31-41.jpg",
+      "first_seen": "2026-11-19T13:00:00.806573+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261116114957_whatsapp-image-2026-11-16-at-11-49-26.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Clásico de barrio por la promoción: Gimnasia y Huracán definen hoy al finalista del reducido de la Zona B",
-          "url": "https://necocheadigital.com/nota/120215/clasico-de-barrio-por-la-promocion-gimnasia-y-huracan-definen-hoy-al-finalista-del-reducido-de-la-zona-b/",
+          "title": "La Justicia habilitó a la Defensoría del Pueblo a reclamar por el recorte de la Zona Fría",
+          "url": "https://necocheadigital.com/nota/120197/la-justicia-habilito-a-la-defensoria-del-pueblo-a-reclamar-por-el-recorte-de-la-zona-fria/",
           "published_at": null,
-          "first_seen": "2026-11-19T12:30:00.536622+00:00",
+          "first_seen": "2026-11-19T13:00:00.806573+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "El fútbol necochense vivirá este miércoles una jornada apasionante cuando Gimnasia y Huracán protagonicen una nueva edición del clásico barrial en el marco de la final del reducido de la Zona B del Torneo Sergio “Giuseppe” Portugal 2026. El encuentro comenzará a las 16.30 en el Estadio Williams Gabriele, contará con el arbitraje de Sergio Benavidez y determinará qué equipo se enfrentará a Villa del Parque en la promoción para pelear por el ascenso a la Zona A.",
-          "El conjunto local llega a esta instancia decisiva respaldado por una mejor ubicación en la tabla general, tras haber finalizado en el tercer puesto de la fase regular frente a la quinta posición ocupada por su histórico rival. El equipo dirigido por Pablo Fernández selló su boleto a la final tras superar con esfuerzo por 2-0 a Nicanor Olivera (Deportivo La Dulce) en su propio estadio."
+          "La Cámara Federal de Apelaciones de Mar del Plata habilitó a la Defensoría del Pueblo para que continúe con su reclamo judicial frente al recorte del Régimen de Zona Fría , un beneficio que ha sido objeto de una intensa disputa legal en los últimos meses. Según informa LU9 Radio Mar del Plata , los jueces Alejandro Tazza , Eduardo Jiménez y Santiago Martín fueron los encargados de revocar la resolución de primera instancia emitida por el Juzgado Federal N° 4, la cual había desestimado inicialmente la presentación del organismo conducido por Marcelo Lacedonia bajo el argumento de que carecía de legitimación activa para actuar como demandante en el fuero federal.",
+          "Zona fría: el fallo El fallo de los magistrados subraya que, si bien la normativa en cuestión posee un alcance nacional, esto no constituye un impedimento para que la Defensoría del Pueblo pueda ejercer su rol de representación ."
         ],
-        "generated": "2026-11-19T12:31:08.042827+00:00"
+        "generated": "2026-11-19T13:01:01.590361+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-19T12:30:00.536622+00:00"
+      "ultima_impresion": "2026-11-19T13:00:00.806573+00:00"
+    },
+    {
+      "key": "necochea apuesta turismo deportivo 500 personas llegan argentino veteranos viene agenda cargada eventos",
+      "title": "Necochea apuesta al turismo deportivo: 1.500 personas llegan por el Argentino de Veteranos y se viene una agenda cargada de eventos",
+      "score": 0.978,
+      "sources_count": 1,
+      "first_seen": "2026-11-19T12:43:38+00:00",
+      "image": null,
+      "articles": [
+        {
+          "portal": "Diario NQ",
+          "title": "Necochea apuesta al turismo deportivo: 1.500 personas llegan por el Argentino de Veteranos y se viene una agenda cargada de eventos",
+          "url": "https://diarionq.com.ar/necochea-apuesta-al-turismo-deportivo-1-500-personas-llegan-por-el-argentino-de-veteranos-y-se-viene-una-agenda-cargada-de-eventos/",
+          "published_at": "2026-11-19T12:43:38+00:00",
+          "first_seen": "2026-11-19T13:00:00.806573+00:00",
+          "category": "Destacadas",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El Campeonato Argentino de Fútbol para Veteranos reunirá este fin de semana a delegaciones de diez provincias y generará un importante movimiento hotelero, gastronómico y comercial. Desde Turismo destacaron además una extensa agenda que incluye beach handball, La Renga, Festival Isoca, carreras, natación y otras propuestas pensadas para sostener actividad durante todo el año.",
+          "Charlando con Fede Cañadas en “Esta Mañana”, por NEC Radio 98.3 del Multimedio NQ, Silvia, responsable del área de Turismo , destacó el fuerte movimiento que comenzará a vivir Necochea con la realización del Campeonato Argentino de Fútbol para Veteranos , que reunirá a unas 1.500 personas provenientes de diez provincias argentinas . El evento se realizará por primera vez en la ciudad y tendrá actividad durante todo el fin de semana largo, con delegaciones que no solamente llegarán con sus jugadores, sino también con acompañantes y familiares."
+        ],
+        "generated": "2026-11-19T13:01:06.752059+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-19T13:00:00.806573+00:00"
     },
     {
       "key": "newcom mucho deporte pasion une generaciones despierta espiritu competitivo",
       "title": "Newcom: mucho más que un deporte, una pasión que une generaciones y despierta el espíritu competitivo",
-      "score": 0.969,
+      "score": 0.929,
       "sources_count": 1,
       "first_seen": "2026-11-19T12:07:05+00:00",
       "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/ac4af7c5-f26c-4fbd-8c8d-30c183ee2382.jpg",
@@ -374,174 +354,20 @@
           "Paula Sabaté, Marcela Pascual y Andrea Benot pasaron por Zoom El Deportivo y compartieron cómo viven el newcom, una disciplina que las reencontró con el deporte, la amistad y las ganas de competir. Tras conseguir el tercer puesto en los playoffs de la Liga Femenina, contaron sus experiencias, las anécdotas del grupo y el entusiasmo de una actividad que no para de crecer en Necochea. Hay deportes que llegan a una etapa de la vida para recuperar sensaciones que parecían guardadas en el tiempo.",
           "Y eso es precisamente lo que les ocurrió a Paula Sabaté, Marcela Pascual y Andrea Benot, quienes encontraron en el newcom mucho más que una actividad física: volvieron a sentir la adrenalina de la competencia, la alegría de compartir un equipo y hasta aquellas emociones de cuando eran adolescentes. Las tres pasaron por los micrófonos de Zoom y dejaron una charla llena de anécdotas, risas y pasión por una disciplina que sigue sumando adeptos en Necochea."
         ],
-        "generated": "2026-11-19T12:31:11.705032+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-19T12:30:00.536622+00:00"
-    },
-    {
-      "key": "victoria pardo prepara nuevo desafio internacional taekwondo suena llegar mundial irlanda 2028",
-      "title": "Victoria Pardo se prepara para un nuevo desafío internacional de taekwondo y sueña con llegar al Mundial de Irlanda 2028",
-      "score": 0.958,
-      "sources_count": 1,
-      "first_seen": "2026-11-19T11:59:01+00:00",
-      "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/Del-26-al-29-de-noviembre-de-2026-Punta-del-Este-recibe-los-2o-Juegos-Mundiales-de-Taekwon-Do-I.jpg",
-      "articles": [
-        {
-          "portal": "Diario NQ",
-          "title": "Victoria Pardo se prepara para un nuevo desafío internacional de taekwondo y sueña con llegar al Mundial de Irlanda 2028",
-          "url": "https://diarionq.com.ar/victoria-pardo-se-prepara-para-un-nuevo-desafio-internacional-de-taekwondo-y-suena-con-llegar-al-mundial-de-irlanda-2028/",
-          "published_at": "2026-11-19T11:59:01+00:00",
-          "first_seen": "2026-11-19T12:00:01.362375+00:00",
-          "category": "Deportes",
-          "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/Del-26-al-29-de-noviembre-de-2026-Punta-del-Este-recibe-los-2o-Juegos-Mundiales-de-Taekwon-Do-I.jpg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La deportista de la academia de Carlos Correa competirá en Punta del Este, donde participará en las modalidades de formas y combate. Con 11 años de trayectoria, una destacada temporada 2026 y una exigente preparación física y mental, ya tiene la mirada puesta en los selectivos para integrar la Selección Argentina y buscar un lugar en el Mundial de Irlanda 2028. Victoria Pardo atraviesa un gran presente deportivo y continúa trabajando para alcanzar nuevos objetivos dentro del taekwondo.",
-          "Con apenas 11 años de trayectoria en esta disciplina, que practica desde los siete años bajo la formación de Carlos Correa, se prepara para afrontar un nuevo compromiso internacional en Punta del Este. La deportista pasó por los micrófonos de Zoom El Deportivo, donde contó cómo viene desarrollando su preparación, repasó los resultados obtenidos durante 2026 y compartió sus expectativas de cara a las próximas competencias."
-        ],
-        "generated": "2026-11-19T12:31:14.022534+00:00"
+        "generated": "2026-11-19T13:01:09.079353+00:00"
       },
       "apariciones": 2,
-      "ultima_impresion": "2026-11-19T12:30:00.536622+00:00",
+      "ultima_impresion": "2026-11-19T13:00:00.806573+00:00",
       "penalizacion": 1.0
     },
     {
-      "key": "julian ulloa golf mi vida representa todo",
-      "title": "Julián Ulloa: “El golf en mi vida representa un todo”",
-      "score": 0.948,
-      "sources_count": 1,
-      "first_seen": "2026-11-19T11:51:34+00:00",
-      "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/51587625-152d-421b-809e-949d163d6f54-edited.jpg",
+      "key": "comienza xii congreso logistica puertos comercio exterior unicen",
+      "title": "Comienza hoy en Quequén el XII Congreso de Logística, Puertos y Comercio Exterior con foco en Puerto Quequén, Vaca Muerta y la Ruta 88",
+      "score": 0.895,
+      "sources_count": 2,
+      "first_seen": "2026-11-18T23:00:01.445260+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2023/11/1699729442580.webp",
       "articles": [
-        {
-          "portal": "Diario NQ",
-          "title": "Julián Ulloa: “El golf en mi vida representa un todo”",
-          "url": "https://diarionq.com.ar/julian-ulloa-el-golf-en-mi-vida-representa-un-todo/",
-          "published_at": "2026-11-19T11:51:34+00:00",
-          "first_seen": "2026-11-19T12:00:01.362375+00:00",
-          "category": "Deportes",
-          "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/51587625-152d-421b-809e-949d163d6f54-edited.jpg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Tras consagrarse ganador de la categoría Scratch del tradicional Putter de Oro del Necochea Golf Club, el deportista pasó por Zoom El Deportivo, en la columna habitual de los miércoles y habló sobre su pasión por el golf, sus más de 35 años de trayectoria y el crecimiento de la institución. Además, destacó el sentido de pertenencia, el trabajo dirigencial y el carácter inclusivo de este deporte.",
-          "El Necochea Golf Club atraviesa un gran presente deportivo e institucional, y uno de sus protagonistas es Julián Ulloa, quien se quedó con el primer puesto de la categoría Scratch (sin hándicap) en la última edición del tradicional torneo Putter de Oro. En diálogo con Leo Menna y María Elena Figueroa en Zoom El Deportivo, Ulloa expresó su alegría por el triunfo y reconoció que se trató de un resultado muy especial, teniendo en cuenta la preparación que había realizado para afrontar la competencia."
-        ],
-        "generated": "2026-11-19T12:31:16.337415+00:00"
-      },
-      "apariciones": 2,
-      "ultima_impresion": "2026-11-19T12:30:00.536622+00:00",
-      "penalizacion": 1.0
-    },
-    {
-      "key": "sigue inestabilidad necochea esperan lluvias hoy hay alerta amarilla manana",
-      "title": "Sigue la inestabilidad en Necochea: se esperan lluvias hoy y hay alerta amarilla para mañana",
-      "score": 0.925,
-      "sources_count": 1,
-      "first_seen": "2026-11-19T11:33:32+00:00",
-      "image": null,
-      "articles": [
-        {
-          "portal": "Diario NQ",
-          "title": "Sigue la inestabilidad en Necochea: se esperan lluvias hoy y hay alerta amarilla para mañana",
-          "url": "https://diarionq.com.ar/sigue-la-inestabilidad-en-necochea-se-esperan-lluvias-hoy-y-hay-alerta-amarilla-para-manana/",
-          "published_at": "2026-11-19T11:33:32+00:00",
-          "first_seen": "2026-11-19T12:00:01.362375+00:00",
-          "category": "Destacadas",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El pronóstico anticipa lluvias durante la mañana de este jueves en Necochea, con una temperatura máxima de 16 grados. Además, el Servicio Meteorológico Nacional emitió una alerta amarilla por tormentas para este viernes. La probabilidad de precipitaciones para hoy se ubica entre el 10 y el 40% durante la mañana, mientras que por la tarde y la noche será baja. Se esperan ráfagas de entre 42 y 50 kilómetros por hora durante la mañana y la tarde.",
-          "Para mañana se prevén tormentas, algunas fuertes o localmente severas, principalmente durante la tarde. Podrían estar acompañadas por lluvias intensas en cortos períodos, actividad eléctrica frecuente, ocasional caída de granizo y ráfagas intensas. La temperatura oscilará entre los 12 y los 21 grados."
-        ],
-        "generated": "2026-11-19T12:31:18.635783+00:00"
-      },
-      "apariciones": 2,
-      "ultima_impresion": "2026-11-19T12:30:00.536622+00:00",
-      "penalizacion": 1.0
-    },
-    {
-      "key": "municipalidad llamo licitacion concesionar transporte urbano colectivos",
-      "title": "La Municipalidad llamó a licitación para concesionar el transporte urbano de colectivos",
-      "score": 0.583,
-      "sources_count": 1,
-      "first_seen": "2026-11-19T11:00:35+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/02/99d20413-2e99-466c-8838-a91c7a58e370.jpg",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "La Municipalidad llamó a licitación para concesionar el transporte urbano de colectivos",
-          "url": "https://tsnnecochea.com.ar/locales/la-municipalidad-llamo-a-licitacion-para-concesionar-el-transporte-urbano-de-colectivos-242724/",
-          "published_at": "2026-11-19T11:00:35+00:00",
-          "first_seen": "2026-11-19T11:30:01.371958+00:00",
-          "category": "colectivos",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/02/99d20413-2e99-466c-8838-a91c7a58e370.jpg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Locales | colectivos | Tercer llamado La Municipalidad llamó a licitación para concesionar el transporte urbano de colectivos El pliego de bases y condiciones tiene un valor de un millón de pesos y podrá adquirirse desde el 25 de noviembre hasta el 4 de enero de 2027. La apertura de sobres se realizará el 6 de enero en el Salón de Actos municipal y el contrato prevé una posible prórroga de seis años y ocho meses.",
-          "Por Redacción TSN 19/11/2026 · 08:00 AM Agregar TSN Necochea en La Municipalidad de Necochea oficializó el llamado a licitación pública para otorgar la concesión del servicio de transporte urbano de pasajeros en las ciudades de Necochea y Quequén , un proceso clave que definirá el funcionamiento y la estructura del sistema de colectivos del distrito durante las próximas dos décadas."
-        ],
-        "generated": "2026-11-19T12:31:09.395144+00:00"
-      },
-      "apariciones": 3,
-      "ultima_impresion": "2026-11-19T12:30:00.536622+00:00",
-      "penalizacion": 0.55
-    },
-    {
-      "key": "realizaron dos allanamientos necochea operativo provincial grooming abuso sexual infantil",
-      "title": "Realizaron dos allanamientos en Necochea en un operativo provincial contra el grooming y el abuso sexual infantil",
-      "score": 0.322,
-      "sources_count": 1,
-      "first_seen": "2026-11-18T22:53:35+00:00",
-      "image": null,
-      "articles": [
-        {
-          "portal": "Diario NQ",
-          "title": "Realizaron dos allanamientos en Necochea en un operativo provincial contra el grooming y el abuso sexual infantil",
-          "url": "https://diarionq.com.ar/realizaron-dos-allanamientos-en-necochea-en-un-operativo-provincial-contra-el-grooming-y-el-abuso-sexual-infantil/",
-          "published_at": "2026-11-18T22:53:35+00:00",
-          "first_seen": "2026-11-18T23:00:01.445260+00:00",
-          "category": "Destacadas",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Necochea fue uno de los 75 distritos bonaerenses alcanzados por la “Operación Provincial Protección de las Infancias VIII”, que este miércoles 18 de noviembre incluyó 136 allanamientos simultáneos. Dos de los procedimientos se realizaron en la ciudad, en el marco de una investigación por grooming y tenencia y distribución de material de abuso sexual infantil. El operativo fue impulsado por el Ministerio Público bonaerense, bajo la conducción del procurador general Julio Conte-Grand, y contó con la participación de fiscalías especializadas y fuerzas de seguridad.",
-          "En Necochea intervinieron los fiscales Marcos Bendersky y Walter Pierrestegui, junto con efectivos especializados en delitos informáticos de la Policía Federal Argentina y de la Policía de la Provincia de Buenos Aires. Como resultado de las investigaciones fueron identificadas 123 personas: 119 hombres y cuatro mujeres."
-        ],
-        "generated": "2026-11-19T12:31:23.622856+00:00"
-      },
-      "apariciones": 2,
-      "ultima_impresion": "2026-11-19T12:30:00.536622+00:00",
-      "penalizacion": 1.0
-    },
-    {
-      "key": "comienza jueves xii congreso logistica puertos",
-      "title": "Comienza este jueves el XII Congreso de Logística y Puertos",
-      "score": 0.0,
-      "sources_count": 3,
-      "first_seen": "2026-11-18T22:38:24+00:00",
-      "image": "https://cdnartic.ar/kyM786GwXBuYblg2s4OWdh8t8HM=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/patricia_sureda_coordinadora_de_la_unicen.webp",
-      "articles": [
-        {
-          "portal": "Ecos Diarios",
-          "title": "Comienza este jueves el XII Congreso de Logística y Puertos",
-          "url": "https://elecos.com.ar/comienza-este-jueves-el-xii-congreso-de-logistica-y-puertos",
-          "published_at": "2026-11-18T22:38:24+00:00",
-          "first_seen": "2026-11-18T23:00:01.445260+00:00",
-          "category": "14",
-          "image": "https://cdnartic.ar/kyM786GwXBuYblg2s4OWdh8t8HM=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/patricia_sureda_coordinadora_de_la_unicen.webp"
-        },
         {
           "portal": "TSN Necochea",
           "title": "Comienza hoy en Quequén el XII Congreso de Logística, Puertos y Comercio Exterior con foco en Puerto Quequén, Vaca Muerta y la Ruta 88",
@@ -563,41 +389,293 @@
       ],
       "summary": {
         "paragraphs": [
-          "La ciudad Añadir como fuente en Comienza este jueves el XII Congreso de Logística y Puertos Visitas técnicas a terminales portuarias y charlas abiertas 18 de noviembre de 2026 | 19:38 Patricia Sureda. Coordinadora de la Unicen Ads Este jueves comienza el XII Congreso de Logística, Puertos y Comercio Exterior , un encuentro organizado por la Universidad Nacional del Centro de la Provincia de Buenos Aires (Unicen) que reúne a especialistas, referentes académicos, organismos públicos y actores del sector privado vinculados a la cadena agroexportadora.",
-          "Ads La propuesta se presenta como un espacio donde los profesionales pueden conectarse, compartir experiencias, establecer colaboraciones estratégicas y construir una red valiosa de contactos en la industria. Se busca que la diversidad de perspectivas enriquezca las discusiones y promueva las soluciones inclusivas y globales."
+          "TSN Necochea | ‹ VOLVER | Generales | congreso | Evento Comienza hoy en Quequén el XII Congreso de Logística, Puertos y Comercio Exterior con foco en Puerto Quequén, Vaca Muerta y la Ruta 88 Organizado por la UNICEN, el encuentro reúne este jueves y viernes a referentes académicos, autoridades provinciales y municipales y actores del sector agroexportador.",
+          "Por Redacción TSN 19/11/2026 · 08:29 AM Rojas en el Congreso de Lógistica Agregar TSN Necochea en Este jueves da inicio en el distrito el XII Congreso de Logística, Puertos y Comercio Exterior (LOGIPEX) , un encuentro impulsado por la Universidad Nacional del Centro de la Provincia de Buenos Aires (UNICEN) que convoca a especialistas, referentes académicos, organismos públicos y empresas vinculadas a la cadena agroexportadora para intercambiar experiencias y promover articulaciones estratégicas en la industria."
         ],
-        "generated": "2026-11-19T12:30:38.979892+00:00"
+        "generated": "2026-11-19T13:01:15.382893+00:00"
       },
-      "apariciones": 32,
-      "ultima_impresion": "2026-11-19T12:30:00.536622+00:00",
-      "penalizacion": 0.0
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-19T13:00:00.806573+00:00"
     },
     {
-      "key": "futbol local gimnasia elimino huracan jugara ascenso",
-      "title": "Fútbol local: Gimnasia eliminó a Huracán y jugará por el ascenso",
-      "score": 0.0,
-      "sources_count": 3,
-      "first_seen": "2026-11-18T21:44:16+00:00",
-      "image": "https://cdnartic.ar/hNrfjfz9r_iuc7mvJL4veHqGgpM=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/en_el_estadio_williams_gabriele_el_equipo_local_fue_contundente_y_festejo.webp",
+      "key": "dos allanamientos necochea abuso sexual infantil internet secuestraron dispositivos",
+      "title": "Dos allanamientos en Necochea por abuso sexual infantil en internet: secuestraron dispositivos",
+      "score": 0.772,
+      "sources_count": 2,
+      "first_seen": "2026-11-18T22:53:35+00:00",
+      "image": "http://nden.com.ar/uploads/noticias/5/2026/11/886bf73a775b948a355e53f4fc7eb23d2721c014.jpg",
+      "articles": [
+        {
+          "portal": "Noticias de Necochea",
+          "title": "Dos allanamientos en Necochea por abuso sexual infantil en internet: secuestraron dispositivos",
+          "url": "https://nden.com.ar/nota/38763/dos-allanamientos-en-necochea-por-abuso-sexual-infantil-en-internet-secuestraron-dispositivos",
+          "published_at": "2026-11-19T12:47:00+00:00",
+          "first_seen": "2026-11-19T13:00:00.806573+00:00",
+          "category": null,
+          "image": "http://nden.com.ar/uploads/noticias/5/2026/11/886bf73a775b948a355e53f4fc7eb23d2721c014.jpg"
+        },
+        {
+          "portal": "Diario NQ",
+          "title": "Realizaron dos allanamientos en Necochea en un operativo provincial contra el grooming y el abuso sexual infantil",
+          "url": "https://diarionq.com.ar/realizaron-dos-allanamientos-en-necochea-en-un-operativo-provincial-contra-el-grooming-y-el-abuso-sexual-infantil/",
+          "published_at": "2026-11-18T22:53:35+00:00",
+          "first_seen": "2026-11-18T23:00:01.445260+00:00",
+          "category": "Policiales",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "PROTECCIÓN DE LAS INFANCIAS Dos allanamientos en Necochea por abuso sexual infantil en internet: secuestraron dispositivos Necochea fue uno de los 75 distritos bonaerenses alcanzados por la “Operación Provincial Protección de las Infancias VIII”, que este miércoles 18 de noviembre incluyó 136 allanamientos simultáneos. Dos de los procedimientos se realizaron en la ciudad, en el marco de una investigación por grooming y tenencia y distribución de material de abuso sexual infantil.",
+          "El operativo fue impulsado por el Ministerio Público bonaerense, bajo la conducción del procurador general Julio Conte-Grand, y contó con la participación de fiscalías especializadas y fuerzas de seguridad. En Necochea intervinieron los fiscales Marcos Bendersky y Walter Pierrestegui, junto con efectivos especializados en delitos informáticos de la Policía Federal Argentina y de la Policía de la Provincia de Buenos Aires."
+        ],
+        "generated": "2026-11-19T13:01:21.336975+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-19T13:00:00.806573+00:00"
+    },
+    {
+      "key": "magdalena celebra 250 anos agenda festejos gratuitos",
+      "title": "Magdalena celebra sus 250 años con una agenda de festejos gratuitos",
+      "score": 0.627,
+      "sources_count": 1,
+      "first_seen": "2026-11-19T11:24:45+00:00",
+      "image": "https://cdnartic.ar/_0IaarrC4AwRSmelj0KyFBgyzxg=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/magdalena_y_su_costanera.webp",
       "articles": [
         {
           "portal": "Ecos Diarios",
-          "title": "Fútbol local: Gimnasia eliminó a Huracán y jugará por el ascenso",
-          "url": "https://elecos.com.ar/futbol-local-gimnasia-elimino-a-huracan-y-jugara-por-el-ascenso",
-          "published_at": "2026-11-18T23:49:48+00:00",
-          "first_seen": "2026-11-19T00:30:01.365792+00:00",
-          "category": "11",
-          "image": "https://cdnartic.ar/hNrfjfz9r_iuc7mvJL4veHqGgpM=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/en_el_estadio_williams_gabriele_el_equipo_local_fue_contundente_y_festejo.webp"
-        },
+          "title": "Magdalena celebra sus 250 años con una agenda de festejos gratuitos",
+          "url": "https://elecos.com.ar/magdalena-celebra-sus-250-anos-con-una-agenda-de-festejos-gratuitos",
+          "published_at": "2026-11-19T11:24:45+00:00",
+          "first_seen": "2026-11-19T12:00:01.362375+00:00",
+          "category": "108",
+          "image": "https://cdnartic.ar/_0IaarrC4AwRSmelj0KyFBgyzxg=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/magdalena_y_su_costanera.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La región y provincia Añadir como fuente en Magdalena celebra sus 250 años con una agenda de festejos gratuitos El distrito bonaerense conmemora su fundación con una serie de eventos que incluyen desfiles, música en vivo y actividades culturales durante cinco jornadas. 19 de noviembre de 2026 | 08:24 Magdalena y su costanera. Ads El partido de Magdalena se prepara para celebrar sus 250 años de historia con una programación especial que se extenderá desde el jueves 19 hasta el lunes 23 de noviembre.",
+          "Los festejos incluyen una vigilia en el Teatro Español , un desfile en la Plaza San Martín y tres jornadas de recitales gratuitos en el Parque de la Memoria . Ads Fundado el 20 de noviembre de 1776, el poblado tiene sus raíces en las exploraciones de Juan de Garay realizadas en 1580. En sus inicios, el territorio fue conocido como Valle de Santa Ana y posteriormente como el Pago de la Magdalena ."
+        ],
+        "generated": "2026-11-19T13:00:51.149774+00:00"
+      },
+      "apariciones": 3,
+      "ultima_impresion": "2026-11-19T13:00:00.806573+00:00",
+      "penalizacion": 0.55
+    },
+    {
+      "key": "colegios privados debaten fusiones optimizacion recursos caida matricula",
+      "title": "Colegios privados debaten fusiones y optimización de recursos ante la caída de la matrícula",
+      "score": 0.625,
+      "sources_count": 1,
+      "first_seen": "2026-11-19T11:23:18+00:00",
+      "image": "https://cdnartic.ar/iMDH5h8uoiAUkY-WgfN7I1GKxcI=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/novedades_sobre_la_educacion_privada.webp",
+      "articles": [
+        {
+          "portal": "Ecos Diarios",
+          "title": "Colegios privados debaten fusiones y optimización de recursos ante la caída de la matrícula",
+          "url": "https://elecos.com.ar/colegios-privados-debaten-fusiones-y-optimizacion-de-recursos-ante-la-caida-de-la-matricula",
+          "published_at": "2026-11-19T11:23:18+00:00",
+          "first_seen": "2026-11-19T12:00:01.362375+00:00",
+          "category": "nacionales",
+          "image": "https://cdnartic.ar/iMDH5h8uoiAUkY-WgfN7I1GKxcI=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/novedades_sobre_la_educacion_privada.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Nacionales Añadir como fuente en Colegios privados debaten fusiones y optimización de recursos ante la caída de la matrícula Representantes de instituciones educativas analizaron el impacto de la baja natalidad y proyectan una reducción significativa de alumnos para los próximos años. 19 de noviembre de 2026 | 08:23 Novedades sobre la educación privada.",
+          "Ads El sistema educativo atraviesa una etapa de transformación marcada por una desaceleración demográfica que impacta directamente en las aulas. Durante el último Congreso Nacional de Educación organizado por la Asociación de Institutos de Enseñanza Privada de Argentina (AIEPA) , más de 400 representantes debatieron estrategias para afrontar la disminución de alumnos, una tendencia que se proyecta con fuerza hacia el año 2030."
+        ],
+        "generated": "2026-11-19T13:00:52.831374+00:00"
+      },
+      "apariciones": 3,
+      "ultima_impresion": "2026-11-19T13:00:00.806573+00:00",
+      "penalizacion": 0.55
+    },
+    {
+      "key": "yamada cup 2026 gran cosecha skif hoitsukai doble podio rosa parson",
+      "title": "Yamada Cup 2026 con gran cosecha de SKIF Hoitsukai y doble podio para Rosa Parson",
+      "score": 0.607,
+      "sources_count": 1,
+      "first_seen": "2026-11-19T12:00:17+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/85ccf615-1a3e-40ff-808b-1bb515e69fa7.webp",
+      "articles": [
         {
           "portal": "TSN Necochea",
-          "title": "Gimnasia eliminó a Huracán con goleada incluida y jugará la Promoción",
-          "url": "https://tsnnecochea.com.ar/deportes/gimnasia-elimino-a-huracan-con-goleada-incluida-y-jugara-la-promocion-242711/",
-          "published_at": "2026-11-18T21:44:16+00:00",
-          "first_seen": "2026-11-18T22:00:00.512963+00:00",
-          "category": "Gimnasia",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/Screenshot_20261118_2311312.webp"
-        },
+          "title": "Yamada Cup 2026 con gran cosecha de SKIF Hoitsukai y doble podio para Rosa Parson",
+          "url": "https://tsnnecochea.com.ar/deportes/yamada-cup-2026-con-gran-cosecha-de-skif-hoitsukai-y-doble-podio-para-rosa-parson-242728/",
+          "published_at": "2026-11-19T12:00:17+00:00",
+          "first_seen": "2026-11-19T12:00:01.362375+00:00",
+          "category": "Karate",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/85ccf615-1a3e-40ff-808b-1bb515e69fa7.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Deportes | Karate | Karate: Yamada Cup 2026 con gran cosecha de SKIF Hoitsukai y doble podio para Rosa Parson La deportista local dejó tanto a su institución como a la disciplina necochense en lo más alto de una de las citas más exigentes del calendario federativo. Por Redacción TSN 19/11/2026 · 09:00 AM Agregar TSN Necochea en E l pasado domingo 15 de noviembre, el Microestadio de la Ciudad Deportiva Don Bosco fue el escenario de una intensa jornada marcial con la realización de la Yamada Cup 2026 – Copa Nelson Vidal, certamen que funcionó además como la 4.ª Fecha del Ranking Oficial de FEDAKKO (Federación Argentina de Karate y Kobudo).",
+          "El torneo estuvo organizado por la escuela Yamada Ha Shito Ryu Shukokai Argentin a , encabezada por el Renshi Nelson Vidal."
+        ],
+        "generated": "2026-11-19T13:00:54.113998+00:00"
+      },
+      "apariciones": 3,
+      "ultima_impresion": "2026-11-19T13:00:00.806573+00:00",
+      "penalizacion": 0.55
+    },
+    {
+      "key": "barrio serie semifinales huracan necochea avanza tres arroyos",
+      "title": "Barrió la serie y está en semifinales: Huracán de Necochea avanza en Tres Arroyos",
+      "score": 0.606,
+      "sources_count": 1,
+      "first_seen": "2026-11-19T11:58:49+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/Screenshot_20261114_1856253.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Barrió la serie y está en semifinales: Huracán de Necochea avanza en Tres Arroyos",
+          "url": "https://tsnnecochea.com.ar/deportes/barrio-la-serie-y-esta-en-semifinales-huracan-de-necochea-avanza-en-tres-arroyos-242754/",
+          "published_at": "2026-11-19T11:58:49+00:00",
+          "first_seen": "2026-11-19T12:00:01.362375+00:00",
+          "category": "Básquet",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/Screenshot_20261114_1856253.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Deportes | Básquet | Básquet Barrió la serie y está en semifinales: Huracán de Necochea avanza en Tres Arroyos El Globo ganó como visitante en Claromecó y selló la clasificación. Por Redacción TSN 19/11/2026 · 08:58 AM Agregar TSN Necochea en Una vez más, Huracán de Necochea logra meterse en las semifinales del Torneo Oficial de Tres Arroyos , en este caso tras haber barrido la serie de cuartos de final por 2-0 ante Recreativo Claromecó .",
+          "Después de una victoria clara como local, el equipo de Santiago Cuñado ganó un partido más parejo como visitante, por 72-67 , y de esa manera cerró la serie a su favor para meterse en la próxima instancia, donde ya se ve en el cuadro como uno de los cuatro mejores."
+        ],
+        "generated": "2026-11-19T13:00:55.366944+00:00"
+      },
+      "apariciones": 3,
+      "ultima_impresion": "2026-11-19T13:00:00.806573+00:00",
+      "penalizacion": 0.55
+    },
+    {
+      "key": "dengue notificaron dos nuevos casos 14 fueron clasificados como probables",
+      "title": "Dengue: se notificaron dos nuevos casos y 14 fueron clasificados como probables",
+      "score": 0.592,
+      "sources_count": 1,
+      "first_seen": "2026-11-19T11:42:13+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/Aedesaegypti.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Dengue: se notificaron dos nuevos casos y 14 fueron clasificados como probables",
+          "url": "https://tsnnecochea.com.ar/nacion/dengue-se-notificaron-dos-nuevos-casos-y-14-fueron-clasificados-como-probables-242751/",
+          "published_at": "2026-11-19T11:42:13+00:00",
+          "first_seen": "2026-11-19T12:00:01.362375+00:00",
+          "category": "casos",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/Aedesaegypti.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Nación | casos | En CABA Dengue: se notificaron dos nuevos casos y 14 fueron clasificados como probables La tendencia continúa sugiriendo la interrupción de la transmisión viral autóctona sostenida en el territorio nacional.",
+          "Por Redacción TSN 19/11/2026 · 08:42 AM Agregar TSN Necochea en El Boletín Epidemiológico Nacional (BEN) correspondiente a la semana epidemiológica (SE) 44 informó que, en lo que refiere al dengue , la tendencia continúa sugiriendo la interrupción de la transmisión viral autóctona sostenida en el territorio nacional e indicó que se notificaron dos nuevos casos, ambos pertenecientes a la Ciudad Autónoma de Buenos Aires (CABA) ."
+        ],
+        "generated": "2026-11-19T13:01:02.979953+00:00"
+      },
+      "apariciones": 3,
+      "ultima_impresion": "2026-11-19T13:00:00.806573+00:00",
+      "penalizacion": 0.55
+    },
+    {
+      "key": "victoria pardo prepara nuevo desafio internacional taekwondo suena llegar mundial irlanda 2028",
+      "title": "Victoria Pardo se prepara para un nuevo desafío internacional de taekwondo y sueña con llegar al Mundial de Irlanda 2028",
+      "score": 0.505,
+      "sources_count": 1,
+      "first_seen": "2026-11-19T11:59:01+00:00",
+      "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/Del-26-al-29-de-noviembre-de-2026-Punta-del-Este-recibe-los-2o-Juegos-Mundiales-de-Taekwon-Do-I.jpg",
+      "articles": [
+        {
+          "portal": "Diario NQ",
+          "title": "Victoria Pardo se prepara para un nuevo desafío internacional de taekwondo y sueña con llegar al Mundial de Irlanda 2028",
+          "url": "https://diarionq.com.ar/victoria-pardo-se-prepara-para-un-nuevo-desafio-internacional-de-taekwondo-y-suena-con-llegar-al-mundial-de-irlanda-2028/",
+          "published_at": "2026-11-19T11:59:01+00:00",
+          "first_seen": "2026-11-19T12:00:01.362375+00:00",
+          "category": "Deportes",
+          "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/Del-26-al-29-de-noviembre-de-2026-Punta-del-Este-recibe-los-2o-Juegos-Mundiales-de-Taekwon-Do-I.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La deportista de la academia de Carlos Correa competirá en Punta del Este, donde participará en las modalidades de formas y combate. Con 11 años de trayectoria, una destacada temporada 2026 y una exigente preparación física y mental, ya tiene la mirada puesta en los selectivos para integrar la Selección Argentina y buscar un lugar en el Mundial de Irlanda 2028. Victoria Pardo atraviesa un gran presente deportivo y continúa trabajando para alcanzar nuevos objetivos dentro del taekwondo.",
+          "Con apenas 11 años de trayectoria en esta disciplina, que practica desde los siete años bajo la formación de Carlos Correa, se prepara para afrontar un nuevo compromiso internacional en Punta del Este. La deportista pasó por los micrófonos de Zoom El Deportivo, donde contó cómo viene desarrollando su preparación, repasó los resultados obtenidos durante 2026 y compartió sus expectativas de cara a las próximas competencias."
+        ],
+        "generated": "2026-11-19T13:01:11.402935+00:00"
+      },
+      "apariciones": 3,
+      "ultima_impresion": "2026-11-19T13:00:00.806573+00:00",
+      "penalizacion": 0.55
+    },
+    {
+      "key": "julian ulloa golf mi vida representa todo",
+      "title": "Julián Ulloa: “El golf en mi vida representa un todo”",
+      "score": 0.5,
+      "sources_count": 1,
+      "first_seen": "2026-11-19T11:51:34+00:00",
+      "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/51587625-152d-421b-809e-949d163d6f54-edited.jpg",
+      "articles": [
+        {
+          "portal": "Diario NQ",
+          "title": "Julián Ulloa: “El golf en mi vida representa un todo”",
+          "url": "https://diarionq.com.ar/julian-ulloa-el-golf-en-mi-vida-representa-un-todo/",
+          "published_at": "2026-11-19T11:51:34+00:00",
+          "first_seen": "2026-11-19T12:00:01.362375+00:00",
+          "category": "Deportes",
+          "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/51587625-152d-421b-809e-949d163d6f54-edited.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Tras consagrarse ganador de la categoría Scratch del tradicional Putter de Oro del Necochea Golf Club, el deportista pasó por Zoom El Deportivo, en la columna habitual de los miércoles y habló sobre su pasión por el golf, sus más de 35 años de trayectoria y el crecimiento de la institución. Además, destacó el sentido de pertenencia, el trabajo dirigencial y el carácter inclusivo de este deporte.",
+          "El Necochea Golf Club atraviesa un gran presente deportivo e institucional, y uno de sus protagonistas es Julián Ulloa, quien se quedó con el primer puesto de la categoría Scratch (sin hándicap) en la última edición del tradicional torneo Putter de Oro. En diálogo con Leo Menna y María Elena Figueroa en Zoom El Deportivo, Ulloa expresó su alegría por el triunfo y reconoció que se trató de un resultado muy especial, teniendo en cuenta la preparación que había realizado para afrontar la competencia."
+        ],
+        "generated": "2026-11-19T13:01:13.305441+00:00"
+      },
+      "apariciones": 3,
+      "ultima_impresion": "2026-11-19T13:00:00.806573+00:00",
+      "penalizacion": 0.55
+    },
+    {
+      "key": "sigue inestabilidad necochea esperan lluvias hoy hay alerta amarilla manana",
+      "title": "Sigue la inestabilidad en Necochea: se esperan lluvias hoy y hay alerta amarilla para mañana",
+      "score": 0.488,
+      "sources_count": 1,
+      "first_seen": "2026-11-19T11:33:32+00:00",
+      "image": null,
+      "articles": [
+        {
+          "portal": "Diario NQ",
+          "title": "Sigue la inestabilidad en Necochea: se esperan lluvias hoy y hay alerta amarilla para mañana",
+          "url": "https://diarionq.com.ar/sigue-la-inestabilidad-en-necochea-se-esperan-lluvias-hoy-y-hay-alerta-amarilla-para-manana/",
+          "published_at": "2026-11-19T11:33:32+00:00",
+          "first_seen": "2026-11-19T12:00:01.362375+00:00",
+          "category": "Destacadas",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El pronóstico anticipa lluvias durante la mañana de este jueves en Necochea, con una temperatura máxima de 16 grados. Además, el Servicio Meteorológico Nacional emitió una alerta amarilla por tormentas para este viernes. La probabilidad de precipitaciones para hoy se ubica entre el 10 y el 40% durante la mañana, mientras que por la tarde y la noche será baja. Se esperan ráfagas de entre 42 y 50 kilómetros por hora durante la mañana y la tarde.",
+          "Para mañana se prevén tormentas, algunas fuertes o localmente severas, principalmente durante la tarde. Podrían estar acompañadas por lluvias intensas en cortos períodos, actividad eléctrica frecuente, ocasional caída de granizo y ráfagas intensas. La temperatura oscilará entre los 12 y los 21 grados."
+        ],
+        "generated": "2026-11-19T13:01:17.696456+00:00"
+      },
+      "apariciones": 3,
+      "ultima_impresion": "2026-11-19T13:00:00.806573+00:00",
+      "penalizacion": 0.55
+    },
+    {
+      "key": "gimnasia goleo huracan jugara promocion villa parque",
+      "title": "Gimnasia goleó a Huracán y jugará la promoción ante Villa del Parque",
+      "score": 0.359,
+      "sources_count": 1,
+      "first_seen": "2026-11-19T00:42:50+00:00",
+      "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/c0ed20bd-b8ba-4e23-9c04-a051e0740e28.jpg",
+      "articles": [
         {
           "portal": "Diario NQ",
           "title": "Gimnasia goleó a Huracán y jugará la promoción ante Villa del Parque",
@@ -610,14 +688,43 @@
       ],
       "summary": {
         "paragraphs": [
-          "Deportes locales Añadir como fuente en Fútbol local: Gimnasia eliminó a Huracán y jugará por el ascenso El “Lobo” disputará la promoción ante Villa del Parque en busca de subir a la Zona A, pero del otro lado, el \"León\" contará con el objetivo de la permanencia 18 de noviembre de 2026 | 20:49 En el Estadio Williams Gabriele. El equipo local fue contundente y festejó Ads Gimnasia derrotó 3-0 a Huracán en el encuentro desarrollado en el Estadio Williams Gabriele , por la final del reducido que otorgaba un cupo para disputar la promoción ante Villa del Parque .",
-          "Tras este triunfo, el “Lobo” buscará el ascenso frente a un “León” que cuenta con el objetivo de no descender, en el presente Torneo Sergio “Giuseppe” Portugal , de la Liga Necochea de Fútbol . Ads Dylan Veloso fue quien abrió la cuenta para el “Lobo” sobre los 19’ y desde allí, Gimnasia encaminó un trámite que le resultó favorable."
+          "El Lobo se impuso por 3-0 en el estadio Williams Gabriele, se quedó con la final del reducido de la Zona B y ahora buscará el ascenso frente al León. Este lunes habrá una jornada clave y Multimedio NQ transmitirá en vivo desde las 16. Gimnasia y Esgrima consiguió una contundente victoria frente a Huracán y se quedó con la final del reducido de la Zona B del Torneo Sergio “Giuseppe” Portugal 2026.",
+          "En el estadio Williams Gabriele, el conjunto albiazul se impuso por 3-0 y aseguró su lugar en la promoción por el ascenso. Los goles del triunfo fueron convertidos por Dylan Veloso, Agustín Ledesma y Nehemías Estarli, quienes le dieron forma a una victoria que le permitió al Lobo quedarse con el reducido y mantener viva la ilusión de llegar a la Primera A. Con este resultado, Gimnasia deberá enfrentar a Villa del Parque en la promoción, una serie que definirá qué equipo jugará en la máxima categoría la próxima temporada."
         ],
-        "generated": "2026-11-19T12:30:44.213458+00:00"
+        "generated": "2026-11-19T13:01:23.606346+00:00"
       },
-      "apariciones": 28,
-      "ultima_impresion": "2026-11-19T12:30:00.536622+00:00",
-      "penalizacion": 0.0
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-19T13:00:00.806573+00:00"
+    },
+    {
+      "key": "municipalidad llamo licitacion concesionar transporte urbano colectivos",
+      "title": "La Municipalidad llamó a licitación para concesionar el transporte urbano de colectivos",
+      "score": 0.308,
+      "sources_count": 1,
+      "first_seen": "2026-11-19T11:00:35+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/02/99d20413-2e99-466c-8838-a91c7a58e370.jpg",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "La Municipalidad llamó a licitación para concesionar el transporte urbano de colectivos",
+          "url": "https://tsnnecochea.com.ar/locales/la-municipalidad-llamo-a-licitacion-para-concesionar-el-transporte-urbano-de-colectivos-242724/",
+          "published_at": "2026-11-19T11:00:35+00:00",
+          "first_seen": "2026-11-19T11:30:01.371958+00:00",
+          "category": "colectivos",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/02/99d20413-2e99-466c-8838-a91c7a58e370.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Locales | colectivos | Tercer llamado La Municipalidad llamó a licitación para concesionar el transporte urbano de colectivos El pliego de bases y condiciones tiene un valor de un millón de pesos y podrá adquirirse desde el 25 de noviembre hasta el 4 de enero de 2027. La apertura de sobres se realizará el 6 de enero en el Salón de Actos municipal y el contrato prevé una posible prórroga de seis años y ocho meses.",
+          "Por Redacción TSN 19/11/2026 · 08:00 AM Agregar TSN Necochea en La Municipalidad de Necochea oficializó el llamado a licitación pública para otorgar la concesión del servicio de transporte urbano de pasajeros en las ciudades de Necochea y Quequén , un proceso clave que definirá el funcionamiento y la estructura del sistema de colectivos del distrito durante las próximas dos décadas."
+        ],
+        "generated": "2026-11-19T13:01:04.271518+00:00"
+      },
+      "apariciones": 4,
+      "ultima_impresion": "2026-11-19T13:00:00.806573+00:00",
+      "penalizacion": 0.303
     },
     {
       "key": "1500 jugadores impacto economico millonario necochea recibe campeonato argentino futbol veteranos",
@@ -660,68 +767,10 @@
           "Con delegaciones de más de diez provincias y más de 1.500 futbolistas, Necochea será sede por primera vez del Campeonato Argentino de Fútbol para Veteranos , una competencia de alcance nacional que, además de su importancia deportiva, generará un importante movimiento económico para la ciudad . Durante su presentación oficial, los organizadores destacaron especialmente el acompañamiento y el compromiso del Estado municipal para hacer posible la llegada de un torneo de semejante dimensión.",
           "El lanzamiento se realizó este miércoles en las oficinas de la Secretaría de Turismo y Desarrollo Productivo , con la participación de su titular, Silvia Jensen ; el director de Deportes, Juan Ignacio Coria ; el tesorero de la Federación Argentina de Fútbol para Veteranos (FAFuV), Raúl Martínez ; el director deportivo de la entidad, Luis Padrones , y otro de los integrantes de la entidad, Ariel Annechini."
         ],
-        "generated": "2026-11-19T12:30:52.097107+00:00"
+        "generated": "2026-11-19T13:00:48.142971+00:00"
       },
-      "apariciones": 37,
-      "ultima_impresion": "2026-11-19T12:30:00.536622+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "como estara tiempo jueves necochea quequen",
-      "title": "Cómo estará el tiempo este jueves en Necochea y Quequén",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-11-19T04:20:59+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2024/08/576c0540-4227-403d-b37c-0a1b226d75a2.jpg",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Cómo estará el tiempo este jueves en Necochea y Quequén",
-          "url": "https://tsnnecochea.com.ar/locales/como-estara-el-tiempo-este-jueves-en-necochea-y-quequen-22-242744/",
-          "published_at": "2026-11-19T04:20:59+00:00",
-          "first_seen": "2026-11-19T04:30:01.061064+00:00",
-          "category": "pronóstico",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2024/08/576c0540-4227-403d-b37c-0a1b226d75a2.jpg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Locales | pronóstico | Clima Cómo estará el tiempo este jueves en Necochea y Quequén El Servicio Meteorológico Nacional anticipa una jornada con posibilidades de lluvias y bajará la temperatura Por Redacción TSN 19/11/2026 · 01:20 AM ¿Cómo sigue el tiempo en Necochea? Agregar TSN Necochea en Este lunes 16 de noviembre se presenta en Necochea y Quequén con condiciones meteorológicas cambiantes. El Servicio Meteorológico Nacional (SMN) prevé una jornada con cielo nublado, con tormentas y una temperatura máxima que alcanzará los 21°C.",
-          "La humedad relativa del aire se ubica en un 96 % , mientras que la presión atmosférica se mantiene alta y estable en 1003 hectopascales. El comportamiento del tiempo a lo largo del día se estructurará de la siguiente manera: Madrugada: Temperatura mínima de 12 °C con posibilidades de chaparrones. Vientos del sector Sudoeste con velocidades de hasta 22 km/h."
-        ],
-        "generated": "2026-11-19T12:31:19.958579+00:00"
-      },
-      "apariciones": 19,
-      "ultima_impresion": "2026-11-19T12:30:00.536622+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "mar prix vuelve necochea torneo cestoball combina deporte encuentro mar",
-      "title": "MAR PRIX: vuelve a Necochea el torneo de cestoball que combina deporte, encuentro y mar",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-11-19T04:01:10+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/cestoball.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "MAR PRIX: vuelve a Necochea el torneo de cestoball que combina deporte, encuentro y mar",
-          "url": "https://tsnnecochea.com.ar/deportes/mar-prix-vuelve-a-necochea-el-torneo-de-cestoball-que-combina-deporte-encuentro-y-mar-242738/",
-          "published_at": "2026-11-19T04:01:10+00:00",
-          "first_seen": "2026-11-19T04:30:01.061064+00:00",
-          "category": "Cestobol",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/cestoball.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Deportes | Cestobol | Encuentro MAR PRIX: vuelve a Necochea el torneo de cestoball que combina deporte, encuentro y mar El certamen se disputará durante tres jornadas, los días 21, 22 y 23 de noviembre, con actividad en simultáneo en el Centro Basko y el Colegio Nuestra Señora del Rosario.",
-          "Por Redacción TSN 19/11/2026 · 01:01 AM Agregar TSN Necochea en Necochea volverá a convertirse en el epicentro del cestoball regional y nacional este fin de semana con la realización de la segunda edición del torneo “MAR PRIX” , una propuesta deportiva y recreativa que convoca a delegaciones de distintos puntos del país para compartir tres jornadas de competencia junto al mar."
-        ],
-        "generated": "2026-11-19T12:31:21.347175+00:00"
-      },
-      "apariciones": 19,
-      "ultima_impresion": "2026-11-19T12:30:00.536622+00:00",
+      "apariciones": 38,
+      "ultima_impresion": "2026-11-19T13:00:00.806573+00:00",
       "penalizacion": 0.0
     },
     {
@@ -746,10 +795,10 @@
         "paragraphs": [
           "crimen de odio Triple lesbicidio de Barracas: condenaron a prisión perpetua a Justo Fernando Barrientos"
         ],
-        "generated": "2026-11-19T12:31:24.414693+00:00"
+        "generated": "2026-11-19T13:01:25.034874+00:00"
       },
-      "apariciones": 40,
-      "ultima_impresion": "2026-11-19T12:30:00.536622+00:00",
+      "apariciones": 41,
+      "ultima_impresion": "2026-11-19T13:00:00.806573+00:00",
       "penalizacion": 0.0
     },
     {
@@ -774,39 +823,10 @@
         "paragraphs": [
           "crimen de odio Triple lesbicidio de Barracas: condenaron a prisión perpetua a Justo Fernando Barrientos"
         ],
-        "generated": "2026-11-19T12:31:25.161167+00:00"
+        "generated": "2026-11-19T13:01:25.857417+00:00"
       },
-      "apariciones": 40,
-      "ultima_impresion": "2026-11-19T12:30:00.536622+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "diputados oficialismo no consiguio quorum cayo sesion ley malvinas",
-      "title": "Diputados: el oficialismo no consiguió quórum y se cayó la sesión por la Ley Malvinas",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-11-18T16:22:49+00:00",
-      "image": null,
-      "articles": [
-        {
-          "portal": "Diario NQ",
-          "title": "Diputados: el oficialismo no consiguió quórum y se cayó la sesión por la Ley Malvinas",
-          "url": "https://diarionq.com.ar/diputados-el-oficialismo-no-consiguio-quorum-y-se-cayo-la-sesion-por-la-ley-malvinas/",
-          "published_at": "2026-11-18T16:22:49+00:00",
-          "first_seen": "2026-11-18T19:03:08.365042+00:00",
-          "category": "Política",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Solo 126 legisladores se presentaron en el recinto, tres menos de los 129 necesarios para iniciar el debate. La sesión incluía, además, la reforma de la Carta Orgánica del Banco Central. El oficialismo retomará el trabajo en comisión a las 16.30 y busca llevar los proyectos al recinto la próxima semana. La Cámara de Diputados no pudo abrir la sesión prevista para este miércoles, luego de que el oficialismo no reuniera el quórum necesario para debatir la Ley de Defensa de la Soberanía Nacional, conocida como Ley Malvinas, y la reforma de la Carta Orgánica del Banco Central.",
-          "El presidente de la Cámara Baja, Martín Menem, había convocado a los legisladores para las 12. Se presentaron 126, pero se necesitaban 129 para iniciar la sesión. La ausencia de diputados de Provincias Unidas y del Movimiento de Integración y Desarrollo (MID) dejó al oficialismo sin el número requerido."
-        ],
-        "generated": "2026-11-19T12:31:27.070756+00:00"
-      },
-      "apariciones": 40,
-      "ultima_impresion": "2026-11-19T12:30:00.536622+00:00",
+      "apariciones": 41,
+      "ultima_impresion": "2026-11-19T13:00:00.806573+00:00",
       "penalizacion": 0.0
     },
     {
@@ -832,10 +852,10 @@
           "La Libertad Avanza no logró reunir los apoyos necesarios para emitir dictamen en el Senado y decidió postergar la definición hasta este miércoles. El Gobierno busca sumar el respaldo de legisladores aliados para avanzar con la reforma electoral. La reforma política impulsada por el Gobierno nacional encontró una nueva demora en el Senado.",
           "La comisión de Asuntos Constitucionales se reunió este martes para analizar el proyecto que contempla la suspensión de las Primarias Abiertas, Simultáneas y Obligatorias (PASO) para las elecciones de 2027, pero el oficialismo no consiguió reunir las firmas necesarias para emitir dictamen. Ante esta situación, La Libertad Avanza solicitó un cuarto intermedio hasta este miércoles al mediodía, con el objetivo de continuar las negociaciones y sumar el acompañamiento de legisladores aliados."
         ],
-        "generated": "2026-11-19T12:31:29.205874+00:00"
+        "generated": "2026-11-19T13:01:31.243705+00:00"
       },
-      "apariciones": 40,
-      "ultima_impresion": "2026-11-19T12:30:00.536622+00:00",
+      "apariciones": 41,
+      "ultima_impresion": "2026-11-19T13:00:00.806573+00:00",
       "penalizacion": 0.0
     },
     {
@@ -861,10 +881,10 @@
           "A través de un comunicado de Cancillería, la Argentina cuestionó las actividades oficiales de la hermana del rey Carlos III en el archipiélago. El reclamo se produce en medio de la disputa con el Reino Unido por la explotación de recursos hidrocarburíferos en la zona.",
           "El Gobierno argentino expresó su rechazo a la visita oficial que la princesa Ana, hermana del rey Carlos III, realiza en las Islas Malvinas y calificó sus actividades como una “provocación” en el contexto del conflicto de soberanía que mantiene el país con el Reino Unido. La postura fue comunicada este martes por el Ministerio de Relaciones Exteriores, a través de un documento en el que cuestionó la presencia de la integrante de la Casa Real británica en el archipiélago y volvió a denunciar la ocupación británica."
         ],
-        "generated": "2026-11-19T12:31:31.539034+00:00"
+        "generated": "2026-11-19T13:01:38.645789+00:00"
       },
-      "apariciones": 40,
-      "ultima_impresion": "2026-11-19T12:30:00.536622+00:00",
+      "apariciones": 41,
+      "ultima_impresion": "2026-11-19T13:00:00.806573+00:00",
       "penalizacion": 0.0
     },
     {
@@ -890,39 +910,10 @@
           "Con su doblete en la goleada ante Costa Rica, el joven mediocampista llegó a cinco tantos en cinco partidos y se convirtió en el máximo artillero de la Scaloneta en esta nueva etapa. Julián Álvarez lo sigue de cerca con cuatro goles. La Selección Argentina cerró el año 2026 con una contundente victoria frente a Costa Rica en el estadio Mario Alberto Kempes y tuvo nuevamente a Nicolás Paz como una de sus grandes figuras. El joven futbolista marcó dos goles y se consolidó como el máximo artillero del seleccionado en el inicio de esta nueva etapa posterior al Mundial.",
           "El jugador del Como de Italia abrió el marcador a los siete minutos del primer tiempo. Tras una buena combinación entre Julián Álvarez y Enzo Fernández, Paz apareció dentro del área y definió con un potente zurdazo para poner en ventaja al conjunto dirigido por Lionel Scaloni. Antes del descanso, el mediocampista volvió a demostrar su calidad."
         ],
-        "generated": "2026-11-19T12:31:33.416068+00:00"
-      },
-      "apariciones": 41,
-      "ultima_impresion": "2026-11-19T12:30:00.536622+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "gta vi llega argentina cuanto cuesta videojuego esperado ano",
-      "title": "GTA VI llega a la Argentina: cuánto cuesta el videojuego más esperado del año",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-11-18T10:36:07+00:00",
-      "image": null,
-      "articles": [
-        {
-          "portal": "Necochea News",
-          "title": "GTA VI llega a la Argentina: cuánto cuesta el videojuego más esperado del año",
-          "url": "https://necocheanews.com.ar/gta-vi-llega-a-la-argentina-cuanto-cuesta-el-videojuego-mas-esperado-del-ano/",
-          "published_at": "2026-11-18T10:36:07+00:00",
-          "first_seen": "2026-11-18T10:41:13.401368+00:00",
-          "category": "TECNOLOGIA",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La espera está llegando a su fin. Grand Theft Auto VI se estrenará este jueves 19 de noviembre en todo el mundo y estará disponible para PlayStation 5 y Xbox Series X|S. En Argentina, los precios finales pueden superar los $193.000, dependiendo de la consola y la edición elegida. La expectativa por el lanzamiento de Grand Theft Auto VI (GTA 6) crece a medida que se acerca la fecha de estreno.",
-          "Después de más de una década desde la llegada de GTA V, Rockstar Games prepara el lanzamiento de una nueva entrega que promete convertirse en uno de los acontecimientos más importantes de la industria de los videojuegos. En Argentina, quienes quieran adquirir el título deberán tener en cuenta las diferencias de precios entre las plataformas y los impuestos que se aplican a las compras digitales. Cuánto cuesta GTA VI en Argentina Los valores varían según la tienda y la edición seleccionada."
-        ],
-        "generated": "2026-11-19T12:31:35.826196+00:00"
+        "generated": "2026-11-19T13:01:42.482733+00:00"
       },
       "apariciones": 42,
-      "ultima_impresion": "2026-11-19T12:30:00.536622+00:00",
+      "ultima_impresion": "2026-11-19T13:00:00.806573+00:00",
       "penalizacion": 0.0
     }
   ]
