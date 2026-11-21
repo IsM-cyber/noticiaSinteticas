@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-21T13:30:00.690407+00:00",
+  "generated_at": "2026-11-21T14:00:00.739708+00:00",
   "article_count": 120,
   "fetch_errors": [],
   "stories": [
     {
       "key": "anunciaron fiesta deporte lunes 21 diciembre",
       "title": "Anunciaron la Fiesta del Deporte para el lunes 21 de diciembre",
-      "score": 1.237,
+      "score": 1.187,
       "sources_count": 2,
       "first_seen": "2026-11-21T03:55:02+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/IMG_20261120_194054-1-scaled.webp",
@@ -35,190 +35,285 @@
           "TSN Necochea | ‹ VOLVER | Deportes | Periodistas Deportivos Anunciaron la Fiesta del Deporte para el lunes 21 de diciembre Se viene una nueva entrega de los premios Puente Colgante. Por Redacción TSN 21/11/2026 · 12:55 AM Agregar TSN Necochea en El Círculo de Periodistas Deportivos de Necochea presentó este viernes la 27ma Fiesta del Deporte “Juan Alberto Poteca”, cuya entrega de los premios Puente Colgante fue anunciada para el lunes 21 de diciembre en el Salón de Fiestas del Club Del Valle.",
           "El lanzamiento se hizo precisamente en el Apart del Complejo Las Barrancas del Club Del Valle junto a los dirigentes de la entidad, donde el presidente del Círculo, Luciano Badie, comunicó los principales detalles de la fiesta venidera. Agradeciendo el acompañamiento de cada año de Del Valle para con el Círculo, Badie anunció que la Fiesta del Deporte 2026 se desdoblará nuevamente, como lo viene haciendo en esta década."
         ],
-        "generated": "2026-11-21T13:30:36.314688+00:00"
+        "generated": "2026-11-21T14:01:00.979897+00:00"
+      },
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-21T14:00:00.739708+00:00",
+      "penalizacion": 1.0
+    },
+    {
+      "key": "riesgo pais supero 000 puntos economistas explican causas consecuencias",
+      "title": "Por qué el riesgo país superó los 1.000 puntos: economistas explican causas y consecuencias",
+      "score": 1.153,
+      "sources_count": 1,
+      "first_seen": "2026-11-21T13:31:29+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/540-13.avif",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Por qué el riesgo país superó los 1.000 puntos: economistas explican causas y consecuencias",
+          "url": "https://tsnnecochea.com.ar/nacion/por-que-el-riesgo-pais-supero-los-1-000-puntos-economistas-explican-causas-y-consecuencias-242955/",
+          "published_at": "2026-11-21T13:31:29+00:00",
+          "first_seen": "2026-11-21T14:00:00.739708+00:00",
+          "category": "Argentina",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/540-13.avif"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Nación | Argentina | Economía Por qué el riesgo país superó los 1.000 puntos: economistas explican causas y consecuencias La economía, el escenario político y el contexto internacional presionan sobre las expectativas. Por Redacción TSN 21/11/2026 · 10:31 AM El riesgo país de la Argentina volvió a bajar y cerró la jornada en 860 puntos básicos.",
+          "Foto: Agencia NA (Archivo) Agregar TSN Necochea en El riesgo país volvió a superar los 1.000 puntos básicos, alcanzó su nivel más alto para los últimos doce meses y llegó a ubicarse por encima de los 1.070 durante la jornada del viernes, mientras que el dólar también subió y el mayorista arribó a un nuevo máximo nominal, en un escenario de mayor búsqueda por cobertura cambiaria y en el que la discusión electoral de 2027 parece haberse adelantado. El riesgo país de la Argentina volvió a bajar y cerró la jornada en 860 puntos básicos."
+        ],
+        "generated": "2026-11-21T14:01:02.054963+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-21T13:30:00.690407+00:00"
+      "ultima_impresion": "2026-11-21T14:00:00.739708+00:00"
     },
     {
-      "key": "fuerte temporal golpeo mar plata granizo calles anegadas necochea tormenta paso largo",
-      "title": "Un fuerte temporal golpeó Mar del Plata con granizo y calles anegadas: en Necochea la tormenta pasó de largo",
+      "key": "detuvieron necochea sospechoso vinculado robos panaderias",
+      "title": "Detuvieron en Necochea a un sospechoso vinculado con los robos a las panaderias",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-11-21T13:30:00.690407+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/95bebb494273ceb4ff85744f4a5315cfef825695.jpg",
+      "first_seen": "2026-11-21T14:00:00.739708+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/523659dd8eb8a5bd7c03b3265178742ec4916b96.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Un fuerte temporal golpeó Mar del Plata con granizo y calles anegadas: en Necochea la tormenta pasó de largo",
-          "url": "https://necocheadigital.com/nota/120251/un-fuerte-temporal-golpeo-mar-del-plata-con-granizo-y-calles-anegadas-en-necochea-la-tormenta-paso-de-largo/",
+          "title": "Detuvieron en Necochea a un sospechoso vinculado con los robos a las panaderias",
+          "url": "https://necocheadigital.com/nota/120250/detuvieron-en-necochea-a-un-sospechoso-vinculado-con-los-robos-a-las-panaderias/",
           "published_at": null,
-          "first_seen": "2026-11-21T13:30:00.690407+00:00",
+          "first_seen": "2026-11-21T14:00:00.739708+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "Un fuerte temporal afectó este viernes por la tarde a Mar del Plata, con caída de granizo, calles anegadas y complicaciones para circular en distintos barrios. El fenómeno se produjo poco después de que el Servicio Meteorológico Nacional (SMN) emitiera un aviso a muy corto plazo por tormentas severas, con ráfagas de viento y ocasional caída de granizo. Pasadas las 17, comenzaron a registrarse las primeras consecuencias del temporal en diferentes sectores de la ciudad.",
-          "Vecinos compartieron imágenes que mostraban importantes acumulaciones de agua en las calles, desagües que no lograban escurrir y dificultades para el tránsito. Las situaciones más complicadas se observaron en zonas periféricas, donde el agua acumulada y la formación de barro dificultaron la circulación de vehículos. Además, la caída de granizo llevó a numerosos automovilistas a buscar refugio bajo techo, lo que generó mayores inconvenientes en el tránsito."
+          "Una investigación llevada adelante por el Gabinete Técnico Operativo de la Comisaría Primera de Necochea permitió aprehender a un hombre que estaría vinculado con once hechos delictivos cometidos contra distintos comercios de la ciudad, entre ellos asaltos a panaderías, kioscos y autoservicios. En el marco de los mismos procedimientos también fue aprehendida una mujer, quien es investigada por su presunta participación en siete de los episodios. Una investigación basada en cámaras y testimonios Para avanzar con la causa, los investigadores realizaron tareas de campo, recolectaron declaraciones testimoniales y analizaron registros de cámaras de seguridad privadas y del Centro de Operaciones y Monitoreo (COM).",
+          "También llevaron adelante verificaciones en redes sociales. A partir de las pruebas reunidas, la Justicia otorgó tres órdenes de allanamiento a través del Juzgado de Garantías N.º 1."
         ],
-        "generated": "2026-11-21T13:30:37.393081+00:00"
+        "generated": "2026-11-21T14:01:03.161629+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-21T13:30:00.690407+00:00"
+      "ultima_impresion": "2026-11-21T14:00:00.739708+00:00"
     },
     {
-      "key": "dolar volvio marcar record riesgo pais supero 060 puntos",
-      "title": "El dólar volvió a marcar un récord y el riesgo país superó los 1.060 puntos",
+      "key": "colectivos tiempo indeterminado nueva medida fuerza",
+      "title": "Sin colectivos por tiempo indeterminado tras una nueva medida de fuerza",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-11-21T13:30:00.690407+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/c9fd92d4cdf901ead831119d2e1b154ef4a308f3.jpg",
+      "first_seen": "2026-11-21T14:00:00.739708+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/b14ee82842435fb5ed21b9afde7dd25c3bc736ca.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "El dólar volvió a marcar un récord y el riesgo país superó los 1.060 puntos",
-          "url": "https://necocheadigital.com/nota/120248/el-dolar-volvio-a-marcar-un-record-y-el-riesgo-pais-supero-los-1-060-puntos/",
+          "title": "Sin colectivos por tiempo indeterminado tras una nueva medida de fuerza",
+          "url": "https://necocheadigital.com/nota/120252/sin-colectivos-por-tiempo-indeterminado-tras-una-nueva-medida-de-fuerza/",
           "published_at": null,
-          "first_seen": "2026-11-21T13:30:00.690407+00:00",
+          "first_seen": "2026-11-21T14:00:00.739708+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "La jornada financiera de este viernes 20 de noviembre estuvo marcada por una nueva escalada del dólar y un fuerte deterioro de los activos argentinos en los mercados internacionales. Mientras la cotización mayorista alcanzó un máximo nominal de $1.580, el riesgo país superó los 1.060 puntos básicos, en un escenario de creciente incertidumbre para los inversores. El dólar mayorista avanzó $15 durante la rueda, equivalente a una suba del 1%, y acumuló en noviembre un incremento de $46, cercano al 3%.",
-          "Según los datos difundidos, el Banco Central no intervino en el mercado cambiario, pese a que el volumen de operaciones se aproximó a los 600 millones de dólares. En el segmento minorista, el dólar cerró a $1.595 para la venta en el Banco Nación, mientras que el promedio de las entidades financieras informado por el BCRA se ubicó en $1.601,32. Por su parte, el dólar blue trepó $35 y llegó a los $1.675."
+          "El transporte público de pasajeros de Necochea quedó interrumpido este viernes por la noche, luego de que los choferes de colectivos resolvieran iniciar una medida de fuerza por tiempo indeterminado. La decisión fue tomada ante el incumplimiento de la Compañía de Transportes Necochea S.A. respecto del compromiso asumido para cancelar deudas salariales pendientes. El conflicto se reactivó luego de que la empresa no pudiera abonar el 20% de lo establecido en el convenio firmado semanas atrás.",
+          "Ese acuerdo contemplaba un cronograma de pagos en cuotas para regularizar los sueldos adeudados y otros atrasos económicos. Cabe recordar que los trabajadores ya habían realizado una medida de fuerza semanas atrás por la falta de pago de haberes. En aquella oportunidad, tras varios días de conflicto, las partes habían alcanzado un entendimiento que permitió restablecer el servicio."
         ],
-        "generated": "2026-11-21T13:30:38.468966+00:00"
+        "generated": "2026-11-21T14:01:03.814739+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-21T13:30:00.690407+00:00"
+      "ultima_impresion": "2026-11-21T14:00:00.739708+00:00"
     },
     {
-      "key": "liga necochea definio cronograma semifinales promocion final femenina",
-      "title": "La Liga Necochea definió el cronograma de semifinales, Promoción y la final femenina",
+      "key": "pity alvarez condenado 12 anos prision crimen cristian diaz tendra prision domiciliaria",
+      "title": "Pity Álvarez fue condenado a 12 años de prisión por el crimen de Cristian Díaz: tendrá prisión domiciliaria",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-11-21T13:30:00.690407+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261120172329_whatsapp-image-2026-11-20-at-17-23-17.jpg",
+      "first_seen": "2026-11-21T14:00:00.739708+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/ead34e6b9ac33f2c56b105bb1bb2b2ad5551409b.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "La Liga Necochea definió el cronograma de semifinales, Promoción y la final femenina",
-          "url": "https://necocheadigital.com/nota/120249/la-liga-necochea-definio-el-cronograma-de-semifinales-promocion-y-la-final-femenina/",
+          "title": "Pity Álvarez fue condenado a 12 años de prisión por el crimen de Cristian Díaz: tendrá prisión domiciliaria",
+          "url": "https://necocheadigital.com/nota/120246/pity-alvarez-fue-condenado-a-12-anos-de-prision-por-el-crimen-de-cristian-diaz-tendra-prision-domiciliaria/",
           "published_at": null,
-          "first_seen": "2026-11-21T13:30:00.690407+00:00",
+          "first_seen": "2026-11-21T14:00:00.739708+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "La Liga Necochea de Fútbol confirmó el cronograma oficial para el tramo decisivo del Torneo Sergio “Giuseppe” Portugal 2026, cuya actividad principal de Primera División masculina se concentrará el próximo lunes 23 de noviembre. En esa jornada se disputarán los partidos de ida de las semifinales y el primer cruce de la Promoción entre las zonas A y B, mientras que el domingo 22 se abrirá la final del Torneo Clausura femenino.",
-          "La acción de la máxima categoría comenzará el domingo a las 16.30 en el estadio Vasco Iparraguirre, donde Villa Díaz Vélez recibirá a Sportivo San Cayetano en el duelo de ida de la final femenina."
+          "El Tribunal Oral en lo Criminal y Correccional (TOCC) N° 29, integrado por los jueces Gustavo Goerner , Juan María Ramos Padilla y Hugo Navarro , condenó a Cristian Álvarez Congiu, popularmente conocido como Pity Álvarez , a la pena de 12 años de prisión por el homicidio de Cristian Díaz , crimen ocurrido el 12 de julio de 2018 en el barrio Cardenal Samoré, en Villa Lugano. El músico no estuvo en la sala: el tribunal no autorizó su traslado desde la clínica de rehabilitación en la que está internado de forma compulsiva.",
+          "Sin embargo, sí apareció por videollamada para hacer uso de su derecho a decir sus últimas palabras antes de que los magistratos se retiraran a deliberar. Pero no se conectó para escuchar la sentencia El tribunal dispuso que la pena sea cumplida bajo arresto domiciliario una vez que termine su internación."
         ],
-        "generated": "2026-11-21T13:30:39.112339+00:00"
+        "generated": "2026-11-21T14:01:04.476898+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-21T13:30:00.690407+00:00"
+      "ultima_impresion": "2026-11-21T14:00:00.739708+00:00"
     },
     {
-      "key": "virginia aparicio cientifica necochense exonerada inta trabajamos mejorar calidad nuestra vida no enriquecernos",
-      "title": "Virginia Aparicio, la científica necochense exonerada del INTA: “Trabajamos para mejorar la calidad de nuestra vida, no para enriquecernos”",
+      "key": "necochea participo encuentro federal primera infancia recibira mencion trabajo programa muna",
+      "title": "Necochea participó del Encuentro Federal de Primera Infancia y recibirá una mención por su trabajo en el programa MUNA",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-11-21T13:30:00.690407+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/d300809aa4d72d7329594a3bb13da0b3f4c21a12.jpg",
+      "first_seen": "2026-11-21T14:00:00.739708+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261120164506_foto-primera-infancia2.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Virginia Aparicio, la científica necochense exonerada del INTA: “Trabajamos para mejorar la calidad de nuestra vida, no para enriquecernos”",
-          "url": "https://necocheadigital.com/nota/120243/virginia-aparicio-la-cientifica-necochense-exonerada-del-inta-trabajamos-para-mejorar-la-calidad-de-nuestra-vida-no-para-enriquecernos/",
+          "title": "Necochea participó del Encuentro Federal de Primera Infancia y recibirá una mención por su trabajo en el programa MUNA",
+          "url": "https://necocheadigital.com/nota/120244/necochea-participo-del-encuentro-federal-de-primera-infancia-y-recibira-una-mencion-por-su-trabajo-en-el-programa-muna/",
           "published_at": null,
-          "first_seen": "2026-11-21T13:30:00.690407+00:00",
+          "first_seen": "2026-11-21T14:00:00.739708+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "Virginia Aparicio nació en San Cayetano, pero se crió desde pequeña en Necochea. Ingeniera agrónoma, doctora en Ciencias Agrarias e investigadora del INTA Balcarce, desarrolló durante más de dos décadas trabajos vinculados con la degradación de los suelos y el impacto de las prácticas agropecuarias sobre los recursos naturales. En una entrevista con Quimey Marfil, por Radio Noticias Necochea 97.3, repasó su trayectoria, explicó los resultados de un proyecto científico internacional sobre agroquímicos y contó cómo atravesó el proceso administrativo que derivó en su exoneración del INTA.",
-          "“Soy prácticamente necochense”, expresó al recordar que sus padres se mudaron a Necochea cuando ella tenía apenas 11 meses. Estudió en la Escuela Nº 12 y en el Colegio Danés, y luego se formó en la Facultad de Ciencias Agrarias de la Universidad Nacional de Mar del Plata, en Balcarce. Ingresó al INTA en 2004 y desarrolló allí su carrera profesional."
+          "En representación del Ejecutivo local participó la secretaria de Desarrollo Humano y Políticas Sociales, Sandra Antenucci , quien formó parte de esta jornada de intercambio destinada a fortalecer las políticas integrales para la primera infancia desde el ámbito local.",
+          "El encuentro reunió a ministros provinciales, intendentes, equipos técnicos municipales y referentes de organizaciones de la sociedad civil, con el objetivo de compartir experiencias y debatir estrategias vinculadas al rol de los Centros de Desarrollo Infantil (CDI), la articulación entre las áreas de salud, educación y desarrollo humano, y la generación de información estratégica para garantizar igualdad de oportunidades."
         ],
-        "generated": "2026-11-21T13:30:39.779255+00:00"
+        "generated": "2026-11-21T14:01:05.581713+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-21T13:30:00.690407+00:00"
+      "ultima_impresion": "2026-11-21T14:00:00.739708+00:00"
     },
     {
-      "key": "avanza extension red cloacal campo scout proyectan futuras conexiones zona",
-      "title": "Avanza la extensión de la red cloacal hasta el Campo Scout y proyectan futuras conexiones para la zona",
+      "key": "moto conductor volvio sorprender necochea ocurrido episodio similar 2024",
+      "title": "Una moto sin conductor volvió a sorprender en Necochea: ya había ocurrido un episodio similar en 2024",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-11-21T13:30:00.690407+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/4d9cc587d6a720fbe0d9eadb5876ffc6919ca7e6.jpg",
+      "first_seen": "2026-11-21T14:00:00.739708+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/229f9b9b0d0d178037ee9f690dd9c5d9a096fece.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Avanza la extensión de la red cloacal hasta el Campo Scout y proyectan futuras conexiones para la zona",
-          "url": "https://necocheadigital.com/nota/120240/avanza-la-extension-de-la-red-cloacal-hasta-el-campo-scout-y-proyectan-futuras-conexiones-para-la-zona/",
+          "title": "Una moto sin conductor volvió a sorprender en Necochea: ya había ocurrido un episodio similar en 2024",
+          "url": "https://necocheadigital.com/nota/120241/una-moto-sin-conductor-volvio-a-sorprender-en-necochea-ya-habia-ocurrido-un-episodio-similar-en-2024/",
           "published_at": null,
-          "first_seen": "2026-11-21T13:30:00.690407+00:00",
+          "first_seen": "2026-11-21T14:00:00.739708+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "Una obra de infraestructura comenzó a ejecutarse en el sector del Centro Scout de Necochea, a partir del compromiso asumido entre el Municipio, encabezado por el intendente Arturo Rojas, y la Asociación Civil Scout Argentina. Los trabajos tienen como objetivo extender la red cloacal hasta el predio ubicado en avenida 10 y calle 139, donde se desarrollan encuentros y actividades que convocan a una importante cantidad de personas. La intervención contempla la colocación de aproximadamente 1.300 metros de cañería de impulsión, que se extenderán desde la calle 139 hasta la 117, punto en el que se realizará la conexión con una estación de bombeo existente.",
-          "El inicio de las tareas fue supervisado por el secretario de Planeamiento, Obras y Servicios Públicos, Adrián Furno, y el subsecretario del área, Lisandro Dones. El Municipio tendrá a su cargo la fiscalización de los trabajos."
+          "Una situación tan curiosa como inesperada se vivió en la zona de calles 78 y 43 de Necochea, donde una moto pasó frente a tres jóvenes sin que hubiera una persona conduciéndola. Las imágenes muestran el momento en que los chicos advierten lo que está sucediendo. Primero se miran sorprendidos, como intentando comprender la escena, y segundos después uno de ellos sale corriendo detrás del vehículo para tratar de alcanzarlo.",
+          "El episodio quedó registrado en video y llamó la atención por lo insólito de la situación. Por el momento, no trascendieron detalles sobre las circunstancias que provocaron que la moto circulara sin conductor. Ver esta publicación en Instagram Una publicación compartida de Necochea Digital (@necocheadigital) Un antecedente registrado por las cámaras del COM Lo curioso es que no se trata de la primera vez que una situación de estas características queda registrada en Necochea."
         ],
-        "generated": "2026-11-21T13:30:40.821337+00:00"
+        "generated": "2026-11-21T14:01:06.661543+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-21T13:30:00.690407+00:00"
+      "ultima_impresion": "2026-11-21T14:00:00.739708+00:00"
     },
     {
-      "key": "advierten posible paro colectivos viernes 18 no completan sueldos octubre",
-      "title": "Advierten por un posible paro de colectivos desde este viernes a las 18 si no se completan los sueldos de octubre",
+      "key": "afiche invisible hizo visible rincones sociedad francesa",
+      "title": "El afiche de Invisible que se hizo visible entre los rincones de la Sociedad Francesa",
       "score": 1.1,
       "sources_count": 1,
-      "first_seen": "2026-11-21T13:30:00.690407+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261119174818_01-02-foto-colectivos-festival.jpg",
+      "first_seen": "2026-11-21T14:00:00.739708+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/64818b3cee8b7b32aebd155e5e3478a40cfbbc89.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Advierten por un posible paro de colectivos desde este viernes a las 18 si no se completan los sueldos de octubre",
-          "url": "https://necocheadigital.com/nota/120237/advierten-por-un-posible-paro-de-colectivos-desde-este-viernes-a-las-18-si-no-se-completan-los-sueldos-de-octubre/",
+          "title": "El afiche de Invisible que se hizo visible entre los rincones de la Sociedad Francesa",
+          "url": "https://necocheadigital.com/nota/120238/el-afiche-de-invisible-que-se-hizo-visible-entre-los-rincones-de-la-sociedad-francesa/",
           "published_at": null,
-          "first_seen": "2026-11-21T13:30:00.690407+00:00",
+          "first_seen": "2026-11-21T14:00:00.739708+00:00",
           "category": null,
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "El servicio de transporte urbano de pasajeros en Necochea y Quequén atraviesa nuevamente horas decisivas y podría interrumpirse este viernes 20 de noviembre a partir de las 18:00. Según advirtieron fuentes vinculadas al sector gremial y trabajadores del volante, comenzará una retención de tareas inmediata si para ese horario límite no se acredita el 20% pendiente de los salarios correspondientes al mes de octubre.",
-          "La fecha de vencimiento responde al acta acuerdo firmada el pasado 30 de octubre en la delegación local del Ministerio de Trabajo, entendimiento que permitió destrabar un conflicto previo tras varios días sin circulación. Durante este jueves 19, las unidades continúan prestando servicio con normalidad mientras los choferes aguardan que se complete el depósito en sus cuentas sueldo."
+          "Hay hallazgos que trascienden el valor de un objeto. Algunos tienen la capacidad de recuperar historias, despertar recuerdos y conectar a una ciudad con momentos irrepetibles de su pasado. Eso ocurrió en la Sociedad Francesa de Socorros Mutuos de Necochea, donde, entre antiguos papeles y documentación guardada durante décadas, apareció un afiche original que anunciaba la presentación de Invisible en el Cine Teatro París.",
+          "El documento corresponde al 19 de febrero de 1974 y promocionaba dos “sensacionales recitales de rock”, previstos para las 21:30 y las 23:30. La banda que encabezaba aquella propuesta estaba integrada por tres músicos fundamentales de la historia del rock argentino: Luis Alberto Spinetta, en guitarra y voz; Héctor “Pomo” Lorenzo, en batería; y Carlos “Machi” Rufino, en bajo. Sin embargo, aquella noche tuvo una particularidad: finalmente se realizó una sola presentación, ante un público que apenas alcanzó las 40 personas."
         ],
-        "generated": "2026-11-21T13:30:41.488638+00:00"
+        "generated": "2026-11-21T14:01:07.704193+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-21T13:30:00.690407+00:00"
+      "ultima_impresion": "2026-11-21T14:00:00.739708+00:00"
+    },
+    {
+      "key": "categoria 2015 mataderos prepara representar necochea importante torneo defensa justicia",
+      "title": "La categoría 2015 de Mataderos se prepara para representar a Necochea en un importante torneo en Defensa y Justicia",
+      "score": 0.992,
+      "sources_count": 1,
+      "first_seen": "2026-11-21T13:53:56+00:00",
+      "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/a95e3550-2612-4745-8c07-085d35dd9ef7.jpg",
+      "articles": [
+        {
+          "portal": "Diario NQ",
+          "title": "La categoría 2015 de Mataderos se prepara para representar a Necochea en un importante torneo en Defensa y Justicia",
+          "url": "https://diarionq.com.ar/la-categoria-2015-de-mataderos-se-prepara-para-representar-a-necochea-en-un-importante-torneo-en-defensa-y-justicia/",
+          "published_at": "2026-11-21T13:53:56+00:00",
+          "first_seen": "2026-11-21T14:00:00.739708+00:00",
+          "category": "Deportes",
+          "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/a95e3550-2612-4745-8c07-085d35dd9ef7.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Trece pequeños futbolistas viajarán a Florencio Varela para participar de una competencia nacional que se desarrollará del 11 al 13 de diciembre. Las familias trabajan desde septiembre para reunir los fondos necesarios y afrontar un presupuesto cercano a los 8 millones de pesos entre transporte y alojamiento. La ilusión de vivir una experiencia inolvidable mueve a los chicos de la categoría 2015 del Club Mataderos, que tendrán la oportunidad de participar de un importante torneo de fútbol infantil organizado por Defensa y Justicia, en su complejo deportivo de Florencio Varela, provincia de Buenos Aires.",
+          "La competencia se desarrollará entre el 11 y el 13 de diciembre y contará con la presencia de 13 jugadores de la institución necochense, quienes viajarán acompañados por sus familias y el cuerpo técnico. También participará el Club Ministerio con su categoría 2015, que recibió la invitación para formar parte del certamen."
+        ],
+        "generated": "2026-11-21T14:01:11.214326+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-21T14:00:00.739708+00:00"
+    },
+    {
+      "key": "criticas rojas libertarios locales pretenden dar catedra necochea no aportan ninguna idea",
+      "title": "Críticas de Rojas a Libertarios locales: “Pretenden dar cátedra en Necochea y no aportan ninguna idea”",
+      "score": 0.737,
+      "sources_count": 2,
+      "first_seen": "2026-11-21T12:00:56+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/rojas-logi-2-scaled.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Críticas de Rojas a Libertarios locales: “Pretenden dar cátedra en Necochea y no aportan ninguna idea”",
+          "url": "https://tsnnecochea.com.ar/locales/criticas-de-rojas-a-libertarios-locales-pretenden-dar-catedra-en-necochea-y-no-aportan-ninguna-idea-242912/",
+          "published_at": "2026-11-21T12:00:56+00:00",
+          "first_seen": "2026-11-21T12:30:00.691500+00:00",
+          "category": "Arturo Rojas",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/rojas-logi-2-scaled.webp"
+        },
+        {
+          "portal": "Necochea Digital",
+          "title": "Rojas apuntó contra La Libertad Avanza: “Pretenden dar cátedra en Necochea y no aportan ninguna idea”",
+          "url": "https://necocheadigital.com/nota/120254/rojas-apunto-contra-la-libertad-avanza-pretenden-dar-catedra-en-necochea-y-no-aportan-ninguna-idea/",
+          "published_at": null,
+          "first_seen": "2026-11-21T14:00:00.739708+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Locales | Arturo Rojas | Congre de Logística Críticas de Rojas a Libertarios locales: “Pretenden dar cátedra en Necochea y no aportan ninguna idea” En el cierre del XII Congreso de Logística, Puertos y Comercio Exterior, el intendente de Necochea cuestionó con dureza la ausencia del Estado Nacional en obras viales e hídricas, reclamó por el destino del 28% de los impuestos a los combustibles y criticó la presencia de dirigentes libertarios en un ámbito universitario afectado por el desfinanciamiento."
+        ],
+        "generated": "2026-11-21T14:00:57.647360+00:00"
+      },
+      "apariciones": 4,
+      "ultima_impresion": "2026-11-21T14:00:00.739708+00:00",
+      "penalizacion": 0.303
     },
     {
       "key": "detienen hombre mujer acusados seguidilla robos panaderias kioscos",
       "title": "Detienen a un hombre y una mujer acusados de una seguidilla de robos a panaderías y kioscos",
-      "score": 0.598,
+      "score": 0.316,
       "sources_count": 1,
       "first_seen": "2026-11-21T12:19:12+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/Screenshot_20261121_102357_Gallery.webp",
@@ -238,16 +333,16 @@
           "TSN Necochea | ‹ VOLVER | Locales | asalto | Procedimiento policial Detienen a un hombre y una mujer acusados de una seguidilla de robos a panaderías y kioscos La investigación incluyó el análisis de cámaras del COM y redes sociales. Se secuestraron prendas de vestir reconocidas en las denuncias y una munición calibre 9 mm. Por Redacción TSN 21/11/2026 · 09:19 AM Agregar TSN Necochea en Tras una labor de inteligencia, personal del Gabinete Técnico Operativo (GTO) de la Comisaría Primera de Necochea logró aprehender a un hombre señalado como el presunto autor de al menos 11 hechos delictivos contra comercios locales, principalmente panaderías, kioscos y autoservicios .",
           "This browser does not support the video element. ​En los mismos procedimientos fue aprehendida una mujer , investigada por su presunta coautoría en siete de los atracos ."
         ],
-        "generated": "2026-11-21T13:30:42.538602+00:00"
+        "generated": "2026-11-21T14:01:08.779817+00:00"
       },
-      "apariciones": 3,
-      "ultima_impresion": "2026-11-21T13:30:00.690407+00:00",
-      "penalizacion": 0.55
+      "apariciones": 4,
+      "ultima_impresion": "2026-11-21T14:00:00.739708+00:00",
+      "penalizacion": 0.303
     },
     {
       "key": "boca quiere reencontrarse gloria nivel internacional",
       "title": "Boca quiere reencontrarse con la gloria a nivel internacional",
-      "score": 0.593,
+      "score": 0.313,
       "sources_count": 1,
       "first_seen": "2026-11-21T12:13:41+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/bocabarranquilla-1024x683-1.webp",
@@ -267,44 +362,45 @@
           "TSN Necochea | ‹ VOLVER | Deportes | Boca | Copa Sudamericana Boca quiere reencontrarse con la gloria a nivel internacional El \"xeneize\" disputa la final frente a Atlético Mineiro en Barranquilla, Colombia. Su último título internacional fue la Recopa Sudamericana de 2008.",
           "Por Redacción TSN 21/11/2026 · 09:13 AM Agregar TSN Necochea en Boca afrontará este sábado la final de la Copa Sudamericana frente a Atlético Mineiro, desde las 19.30 (hora argentina) en el estadio Metropolitano de Barranquilla , con el objetivo de conquistar su tercer título y convertirse en el máximo ganador de la competencia. El equipo argentino llega a la definición en su mejor momento de la temporada, respaldado por una racha de seis victorias consecutivas y después de ganar un trofeo al quedar en el primer puesto de la tabla anual del fútbol argentino."
         ],
-        "generated": "2026-11-21T13:30:43.235250+00:00"
+        "generated": "2026-11-21T14:01:09.483677+00:00"
       },
-      "apariciones": 3,
-      "ultima_impresion": "2026-11-21T13:30:00.690407+00:00",
-      "penalizacion": 0.55
+      "apariciones": 4,
+      "ultima_impresion": "2026-11-21T14:00:00.739708+00:00",
+      "penalizacion": 0.303
     },
     {
-      "key": "criticas rojas libertarios locales pretenden dar catedra necochea no aportan ninguna idea",
-      "title": "Críticas de Rojas a Libertarios locales: “Pretenden dar cátedra en Necochea y no aportan ninguna idea”",
-      "score": 0.583,
+      "key": "fuerte accidente auto moto avenida 75 86",
+      "title": "Fuerte accidente entre un auto y una moto en avenida 75 y 86",
+      "score": 0.236,
       "sources_count": 1,
-      "first_seen": "2026-11-21T12:00:56+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/rojas-logi-2-scaled.webp",
+      "first_seen": "2026-11-20T20:41:10+00:00",
+      "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-20-at-5.29.24-PM.jpeg",
       "articles": [
         {
-          "portal": "TSN Necochea",
-          "title": "Críticas de Rojas a Libertarios locales: “Pretenden dar cátedra en Necochea y no aportan ninguna idea”",
-          "url": "https://tsnnecochea.com.ar/locales/criticas-de-rojas-a-libertarios-locales-pretenden-dar-catedra-en-necochea-y-no-aportan-ninguna-idea-242912/",
-          "published_at": "2026-11-21T12:00:56+00:00",
-          "first_seen": "2026-11-21T12:30:00.691500+00:00",
-          "category": "Arturo Rojas",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/rojas-logi-2-scaled.webp"
+          "portal": "Diario NQ",
+          "title": "Fuerte accidente entre un auto y una moto en avenida 75 y 86",
+          "url": "https://diarionq.com.ar/fuerte-accidente-entre-un-auto-y-una-moto-en-avenida-75-y-86/",
+          "published_at": "2026-11-20T20:41:10+00:00",
+          "first_seen": "2026-11-21T14:00:00.739708+00:00",
+          "category": "Policiales",
+          "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-20-at-5.29.24-PM.jpeg"
         }
       ],
       "summary": {
         "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Locales | Arturo Rojas | Congre de Logística Críticas de Rojas a Libertarios locales: “Pretenden dar cátedra en Necochea y no aportan ninguna idea” En el cierre del XII Congreso de Logística, Puertos y Comercio Exterior, el intendente de Necochea cuestionó con dureza la ausencia del Estado Nacional en obras viales e hídricas, reclamó por el destino del 28% de los impuestos a los combustibles y criticó la presencia de dirigentes libertarios en un ámbito universitario afectado por el desfinanciamiento."
+          "Un fuerte accidente de tránsito se registró en la intersección de avenida 75 y calle 86, donde un automóvil y una motocicleta protagonizaron un violento choque. Según las primeras informaciones, el automóvil habría realizado un giro hacia la izquierda, una maniobra prohibida en ese sector, y terminó impactando contra la motocicleta, que circulaba por avenida 75 en dirección hacia la playa. Como consecuencia del impacto, la conductora de la moto y su acompañante cayeron sobre el asfalto varios metros más adelante.",
+          "La mujer llevaba colocado el casco al momento del accidente, aunque sufrió un fuerte golpe en la cabeza y debió ser trasladada al hospital para recibir atención médica. Por el momento, se aguardan mayores precisiones sobre el estado de salud de la motociclista y sobre las circunstancias exactas en las que se produjo el siniestro."
         ],
-        "generated": "2026-11-21T13:30:44.247031+00:00"
+        "generated": "2026-11-21T14:01:26.748621+00:00"
       },
-      "apariciones": 3,
-      "ultima_impresion": "2026-11-21T13:30:00.690407+00:00",
-      "penalizacion": 0.55
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-21T14:00:00.739708+00:00"
     },
     {
       "key": "informe unicen ruta 88 119 muertos 194 heridos 2005 octubre 2026",
       "title": "Informe de la UNICEN sobre la Ruta 88: 119 muertos y 194 heridos entre 2005 y octubre de 2026",
-      "score": 0.162,
+      "score": 0.086,
       "sources_count": 1,
       "first_seen": "2026-11-21T11:00:25+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-20-at-21.56.59.webp",
@@ -324,11 +420,11 @@
           "TSN Necochea | ‹ VOLVER | Locales | Congreso de Logistica | Congreso de Logística Informe de la UNICEN sobre la Ruta 88: 119 muertos y 194 heridos entre 2005 y octubre de 2026 En el cierre del XII Congreso de Logística, Puertos y Comercio Exterior (LOGIPEX), el Grupo de Investigación de Logística Urbana de la Unidad de Enseñanza Universitaria Quequén presentó los resultados parciales de su estudio sobre movilidad y siniestralidad.",
           "El relevamiento advierte que circulan 3.726 vehículos por día y señala los tramos más críticos."
         ],
-        "generated": "2026-11-21T13:30:45.286697+00:00"
+        "generated": "2026-11-21T14:01:12.253820+00:00"
       },
-      "apariciones": 5,
-      "ultima_impresion": "2026-11-21T13:30:00.690407+00:00",
-      "penalizacion": 0.166
+      "apariciones": 6,
+      "ultima_impresion": "2026-11-21T14:00:00.739708+00:00",
+      "penalizacion": 0.092
     },
     {
       "key": "coral quimey recibio reconocimiento 35 anos trayectoria",
@@ -353,11 +449,11 @@
           "La ciudad Añadir como fuente en El Coral Quimey recibió un reconocimiento por sus 35 años de trayectoria El Concejo Deliberante distinguió al grupo de coreutas 20 de noviembre de 2026 | 23:28 Presentación. Coral Quimey en el Concejo Ads El Concejo Deliberante entregó un reconocimiento especial al Coro Quimey , con motivo de sus 35 años de trayectoria. El acto se realizó en el salón de la Democracia. Ads La historia del coro comenzó con un grupo de personas que habían dejado el Coro Municipal y convocaron a Eduardo Liboreiro para que estuviera a cargo de la dirección.",
           "La primera presentación de la agrupación tuvo lugar en noviembre de 1991, bajo su conducción. Luego de aquel primer concierto, la Usina decidió apadrinar el proyecto y convertirlo en la agrupación coral de la cooperativa. Desde entonces, el trabajo de Liboreiro al frente del grupo fue el motor de un espacio que, con el paso de los años, se transformó en un semillero de coreutas."
         ],
-        "generated": "2026-11-21T13:30:49.379604+00:00"
+        "generated": "2026-11-21T14:01:15.365662+00:00"
       },
-      "apariciones": 12,
-      "ultima_impresion": "2026-11-21T13:30:00.690407+00:00",
-      "penalizacion": 0.003
+      "apariciones": 13,
+      "ultima_impresion": "2026-11-21T14:00:00.739708+00:00",
+      "penalizacion": 0.001
     },
     {
       "key": "proximos 15 dias comenzaran trabajos bacheo necochea quequen",
@@ -391,48 +487,10 @@
           "La ciudad Añadir como fuente en En los próximos 15 días comenzarán los trabajos de bacheo en Necochea y Quequén La obra contempla la utilización de unas 400 toneladas de asfalto en caliente y abarcará calles del microcentro y otros sectores de ambas localidades 20 de noviembre de 2026 | 20:30 Bacheo. Se proyecta una obra para la ciudad Ads El secretario de Planeamiento, Obras y Servicios Públicos , Adrián Furno , informó que en un plazo estimado de 15 días comenzarán las tareas de bacheo con asfalto en caliente en distintos puntos de Necochea y Quequén.",
           "Ads Según explicó el funcionario, la licitación pública ya fue adjudicada a la empresa Hidracil y actualmente se aguarda la firma del contrato para avanzar con el inicio de los trabajos. La intervención alcanzará calles con carpeta asfáltica que presentan deterioros , principalmente en el microcentro de Necochea y sus inmediaciones, además de distintos sectores de Quequén ."
         ],
-        "generated": "2026-11-21T13:30:46.791578+00:00"
+        "generated": "2026-11-21T14:01:14.201990+00:00"
       },
-      "apariciones": 18,
-      "ultima_impresion": "2026-11-21T13:30:00.690407+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "paro choferes colectivos necochea quequen reclamo salarial",
-      "title": "Paro de choferes: sin colectivos en Necochea y Quequén por reclamo salarial",
-      "score": 0.0,
-      "sources_count": 2,
-      "first_seen": "2026-11-20T21:21:00+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/02/99d20413-2e99-466c-8838-a91c7a58e370.jpg",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Paro de choferes: sin colectivos en Necochea y Quequén por reclamo salarial",
-          "url": "https://tsnnecochea.com.ar/locales/no-hay-colectivos-paro-de-los-trabajadores-242889/",
-          "published_at": "2026-11-20T22:34:36+00:00",
-          "first_seen": "2026-11-20T22:38:48.601269+00:00",
-          "category": "colectivos",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/02/99d20413-2e99-466c-8838-a91c7a58e370.jpg"
-        },
-        {
-          "portal": "Noticias de Necochea",
-          "title": "Necochea y Quequén, sin colectivos por tiempo indeterminado por una deuda salarial",
-          "url": "https://nden.com.ar/nota/38781/necochea-y-quequen-sin-colectivos-por-tiempo-indeterminado-por-una-deuda-salarial",
-          "published_at": "2026-11-20T21:21:00+00:00",
-          "first_seen": "2026-11-21T00:30:01.161173+00:00",
-          "category": null,
-          "image": "http://nden.com.ar/uploads/noticias/5/2026/11/20261120182517_media-1793225044.jpg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Locales | colectivos | Tránsito Paro de choferes: sin colectivos en Necochea y Quequén por reclamo salarial Los trabajadores del transporte público suspendieron las salidas desde las 18 horas ante la falta de pago completo del mes de octubre. La actividad se reanudaría a las 5 AM. Por Redacción TSN 20/11/2026 · 07:34 PM Agregar TSN Necochea en Los trabajadores del transporte público de pasajeros de Necochea y Quequén decretaron un paro de actividades desde las 18 horas de hoy hasta las 5 de la mañana del sábado .",
-          "​La medida de fuerza fue adoptada por los choferes debido a que se les adeuda una parte del sueldo de octubre . Pese a que la empresa realizó un depósito durante la jornada, no logró completar la totalidad del monto adeudado , lo que desencadenó la suspensión del servicio."
-        ],
-        "generated": "2026-11-21T13:30:48.908878+00:00"
-      },
-      "apariciones": 20,
-      "ultima_impresion": "2026-11-21T13:30:00.690407+00:00",
+      "apariciones": 19,
+      "ultima_impresion": "2026-11-21T14:00:00.739708+00:00",
       "penalizacion": 0.0
     },
     {
@@ -458,10 +516,10 @@
           "La región y provincia Añadir como fuente en La Municipalidad de San Cayetano organiza una charla sobre herramientas financieras para emprendedores y comerciantes La Dirección de Producción local convoca a los actores económicos del distrito a un encuentro informativo con el Banco Provincia, que se realizará el 24 de noviembre 20 de noviembre de 2026 | 21:22 Charla para emprendedores y comerciantes locales organizadas por la gestión municipal para fomentar el desarrollo económico de la comunidad. Ads La Dirección de Producción de la Municipalidad de San Cayetano ha extendido una invitación formal a todos los emprendedores y comerciantes de la zona para participar de una jornada de capacitación técnica.",
           "El evento tiene como objetivo principal brindar herramientas financieras y soluciones digitales que permitan optimizar el funcionamiento de los negocios locales."
         ],
-        "generated": "2026-11-21T13:30:49.851414+00:00"
+        "generated": "2026-11-21T14:01:16.521164+00:00"
       },
-      "apariciones": 16,
-      "ultima_impresion": "2026-11-21T13:30:00.690407+00:00",
+      "apariciones": 17,
+      "ultima_impresion": "2026-11-21T14:00:00.739708+00:00",
       "penalizacion": 0.0
     },
     {
@@ -487,10 +545,10 @@
           "La región y provincia Añadir como fuente en Realizaron un Conversatorio Comunitario en San Cayetano para promover la prevención de la diabetes Como cierre de una intensa semana de actividades, se llevó a cabo un encuentro en el Espacio Cultural encabezado por la secretaria de Salud, Daniela Skaarup, y la coordinadora de la campaña, Anahí Elcuaz. 20 de noviembre de 2026 | 21:17 Charla informativa durante el conversatorio comunitario sobre prevención de la diabetes realizado en San Cayetano Ads El Espacio Cultural fue el escenario elegido para el Conversatorio Comunitario que puso punto final a las jornadas de concientización desarrolladas durante la última semana en San Cayetano.",
           "El evento, que reunió a diversos actores sociales, funcionó como un ámbito de encuentro y reflexión colectiva sobre las propuestas realizadas en el marco del Día Mundial de la Diabetes, conmemorado cada 14 de noviembre."
         ],
-        "generated": "2026-11-21T13:30:50.354177+00:00"
+        "generated": "2026-11-21T14:01:17.716403+00:00"
       },
-      "apariciones": 16,
-      "ultima_impresion": "2026-11-21T13:30:00.690407+00:00",
+      "apariciones": 17,
+      "ultima_impresion": "2026-11-21T14:00:00.739708+00:00",
       "penalizacion": 0.0
     },
     {
@@ -516,10 +574,10 @@
           "La ciudad Añadir como fuente en Analizaron la siniestralidad en el corredor de la Ruta 88 Durante el cierre del Congreso de Logistica organizado por la UNICEN 20 de noviembre de 2026 | 20:57 Autoridades. Oscar Minteguía, Ernesto Povilaitis Giovazzino, Arturo Rojas y Marcelo Aba Ads ROCÍO MAGALÍ SÁNCHEZ Para Ecos Diarios Ads Se llevó a cabo en el Centro de Acopiadores de Cereales una disertación sobre la movilidad y la siniestralidad del Corredor de Integración de la Ruta Provincial 88, en el marco de la segunda jornada de la XII edición del Congreso de Logística y Puertos.",
           "La exposición estuvo a cargo del Grupo de Investigación de Logística Urbana de la Universidad Nacional del Centro de la Provincia de Buenos Aires (UNICEN) , con la participación de Dante Galván y Lourdes Poujol."
         ],
-        "generated": "2026-11-21T13:30:50.826286+00:00"
+        "generated": "2026-11-21T14:01:18.882230+00:00"
       },
-      "apariciones": 16,
-      "ultima_impresion": "2026-11-21T13:30:00.690407+00:00",
+      "apariciones": 17,
+      "ultima_impresion": "2026-11-21T14:00:00.739708+00:00",
       "penalizacion": 0.0
     },
     {
@@ -545,10 +603,10 @@
           "Policiales Añadir como fuente en Dos aprehendidos por una serie de robos a comercios Según la Policía, el principal sospechoso podría estar vinculado a once casos registrados en los últimos días en la ciudad 20 de noviembre de 2026 | 20:13 Dos aprehendidos en relación a varios robos Ads Una investigación policial sobre varios hechos delictivos cometidos contra comercios de Necochea culminó con la aprehensión de un hombre señalado como presunto autor de los episodios y de una mujer sospechada de haber participado en algunos de los casos. Ads Los investigadores del Gabinete Técnico Operativo de la Comisaría Primera de Necochea sospechan que el individuo podría estar vinculado en once hechos contra comercios, entre ellos asaltos a panaderías, kioscos y autoservicios.",
           "En cuanto a la mujer, se cree que podría tener relación con siete de los delitos."
         ],
-        "generated": "2026-11-21T13:30:51.299833+00:00"
+        "generated": "2026-11-21T14:01:20.049800+00:00"
       },
-      "apariciones": 18,
-      "ultima_impresion": "2026-11-21T13:30:00.690407+00:00",
+      "apariciones": 19,
+      "ultima_impresion": "2026-11-21T14:00:00.739708+00:00",
       "penalizacion": 0.0
     },
     {
@@ -574,10 +632,10 @@
           "El servicio de transporte urbano de pasajeros de Necochea y Quequén quedará afectado por una retención de tareas por tiempo indeterminado, luego de que los trabajadores resolvieran profundizar el reclamo salarial durante una asamblea. La medida se tomó en medio del conflicto que mantienen los choferes por conceptos salariales adeudados y que viene siendo acompañado por la Unión Tranviarios Automotor (UTA).",
           "Durante los últimos días se realizaron distintas instancias de negociación con el objetivo de destrabar la situación, aunque hasta el momento no se alcanzó un acuerdo que permita garantizar la normal prestación del servicio. Ante la falta de una solución definitiva, los trabajadores llevaron adelante una nueva asamblea y decidieron avanzar con una retención de tareas sin plazo establecido para su finalización."
         ],
-        "generated": "2026-11-21T13:30:53.523961+00:00"
+        "generated": "2026-11-21T14:01:22.324327+00:00"
       },
-      "apariciones": 20,
-      "ultima_impresion": "2026-11-21T13:30:00.690407+00:00",
+      "apariciones": 21,
+      "ultima_impresion": "2026-11-21T14:00:00.739708+00:00",
       "penalizacion": 0.0
     },
     {
@@ -603,10 +661,10 @@
           "La situación de la Ruta 88 volvió a ocupar un lugar central en la agenda regional durante una jornada desarrollada en el Centro de Acopiadores, donde se presentaron avances de un estudio sobre la siniestralidad de la traza y se reunieron representantes del ámbito académico, político y de la comunidad. El trabajo, desarrollado desde el ámbito universitario de Quequén, busca aportar información concreta sobre uno de los principales corredores que conecta a Necochea con Mar del Plata y que desde hace décadas concentra reclamos por su estado, su configuración y la cantidad de siniestros registrados.",
           "Entre quienes participaron del encuentro estuvo Andrea Rondanina, mamá de Anita, quien volvió a poner en palabras el dolor de las familias que perdieron a seres queridos en la ruta y la necesidad de que el reclamo se sostenga en el tiempo. “Siempre fue un pedido lo de la ruta, pero cuando suceden estas cosas parece más fuerte."
         ],
-        "generated": "2026-11-21T13:30:55.670188+00:00"
+        "generated": "2026-11-21T14:01:24.609578+00:00"
       },
-      "apariciones": 20,
-      "ultima_impresion": "2026-11-21T13:30:00.690407+00:00",
+      "apariciones": 21,
+      "ultima_impresion": "2026-11-21T14:00:00.739708+00:00",
       "penalizacion": 0.0
     },
     {
@@ -632,10 +690,10 @@
           "Manuel Scabone lleva 17 años trabajando en el traslado internacional de animales. Comenzó con una travesía de 31 días en barco junto a 720 caballos y actualmente acompaña exportaciones aéreas hacia Europa, Asia, Medio Oriente y Estados Unidos.",
           "También participó del traslado de animales exóticos, entre ellos la orangutana Sandra. Charlando con Fede Cañadas en “Esta Mañana”, por NEC Radio 98.3 del Multimedio NQ, el médico veterinario necochense Manuel Scabone compartió una historia profesional poco conocida: desde hace 17 años integra equipos especializados en el traslado internacional de animales, principalmente caballos de polo y endurance, a distintos destinos del mundo."
         ],
-        "generated": "2026-11-21T13:30:59.799844+00:00"
+        "generated": "2026-11-21T14:01:31.502924+00:00"
       },
-      "apariciones": 36,
-      "ultima_impresion": "2026-11-21T13:30:00.690407+00:00",
+      "apariciones": 37,
+      "ultima_impresion": "2026-11-21T14:00:00.739708+00:00",
       "penalizacion": 0.0
     },
     {
@@ -661,68 +719,10 @@
           "El atleta necochense afrontó dos competencias en menos de 24 horas y consiguió el tercer puesto en su categoría en la Tandilia y el primer lugar en la clasificación general de la prueba disputada en Balcarce. Además, destacó que atraviesa su mejor temporada desde que comenzó a correr. El atleta necochense Leandro Guevara protagonizó un intenso y exitoso fin de semana deportivo, al participar de dos competencias de running en menos de 24 horas, con resultados destacados en Tandil y Balcarce.",
           "En su paso por Zoom El Deportivo, Guevara repasó la experiencia de afrontar dos desafíos consecutivos, su preparación física y el gran momento deportivo que atraviesa durante esta temporada. La primera competencia fue la tradicional Tandilia, en Tandil, donde finalizó tercero en su categoría y alcanzó el puesto 21 en la clasificación general."
         ],
-        "generated": "2026-11-21T13:31:04.712380+00:00"
+        "generated": "2026-11-21T14:01:36.791345+00:00"
       },
-      "apariciones": 36,
-      "ultima_impresion": "2026-11-21T13:30:00.690407+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "franco colapinto termino noveno segunda practica gran premio vegas",
-      "title": "Franco Colapinto terminó noveno en la segunda práctica del Gran Premio de Las Vegas",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-11-20T12:47:05+00:00",
-      "image": null,
-      "articles": [
-        {
-          "portal": "Necochea News",
-          "title": "Franco Colapinto terminó noveno en la segunda práctica del Gran Premio de Las Vegas",
-          "url": "https://necocheanews.com.ar/franco-colapinto-termino-noveno-en-la-segunda-practica-del-gran-premio-de-las-vegas/",
-          "published_at": "2026-11-20T12:47:05+00:00",
-          "first_seen": "2026-11-20T16:04:08.975775+00:00",
-          "category": "DEPORTES",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El piloto argentino logró meterse entre los diez mejores después de una primera tanda con escasa actividad. Su compañero de Alpine, Pierre Gasly, sorprendió al finalizar segundo, muy cerca del Mercedes de George Russell. Franco Colapinto cerró la segunda práctica libre del Gran Premio de Las Vegas de Fórmula 1 en el noveno puesto, en una sesión condicionada por la lluvia, el frío y las dificultades de adherencia que presentó el circuito callejero de Nevada.",
-          "El argentino consiguió mejorar sus tiempos sobre el final de la tanda y terminó dentro del top 10. La jornada también dejó una señal positiva para Alpine: Pierre Gasly finalizó segundo, a apenas 71 milésimas del británico George Russell, quien registró el mejor tiempo."
-        ],
-        "generated": "2026-11-21T13:31:08.174736+00:00"
-      },
-      "apariciones": 36,
-      "ultima_impresion": "2026-11-21T13:30:00.690407+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "villa diaz velez sportivo san cayetano palpitan primera final futbol femenino",
-      "title": "Villa Díaz Vélez y Sportivo San Cayetano palpitan la primera final del fútbol femenino",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-11-20T12:52:15+00:00",
-      "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/0e009066-74b4-49c7-b217-7c0d875c7801-edited.jpg",
-      "articles": [
-        {
-          "portal": "Diario NQ",
-          "title": "Villa Díaz Vélez y Sportivo San Cayetano palpitan la primera final del fútbol femenino",
-          "url": "https://diarionq.com.ar/villa-diaz-velez-y-sportivo-san-cayetano-palpitan-la-primera-final-del-futbol-femenino/",
-          "published_at": "2026-11-20T12:52:15+00:00",
-          "first_seen": "2026-11-20T16:04:08.975775+00:00",
-          "category": "Deportes",
-          "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/0e009066-74b4-49c7-b217-7c0d875c7801-edited.jpg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Nadia Jara, arquera de Sportivo San Cayetano y Estefanía Besoin, representante de Villa Díaz Vélez, compartieron sus sensaciones en la previa de la definición del campeonato. El primer encuentro se disputará este domingo a las 16:30 en cancha de Villa, luego de la postergación por las condiciones del campo de juego. La expectativa crece en la previa de la gran final del fútbol femenino de la Liga Necochea.",
-          "Villa Díaz Vélez y Sportivo San Cayetano serán protagonistas de una definición que promete dos encuentros muy disputados, con dos equipos que llegan respaldados por una gran temporada. En la habitual columna de fútbol femenino de Zoom El Deportivo, Nadia Jara, arquera de Sportivo San Cayetano, y Estefanía, representante de Villa Díaz Vélez, compartieron sus sensaciones, analizaron las virtudes de sus equipos y anticiparon lo que esperan de esta serie."
-        ],
-        "generated": "2026-11-21T13:31:10.078059+00:00"
-      },
-      "apariciones": 36,
-      "ultima_impresion": "2026-11-21T13:30:00.690407+00:00",
+      "apariciones": 37,
+      "ultima_impresion": "2026-11-21T14:00:00.739708+00:00",
       "penalizacion": 0.0
     }
   ]
