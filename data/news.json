@@ -1,12 +1,418 @@
 {
-  "generated_at": "2026-11-23T01:36:03.756363+00:00",
+  "generated_at": "2026-11-23T02:00:00.653510+00:00",
   "article_count": 120,
   "fetch_errors": [],
   "stories": [
     {
+      "key": "normalizo servicio colectivos necochea quequen levantamiento medida fuerza",
+      "title": "Se normalizó el servicio de colectivos en Necochea y Quequén tras el levantamiento de la medida de fuerza",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-23T02:00:00.653510+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261121131956_transporte-publico-ilustrativa-2.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Se normalizó el servicio de colectivos en Necochea y Quequén tras el levantamiento de la medida de fuerza",
+          "url": "https://necocheadigital.com/nota/120256/se-normalizo-el-servicio-de-colectivos-en-necochea-y-quequen-tras-el-levantamiento-de-la-medida-de-fuerza/",
+          "published_at": null,
+          "first_seen": "2026-11-23T02:00:00.653510+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El servicio de transporte urbano de pasajeros volvió a funcionar con normalidad en Necochea y Quequén este sábado al mediodía, luego de que los trabajadores de la empresa concesionaria decidieran levantar la retención de tareas que habían iniciado el viernes por la tarde. La medida de fuerza había comenzado el 20 de noviembre, a partir de las 18, en reclamo por el incumplimiento de un acuerdo salarial por parte de la Compañía de Transportes Necochea SA.",
+          "El conflicto se originó porque la empresa no pudo afrontar el pago del 20% de lo establecido en un convenio firmado previamente para cancelar salarios adeudados y otros atrasos económicos. Ante esa situación, los choferes habían dispuesto una retención de tareas por tiempo indeterminado, lo que provocó la interrupción del servicio de colectivos en ambas localidades."
+        ],
+        "generated": "2026-11-23T02:00:43.174269+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-23T02:00:00.653510+00:00"
+    },
+    {
+      "key": "puerto quequen destaco aporte unicen mejorar conectividad vial region",
+      "title": "Puerto Quequén destacó el aporte de la UNICEN para mejorar la conectividad vial de la región",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-23T02:00:00.653510+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/d60700a123c32ad24285d921c3f814f31c038a2e.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Puerto Quequén destacó el aporte de la UNICEN para mejorar la conectividad vial de la región",
+          "url": "https://necocheadigital.com/nota/120255/puerto-quequen-destaco-el-aporte-de-la-unicen-para-mejorar-la-conectividad-vial-de-la-region/",
+          "published_at": null,
+          "first_seen": "2026-11-23T02:00:00.653510+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La necesidad de mejorar la conectividad regional y avanzar en una planificación estratégica de la infraestructura vial fue uno de los temas centrales del debate que reunió a autoridades provinciales, municipales y representantes de Puerto Quequén durante el Congreso de Logística, Puertos y Comercio Exterior (LOGIPEX). El presidente del Consorcio de Gestión de Puerto Quequén, Dr. Ernesto Povilaitis Giovazzino, integró el panel dedicado al Corredor de Integración de la Ruta Provincial 88, un espacio que convocó a representantes de Necochea, Lobería, General Alvarado y San Cayetano, junto a funcionarios del Ministerio de Infraestructura bonaerense.",
+          "La jornada tuvo como punto de partida la presentación de un estudio sobre movilidad y siniestralidad en la traza, elaborado por el Dr. Lourdes Poujol, integrantes del Grupo de Investigación en Logística Urbana de la UEUQ-UNICEN."
+        ],
+        "generated": "2026-11-23T02:00:43.867534+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-23T02:00:00.653510+00:00"
+    },
+    {
+      "key": "fuerte temporal golpeo mar plata granizo calles anegadas necochea tormenta paso largo",
+      "title": "Un fuerte temporal golpeó Mar del Plata con granizo y calles anegadas: en Necochea la tormenta pasó de largo",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-23T02:00:00.653510+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/95bebb494273ceb4ff85744f4a5315cfef825695.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Un fuerte temporal golpeó Mar del Plata con granizo y calles anegadas: en Necochea la tormenta pasó de largo",
+          "url": "https://necocheadigital.com/nota/120251/un-fuerte-temporal-golpeo-mar-del-plata-con-granizo-y-calles-anegadas-en-necochea-la-tormenta-paso-de-largo/",
+          "published_at": null,
+          "first_seen": "2026-11-23T02:00:00.653510+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Un fuerte temporal afectó este viernes por la tarde a Mar del Plata, con caída de granizo, calles anegadas y complicaciones para circular en distintos barrios. El fenómeno se produjo poco después de que el Servicio Meteorológico Nacional (SMN) emitiera un aviso a muy corto plazo por tormentas severas, con ráfagas de viento y ocasional caída de granizo. Pasadas las 17, comenzaron a registrarse las primeras consecuencias del temporal en diferentes sectores de la ciudad.",
+          "Vecinos compartieron imágenes que mostraban importantes acumulaciones de agua en las calles, desagües que no lograban escurrir y dificultades para el tránsito. Las situaciones más complicadas se observaron en zonas periféricas, donde el agua acumulada y la formación de barro dificultaron la circulación de vehículos. Además, la caída de granizo llevó a numerosos automovilistas a buscar refugio bajo techo, lo que generó mayores inconvenientes en el tránsito."
+        ],
+        "generated": "2026-11-23T02:00:45.040898+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-23T02:00:00.653510+00:00"
+    },
+    {
+      "key": "dolar volvio marcar record riesgo pais supero 060 puntos",
+      "title": "El dólar volvió a marcar un récord y el riesgo país superó los 1.060 puntos",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-23T02:00:00.653510+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/c9fd92d4cdf901ead831119d2e1b154ef4a308f3.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "El dólar volvió a marcar un récord y el riesgo país superó los 1.060 puntos",
+          "url": "https://necocheadigital.com/nota/120248/el-dolar-volvio-a-marcar-un-record-y-el-riesgo-pais-supero-los-1-060-puntos/",
+          "published_at": null,
+          "first_seen": "2026-11-23T02:00:00.653510+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La jornada financiera de este viernes 20 de noviembre estuvo marcada por una nueva escalada del dólar y un fuerte deterioro de los activos argentinos en los mercados internacionales. Mientras la cotización mayorista alcanzó un máximo nominal de $1.580, el riesgo país superó los 1.060 puntos básicos, en un escenario de creciente incertidumbre para los inversores. El dólar mayorista avanzó $15 durante la rueda, equivalente a una suba del 1%, y acumuló en noviembre un incremento de $46, cercano al 3%.",
+          "Según los datos difundidos, el Banco Central no intervino en el mercado cambiario, pese a que el volumen de operaciones se aproximó a los 600 millones de dólares. En el segmento minorista, el dólar cerró a $1.595 para la venta en el Banco Nación, mientras que el promedio de las entidades financieras informado por el BCRA se ubicó en $1.601,32. Por su parte, el dólar blue trepó $35 y llegó a los $1.675."
+        ],
+        "generated": "2026-11-23T02:00:45.746075+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-23T02:00:00.653510+00:00"
+    },
+    {
+      "key": "liga necochea definio cronograma semifinales promocion final femenina",
+      "title": "La Liga Necochea definió el cronograma de semifinales, Promoción y la final femenina",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-23T02:00:00.653510+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261120172329_whatsapp-image-2026-11-20-at-17-23-17.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "La Liga Necochea definió el cronograma de semifinales, Promoción y la final femenina",
+          "url": "https://necocheadigital.com/nota/120249/la-liga-necochea-definio-el-cronograma-de-semifinales-promocion-y-la-final-femenina/",
+          "published_at": null,
+          "first_seen": "2026-11-23T02:00:00.653510+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La Liga Necochea de Fútbol confirmó el cronograma oficial para el tramo decisivo del Torneo Sergio “Giuseppe” Portugal 2026, cuya actividad principal de Primera División masculina se concentrará el próximo lunes 23 de noviembre. En esa jornada se disputarán los partidos de ida de las semifinales y el primer cruce de la Promoción entre las zonas A y B, mientras que el domingo 22 se abrirá la final del Torneo Clausura femenino.",
+          "La acción de la máxima categoría comenzará el domingo a las 16.30 en el estadio Vasco Iparraguirre, donde Villa Díaz Vélez recibirá a Sportivo San Cayetano en el duelo de ida de la final femenina."
+        ],
+        "generated": "2026-11-23T02:00:46.489309+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-23T02:00:00.653510+00:00"
+    },
+    {
+      "key": "avanza extension red cloacal campo scout proyectan futuras conexiones zona",
+      "title": "Avanza la extensión de la red cloacal hasta el Campo Scout y proyectan futuras conexiones para la zona",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-23T02:00:00.653510+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/4d9cc587d6a720fbe0d9eadb5876ffc6919ca7e6.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Avanza la extensión de la red cloacal hasta el Campo Scout y proyectan futuras conexiones para la zona",
+          "url": "https://necocheadigital.com/nota/120240/avanza-la-extension-de-la-red-cloacal-hasta-el-campo-scout-y-proyectan-futuras-conexiones-para-la-zona/",
+          "published_at": null,
+          "first_seen": "2026-11-23T02:00:00.653510+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Una obra de infraestructura comenzó a ejecutarse en el sector del Centro Scout de Necochea, a partir del compromiso asumido entre el Municipio, encabezado por el intendente Arturo Rojas, y la Asociación Civil Scout Argentina. Los trabajos tienen como objetivo extender la red cloacal hasta el predio ubicado en avenida 10 y calle 139, donde se desarrollan encuentros y actividades que convocan a una importante cantidad de personas. La intervención contempla la colocación de aproximadamente 1.300 metros de cañería de impulsión, que se extenderán desde la calle 139 hasta la 117, punto en el que se realizará la conexión con una estación de bombeo existente.",
+          "El inicio de las tareas fue supervisado por el secretario de Planeamiento, Obras y Servicios Públicos, Adrián Furno, y el subsecretario del área, Lisandro Dones. El Municipio tendrá a su cargo la fiscalización de los trabajos."
+        ],
+        "generated": "2026-11-23T02:00:47.194483+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-23T02:00:00.653510+00:00"
+    },
+    {
+      "key": "arrebataron cartera mujer pleno centro",
+      "title": "Le arrebataron la cartera a una mujer en pleno centro",
+      "score": 1.036,
+      "sources_count": 1,
+      "first_seen": "2026-11-23T00:43:49+00:00",
+      "image": "https://cdnartic.ar/JA2_guUuGbF2xz5Ur-iEv1HYz6g=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/movil.webp",
+      "articles": [
+        {
+          "portal": "Ecos Diarios",
+          "title": "Le arrebataron la cartera a una mujer en pleno centro",
+          "url": "https://elecos.com.ar/le-arrebataron-la-cartera-a-una-mujer-en-pleno-centro",
+          "published_at": "2026-11-23T00:43:49+00:00",
+          "first_seen": "2026-11-23T01:36:03.756363+00:00",
+          "category": "13",
+          "image": "https://cdnartic.ar/JA2_guUuGbF2xz5Ur-iEv1HYz6g=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/movil.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Policiales Añadir como fuente en Le arrebataron la cartera a una mujer en pleno centro El ladrón se movilizaba en moto y huyó en contramano 22 de noviembre de 2026 | 21:43 La Policía rastreaba al autor del arrebato Ads Un nuevo robo callejero se registró a plena luz del día de este domingo en inmediaciones de la esquina de calles 65 y 66, donde un hombre que se movilizaba en una motocicleta roja sorprendió a una mujer y le arrebató la cartera. Ads Según supo Ecos Diarios, el hecho ocurrió cuando el individuo pasó junto a la víctima y, sin detener la marcha, le sustrajo sus pertenencias. Luego escapó por calle 65, en contramano, en dirección a la calle 68.",
+          "El asaltante sería de baja estatura y se desplazaba en una motocicleta de baja cilindrada. Al momento del robo vestía una campera negra y llevaba un casco rojo y blanco."
+        ],
+        "generated": "2026-11-23T02:00:42.074126+00:00"
+      },
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-23T02:00:00.653510+00:00",
+      "penalizacion": 0.886
+    },
+    {
+      "key": "atletico madrid goleo getafe dos asistencias julian alvarez record diego simeone",
+      "title": "Atlético de Madrid goleó al Getafe con dos asistencias de Julián Álvarez y récord de Diego Simeone",
+      "score": 0.934,
+      "sources_count": 1,
+      "first_seen": "2026-11-22T23:28:42+00:00",
+      "image": "https://cdnartic.ar/FoWWdVIWy26uH5FhOoQLkLTu-ek=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/julian_alvarez.webp",
+      "articles": [
+        {
+          "portal": "Ecos Diarios",
+          "title": "Atlético de Madrid goleó al Getafe con dos asistencias de Julián Álvarez y récord de Diego Simeone",
+          "url": "https://elecos.com.ar/atletico-de-madrid-goleo-al-getafe-con-dos-asistencias-de-julian-alvarez-y-record-de-diego-simeone",
+          "published_at": "2026-11-22T23:28:42+00:00",
+          "first_seen": "2026-11-23T01:36:03.756363+00:00",
+          "category": "deportes-nacional",
+          "image": "https://cdnartic.ar/FoWWdVIWy26uH5FhOoQLkLTu-ek=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/julian_alvarez.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Deportes nacionales Añadir como fuente en Atlético de Madrid goleó al Getafe con dos asistencias de Julián Álvarez y récord de Diego Simeone El equipo dirigido por Diego Simeone se impuso 3-0 ante el Getafe, con una destacada actuación de Julián Álvarez, y el entrenador alcanzó un hito histórico en LaLiga. 22 de noviembre de 2026 | 20:28 Ads El Atlético de Madrid logró una victoria contundente en su visita al Getafe , al imponerse por 3-0 y mantenerse en la tercera posición de LaLiga con 31 unidades, a la expectativa de lo que sucede con el líder Barcelona y el escolta Real Madrid .",
+          "El encuentro fue definido en apenas 30 minutos, tiempo en el que el conjunto visitante sentenció el resultado. Ads El protagonista de la jornada fue el delantero argentino Julián Álvarez , quien brindó las dos asistencias para los goles iniciales."
+        ],
+        "generated": "2026-11-23T02:00:48.427328+00:00"
+      },
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-23T02:00:00.653510+00:00",
+      "penalizacion": 0.886
+    },
+    {
+      "key": "racing define futuro siete jugadores busca refuerzos temporada 2027",
+      "title": "Racing define el futuro de siete jugadores y busca refuerzos para la temporada 2027",
+      "score": 0.93,
+      "sources_count": 1,
+      "first_seen": "2026-11-22T23:25:15+00:00",
+      "image": "https://cdnartic.ar/t0p9UyN_BxUaGb8WHeI7Q5i8IHk=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/diego_milito_1.jpg",
+      "articles": [
+        {
+          "portal": "Ecos Diarios",
+          "title": "Racing define el futuro de siete jugadores y busca refuerzos para la temporada 2027",
+          "url": "https://elecos.com.ar/racing-define-el-futuro-de-siete-jugadores-y-busca-refuerzos-para-la-temporada-2027",
+          "published_at": "2026-11-22T23:25:15+00:00",
+          "first_seen": "2026-11-23T01:36:03.756363+00:00",
+          "category": "deportes-nacional",
+          "image": "https://cdnartic.ar/t0p9UyN_BxUaGb8WHeI7Q5i8IHk=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/diego_milito_1.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Deportes nacionales Añadir como fuente en Racing define el futuro de siete jugadores y busca refuerzos para la temporada 2027 Tras un año complejo, la dirigencia encabezada por Diego Milito y el cuerpo técnico evaluarán el rendimiento de siete futbolistas durante el primer semestre para reestructurar el plantel profesional. 22 de noviembre de 2026 | 20:25 Ads Luego de un 2026 calificado como un año para el olvido, Racing inició la planificación de la temporada 2027 con el objetivo de renovar su plantel.",
+          "La dirigencia, liderada por Diego Milito , junto al cuerpo técnico, llevará adelante una evaluación exhaustiva durante los primeros seis meses del año para determinar qué jugadores continuarán en la institución y cuáles deberán resolver su situación contractual. Ads Esta reestructuración deportiva, iniciada a mediados de 2026, busca optimizar los recursos y reorganizar el equipo antes de consolidar el proyecto futbolístico definitivo."
+        ],
+        "generated": "2026-11-23T02:00:49.658937+00:00"
+      },
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-23T02:00:00.653510+00:00",
+      "penalizacion": 0.886
+    },
+    {
+      "key": "reaccion guillermo francella canticos hinchas boca",
+      "title": "La reacción de Guillermo Francella ante los cánticos de hinchas de Boca",
+      "score": 0.928,
+      "sources_count": 1,
+      "first_seen": "2026-11-22T23:23:56+00:00",
+      "image": "https://cdnartic.ar/kms6OArqtQhCmA2BWksid2WzY14=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/guillermo_francella.jpg",
+      "articles": [
+        {
+          "portal": "Ecos Diarios",
+          "title": "La reacción de Guillermo Francella ante los cánticos de hinchas de Boca",
+          "url": "https://elecos.com.ar/la-reaccion-de-guillermo-francella-ante-los-canticos-de-hinchas-de-boca",
+          "published_at": "2026-11-22T23:23:56+00:00",
+          "first_seen": "2026-11-23T01:36:03.756363+00:00",
+          "category": "104",
+          "image": "https://cdnartic.ar/kms6OArqtQhCmA2BWksid2WzY14=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/guillermo_francella.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Espectáculos y arte Añadir como fuente en La reacción de Guillermo Francella ante los cánticos de hinchas de Boca Tras la consagración del club xeneize en la Copa Sudamericana, un grupo de simpatizantes interceptó al actor a la salida del teatro y él respondió con gestos de complicidad. 22 de noviembre de 2026 | 20:23 Ads Ver esta publicación en Instagram Una publicación compartida por El Observador AR (@elobservadorar) En medio de los festejos por la obtención de la Copa Sudamericana 2026 en Colombia, un numeroso grupo de hinchas de Boca que se encontraba en las inmediaciones del Obelisco se trasladó hasta la avenida Corrientes 1343.",
+          "Allí, el actor Guillermo Francella , reconocido fanático de Racing , protagonizaba la obra Desde el jardín en el Teatro Metropolitan ."
+        ],
+        "generated": "2026-11-23T02:00:50.890600+00:00"
+      },
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-23T02:00:00.653510+00:00",
+      "penalizacion": 0.886
+    },
+    {
+      "key": "daiana pereyra deslumbro miss universo 2026 traje tipico inspirado argentina",
+      "title": "Daiana Pereyra deslumbró en Miss Universo 2026 con un traje típico inspirado en Argentina",
+      "score": 0.925,
+      "sources_count": 1,
+      "first_seen": "2026-11-22T23:22:03+00:00",
+      "image": "https://cdnartic.ar/RRxnwSaMOYWxpIH06vivmyt7gC8=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/daiana_pereyra.jpg",
+      "articles": [
+        {
+          "portal": "Ecos Diarios",
+          "title": "Daiana Pereyra deslumbró en Miss Universo 2026 con un traje típico inspirado en Argentina",
+          "url": "https://elecos.com.ar/daiana-pereyra-deslumbro-en-miss-universo-2026-con-un-traje-tipico-inspirado-en-argentina",
+          "published_at": "2026-11-22T23:22:03+00:00",
+          "first_seen": "2026-11-23T01:36:03.756363+00:00",
+          "category": "104",
+          "image": "https://cdnartic.ar/RRxnwSaMOYWxpIH06vivmyt7gC8=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/daiana_pereyra.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Espectáculos y arte Añadir como fuente en Daiana Pereyra deslumbró en Miss Universo 2026 con un traje típico inspirado en Argentina La modelo misionera representó al país en la 75ª edición del certamen en Puerto Rico, luciendo un diseño que homenajea al Escudo Nacional y a la mujer argentina. 22 de noviembre de 2026 | 20:22 Ads La modelo misionera de 28 años, Daiana Pereyra , representó a la Argentina en la 75ª edición de Miss Universo 2026 , que se desarrolla en San Juan, Puerto Rico.",
+          "La participante captó la atención del público y del jurado al desfilar con un traje típico inspirado en los símbolos patrios, con el Escudo Nacional como eje central de la propuesta. Ads El diseño incluyó elementos icónicos como el Sol de Mayo sobre su cabeza, una estructura con el escudo patrio en la espalda, ramas de laureles, un gorro frigio rojo y dos palomas blancas."
+        ],
+        "generated": "2026-11-23T02:00:52.118822+00:00"
+      },
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-23T02:00:00.653510+00:00",
+      "penalizacion": 0.886
+    },
+    {
+      "key": "argentino futbol veteranos tiene finalistas necochea",
+      "title": "El Argentino de Fútbol para Veteranos ya tiene a sus finalistas en Necochea",
+      "score": 0.731,
+      "sources_count": 1,
+      "first_seen": "2026-11-22T23:41:43+00:00",
+      "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/2295b1ca-38c2-4c83-9a58-dc7ee394bafd.jpg",
+      "articles": [
+        {
+          "portal": "Diario NQ",
+          "title": "El Argentino de Fútbol para Veteranos ya tiene a sus finalistas en Necochea",
+          "url": "https://diarionq.com.ar/el-argentino-de-futbol-para-veteranos-ya-tiene-a-sus-finalistas-en-necochea/",
+          "published_at": "2026-11-22T23:41:43+00:00",
+          "first_seen": "2026-11-23T01:36:03.756363+00:00",
+          "category": "Deportes",
+          "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/2295b1ca-38c2-4c83-9a58-dc7ee394bafd.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El XXI Campeonato Argentino de Fútbol para Veteranos entra en su jornada decisiva con los cruces por el título y los terceros puestos en las cuatro categorías. Después de cuatro días de intensa competencia y siete partidos disputados por cada equipo, el cansancio físico comienza a ser un factor determinante. Las finales se jugarán en el complejo Pulsen, desde las 10:30.",
+          "El XXI Campeonato Argentino de Fútbol para Veteranos que se desarrolla en Necochea ya tiene definidos a sus finalistas. Luego de una intensa jornada de cuartos de final y semifinales, quedaron establecidos los cruces que determinarán a los campeones de las categorías Fundadores, Graduados, Expertos e Históricos. Con el paso de los partidos, el desgaste físico comenzó a convertirse en uno de los principales protagonistas del certamen."
+        ],
+        "generated": "2026-11-23T02:00:54.420460+00:00"
+      },
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-23T02:00:00.653510+00:00",
+      "penalizacion": 0.886
+    },
+    {
+      "key": "rosario central elimina gimnasia mendoza avanza cuartos clausura",
+      "title": "Rosario Central elimina a Gimnasia de Mendoza y avanza a cuartos del Clausura",
+      "score": 0.723,
+      "sources_count": 1,
+      "first_seen": "2026-11-22T23:33:58+00:00",
+      "image": null,
+      "articles": [
+        {
+          "portal": "Necochea News",
+          "title": "Rosario Central elimina a Gimnasia de Mendoza y avanza a cuartos del Clausura",
+          "url": "https://necocheanews.com.ar/rosario-central-elimina-a-gimnasia-de-mendoza-y-avanza-a-cuartos-del-clausura/",
+          "published_at": "2026-11-22T23:33:58+00:00",
+          "first_seen": "2026-11-23T01:36:03.756363+00:00",
+          "category": "LOCALES",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El Canalla se impuso 3-1 en el Gigante de Arroyito y se medirá con Barracas Central en la siguiente fase. Rosario Central venció a Gimnasia de Mendoza por 3 a 1 en el Gigante de Arroyito, asegurando su puesto en los cuartos de final del Torneo Clausura. El equipo dirigido por Jorge Almirón abrió el marcador a los seis minutos cuando Campaz recibió un pase largo de Juan Giménez y definió dentro del área contra el arquero César Rigamonti.",
+          "Dos minutos después, Enzo Copetti amplió la ventaja con una definición de pie abierto tras robar el balón en una presión alta y combinar con Campaz. El tercer tanto llegó a los 40 minutos cuando Lautaro Carrera empujó el balón al fondo de la red tras un centro desde la derecha. Gimnasia de Mendoza redujo la diferencia en el tramo final del partido, anotando a través de Facundo Lencioni, pero no logró cambiar el resultado."
+        ],
+        "generated": "2026-11-23T02:00:55.498911+00:00"
+      },
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-23T02:00:00.653510+00:00",
+      "penalizacion": 0.886
+    },
+    {
+      "key": "puerto quequen participo debate corredor integracion ruta 88",
+      "title": "Puerto Quequén participó del debate por el Corredor de Integración Ruta 88",
+      "score": 0.318,
+      "sources_count": 1,
+      "first_seen": "2026-11-22T11:30:55+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-21-at-11.07.21.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Puerto Quequén participó del debate por el Corredor de Integración Ruta 88",
+          "url": "https://tsnnecochea.com.ar/locales/puerto-quequen-participo-del-debate-por-el-corredor-de-integracion-ruta-88-242980/",
+          "published_at": "2026-11-22T11:30:55+00:00",
+          "first_seen": "2026-11-23T01:36:03.756363+00:00",
+          "category": "Ernesto Povilaitis",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-21-at-11.07.21.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Locales | Ernesto Povilaitis | Congreso de Logística Puerto Quequén participó del debate por el Corredor de Integración Ruta 88 Expuso su presidente Ernesto Povilaitis. Destacó el trabajo académico realizado desde la subsede Quequén dependiente de la UNICEN Por Redacción TSN 22/11/2026 · 08:30 AM Agregar TSN Necochea en E l presidente del Consorcio de Gestión de Puerto Quequén, Dr. Ernesto Povilaitis Giovazzino, participó del panel de Autoridades Municipales del Corredor de Integración de la Ruta Provincial 88, en el marco de la XII edición del Congreso de Logística, Puertos y Comercio Exterior (LOGIPEX), organizado por la UNICEN, Unidad Académica Quequén.",
+          "El encuentro comenzó con la presentación del estudio sobre movilidad y siniestralidad del Corredor de Integración RP 88, a cargo del Dr. Lourdes Poujol del Grupo de Investigación en Logística Urbana de la UEUQ-UNICEN."
+        ],
+        "generated": "2026-11-23T02:01:13.592006+00:00"
+      },
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-23T02:00:00.653510+00:00",
+      "penalizacion": 0.886
+    },
+    {
       "key": "celebrara dia nacional defensa civil",
       "title": "Se celebrará el Día Nacional de Defensa Civil",
-      "score": 1.692,
+      "score": 0.241,
       "sources_count": 2,
       "first_seen": "2026-11-22T18:14:22+00:00",
       "image": "https://cdnartic.ar/v1pgJKGwcSghDvTnpbCXRVJPQYE=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/01/base_de_defensa_civil_en_el_parque.jpeg",
@@ -35,422 +441,16 @@
           "La ciudad Añadir como fuente en Se celebrará el Día Nacional de Defensa Civil Con una jornada en la base operativa en Av 19 y calle 97 22 de noviembre de 2026 | 18:17 Actividades. Por el DIa Nacional de Defensa Civil | PH: Ecos Diarios Ads Este lunes 23 se celebrará el Día Nacional de Defensa Civil con una jornada abierta a la comunidad. Será de 14:30 a 16:30 hs. en la Base Operativa de Defensa Civil, en Av.",
           "10 y calle 97, en las inmediaciones del Parque Miguel Lillo. Durante la jornada se podrá participar de actividades de RCP y primeros auxilios, conocer nuestra Unidad Forestal y el equipamiento utilizado en incendios, y realizarse un control de tensión arterial. Cabe destacar que en caso de condiciones climáticas adversas, la actividad será suspendida."
         ],
-        "generated": "2026-11-23T01:36:37.247076+00:00"
+        "generated": "2026-11-23T02:00:34.909595+00:00"
       },
-      "apariciones": 4,
-      "ultima_impresion": "2026-11-23T01:36:03.756363+00:00",
-      "penalizacion": 1.0
-    },
-    {
-      "key": "arrebataron cartera mujer pleno centro",
-      "title": "Le arrebataron la cartera a una mujer en pleno centro",
-      "score": 1.209,
-      "sources_count": 1,
-      "first_seen": "2026-11-23T00:43:49+00:00",
-      "image": "https://cdnartic.ar/JA2_guUuGbF2xz5Ur-iEv1HYz6g=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/movil.webp",
-      "articles": [
-        {
-          "portal": "Ecos Diarios",
-          "title": "Le arrebataron la cartera a una mujer en pleno centro",
-          "url": "https://elecos.com.ar/le-arrebataron-la-cartera-a-una-mujer-en-pleno-centro",
-          "published_at": "2026-11-23T00:43:49+00:00",
-          "first_seen": "2026-11-23T01:36:03.756363+00:00",
-          "category": "13",
-          "image": "https://cdnartic.ar/JA2_guUuGbF2xz5Ur-iEv1HYz6g=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/movil.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Policiales Añadir como fuente en Le arrebataron la cartera a una mujer en pleno centro El ladrón se movilizaba en moto y huyó en contramano 22 de noviembre de 2026 | 21:43 La Policía rastreaba al autor del arrebato Ads Un nuevo robo callejero se registró a plena luz del día de este domingo en inmediaciones de la esquina de calles 65 y 66, donde un hombre que se movilizaba en una motocicleta roja sorprendió a una mujer y le arrebató la cartera. Ads Según supo Ecos Diarios, el hecho ocurrió cuando el individuo pasó junto a la víctima y, sin detener la marcha, le sustrajo sus pertenencias. Luego escapó por calle 65, en contramano, en dirección a la calle 68.",
-          "El asaltante sería de baja estatura y se desplazaba en una motocicleta de baja cilindrada. Al momento del robo vestía una campera negra y llevaba un casco rojo y blanco."
-        ],
-        "generated": "2026-11-23T01:36:44.611892+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-23T01:36:03.756363+00:00"
-    },
-    {
-      "key": "rojas apunto libertad avanza pretenden dar catedra necochea no aportan ninguna idea",
-      "title": "Rojas apuntó contra La Libertad Avanza: “Pretenden dar cátedra en Necochea y no aportan ninguna idea”",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-23T01:36:03.756363+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/69c2c9e62121ac7daa125659e0c6bfc6075dc873.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Rojas apuntó contra La Libertad Avanza: “Pretenden dar cátedra en Necochea y no aportan ninguna idea”",
-          "url": "https://necocheadigital.com/nota/120254/rojas-apunto-contra-la-libertad-avanza-pretenden-dar-catedra-en-necochea-y-no-aportan-ninguna-idea/",
-          "published_at": null,
-          "first_seen": "2026-11-23T01:36:03.756363+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El intendente de Necochea, Arturo Rojas, lanzó duras críticas contra los referentes de La Libertad Avanza durante el cierre de la XII edición del Congreso de Logística, Puertos y Comercio Exterior, realizado en el distrito. Aunque inicialmente destacó la importancia del encuentro y el trabajo de articulación entre los municipios de la región y Puerto Quequén, el jefe comunal aprovechó sus declaraciones para cuestionar el rol del Gobierno Nacional y apuntar directamente contra los dirigentes libertarios locales.",
-          "“Hoy vemos, sin ningún tipo de sonrojamiento, representantes del Gobierno Nacional participar de eventos como este, donde hoy hay un desfinanciamiento claro y preciso, y en no cumplimiento de la ley, desfinanciamiento de las universidades públicas, venir y participar (…) y después pretenden dar cátedra de qué es lo que hay que hacer en el distrito de Necochea”, expresó Rojas."
-        ],
-        "generated": "2026-11-23T01:36:45.299027+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-23T01:36:03.756363+00:00"
-    },
-    {
-      "key": "detuvieron necochea sospechoso vinculado robos panaderias",
-      "title": "Detuvieron en Necochea a un sospechoso vinculado con los robos a las panaderias",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-23T01:36:03.756363+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/523659dd8eb8a5bd7c03b3265178742ec4916b96.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Detuvieron en Necochea a un sospechoso vinculado con los robos a las panaderias",
-          "url": "https://necocheadigital.com/nota/120250/detuvieron-en-necochea-a-un-sospechoso-vinculado-con-los-robos-a-las-panaderias/",
-          "published_at": null,
-          "first_seen": "2026-11-23T01:36:03.756363+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Una investigación llevada adelante por el Gabinete Técnico Operativo de la Comisaría Primera de Necochea permitió aprehender a un hombre que estaría vinculado con once hechos delictivos cometidos contra distintos comercios de la ciudad, entre ellos asaltos a panaderías, kioscos y autoservicios. En el marco de los mismos procedimientos también fue aprehendida una mujer, quien es investigada por su presunta participación en siete de los episodios. Una investigación basada en cámaras y testimonios Para avanzar con la causa, los investigadores realizaron tareas de campo, recolectaron declaraciones testimoniales y analizaron registros de cámaras de seguridad privadas y del Centro de Operaciones y Monitoreo (COM).",
-          "También llevaron adelante verificaciones en redes sociales. A partir de las pruebas reunidas, la Justicia otorgó tres órdenes de allanamiento a través del Juzgado de Garantías N.º 1."
-        ],
-        "generated": "2026-11-23T01:36:45.975374+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-23T01:36:03.756363+00:00"
-    },
-    {
-      "key": "pity alvarez condenado 12 anos prision crimen cristian diaz tendra prision domiciliaria",
-      "title": "Pity Álvarez fue condenado a 12 años de prisión por el crimen de Cristian Díaz: tendrá prisión domiciliaria",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-23T01:36:03.756363+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/ead34e6b9ac33f2c56b105bb1bb2b2ad5551409b.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Pity Álvarez fue condenado a 12 años de prisión por el crimen de Cristian Díaz: tendrá prisión domiciliaria",
-          "url": "https://necocheadigital.com/nota/120246/pity-alvarez-fue-condenado-a-12-anos-de-prision-por-el-crimen-de-cristian-diaz-tendra-prision-domiciliaria/",
-          "published_at": null,
-          "first_seen": "2026-11-23T01:36:03.756363+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El Tribunal Oral en lo Criminal y Correccional (TOCC) N° 29, integrado por los jueces Gustavo Goerner , Juan María Ramos Padilla y Hugo Navarro , condenó a Cristian Álvarez Congiu, popularmente conocido como Pity Álvarez , a la pena de 12 años de prisión por el homicidio de Cristian Díaz , crimen ocurrido el 12 de julio de 2018 en el barrio Cardenal Samoré, en Villa Lugano. El músico no estuvo en la sala: el tribunal no autorizó su traslado desde la clínica de rehabilitación en la que está internado de forma compulsiva.",
-          "Sin embargo, sí apareció por videollamada para hacer uso de su derecho a decir sus últimas palabras antes de que los magistratos se retiraran a deliberar. Pero no se conectó para escuchar la sentencia El tribunal dispuso que la pena sea cumplida bajo arresto domiciliario una vez que termine su internación."
-        ],
-        "generated": "2026-11-23T01:36:46.688843+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-23T01:36:03.756363+00:00"
-    },
-    {
-      "key": "virginia aparicio cientifica necochense exonerada inta trabajamos mejorar calidad nuestra vida no enriquecernos",
-      "title": "Virginia Aparicio, la científica necochense exonerada del INTA: “Trabajamos para mejorar la calidad de nuestra vida, no para enriquecernos”",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-23T01:36:03.756363+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/d300809aa4d72d7329594a3bb13da0b3f4c21a12.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Virginia Aparicio, la científica necochense exonerada del INTA: “Trabajamos para mejorar la calidad de nuestra vida, no para enriquecernos”",
-          "url": "https://necocheadigital.com/nota/120243/virginia-aparicio-la-cientifica-necochense-exonerada-del-inta-trabajamos-para-mejorar-la-calidad-de-nuestra-vida-no-para-enriquecernos/",
-          "published_at": null,
-          "first_seen": "2026-11-23T01:36:03.756363+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Virginia Aparicio nació en San Cayetano, pero se crió desde pequeña en Necochea. Ingeniera agrónoma, doctora en Ciencias Agrarias e investigadora del INTA Balcarce, desarrolló durante más de dos décadas trabajos vinculados con la degradación de los suelos y el impacto de las prácticas agropecuarias sobre los recursos naturales. En una entrevista con Quimey Marfil, por Radio Noticias Necochea 97.3, repasó su trayectoria, explicó los resultados de un proyecto científico internacional sobre agroquímicos y contó cómo atravesó el proceso administrativo que derivó en su exoneración del INTA.",
-          "“Soy prácticamente necochense”, expresó al recordar que sus padres se mudaron a Necochea cuando ella tenía apenas 11 meses. Estudió en la Escuela Nº 12 y en el Colegio Danés, y luego se formó en la Facultad de Ciencias Agrarias de la Universidad Nacional de Mar del Plata, en Balcarce. Ingresó al INTA en 2004 y desarrolló allí su carrera profesional."
-        ],
-        "generated": "2026-11-23T01:36:47.380310+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-23T01:36:03.756363+00:00"
-    },
-    {
-      "key": "necochea participo encuentro federal primera infancia recibira mencion trabajo programa muna",
-      "title": "Necochea participó del Encuentro Federal de Primera Infancia y recibirá una mención por su trabajo en el programa MUNA",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-23T01:36:03.756363+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261120164506_foto-primera-infancia2.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Necochea participó del Encuentro Federal de Primera Infancia y recibirá una mención por su trabajo en el programa MUNA",
-          "url": "https://necocheadigital.com/nota/120244/necochea-participo-del-encuentro-federal-de-primera-infancia-y-recibira-una-mencion-por-su-trabajo-en-el-programa-muna/",
-          "published_at": null,
-          "first_seen": "2026-11-23T01:36:03.756363+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "En representación del Ejecutivo local participó la secretaria de Desarrollo Humano y Políticas Sociales, Sandra Antenucci , quien formó parte de esta jornada de intercambio destinada a fortalecer las políticas integrales para la primera infancia desde el ámbito local.",
-          "El encuentro reunió a ministros provinciales, intendentes, equipos técnicos municipales y referentes de organizaciones de la sociedad civil, con el objetivo de compartir experiencias y debatir estrategias vinculadas al rol de los Centros de Desarrollo Infantil (CDI), la articulación entre las áreas de salud, educación y desarrollo humano, y la generación de información estratégica para garantizar igualdad de oportunidades."
-        ],
-        "generated": "2026-11-23T01:36:48.060066+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-23T01:36:03.756363+00:00"
-    },
-    {
-      "key": "moto conductor volvio sorprender necochea ocurrido episodio similar 2024",
-      "title": "Una moto sin conductor volvió a sorprender en Necochea: ya había ocurrido un episodio similar en 2024",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-23T01:36:03.756363+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/229f9b9b0d0d178037ee9f690dd9c5d9a096fece.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Una moto sin conductor volvió a sorprender en Necochea: ya había ocurrido un episodio similar en 2024",
-          "url": "https://necocheadigital.com/nota/120241/una-moto-sin-conductor-volvio-a-sorprender-en-necochea-ya-habia-ocurrido-un-episodio-similar-en-2024/",
-          "published_at": null,
-          "first_seen": "2026-11-23T01:36:03.756363+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Una situación tan curiosa como inesperada se vivió en la zona de calles 78 y 43 de Necochea, donde una moto pasó frente a tres jóvenes sin que hubiera una persona conduciéndola. Las imágenes muestran el momento en que los chicos advierten lo que está sucediendo. Primero se miran sorprendidos, como intentando comprender la escena, y segundos después uno de ellos sale corriendo detrás del vehículo para tratar de alcanzarlo.",
-          "El episodio quedó registrado en video y llamó la atención por lo insólito de la situación. Por el momento, no trascendieron detalles sobre las circunstancias que provocaron que la moto circulara sin conductor. Ver esta publicación en Instagram Una publicación compartida de Necochea Digital (@necocheadigital) Un antecedente registrado por las cámaras del COM Lo curioso es que no se trata de la primera vez que una situación de estas características queda registrada en Necochea."
-        ],
-        "generated": "2026-11-23T01:36:48.782278+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-23T01:36:03.756363+00:00"
-    },
-    {
-      "key": "atletico madrid goleo getafe dos asistencias julian alvarez record diego simeone",
-      "title": "Atlético de Madrid goleó al Getafe con dos asistencias de Julián Álvarez y récord de Diego Simeone",
-      "score": 1.089,
-      "sources_count": 1,
-      "first_seen": "2026-11-22T23:28:42+00:00",
-      "image": "https://cdnartic.ar/FoWWdVIWy26uH5FhOoQLkLTu-ek=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/julian_alvarez.webp",
-      "articles": [
-        {
-          "portal": "Ecos Diarios",
-          "title": "Atlético de Madrid goleó al Getafe con dos asistencias de Julián Álvarez y récord de Diego Simeone",
-          "url": "https://elecos.com.ar/atletico-de-madrid-goleo-al-getafe-con-dos-asistencias-de-julian-alvarez-y-record-de-diego-simeone",
-          "published_at": "2026-11-22T23:28:42+00:00",
-          "first_seen": "2026-11-23T01:36:03.756363+00:00",
-          "category": "deportes-nacional",
-          "image": "https://cdnartic.ar/FoWWdVIWy26uH5FhOoQLkLTu-ek=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/julian_alvarez.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Deportes nacionales Añadir como fuente en Atlético de Madrid goleó al Getafe con dos asistencias de Julián Álvarez y récord de Diego Simeone El equipo dirigido por Diego Simeone se impuso 3-0 ante el Getafe, con una destacada actuación de Julián Álvarez, y el entrenador alcanzó un hito histórico en LaLiga. 22 de noviembre de 2026 | 20:28 Ads El Atlético de Madrid logró una victoria contundente en su visita al Getafe , al imponerse por 3-0 y mantenerse en la tercera posición de LaLiga con 31 unidades, a la expectativa de lo que sucede con el líder Barcelona y el escolta Real Madrid .",
-          "El encuentro fue definido en apenas 30 minutos, tiempo en el que el conjunto visitante sentenció el resultado. Ads El protagonista de la jornada fue el delantero argentino Julián Álvarez , quien brindó las dos asistencias para los goles iniciales."
-        ],
-        "generated": "2026-11-23T01:36:50.039530+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-23T01:36:03.756363+00:00"
-    },
-    {
-      "key": "racing define futuro siete jugadores busca refuerzos temporada 2027",
-      "title": "Racing define el futuro de siete jugadores y busca refuerzos para la temporada 2027",
-      "score": 1.084,
-      "sources_count": 1,
-      "first_seen": "2026-11-22T23:25:15+00:00",
-      "image": "https://cdnartic.ar/t0p9UyN_BxUaGb8WHeI7Q5i8IHk=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/diego_milito_1.jpg",
-      "articles": [
-        {
-          "portal": "Ecos Diarios",
-          "title": "Racing define el futuro de siete jugadores y busca refuerzos para la temporada 2027",
-          "url": "https://elecos.com.ar/racing-define-el-futuro-de-siete-jugadores-y-busca-refuerzos-para-la-temporada-2027",
-          "published_at": "2026-11-22T23:25:15+00:00",
-          "first_seen": "2026-11-23T01:36:03.756363+00:00",
-          "category": "deportes-nacional",
-          "image": "https://cdnartic.ar/t0p9UyN_BxUaGb8WHeI7Q5i8IHk=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/diego_milito_1.jpg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Deportes nacionales Añadir como fuente en Racing define el futuro de siete jugadores y busca refuerzos para la temporada 2027 Tras un año complejo, la dirigencia encabezada por Diego Milito y el cuerpo técnico evaluarán el rendimiento de siete futbolistas durante el primer semestre para reestructurar el plantel profesional. 22 de noviembre de 2026 | 20:25 Ads Luego de un 2026 calificado como un año para el olvido, Racing inició la planificación de la temporada 2027 con el objetivo de renovar su plantel.",
-          "La dirigencia, liderada por Diego Milito , junto al cuerpo técnico, llevará adelante una evaluación exhaustiva durante los primeros seis meses del año para determinar qué jugadores continuarán en la institución y cuáles deberán resolver su situación contractual. Ads Esta reestructuración deportiva, iniciada a mediados de 2026, busca optimizar los recursos y reorganizar el equipo antes de consolidar el proyecto futbolístico definitivo."
-        ],
-        "generated": "2026-11-23T01:36:51.262744+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-23T01:36:03.756363+00:00"
-    },
-    {
-      "key": "reaccion guillermo francella canticos hinchas boca",
-      "title": "La reacción de Guillermo Francella ante los cánticos de hinchas de Boca",
-      "score": 1.082,
-      "sources_count": 1,
-      "first_seen": "2026-11-22T23:23:56+00:00",
-      "image": "https://cdnartic.ar/kms6OArqtQhCmA2BWksid2WzY14=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/guillermo_francella.jpg",
-      "articles": [
-        {
-          "portal": "Ecos Diarios",
-          "title": "La reacción de Guillermo Francella ante los cánticos de hinchas de Boca",
-          "url": "https://elecos.com.ar/la-reaccion-de-guillermo-francella-ante-los-canticos-de-hinchas-de-boca",
-          "published_at": "2026-11-22T23:23:56+00:00",
-          "first_seen": "2026-11-23T01:36:03.756363+00:00",
-          "category": "104",
-          "image": "https://cdnartic.ar/kms6OArqtQhCmA2BWksid2WzY14=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/guillermo_francella.jpg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Espectáculos y arte Añadir como fuente en La reacción de Guillermo Francella ante los cánticos de hinchas de Boca Tras la consagración del club xeneize en la Copa Sudamericana, un grupo de simpatizantes interceptó al actor a la salida del teatro y él respondió con gestos de complicidad. 22 de noviembre de 2026 | 20:23 Ads Ver esta publicación en Instagram Una publicación compartida por El Observador AR (@elobservadorar) En medio de los festejos por la obtención de la Copa Sudamericana 2026 en Colombia, un numeroso grupo de hinchas de Boca que se encontraba en las inmediaciones del Obelisco se trasladó hasta la avenida Corrientes 1343.",
-          "Allí, el actor Guillermo Francella , reconocido fanático de Racing , protagonizaba la obra Desde el jardín en el Teatro Metropolitan ."
-        ],
-        "generated": "2026-11-23T01:36:51.756412+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-23T01:36:03.756363+00:00"
-    },
-    {
-      "key": "daiana pereyra deslumbro miss universo 2026 traje tipico inspirado argentina",
-      "title": "Daiana Pereyra deslumbró en Miss Universo 2026 con un traje típico inspirado en Argentina",
-      "score": 1.079,
-      "sources_count": 1,
-      "first_seen": "2026-11-22T23:22:03+00:00",
-      "image": "https://cdnartic.ar/RRxnwSaMOYWxpIH06vivmyt7gC8=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/daiana_pereyra.jpg",
-      "articles": [
-        {
-          "portal": "Ecos Diarios",
-          "title": "Daiana Pereyra deslumbró en Miss Universo 2026 con un traje típico inspirado en Argentina",
-          "url": "https://elecos.com.ar/daiana-pereyra-deslumbro-en-miss-universo-2026-con-un-traje-tipico-inspirado-en-argentina",
-          "published_at": "2026-11-22T23:22:03+00:00",
-          "first_seen": "2026-11-23T01:36:03.756363+00:00",
-          "category": "104",
-          "image": "https://cdnartic.ar/RRxnwSaMOYWxpIH06vivmyt7gC8=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/daiana_pereyra.jpg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Espectáculos y arte Añadir como fuente en Daiana Pereyra deslumbró en Miss Universo 2026 con un traje típico inspirado en Argentina La modelo misionera representó al país en la 75ª edición del certamen en Puerto Rico, luciendo un diseño que homenajea al Escudo Nacional y a la mujer argentina. 22 de noviembre de 2026 | 20:22 Ads La modelo misionera de 28 años, Daiana Pereyra , representó a la Argentina en la 75ª edición de Miss Universo 2026 , que se desarrolla en San Juan, Puerto Rico.",
-          "La participante captó la atención del público y del jurado al desfilar con un traje típico inspirado en los símbolos patrios, con el Escudo Nacional como eje central de la propuesta. Ads El diseño incluyó elementos icónicos como el Sol de Mayo sobre su cabeza, una estructura con el escudo patrio en la espalda, ramas de laureles, un gorro frigio rojo y dos palomas blancas."
-        ],
-        "generated": "2026-11-23T01:36:53.013807+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-23T01:36:03.756363+00:00"
-    },
-    {
-      "key": "argentino futbol veteranos tiene finalistas necochea",
-      "title": "El Argentino de Fútbol para Veteranos ya tiene a sus finalistas en Necochea",
-      "score": 0.853,
-      "sources_count": 1,
-      "first_seen": "2026-11-22T23:41:43+00:00",
-      "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/2295b1ca-38c2-4c83-9a58-dc7ee394bafd.jpg",
-      "articles": [
-        {
-          "portal": "Diario NQ",
-          "title": "El Argentino de Fútbol para Veteranos ya tiene a sus finalistas en Necochea",
-          "url": "https://diarionq.com.ar/el-argentino-de-futbol-para-veteranos-ya-tiene-a-sus-finalistas-en-necochea/",
-          "published_at": "2026-11-22T23:41:43+00:00",
-          "first_seen": "2026-11-23T01:36:03.756363+00:00",
-          "category": "Deportes",
-          "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/2295b1ca-38c2-4c83-9a58-dc7ee394bafd.jpg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El XXI Campeonato Argentino de Fútbol para Veteranos entra en su jornada decisiva con los cruces por el título y los terceros puestos en las cuatro categorías. Después de cuatro días de intensa competencia y siete partidos disputados por cada equipo, el cansancio físico comienza a ser un factor determinante. Las finales se jugarán en el complejo Pulsen, desde las 10:30.",
-          "El XXI Campeonato Argentino de Fútbol para Veteranos que se desarrolla en Necochea ya tiene definidos a sus finalistas. Luego de una intensa jornada de cuartos de final y semifinales, quedaron establecidos los cruces que determinarán a los campeones de las categorías Fundadores, Graduados, Expertos e Históricos. Con el paso de los partidos, el desgaste físico comenzó a convertirse en uno de los principales protagonistas del certamen."
-        ],
-        "generated": "2026-11-23T01:36:55.247530+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-23T01:36:03.756363+00:00"
-    },
-    {
-      "key": "rosario central elimina gimnasia mendoza avanza cuartos clausura",
-      "title": "Rosario Central elimina a Gimnasia de Mendoza y avanza a cuartos del Clausura",
-      "score": 0.844,
-      "sources_count": 1,
-      "first_seen": "2026-11-22T23:33:58+00:00",
-      "image": null,
-      "articles": [
-        {
-          "portal": "Necochea News",
-          "title": "Rosario Central elimina a Gimnasia de Mendoza y avanza a cuartos del Clausura",
-          "url": "https://necocheanews.com.ar/rosario-central-elimina-a-gimnasia-de-mendoza-y-avanza-a-cuartos-del-clausura/",
-          "published_at": "2026-11-22T23:33:58+00:00",
-          "first_seen": "2026-11-23T01:36:03.756363+00:00",
-          "category": "LOCALES",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El Canalla se impuso 3-1 en el Gigante de Arroyito y se medirá con Barracas Central en la siguiente fase. Rosario Central venció a Gimnasia de Mendoza por 3 a 1 en el Gigante de Arroyito, asegurando su puesto en los cuartos de final del Torneo Clausura. El equipo dirigido por Jorge Almirón abrió el marcador a los seis minutos cuando Campaz recibió un pase largo de Juan Giménez y definió dentro del área contra el arquero César Rigamonti.",
-          "Dos minutos después, Enzo Copetti amplió la ventaja con una definición de pie abierto tras robar el balón en una presión alta y combinar con Campaz. El tercer tanto llegó a los 40 minutos cuando Lautaro Carrera empujó el balón al fondo de la red tras un centro desde la derecha. Gimnasia de Mendoza redujo la diferencia en el tramo final del partido, anotando a través de Facundo Lencioni, pero no logró cambiar el resultado."
-        ],
-        "generated": "2026-11-23T01:36:56.371891+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-23T01:36:03.756363+00:00"
-    },
-    {
-      "key": "puerto quequen participo debate corredor integracion ruta 88",
-      "title": "Puerto Quequén participó del debate por el Corredor de Integración Ruta 88",
-      "score": 0.371,
-      "sources_count": 1,
-      "first_seen": "2026-11-22T11:30:55+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-21-at-11.07.21.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Puerto Quequén participó del debate por el Corredor de Integración Ruta 88",
-          "url": "https://tsnnecochea.com.ar/locales/puerto-quequen-participo-del-debate-por-el-corredor-de-integracion-ruta-88-242980/",
-          "published_at": "2026-11-22T11:30:55+00:00",
-          "first_seen": "2026-11-23T01:36:03.756363+00:00",
-          "category": "Ernesto Povilaitis",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-21-at-11.07.21.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Locales | Ernesto Povilaitis | Congreso de Logística Puerto Quequén participó del debate por el Corredor de Integración Ruta 88 Expuso su presidente Ernesto Povilaitis. Destacó el trabajo académico realizado desde la subsede Quequén dependiente de la UNICEN Por Redacción TSN 22/11/2026 · 08:30 AM Agregar TSN Necochea en E l presidente del Consorcio de Gestión de Puerto Quequén, Dr. Ernesto Povilaitis Giovazzino, participó del panel de Autoridades Municipales del Corredor de Integración de la Ruta Provincial 88, en el marco de la XII edición del Congreso de Logística, Puertos y Comercio Exterior (LOGIPEX), organizado por la UNICEN, Unidad Académica Quequén.",
-          "El encuentro comenzó con la presentación del estudio sobre movilidad y siniestralidad del Corredor de Integración RP 88, a cargo del Dr. Lourdes Poujol del Grupo de Investigación en Logística Urbana de la UEUQ-UNICEN."
-        ],
-        "generated": "2026-11-23T01:37:14.018515+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-23T01:36:03.756363+00:00"
+      "apariciones": 5,
+      "ultima_impresion": "2026-11-23T02:00:00.653510+00:00",
+      "penalizacion": 0.147
     },
     {
       "key": "explosion metrogas remedios escalada nos salvaron obreros",
       "title": "Explosión de MetroGAS en Remedios de Escalada: “Nos salvaron los obreros”",
-      "score": 0.218,
+      "score": 0.008,
       "sources_count": 1,
       "first_seen": "2026-11-22T20:12:00+00:00",
       "image": "http://nden.com.ar/uploads/noticias/5/2026/11/20261122171936_foto-dami-metrogas-3-1600x640.jpg",
@@ -469,16 +469,16 @@
         "paragraphs": [
           "INVESTIGACIÓN | SEGURIDAD Y RESPONSABILIDAD EMPRESARIAL Explosión de MetroGAS en Remedios de Escalada: “Nos salvaron los obreros”"
         ],
-        "generated": "2026-11-23T01:36:57.628784+00:00"
+        "generated": "2026-11-23T02:00:57.106685+00:00"
       },
-      "apariciones": 8,
-      "ultima_impresion": "2026-11-23T01:36:03.756363+00:00",
-      "penalizacion": 0.341
+      "apariciones": 9,
+      "ultima_impresion": "2026-11-23T02:00:00.653510+00:00",
+      "penalizacion": 0.013
     },
     {
       "key": "franco colapinto brillo vegas termino sexto igualo mejor resultado formula",
       "title": "Franco Colapinto brilló en Las Vegas: terminó sexto e igualó su mejor resultado en la Fórmula 1",
-      "score": 0.135,
+      "score": 0.005,
       "sources_count": 1,
       "first_seen": "2026-11-22T14:29:29+00:00",
       "image": null,
@@ -498,16 +498,16 @@
           "El piloto argentino tuvo una destacada actuación en el Gran Premio de Las Vegas, avanzó tres posiciones respecto de su largada y volvió a sumar puntos después de cinco carreras. Max Verstappen se quedó con la victoria, seguido por Lando Norris y Oscar Piastri. Franco Colapinto tuvo un gran desempeño este domingo en el Gran Premio de Las Vegas de la Fórmula 1.",
           "El piloto argentino de Alpine finalizó en el sexto puesto, igualó su mejor resultado en la máxima categoría y volvió a sumar puntos después de cinco competencias. Colapinto había largado desde la novena posición y logró avanzar tres lugares en una carrera que tuvo numerosas alternativas y cambios de posiciones. Su compañero de equipo, Pierre Gasly, terminó quinto, completando una muy buena jornada para Alpine, que ubicó a sus dos autos entre los seis primeros."
         ],
-        "generated": "2026-11-23T01:37:07.205434+00:00"
+        "generated": "2026-11-23T02:01:06.508497+00:00"
       },
-      "apariciones": 8,
-      "ultima_impresion": "2026-11-23T01:36:03.756363+00:00",
-      "penalizacion": 0.341
+      "apariciones": 9,
+      "ultima_impresion": "2026-11-23T02:00:00.653510+00:00",
+      "penalizacion": 0.013
     },
     {
       "key": "necochea habra jornada abierta rcp primeros auxilios prevencion emergencias",
       "title": "Necochea: habrá una jornada abierta de RCP, primeros auxilios y prevención de emergencias",
-      "score": 0.115,
+      "score": 0.004,
       "sources_count": 1,
       "first_seen": "2026-11-22T19:44:00+00:00",
       "image": "http://nden.com.ar/uploads/noticias/5/2026/11/f448fe352a8fbc5931e8f14e3e043136c3d1fd64.jpg",
@@ -526,16 +526,16 @@
         "paragraphs": [
           "ACTIVIDADES GRATUITAS | PREVENCIÓN Y SEGURIDAD Necochea: habrá una jornada abierta de RCP, primeros auxilios y prevención de emergencias"
         ],
-        "generated": "2026-11-23T01:36:59.945423+00:00"
+        "generated": "2026-11-23T02:00:58.956278+00:00"
       },
-      "apariciones": 9,
-      "ultima_impresion": "2026-11-23T01:36:03.756363+00:00",
-      "penalizacion": 0.188
+      "apariciones": 10,
+      "ultima_impresion": "2026-11-23T02:00:00.653510+00:00",
+      "penalizacion": 0.007
     },
     {
       "key": "rosca politica necochense",
       "title": "La “rosca” política necochense",
-      "score": 0.115,
+      "score": 0.004,
       "sources_count": 1,
       "first_seen": "2026-11-22T19:41:06+00:00",
       "image": null,
@@ -555,44 +555,16 @@
           "Por Miguel Abálsamo ¿Parece haber llegado una nueva época? ¿Es tiempo de buscar experiencia en la política camino al 27? Nadie duda de que, de cambiarse la restrictiva ley impulsada por Sergio Massa y María Eugenia Vidal, que limita la posibilidad de que un intendente vuelva a presentarse, enfrentar a un actual jefe comunal requerirá trayectoria, conocimiento, un partido respaldando y un equipo preparado para asumir. La experiencia es, de alguna manera, el resultado de otras épocas, resumiendo en el presente aciertos y errores.",
           "Al menos el radicalismo de nuestro distrito comienza a optar por un atajo ante las diversas posibilidades que no han dado resultado en cuanto al deseo de apariciones importantes en el centenario partido. En nuestro distrito, el descenso es manifiesto. Los errores en acuerdos alejaron hasta al propio afiliado de la participación."
         ],
-        "generated": "2026-11-23T01:37:02.262827+00:00"
-      },
-      "apariciones": 9,
-      "ultima_impresion": "2026-11-23T01:36:03.756363+00:00",
-      "penalizacion": 0.188
-    },
-    {
-      "key": "rodrigo colombani representara necochea juegos mundiales taekwon do uruguay",
-      "title": "Rodrigo Colombani representará a Necochea en los Juegos Mundiales de Taekwon-Do en Uruguay",
-      "score": 0.059,
-      "sources_count": 1,
-      "first_seen": "2026-11-22T18:53:00+00:00",
-      "image": "http://nden.com.ar/uploads/noticias/5/2026/11/52549d3bc2c37c8c2705ed376f7e5cfe6900c2ce.jpg",
-      "articles": [
-        {
-          "portal": "Noticias de Necochea",
-          "title": "Rodrigo Colombani representará a Necochea en los Juegos Mundiales de Taekwon-Do en Uruguay",
-          "url": "https://nden.com.ar/nota/38795/rodrigo-colombani-representara-a-necochea-en-los-juegos-mundiales-de-taekwon-do-en-uruguay",
-          "published_at": "2026-11-22T18:53:00+00:00",
-          "first_seen": "2026-11-22T19:30:01.106982+00:00",
-          "category": null,
-          "image": "http://nden.com.ar/uploads/noticias/5/2026/11/52549d3bc2c37c8c2705ed376f7e5cfe6900c2ce.jpg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TAEKWON-DO ITF | COMPETENCIA INTERNACIONAL Rodrigo Colombani representará a Necochea en los Juegos Mundiales de Taekwon-Do en Uruguay"
-        ],
-        "generated": "2026-11-23T01:37:03.296174+00:00"
+        "generated": "2026-11-23T02:01:01.316108+00:00"
       },
       "apariciones": 10,
-      "ultima_impresion": "2026-11-23T01:36:03.756363+00:00",
-      "penalizacion": 0.103
+      "ultima_impresion": "2026-11-23T02:00:00.653510+00:00",
+      "penalizacion": 0.007
     },
     {
       "key": "gran victoria franco benedictis ultima fecha turismo pista",
       "title": "Gran victoria de Franco De Benedictis en la última fecha del Turismo Pista",
-      "score": 0.048,
+      "score": 0.002,
       "sources_count": 2,
       "first_seen": "2026-11-22T18:35:34+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/09/Screenshot_20260905_1900203.webp",
@@ -621,45 +593,44 @@
           "TSN Necochea | ‹ VOLVER | Deportes | Automovilismo nacional Gran victoria de Franco De Benedictis en la última fecha del Turismo Pista El de Necochea ganó en Rafaela y concluye el año con dos victorias. Por Redacción TSN 22/11/2026 · 03:35 PM Franco De Benedictis en Termas Agregar TSN Necochea en Enorme fin de semana para el piloto necochense Franco De Benedictis, que este domingo ganó la final de la Clase 3 del Turismo Pista en el autódromo de Rafaela, para quedarse con la Copa Tulio Crespi, en el marco de la 10ma y última fecha del campeonato.",
           "El necochense pudo ratificar todo lo bueno del sábado, cuando fue 5toen la clasificación, con una muy bue a victoria en la sería matutina de este domingo,y coronarlo con éxito en la final. Detrás de Franco, llegó segundo Matías Canapino, a la postre el campeón de la Clase 3 del Turismo Pista."
         ],
-        "generated": "2026-11-23T01:36:40.291579+00:00"
+        "generated": "2026-11-23T02:00:37.968153+00:00"
       },
-      "apariciones": 12,
-      "ultima_impresion": "2026-11-23T01:36:03.756363+00:00",
-      "penalizacion": 0.031
+      "apariciones": 13,
+      "ultima_impresion": "2026-11-23T02:00:00.653510+00:00",
+      "penalizacion": 0.001
     },
     {
-      "key": "rojas quiere propuestas presenten 70 funcionarios politicos",
-      "title": "“Si Rojas quiere propuestas, que se las presenten sus más de 70 funcionarios políticos”",
-      "score": 0.006,
+      "key": "rodrigo colombani representara necochea juegos mundiales taekwon do uruguay",
+      "title": "Rodrigo Colombani representará a Necochea en los Juegos Mundiales de Taekwon-Do en Uruguay",
+      "score": 0.002,
       "sources_count": 1,
-      "first_seen": "2026-11-22T17:56:32+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-22-at-13.38.43.webp",
+      "first_seen": "2026-11-22T18:53:00+00:00",
+      "image": "http://nden.com.ar/uploads/noticias/5/2026/11/52549d3bc2c37c8c2705ed376f7e5cfe6900c2ce.jpg",
       "articles": [
         {
-          "portal": "TSN Necochea",
-          "title": "“Si Rojas quiere propuestas, que se las presenten sus más de 70 funcionarios políticos”",
-          "url": "https://tsnnecochea.com.ar/locales/si-rojas-quiere-propuestas-que-se-las-presenten-sus-mas-de-70-funcionarios-politicos-243016/",
-          "published_at": "2026-11-22T17:56:32+00:00",
-          "first_seen": "2026-11-22T18:00:00.557239+00:00",
-          "category": "Intendete Arturo Rojas",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-22-at-13.38.43.webp"
+          "portal": "Noticias de Necochea",
+          "title": "Rodrigo Colombani representará a Necochea en los Juegos Mundiales de Taekwon-Do en Uruguay",
+          "url": "https://nden.com.ar/nota/38795/rodrigo-colombani-representara-a-necochea-en-los-juegos-mundiales-de-taekwon-do-en-uruguay",
+          "published_at": "2026-11-22T18:53:00+00:00",
+          "first_seen": "2026-11-22T19:30:01.106982+00:00",
+          "category": null,
+          "image": "http://nden.com.ar/uploads/noticias/5/2026/11/52549d3bc2c37c8c2705ed376f7e5cfe6900c2ce.jpg"
         }
       ],
       "summary": {
         "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Locales | Intendete Arturo Rojas | La Libertad Avanza “Si Rojas quiere propuestas, que se las presenten sus más de 70 funcionarios políticos” Aseguró Mariano Valiante y recordó que el Intendente cuenta con una planta política numerosa para elaborar soluciones. Informó que el espacio ya tiene su plan de gobierno para ejecutarlo desde diciembre de 2027.",
-          "Por Redacción TSN 22/11/2026 · 02:56 PM Agregar TSN Necochea en El presidente del Bloque de Concejales de La Libertad Avanza y Coordinador de la 5ta Sección, Mariano Valiante salió a responder las declaraciones que el intendente Arturo Rojas, efectuó en el cierre del XII Congreso de Logística, Puertos y Comercio Exterior, cuando señaló que los “referentes libertarios de Necochea “no aportan ninguna idea” y “pretenden dar cátedra” sobre qué hacer en nuestra ciudad."
+          "TAEKWON-DO ITF | COMPETENCIA INTERNACIONAL Rodrigo Colombani representará a Necochea en los Juegos Mundiales de Taekwon-Do en Uruguay"
         ],
-        "generated": "2026-11-23T01:36:58.716956+00:00"
+        "generated": "2026-11-23T02:01:02.460226+00:00"
       },
-      "apariciones": 14,
-      "ultima_impresion": "2026-11-23T01:36:03.756363+00:00",
-      "penalizacion": 0.009
+      "apariciones": 11,
+      "ultima_impresion": "2026-11-23T02:00:00.653510+00:00",
+      "penalizacion": 0.004
     },
     {
       "key": "buen 10 puesto santino marchetti debut milla urbana",
       "title": "Buen 10° puesto para Santino Marchetti en su debut en la Milla Urbana",
-      "score": 0.004,
+      "score": 0.0,
       "sources_count": 2,
       "first_seen": "2026-11-22T17:57:29+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/IMG_38343.webp",
@@ -688,11 +659,40 @@
           "TSN Necochea | ‹ VOLVER | Deportes | Atletismo | Atletismo Buen 10° puesto para Santino Marchetti en su debut en la Milla Urbana El necochense cerró una muy buena temporada. Por Redacción TSN 22/11/2026 · 02:57 PM Agregar TSN Necochea en El atleta necochense Santino Marchetti tuvo hoy su debut en la tradicional New Balance Milla Urbana , una de las competencias más importantes del calendario atlético nacional, y lo hizo nada menos que en la categoría Elite Masculina, en la línea de partida siendo parte de los mejores exponentes del atletismo argentino e internacional.",
           "En una prueba que tuvo como ganador a un atleta mexicano, Marchetti completó el recorrido en 4:23.27 alcanzando el 10° puesto de la clasificación general , en una competencia de altísimo nivel."
         ],
-        "generated": "2026-11-23T01:36:43.408788+00:00"
+        "generated": "2026-11-23T02:00:40.835306+00:00"
       },
-      "apariciones": 16,
-      "ultima_impresion": "2026-11-23T01:36:03.756363+00:00",
-      "penalizacion": 0.003
+      "apariciones": 17,
+      "ultima_impresion": "2026-11-23T02:00:00.653510+00:00",
+      "penalizacion": 0.0
+    },
+    {
+      "key": "rojas quiere propuestas presenten 70 funcionarios politicos",
+      "title": "“Si Rojas quiere propuestas, que se las presenten sus más de 70 funcionarios políticos”",
+      "score": 0.0,
+      "sources_count": 1,
+      "first_seen": "2026-11-22T17:56:32+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-22-at-13.38.43.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "“Si Rojas quiere propuestas, que se las presenten sus más de 70 funcionarios políticos”",
+          "url": "https://tsnnecochea.com.ar/locales/si-rojas-quiere-propuestas-que-se-las-presenten-sus-mas-de-70-funcionarios-politicos-243016/",
+          "published_at": "2026-11-22T17:56:32+00:00",
+          "first_seen": "2026-11-22T18:00:00.557239+00:00",
+          "category": "Intendete Arturo Rojas",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-22-at-13.38.43.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Locales | Intendete Arturo Rojas | La Libertad Avanza “Si Rojas quiere propuestas, que se las presenten sus más de 70 funcionarios políticos” Aseguró Mariano Valiante y recordó que el Intendente cuenta con una planta política numerosa para elaborar soluciones. Informó que el espacio ya tiene su plan de gobierno para ejecutarlo desde diciembre de 2027.",
+          "Por Redacción TSN 22/11/2026 · 02:56 PM Agregar TSN Necochea en El presidente del Bloque de Concejales de La Libertad Avanza y Coordinador de la 5ta Sección, Mariano Valiante salió a responder las declaraciones que el intendente Arturo Rojas, efectuó en el cierre del XII Congreso de Logística, Puertos y Comercio Exterior, cuando señaló que los “referentes libertarios de Necochea “no aportan ninguna idea” y “pretenden dar cátedra” sobre qué hacer en nuestra ciudad."
+        ],
+        "generated": "2026-11-23T02:00:58.186291+00:00"
+      },
+      "apariciones": 15,
+      "ultima_impresion": "2026-11-23T02:00:00.653510+00:00",
+      "penalizacion": 0.0
     },
     {
       "key": "mdf celebro dia militante debate politico uan colecta solidaria",
@@ -717,10 +717,10 @@
           "TSN Necochea | ‹ VOLVER | Locales | Día del militante | Peornismo El MDF celebró el Día del Militante con un debate político y uan colecta solidaria Se reunieron varias agrupación políticas y sociales Por Redacción TSN 22/11/2026 · 11:00 AM Agregar TSN Necochea en Con una importante participación de vecinos, militantes y referentes políticos y sociales, se llevó a cabo hoy la jornada por el Día del Militante en los Fogones del Club del Valle, organizada por el espacio MDF. Durante el encuentro, que combinó el debate político con una colecta solidaria de leche destinada a sectores de la comunidad, los asistentes trabajaron divididos en cuatro ejes temáticos: género, trabajo, adultos mayores y juventud.",
           "En cada una de estas comisiones se intercambiaron miradas y diagnósticos, arribando a diversas conclusiones y propuestas sobre cómo afrontar los desafíos actuales de la sociedad y la política desde múltiples perspectivas."
         ],
-        "generated": "2026-11-23T01:37:04.008284+00:00"
+        "generated": "2026-11-23T02:01:03.215280+00:00"
       },
-      "apariciones": 21,
-      "ultima_impresion": "2026-11-23T01:36:03.756363+00:00",
+      "apariciones": 22,
+      "ultima_impresion": "2026-11-23T02:00:00.653510+00:00",
       "penalizacion": 0.0
     },
     {
@@ -746,10 +746,10 @@
           "El Millonario recibe al Granate este domingo desde las 19 en el estadio Monumental. Ambos equipos buscarán un lugar en los cuartos de final, en una competencia que también otorga una plaza para la próxima Copa Libertadores. River Plate y Lanús se enfrentarán este domingo 22 de noviembre por los octavos de final del Torneo Clausura 2026 de la Liga Profesional. El encuentro comenzará a las 19 en el estadio Monumental y contará con el arbitraje de Pablo Dóvalo.",
           "El conjunto dirigido por Leonardo Ponzio llega a esta instancia después de finalizar cuarto en la Zona B, con 26 puntos, tras una fase regular irregular que logró encaminar en las últimas jornadas. Para River, avanzar en los playoffs resulta fundamental. La conquista del campeonato no solamente significaría volver a levantar un título, sino que también le permitiría asegurar su clasificación a la próxima Copa Libertadores."
         ],
-        "generated": "2026-11-23T01:37:06.048343+00:00"
+        "generated": "2026-11-23T02:01:05.404697+00:00"
       },
-      "apariciones": 21,
-      "ultima_impresion": "2026-11-23T01:36:03.756363+00:00",
+      "apariciones": 22,
+      "ultima_impresion": "2026-11-23T02:00:00.653510+00:00",
       "penalizacion": 0.0
     },
     {
@@ -775,10 +775,10 @@
           "El capitán xeneize perdió el conocimiento mientras brindaba una entrevista televisiva, minutos después de la consagración en la Copa Sudamericana. Recibió asistencia médica y fue trasladado en ambulancia para realizarse controles. La consagración de Boca Juniors en la Copa Sudamericana tuvo un momento de preocupación una vez finalizado el encuentro. Leandro Paredes se descompensó mientras brindaba una entrevista televisiva en el estadio Metropolitano de Barranquilla, poco después de la victoria por 2-0 frente a Atlético Mineiro.",
           "El mediocampista dialogaba con el periodista Marcelo Benedetto, de DSports, cuando repentinamente perdió el conocimiento y cayó al suelo ante la sorpresa de quienes se encontraban en el lugar. Paredes estaba hablando sobre la importancia de la conquista y expresando su felicidad por el título cuando sufrió el episodio. Inmediatamente recibió asistencia y la transmisión televisiva interrumpió el móvil."
         ],
-        "generated": "2026-11-23T01:37:08.404640+00:00"
+        "generated": "2026-11-23T02:01:07.735841+00:00"
       },
-      "apariciones": 21,
-      "ultima_impresion": "2026-11-23T01:36:03.756363+00:00",
+      "apariciones": 22,
+      "ultima_impresion": "2026-11-23T02:00:00.653510+00:00",
       "penalizacion": 0.0
     },
     {
@@ -804,10 +804,10 @@
           "TSN Necochea | ‹ VOLVER | Generales | Abogados | Charla El Colegio de Abogados de Necochea realizó una capacitación sobre estrategias para la defensa del consumidor Organizada por el Instituto de Derecho del Consumo, la jornada contó con una nutrida participación de matriculados y abordó el procedimiento administrativo local, el funcionamiento de la OMIC y las competencias exclusivas del Juzgado de Faltas N° 2.",
           "Por Redacción TSN 22/11/2026 · 09:03 AM Agregar TSN Necochea en Con una destacada convocatoria de profesionales de la matrícula local, se llevó a cabo la charla titulada «Estrategias para la Defensa del Consumidor: Procedimiento Administrativo» , una actividad de actualización organizada por el Instituto de Derecho del Consumo del Colegio de Abogados de Necochea ."
         ],
-        "generated": "2026-11-23T01:37:09.103718+00:00"
+        "generated": "2026-11-23T02:01:08.467393+00:00"
       },
-      "apariciones": 23,
-      "ultima_impresion": "2026-11-23T01:36:03.756363+00:00",
+      "apariciones": 24,
+      "ultima_impresion": "2026-11-23T02:00:00.653510+00:00",
       "penalizacion": 0.0
     },
     {
@@ -833,10 +833,10 @@
           "El piloto argentino igualó su mejor resultado en la máxima categoría del automovilismo al finalizar sexto en el Gran Premio de Las Vegas. Con una destacada actuación, protagonizó grandes maniobras de sobrepaso y volvió a sumar puntos importantes para Alpine, que también celebró el quinto puesto del francés Pierre Gasly. La victoria quedó en manos de Max Verstappen, mientras que Lando Norris y Oscar Piastri completaron el podio.",
           "Franco Colapinto tuvo una jornada inolvidable en el Gran Premio de Las Vegas de Fórmula 1. El argentino completó una de sus mejores actuaciones desde su llegada a la categoría y terminó en el sexto lugar, igualando el resultado que había conseguido anteriormente en Canadá. De esta manera, volvió a meterse entre los protagonistas de la máxima categoría y le permitió a Alpine sumar valiosos puntos para el campeonato."
         ],
-        "generated": "2026-11-23T01:37:11.422773+00:00"
+        "generated": "2026-11-23T02:01:10.902841+00:00"
       },
-      "apariciones": 21,
-      "ultima_impresion": "2026-11-23T01:36:03.756363+00:00",
+      "apariciones": 22,
+      "ultima_impresion": "2026-11-23T02:00:00.653510+00:00",
       "penalizacion": 0.0
     },
     {
@@ -871,10 +871,10 @@
           "FÚTBOL INTERNACIONAL | COPA SUDAMERICANA 2026 Boca campeón de la Copa Sudamericana: venció a Atlético Mineiro y cortó una sequía de 18 años El Xeneize derrotó 2-0 a Atlético Mineiro en Barranquilla, con goles de Santiago Ascacíbar y Miguel Merentiel. El equipo dirigido por Rodolfo Arruabarrena conquistó su tercera Copa Sudamericana y puso fin a una sequía de 18 años sin títulos internacionales. Boca Juniors volvió a escribir una página importante de su historia.",
           "En una noche inolvidable en Barranquilla, Colombia, venció 2-0 a Atlético Mineiro y se consagró campeón de la Copa Sudamericana 2026. De esta manera, el conjunto argentino recuperó el protagonismo continental y volvió a levantar un trofeo internacional después de casi dos décadas. El equipo conducido por Rodolfo Arruabarrena mostró autoridad, intensidad y superioridad futbolística durante buena parte del encuentro."
         ],
-        "generated": "2026-11-23T01:37:13.338913+00:00"
+        "generated": "2026-11-23T02:01:12.850895+00:00"
       },
-      "apariciones": 21,
-      "ultima_impresion": "2026-11-23T01:36:03.756363+00:00",
+      "apariciones": 22,
+      "ultima_impresion": "2026-11-23T02:00:00.653510+00:00",
       "penalizacion": 0.0
     }
   ]
