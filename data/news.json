@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-24T22:00:01.196074+00:00",
+  "generated_at": "2026-11-24T22:01:37.031865+00:00",
   "article_count": 120,
   "fetch_errors": [],
   "stories": [
     {
       "key": "actividad economica registro dos trimestres caida argentina entro recesion tecnica",
       "title": "La actividad económica registró dos trimestres de caída y Argentina entró en recesión técnica",
-      "score": 4.147,
+      "score": 1.292,
       "sources_count": 3,
       "first_seen": "2026-11-24T19:10:16+00:00",
       "image": "https://cdnartic.ar/jRtTZvImsvxxY8_bAIBsioPlqNE=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/los_datos_oficiales_arrojaron_que_la_economia_ingreso_en_recesion_tecnica_en_el_tercer_trimestre_foto_reuters.webp",
@@ -44,16 +44,132 @@
           "Nacionales Añadir como fuente en La actividad económica registró dos trimestres de caída y Argentina entró en recesión técnica El Instituto Nacional de Estadística y Censos confirmó que la economía acumuló dos trimestres consecutivos de contracción, marcando un escenario de recesión técnica a pesar de una leve mejora mensual en septiembre. 24 de noviembre de 2026 | 16:10 Los datos oficiales arrojaron que la economía ingresó en recesión técnica en el tercer trimestre.",
           "(Foto: Reuters) Ads La actividad económica en Argentina ha ingresado formalmente en un escenario de recesión técnica , tras confirmarse que el país acumuló dos trimestres consecutivos de caída en su nivel de producción. Esta situación fue ratificada este martes por el Instituto Nacional de Estadística y Censos (Indec), a través de la difusión de los datos oficiales del Estimador Mensual de Actividad Económica (EMAE)."
         ],
-        "generated": "2026-11-24T22:00:36.949261+00:00"
+        "generated": "2026-11-24T22:02:22.356884+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-11-24T22:00:01.196074+00:00",
-      "penalizacion": 1.0
+      "apariciones": 3,
+      "ultima_impresion": "2026-11-24T22:01:37.031865+00:00",
+      "penalizacion": 0.312
+    },
+    {
+      "key": "concejo deliberante impulsa mesa trabajo ejecutivo vecinos abordar seguridad",
+      "title": "El Concejo Deliberante impulsa una mesa de trabajo con el Ejecutivo y vecinos para abordar la seguridad",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-24T22:01:37.031865+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261124181918_whatsapp-image-2026-11-24-at-18-18-59.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "El Concejo Deliberante impulsa una mesa de trabajo con el Ejecutivo y vecinos para abordar la seguridad",
+          "url": "https://necocheadigital.com/nota/120281/el-concejo-deliberante-impulsa-una-mesa-de-trabajo-con-el-ejecutivo-y-vecinos-para-abordar-la-seguridad/",
+          "published_at": null,
+          "first_seen": "2026-11-24T22:01:37.031865+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La Comisión de Seguridad del Concejo Deliberante resolvió descartar la insistencia sobre la ordenanza del Consejo de Seguridad —vetada recientemente por el Departamento Ejecutivo— y en su lugar propuso abrir una instancia de trabajo articulado junto al municipio y los distintos barrios. Según explicó la presidenta de la comisión, María José Heguy (Nueva Necochea), la iniciativa busca convocar a funcionarios municipales para acordar mecanismos conjuntos centrados en la prevención del delito.",
+          "El tratamiento en comisión surgió a partir de un pedido de Marcelo Rivero (Fuerza Patria) para mantener una reunión con el secretario de Gobierno, Jorge Martínez, o con los responsables del área, propuesta que fue respaldada por su compañera de bloque, Silvia Blanco."
+        ],
+        "generated": "2026-11-24T22:02:51.731493+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-24T22:01:37.031865+00:00"
+    },
+    {
+      "key": "comenzaron definiciones liga necochea ventajas villa diaz velez series abiertas resto cruces",
+      "title": "Comenzaron las definiciones de la Liga Necochea: ventajas para Villa Díaz Vélez y series abiertas en el resto de los cruces",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-24T22:01:37.031865+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261124121135_whatsapp-image-2026-11-24-at-12-11-21.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Comenzaron las definiciones de la Liga Necochea: ventajas para Villa Díaz Vélez y series abiertas en el resto de los cruces",
+          "url": "https://necocheadigital.com/nota/120273/comenzaron-las-definiciones-de-la-liga-necochea-ventajas-para-villa-diaz-velez-y-series-abiertas-en-el-resto-de-los-cruces/",
+          "published_at": null,
+          "first_seen": "2026-11-24T22:01:37.031865+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La Liga Necochea de Fútbol puso en marcha la etapa decisiva de la temporada 2026 con cuatro encuentros de ida repartidos entre el domingo y el lunes feriado, dejando dos series encaminadas y otras dos completamente abiertas de cara a las revanchas del próximo fin de semana. En las semifinales de Primera División masculina del Torneo Sergio “Giuseppe” Portugal, Villa Díaz Vélez dio el golpe como visitante al superar por 2-0 a Estación Quequén en el estadio Carlos Cuomo.",
+          "Tras una primera etapa pareja con remates en los travesaños para ambos lados y una doble intervención clave del arquero Mirco Oliver, el equipo dirigido por Federico Montes resolvió el pleito en el complemento: Lautaro Ruiz Martínez abrió el marcador de volea a los 3 minutos tras un centro de Juan Ignacio Calderón, y Fernando Montes selló el resultado a los 30 minutos luego de un desvío en Gaspar Arias."
+        ],
+        "generated": "2026-11-24T22:02:52.394680+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-24T22:01:37.031865+00:00"
+    },
+    {
+      "key": "defensa civil compartio jornada especial comunidad mostrar trabajo diario",
+      "title": "Defensa Civil compartió una jornada especial con la comunidad para mostrar su trabajo diario",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-24T22:01:37.031865+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261124120419_24-11-foto-dia-defensa-civil.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Defensa Civil compartió una jornada especial con la comunidad para mostrar su trabajo diario",
+          "url": "https://necocheadigital.com/nota/120272/defensa-civil-compartio-una-jornada-especial-con-la-comunidad-para-mostrar-su-trabajo-diario/",
+          "published_at": null,
+          "first_seen": "2026-11-24T22:01:37.031865+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La actividad se desarrolló en la dependencia ubicada en avenida 10 y 97, con la participación de trabajadores de la Dirección que conduce Augusto Fulton , quienes explicaron el funcionamiento de los equipos utilizados en incendios, accidentes y otras contingencias, además de brindar información sobre primeros auxilios y técnicas de Reanimación Cardiopulmonar (RCP). La propuesta también permitió poner en valor una tarea que el personal de Defensa Civil desarrolla diariamente y que, muchas veces, implica estar en la primera línea de respuesta .",
+          "En ese sentido, Miriam, integrante del equipo , explicó que la intención de la jornada fue «exhibir todos los elementos con los que trabajamos en cada situación, mostrarle a la gente y explicarle para qué sirve cada elemento que utilizamos en incendios y otros eventos, y en lo que es primeros auxilios, aprender RCP»."
+        ],
+        "generated": "2026-11-24T22:02:53.515608+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-24T22:01:37.031865+00:00"
+    },
+    {
+      "key": "cierra fabrica calzado chivilcoy intendente reclamo milei crisis industrial",
+      "title": "Cierra una fábrica de calzado en Chivilcoy y el intendente le reclamó a Milei por la crisis industrial",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-24T22:01:37.031865+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/5b80ea610f7d0b564f2db6b0d104eb70fe6c937e.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Cierra una fábrica de calzado en Chivilcoy y el intendente le reclamó a Milei por la crisis industrial",
+          "url": "https://necocheadigital.com/nota/120271/cierra-una-fabrica-de-calzado-en-chivilcoy-y-el-intendente-le-reclamo-a-milei-por-la-crisis-industrial/",
+          "published_at": null,
+          "first_seen": "2026-11-24T22:01:37.031865+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La crisis de la industria del calzado sumó un nuevo capítulo con el cierre definitivo de una fábrica en Chivilcoy. Se trata de Arluchi S.A., perteneciente al Grupo Ruiz y fabricante de suelas de caucho y EVA, que decidió abandonar su producción en Argentina y concentrar sus operaciones en Brasil. La firma, que trabajaba bajo la marca IDS Suelas, había llegado a contar con más de 200 clientes y una plantilla superior a los 80 trabajadores en 2023.",
+          "Sin embargo, según los datos difundidos, su cartera comercial se redujo a apenas 15 clientes y su personal quedó por debajo de un tercio de aquella dotación. La decisión generó preocupación en la ciudad y motivó un fuerte pronunciamiento del intendente Guillermo Britos, quien se dirigió al presidente Javier Milei para advertir sobre las consecuencias de la situación que atraviesan las pymes industriales."
+        ],
+        "generated": "2026-11-24T22:02:54.635247+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-24T22:01:37.031865+00:00"
     },
     {
       "key": "sono boton antipanico detuvieron colectivo",
       "title": "Sonó el botón antipánico y detuvieron el colectivo",
-      "score": 1.226,
+      "score": 0.694,
       "sources_count": 1,
       "first_seen": "2026-11-24T21:17:37+00:00",
       "image": "https://cdnartic.ar/NTmYZ5huXIV3iUkk1L6CZLkGQ0Q=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/sono_el_boton_antipanico_de_un_colectivo_y_lo_detuvo_la_policia.webp",
@@ -73,16 +189,16 @@
           "Policiales Añadir como fuente en Sonó el botón antipánico y detuvieron el colectivo Ni el chofer ni los pasajeros supieron explicar qué ocurrió 24 de noviembre de 2026 | 18:17 Curioso procedimiento por un botón antipánico Ads Un colectivo fue detenido en pleno centro por la Policía cuando por error desde la unidad oprimieron el botón antipánico. Ads Todas las unidades de transporte cuentan con este botón pero esta medida de seguridad no siempre es conocida por los pasajeros y aún por el conductor. Por alguna circunstancia que nadie supo explicar, el botón antipánico comenzó a sonar y la alarma se recibió en el Centro de Monitoreo, desde donde se alertó al Comando de Patrullas.",
           "Ads Inmediatamente personal policial interceptó al colectivo en calle 56 entre 59 y 61, frente a la Municipalidad. Ads Ads Temas necochea Comentarios Para comentar, debés estar registrado Por favor, iniciá sesión INGRESA Ads Ads"
         ],
-        "generated": "2026-11-24T22:00:49.489946+00:00"
+        "generated": "2026-11-24T22:02:41.967404+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-24T22:00:01.196074+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-24T22:01:37.031865+00:00",
+      "penalizacion": 0.568
     },
     {
       "key": "taller raices sancayetanenses brillo encuentro latinoamericano danzas folcloricas",
       "title": "El taller Raíces sancayetanenses brilló en el Encuentro Latinoamericano de Danzas Folclóricas",
-      "score": 1.219,
+      "score": 0.691,
       "sources_count": 1,
       "first_seen": "2026-11-24T21:13:51+00:00",
       "image": "https://cdnartic.ar/Q-nUcX8-ExFVQ04wJbBDKyf7CWY=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/raices_sancayetanenses.webp",
@@ -102,16 +218,16 @@
           "La región y provincia Añadir como fuente en El taller Raíces sancayetanenses brilló en el Encuentro Latinoamericano de Danzas Folclóricas La delegación del Espacio Cultural Municipal de San Cayetano participó del 20º Encuentro Latinoamericano del Canto y las Danzas Folclóricas, donde presentó propuestas artísticas que destacaron la identidad y las tradiciones locales ante una audiencia regional.",
           "24 de noviembre de 2026 | 18:13 Las integrantes del taller Raíces sancayetanenses con sus trajes típicos tras una destacada presentación en el Encuentro Latinoamericano de Danzas Folclóricas Ads El taller de folclore del Espacio Cultural Municipal, denominado Raíces sancayetanenses y dirigido por el profesor Emanuel Gómez , tuvo una destacada participación en el 20º Encuentro Latinoamericano del Canto y las Danzas Folclóricas."
         ],
-        "generated": "2026-11-24T22:00:51.039691+00:00"
+        "generated": "2026-11-24T22:02:42.477104+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-24T22:00:01.196074+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-24T22:01:37.031865+00:00",
+      "penalizacion": 0.568
     },
     {
       "key": "loberia conmemorara 25n jornada reflexion movilizacion violencia genero",
       "title": "Lobería conmemorará el 25N con una jornada de reflexión y movilización contra la violencia de género",
-      "score": 1.202,
+      "score": 0.681,
       "sources_count": 1,
       "first_seen": "2026-11-24T21:03:23+00:00",
       "image": "https://cdnartic.ar/zMlchDhEoLSgdicwxieGqM83-G8=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2025/02/en_enero_hubo_28_victimas_de_violencia_de_genero_en_argentina.webp",
@@ -131,45 +247,16 @@
           "La región y provincia Añadir como fuente en Lobería conmemorará el 25N con una jornada de reflexión y movilización contra la violencia de género En el marco del Día Internacional de la Eliminación de la Violencia contra las Mujeres, se llevará adelante una jornada de encuentro y participación colectiva para exigir justicia y defender los derechos fundamentales. 24 de noviembre de 2026 | 18:03 Jornada.",
           "Contra la violencia de género en Lobería Ads La comunidad de Lobería se prepara para una nueva jornada de visibilización y lucha en el marco del Día Internacional de la Eliminación de la Violencia contra las Mujeres. La convocatoria, fijada para este miércoles 25 de noviembre a las 17:30, tendrá como epicentro la explanada del Palacio Municipal."
         ],
-        "generated": "2026-11-24T22:00:52.449423+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-24T22:00:01.196074+00:00"
-    },
-    {
-      "key": "incendio auto 74 49 51",
-      "title": "Se incendió un auto en 74 entre 49 y 51",
-      "score": 1.178,
-      "sources_count": 1,
-      "first_seen": "2026-11-24T20:49:00+00:00",
-      "image": "https://cdnartic.ar/dAJ2-ZN9msosuICU-WKV2QVP20g=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/el_auto_se_incendio_en_avenida_75_entre_49_y_51.webp",
-      "articles": [
-        {
-          "portal": "Ecos Diarios",
-          "title": "Se incendió un auto en 74 entre 49 y 51",
-          "url": "https://elecos.com.ar/se-incendio-un-auto-en-74-entre-49-y-51",
-          "published_at": "2026-11-24T20:49:00+00:00",
-          "first_seen": "2026-11-24T21:30:01.216996+00:00",
-          "category": "13",
-          "image": "https://cdnartic.ar/dAJ2-ZN9msosuICU-WKV2QVP20g=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/el_auto_se_incendio_en_avenida_75_entre_49_y_51.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Policiales Añadir como fuente en Se incendió un auto en 74 entre 49 y 51 El conductor se dio cuenta del desperfecto y evitó que el vehículo fuera consumido por las llamas 24 de noviembre de 2026 | 17:49 El motor sufrió un desperfecto y se incendió Ads Un automóvil Peugeot 308 se incendió esta tarde en la avenida 74 entre 49 y 51 y debió concurrir una dotación de Bomberos. Ads El conductor del vehículo advirtió que un fallo en el motor y decidió detenerse, bajarse y llamar a los Bomberos. Al llegar la dotación del Cuartel de Bomberos local advirtió que el fuego se había desplazado del motor a la transmisión, la caja y la transmisión, mientras que el habitáculo estaba lleno de humo.",
-          "Ads Si bien no había llamas a la vida, los Bomb eros procedieron a enfriar el auto antes de abrir el capot. Puede interesarte Ads Ads Temas necochea Comentarios Para comentar, debés estar registrado Por favor, iniciá sesión INGRESA Ads Ads"
-        ],
-        "generated": "2026-11-24T22:00:53.922952+00:00"
+        "generated": "2026-11-24T22:02:43.005946+00:00"
       },
       "apariciones": 2,
-      "ultima_impresion": "2026-11-24T22:00:01.196074+00:00",
-      "penalizacion": 1.0
+      "ultima_impresion": "2026-11-24T22:01:37.031865+00:00",
+      "penalizacion": 0.568
     },
     {
       "key": "defensa civil mostro trabajo diario destaco valor prevencion",
       "title": "Defensa Civil mostró su trabajo diario y destacó el valor de la prevención",
-      "score": 1.154,
+      "score": 0.654,
       "sources_count": 1,
       "first_seen": "2026-11-24T21:31:53+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/24-11-FOTO-Dia-Defensa-Civil.webp",
@@ -189,16 +276,16 @@
           "TSN Necochea | ‹ VOLVER | Locales | Defensa Civil | Jornada especial Defensa Civil mostró su trabajo diario y destacó el valor de la prevención Actividad en el marco del Día de la Defensa Civil. xplicaron el funcionamiento de los equipos utilizados en incendios, accidentes y otras contingencias, además de brindar información sobre primeros auxilios y técnicas de Reanimación Cardiopulmonar (RCP).",
           "Por Redacción TSN 24/11/2026 · 06:31 PM Agregar TSN Necochea en En el marco del Día Nacional de la Defensa Civil, que se conmemoró el pasado lunes 23 de noviembre , el personal del área municipal compartió una jornada de exhibición y acercamiento con los vecinos en su sede del Parque Miguel Lillo, donde mostró los elementos y las herramientas que utiliza para intervenir en distintas situaciones de emergencia."
         ],
-        "generated": "2026-11-24T22:00:55.137332+00:00"
+        "generated": "2026-11-24T22:02:47.755253+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-24T22:00:01.196074+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-24T22:01:37.031865+00:00",
+      "penalizacion": 0.568
     },
     {
       "key": "quirofano movil atendera sector corralon municipal diciembre",
       "title": "El Quirófano Móvil atenderá en el sector del Corralón Municipal durante diciembre",
-      "score": 1.119,
+      "score": 0.634,
       "sources_count": 2,
       "first_seen": "2026-11-24T11:45:52+00:00",
       "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261123142603_foto-quirofano-movil-corralon-municipal.jpg",
@@ -227,132 +314,16 @@
           "El equipo de trabajo, coordinado por la Dirección de Bromatología e Higiene, dependiente de la Secretaría de Salud, recibirá a los animales con turno previo, que deberá solicitarse por WhatsApp al 2262 245868. Se recuerda que, para realizar la cirugía, las mascotas deben concurrir con un ayuno mínimo de seis horas y llevar una manta o abrigo para el postoperatorio. La castración constituye una herramienta fundamental para el control poblacional de perros y gatos, la prevención de enfermedades y el cuidado de su bienestar.",
           "En ese sentido, desde el área se insiste en la importancia de no esperar a que los animales tengan su primera cría o apareamiento para realizar la intervención. De esta manera, el Estado municipal continúa garantizando el acceso gratuito a un servicio esencial para la salud pública y la promoción de la tenencia responsable en el distrito."
         ],
-        "generated": "2026-11-24T22:00:58.100370+00:00"
+        "generated": "2026-11-24T22:02:51.050926+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-24T22:00:01.196074+00:00"
-    },
-    {
-      "key": "economia argentina volvio caer recesion tecnica",
-      "title": "La economía argentina volvió a caer en recesión técnica",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-24T22:00:01.196074+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261124165417_captura.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "La economía argentina volvió a caer en recesión técnica",
-          "url": "https://necocheadigital.com/nota/120277/la-economia-argentina-volvio-a-caer-en-recesion-tecnica/",
-          "published_at": null,
-          "first_seen": "2026-11-24T22:00:01.196074+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La economía argentina registró una mejora mensual durante septiembre, aunque el repunte no fue suficiente para revertir la tendencia negativa de los meses anteriores. Según el último informe del Instituto Nacional de Estadística y Censos (INDEC), el Estimador Mensual de Actividad Económica (EMAE) avanzó un 1,1% respecto de agosto, pero cayó un 1,2% en la comparación con el mismo mes de 2025. El resultado se conoció en un contexto de retracción de la actividad y confirmó las dificultades para consolidar una recuperación sostenida.",
-          "La fuerte caída registrada en julio y el limitado crecimiento de agosto dejaron un escenario que, sumado al retroceso del Producto Bruto Interno (PBI) durante el segundo trimestre, configura un cuadro de recesión técnica. Este fenómeno se produce cuando la economía acumula dos trimestres consecutivos de caída del PBI, una vez descontados los factores estacionales."
-        ],
-        "generated": "2026-11-24T22:00:59.485068+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-24T22:00:01.196074+00:00"
-    },
-    {
-      "key": "proscribiendo gargaglione reclamo habilitar re reeleccion intendentes bonaerenses",
-      "title": "“Se está proscribiendo”: Gargaglione reclamó habilitar la re-reelección de los intendentes bonaerenses",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-24T22:00:01.196074+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261124144113_captura.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "“Se está proscribiendo”: Gargaglione reclamó habilitar la re-reelección de los intendentes bonaerenses",
-          "url": "https://necocheadigital.com/nota/120275/se-esta-proscribiendo-gargaglione-reclamo-habilitar-la-re-reeleccion-de-los-intendentes-bonaerenses/",
-          "published_at": null,
-          "first_seen": "2026-11-24T22:00:01.196074+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La posibilidad de que los intendentes bonaerenses puedan competir por un nuevo mandato volvió a quedar en el centro de la discusión política provincial. El intendente de San Cayetano, Miguel Gargaglione en declaraciones al periodista Miguel Abalsamo de Diario NQ, se pronunció a favor de permitir las reelecciones y cuestionó duramente la legislación que establece límites a la continuidad de los jefes comunales. Durante una entrevista, el dirigente radical sostuvo que la normativa aprobada durante el gobierno de María Eugenia Vidal restringe el derecho de los ciudadanos a elegir libremente a sus representantes.",
-          "“Me parece que es fundamental dejar a la población que se exprese, no proscribir. Y hoy se está proscribiendo, y es inconstitucional”, afirmó."
-        ],
-        "generated": "2026-11-24T22:01:00.886708+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-24T22:00:01.196074+00:00"
-    },
-    {
-      "key": "gargaglione apunto milei venian combatir casta estan haciendo mismo antes",
-      "title": "Gargaglione apuntó contra Milei: “Los que venían a combatir a la casta están haciendo lo mismo que antes”",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-24T22:00:01.196074+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/5dbce1709ae482c29641d3c88db6f03bca0adf95.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Gargaglione apuntó contra Milei: “Los que venían a combatir a la casta están haciendo lo mismo que antes”",
-          "url": "https://necocheadigital.com/nota/120276/gargaglione-apunto-contra-milei-los-que-venian-a-combatir-a-la-casta-estan-haciendo-lo-mismo-que-antes/",
-          "published_at": null,
-          "first_seen": "2026-11-24T22:00:01.196074+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El debate sobre el futuro de las Primarias Abiertas, Simultáneas y Obligatorias (PASO) volvió a generar cuestionamientos desde el interior bonaerense. Esta vez fue el intendente de San Cayetano, Miguel Gargaglione, quien expresó fuertes críticas a las negociaciones políticas que se desarrollan alrededor de su continuidad. Durante una entrevista en NEC Radio, el jefe comunal radical cuestionó que la discusión sobre las primarias esté atravesada por acuerdos y conveniencias electorales, y apuntó directamente contra el discurso del Gobierno nacional.",
-          "“Hoy se está debatiendo PASO sí, PASO no, cuando las PASO en realidad ordenaban. Los que venían a combatir a la casta están haciendo lo mismo que se hacía antes, con la billetera a ver qué senadores los apoyan y los senadores responden a los gobernadores a ver qué conseguimos para nuestra provincia."
-        ],
-        "generated": "2026-11-24T22:01:01.637337+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-24T22:00:01.196074+00:00"
-    },
-    {
-      "key": "turistas menor gasto fin semana largo dejo balance negativo sector turistico",
-      "title": "Menos turistas y menor gasto: el fin de semana largo dejó un balance negativo para el sector turístico",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-24T22:00:01.196074+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/bce524c899c3d7c197f3701d3b9aa9fd840afa52.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Menos turistas y menor gasto: el fin de semana largo dejó un balance negativo para el sector turístico",
-          "url": "https://necocheadigital.com/nota/120270/menos-turistas-y-menor-gasto-el-fin-de-semana-largo-dejo-un-balance-negativo-para-el-sector-turistico/",
-          "published_at": null,
-          "first_seen": "2026-11-24T22:00:01.196074+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El último fin de semana largo volvió a mostrar las dificultades que atraviesa el sector turístico en medio de un escenario económico que condiciona las decisiones de los viajeros. Menos personas se movilizaron, las estadías fueron más cortas y el gasto en los destinos se redujo, de acuerdo con el relevamiento difundido por la Confederación Argentina de la Mediana Empresa (CAME). Según el informe, alrededor de 1.410.000 turistas viajaron durante el descanso por el Día de la Soberanía Nacional y generaron un impacto económico superior a los 332.550 millones de pesos.",
-          "En comparación con el mismo período de 2025, la cantidad de viajeros cayó un 17,4%, mientras que el impacto económico retrocedió un 30,3%. La comparación debe contemplar que el año pasado el feriado había conformado un fin de semana de cuatro días, mientras que en esta oportunidad el descanso fue más corto."
-        ],
-        "generated": "2026-11-24T22:01:02.905720+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-24T22:00:01.196074+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-24T22:01:37.031865+00:00",
+      "penalizacion": 0.568
     },
     {
       "key": "intendente arturo rojas recibe delegacion club futbol clase bogota",
       "title": "Intendente Arturo Rojas recibe a la delegación del Club Fútbol Clase de Bogotá",
-      "score": 0.989,
+      "score": 0.56,
       "sources_count": 1,
       "first_seen": "2026-11-24T21:52:17+00:00",
       "image": null,
@@ -372,16 +343,16 @@
           "El plantel Sub‑15 llegó el domingo y se quedará en Necochea hasta el miércoles, antes de proseguir su gira a Mar del Plata. El intendente Arturo Rojas recibió en el despacho municipal a los integrantes del Club Fútbol Clase, una institución de Bogotá que, desde 2010, visita anualmente la ciudad con su escuela de formación futbolística para niños y jóvenes. En el encuentro también participaron la secretaria de Turismo y Desarrollo Productivo, Silvia Jensen, y el director de Deportes, Juan I.",
           "Encabezando la delegación estuvo el profesor Johanny Falla, quien entregó presentes al jefe comunal y resaltó el vínculo construido con Necochea a lo largo de los años. «Nuevamente estamos visitando la ciudad de Necochea. Desde 2010 venimos año a año y esta bella ciudad nos ha abierto sus brazos y nos ha acogido como una familia», declaró."
         ],
-        "generated": "2026-11-24T22:01:04.347117+00:00"
+        "generated": "2026-11-24T22:02:55.644236+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-24T22:00:01.196074+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-24T22:01:37.031865+00:00",
+      "penalizacion": 0.568
     },
     {
       "key": "eventos deportivos fin semana largo llenan hoteles dinamizan economia necochea",
       "title": "Eventos deportivos del fin de semana largo llenan hoteles y dinamizan la economía de Necochea",
-      "score": 0.976,
+      "score": 0.553,
       "sources_count": 1,
       "first_seen": "2026-11-24T21:42:46+00:00",
       "image": null,
@@ -401,16 +372,16 @@
           "El programa “Necochea Deportiva” generó ocupación hotelera cercana al 100 % y benefició al sector gastronómico y comercial tras la realización de torneos de fútbol veterano, cestobol, triatlón, taekwondo, tenis y travesías 4×4. La Secretaría de Turismo y Desarrollo Productivo, a cargo de Silvia Jensen, informó que el reciente fin de semana largo impulsó de forma notable la actividad turística y económica de la ciudad.",
           "La concentración de eventos deportivos y sociales dentro del programa “Necochea Deportiva” provocó una ocupación hotelera que alcanzó el 100 % en varios establecimientos, repercutiendo también en restaurantes, comercios y prestadores de servicios turísticos."
         ],
-        "generated": "2026-11-24T22:01:05.699512+00:00"
+        "generated": "2026-11-24T22:02:56.681374+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-24T22:00:01.196074+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-24T22:01:37.031865+00:00",
+      "penalizacion": 0.568
     },
     {
       "key": "vacunan dengue necochea mayores 15 menores 60 anos",
       "title": "Vacunan contra el dengue en Necochea a mayores de 15 y menores de 60 años",
-      "score": 0.967,
+      "score": 0.548,
       "sources_count": 1,
       "first_seen": "2026-11-24T21:36:09+00:00",
       "image": null,
@@ -430,16 +401,45 @@
           "El CAPS Fucile de la Villa Balnearia brinda las dosis gratuitas sin inscripción previa. El esquema completo consta de dos aplicadas con tres meses de intervalo. La directora de Atención Primaria de la Salud, Carina Mazeris, confirmó que la vacuna contra el dengue está disponible para todas las personas de entre 15 y 59 años, tanto si han padecido la enfermedad como si no. No se exige antecedente de dengue ni ningún requisito epidemiológico para acceder a la inmunización.",
           "El centro habilitado para aplicar las inyecciones es el CAPS Fucile, ubicado en calle 71 n.º 276, entre las avenidas 4 y 6, en la Villa Balnearia. El vacunatorio funciona de jueves a sábado, de 8 a 15 horas, y no requiere inscripción previa: los residentes que cumplan el rango de edad pueden presentarse directamente. El esquema de vacunación comprende dos dosis, con un intervalo de tres meses entre una y otra."
         ],
-        "generated": "2026-11-24T22:01:07.148447+00:00"
+        "generated": "2026-11-24T22:02:57.661357+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-24T22:00:01.196074+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-24T22:01:37.031865+00:00",
+      "penalizacion": 0.568
+    },
+    {
+      "key": "incendio auto 74 49 51",
+      "title": "Se incendió un auto en 74 entre 49 y 51",
+      "score": 0.367,
+      "sources_count": 1,
+      "first_seen": "2026-11-24T20:49:00+00:00",
+      "image": "https://cdnartic.ar/dAJ2-ZN9msosuICU-WKV2QVP20g=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/el_auto_se_incendio_en_avenida_75_entre_49_y_51.webp",
+      "articles": [
+        {
+          "portal": "Ecos Diarios",
+          "title": "Se incendió un auto en 74 entre 49 y 51",
+          "url": "https://elecos.com.ar/se-incendio-un-auto-en-74-entre-49-y-51",
+          "published_at": "2026-11-24T20:49:00+00:00",
+          "first_seen": "2026-11-24T21:30:01.216996+00:00",
+          "category": "13",
+          "image": "https://cdnartic.ar/dAJ2-ZN9msosuICU-WKV2QVP20g=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/el_auto_se_incendio_en_avenida_75_entre_49_y_51.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Policiales Añadir como fuente en Se incendió un auto en 74 entre 49 y 51 El conductor se dio cuenta del desperfecto y evitó que el vehículo fuera consumido por las llamas 24 de noviembre de 2026 | 17:49 El motor sufrió un desperfecto y se incendió Ads Un automóvil Peugeot 308 se incendió esta tarde en la avenida 74 entre 49 y 51 y debió concurrir una dotación de Bomberos. Ads El conductor del vehículo advirtió que un fallo en el motor y decidió detenerse, bajarse y llamar a los Bomberos. Al llegar la dotación del Cuartel de Bomberos local advirtió que el fuego se había desplazado del motor a la transmisión, la caja y la transmisión, mientras que el habitáculo estaba lleno de humo.",
+          "Ads Si bien no había llamas a la vida, los Bomb eros procedieron a enfriar el auto antes de abrir el capot. Puede interesarte Ads Ads Temas necochea Comentarios Para comentar, debés estar registrado Por favor, iniciá sesión INGRESA Ads Ads"
+        ],
+        "generated": "2026-11-24T22:02:43.596839+00:00"
+      },
+      "apariciones": 3,
+      "ultima_impresion": "2026-11-24T22:01:37.031865+00:00",
+      "penalizacion": 0.312
     },
     {
       "key": "centro dia todo ellos mary serrano celebro 30 anos trabajo inclusion",
       "title": "El Centro de Día de Todo para Ellos \"Mary Serrano\" celebró 30 años de trabajo e inclusión",
-      "score": 0.868,
+      "score": 0.271,
       "sources_count": 2,
       "first_seen": "2026-11-24T14:48:29+00:00",
       "image": "https://cdnartic.ar/6_Oc2rmDxCZLakRCnlHq3h9RibA=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/centro_de_dia_todo_para_ellos.webp",
@@ -468,16 +468,16 @@
           "La ciudad Añadir como fuente en El Centro de Día de Todo para Ellos \"Mary Serrano\" celebró 30 años de trabajo e inclusión Familias, trabajadores y autoridades compartieron una jornada con música y folclore, en la que recordaron los orígenes y destacaron la inclusión y la contención. 24 de noviembre de 2026 | 16:33 Color y emoción. En la celebración de los 30 años del Centro de Día de Todo para Ellos.",
           "| PH: Ecos Diarios Ads Con la calle cortada, música, bailes folclóricos y una importante participación de familiares, trabajadores y personas con discapacidad, el Centro de Día de la Asociación Civil Todo para Ellos “Mary Serrano” celebró sus 30 años de actividad en su sede de calle 30 Nº 3358. La jornada estuvo atravesada por la alegría, pero también por momentos de mucha emoción, especialmente al recordar los inicios de la institución y el esfuerzo de las familias que impulsaron su creación."
         ],
-        "generated": "2026-11-24T22:00:44.660763+00:00"
+        "generated": "2026-11-24T22:02:37.144097+00:00"
       },
-      "apariciones": 3,
-      "ultima_impresion": "2026-11-24T22:00:01.196074+00:00",
-      "penalizacion": 0.55
+      "apariciones": 4,
+      "ultima_impresion": "2026-11-24T22:01:37.031865+00:00",
+      "penalizacion": 0.172
     },
     {
       "key": "necochea deportiva apuesta da impulso turistico fin semana largo",
       "title": "“Necochea Deportiva” la apuesta que da un impulso turístico durante el fin de semana largo",
-      "score": 0.604,
+      "score": 0.188,
       "sources_count": 2,
       "first_seen": "2026-11-24T17:37:31+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/24-11-FOTO-futbol-veteranos3.webp",
@@ -506,16 +506,16 @@
           "TSN Necochea | ‹ VOLVER | Generales | Comando de Patrullas | Eventos “Necochea Deportiva” la apuesta que da un impulso turístico durante el fin de semana largo Desde Turismo se destaca el impacto de estos acontecimientos en la actividad hotelera local y se pone en valor el programa “Necochea Deportiva”, presentado en la última Feria Internacional de Turismo (FIT).",
           "Por Redacción TSN 24/11/2026 · 02:37 PM Agregar TSN Necochea en La Secretaría de Turismo y Desarrollo Productivo , a cargo de Silvia Jensen, destacó este martes el importante movimiento turístico y económico generado durante el pasado fin de semana largo a partir de distintos eventos deportivos y sociales , en el marco del programa “Necochea Deportiva”, que contribuyeron a dinamizar la actividad hotelera, gastronómica y comercial de la ciudad."
         ],
-        "generated": "2026-11-24T22:00:40.958327+00:00"
+        "generated": "2026-11-24T22:02:33.902527+00:00"
       },
-      "apariciones": 4,
-      "ultima_impresion": "2026-11-24T22:00:01.196074+00:00",
-      "penalizacion": 0.302
+      "apariciones": 5,
+      "ultima_impresion": "2026-11-24T22:01:37.031865+00:00",
+      "penalizacion": 0.094
     },
     {
       "key": "jovenes futbolistas colombianos entrenan necochea visitaron intendente",
       "title": "​Jóvenes futbolistas colombianos se entrenan en Necochea y visitaron al Intendente",
-      "score": 0.248,
+      "score": 0.077,
       "sources_count": 1,
       "first_seen": "2026-11-24T17:25:50+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/24-11-FOTO-Rojas-Futbol-Clase5-1.webp",
@@ -535,16 +535,16 @@
           "TSN Necochea | ‹ VOLVER | Deportes | Fútbol Clase | Recreación ​Jóvenes futbolistas colombianos se entrenan en Necochea y visitaron al Intendente La delegación está encabezada por el profesor Johanny Falla, Por Redacción TSN 24/11/2026 · 02:25 PM Agregar TSN Necochea en El intendente Arturo Rojas recibió a integrantes del Club Fútbol Clase, de Bogotá, Colombia, una institución que desde 2010 visita año tras año Necochea con su escuela de formación futbolística para niños y jóvenes, en el marco de intercambios deportivos y culturales. En el encuentro realizado en el despacho municipal, estuvieron la Secretaria de Turismo y Desarrollo Productivo, Silvia Jensen; y el director de Deportes, Juan I.",
           "La delegación está encabezada por el profesor Johanny Falla , quien le entregó presentes al jefe comunal y destacó el vínculo que fueron construyendo con la ciudad a lo largo de estos años. «Nuevamente estamos visitando la ciudad de Necochea."
         ],
-        "generated": "2026-11-24T22:01:10.791691+00:00"
+        "generated": "2026-11-24T22:03:01.202796+00:00"
       },
-      "apariciones": 4,
-      "ultima_impresion": "2026-11-24T22:00:01.196074+00:00",
-      "penalizacion": 0.302
+      "apariciones": 5,
+      "ultima_impresion": "2026-11-24T22:01:37.031865+00:00",
+      "penalizacion": 0.094
     },
     {
       "key": "dengue quienes pueden vacunarse donde acceder dosis gratuitas necochea",
       "title": "Dengue: Quiénes pueden vacunarse y dónde acceder a las dosis gratuitas en Necochea",
-      "score": 0.059,
+      "score": 0.018,
       "sources_count": 2,
       "first_seen": "2026-11-24T18:26:20+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2024/01/mosquitos.webp",
@@ -573,16 +573,16 @@
           "TSN Necochea | ‹ VOLVER | Generales | dengue | Prevención Dengue: Quiénes pueden vacunarse y dónde acceder a las dosis gratuitas en Necochea Ya no es necesario contar con antecedentes de esta enfermedad, ni cumplir con un requisito epidemiológico para acceder a la vacuna. Por Redacción TSN 24/11/2026 · 03:26 PM Agregar TSN Necochea en La vacunación contra el dengue está disponible para todas las personas de entre 15 y 59 años, hayan tenido la enfermedad anteriormente o no.",
           "Así lo informó la directora de Atención Primaria de la Salud, Carina Mazeris , quien brindó precisiones sobre el esquema de inmunización y recordó que en Necochea el centro habilitado para aplicar las dosis es el CAPS Fucile , ubicado en la Villa Balnearia. La funcionaria explicó que actualmente ya no es necesario contar con antecedentes de dengue ni cumplir con un requisito epidemiológico para acceder a la vacuna ."
         ],
-        "generated": "2026-11-24T22:00:38.911552+00:00"
+        "generated": "2026-11-24T22:02:31.626647+00:00"
       },
-      "apariciones": 8,
-      "ultima_impresion": "2026-11-24T22:00:01.196074+00:00",
-      "penalizacion": 0.028
+      "apariciones": 9,
+      "ultima_impresion": "2026-11-24T22:01:37.031865+00:00",
+      "penalizacion": 0.009
     },
     {
       "key": "buscan cubrir cuatro vacantes clave justicia local",
       "title": "Buscan cubrir cuatro vacantes clave en la Justicia local",
-      "score": 0.042,
+      "score": 0.013,
       "sources_count": 2,
       "first_seen": "2026-11-24T15:28:00+00:00",
       "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261123145237_20220201095348-fuero-penal.jpg",
@@ -611,16 +611,16 @@
           "El Senado de la provincia de Buenos Aires analiza las ternas de candidatos para avanzar en la cobertura de cuatro puestos estratégicos dentro del Departamento Judicial local. Se trata de dos cargos de agente fiscal, una vocalía para el Tribunal del Trabajo y un lugar de juez en el Tribunal en lo Criminal, expedientes que integran un paquete general de alrededor de 250 pliegos impulsados por el gobernador Axel Kicillof para reducir las subrogancias en todo el territorio bonaerense.",
           "Para cubrir los dos puestos de agente fiscal, cuya evaluación escrita en el Consejo de la Magistratura se sustanció el 26 de noviembre de 2024, la nómina elevada está compuesta por seis aspirantes: Cintia Lucrecia Alonso, Néstor Gabriel Cisneros, Romina Daniela López, Marina Victoria Pannunzio, Romina Natalia Perrone y Leonardo Antón Federico Tripiana."
         ],
-        "generated": "2026-11-24T22:00:46.140252+00:00"
+        "generated": "2026-11-24T22:02:39.454791+00:00"
       },
-      "apariciones": 8,
-      "ultima_impresion": "2026-11-24T22:00:01.196074+00:00",
-      "penalizacion": 0.028
+      "apariciones": 9,
+      "ultima_impresion": "2026-11-24T22:01:37.031865+00:00",
+      "penalizacion": 0.009
     },
     {
       "key": "martes rojo argentina riesgo pais supera 100 sube dolar",
       "title": "Martes en rojo para la Argentina: el riesgo país supera los 1.100 y sube el dólar",
-      "score": 0.013,
+      "score": 0.004,
       "sources_count": 1,
       "first_seen": "2026-11-24T17:39:55+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/540-17.avif",
@@ -640,16 +640,16 @@
           "TSN Necochea | ‹ VOLVER | Nación | Banco Nación Martes en rojo para la Argentina: el riesgo país supera los 1.100 y sube el dólar El indicador soberano avanza 73 unidades con relación al cierre del lunes. En tanto, la divisa supera los $1.600. Por Redacción TSN 24/11/2026 · 02:39 PM Agregar TSN Necochea en El riesgo país retomó este martes la senda alcista tras el alivio en el inicio de la semana y el Banco Nación se vio obligado a ajustar en dos oportunidades la cotización oficial del dólar ante un clima financiero adverso.",
           "El indicador soberano saltó a 1.108 unidades , lo que implica un salto de 73 puntos con relación al último cierre. En tanto, el dólar oficial cotiza a $1.560 para la compra y $1.610 para la venta , $ 10 por encima del anterior valor."
         ],
-        "generated": "2026-11-24T22:01:10.019027+00:00"
+        "generated": "2026-11-24T22:03:00.430169+00:00"
       },
-      "apariciones": 9,
-      "ultima_impresion": "2026-11-24T22:00:01.196074+00:00",
-      "penalizacion": 0.015
+      "apariciones": 10,
+      "ultima_impresion": "2026-11-24T22:01:37.031865+00:00",
+      "penalizacion": 0.005
     },
     {
       "key": "violencias digitales reforma laboral ejecucion penal tres charlas semana colegio abogados",
       "title": "Agenda académica en el Colegio de Abogados de Necochea: reforma laboral, violencias digitales y ejecución penal",
-      "score": 0.01,
+      "score": 0.003,
       "sources_count": 2,
       "first_seen": "2026-11-24T12:00:03+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/ec9b0d8b6d05837b1a4b1f7f0d1a233a17d81da9.webp",
@@ -678,16 +678,16 @@
           "TSN Necochea | ‹ VOLVER | Generales | Colegio de Abogados | Profesionales Agenda académica en el Colegio de Abogados de Necochea: reforma laboral, violencias digitales y ejecución penal La institución de calle 62 N° 2710 desarrollará tres jornadas de capacitación y debate esta semana, impulsadas por sus institutos de Derecho Laboral, Género y Diversidades, y Derecho Penal. Por Redacción TSN 24/11/2026 · 09:00 AM Agregar TSN Necochea en El Colegio de Abogados de Necochea llevará adelante durante esta semana una intensa agenda de actividades de formación y actualización jurídica en su sede de calle 62 N° 2710 , con tres encuentros organizados por distintos institutos académicos de la entidad.",
           "Las propuestas abordarán temáticas de actualidad profesional y social vinculadas a los cambios en la legislación laboral, el abordaje de las violencias de género en el ámbito digital y aspectos vinculados a la ejecución penal."
         ],
-        "generated": "2026-11-24T22:00:48.065556+00:00"
+        "generated": "2026-11-24T22:02:41.446711+00:00"
       },
-      "apariciones": 10,
-      "ultima_impresion": "2026-11-24T22:00:01.196074+00:00",
-      "penalizacion": 0.008
+      "apariciones": 11,
+      "ultima_impresion": "2026-11-24T22:01:37.031865+00:00",
+      "penalizacion": 0.003
     },
     {
       "key": "gasto turistico cayo 30 fin semana largo viajaron 294 000 personas",
       "title": "El gasto turístico cayó un 30,3% en el fin de semana largo y viajaron 294.000 personas menos",
-      "score": 0.004,
+      "score": 0.001,
       "sources_count": 1,
       "first_seen": "2026-11-24T13:32:00+00:00",
       "image": "http://nden.com.ar/uploads/noticias/5/2026/11/d7c8ede27fce96b04fe3a5eaf73cd469c413f7bf.jpg",
@@ -706,16 +706,16 @@
         "paragraphs": [
           "Desagües pluviales y prevención Vecinos aislados tras las lluvias: qué medidas se plantearon en Villa del Deportista y zonas aledañas"
         ],
-        "generated": "2026-11-24T22:01:13.703388+00:00"
+        "generated": "2026-11-24T22:03:03.951627+00:00"
       },
-      "apariciones": 10,
-      "ultima_impresion": "2026-11-24T22:00:01.196074+00:00",
-      "penalizacion": 0.008
+      "apariciones": 11,
+      "ultima_impresion": "2026-11-24T22:01:37.031865+00:00",
+      "penalizacion": 0.003
     },
     {
       "key": "rafagas 70 km alerta viento martes necochea quequen",
       "title": "Ráfagas de hasta 70 km/h: alerta por viento este martes en Necochea y Quequén",
-      "score": 0.004,
+      "score": 0.001,
       "sources_count": 2,
       "first_seen": "2026-11-24T02:25:00+00:00",
       "image": "http://nden.com.ar/uploads/noticias/5/2026/11/20261123232553_avenida-58.jpg",
@@ -744,16 +744,16 @@
           "Desagües pluviales y prevención Vecinos aislados tras las lluvias: qué medidas se plantearon en Villa del Deportista y zonas aledañas Necochea tendrá este martes 24 una jornada marcada por el viento fuerte, con ráfagas que podrían alcanzar entre 60 y 69 kilómetros por hora durante buena parte del día. De acuerdo con el pronóstico, la temperatura mínima será de 12°C, mientras que la máxima llegará a los 22°C. No se esperan precipitaciones, con una probabilidad de lluvia del 0% durante toda la jornada.",
           "Durante la mañana se prevé viento con velocidades de entre 42 y 50 km/h, acompañado por ráfagas que podrían ubicarse entre 60 y 69 km/h. La intensidad se mantendrá durante la tarde, cuando el viento soplará entre 32 y 41 km/h y las ráfagas nuevamente podrían alcanzar los 69 km/h. Hacia la noche comenzará a disminuir, aunque continuará siendo una jornada ventosa."
         ],
-        "generated": "2026-11-24T22:01:16.993871+00:00"
+        "generated": "2026-11-24T22:03:06.692625+00:00"
       },
-      "apariciones": 10,
-      "ultima_impresion": "2026-11-24T22:00:01.196074+00:00",
-      "penalizacion": 0.008
+      "apariciones": 11,
+      "ultima_impresion": "2026-11-24T22:01:37.031865+00:00",
+      "penalizacion": 0.003
     },
     {
       "key": "hemoterapia necesita duplicar cantidad donantes sangre necochea",
       "title": "Hemoterapia necesita duplicar la cantidad de donantes de sangre en Necochea",
-      "score": 0.004,
+      "score": 0.001,
       "sources_count": 1,
       "first_seen": "2026-11-24T13:08:16+00:00",
       "image": null,
@@ -773,16 +773,16 @@
           "La doctora Vanessa Castanó, jefa del Servicio de Hemoterapia del Hospital Municipal Dr. Emilio Ferreyra, explicó que actualmente reciben alrededor de 100 donantes por mes, cuando el objetivo sería alcanzar los 200. Remarcó que se puede donar durante todo el año, sin turno previo, y destacó la importancia de contar con sangre disponible para emergencias, cirugías y transfusiones.",
           "Charlando con Fede Cañadas en “Esta Mañana”, por NEC Radio 98.3 del Multimedio NQ, la doctora Vanessa Castanó, médica hematóloga y jefa del Servicio de Hemoterapia del Hospital Municipal Dr. Emilio Ferreyra , explicó cómo funciona la donación de sangre en Necochea y remarcó la necesidad de aumentar considerablemente la cantidad de donantes voluntarios. Actualmente el servicio recibe un promedio de 100 donantes por mes , pero Castanó señaló que el objetivo debería ser llegar a aproximadamente 200 mensuales ."
         ],
-        "generated": "2026-11-24T22:01:19.283676+00:00"
+        "generated": "2026-11-24T22:03:08.708307+00:00"
       },
-      "apariciones": 10,
-      "ultima_impresion": "2026-11-24T22:00:01.196074+00:00",
-      "penalizacion": 0.008
+      "apariciones": 11,
+      "ultima_impresion": "2026-11-24T22:01:37.031865+00:00",
+      "penalizacion": 0.003
     },
     {
       "key": "jensen analizo principales desafios necochea transporte ruta 88 temporada infraestructura",
       "title": "Jensen analizó los principales desafíos de Necochea: transporte, Ruta 88, temporada e infraestructura",
-      "score": 0.004,
+      "score": 0.001,
       "sources_count": 1,
       "first_seen": "2026-11-24T12:38:50+00:00",
       "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-24-at-08.51.36-scaled.jpeg",
@@ -802,16 +802,16 @@
           "La concejal de Nueva Necochea Silvina Jensen Mena repasó distintos temas de la agenda local: el tercer llamado a licitación del transporte público, las empresas interesadas en el servicio, las intervenciones necesarias sobre la Ruta 88, las expectativas para la temporada de verano y las dificultades que generan las lluvias sobre calles y desagües. Charlando con Fede Cañadas en “Esta Mañana”, por NEC Radio 98.3 del Multimedio NQ, la concejal de Nueva Necochea Silvina Jensen Mena realizó un amplio análisis sobre algunos de los principales desafíos que atraviesa el distrito, con especial atención en el futuro del transporte público, la Ruta 88, la próxima temporada turística y los problemas de infraestructura que se profundizaron con las lluvias.",
           "Uno de los puntos centrales fue la situación de los colectivos, que en las últimas semanas volvió a quedar en el centro de la escena por los conflictos salariales y las interrupciones del servicio."
         ],
-        "generated": "2026-11-24T22:01:21.536657+00:00"
+        "generated": "2026-11-24T22:03:10.725918+00:00"
       },
-      "apariciones": 10,
-      "ultima_impresion": "2026-11-24T22:00:01.196074+00:00",
-      "penalizacion": 0.008
+      "apariciones": 11,
+      "ultima_impresion": "2026-11-24T22:01:37.031865+00:00",
+      "penalizacion": 0.003
     },
     {
       "key": "caminar jardineria habitos favorecen longevidad segun estudios",
       "title": "Caminar y la jardinería, los hábitos que favorecen la longevidad, según estudios",
-      "score": 0.003,
+      "score": 0.001,
       "sources_count": 1,
       "first_seen": "2026-11-24T09:44:35+00:00",
       "image": null,
@@ -831,11 +831,11 @@
           "Investigaciones en las llamadas Zonas Azules y un estudio publicado en 2023 revelan que mantenerse activo con caminatas y tareas de jardín aporta más beneficios a la salud que el ejercicio intenso en gimnasio. Los científicos que analizan la longevidad señalan que las personas que viven más tiempo comparten la costumbre de moverse durante el día mediante actividades cotidianas, como caminar, cuidar plantas o realizar tareas domésticas.",
           "El investigador estadounidense Dan Buettner, quien estudia las “Zonas Azules” —regiones con alta concentración de centenarios— identificó patrones comunes en Okinawa (Japón), Cerdeña (Italia), Nicoya (Costa Rica), Icaria (Grecia) y Loma Linda (EE. En todas ellas, los habitantes incorporan el movimiento de forma natural: se desplazan a pie, trabajan en huertas y pasan poco tiempo sentados."
         ],
-        "generated": "2026-11-24T22:01:22.857946+00:00"
+        "generated": "2026-11-24T22:03:11.735628+00:00"
       },
-      "apariciones": 10,
-      "ultima_impresion": "2026-11-24T22:00:01.196074+00:00",
-      "penalizacion": 0.008
+      "apariciones": 11,
+      "ultima_impresion": "2026-11-24T22:01:37.031865+00:00",
+      "penalizacion": 0.003
     }
   ]
 }
