@@ -1,12 +1,41 @@
 {
-  "generated_at": "2026-11-25T12:00:01.047950+00:00",
+  "generated_at": "2026-11-25T12:30:01.086232+00:00",
   "article_count": 120,
   "fetch_errors": [],
   "stories": [
     {
+      "key": "produccion brindara taller impulsar busqueda empleo",
+      "title": "Producción brindará un taller para impulsar la búsqueda de empleo",
+      "score": 1.207,
+      "sources_count": 1,
+      "first_seen": "2026-11-25T11:36:29+00:00",
+      "image": "https://cdnartic.ar/hxIJgHdN-JBJi2zMPtiarGRZHng=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/florencia_martin.webp",
+      "articles": [
+        {
+          "portal": "Ecos Diarios",
+          "title": "Producción brindará un taller para impulsar la búsqueda de empleo",
+          "url": "https://elecos.com.ar/produccion-brindara-un-taller-para-impulsar-la-busqueda-de-empleo",
+          "published_at": "2026-11-25T11:36:29+00:00",
+          "first_seen": "2026-11-25T12:30:01.086232+00:00",
+          "category": "ecos-radio",
+          "image": "https://cdnartic.ar/hxIJgHdN-JBJi2zMPtiarGRZHng=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/florencia_martin.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Ecos Radio Añadir como fuente en Producción brindará un taller para impulsar la búsqueda de empleo 25 de noviembre de 2026 | 08:36 Ads La integrante del área de Producción del Municipio pasó por Punto de Vista y dio detalles del taller \"Impulsá tu Búsqueda laboral\", que tendrá lugar este viernes 27 de noviembre.",
+          "Escuchá la nota completa: Ads Ads Ads Temas empleo Comentarios Para comentar, debés estar registrado Por favor, iniciá sesión INGRESA Ads Ads"
+        ],
+        "generated": "2026-11-25T12:30:33.742856+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-25T12:30:01.086232+00:00"
+    },
+    {
       "key": "juana viale salvador necochense acompana aventura olas",
       "title": "Juana Viale en El Salvador: el necochense que la acompaña en su aventura sobre las olas",
-      "score": 1.23,
+      "score": 1.18,
       "sources_count": 1,
       "first_seen": "2026-11-25T11:20:06+00:00",
       "image": "https://cdnartic.ar/8OrQVw4n1oAMngZrfO5Yfb9XVcY=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/juana_viale_1.webp",
@@ -26,16 +55,45 @@
           "La ciudad Añadir como fuente en Juana Viale en El Salvador: el necochense que la acompaña en su aventura sobre las olas Mateo Rojas, referente del surf y la comunicación deportiva, comparte con la conductora una experiencia en las playas centroamericanas. El integrante de Gravedad Zero participa de esta aventura que combina surf, viajes y producción audiovisual. 25 de noviembre de 2026 | 08:20 Ads Juana Viale cambió por unos días los estudios de televisión por las playas de El Salvador.",
           "Pero en esta escapada, en la que volvió a demostrar su pasión por el mar y se animó a desafiar las olas del Pacífico, hay una presencia que tiene un sello bien necochense: Mateo Rojas. Ads El periodista, realizador audiovisual y referente del mundo del surf acompaña a la conductora en esta experiencia, vinculada al universo de Gravedad Zero , el reconocido proyecto de contenidos dedicado al surf, los viajes y la cultura de playa."
         ],
-        "generated": "2026-11-25T12:00:33.112922+00:00"
+        "generated": "2026-11-25T12:30:34.231702+00:00"
+      },
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-25T12:30:01.086232+00:00",
+      "penalizacion": 1.0
+    },
+    {
+      "key": "escuela ajedrez raul jose jauregui despidio ano notable crecimiento",
+      "title": "La Escuela de Ajedrez “Raúl José Jáuregui” despidió un año de notable crecimiento",
+      "score": 1.163,
+      "sources_count": 1,
+      "first_seen": "2026-11-25T12:07:27+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/24-11-FOTO-Cierre-ajedrez-municipal5.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "La Escuela de Ajedrez “Raúl José Jáuregui” despidió un año de notable crecimiento",
+          "url": "https://tsnnecochea.com.ar/deportes/la-escuela-de-ajedrez-raul-jose-jauregui-despidio-un-ano-de-notable-crecimiento-243215/",
+          "published_at": "2026-11-25T12:07:27+00:00",
+          "first_seen": "2026-11-25T12:30:01.086232+00:00",
+          "category": "ajedrez",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/24-11-FOTO-Cierre-ajedrez-municipal5.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Deportes | ajedrez | Deporte ciencia La Escuela de Ajedrez “Raúl José Jáuregui” despidió un año de notable crecimiento No solamente se sumaron más alumnos al espacio gratuito que brinda la Municipalidad en el Centro Cultural, sino que se logró una compra histórica de juegos profesionales, relojes y tableros. Por Agustin Betancor 25/11/2026 · 09:07 AM Escuela Municipal de Ajedrez 2026 Agregar TSN Necochea en El auditorio del Centro Cultural y Biblioteca Popular «Andrés Ferreyra» fue el lugar de encuentro para el desenlace de un año inolvidable para la Escuela Municipal de Ajedrez «Raúl José Jáuregui» , que no solo creció en cantidad de alumnos sino también en recursos.",
+          "Con el acompañamiento del Estado Municipal y la cooperadora que se formó con las familias, este año se pudieron comprar 11 juegos profesionales, cinco relojes profesionales y un tablero grande para las clases ."
+        ],
+        "generated": "2026-11-25T12:30:35.333633+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-25T12:00:01.047950+00:00"
+      "ultima_impresion": "2026-11-25T12:30:01.086232+00:00"
     },
     {
       "key": "dia internacional eliminacion violencia mujeres convocan jornada marcha necochea",
       "title": "Día Internacional de la Eliminación de la Violencia contra las Mujeres: convocan a una jornada y marcha en Necochea",
-      "score": 1.152,
+      "score": 1.105,
       "sources_count": 1,
       "first_seen": "2026-11-25T11:30:36+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/03/bbbb2db3-04e3-4110-a7bd-92dcafeeb054.jpg",
@@ -55,219 +113,248 @@
           "TSN Necochea | ‹ VOLVER | Locales | 25 N | Genero Día Internacional de la Eliminación de la Violencia contra las Mujeres: convocan a una jornada y marcha en Necochea La actividad se realizará este miércoles 25 de noviembre a partir de las 17:00 en la plaza Dardo Rocha, donde habrá una ronda de conversación previa a la movilización prevista para las 18:00 por las calles céntricas de la ciudad.",
           "Por Redacción TSN 25/11/2026 · 08:30 AM Marcha en Necochea por el Día Internacional de la Mujer Agregar TSN Necochea en En el marco de la conmemoración del Día Internacional de la Eliminación de la Violencia contra las Mujeres , que se recuerda cada 25 de noviembre (#25N) , organizaciones y colectivos locales convocaron a una jornada de encuentro, reflexión y participación ciudadana en el centro de Necochea."
         ],
-        "generated": "2026-11-25T12:00:34.180500+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-25T12:00:01.047950+00:00"
-    },
-    {
-      "key": "necochea proyecta nuevas obras avanza recambio led prepara plan recuperar calles tierra",
-      "title": "Necochea proyecta nuevas obras: avanza el recambio LED y prepara un plan para recuperar las calles de tierra",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-25T12:00:01.047950+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/7355a531da89dd3a3049bcd98627936d209469bd.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Necochea proyecta nuevas obras: avanza el recambio LED y prepara un plan para recuperar las calles de tierra",
-          "url": "https://necocheadigital.com/nota/120282/necochea-proyecta-nuevas-obras-avanza-el-recambio-led-y-prepara-un-plan-para-recuperar-las-calles-de-tierra/",
-          "published_at": null,
-          "first_seen": "2026-11-25T12:00:01.047950+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La obra pública municipal tiene varios frentes de trabajo y nuevos proyectos en carpeta. Durante 2026, una de las principales apuestas de la administración del intendente Arturo Rojas estuvo centrada en la renovación del alumbrado público, aunque también se proyectan nuevas intervenciones vinculadas con el mejoramiento de calles, servicios sanitarios e infraestructura turística. Uno de los programas más importantes es el recambio de luminarias LED financiado mediante el Fondo de Emergencia y Fortalecimiento de la Inversión Municipal (FEFIM).",
-          "Según los datos difundidos, ya se colocaron alrededor de 1.000 de las 1.472 luminarias previstas para esta primera etapa, con la expectativa de completar los trabajos antes de finalizar diciembre. Pero el plan no terminaría allí."
-        ],
-        "generated": "2026-11-25T12:00:34.843157+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-25T12:00:01.047950+00:00"
-    },
-    {
-      "key": "economia argentina volvio caer recesion tecnica",
-      "title": "La economía argentina volvió a caer en recesión técnica",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-25T12:00:01.047950+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261124165417_captura.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "La economía argentina volvió a caer en recesión técnica",
-          "url": "https://necocheadigital.com/nota/120277/la-economia-argentina-volvio-a-caer-en-recesion-tecnica/",
-          "published_at": null,
-          "first_seen": "2026-11-25T12:00:01.047950+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La economía argentina registró una mejora mensual durante septiembre, aunque el repunte no fue suficiente para revertir la tendencia negativa de los meses anteriores. Según el último informe del Instituto Nacional de Estadística y Censos (INDEC), el Estimador Mensual de Actividad Económica (EMAE) avanzó un 1,1% respecto de agosto, pero cayó un 1,2% en la comparación con el mismo mes de 2025. El resultado se conoció en un contexto de retracción de la actividad y confirmó las dificultades para consolidar una recuperación sostenida.",
-          "La fuerte caída registrada en julio y el limitado crecimiento de agosto dejaron un escenario que, sumado al retroceso del Producto Bruto Interno (PBI) durante el segundo trimestre, configura un cuadro de recesión técnica. Este fenómeno se produce cuando la economía acumula dos trimestres consecutivos de caída del PBI, una vez descontados los factores estacionales."
-        ],
-        "generated": "2026-11-25T12:00:35.921705+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-25T12:00:01.047950+00:00"
-    },
-    {
-      "key": "deporte dio fuerte impulso turismo necochea fin semana largo",
-      "title": "El deporte le dio un fuerte impulso al turismo en Necochea durante el fin de semana largo",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-25T12:00:01.047950+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261124175757_24-11-foto-futbol-veteranos3.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "El deporte le dio un fuerte impulso al turismo en Necochea durante el fin de semana largo",
-          "url": "https://necocheadigital.com/nota/120279/el-deporte-le-dio-un-fuerte-impulso-al-turismo-en-necochea-durante-el-fin-de-semana-largo/",
-          "published_at": null,
-          "first_seen": "2026-11-25T12:00:01.047950+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La Secretaría de Turismo y Desarrollo Productivo , a cargo de Silvia Jensen, destacó este martes el importante movimiento turístico y económico generado durante el pasado fin de semana largo a partir de distintos eventos deportivos y sociales , en el marco del programa “Necochea Deportiva”, que contribuyeron a dinamizar la actividad hotelera, gastronómica y comercial de la ciudad. Durante los últimos días, Necochea fue escenario de numerosas propuestas que convocaron a deportistas, delegaciones, acompañantes y visitantes de diferentes puntos del país .",
-          "Entre ellas se destacaron el Campeonato Argentino de Fútbol para Veteranos 2026, con más de 1500 jugadores en cuatro predios de la ciudad, torneos de cestobol, fecha de triatlón en el Río Quequén de las Olimpiadas Interprofesionales, encuentros de taekwondo y tenis, y travesías solidarias de vehículos 4×4."
-        ],
-        "generated": "2026-11-25T12:00:37.001461+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-25T12:00:01.047950+00:00"
-    },
-    {
-      "key": "proscribiendo gargaglione reclamo habilitar re reeleccion intendentes bonaerenses",
-      "title": "“Se está proscribiendo”: Gargaglione reclamó habilitar la re-reelección de los intendentes bonaerenses",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-25T12:00:01.047950+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261124144113_captura.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "“Se está proscribiendo”: Gargaglione reclamó habilitar la re-reelección de los intendentes bonaerenses",
-          "url": "https://necocheadigital.com/nota/120275/se-esta-proscribiendo-gargaglione-reclamo-habilitar-la-re-reeleccion-de-los-intendentes-bonaerenses/",
-          "published_at": null,
-          "first_seen": "2026-11-25T12:00:01.047950+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La posibilidad de que los intendentes bonaerenses puedan competir por un nuevo mandato volvió a quedar en el centro de la discusión política provincial. El intendente de San Cayetano, Miguel Gargaglione en declaraciones al periodista Miguel Abalsamo de Diario NQ, se pronunció a favor de permitir las reelecciones y cuestionó duramente la legislación que establece límites a la continuidad de los jefes comunales. Durante una entrevista, el dirigente radical sostuvo que la normativa aprobada durante el gobierno de María Eugenia Vidal restringe el derecho de los ciudadanos a elegir libremente a sus representantes.",
-          "“Me parece que es fundamental dejar a la población que se exprese, no proscribir. Y hoy se está proscribiendo, y es inconstitucional”, afirmó."
-        ],
-        "generated": "2026-11-25T12:00:38.082519+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-25T12:00:01.047950+00:00"
-    },
-    {
-      "key": "gargaglione apunto milei venian combatir casta estan haciendo mismo antes",
-      "title": "Gargaglione apuntó contra Milei: “Los que venían a combatir a la casta están haciendo lo mismo que antes”",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-25T12:00:01.047950+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/5dbce1709ae482c29641d3c88db6f03bca0adf95.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Gargaglione apuntó contra Milei: “Los que venían a combatir a la casta están haciendo lo mismo que antes”",
-          "url": "https://necocheadigital.com/nota/120276/gargaglione-apunto-contra-milei-los-que-venian-a-combatir-a-la-casta-estan-haciendo-lo-mismo-que-antes/",
-          "published_at": null,
-          "first_seen": "2026-11-25T12:00:01.047950+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El debate sobre el futuro de las Primarias Abiertas, Simultáneas y Obligatorias (PASO) volvió a generar cuestionamientos desde el interior bonaerense. Esta vez fue el intendente de San Cayetano, Miguel Gargaglione, quien expresó fuertes críticas a las negociaciones políticas que se desarrollan alrededor de su continuidad. Durante una entrevista en NEC Radio, el jefe comunal radical cuestionó que la discusión sobre las primarias esté atravesada por acuerdos y conveniencias electorales, y apuntó directamente contra el discurso del Gobierno nacional.",
-          "“Hoy se está debatiendo PASO sí, PASO no, cuando las PASO en realidad ordenaban. Los que venían a combatir a la casta están haciendo lo mismo que se hacía antes, con la billetera a ver qué senadores los apoyan y los senadores responden a los gobernadores a ver qué conseguimos para nuestra provincia."
-        ],
-        "generated": "2026-11-25T12:00:38.739698+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-25T12:00:01.047950+00:00"
-    },
-    {
-      "key": "violencias digitales reforma laboral ejecucion penal tres charlas semana colegio abogados",
-      "title": "Violencias digitales, reforma laboral y ejecución penal: tres charlas esta semana en el Colegio de Abogados",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-25T12:00:01.047950+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261124121920_whatsapp-image-2026-11-24-at-12-19-02.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Violencias digitales, reforma laboral y ejecución penal: tres charlas esta semana en el Colegio de Abogados",
-          "url": "https://necocheadigital.com/nota/120274/violencias-digitales-reforma-laboral-y-ejecucion-penal-tres-charlas-esta-semana-en-el-colegio-de-abogados/",
-          "published_at": null,
-          "first_seen": "2026-11-25T12:00:01.047950+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El Colegio de Abogados llevará adelante esta semana un cronograma de actividades de formación y actualización jurídica en su sede de calle 62 N° 2710. Las propuestas, organizadas por distintos institutos internos de la institución, abordarán problemáticas de actualidad profesional y social vinculadas a las modificaciones en la legislación del trabajo, el abordaje de las violencias de género en el ámbito digital y aspectos prácticos del proceso penal.",
-          "Reforma laboral en el inicio de la semana El ciclo comenzará este martes 24 de noviembre a las 19.30 con la jornada titulada “Reforma Laboral: sus ítems claves”. Impulsado por el Instituto de Derecho Laboral, el encuentro contará con las exposiciones de los doctores Luciano Tornini y Víctor Gorgojo, quienes analizarán los puntos centrales y el impacto de los cambios normativos en la materia."
-        ],
-        "generated": "2026-11-25T12:00:39.396923+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-25T12:00:01.047950+00:00"
-    },
-    {
-      "key": "avisos funebres dia 25 noviembre 2026",
-      "title": "Avisos fúnebres del día 25 de noviembre de 2026",
-      "score": 1.03,
-      "sources_count": 1,
-      "first_seen": "2026-11-25T10:10:06+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2023/09/Necrologicas.jpg",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Avisos fúnebres del día 25 de noviembre de 2026",
-          "url": "https://tsnnecochea.com.ar/funebres/avisos-funebres-del-dia-25-de-noviembre-de-2026-243211/",
-          "published_at": "2026-11-25T10:10:06+00:00",
-          "first_seen": "2026-11-25T11:30:00.471588+00:00",
-          "category": "avisos fúnebres",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2023/09/Necrologicas.jpg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Fúnebres | avisos fúnebres | Avisos fúnebres Avisos fúnebres del día 25 de noviembre de 2026 Por Redacción TSN 25/11/2026 · 07:10 AM Noticias necrológicas de Necochea. Agregar TSN Necochea en HERNANDEZ, Ramón q.e.p.d. Falleció en la ciudad de Necochea el día 24 de noviembre de 2026 a la edad de 69 años, su hijos, Mirian, Ariel, Gisela, Jorge, Santiago, Rafael y Denise sus hijos políticos, , sus nietos, demás familiares y amigos participan de su fallecimiento y que sus restos serán cremados en cementerio municipal de Necochea el día 25 de noviembre de 2026 C/D: 526 2751 QUEQUEN S/V: Avda.",
-          "velatoria dia 24/11/2026 de 12:00 a 21:00 hs Servicio a cargo de: “Usina” Servicios Sociales – Sepelios. Empresa: Usina Popular Cooperativa “Sebastián de María”. KIRILUK, Carlos Basilio q.e.p.d."
-        ],
-        "generated": "2026-11-25T12:00:40.444367+00:00"
+        "generated": "2026-11-25T12:30:36.400584+00:00"
       },
       "apariciones": 2,
-      "ultima_impresion": "2026-11-25T12:00:01.047950+00:00",
+      "ultima_impresion": "2026-11-25T12:30:01.086232+00:00",
       "penalizacion": 1.0
+    },
+    {
+      "key": "costo mantener hogar sigue creciendo salarios no logran acompanarlo",
+      "title": "El costo de mantener un hogar sigue creciendo y los salarios no logran acompañarlo",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-25T12:30:01.086232+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/2d50b133d1cc52ede91403aa1a3cb619f07e0fec.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "El costo de mantener un hogar sigue creciendo y los salarios no logran acompañarlo",
+          "url": "https://necocheadigital.com/nota/120285/el-costo-de-mantener-un-hogar-sigue-creciendo-y-los-salarios-no-logran-acompanarlo/",
+          "published_at": null,
+          "first_seen": "2026-11-25T12:30:01.086232+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Llegar a fin de mes se convierte en un desafío cada vez mayor para los hogares argentinos. Los gastos indispensables continúan absorbiendo una porción creciente de los ingresos y los aumentos salariales no alcanzan para compensar la suba del costo de vida. La situación quedó reflejada en un informe de la consultora Eunomia, que elabora el Índice de Presión sobre el Presupuesto Familiar (IPPF), un indicador que compara la evolución de una canasta de gastos esenciales con los salarios registrados.",
+          "Según el relevamiento, durante septiembre los gastos básicos volvieron a incrementarse por encima de los ingresos, interrumpiendo dos meses de alivio parcial. La canasta general aumentó un 2,32%, mientras que los salarios registrados avanzaron un 1,90%, de acuerdo con los datos del INDEC. Como consecuencia, el índice llegó a los 108,06 puntos, tomando como referencia una base de 100 en enero de 2024."
+        ],
+        "generated": "2026-11-25T12:30:37.755055+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-25T12:30:01.086232+00:00"
+    },
+    {
+      "key": "bancos necochea cambiaran horario atencion 30 noviembre",
+      "title": "Los bancos de Necochea cambiarán su horario de atención desde el 30 de noviembre",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-25T12:30:01.086232+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261125090741_20260907083734-captura.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Los bancos de Necochea cambiarán su horario de atención desde el 30 de noviembre",
+          "url": "https://necocheadigital.com/nota/120284/los-bancos-de-necochea-cambiaran-su-horario-de-atencion-desde-el-30-de-noviembre/",
+          "published_at": null,
+          "first_seen": "2026-11-25T12:30:01.086232+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Las entidades bancarias de Necochea modificarán su horario de atención al público a partir del próximo lunes 30 de noviembre, en el marco de la implementación del horario de verano dispuesto por el Gobierno de la provincia de Buenos Aires. La medida quedó oficializada mediante el Decreto 2298/26, firmado por el gobernador Axel Kicillof, y alcanza a 108 municipios bonaerenses, entre ellos Necochea. De acuerdo con lo establecido en la normativa, las sucursales bancarias atenderán al público de lunes a viernes, entre las 8 y las 13.",
+          "Este esquema se mantendrá vigente hasta el 23 de marzo de 2027. Por su parte, la jornada laboral del personal bancario será de 7.45 a 15.15. El cambio implica adelantar dos horas el horario habitual de atención, que actualmente se desarrolla entre las 10 y las 15."
+        ],
+        "generated": "2026-11-25T12:30:38.835808+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-25T12:30:01.086232+00:00"
+    },
+    {
+      "key": "quequen prepara recibir reyes magos lanzaron nueva colecta caramelos",
+      "title": "Quequén se prepara para recibir a los Reyes Magos: lanzaron una nueva colecta de caramelos",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-25T12:30:01.086232+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261125090202_e217042f3e7a88199e250629fa5e989a6ae33932.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Quequén se prepara para recibir a los Reyes Magos: lanzaron una nueva colecta de caramelos",
+          "url": "https://necocheadigital.com/nota/120283/quequen-se-prepara-para-recibir-a-los-reyes-magos-lanzaron-una-nueva-colecta-de-caramelos/",
+          "published_at": null,
+          "first_seen": "2026-11-25T12:30:01.086232+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La ilusión de los Reyes Magos volverá a recorrer las calles de Quequén el próximo 5 de enero. Por décimo segundo año consecutivo, tres vecinos de la localidad se pondrán los tradicionales trajes para llevar golosinas a los chicos de distintos barrios y mantener viva una iniciativa que ya forma parte de las tradiciones solidarias de la comunidad. La campaña de recolección de caramelos ya está en marcha y sus organizadores necesitan nuevamente del acompañamiento de los vecinos y comerciantes para preparar miles de bolsitas.",
+          "Así lo contó Ariel Bracklo durante una entrevista realizada este martes 24 de noviembre en el programa Voces de la Tarde , que conduce Jorge Gómez por Radio Noticias Necochea 97.3 FM. Según explicó Bracklo, hasta el momento lograron reunir alrededor de 2.200 bolsitas, cada una con diez caramelos masticables."
+        ],
+        "generated": "2026-11-25T12:30:39.504650+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-25T12:30:01.086232+00:00"
+    },
+    {
+      "key": "dengue quienes pueden vacunarse donde acceder dosis gratuitas necochea",
+      "title": "Dengue: Quiénes pueden vacunarse y dónde acceder a las dosis gratuitas en Necochea",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-25T12:30:01.086232+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261124175132_dengue.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Dengue: Quiénes pueden vacunarse y dónde acceder a las dosis gratuitas en Necochea",
+          "url": "https://necocheadigital.com/nota/120278/dengue-quienes-pueden-vacunarse-y-donde-acceder-a-las-dosis-gratuitas-en-necochea/",
+          "published_at": null,
+          "first_seen": "2026-11-25T12:30:01.086232+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La funcionaria explicó que actualmente ya no es necesario contar con antecedentes de dengue ni cumplir con un requisito epidemiológico para acceder a la vacuna . Tampoco se requiere inscripción previa: quienes estén dentro del rango de edad indicado pueden acercarse directamente al centro de salud. El esquema completo contempla dos dosis, con un intervalo de tres meses entre ambas.",
+          "Mazeris aclaró que, al tratarse de una vacuna a virus vivo, no está indicada para personas embarazadas ni para quienes se encuentren bajo tratamientos que provoquen inmunodeficiencia. En caso de dudas o de presentar alguna condición particular, es importante realizar previamente la consulta con el médico de cabecera. El vacunatorio destinado a esta campaña funciona en el CAPS Fucile, ubicado en calle 71 Nº 276, entre 4 y 6, en el horario de 8 a 15."
+        ],
+        "generated": "2026-11-25T12:30:40.163046+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-25T12:30:01.086232+00:00"
+    },
+    {
+      "key": "cierra fabrica calzado chivilcoy intendente reclamo milei crisis industrial",
+      "title": "Cierra una fábrica de calzado en Chivilcoy y el intendente le reclamó a Milei por la crisis industrial",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-25T12:30:01.086232+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/5b80ea610f7d0b564f2db6b0d104eb70fe6c937e.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Cierra una fábrica de calzado en Chivilcoy y el intendente le reclamó a Milei por la crisis industrial",
+          "url": "https://necocheadigital.com/nota/120271/cierra-una-fabrica-de-calzado-en-chivilcoy-y-el-intendente-le-reclamo-a-milei-por-la-crisis-industrial/",
+          "published_at": null,
+          "first_seen": "2026-11-25T12:30:01.086232+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La crisis de la industria del calzado sumó un nuevo capítulo con el cierre definitivo de una fábrica en Chivilcoy. Se trata de Arluchi S.A., perteneciente al Grupo Ruiz y fabricante de suelas de caucho y EVA, que decidió abandonar su producción en Argentina y concentrar sus operaciones en Brasil. La firma, que trabajaba bajo la marca IDS Suelas, había llegado a contar con más de 200 clientes y una plantilla superior a los 80 trabajadores en 2023.",
+          "Sin embargo, según los datos difundidos, su cartera comercial se redujo a apenas 15 clientes y su personal quedó por debajo de un tercio de aquella dotación. La decisión generó preocupación en la ciudad y motivó un fuerte pronunciamiento del intendente Guillermo Britos, quien se dirigió al presidente Javier Milei para advertir sobre las consecuencias de la situación que atraviesan las pymes industriales."
+        ],
+        "generated": "2026-11-25T12:30:41.249961+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-25T12:30:01.086232+00:00"
+    },
+    {
+      "key": "turistas menor gasto fin semana largo dejo balance negativo sector turistico",
+      "title": "Menos turistas y menor gasto: el fin de semana largo dejó un balance negativo para el sector turístico",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-25T12:30:01.086232+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/bce524c899c3d7c197f3701d3b9aa9fd840afa52.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Menos turistas y menor gasto: el fin de semana largo dejó un balance negativo para el sector turístico",
+          "url": "https://necocheadigital.com/nota/120270/menos-turistas-y-menor-gasto-el-fin-de-semana-largo-dejo-un-balance-negativo-para-el-sector-turistico/",
+          "published_at": null,
+          "first_seen": "2026-11-25T12:30:01.086232+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El último fin de semana largo volvió a mostrar las dificultades que atraviesa el sector turístico en medio de un escenario económico que condiciona las decisiones de los viajeros. Menos personas se movilizaron, las estadías fueron más cortas y el gasto en los destinos se redujo, de acuerdo con el relevamiento difundido por la Confederación Argentina de la Mediana Empresa (CAME). Según el informe, alrededor de 1.410.000 turistas viajaron durante el descanso por el Día de la Soberanía Nacional y generaron un impacto económico superior a los 332.550 millones de pesos.",
+          "En comparación con el mismo período de 2025, la cantidad de viajeros cayó un 17,4%, mientras que el impacto económico retrocedió un 30,3%. La comparación debe contemplar que el año pasado el feriado había conformado un fin de semana de cuatro días, mientras que en esta oportunidad el descanso fue más corto."
+        ],
+        "generated": "2026-11-25T12:30:42.330060+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-25T12:30:01.086232+00:00"
+    },
+    {
+      "key": "villa diaz velez pego primero goleadores analizaron triunfo palpitaron revancha estacion quequen",
+      "title": "Villa Díaz Vélez pegó primero: sus goleadores analizaron el triunfo y palpitaron la revancha ante Estación Quequén",
+      "score": 0.987,
+      "sources_count": 1,
+      "first_seen": "2026-11-25T12:20:37+00:00",
+      "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/57d5778c-efd7-4812-a976-ebac0b396e1d.jpg",
+      "articles": [
+        {
+          "portal": "Diario NQ",
+          "title": "Villa Díaz Vélez pegó primero: sus goleadores analizaron el triunfo y palpitaron la revancha ante Estación Quequén",
+          "url": "https://diarionq.com.ar/villa-diaz-velez-pego-primero-sus-goleadores-analizaron-el-triunfo-y-palpitaron-la-revancha-ante-estacion-quequen/",
+          "published_at": "2026-11-25T12:20:37+00:00",
+          "first_seen": "2026-11-25T12:30:01.086232+00:00",
+          "category": "Deportes",
+          "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/57d5778c-efd7-4812-a976-ebac0b396e1d.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Lautaro Ruiz Martínez y Fernando Montes, autores de los goles en la victoria por 2 a 0 en la semifinal de ida, pasaron por Zoom El Deportivo y destacaron el rendimiento colectivo del equipo. Reconocieron que todavía quedan 90 minutos decisivos y anticiparon un nuevo duelo exigente ante un rival de jerarquía. Villa Díaz Vélez dio un paso importante en la semifinal del campeonato de la Liga Necochea de Fútbol al imponerse por 2 a 0 frente a Estación Quequén.",
+          "Con una actuación sólida en todas sus líneas y la efectividad de sus delanteros, el equipo naranja consiguió una diferencia que le permite llegar con cierta tranquilidad a la revancha, aunque puertas adentro saben que la serie todavía está abierta. Luego del encuentro, los autores de los goles, Lautaro Ruiz Martínez y Fernando Montes, visitaron los estudios de Nec Radio, donde repasaron las claves de una victoria que tuvo un importante trabajo colectivo."
+        ],
+        "generated": "2026-11-25T12:30:45.490281+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-25T12:30:01.086232+00:00"
+    },
+    {
+      "key": "franco benedictis cerro ano triunfazo piensa ir campeonato 2027",
+      "title": "Franco De Benedictis cerró el año con un triunfazo y ya piensa en ir por el campeonato en 2027",
+      "score": 0.982,
+      "sources_count": 1,
+      "first_seen": "2026-11-25T12:16:52+00:00",
+      "image": null,
+      "articles": [
+        {
+          "portal": "Diario NQ",
+          "title": "Franco De Benedictis cerró el año con un triunfazo y ya piensa en ir por el campeonato en 2027",
+          "url": "https://diarionq.com.ar/franco-de-benedictis-cerro-el-ano-con-un-triunfazo-y-ya-piensa-en-ir-por-el-campeonato-en-2027/",
+          "published_at": "2026-11-25T12:16:52+00:00",
+          "first_seen": "2026-11-25T12:30:01.086232+00:00",
+          "category": "Deportes",
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El piloto necochense se quedó con una brillante victoria en la Clase 3 del Turismo Pista, tras una carrera exigente y de mucha estrategia. En una entrevista con Zoom El Deportivo, repasó su gran temporada 2026, contó cómo vivió la definición y destacó la emoción de compartir el podio con su padre, Juan “Johnny” De Benedictis. Franco De Benedictis volvió a ser protagonista del automovilismo nacional y cerró la temporada 2026 de la mejor manera: con una victoria que tuvo todos los condimentos.",
+          "El piloto de Necochea se impuso en la Clase 3 del Turismo Pista, luego de una carrera intensa, en la que combinó inteligencia, estrategia y una buena dosis de audacia para quedarse con el triunfo. En diálogo con Zoom, Franco contó algunos de los secretos de una competencia en la que debió exigirse al máximo. Según explicó, su auto no era necesariamente el más rápido del fin de semana, pero supo aprovechar una herramienta fundamental: la succión."
+        ],
+        "generated": "2026-11-25T12:30:47.856660+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-25T12:30:01.086232+00:00"
     },
     {
       "key": "luna llena poso necochea dejo postal inolvidable",
       "title": "La luna llena se posó sobre Necochea y dejó una postal inolvidable",
-      "score": 0.982,
+      "score": 0.942,
       "sources_count": 1,
       "first_seen": "2026-11-25T11:47:06+00:00",
       "image": null,
@@ -287,16 +374,45 @@
           "La luna llena volvió a convertirse en protagonista del cielo necochense durante la noche de ayer, dejando una postal impactante sobre distintos sectores de la ciudad. Con una luminosidad intensa y una presencia difícil de pasar por alto, el satélite natural pudo observarse con claridad y ofreció una imagen especialmente atractiva sobre la costa y el perfil urbano de Necochea. El fenómeno fue seguido por vecinos y aficionados a la fotografía, que aprovecharon la noche para registrar distintas postales con la luna como protagonista.",
           "En distintos puntos, la combinación entre el mar, la arena, las construcciones y la luz lunar generó escenas de gran atractivo visual, en una noche que invitó a detenerse por un momento y mirar hacia el cielo. La luna llena volvió así a regalar una imagen especial sobre Necochea, sumándose a esas postales naturales que cada tanto sorprenden a la ciudad y quedan retratadas en cientos de fotografías."
         ],
-        "generated": "2026-11-25T12:00:42.522580+00:00"
+        "generated": "2026-11-25T12:30:50.115806+00:00"
       },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-25T12:00:01.047950+00:00"
+      "apariciones": 2,
+      "ultima_impresion": "2026-11-25T12:30:01.086232+00:00",
+      "penalizacion": 1.0
+    },
+    {
+      "key": "avisos funebres dia 25 noviembre 2026",
+      "title": "Avisos fúnebres del día 25 de noviembre de 2026",
+      "score": 0.543,
+      "sources_count": 1,
+      "first_seen": "2026-11-25T10:10:06+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2023/09/Necrologicas.jpg",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Avisos fúnebres del día 25 de noviembre de 2026",
+          "url": "https://tsnnecochea.com.ar/funebres/avisos-funebres-del-dia-25-de-noviembre-de-2026-243211/",
+          "published_at": "2026-11-25T10:10:06+00:00",
+          "first_seen": "2026-11-25T11:30:00.471588+00:00",
+          "category": "avisos fúnebres",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2023/09/Necrologicas.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Fúnebres | avisos fúnebres | Avisos fúnebres Avisos fúnebres del día 25 de noviembre de 2026 Por Redacción TSN 25/11/2026 · 07:10 AM Noticias necrológicas de Necochea. Agregar TSN Necochea en HERNANDEZ, Ramón q.e.p.d. Falleció en la ciudad de Necochea el día 24 de noviembre de 2026 a la edad de 69 años, su hijos, Mirian, Ariel, Gisela, Jorge, Santiago, Rafael y Denise sus hijos políticos, , sus nietos, demás familiares y amigos participan de su fallecimiento y que sus restos serán cremados en cementerio municipal de Necochea el día 25 de noviembre de 2026 C/D: 526 2751 QUEQUEN S/V: Avda.",
+          "velatoria dia 24/11/2026 de 12:00 a 21:00 hs Servicio a cargo de: “Usina” Servicios Sociales – Sepelios. Empresa: Usina Popular Cooperativa “Sebastián de María”. KIRILUK, Carlos Basilio q.e.p.d."
+        ],
+        "generated": "2026-11-25T12:30:43.404846+00:00"
+      },
+      "apariciones": 3,
+      "ultima_impresion": "2026-11-25T12:30:01.086232+00:00",
+      "penalizacion": 0.55
     },
     {
       "key": "inhabilitaron 2099 influencer detenida hacer trompos camioneta pinamar",
       "title": "Inhabilitaron hasta 2099 a la influencer que fue detenida por hacer trompos con su camioneta en Pinamar",
-      "score": 0.94,
+      "score": 0.496,
       "sources_count": 1,
       "first_seen": "2026-11-25T11:15:24+00:00",
       "image": null,
@@ -316,16 +432,16 @@
           "El Ministerio de Transporte de la provincia de Buenos Aires anuló la habilitación de la tiktoker de 20 años hasta el año 2099, después de que fuera detenida por realizar “trompos” con su camioneta en la playa de Pinamar. El viernes pasado la joven influencer Lara Magalí Rapallo, conocida en TikTok, fue interceptada por la Policía bonaerense mientras conducía una camioneta RAM 1500 Laramie de color rosa y ejecutaba maniobras temerarias en la zona de médanos y playas conocida como La Olla, en el norte de Pinamar.",
           "En los videos publicados por la propia Rapallo se observan a cuatro acompañantes colgados en los laterales del vehículo mientras la conductora realiza giros bruscos, lo que la Agencia Nacional de Seguridad Vial (ANSV) calificó como un grave riesgo para terceros. Ante la difusión del material, la ANSV solicitó la suspensión preventiva de la licencia de conducir de Rapallo."
         ],
-        "generated": "2026-11-25T12:00:43.656201+00:00"
+        "generated": "2026-11-25T12:30:51.088193+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-11-25T12:00:01.047950+00:00",
-      "penalizacion": 1.0
+      "apariciones": 3,
+      "ultima_impresion": "2026-11-25T12:30:01.086232+00:00",
+      "penalizacion": 0.55
     },
     {
       "key": "caminar 100 minutos dia reduce riesgo dolor lumbar cronico segun estudio noruego",
       "title": "Caminar 100 minutos al día reduce riesgo de dolor lumbar crónico, según estudio noruego",
-      "score": 0.936,
+      "score": 0.494,
       "sources_count": 1,
       "first_seen": "2026-11-25T11:12:39+00:00",
       "image": null,
@@ -345,16 +461,16 @@
           "Una investigación científica llevada a cabo en Noruega determina que dedicar al menos 100 minutos diarios a la caminata disminuye la probabilidad de padecer dolor lumbar crónico. El dolor lumbar crónico es una de las afecciones más frecuentes a nivel mundial y afecta de forma significativa la calidad de vida de quienes lo sufren. Entre los factores que favorecen su aparición se encuentran el sedentarismo y la falta de actividad física regular.",
           "El estudio analizó la relación entre la práctica de la caminata y la aparición de molestias en la zona lumbar. Los investigadores observaron que las personas que caminaban más de 100 minutos al día presentaban un riesgo notablemente menor de desarrollar dolor lumbar crónico en comparación con quienes permanecían inactivos. Los autores resaltan que la caminata es una actividad sencilla, segura y accesible, que puede incorporarse sin dificultad a la rutina cotidiana."
         ],
-        "generated": "2026-11-25T12:00:44.679652+00:00"
+        "generated": "2026-11-25T12:30:52.122261+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-11-25T12:00:01.047950+00:00",
-      "penalizacion": 1.0
+      "apariciones": 3,
+      "ultima_impresion": "2026-11-25T12:30:01.086232+00:00",
+      "penalizacion": 0.55
     },
     {
       "key": "trump obtuvo 15 millones dolares acciones nvidia regreso jensen huang",
       "title": "Trump obtuvo hasta 15 millones de dólares con acciones de Nvidia tras el regreso de Jensen Huang",
-      "score": 0.926,
+      "score": 0.488,
       "sources_count": 1,
       "first_seen": "2026-11-25T11:04:51+00:00",
       "image": null,
@@ -374,45 +490,16 @@
           "El presidente de Estados Unidos habría ganado entre 3,5 y 10,2 millones de dólares al vender parte de sus participaciones y, según la Oficina de Ética Gubernamental, pudo haber poseído hasta 370 000 acciones de la compañía al cierre de septiembre, lo que le habría generado una ganancia total de aproximadamente 15 millones de dólares. Según los últimos reportes de la Oficina de Ética Gubernamental, Trump tenía entre 23 y 86 millones de dólares invertidos en Nvidia antes de la reapertura de la empresa bajo la dirección de su cofundador Jensen Huang.",
           "El regreso de Huang, tras haber sido destituido por la junta a causa de acusaciones de relaciones extramatrimoniales, fue impulsado por la intervención del propio presidente, quien declaró a CNBC haber “hablado con ellos” y haber “cerrado el trato”."
         ],
-        "generated": "2026-11-25T12:00:45.685725+00:00"
+        "generated": "2026-11-25T12:30:53.201633+00:00"
       },
-      "apariciones": 2,
-      "ultima_impresion": "2026-11-25T12:00:01.047950+00:00",
-      "penalizacion": 1.0
-    },
-    {
-      "key": "necrologicas",
-      "title": "NECROLÓGICAS",
-      "score": 0.571,
-      "sources_count": 1,
-      "first_seen": "2026-11-25T03:05:14+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2023/09/Necrologicas.jpg",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "NECROLÓGICAS",
-          "url": "https://tsnnecochea.com.ar/servicios/necrologicas-157/",
-          "published_at": "2026-11-25T03:05:14+00:00",
-          "first_seen": "2026-11-25T11:30:00.471588+00:00",
-          "category": "brandsafety",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2023/09/Necrologicas.jpg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Servicios | brandsafety | Avisos fúnebres NECROLÓGICAS Fúnebres del día en Necochea y Quequén. Consultá las participaciones, salas velatorias y sepelios Por Redacción TSN 25/11/2026 · 12:05 AM Noticias necrológicas de Necochea. Agregar TSN Necochea en HERNANDEZ, Ramón q.e.p.d. Falleció en la ciudad de Necochea el día 24 de noviembre de 2026 a la edad de 69 años, su hijos, Mirian, Ariel, Gisela, Jorge, Santiago, Rafael y Denise sus hijos políticos, , sus nietos, demás familiares y amigos participan de su fallecimiento y que sus restos serán cremados en cementerio municipal de Necochea el día 25 de noviembre de 2026 C/D: 526 2751 QUEQUEN S/V: Avda.",
-          "velatoria dia 24/11/2026 de 12:00 a 21:00 hs Servicio a cargo de: “Usina” Servicios Sociales – Sepelios. Empresa: Usina Popular Cooperativa “Sebastián de María”. KIRILUK, Carlos Basilio q.e.p.d."
-        ],
-        "generated": "2026-11-25T12:00:55.003844+00:00"
-      },
-      "apariciones": 2,
-      "ultima_impresion": "2026-11-25T12:00:01.047950+00:00",
-      "penalizacion": 1.0
+      "apariciones": 3,
+      "ultima_impresion": "2026-11-25T12:30:01.086232+00:00",
+      "penalizacion": 0.55
     },
     {
       "key": "tas devuelve senegal titulo copa africana naciones 2025",
       "title": "El TAS devuelve a Senegal el título de la Copa Africana de Naciones 2025",
-      "score": 0.498,
+      "score": 0.263,
       "sources_count": 1,
       "first_seen": "2026-11-25T10:48:06+00:00",
       "image": null,
@@ -432,16 +519,16 @@
           "*El Tribunal de Arbitraje Deportivo anuló la resolución de la CAF que había declarado campeón a Marruecos y confirmó la victoria senegalesa por 1‑0 en la final disputada en Rabat.* El Tribunal de Arbitraje Deportivo (TAS) falló a favor de Senegal, restableciendo oficialmente el resultado de la final de la Copa Africana de Naciones 2025. La decisión revierte la sanción de la Confederación Africana de Fútbol (CAF), que había anulado la victoria senegalesa y otorgado el título a Marruecos con un marcador de 3‑0. Antecedentes de la final El 18 de enero de 2025, Senegal y Marruecos se enfrentaron en la final del torneo en la capital marroquí.",
           "En el tiempo añadido, el árbitro sancionó un penal a favor de los locales, lo que provocó la protesta de varios jugadores senegaleses y el abandono momentáneo del campo por parte de la mayor parte del equipo. Tras varios minutos, los futbolistas regresaron y el partido se reanudó."
         ],
-        "generated": "2026-11-25T12:00:46.763944+00:00"
+        "generated": "2026-11-25T12:30:54.263448+00:00"
       },
-      "apariciones": 3,
-      "ultima_impresion": "2026-11-25T12:00:01.047950+00:00",
-      "penalizacion": 0.55
+      "apariciones": 4,
+      "ultima_impresion": "2026-11-25T12:30:01.086232+00:00",
+      "penalizacion": 0.303
     },
     {
       "key": "cumplen seis anos muerte diego maradona acerca veredicto juicio equipo medico",
       "title": "Se cumplen seis años de la muerte de Diego Maradona y se acerca el veredicto del juicio contra su equipo médico",
-      "score": 0.496,
+      "score": 0.262,
       "sources_count": 1,
       "first_seen": "2026-11-25T10:45:46+00:00",
       "image": null,
@@ -461,16 +548,16 @@
           "A 25 de noviembre de 2020 el exfutbolista falleció en un barrio privado de Tigre; el 22 de diciembre de 2026 se conocerá la sentencia que podría condenar a seis profesionales de la salud. Antecedentes del caso El 11 de noviembre de 2020 Maradona fue trasladado en ambulancia a una residencia del barrio San Andrés, en el partido de Tigre, para recibir atención domiciliaria tras una cirugía por un hematoma subdural. Durante los días siguientes mostró un marcado deterioro: apenas ingería alimentos, presentaba una pronunciada hinchazón corporal y apenas podía levantarse de la cama.",
           "Familiares y allegados alertaron a los encargados de su cuidado, pero no obtuvieron respuestas. El 25 de noviembre, dos semanas después del ingreso, el cuerpo del “Diez” fue encontrado sin signos vitales alrededor del mediodía, tras haber permanecido 12 horas sin controles médicos."
         ],
-        "generated": "2026-11-25T12:00:47.557193+00:00"
+        "generated": "2026-11-25T12:30:55.334919+00:00"
       },
-      "apariciones": 3,
-      "ultima_impresion": "2026-11-25T12:00:01.047950+00:00",
-      "penalizacion": 0.55
+      "apariciones": 4,
+      "ultima_impresion": "2026-11-25T12:30:01.086232+00:00",
+      "penalizacion": 0.303
     },
     {
       "key": "despedida carlos tevez bombonera venta entradas partir 25 noviembre",
       "title": "Despedida de Carlos Tevez en La Bombonera: venta de entradas a partir del 25 de noviembre",
-      "score": 0.486,
+      "score": 0.257,
       "sources_count": 1,
       "first_seen": "2026-11-25T10:31:08+00:00",
       "image": null,
@@ -490,16 +577,16 @@
           "La organización confirmó los pasos para adquirir los boletos del partido homenaje al “Apache”, que se jugará el domingo 20 de diciembre en el estadio de Boca Juniors. Fechas y modalidades de venta La primera fase será una preventa exclusiva para clientes de BBVA Mastercard. Comienza el miércoles 25 de noviembre a las 12:00 y se extiende hasta el jueves 26 de noviembre a las 23:59 o hasta agotar las 7 000 entradas disponibles. La compra deberá realizarse con tarjetas de crédito Mastercard del banco a través de la plataforma MODO.",
           "La venta general inicia el viernes 27 de noviembre a las 12:00. En esta etapa se aceptarán pagos mediante MODO y Mercado Pago, con tarjetas de crédito, débito o saldo en cuenta. El beneficio de seis cuotas sin interés con tarjetas Mastercard de BBVA seguirá vigente a través de MODO."
         ],
-        "generated": "2026-11-25T12:00:48.570172+00:00"
+        "generated": "2026-11-25T12:30:56.413626+00:00"
       },
-      "apariciones": 3,
-      "ultima_impresion": "2026-11-25T12:00:01.047950+00:00",
-      "penalizacion": 0.55
+      "apariciones": 4,
+      "ultima_impresion": "2026-11-25T12:30:01.086232+00:00",
+      "penalizacion": 0.303
     },
     {
       "key": "como estara tiempo miercoles necochea",
       "title": "Cómo estará el tiempo este miércoles en Necochea",
-      "score": 0.112,
+      "score": 0.059,
       "sources_count": 1,
       "first_seen": "2026-11-25T05:02:22+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/04/FOTO-Escollera-finde-largo.jpg",
@@ -519,16 +606,16 @@
           "TSN Necochea | ‹ VOLVER | Locales | humedad | Clima Cómo estará el tiempo este miércoles en Necochea El Servicio Meteorológico Nacional anticipa una jornada con posibilidades de lluvias y alta temperatura Por Redacción TSN 25/11/2026 · 02:02 AM Agregar TSN Necochea en Este miércoles 25 noviembre se presenta en Necochea y Quequén con condiciones meteorológicas cambiantes. El Servicio Meteorológico Nacional (SMN) prevé una jornada con cielo nublado, viento y una temperatura máxima que alcanzará los 21°C. La humedad relativa del aire se ubica en un 91 % , mientras que la presión atmosférica se mantiene alta y estable en 1012 hectopascales.",
           "El comportamiento del tiempo a lo largo del día se estructurará de la siguiente manera: Madrugada: Temperatura mínima de 10 °C con el cielo ligeramente nublado. Vientos del sector norte con velocidades de hasta 22 km/h. Mañana : se mantendra la misma temperatura con 16°C."
         ],
-        "generated": "2026-11-25T12:00:51.945269+00:00"
+        "generated": "2026-11-25T12:30:59.718802+00:00"
       },
-      "apariciones": 5,
-      "ultima_impresion": "2026-11-25T12:00:01.047950+00:00",
-      "penalizacion": 0.166
+      "apariciones": 6,
+      "ultima_impresion": "2026-11-25T12:30:01.086232+00:00",
+      "penalizacion": 0.092
     },
     {
       "key": "jornada institucional miercoles no habra clases escuelas secundarias necochea",
       "title": "Por una jornada institucional, este miércoles no habrá clases en las escuelas secundarias de Necochea",
-      "score": 0.109,
+      "score": 0.058,
       "sources_count": 1,
       "first_seen": "2026-11-25T04:45:50+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/02/escuelas-mgp-2jpg-1.webp",
@@ -548,16 +635,16 @@
           "TSN Necochea | ‹ VOLVER | Educación | escuelas | Obligatorio Por una jornada institucional, este miércoles no habrá clases en las escuelas secundarias de Necochea La Dirección General de Cultura y Educación bonaerense dispuso una jornada de trabajo para docentes que afectará a los colegios secundarios estatales y privados de la provincia el 25 de noviembre. Por Redacción TSN 25/11/2026 · 01:45 AM clases Agregar TSN Necochea en Este miércoles 25 de noviembre, las escuelas secundarias de Necochea no dictarán clases debido a una jornada institucional obligatoria establecida por la Dirección General de Cultura y Educación de la provincia de Buenos Aires .",
           "Esta medida afecta a todos los colegios secundarios, tanto estatales como privados. Durante esta jornada, los docentes se dedicarán a analizar el régimen académico vigente y a considerar posibles modificaciones para el ciclo lectivo 2027."
         ],
-        "generated": "2026-11-25T12:00:53.003347+00:00"
+        "generated": "2026-11-25T12:31:00.785674+00:00"
       },
-      "apariciones": 5,
-      "ultima_impresion": "2026-11-25T12:00:01.047950+00:00",
-      "penalizacion": 0.166
+      "apariciones": 6,
+      "ultima_impresion": "2026-11-25T12:30:01.086232+00:00",
+      "penalizacion": 0.092
     },
     {
       "key": "santilli ira miercoles senado brindar primer informe gestion defender rumbo gobierno",
       "title": "Santilli irá este miércoles al Senado para brindar su primer informe de gestión y defender el rumbo del Gobierno",
-      "score": 0.058,
+      "score": 0.031,
       "sources_count": 1,
       "first_seen": "2026-11-25T04:25:57+00:00",
       "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/07/Diego-Santilli-Diputado-123.webp",
@@ -577,16 +664,16 @@
           "TSN Necochea | ‹ VOLVER | Nación | congreso | Congreso Santilli irá este miércoles al Senado para brindar su primer informe de gestión y defender el rumbo del Gobierno El jefe de Gabinete concurrirá a las 15 a exponer ante los senadores y responder las preguntas de los legisladores. Por Redacción TSN 25/11/2026 · 01:25 AM Diego Santilli, diputado nacional y referente del PRO bonerense Fotografía: Agencia Noticias Argentinas /RRSS Agregar TSN Necochea en El jefe de Gabinete, Diego Santilli , concurrirá este miércoles al Senado para brindar su primer informe de gestión desde que asumió el cargo, en una semana clave para el Gobierno en el Congreso, donde el oficialismo apuesta a aprobar este jueves el Presupuesto y avanzar con la reforma electoral.",
           "Santilli expondrá desde las 15 en una sesión informativa, en la que presentará una evaluación de la marcha de la gestión, tal como lo establece el artículo 101 de la Constitución Nacional."
         ],
-        "generated": "2026-11-25T12:00:53.701930+00:00"
+        "generated": "2026-11-25T12:31:01.485659+00:00"
       },
-      "apariciones": 6,
-      "ultima_impresion": "2026-11-25T12:00:01.047950+00:00",
-      "penalizacion": 0.092
+      "apariciones": 7,
+      "ultima_impresion": "2026-11-25T12:30:01.086232+00:00",
+      "penalizacion": 0.05
     },
     {
       "key": "iluminacion avanza calles esperan turno",
       "title": "La iluminación avanza y las calles esperan su turno",
-      "score": 0.005,
+      "score": 0.003,
       "sources_count": 1,
       "first_seen": "2026-11-25T02:02:42+00:00",
       "image": "https://cdnartic.ar/GMioldcZeE8yP72q4y5_1WXICKw=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/led.webp",
@@ -606,11 +693,11 @@
           "La ciudad Añadir como fuente en La iluminación avanza y las calles esperan su turno La Municipalidad de Necochea concentró buena parte de su inversión de 2026 en un ambicioso programa de alumbrado público. El desafío que viene es otro: mejorar las numerosas calles sin pavimentar, sostener los servicios y tratar de encontrar nuevas formas de financiar la infraestructura urbana 24 de noviembre de 2026 | 23:02 Ads Por Jorge Gómez Ads Para Ecos Diarios Ads Hay un interrogante que atraviesa hoy a buena parte de las administraciones municipales.",
           "¿Cómo hacer obra pública cuando los recursos escasean, el Estado nacional se ha retirado del financiamiento de la infraestructura y las demandas de los vecinos siguen acumulándose? En Necochea y Quequén , la respuesta durante este año tuvo un protagonista principal, o sea el plan extraordinario de iluminación que se desarrolla en distintos sectores."
         ],
-        "generated": "2026-11-25T12:00:55.484187+00:00"
+        "generated": "2026-11-25T12:31:03.075637+00:00"
       },
-      "apariciones": 10,
-      "ultima_impresion": "2026-11-25T12:00:01.047950+00:00",
-      "penalizacion": 0.008
+      "apariciones": 11,
+      "ultima_impresion": "2026-11-25T12:30:01.086232+00:00",
+      "penalizacion": 0.005
     },
     {
       "key": "incendio auto 74 49 51",
@@ -644,10 +731,10 @@
           "Policiales Añadir como fuente en Se incendió un auto en 74 entre 49 y 51 El conductor se dio cuenta del desperfecto y evitó que el vehículo fuera consumido por las llamas 24 de noviembre de 2026 | 17:49 El motor sufrió un desperfecto y se incendió Ads Un automóvil Peugeot 308 se incendió en la tarde de este martes en la avenida 74 entre 49 y 51 y debió concurrir una dotación de Bomberos. Ads El propietario del vehículo advirtió que salía humo del motor y decidió llamar a los Bomberos. Al llegar la dotación del Cuartel de Bomberos local advirtió que el fuego se había desplazado del motor a la transmisión, mientras que el habitáculo estaba lleno de humo.",
           "Ads Si bien no había llamas a la vida, los Bomberos procedieron a enfriar el auto antes de abrir el capot. Puede interesarte Ads Ads Temas necochea Comentarios Para comentar, debés estar registrado Por favor, iniciá sesión INGRESA Ads Ads"
         ],
-        "generated": "2026-11-25T12:00:50.879996+00:00"
+        "generated": "2026-11-25T12:30:58.670007+00:00"
       },
-      "apariciones": 17,
-      "ultima_impresion": "2026-11-25T12:00:01.047950+00:00",
+      "apariciones": 18,
+      "ultima_impresion": "2026-11-25T12:30:01.086232+00:00",
       "penalizacion": 0.0
     },
     {
@@ -673,10 +760,10 @@
           "Policiales Añadir como fuente en Inhabilitan hasta 2099 a una joven por realizar maniobras peligrosas con su camioneta en Pinamar El ministerio de transporte bonaerense suspendió la licencia de conducir de una mujer de 20 años tras viralizarse un video realizando trompos en las dunas con cuatro personas a bordo. 24 de noviembre de 2026 | 19:59 Lara Magalí Rapallo, alias Naotzumi, con su Dodge RAM rosa.",
           "Ads Una joven de 20 años, identificada como Lara Magalí Rapallo , fue inhabilitada preventivamente para conducir hasta el año 2099. La medida fue dispuesta por el ministerio de transporte bonaerense, a cargo de Martín Marinucci , tras la difusión de un video en redes sociales donde se la observa realizando maniobras peligrosas en el balneario La Frontera, en Pinamar ."
         ],
-        "generated": "2026-11-25T12:00:58.568714+00:00"
+        "generated": "2026-11-25T12:31:06.522661+00:00"
       },
-      "apariciones": 16,
-      "ultima_impresion": "2026-11-25T12:00:01.047950+00:00",
+      "apariciones": 17,
+      "ultima_impresion": "2026-11-25T12:30:01.086232+00:00",
       "penalizacion": 0.0
     },
     {
@@ -702,68 +789,10 @@
           "Nacionales Añadir como fuente en Aumentan el monto del programa para la salida de las violencias de género El Gobierno bonaerense incrementará a 190.000 pesos mensuales la asistencia destinada a personas en situación de riesgo, medida que entrará en vigencia a partir de diciembre de 2026. 24 de noviembre de 2026 | 19:57 La violencia de género siempre debe estar en agenda. Ads El Gobierno bonaerense dispuso una actualización en el monto de la asistencia económica destinada a mujeres y personas LGBTIQ+ que se encuentran en situaciones de violencia de género.",
           "A partir de diciembre de 2026, el beneficio mensual ascenderá a 190.000 pesos , según lo informado por el Ministerio de Mujeres y Diversidad . Ads Esta actualización alcanza tanto a quienes ya forman parte del Programa de Fortalecimiento para la Salida de las Violencias de Género como a las personas que se incorporen al mismo desde el último mes del año."
         ],
-        "generated": "2026-11-25T12:00:59.046283+00:00"
-      },
-      "apariciones": 17,
-      "ultima_impresion": "2026-11-25T12:00:01.047950+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "gobierno asegura desregulacion economica redujo 15 precios supermercados",
-      "title": "El Gobierno asegura que la desregulación económica redujo un 15% los precios en supermercados",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-11-24T22:56:04+00:00",
-      "image": "https://cdnartic.ar/Nuff98SXMMFXQu8Nh6EhAQBzd8I=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/los_precios_en_los_supermercados_segun_el_gobierno.webp",
-      "articles": [
-        {
-          "portal": "Ecos Diarios",
-          "title": "El Gobierno asegura que la desregulación económica redujo un 15% los precios en supermercados",
-          "url": "https://elecos.com.ar/el-gobierno-asegura-que-la-desregulacion-economica-redujo-un-15-los-precios-en-supermercados",
-          "published_at": "2026-11-24T22:56:04+00:00",
-          "first_seen": "2026-11-24T23:30:00.536642+00:00",
-          "category": "nacionales",
-          "image": "https://cdnartic.ar/Nuff98SXMMFXQu8Nh6EhAQBzd8I=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/los_precios_en_los_supermercados_segun_el_gobierno.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Nacionales Añadir como fuente en El Gobierno asegura que la desregulación económica redujo un 15% los precios en supermercados El ministro de Desregulación y Transformación del Estado, Federico Sturzenegger, difundió un estudio de la UNLP que sostiene que las medidas oficiales impactaron en el valor de productos de consumo masivo. 24 de noviembre de 2026 | 19:56 Los precios en los supermercados, según el Gobierno.",
-          "Ads El Gobierno nacional informó que las medidas de desregulación económica implementadas permitieron una reducción cercana al 15% en los precios relativos de diversos productos de consumo masivo en supermercados. La información fue comunicada por el ministro de Desregulación y Transformación del Estado, Federico Sturzenegger , basándose en un estudio realizado por investigadores de la Universidad Nacional de La Plata ."
-        ],
-        "generated": "2026-11-25T12:00:59.527067+00:00"
-      },
-      "apariciones": 17,
-      "ultima_impresion": "2026-11-25T12:00:01.047950+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "oscar merlo propuso potenciar turismo regional convertir sudeste bonaerense destino todo ano",
-      "title": "Oscar Merlo propuso potenciar el turismo regional y convertir al sudeste bonaerense en un destino durante todo el año",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-11-24T22:32:01+00:00",
-      "image": null,
-      "articles": [
-        {
-          "portal": "Diario NQ",
-          "title": "Oscar Merlo propuso potenciar el turismo regional y convertir al sudeste bonaerense en un destino durante todo el año",
-          "url": "https://diarionq.com.ar/oscar-merlo-propuso-potenciar-el-turismo-regional-y-convertir-al-sudeste-bonaerense-en-un-destino-durante-todo-el-ano/",
-          "published_at": "2026-11-24T22:32:01+00:00",
-          "first_seen": "2026-11-24T23:00:00.744925+00:00",
-          "category": "Destacadas",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El empresario destacó el crecimiento turístico de Balcarce, la recuperación del Autódromo Juan Manuel Fangio y el desarrollo de nuevos emprendimientos vitivinícolas. Además, planteó la necesidad de integrar las propuestas de Necochea, Tandil, Lobería y otras localidades de la región, mejorar la conectividad y fortalecer las inversiones. El empresario balcarceño Oscar Merlo , en diálogo con el periodista Miguel Abálsamo, en NEC Radio 98.3 del Multimedio NQ, analizó el potencial turístico y económico del sudeste bonaerense y planteó la necesidad de desarrollar una estrategia regional que permita complementar los atractivos de las distintas localidades y generar actividad durante todo el año.",
-          "Merlo sostuvo que las ciudades deben dejar de pensar exclusivamente en sus propios destinos y comenzar a trabajar en alianzas estratégicas que permitan ampliar la oferta turística. “Soy un convencido de que la forma de traccionar es en conjunto”, afirmó."
-        ],
-        "generated": "2026-11-25T12:01:01.863017+00:00"
+        "generated": "2026-11-25T12:31:07.762743+00:00"
       },
       "apariciones": 18,
-      "ultima_impresion": "2026-11-25T12:00:01.047950+00:00",
+      "ultima_impresion": "2026-11-25T12:30:01.086232+00:00",
       "penalizacion": 0.0
     },
     {
@@ -789,39 +818,10 @@
           "Locales Política Regionales LA USINA ANUNCIÒ UN NUEVO CORTE DE LUZ EN ZONA RURAL. Por admin - 24 noviembre, 2026 0 3 Facebook Twitter Pinterest WhatsApp Necochea .- La Usina Popular Cooperativa comunicó que este miércoles 25 de Noviembre de 2026 en el horario de 8 a 11 Hs. , siempre y cuando las condiciones del tiempo lo permitan, se realizará un corte en el suministro de energía eléctrica que afectará a los usuarios de la zona comprendida por Av. Circunvalación y R.P 227 – Zona Rural.",
           "El mismo tiene por finalidad llevar a cabo el montaje de una nueva subestación transformadora por re potenciación , para mejorar la calidad del servicio en la zona. Se recuerda que los cortes pueden ser reprogramados en caso de producirse condiciones climáticas adversas. Etiquetas anuncio corte de luz Necochea zona rural Facebook Twitter Pinterest WhatsApp Artículo anterior CON UNA JORNADA ESPECIAL LA MUNICIPALIDAD CELEBRÒ EL DÌA NACIONAL DE LA DEFENSA CIVIL."
         ],
-        "generated": "2026-11-25T12:01:02.521674+00:00"
-      },
-      "apariciones": 18,
-      "ultima_impresion": "2026-11-25T12:00:01.047950+00:00",
-      "penalizacion": 0.0
-    },
-    {
-      "key": "jornada especial municipalidad celebro dia nacional defensa civil",
-      "title": "CON UNA JORNADA ESPECIAL LA MUNICIPALIDAD CELEBRÒ EL DÌA NACIONAL DE LA DEFENSA CIVIL.",
-      "score": 0.0,
-      "sources_count": 1,
-      "first_seen": "2026-11-24T22:27:10+00:00",
-      "image": null,
-      "articles": [
-        {
-          "portal": "Necochea Libre",
-          "title": "CON UNA JORNADA ESPECIAL LA MUNICIPALIDAD CELEBRÒ EL DÌA NACIONAL DE LA DEFENSA CIVIL.",
-          "url": "https://necochealibre.com.ar/con-una-jornada-especial-la-municipalidad-celebro-el-dia-nacional-de-la-defensa-civil/",
-          "published_at": "2026-11-24T22:27:10+00:00",
-          "first_seen": "2026-11-24T22:30:00.429051+00:00",
-          "category": "Locales",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Locales Política Regionales CON UNA JORNADA ESPECIAL LA MUNICIPALIDAD CELEBRÒ EL DÌA NACIONAL DE LA DEFENSA CIVIL. Por admin - 24 noviembre, 2026 0 2 Facebook Twitter Pinterest WhatsApp Necochea .- La Direcciòn de Defensa Civil compartió una jornada e special con la comunidad para mostrar su trabajo diario.",
-          "En el marco del Día Nacional de la Defensa Civil, que se conmemoró el pasado lunes 23 de Noviembre , el personal del área municipal compartió una jornada de exhibición y acercamiento con los vecinos en su sede del Parque Miguel Lillo, donde mostró los elementos y las herramientas que utiliza para intervenir en distintas situaciones de emergencia."
-        ],
-        "generated": "2026-11-25T12:01:03.214727+00:00"
+        "generated": "2026-11-25T12:31:08.453057+00:00"
       },
       "apariciones": 19,
-      "ultima_impresion": "2026-11-25T12:00:01.047950+00:00",
+      "ultima_impresion": "2026-11-25T12:30:01.086232+00:00",
       "penalizacion": 0.0
     }
   ]
