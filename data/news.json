@@ -1,505 +1,682 @@
 {
-  "generated_at": "2026-11-27T13:49:20.659263+00:00",
-  "article_count": 120,
+  "generated_at": "2026-11-27T22:39:12.654150+00:00",
+  "article_count": 110,
   "fetch_errors": [],
   "stories": [
     {
-      "key": "vecinos destacaron instalacion luces led",
-      "title": "Vecinos destacaron la instalación de luces LED",
-      "score": 1.232,
-      "sources_count": 1,
-      "first_seen": "2026-11-27T13:10:42+00:00",
-      "image": "https://cdnartic.ar/oL9K6b_T-2IWbExExpcsvbS_VxI=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/instalacion_de_luces_led.webp",
+      "key": "provincia entrego necochea equipamiento fortalecer respuesta frente fenomeno nino",
+      "title": "La Provincia entregó a Necochea equipamiento para fortalecer la respuesta frente al fenómeno de El Niño",
+      "score": 3.97,
+      "sources_count": 3,
+      "first_seen": "2026-11-27T18:57:48+00:00",
+      "image": "https://cdnartic.ar/5D4czkz9_nMppYtbi5jPXBtAHNo=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/rojas_kicillof.webp",
       "articles": [
         {
           "portal": "Ecos Diarios",
-          "title": "Vecinos destacaron la instalación de luces LED",
-          "url": "https://elecos.com.ar/vecinos-destacaron-la-instalacion-de-luces-led",
-          "published_at": "2026-11-27T13:10:42+00:00",
-          "first_seen": "2026-11-27T13:49:20.659263+00:00",
+          "title": "La Provincia entregó a Necochea equipamiento para fortalecer la respuesta frente al fenómeno de El Niño",
+          "url": "https://elecos.com.ar/la-provincia-entrego-a-necochea-equipamiento-para-fortalecer-la-respuesta-frente-al-fenomeno-de-el-nino",
+          "published_at": "2026-11-27T18:57:48+00:00",
+          "first_seen": "2026-11-27T22:39:12.654150+00:00",
           "category": "14",
-          "image": "https://cdnartic.ar/oL9K6b_T-2IWbExExpcsvbS_VxI=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/instalacion_de_luces_led.webp"
+          "image": "https://cdnartic.ar/5D4czkz9_nMppYtbi5jPXBtAHNo=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/rojas_kicillof.webp"
+        },
+        {
+          "portal": "TSN Necochea",
+          "title": "La Provincia entregó a Necochea equipamiento para fortalecer la respuesta frente al fenómeno de El Niño",
+          "url": "https://tsnnecochea.com.ar/locales/la-provincia-entrego-a-necochea-equipamiento-para-fortalecer-la-respuesta-frente-al-fenomeno-de-el-nino-243446/",
+          "published_at": "2026-11-27T19:27:08+00:00",
+          "first_seen": "2026-11-27T22:39:12.654150+00:00",
+          "category": "Gobernador",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/nino-scaled.webp"
+        },
+        {
+          "portal": "Necochea Digital",
+          "title": "Provincia entregó a Necochea equipamiento de emergencia para afrontar el fenómeno de El Niño",
+          "url": "https://necocheadigital.com/nota/120311/provincia-entrego-a-necochea-equipamiento-de-emergencia-para-afrontar-el-fenomeno-de-el-nino/",
+          "published_at": null,
+          "first_seen": "2026-11-27T22:39:12.654150+00:00",
+          "category": null,
+          "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "La ciudad Añadir como fuente en Vecinos destacaron la instalación de luces LED El recambio alcanzó los sectores de 90 y 47, 98 y 63, y 80 y 55. En diálogo con Ecos Diarios, los vecinos expresaron sus opiniones sobre la renovación del alumbrado 27 de noviembre de 2026 | 10:10 Instalación de luces LED Ads La instalación de nuevas luminarias LED en inmediaciones de calles 90 y 47, 98 y 63, y 80 y 55 de Necochea generó una respuesta favorable entre los habitantes de estos sectores , quienes destacaron la mejora en la visibilidad nocturna y la importancia de contar con calles iluminadas en materia de seguridad.",
-          "Ads En una recorrida realizada por Ecos Diarios , los vecinos compartieron sus experiencias y señalaron algunas necesidades que aún persisten en sus barrios."
+          "La ciudad Añadir como fuente en La Provincia entregó a Necochea equipamiento para fortalecer la respuesta frente al fenómeno de El Niño 27 de noviembre de 2026 | 15:57 Ads El intendente Arturo Rojas participó de un encuentro encabezado por el gobernador Axel Kicillof , en el que se coordinaron acciones de prevención ante las previsiones de lluvias intensas. El Municipio recibió un kit con herramientas y elementos para fortalecer la respuesta ante emergencias climáticas.",
+          "Ads El gobernador bonaerense, Axel Kicillof, encabezó este viernes una reunión con intendentes e intendentas de la provincia para coordinar medidas de prevención y mitigación frente a los posibles efectos del fenómeno climático de El Niño . Durante el encuentro, del que participó el jefe comunal de Necochea, Arturo Rojas, se entregó al Municipio un kit de equipamiento destinado a reforzar la capacidad de respuesta ante eventuales emergencias."
         ],
-        "generated": "2026-11-27T13:49:39.196546+00:00"
+        "generated": "2026-11-27T22:39:56.614618+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-27T13:49:20.659263+00:00"
+      "ultima_impresion": "2026-11-27T22:39:12.654150+00:00"
     },
     {
-      "key": "belen serre suarez dio detalles obra bocados teatro",
-      "title": "Belén Serre Suárez dio detalles de su obra \"Bocados de Teatro\"",
-      "score": 1.231,
-      "sources_count": 1,
-      "first_seen": "2026-11-27T13:09:58+00:00",
-      "image": "https://cdnartic.ar/5ZnGYqF7ECZ2JU0oxRAesMBmA2M=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/belen_serre_suarez.webp",
+      "key": "martes encenderan arbol navidad plaza",
+      "title": "Tradición: el martes 8 de diciembre encienden el árbol de Navidad de la Plaza",
+      "score": 1.798,
+      "sources_count": 2,
+      "first_seen": "2026-11-27T17:01:14+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/10-12-FOTO-Arbolito2.webp",
       "articles": [
         {
-          "portal": "Ecos Diarios",
-          "title": "Belén Serre Suárez dio detalles de su obra \"Bocados de Teatro\"",
-          "url": "https://elecos.com.ar/belen-serre-suarez-dio-detalles-de-su-obra-bocados-de-teatro",
-          "published_at": "2026-11-27T13:09:58+00:00",
-          "first_seen": "2026-11-27T13:49:20.659263+00:00",
-          "category": "ecos-radio",
-          "image": "https://cdnartic.ar/5ZnGYqF7ECZ2JU0oxRAesMBmA2M=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/belen_serre_suarez.webp"
+          "portal": "TSN Necochea",
+          "title": "Tradición: el martes 8 de diciembre encienden el árbol de Navidad de la Plaza",
+          "url": "https://tsnnecochea.com.ar/generales/tradicion-el-martes-8-de-diciembre-encienden-el-arbol-de-navidad-de-la-plaza-243429/",
+          "published_at": "2026-11-27T17:01:14+00:00",
+          "first_seen": "2026-11-27T22:39:12.654150+00:00",
+          "category": "encendido",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/10-12-FOTO-Arbolito2.webp"
+        },
+        {
+          "portal": "Necochea Digital",
+          "title": "El martes 8 encenderán el Árbol de Navidad en la plaza",
+          "url": "https://necocheadigital.com/nota/120310/el-martes-8-encenderan-el-arbol-de-navidad-en-la-plaza/",
+          "published_at": null,
+          "first_seen": "2026-11-27T22:39:12.654150+00:00",
+          "category": null,
+          "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "Ecos Radio Añadir como fuente en Belén Serre Suárez dio detalles de su obra \"Bocados de Teatro\" 27 de noviembre de 2026 | 10:09 Ads La actriz y directora de teatro pasó por Desde Temprano para hablar sobre su obra \"Bocados de Teatro\" , que tendrá lugar este sábado, 28 de noviembre, en el Teatro Municipal \"Luis Sandrini\".",
-          "Escuchá la nota completa: Ads Ads Ads Temas Cultura Comentarios Para comentar, debés estar registrado Por favor, iniciá sesión INGRESA Ads Ads"
+          "TSN Necochea | ‹ VOLVER | Generales | encendido | En la Plaza Dardo Rocha. Tradición: el martes 8 de diciembre encienden el árbol de Navidad de la Plaza El tradicional armado y el Pesebre volverá a convocar a las familias.",
+          "Habrá música, espectáculos y una Expo Navideña durante dos jornadas. Por Redacción TSN 27/11/2026 · 02:01 PM Agregar TSN Necochea en La cuenta regresiva para la Navidad ya comienza a sentirse en Necochea y uno de los momentos más esperados por las familias de la ciudad empieza a tomar forma: el armado del tradicional Árbol de Navidad y el Pesebre en la Plaza Dardo Rocha, sobre calle 56 y avenida 59."
         ],
-        "generated": "2026-11-27T13:49:39.671566+00:00"
+        "generated": "2026-11-27T22:39:58.616587+00:00"
       },
       "penalizacion": 1.0,
       "apariciones": 1,
-      "ultima_impresion": "2026-11-27T13:49:20.659263+00:00"
+      "ultima_impresion": "2026-11-27T22:39:12.654150+00:00"
     },
     {
       "key": "necochea sera escenario ansiada definicion liga femenina sudeste",
-      "title": "Necochea será escenario de una ansiada definición de la Liga Femenina del Sudeste",
-      "score": 1.169,
-      "sources_count": 1,
-      "first_seen": "2026-11-27T13:30:22+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/FOTO-Newcom-femenino-Neco.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Necochea será escenario de una ansiada definición de la Liga Femenina del Sudeste",
-          "url": "https://tsnnecochea.com.ar/deportes/necochea-sera-escenario-de-una-ansiada-definicion-de-la-liga-femenina-del-sudeste-243396/",
-          "published_at": "2026-11-27T13:30:22+00:00",
-          "first_seen": "2026-11-27T13:49:20.659263+00:00",
-          "category": "Liga",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/FOTO-Newcom-femenino-Neco.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Deportes | Liga | Newcom Necochea será escenario de una ansiada definición de la Liga Femenina del Sudeste Con equipos de distintas localidades de la región, se disputará la última fecha de la primera temporada del certamen, que consagrará a sus campeonas en el Colegio Capuchinos. Habrá 18 partidos, buffet, sorteos y entrada libre y gratuita.",
-          "Por Redacción TSN 27/11/2026 · 10:30 AM Sudestada de Necochea Agregar TSN Necochea en La primera edición de la Liga Femenina del Sudeste de newcom tendrá este domingo 29 de noviembre su gran jornada de cierre en Necochea. Desde las 8:30, las instalaciones del Colegio Capuchinos (ingreso por calle 56 entre 79 y 81) recibirán la fecha coronación del torneo regional, que a lo largo del año reunió a equipos de distintas localidades bajo la modalidad Grand Prix."
-        ],
-        "generated": "2026-11-27T13:49:42.721130+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-27T13:49:20.659263+00:00"
-    },
-    {
-      "key": "rojas fortalece gestiones puerto quequen provincia iluminacion inversiones plan mejorar calles",
-      "title": "Rojas fortalece las gestiones con Puerto Quequén y Provincia: más iluminación, inversiones y un plan para mejorar las calles",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-27T13:49:20.659263+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/e3a9040350ec40e0148f53ea4e1ce8ba8a1801c2.jpg",
+      "title": "Necochea será escenario de la definición de la primera Liga Femenina del Sudeste de Newcom",
+      "score": 1.776,
+      "sources_count": 2,
+      "first_seen": "2026-11-27T17:58:03+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261127173335_c110e4a6-4f78-4fd2-9e16-ff427e602077.jpg",
       "articles": [
         {
           "portal": "Necochea Digital",
-          "title": "Rojas fortalece las gestiones con Puerto Quequén y Provincia: más iluminación, inversiones y un plan para mejorar las calles",
-          "url": "https://necocheadigital.com/nota/120304/rojas-fortalece-las-gestiones-con-puerto-quequen-y-provincia-mas-iluminacion-inversiones-y-un-plan-para-mejorar-las-calles/",
+          "title": "Necochea será escenario de la definición de la primera Liga Femenina del Sudeste de Newcom",
+          "url": "https://necocheadigital.com/nota/120313/necochea-sera-escenario-de-la-definicion-de-la-primera-liga-femenina-del-sudeste-de-newcom/",
           "published_at": null,
-          "first_seen": "2026-11-27T13:49:20.659263+00:00",
+          "first_seen": "2026-11-27T22:39:12.654150+00:00",
           "category": null,
           "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "El intendente Arturo Rojas trazó un panorama de las principales inversiones y proyectos que se encuentran en marcha en Necochea y Quequén, con especial énfasis en la necesidad de gestionar, coordinar esfuerzos y generar acuerdos entre los distintos niveles del Estado y el sector privado.",
-          "Durante una entrevista en el programa Voces de la Tarde , que conduce Jorge Gómez por Radio Noticias Necochea 97.3 FM , el jefe comunal abordó el avance del programa de iluminación pública, la recuperación de la maquinaria municipal, las dificultades que presentan las calles de tierra, el futuro del complejo Casino y las perspectivas para la próxima temporada turística."
-        ],
-        "generated": "2026-11-27T13:49:43.852212+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-27T13:49:20.659263+00:00"
-    },
-    {
-      "key": "pablo juliano llega necochea mensaje renovacion politica etiquetas nos trajeron aca no nos van ayudar entender donde queremos ir",
-      "title": "Pablo Juliano llega a Necochea con un mensaje de renovación política: “Las etiquetas que nos trajeron hasta acá no nos van a ayudar a entender hacia dónde queremos ir”",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-27T13:49:20.659263+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/c103d08e72e949fd583b57ccd9e5bc41bb4dd821.jpg",
-      "articles": [
+        },
         {
-          "portal": "Necochea Digital",
-          "title": "Pablo Juliano llega a Necochea con un mensaje de renovación política: “Las etiquetas que nos trajeron hasta acá no nos van a ayudar a entender hacia dónde queremos ir”",
-          "url": "https://necocheadigital.com/nota/120305/pablo-juliano-llega-a-necochea-con-un-mensaje-de-renovacion-politica-las-etiquetas-que-nos-trajeron-hasta-aca-no-nos-van-a-ayudar-a-entender-hacia-donde-queremos-ir/",
-          "published_at": null,
-          "first_seen": "2026-11-27T13:49:20.659263+00:00",
-          "category": null,
+          "portal": "Diario NQ",
+          "title": "Necochea será escenario de la definición de la primera Liga Femenina del Sudeste",
+          "url": "https://diarionq.com.ar/necochea-sera-escenario-de-la-definicion-de-la-primera-liga-femenina-del-sudeste/",
+          "published_at": "2026-11-27T17:58:03+00:00",
+          "first_seen": "2026-11-27T22:39:12.654150+00:00",
+          "category": "Deportes",
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "El diputado nacional Pablo Juliano, nacido en Necochea y actual presidente del bloque Provincias Unidas en la Cámara de Diputados, regresará este sábado 28 de noviembre a su ciudad natal para protagonizar un encuentro abierto con la comunidad. La actividad, titulada “La Argentina que vivimos” , se realizará a las 19 en el Teatro Toledo y buscará generar un espacio de intercambio sobre la realidad social, económica y política del país.",
-          "La visita fue anticipada durante una entrevista realizada este miércoles en el programa Voces de la Tarde , que conduce Jorge Gómez por Radio Noticias Necochea 97.3 FM , en la que también participó el dirigente radical local Damián Unibaso. Durante la conversación, Juliano planteó la necesidad de abandonar las discusiones políticas encerradas en las identidades partidarias y volver a escuchar las preocupaciones concretas de los ciudadanos."
+          "La primera edición de la Liga Femenina del Sudeste de newcom —modalidad derivada del vóley en la que la pelota se atrapa y se lanza sobre la red— tendrá este domingo 29 de noviembre su jornada de cierre en Necochea. A partir de las 8:30, las instalaciones del Colegio Capuchinos (con acceso por calle 56 entre 79 y 81) recibirán la fecha coronación del torneo regional, que a lo largo del año reunió a equipos de distintas localidades bajo el formato Grand Prix. Ideada y coordinada por la profesora Paula Sabathe junto a un grupo de entrenadoras de la región, la competencia se destacó por su propuesta inclusiva, sin límite de edad y dividida en dos niveles de juego: Iniciadas y Avanzado.",
+          "El recorrido del certamen comenzó en abril en Necochea y continuó por Juan N. Fernández (junio), Mar del Plata (agosto) y Lobería (1° de noviembre)."
         ],
-        "generated": "2026-11-27T13:49:44.551089+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-27T13:49:20.659263+00:00"
-    },
-    {
-      "key": "milei estado gasto quequen ahora necesitan sea solucion duro cruce tabarez libertarios",
-      "title": "“Para Milei, el Estado es un gasto; para Quequén, ahora necesitan que sea una solución”: duro cruce de Tabárez a los libertarios",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-27T13:49:20.659263+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/f673ca358060dd2885fd13ab5d4330dc8fb94c2b.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "“Para Milei, el Estado es un gasto; para Quequén, ahora necesitan que sea una solución”: duro cruce de Tabárez a los libertarios",
-          "url": "https://necocheadigital.com/nota/120300/para-milei-el-estado-es-un-gasto-para-quequen-ahora-necesitan-que-sea-una-solucion-duro-cruce-de-tabarez-a-los-libertarios/",
-          "published_at": null,
-          "first_seen": "2026-11-27T13:49:20.659263+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Además, aseguró que ya existe un expediente administrativo en marcha para abordar la problemática. Finalmente, la iniciativa fue girada a comisión. El debate por la erosión costera en Quequén tuvo un fuerte cruce político en el Concejo Deliberante. Durante el tratamiento del proyecto de resolución presentado por La Libertad Avanza, el concejal de Nueva Necochea, Rodrigo Tabárez, cuestionó tanto el planteo de los libertarios como su posicionamiento frente a las políticas nacionales de obra pública.",
-          "En su intervención, Tabárez aclaró que el objetivo de recuperar y proteger las playas, los acantilados y el frente costero es compartido, pero puso el foco en lo que consideró una contradicción política de quienes impulsaron la iniciativa. “El problema no es el objetivo. El problema es la enorme contradicción política que hay detrás de este proyecto”, expresó."
-        ],
-        "generated": "2026-11-27T13:49:45.222624+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-27T13:49:20.659263+00:00"
-    },
-    {
-      "key": "crimen bautista coronel condenaron acusado anos prision mediante juicio abreviado",
-      "title": "Crimen de Bautista Coronel: condenaron al acusado a 4 años de prisión mediante un juicio abreviado",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-27T13:49:20.659263+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261126113105_whatsapp-image-2026-11-26-at-11-29-27.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "Crimen de Bautista Coronel: condenaron al acusado a 4 años de prisión mediante un juicio abreviado",
-          "url": "https://necocheadigital.com/nota/120299/crimen-de-bautista-coronel-condenaron-al-acusado-a-4-anos-de-prision-mediante-un-juicio-abreviado/",
-          "published_at": null,
-          "first_seen": "2026-11-27T13:49:20.659263+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La causa por el crimen de Bautista Coronel no llegará finalmente a la instancia de debate oral y se resolvió mediante un juicio abreviado en el que el Tribunal de Responsabilidad Penal Juvenil N° 1 condenó al joven acusado a 4 años de prisión de cumplimiento efectivo. La medida surgió de un acuerdo alcanzado entre la Fiscalía y la defensa del imputado, menor de edad al momento del hecho, pero provocó un fuerte rechazo en el entorno de la víctima.",
-          "La novedad generó un profundo malestar en la familia y los allegados de Bautista, quienes aseguraron no haber acompañado la decisión y cuestionaron tanto el monto de la pena como el modo en que se avanzó con el trámite judicial. Guillermo, padre del joven fallecido, relató que fue informado de urgencia por sus representantes legales y sostuvo que la resolución se tomó sin tener en cuenta la postura que venían sosteniendo a lo largo del expediente."
-        ],
-        "generated": "2026-11-27T13:49:46.317727+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-27T13:49:20.659263+00:00"
-    },
-    {
-      "key": "ballet san petersburgo presentara cascanueces viernes cine teatro paris",
-      "title": "El Ballet de San Petersburgo presentará «El Cascanueces» este viernes en el Cine Teatro París",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-27T13:49:20.659263+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/c1633ffb2b27e32ddf57da70abb7a4fa7d9f54da.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "El Ballet de San Petersburgo presentará «El Cascanueces» este viernes en el Cine Teatro París",
-          "url": "https://necocheadigital.com/nota/120291/el-ballet-de-san-petersburgo-presentara-laquo-el-cascanueces-raquo-este-viernes-en-el-cine-teatro-paris/",
-          "published_at": null,
-          "first_seen": "2026-11-27T13:49:20.659263+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "En la antesala de las celebraciones de fin de año y de la temporada estival, la agenda cultural local sumará una propuesta artística de primer nivel internacional. El Ballet Clásico de San Petersburgo presentará este viernes 27 de noviembre, a partir de las 21, el clásico «El Cascanueces» sobre el escenario del Cine Teatro París.",
-          "La prestigiosa agrupación, que acumula más de un centenar de giras por los cinco continentes, arriba a la ciudad en el marco de un recorrido por distintos teatros de la Argentina que también incluye una función en Mar del Plata. Entre las principales figuras anunciadas para esta producción se destacan Iván Oskorbin, integrante del Ballet Mariinsky, y María Tomilova, primera bailarina del Teatro Grigorovich."
-        ],
-        "generated": "2026-11-27T13:49:46.976189+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-27T13:49:20.659263+00:00"
-    },
-    {
-      "key": "centro dia mary serrano celebro 30 anos fuerte reclamo continuidad ampliacion espacios",
-      "title": "El Centro de Día «Mary Serrano» celebró sus 30 años con un fuerte reclamo por la continuidad y ampliación de estos espacios",
-      "score": 1.1,
-      "sources_count": 1,
-      "first_seen": "2026-11-27T13:49:20.659263+00:00",
-      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261125140914_whatsapp-image-2026-11-25-at-14-08-55.jpg",
-      "articles": [
-        {
-          "portal": "Necochea Digital",
-          "title": "El Centro de Día «Mary Serrano» celebró sus 30 años con un fuerte reclamo por la continuidad y ampliación de estos espacios",
-          "url": "https://necocheadigital.com/nota/120288/el-centro-de-dia-laquo-mary-serrano-raquo-celebro-sus-30-anos-con-un-fuerte-reclamo-por-la-continuidad-y-ampliacion-de-estos-espacios/",
-          "published_at": null,
-          "first_seen": "2026-11-27T13:49:20.659263+00:00",
-          "category": null,
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Con la calle cortada, música, bailes folclóricos y un amplio acompañamiento comunitario, el Centro de Día «Mary Serrano», dependiente de la Asociación Civil Todo Para Ellos, celebró sus tres décadas de actividad. El festejo estuvo atravesado por la alegría y la emoción al repasar el esfuerzo de las familias que impulsaron su creación, bajo una consigna central: la necesidad de visibilizar y sostener estos espacios esenciales para las personas con discapacidad.",
-          "Del encuentro participaron familias, concurrentes, trabajadores, autoridades municipales e instituciones educativas y culturales. Estuvieron presentes el director municipal de Discapacidad, Gastón Boldrini; los concejales Bettiana Pustilnik (Agrupación Comunal Transformadora), Silvina Jensen Menna y Gabriela Espinosa (Nueva Necochea) y Silvia Blanco (Fuerza Patria); junto a la agrupación Taquirí, jóvenes del programa Envión y alumnos del Jardín N° 911 «María Elena Walsh»."
-        ],
-        "generated": "2026-11-27T13:49:48.042248+00:00"
-      },
-      "penalizacion": 1.0,
-      "apariciones": 1,
-      "ultima_impresion": "2026-11-27T13:49:20.659263+00:00"
-    },
-    {
-      "key": "escuela publica identidad propia ees 14 rene favaloro abre inscripcion ciclo lectivo 2027",
-      "title": "Una escuela pública con identidad propia: la EES N°14 “René Favaloro” abre la inscripción para el ciclo lectivo 2027",
-      "score": 0.766,
-      "sources_count": 1,
-      "first_seen": "2026-11-27T13:11:12+00:00",
-      "image": null,
-      "articles": [
-        {
-          "portal": "Necochea News",
-          "title": "Una escuela pública con identidad propia: la EES N°14 “René Favaloro” abre la inscripción para el ciclo lectivo 2027",
-          "url": "https://necocheanews.com.ar/una-escuela-publica-con-identidad-propia-la-ees-n14-rene-favaloro-abre-la-inscripcion-para-el-ciclo-lectivo-2027/",
-          "published_at": "2026-11-27T13:11:12+00:00",
-          "first_seen": "2026-11-27T13:30:00.809875+00:00",
-          "category": "LOCALES",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La Escuela de Educación Secundaria N°14 “René Favaloro”, ubicada en Calle 4 entre 67 y 69 (Primer Piso), abre la inscripción para el ciclo lectivo 2027 a partir del 7 de diciembre. La institución invita a las familias y a los jóvenes de Necochea a conocer una propuesta de enseñanza que se distingue por su orientación en Arte-Teatro, su acompañamiento cercano y su fuerte sentido de comunidad.",
-          "Con una matrícula aproximada de 150 estudiantes distribuidos en dos turnos, la EES N°14 ofrece un ambiente más contenido y personalizado, que favorece el seguimiento de las trayectorias escolares y el sentido de pertenencia. Su directora, Mariana Pérez, destacó el trabajo realizado durante el año y subrayó que logró poner en marcha proyectos vinculados a la orientación de la escuela, como la semana de las artes, propuestas teatrales, entre ellas varieté, radio teatro, talleres, entre otros."
-        ],
-        "generated": "2026-11-27T13:49:53.195175+00:00"
+        "generated": "2026-11-27T22:40:01.281094+00:00"
       },
       "apariciones": 2,
-      "ultima_impresion": "2026-11-27T13:49:20.659263+00:00",
-      "penalizacion": 0.808
+      "ultima_impresion": "2026-11-27T22:39:12.654150+00:00",
+      "penalizacion": 1.0
     },
     {
-      "key": "desbaratan punto venta drogas dulce dos aprehendidos secuestro armas",
-      "title": "Desbaratan punto de venta de drogas en La Dulce con dos aprehendidos y secuestro de armas",
-      "score": 0.539,
+      "key": "empleadas domesticas asi quedan sueldos aguinaldo diciembre",
+      "title": "Empleadas domésticas: así quedan los sueldos y el aguinaldo de diciembre",
+      "score": 1.193,
       "sources_count": 1,
-      "first_seen": "2026-11-27T12:58:43+00:00",
-      "image": "https://cdnartic.ar/-dEwS1BY-_6MSet6BHbBL07EvXA=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/droga_la_dulce.webp",
-      "articles": [
-        {
-          "portal": "Ecos Diarios",
-          "title": "Desbaratan punto de venta de drogas en La Dulce con dos aprehendidos y secuestro de armas",
-          "url": "https://elecos.com.ar/desbaratan-punto-de-venta-de-drogas-en-la-dulce-con-dos-aprehendidos-y-secuestro-de-armas",
-          "published_at": "2026-11-27T12:58:43+00:00",
-          "first_seen": "2026-11-27T13:01:21.049714+00:00",
-          "category": "13",
-          "image": "https://cdnartic.ar/-dEwS1BY-_6MSet6BHbBL07EvXA=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/droga_la_dulce.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Policiales Añadir como fuente en Desbaratan punto de venta de drogas en La Dulce con dos aprehendidos y secuestro de armas Un importante despliegue policial en la localidad de La Dulce finalizó con dos personas aprehendidas, el decomiso de cocaína, marihuana, una carabina calibre .22 y diversos elementos utilizados para la comercialización de estupefacientes bajo la modalidad de delivery.",
-          "27 de noviembre de 2026 | 09:58 Parte de los elementos secuestrados Ads Un operativo policial de gran magnitud se llevó a cabo recientemente en la localidad de La Dulce, logrando desarticular una red dedicada a la venta de estupefacientes al menudeo ."
-        ],
-        "generated": "2026-11-27T13:49:40.184718+00:00"
-      },
-      "apariciones": 3,
-      "ultima_impresion": "2026-11-27T13:49:20.659263+00:00",
-      "penalizacion": 0.445
-    },
-    {
-      "key": "futbol local semifinales ida programadas reserva sexta division",
-      "title": "Fútbol local: semifinales ida programadas en reserva y sexta división",
-      "score": 0.535,
-      "sources_count": 1,
-      "first_seen": "2026-11-27T12:54:17+00:00",
-      "image": "https://cdnartic.ar/H7PN5hpc2HB0hvOXjaXPX-BqTDU=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/liga_necochea_de_futbol_27.webp",
-      "articles": [
-        {
-          "portal": "Ecos Diarios",
-          "title": "Fútbol local: semifinales ida programadas en reserva y sexta división",
-          "url": "https://elecos.com.ar/futbol-local-semifinales-ida-programadas-en-reserva-y-sexta-division",
-          "published_at": "2026-11-27T12:54:17+00:00",
-          "first_seen": "2026-11-27T13:01:21.049714+00:00",
-          "category": "11",
-          "image": "https://cdnartic.ar/H7PN5hpc2HB0hvOXjaXPX-BqTDU=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/liga_necochea_de_futbol_27.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Deportes locales Añadir como fuente en Fútbol local: semifinales ida programadas en reserva y sexta división Ministerio y Rivadavia serán locales en sexta, mientras que Jorge Newbery y Estación Quequén harán lo propio en reserva 27 de noviembre de 2026 | 09:54 Jorge Newbery recibirá a Ministerio después de dar el batacazo ante Gimnasia en reserva Ads Los campeonatos de sexta división y reserva de la Liga Necochea de Fútbol pondrán en marcha este fin de semana sus instancias de semifinales, con la disputa de los encuentros de ida, que se extenderán entre este sábado y el lunes.",
-          "Ads Luego de la definición de los cuartos de final, quedaron confirmados los ocho equipos que buscarán un lugar en las finales de ambas categorías, con cuatro cruces que tendrán como protagonistas a representantes de distintas localidades de la región."
-        ],
-        "generated": "2026-11-27T13:49:40.676029+00:00"
-      },
-      "apariciones": 3,
-      "ultima_impresion": "2026-11-27T13:49:20.659263+00:00",
-      "penalizacion": 0.445
-    },
-    {
-      "key": "necochense rocio escobar estara presente uruguay ver final estudiantes palmeiras",
-      "title": "La necochense Rocío Escobar estará presente en Uruguay para ver la final entre Estudiantes y Palmeiras",
-      "score": 0.535,
-      "sources_count": 1,
-      "first_seen": "2026-11-27T12:53:55+00:00",
-      "image": "https://cdnartic.ar/dV_9h_2A4h2D8sBnT31UdO1Pj_4=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/10/estudiantes_de_la_plata.webp",
-      "articles": [
-        {
-          "portal": "Ecos Diarios",
-          "title": "La necochense Rocío Escobar estará presente en Uruguay para ver la final entre Estudiantes y Palmeiras",
-          "url": "https://elecos.com.ar/la-necochense-rocio-escobar-estara-presente-en-uruguay-para-ver-la-final-entre-estudiantes-y-palmeiras",
-          "published_at": "2026-11-27T12:53:55+00:00",
-          "first_seen": "2026-11-27T13:01:21.049714+00:00",
-          "category": "ecos-radio",
-          "image": "https://cdnartic.ar/dV_9h_2A4h2D8sBnT31UdO1Pj_4=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/10/estudiantes_de_la_plata.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Ecos Radio Añadir como fuente en La necochense Rocío Escobar estará presente en Uruguay para ver la final entre Estudiantes y Palmeiras 27 de noviembre de 2026 | 09:53 Ads La presidenta de la filial de Estudiantes de La Plata en Necochea dialogó con Desde Temprano y contó cómo se prepara para vivir la final de la Copa Libertadores en Montevideo, Uruguay.",
-          "Escuchá la nota completa: Ads Ads Ads Temas Deportes Comentarios Para comentar, debés estar registrado Por favor, iniciá sesión INGRESA Ads Ads"
-        ],
-        "generated": "2026-11-27T13:49:41.173334+00:00"
-      },
-      "apariciones": 3,
-      "ultima_impresion": "2026-11-27T13:49:20.659263+00:00",
-      "penalizacion": 0.445
-    },
-    {
-      "key": "muerte antonella alvarez guillermo sabatini considera causa lista elevada juicio",
-      "title": "Muerte de Antonella Álvarez: Guillermo Sabatini considera que la causa está lista para ser elevada a juicio",
-      "score": 0.526,
-      "sources_count": 1,
-      "first_seen": "2026-11-27T12:41:08+00:00",
-      "image": "https://cdnartic.ar/WwNunbxkjg0s_ohoU6BxF1Mr6As=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/03/fiscal_guillermo_sabatini.jpeg",
-      "articles": [
-        {
-          "portal": "Ecos Diarios",
-          "title": "Muerte de Antonella Álvarez: Guillermo Sabatini considera que la causa está lista para ser elevada a juicio",
-          "url": "https://elecos.com.ar/muerte-de-antonella-alvarez-guillermo-sabatini-considera-que-la-causa-esta-lista-para-ser-elevada-a-juicio",
-          "published_at": "2026-11-27T12:41:08+00:00",
-          "first_seen": "2026-11-27T13:01:21.049714+00:00",
-          "category": "ecos-radio",
-          "image": "https://cdnartic.ar/WwNunbxkjg0s_ohoU6BxF1Mr6As=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/03/fiscal_guillermo_sabatini.jpeg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Ecos Radio Añadir como fuente en Muerte de Antonella Álvarez: Guillermo Sabatini considera que la causa está lista para ser elevada a juicio 27 de noviembre de 2026 | 09:41 Fiscal. Guillermo Sabatini Ads El fiscal dialogó con Punto de Vista sobre los avances en la causa que investiga la muerte de Antonella Álvarez.",
-          "Escuchá la nota completa: Ads Ads Ads Temas Justicia Comentarios Para comentar, debés estar registrado Por favor, iniciá sesión INGRESA Ads Ads"
-        ],
-        "generated": "2026-11-27T13:49:41.655094+00:00"
-      },
-      "apariciones": 3,
-      "ultima_impresion": "2026-11-27T13:49:20.659263+00:00",
-      "penalizacion": 0.445
-    },
-    {
-      "key": "cuales dos funciones muy esperadas usuarios empezo ofrecer whatsapp",
-      "title": "Cuáles son las dos funciones muy esperadas por los usuarios que ya empezó a ofrecer WhatsApp",
-      "score": 0.263,
-      "sources_count": 1,
-      "first_seen": "2026-11-27T12:30:57+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/logo-wat.webp",
+      "first_seen": "2026-11-27T22:35:06+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/11/Empleadas-domesticas-123.webp",
       "articles": [
         {
           "portal": "TSN Necochea",
-          "title": "Cuáles son las dos funciones muy esperadas por los usuarios que ya empezó a ofrecer WhatsApp",
-          "url": "https://tsnnecochea.com.ar/generales/cuales-son-las-dos-funciones-muy-esperadas-por-los-usuarios-que-ya-empezo-a-ofrecer-whatsapp-243393/",
-          "published_at": "2026-11-27T12:30:57+00:00",
-          "first_seen": "2026-11-27T13:00:00.833596+00:00",
-          "category": "funciones",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/logo-wat.webp"
+          "title": "Empleadas domésticas: así quedan los sueldos y el aguinaldo de diciembre",
+          "url": "https://tsnnecochea.com.ar/generales/empleadas-domesticas-asi-quedan-los-sueldos-y-el-aguinaldo-de-diciembre-243452/",
+          "published_at": "2026-11-27T22:35:06+00:00",
+          "first_seen": "2026-11-27T22:39:12.654150+00:00",
+          "category": "Aguinaldo",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2025/11/Empleadas-domesticas-123.webp"
         }
       ],
       "summary": {
         "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Generales | funciones | Comunicación Cuáles son las dos funciones muy esperadas por los usuarios que ya empezó a ofrecer WhatsApp Ambas funciones fueron muy esperadas por los usuarios. Por Redacción TSN 27/11/2026 · 09:30 AM Agregar TSN Necochea en WhatsApp ya ofrece dos funciones largamente pedidas por los usuarios: la posibilidad de programar el envío de mensajes , fotos y videos y la creación de stickers con sonido sin depender de otras aplicaciones. En el caso de la programación de mensajes, el mecanismo se integra directamente en el botón de enviar dentro de los chats, tanto individuales como grupales.",
-          "Al mantenerlo presionado tras redactar un texto o adjuntar el contenido multimedia, se habilita la selección de fecha y hora. El envío puede agendarse hasta con dos semanas de anticipación y no requiere que el teléfono esté encendido para enviarse."
+          "TSN Necochea | ‹ VOLVER | Generales | Aguinaldo | Sueldos de diciembre Empleadas domésticas: así quedan los sueldos y el aguinaldo de diciembre El personal de casas particulares suma un nuevo incremento este mes que impactará directo en la liquidación del SAC. Cuánto se paga por hora y los pisos mínimos por categoría. Por Redacción TSN 27/11/2026 · 07:35 PM Se definió el aumento para empleadas domésticas.",
+          "Agregar TSN Necochea en Los salarios del personal de casas particulares tienen una nueva actualización en diciembre de 2026 . Este incremento eleva los valores mínimos por hora y por mes según la categoría y la modalidad de trabajo, impactando de manera directa en el cálculo de la segunda cuota del Aguinaldo (SAC) ."
         ],
-        "generated": "2026-11-27T13:49:49.137788+00:00"
+        "generated": "2026-11-27T22:40:01.962366+00:00"
       },
-      "apariciones": 4,
-      "ultima_impresion": "2026-11-27T13:49:20.659263+00:00",
-      "penalizacion": 0.245
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-27T22:39:12.654150+00:00"
     },
     {
-      "key": "recorrida preventiva quequen permitio localizar joven requerido justicia",
-      "title": "Recorrida preventiva en Quequén permitió localizar a un joven requerido por la Justicia",
-      "score": 0.139,
+      "key": "exportaciones agroindustriales alcanzaron octubre record historico us 717 millones",
+      "title": "Las exportaciones agroindustriales alcanzaron en octubre un récord histórico de US$ 5.717 millones",
+      "score": 1.17,
       "sources_count": 1,
-      "first_seen": "2026-11-27T12:00:39+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/922980966_1020449053894656_7153666159955583569_n.webp",
+      "first_seen": "2026-11-27T22:21:17+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2023/10/soja-exportaciones-696x397-1.jpg",
       "articles": [
         {
           "portal": "TSN Necochea",
-          "title": "Recorrida preventiva en Quequén permitió localizar a un joven requerido por la Justicia",
-          "url": "https://tsnnecochea.com.ar/locales/recorrida-preventiva-en-quequen-permitio-localizar-a-un-joven-requerido-por-la-justicia-243378/",
-          "published_at": "2026-11-27T12:00:39+00:00",
-          "first_seen": "2026-11-27T12:30:00.955104+00:00",
-          "category": "Comando de Patrullas",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/922980966_1020449053894656_7153666159955583569_n.webp"
+          "title": "Las exportaciones agroindustriales alcanzaron en octubre un récord histórico de US$ 5.717 millones",
+          "url": "https://tsnnecochea.com.ar/campo/las-exportaciones-agroindustriales-alcanzaron-en-octubre-un-record-historico-de-us-5-717-millones-243450/",
+          "published_at": "2026-11-27T22:21:17+00:00",
+          "first_seen": "2026-11-27T22:39:12.654150+00:00",
+          "category": "agroexportación",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2023/10/soja-exportaciones-696x397-1.jpg"
         }
       ],
       "summary": {
         "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Locales | Comando de Patrullas | Comando de Patrullas Recorrida preventiva en Quequén permitió localizar a un joven requerido por la Justicia Efectivos interceptaron a un sujeto de 22 años y constataron que pesaba sobre él un pedido de comparendo compulsivo vigente dictado por el Juzgado Correccional N° 1 de Necochea. Por Redacción TSN 27/11/2026 · 09:00 AM Agregar TSN Necochea en Un procedimiento de control realizado por efectivos del Comando de Patrullas en Quequén culminó con la aprehensión de un joven de 22 años que era buscado por la Justicia local en el marco de una causa penal en trámite.",
-          "El episodio tuvo lugar durante una recorrida preventiva en la vía pública, instancia en la que los uniformados procedieron a identificar al transeúnte y cursaron sus datos filiatorios a través del sistema informático policial."
+          "TSN Necochea | ‹ VOLVER | Campo | agroexportación | Campo Las exportaciones agroindustriales alcanzaron en octubre un récord histórico de US$ 5.717 millones El resultado muestra un sector agroindustrial argentino competitivo y cada vez más integrado al mundo, con 21 complejos productivos con valores récord de ventas. Por Redacción TSN 27/11/2026 · 07:21 PM El acuerdo comercial de EEUU y China puede impactar en los precios de la oleaginosa Agregar TSN Necochea en L as exportaciones agroindustriales alcanzaron en octubre un récord histórico en valor de US$ 5.717 millones y en volumen por 11 millones de toneladas, un 23% superior en términos interanuales para ambos registros.",
+          "Los datos fueron arrojados por la Subsecretaría de Mercados Agroalimentarios e Inserción Internacional , bajo la órbita de la Secretaría de Agricultura, Ganadería y Pesca del Ministerio de Economía, en base a las estadísticas de INDEC."
         ],
-        "generated": "2026-11-27T13:49:50.216561+00:00"
+        "generated": "2026-11-27T22:40:02.955750+00:00"
       },
-      "apariciones": 5,
-      "ultima_impresion": "2026-11-27T13:49:20.659263+00:00",
-      "penalizacion": 0.135
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-27T22:39:12.654150+00:00"
     },
     {
-      "key": "necochense martin chico cerro 2026 feliz completar buen ano turismo pista",
-      "title": "El necochense Martín Chico cerró el 2026 feliz por completar un buen año en el Turismo Pista",
-      "score": 0.139,
+      "key": "abren inscripcion participar expo navidena necochea",
+      "title": "Abren la inscripción para participar de la Expo Navideña en Necochea",
+      "score": 1.142,
       "sources_count": 1,
-      "first_seen": "2026-11-27T12:00:33+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/Foto-Martin-Chico.webp",
+      "first_seen": "2026-11-27T21:05:50+00:00",
+      "image": "https://cdnartic.ar/yAxnQrbWcQxvX7676Qb48Dh7qsM=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2025/12/arbol_de_navidad_1.jpg",
+      "articles": [
+        {
+          "portal": "Ecos Diarios",
+          "title": "Abren la inscripción para participar de la Expo Navideña en Necochea",
+          "url": "https://elecos.com.ar/abren-la-inscripcion-para-participar-de-la-expo-navidena-en-necochea",
+          "published_at": "2026-11-27T21:05:50+00:00",
+          "first_seen": "2026-11-27T22:39:12.654150+00:00",
+          "category": "14",
+          "image": "https://cdnartic.ar/yAxnQrbWcQxvX7676Qb48Dh7qsM=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2025/12/arbol_de_navidad_1.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La ciudad Añadir como fuente en Abren la inscripción para participar de la Expo Navideña en Necochea La propuesta se realizará el 7 y 8 de diciembre en la Plaza Dardo Rocha 27 de noviembre de 2026 | 18:05 La actividad se desarrollará en el marco de los festejos por la llegada de la Navidad Ads La Municipalidad de Necochea , a través de la Dirección de Emprendimientos y Pymes, abrió la inscripción para emprendedores productivos locales que deseen participar de una nueva edición de la Expo Emprendedora, que se llevará a cabo el lunes 7 y martes 8 de diciembre, de 17 a 22, en la Plaza Dardo Rocha . Ads La actividad se desarrollará en el marco de los festejos por la llegada de la Navidad y el tradicional encendido del árbol navideño en la plaza del centro.",
+          "Durante ambas jornadas, los emprendimientos locales tendrán la posibilidad de exhibir y comercializar sus productos ante vecinos y visitantes."
+        ],
+        "generated": "2026-11-27T22:40:03.705109+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-27T22:39:12.654150+00:00"
+    },
+    {
+      "key": "diez anos copa davis recuerdo hazana tenis argentino zagreb",
+      "title": "Diez años de la Copa Davis: el recuerdo de la hazaña del tenis argentino en Zagreb",
+      "score": 1.142,
+      "sources_count": 1,
+      "first_seen": "2026-11-27T21:05:38+00:00",
+      "image": "https://cdnartic.ar/wauXK9CuX7ki_ISNOFQo3lWzmyY=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/dek_potro.webp",
+      "articles": [
+        {
+          "portal": "Ecos Diarios",
+          "title": "Diez años de la Copa Davis: el recuerdo de la hazaña del tenis argentino en Zagreb",
+          "url": "https://elecos.com.ar/diez-anos-de-la-copa-davis-el-recuerdo-de-la-hazana-del-tenis-argentino-en-zagreb",
+          "published_at": "2026-11-27T21:05:38+00:00",
+          "first_seen": "2026-11-27T22:39:12.654150+00:00",
+          "category": "deportes-nacional",
+          "image": "https://cdnartic.ar/wauXK9CuX7ki_ISNOFQo3lWzmyY=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/dek_potro.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Deportes nacionales Añadir como fuente en Diez años de la Copa Davis: el recuerdo de la hazaña del tenis argentino en Zagreb El 27 de noviembre de 2016, el equipo nacional de tenis lograba por primera vez en su historia la Ensaladera de Plata tras una épica remontada ante Croacia en el Arena Zagreb. 27 de noviembre de 2026 | 18:05 Ads El 27 de noviembre de 2016, Federico Delbonis levantó los brazos, cayó sobre la cancha y dejó escapar un grito que llevaba décadas esperando el tenis argentino. En el Arena Zagreb, el zurdo de Azul acababa de derrotar a Ivo Karlovic por 6-3, 6-4 y 6-2 para cerrar la final de la Copa Davis por 3-2.",
+          "La Ensaladera de Plata, tantas veces esquiva, finalmente tenía dueño. Ads A su alrededor, Juan Martín del Potro , Leonardo Mayer , Guido Pella y el capitán Daniel Orsanic se fundieron en un abrazo que resumió una campaña extraordinaria. Argentina había llegado a cuatro finales y perdido todas."
+        ],
+        "generated": "2026-11-27T22:40:04.822217+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-27T22:39:12.654150+00:00"
+    },
+    {
+      "key": "gobierno bonaerense lanza incentivos turismo temporada verano compleja",
+      "title": "El Gobierno bonaerense lanza incentivos al turismo ante una temporada de verano compleja",
+      "score": 1.138,
+      "sources_count": 1,
+      "first_seen": "2026-11-27T21:03:23+00:00",
+      "image": "https://cdnartic.ar/_zpBepqfTuuE0Cb6Ip16BuWkuhA=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/una_familia_disfrutando_de_un_dia_de_playa_agencia_xinhua.webp",
+      "articles": [
+        {
+          "portal": "Ecos Diarios",
+          "title": "El Gobierno bonaerense lanza incentivos al turismo ante una temporada de verano compleja",
+          "url": "https://elecos.com.ar/el-gobierno-bonaerense-lanza-incentivos-al-turismo-ante-una-temporada-de-verano-compleja",
+          "published_at": "2026-11-27T21:03:23+00:00",
+          "first_seen": "2026-11-27T22:39:12.654150+00:00",
+          "category": "108",
+          "image": "https://cdnartic.ar/_zpBepqfTuuE0Cb6Ip16BuWkuhA=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/una_familia_disfrutando_de_un_dia_de_playa_agencia_xinhua.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La región y provincia Añadir como fuente en El Gobierno bonaerense lanza incentivos al turismo ante una temporada de verano compleja Ante la caída del poder adquisitivo y el menor movimiento turístico, la administración provincial anunció beneficios financieros y promociones para estimular el consumo en los destinos bonaerenses. 27 de noviembre de 2026 | 18:03 Una familia disfrutando de un día de playa.",
+          "(Agencia Xinhua) Ads Tras un último fin de semana con escaso movimiento de viajeros y frente a un escenario de incertidumbre económica, el Gobierno bonaerense anticipó un panorama complejo para la próxima temporada de verano 2026-2027. La administración que encabeza el gobernador Axel Kicillof busca contrarrestar la caída del poder adquisitivo mediante una serie de incentivos destinados a dinamizar la actividad turística en toda la provincia."
+        ],
+        "generated": "2026-11-27T22:40:06.011816+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-27T22:39:12.654150+00:00"
+    },
+    {
+      "key": "senado aprobo ley vandalismo rural endurecer penas danos campo",
+      "title": "El Senado aprobó la ley de Vandalismo Rural para endurecer las penas por daños en el campo",
+      "score": 1.132,
+      "sources_count": 1,
+      "first_seen": "2026-11-27T20:59:47+00:00",
+      "image": "https://cdnartic.ar/fdHmhWd93_daYJPYNfto5UOPTyI=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/novedades_sobre_el_vandalismo_rural.webp",
+      "articles": [
+        {
+          "portal": "Ecos Diarios",
+          "title": "El Senado aprobó la ley de Vandalismo Rural para endurecer las penas por daños en el campo",
+          "url": "https://elecos.com.ar/el-senado-aprobo-la-ley-de-vandalismo-rural-para-endurecer-las-penas-por-danos-en-el-campo",
+          "published_at": "2026-11-27T20:59:47+00:00",
+          "first_seen": "2026-11-27T22:39:12.654150+00:00",
+          "category": "nacionales",
+          "image": "https://cdnartic.ar/fdHmhWd93_daYJPYNfto5UOPTyI=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/novedades_sobre_el_vandalismo_rural.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Nacionales Añadir como fuente en El Senado aprobó la ley de Vandalismo Rural para endurecer las penas por daños en el campo La Cámara alta dio luz verde a la normativa que modifica el Código Penal con el objetivo de proteger la propiedad privada y la infraestructura agropecuaria en todo el país. 27 de noviembre de 2026 | 17:59 Novedades sobre el vandalismo rural.",
+          "Ads El Senado de la Nación aprobó la ley de Vandalismo Rural , una iniciativa que introduce modificaciones clave al Código Penal para sancionar de manera específica las conductas que afectan la propiedad privada y los bienes vinculados a la actividad agropecuaria. La votación final arrojó 49 votos afirmativos y 9 negativos, consolidando una medida que ya contaba con media sanción de la Cámara de Diputados ."
+        ],
+        "generated": "2026-11-27T22:40:06.738892+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-27T22:39:12.654150+00:00"
+    },
+    {
+      "key": "incluyen diego peretti denuncia penal hernan casciari",
+      "title": "Incluyen a Diego Peretti en la denuncia penal contra Hernán Casciari",
+      "score": 1.129,
+      "sources_count": 1,
+      "first_seen": "2026-11-27T20:57:43+00:00",
+      "image": "https://cdnartic.ar/v1l4CIKlOzdI7LMdzUbJ2ifv2wU=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/diego_peretti.jpg",
+      "articles": [
+        {
+          "portal": "Ecos Diarios",
+          "title": "Incluyen a Diego Peretti en la denuncia penal contra Hernán Casciari",
+          "url": "https://elecos.com.ar/incluyen-a-diego-peretti-en-la-denuncia-penal-contra-hernan-casciari",
+          "published_at": "2026-11-27T20:57:43+00:00",
+          "first_seen": "2026-11-27T22:39:12.654150+00:00",
+          "category": "104",
+          "image": "https://cdnartic.ar/v1l4CIKlOzdI7LMdzUbJ2ifv2wU=/800x0/filters:no_upscale():format(webp):quality(40)/https://elecos.cdnartic.ar/media/2026/11/diego_peretti.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Espectáculos y arte Añadir como fuente en Incluyen a Diego Peretti en la denuncia penal contra Hernán Casciari El actor fue señalado por los denunciantes en la causa que investiga al escritor por el esquema de financiación de sus películas en Orsai Audiovisuales. 27 de noviembre de 2026 | 17:57 Ads El grupo de inversores que inició acciones legales contra el escritor Hernán Casciari , bajo la acusación de presunta estafa en el esquema de financiación de sus películas en Orsai Audiovisuales , decidió ampliar su denuncia.",
+          "En esta nueva presentación, incluyeron al actor Diego Peretti , quien realizó su debut como director con la película La Muerte de un Comediante , estrenada en 2025. Ads La ampliación fue presentada este viernes ante la fiscalía por el abogado Ariel Gil Ces , representante de los denunciantes."
+        ],
+        "generated": "2026-11-27T22:40:07.820339+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-27T22:39:12.654150+00:00"
+    },
+    {
+      "key": "femicidio antonella alvarez piden elevacion juicio rechazan prision domiciliaria principal acusado",
+      "title": "Femicidio de Antonella Álvarez: piden la elevación a juicio y rechazan la prisión domiciliaria para el principal acusado",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-27T22:39:12.654150+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261127173756_whatsapp-image-2026-11-27-at-17-35-54.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Femicidio de Antonella Álvarez: piden la elevación a juicio y rechazan la prisión domiciliaria para el principal acusado",
+          "url": "https://necocheadigital.com/nota/120314/femicidio-de-antonella-alvarez-piden-la-elevacion-a-juicio-y-rechazan-la-prision-domiciliaria-para-el-principal-acusado/",
+          "published_at": null,
+          "first_seen": "2026-11-27T22:39:12.654150+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La causa por el femicidio de Antonella Álvarez, la joven de 28 años hallada sin vida el pasado 2 de marzo en el barrio Norte de Necochea, registró este jueves 26 de noviembre dos avances judiciales clave. Por un lado, el fiscal Guillermo Sabatini cerró la etapa de instrucción y solicitó la elevación a juicio del expediente. Por otro, la jueza de Garantías Aída Lhez rechazó el pedido de prisión domiciliaria presentado en favor de Ricardo Omar Brandi, expareja de la víctima y principal imputado.",
+          "La medida se resolvió tras una audiencia en la que tanto la Fiscalía como la querella se opusieron al beneficio. En su fallo, la magistrada ordenó solicitar cupo para alojar a Brandi en la Unidad Penal N° 15 de Batán y dispuso gestionar una evaluación médica actualizada en el Instituto Nacional de Rehabilitación Psicofísica del Sur (INAREPS). Tras la notificación, la defensa técnica del acusado presentó una apelación."
+        ],
+        "generated": "2026-11-27T22:40:08.470369+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-27T22:39:12.654150+00:00"
+    },
+    {
+      "key": "senado sanciono ley prevenir ludopatia infantil fuertes prohibiciones publicidad juego",
+      "title": "El Senado sancionó la ley para prevenir la ludopatía infantil con fuertes prohibiciones a la publicidad del juego",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-27T22:39:12.654150+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261127171443_whatsapp-image-2026-11-27-at-17-14-31.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "El Senado sancionó la ley para prevenir la ludopatía infantil con fuertes prohibiciones a la publicidad del juego",
+          "url": "https://necocheadigital.com/nota/120309/el-senado-sanciono-la-ley-para-prevenir-la-ludopatia-infantil-con-fuertes-prohibiciones-a-la-publicidad-del-juego/",
+          "published_at": null,
+          "first_seen": "2026-11-27T22:39:12.654150+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Tras idas y vueltas del oficialismo y aliados en las últimas 48 horas, y una oposición que sumó un refuerzo clave de la iglesia católica -feroz lobby de empresas y religiosos, enfrentados-, el Senado sancionó por unanimidad la ley que previene la ludopatía infantil, con fuertes prohibiciones a la publicidad del juego . Luego se aprobó un texto complementario empujado por la jefa libertaria, Patricia Bullrich , para atacar con mayor ahínco a lo ilegal. La iniciativa, que impide el patrocinio en equipos deportivos, de influencers y famosos, entre otras cuestiones, obtuvo 72 votos.",
+          "Es decir, el pleno con presencia total. Restará la reglamentación del Ejecutivo, que tendrá 120 días para hacerlo . Además, los sitios y aplicaciones deberán implementar verificaciones biométricas para impedir el ingreso a menores de edad."
+        ],
+        "generated": "2026-11-27T22:40:09.475289+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-27T22:39:12.654150+00:00"
+    },
+    {
+      "key": "realizo nuevo encuentro preparacion maternidad acerca cierre tercer ciclo ano",
+      "title": "Se realizó un nuevo encuentro de Preparación para la Maternidad y se acerca el cierre del tercer ciclo del año",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-27T22:39:12.654150+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261127170723_27-11-foto-charla-preparacion-maternidad3.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Se realizó un nuevo encuentro de Preparación para la Maternidad y se acerca el cierre del tercer ciclo del año",
+          "url": "https://necocheadigital.com/nota/120308/se-realizo-un-nuevo-encuentro-de-preparacion-para-la-maternidad-y-se-acerca-el-cierre-del-tercer-ciclo-del-ano/",
+          "published_at": null,
+          "first_seen": "2026-11-27T22:39:12.654150+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El Taller de Preparación Integral para la Maternidad llevó adelante el pasado miércoles 25 una nueva jornada gratuita de capacitación y acompañamiento en el Hospital Municipal “Dr. Emilio Ferreyra”, y se prepara para cerrar su tercer ciclo del año 2026 el próximo miércoles 2 de diciembre . Durante el quinto encuentro se abordaron distintas temáticas vinculadas al inicio y acompañamiento de la lactancia, la prevención y resolución de dificultades, el manejo del dolor, la extracción y el almacenamiento de leche, además de nutrición y actividad física.",
+          "La charla estuvo a cargo de la puericultora Gabriela Eilenstein y la licenciada Gisela Zlatar. La última jornada será el miércoles próximo, de 8 a 9, en la sala de espera de Maternidad del Hospital Ferreyra ."
+        ],
+        "generated": "2026-11-27T22:40:10.096302+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-27T22:39:12.654150+00:00"
+    },
+    {
+      "key": "escandalo oro argentino agn detecto graves irregularidades falta controles perdidas us 023 millones",
+      "title": "Escándalo por el oro argentino: la AGN detectó graves irregularidades, falta de controles y pérdidas por US$ 1.023 millones",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-27T22:39:12.654150+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/4fabc28f9e485a2cc239ec591069b730d5c34062.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Escándalo por el oro argentino: la AGN detectó graves irregularidades, falta de controles y pérdidas por US$ 1.023 millones",
+          "url": "https://necocheadigital.com/nota/120307/escandalo-por-el-oro-argentino-la-agn-detecto-graves-irregularidades-falta-de-controles-y-perdidas-por-us-1-023-millones/",
+          "published_at": null,
+          "first_seen": "2026-11-27T22:39:12.654150+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "La administración de las reservas de oro de la Argentina quedó nuevamente bajo fuertes cuestionamientos luego de que la Auditoría General de la Nación (AGN) aprobara un informe que expone importantes irregularidades en las operaciones realizadas por el Banco Central de la República Argentina (BCRA) durante 2024 y 2025. El documento confirmó que la entidad que conduce Santiago Bausili trasladó 1.000 barras de oro a Londres y señaló deficiencias en los procedimientos, falta de documentación respaldatoria y dificultades para verificar las condiciones en las que se realizaron las operaciones.",
+          "El informe fue aprobado por mayoría en el Colegio de Auditores de la AGN, con los votos negativos de los representantes del oficialismo Mariano Piazza, Mónica Almada y el radical Luis Naidenoff. Uno de los aspectos más delicados está relacionado con la documentación del traslado internacional."
+        ],
+        "generated": "2026-11-27T22:40:11.134238+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-27T22:39:12.654150+00:00"
+    },
+    {
+      "key": "fin semana decisivo liga necochea definen finalistas primera promocion titulo femenino",
+      "title": "Fin de semana decisivo en la Liga Necochea: se definen los finalistas de Primera, la Promoción y el título femenino",
+      "score": 1.1,
+      "sources_count": 1,
+      "first_seen": "2026-11-27T22:39:12.654150+00:00",
+      "image": "https://necocheadigital.com/uploads/noticias/2/2026/11/20261126170740_whatsapp-image-2026-11-26-at-17-06-45.jpg",
+      "articles": [
+        {
+          "portal": "Necochea Digital",
+          "title": "Fin de semana decisivo en la Liga Necochea: se definen los finalistas de Primera, la Promoción y el título femenino",
+          "url": "https://necocheadigital.com/nota/120301/fin-de-semana-decisivo-en-la-liga-necochea-se-definen-los-finalistas-de-primera-la-promocion-y-el-titulo-femenino/",
+          "published_at": null,
+          "first_seen": "2026-11-27T22:39:12.654150+00:00",
+          "category": null,
+          "image": null
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "El fútbol local atraviesa su tramo culminante del año con una agenda cargada de definiciones en todas sus categorías. En cada una de las series, en caso de persistir la igualdad en el marcador global al cabo de los 90 minutos reglamentarios, el clasificado o campeón se determinará mediante tiros desde el punto penal. Las semifinales de Primera División La primera llave se resolverá este sábado a las 16:00 , cuando Villa Díaz Vélez reciba a Estación Quequén en el estadio Jorge “Vasco” Iparraguirre, con el arbitraje de Rubén Vómero.",
+          "El equipo dirigido por Federico Montes llega con una ventaja de 2-0 obtenida en el estadio Carlos Cuomo gracias a los tantos de Lautaro Ruiz Martínez y Fernando Montes. El \"Naranja\" buscará alcanzar su tercera final en los últimos cuatro años, mientras que el conjunto quequenense está obligado a ganar por dos goles para forzar los penales o por mayor diferencia para avanzar de forma directa."
+        ],
+        "generated": "2026-11-27T22:40:11.786594+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-27T22:39:12.654150+00:00"
+    },
+    {
+      "key": "video impactante asi brutal choque frontal dejo tres heridos",
+      "title": "Video impactante: así fue el brutal choque frontal que dejó tres heridos",
+      "score": 0.906,
+      "sources_count": 1,
+      "first_seen": "2026-11-27T19:16:37+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/Screenshot_20261127_161621_Gallery.webp",
       "articles": [
         {
           "portal": "TSN Necochea",
-          "title": "El necochense Martín Chico cerró el 2026 feliz por completar un buen año en el Turismo Pista",
-          "url": "https://tsnnecochea.com.ar/deportes/el-necochense-martin-chico-cerro-el-2026-feliz-por-completar-un-buen-ano-en-el-turismo-pista-243384/",
-          "published_at": "2026-11-27T12:00:33+00:00",
-          "first_seen": "2026-11-27T12:30:00.955104+00:00",
-          "category": "Martin Chico",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/Foto-Martin-Chico.webp"
+          "title": "Video impactante: así fue el brutal choque frontal que dejó tres heridos",
+          "url": "https://tsnnecochea.com.ar/nacion/video-impactante-asi-fue-el-brutal-choque-frontal-que-dejo-tres-heridos-243442/",
+          "published_at": "2026-11-27T19:16:37+00:00",
+          "first_seen": "2026-11-27T22:39:12.654150+00:00",
+          "category": "accidente",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/Screenshot_20261127_161621_Gallery.webp"
         }
       ],
       "summary": {
         "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Deportes | Martin Chico | Automovilismo nacional El necochense Martín Chico cerró el 2026 feliz por completar un buen año en el Turismo Pista El piloto culminó 10° en el campeonato ganado por Matías Canapino. Por Redacción TSN 27/11/2026 · 09:00 AM Agregar TSN Necochea en Tiempo de balance para el joven piloto necochense Martín Chico , quien cierra un buen 2026 tras haber completado todo el año de Turismo Pista en la Clase 3, donde al cabo de las 10 fechas culminó con un buen 10° puesto en el campeonato ganado por Matías Canapino.",
-          "En sus redes, Chico expresó: “Muy feliz de poder cerrar un año completo en una categoría tan importante como el Turismo Pista, quedando en el P10 del campeonato”. Además, lamentó que “no tuvimos el resultado que esperábamos en la última carrera, pero agradecido a todo el Benincasa Racing – LCV Racing y STM Ingeniería por todo el trabajo del año”."
+          "TSN Necochea | ‹ VOLVER | Nación | accidente | Impactante Video impactante: así fue el brutal choque frontal que dejó tres heridos Un Peugeot se cruzó de carril en plena madrugada y embistió a otro auto. Los ocupantes quedaron atrapados entre los fierros y debieron ser rescatados por bomberos. Testigos afirman que tenían alcoholemia positiva. Por Redacción TSN 27/11/2026 · 04:16 PM Agregar TSN Necochea en Un brutal choque frontal ocurrido en la ciudad de Córdoba dejó a tres personas heridas .",
+          "La Policía difundió el video de las cámaras de seguridad que muestra el momento exacto en que uno de los vehículos invade el carril contrario . This browser does not support the video element. ​El siniestro sucedió este viernes por la madrugada en el barrio Bajo Palermo."
         ],
-        "generated": "2026-11-27T13:49:51.310698+00:00"
+        "generated": "2026-11-27T22:40:12.975243+00:00"
       },
-      "apariciones": 5,
-      "ultima_impresion": "2026-11-27T13:49:20.659263+00:00",
-      "penalizacion": 0.135
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-27T22:39:12.654150+00:00"
+    },
+    {
+      "key": "tensa reunion vecinos pidieron deje fumigar cerca escuela 47 almafuerte",
+      "title": "En una tensa reunión, vecinos pidieron que se deje de fumigar cerca de la Escuela N° 47 “Almafuerte”",
+      "score": 0.89,
+      "sources_count": 1,
+      "first_seen": "2026-11-27T19:03:52+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/06-CMA.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "En una tensa reunión, vecinos pidieron que se deje de fumigar cerca de la Escuela N° 47 “Almafuerte”",
+          "url": "https://tsnnecochea.com.ar/locales/en-una-tensa-reunion-vecinos-pidieron-que-se-deje-de-fumigar-cerca-de-la-escuela-almafuerte-n-47-243433/",
+          "published_at": "2026-11-27T19:03:52+00:00",
+          "first_seen": "2026-11-27T22:39:12.654150+00:00",
+          "category": "agrotóxicos",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/06-CMA.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Locales | agrotóxicos | Concejo En una tensa reunión, vecinos pidieron que se deje de fumigar cerca de la Escuela N° 47 “Almafuerte” Participaron de la Comisión de Medio Ambiente y Salud. Solicitaron que se cumplan las ordenanzas Por Redacción TSN 27/11/2026 · 04:03 PM -NECOCHEA 27/11/26--HCD NECOCHEA- -COMISION DE MEDIO AMBIENTE- -FOTO FACUNDO PERROTTA- Agregar TSN Necochea en Se reunió la Comisión de Ambiente y Desarrollo sustentable que preside la Concejal María José Hegui (Nuev.",
+          "Durante la misma se recibió a vecinos de la zona de Villa Zabala y de la comunidad educativa de la Escuela N.º 47 “Almafuerte, quienes mostraron su preocupación por la utilización de agrotóxicos cerca de dicho establecimiento, el cual afecta seriamente a niños, niñas y docentes que allí concurren."
+        ],
+        "generated": "2026-11-27T22:40:13.995879+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-27T22:39:12.654150+00:00"
+    },
+    {
+      "key": "calidad turistica reconocieron necochea asamblea consejo provincial turismo",
+      "title": "Calidad turística: reconocieron a Necochea en la Asamblea del Consejo Provincial de Turismo",
+      "score": 0.746,
+      "sources_count": 1,
+      "first_seen": "2026-11-27T16:56:39+00:00",
+      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/27-11-FOTO-Silvia-Jensen-COPROTUR5.webp",
+      "articles": [
+        {
+          "portal": "TSN Necochea",
+          "title": "Calidad turística: reconocieron a Necochea en la Asamblea del Consejo Provincial de Turismo",
+          "url": "https://tsnnecochea.com.ar/locales/calidad-turistica-reconocieron-la-necochea-en-la-asamblea-del-consejo-provincial-de-turismo-243426/",
+          "published_at": "2026-11-27T16:56:39+00:00",
+          "first_seen": "2026-11-27T22:39:12.654150+00:00",
+          "category": "distincion",
+          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/27-11-FOTO-Silvia-Jensen-COPROTUR5.webp"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "TSN Necochea | ‹ VOLVER | Locales | distincion | Turismo Calidad turística: reconocieron a Necochea en la Asamblea del Consejo Provincial de Turismo El encuentro reunió a representantes de 36 municipios bonaerenses, cámaras empresariales, universidades y sindicatos, con el fin de analizar la actualidad del sector y trabajar de cara a la temporada 2026-2027. Por Redacción TSN 27/11/2026 · 01:56 PM Agregar TSN Necochea en Necochea participó de la 34.ª Asamblea del Consejo Provincial de Turismo (CoProTur) , realizada este jueves en la localidad de Barker, partido de Benito Juárez, un espacio de encuentro e intercambio que convocó a representantes de 36 municipios bonaerenses, cámaras empresariales, universidades y organizaciones sindicales.",
+          "El municipio estuvo presente a través de la secretaria de Turismo y Desarrollo Productivo, Silvia Jensen ."
+        ],
+        "generated": "2026-11-27T22:40:14.676312+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-27T22:39:12.654150+00:00"
+    },
+    {
+      "key": "fumigaciones necochea denuncian chicos afectados anos reclamos respuestas",
+      "title": "Fumigaciones en Necochea: denuncian chicos afectados y años de reclamos sin respuestas",
+      "score": 0.69,
+      "sources_count": 1,
+      "first_seen": "2026-11-27T18:12:00+00:00",
+      "image": "http://nden.com.ar/uploads/noticias/5/2026/11/cbf9777d4b0342bcce70ff8214bff2c9aff424da.jpg",
+      "articles": [
+        {
+          "portal": "Noticias de Necochea",
+          "title": "Fumigaciones en Necochea: denuncian chicos afectados y años de reclamos sin respuestas",
+          "url": "https://nden.com.ar/nota/38845/fumigaciones-en-necochea-denuncian-chicos-afectados-y-anos-de-reclamos-sin-respuestas",
+          "published_at": "2026-11-27T18:12:00+00:00",
+          "first_seen": "2026-11-27T22:39:12.654150+00:00",
+          "category": null,
+          "image": "http://nden.com.ar/uploads/noticias/5/2026/11/cbf9777d4b0342bcce70ff8214bff2c9aff424da.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Gestión del riesgo climático Arturo Rojas con Kicillof por El Niño: qué anunció la Provincia para prevenir inundaciones"
+        ],
+        "generated": "2026-11-27T22:40:15.376456+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-27T22:39:12.654150+00:00"
+    },
+    {
+      "key": "arturo rojas kicillof nino anuncio provincia prevenir inundaciones",
+      "title": "Arturo Rojas con Kicillof por El Niño: qué anunció la Provincia para prevenir inundaciones",
+      "score": 0.654,
+      "sources_count": 1,
+      "first_seen": "2026-11-27T17:33:00+00:00",
+      "image": "http://nden.com.ar/uploads/noticias/5/2026/11/8138a530c801218445d9967070021614198cf385.jpg",
+      "articles": [
+        {
+          "portal": "Noticias de Necochea",
+          "title": "Arturo Rojas con Kicillof por El Niño: qué anunció la Provincia para prevenir inundaciones",
+          "url": "https://nden.com.ar/nota/38844/arturo-rojas-con-kicillof-por-el-nino-que-anuncio-la-provincia-para-prevenir-inundaciones",
+          "published_at": "2026-11-27T17:33:00+00:00",
+          "first_seen": "2026-11-27T22:39:12.654150+00:00",
+          "category": null,
+          "image": "http://nden.com.ar/uploads/noticias/5/2026/11/8138a530c801218445d9967070021614198cf385.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Gestión del riesgo climático Arturo Rojas con Kicillof por El Niño: qué anunció la Provincia para prevenir inundaciones"
+        ],
+        "generated": "2026-11-27T22:40:16.033001+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-27T22:39:12.654150+00:00"
+    },
+    {
+      "key": "concejo pidio unanimidad plan arreglar calles tierra necochea",
+      "title": "El Concejo pidió por unanimidad un plan para arreglar las calles de tierra en Necochea",
+      "score": 0.588,
+      "sources_count": 1,
+      "first_seen": "2026-11-27T16:17:00+00:00",
+      "image": "http://nden.com.ar/uploads/noticias/5/2026/11/ffb5b5aca6c56d021d3080f32a9c842bd9c0b79f.jpg",
+      "articles": [
+        {
+          "portal": "Noticias de Necochea",
+          "title": "El Concejo pidió por unanimidad un plan para arreglar las calles de tierra en Necochea",
+          "url": "https://nden.com.ar/nota/38843/el-concejo-pidio-por-unanimidad-un-plan-para-arreglar-las-calles-de-tierra-en-necochea",
+          "published_at": "2026-11-27T16:17:00+00:00",
+          "first_seen": "2026-11-27T22:39:12.654150+00:00",
+          "category": null,
+          "image": "http://nden.com.ar/uploads/noticias/5/2026/11/ffb5b5aca6c56d021d3080f32a9c842bd9c0b79f.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Reclamo barrial El Concejo pidió por unanimidad un plan para arreglar las calles de tierra en Necochea"
+        ],
+        "generated": "2026-11-27T22:40:16.760360+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-27T22:39:12.654150+00:00"
+    },
+    {
+      "key": "pablo juliano vuelve necochea hablar vecinos deudas familiares salud escuela publica",
+      "title": "Pablo Juliano vuelve a Necochea para hablar con los vecinos sobre las deudas familiares, la salud y la escuela pública",
+      "score": 0.556,
+      "sources_count": 1,
+      "first_seen": "2026-11-27T15:36:00+00:00",
+      "image": "http://nden.com.ar/uploads/noticias/5/2026/11/20261127123753_851887617-18472513495142615-1688893533512794681-n.jpg",
+      "articles": [
+        {
+          "portal": "Noticias de Necochea",
+          "title": "Pablo Juliano vuelve a Necochea para hablar con los vecinos sobre las deudas familiares, la salud y la escuela pública",
+          "url": "https://nden.com.ar/nota/38842/pablo-juliano-vuelve-a-necochea-para-hablar-con-los-vecinos-sobre-las-deudas-familiares-la-salud-y-la-escuela-publica",
+          "published_at": "2026-11-27T15:36:00+00:00",
+          "first_seen": "2026-11-27T22:39:12.654150+00:00",
+          "category": null,
+          "image": "http://nden.com.ar/uploads/noticias/5/2026/11/20261127123753_851887617-18472513495142615-1688893533512794681-n.jpg"
+        }
+      ],
+      "summary": {
+        "paragraphs": [
+          "Reclamo barrial El Concejo pidió por unanimidad un plan para arreglar las calles de tierra en Necochea"
+        ],
+        "generated": "2026-11-27T22:40:17.421688+00:00"
+      },
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-27T22:39:12.654150+00:00"
     },
     {
       "key": "presupuesto 2027 oposicion logro elevar 11 billones fondos universidades",
       "title": "Presupuesto 2027: la oposición logró elevar a $11 billones los fondos para las universidades",
-      "score": 0.117,
+      "score": 0.417,
       "sources_count": 1,
       "first_seen": "2026-11-27T12:09:00+00:00",
       "image": "http://nden.com.ar/uploads/noticias/5/2026/11/ead41fb9acd4d1a40506a2451dc70a1ab1b04b7c.jpg",
@@ -518,16 +695,16 @@
         "paragraphs": [
           "Congreso Nacional Presupuesto 2027: la oposición logró elevar a $11 billones los fondos para las universidades"
         ],
-        "generated": "2026-11-27T13:49:53.883488+00:00"
+        "generated": "2026-11-27T22:40:18.089928+00:00"
       },
-      "apariciones": 5,
-      "ultima_impresion": "2026-11-27T13:49:20.659263+00:00",
-      "penalizacion": 0.135
+      "apariciones": 6,
+      "ultima_impresion": "2026-11-27T22:39:12.654150+00:00",
+      "penalizacion": 1.0
     },
     {
       "key": "claudio martinez prepara despedida ciclismo 34 anos bicicleta vida sacrificios pasion continuara otro lugar",
       "title": "Claudio Martínez prepara su despedida del ciclismo: 34 años sobre la bicicleta, una vida de sacrificios y una pasión que continuará desde otro lugar",
-      "score": 0.117,
+      "score": 0.417,
       "sources_count": 1,
       "first_seen": "2026-11-27T12:08:55+00:00",
       "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/cc44d279-a37d-4720-bbe0-cde581388c55.jpg",
@@ -547,16 +724,16 @@
           "A los 43 años, el destacado ciclista necochense anunció que competirá hasta fines de 2026 y luego dejará la actividad competitiva. Con una trayectoria repleta de triunfos, campeonatos y experiencias, buscará dedicarle más tiempo a su familia, su negocio y a transmitir sus conocimientos a las nuevas generaciones. Claudio, repasó su historia, habló de las emociones de compartir el pelotón con su hijo y explicó por qué siente que llegó el momento de bajar el ritmo. Hay historias deportivas que se construyen con medallas, campeonatos y victorias.",
           "Otras también se escriben con sacrificio, constancia, madrugadas, kilómetros recorridos y una pasión que atraviesa generaciones. La de Claudio Martínez reúne todo eso. Con un apellido estrechamente ligado al ciclismo de Necochea, Martínez lleva prácticamente toda una vida arriba de una bicicleta."
         ],
-        "generated": "2026-11-27T13:49:57.205799+00:00"
+        "generated": "2026-11-27T22:40:20.462357+00:00"
       },
-      "apariciones": 5,
-      "ultima_impresion": "2026-11-27T13:49:20.659263+00:00",
-      "penalizacion": 0.135
+      "apariciones": 6,
+      "ultima_impresion": "2026-11-27T22:39:12.654150+00:00",
+      "penalizacion": 1.0
     },
     {
       "key": "23 horas frente montana aventura etelvina deguer termino sexto puesto primer lugar categoria",
       "title": "23 horas frente a la montaña: la aventura de Etelvina Deguer que terminó con un sexto puesto y el primer lugar en su categoría",
-      "score": 0.116,
+      "score": 0.413,
       "sources_count": 1,
       "first_seen": "2026-11-27T12:01:50+00:00",
       "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/d720e166-a5a4-46cc-8b20-325d0f5274e7.jpg",
@@ -576,16 +753,16 @@
           "La atleta necochense, completó los exigentes 130 kilómetros de Bariloche by UTMB, una prueba de ultratrail que la llevó a correr durante 23 horas y atravesar algunos de los paisajes más imponentes de la Patagonia. Fue sexta en la clasificación general y primera en su categoría. En una entrevista con Zoom El Deportivo, contó las dificultades, las emociones y los desafíos que implica correr durante casi un día entero en la montaña.",
           "Hay desafíos que se miden en kilómetros, otros en horas y algunos, mucho más profundos, en la capacidad de superar los propios límites. Para Etelvina Deguer, la experiencia vivida en Bariloche reunió todo eso. Fueron 130 kilómetros de montaña, 23 horas y cinco minutos de esfuerzo, cansancio, pensamientos encontrados y una enorme satisfacción al cruzar la línea de llegada."
         ],
-        "generated": "2026-11-27T13:49:59.592181+00:00"
+        "generated": "2026-11-27T22:40:22.875011+00:00"
       },
-      "apariciones": 5,
-      "ultima_impresion": "2026-11-27T13:49:20.659263+00:00",
-      "penalizacion": 0.135
+      "apariciones": 6,
+      "ultima_impresion": "2026-11-27T22:39:12.654150+00:00",
+      "penalizacion": 1.0
     },
     {
       "key": "playas guardavidas diciembre puestos suman horarios",
       "title": "Más playas con guardavidas desde el 1 de diciembre: qué puestos se suman y en qué horarios",
-      "score": 0.115,
+      "score": 0.41,
       "sources_count": 1,
       "first_seen": "2026-11-27T11:58:00+00:00",
       "image": "http://nden.com.ar/uploads/noticias/5/2026/11/20261127085925_20251227104716-20230613092018-guardavidas-1.jpg",
@@ -604,16 +781,16 @@
         "paragraphs": [
           "COBERTURA DE VERANO Más playas con guardavidas desde el 1 de diciembre: qué puestos se suman y en qué horarios"
         ],
-        "generated": "2026-11-27T13:50:00.267895+00:00"
+        "generated": "2026-11-27T22:40:23.517445+00:00"
       },
-      "apariciones": 5,
-      "ultima_impresion": "2026-11-27T13:49:20.659263+00:00",
-      "penalizacion": 0.135
+      "apariciones": 6,
+      "ultima_impresion": "2026-11-27T22:39:12.654150+00:00",
+      "penalizacion": 1.0
     },
     {
       "key": "villa diaz velez dio primer paso titulo goleadoras palpitan gran final sportivo san cayetano",
       "title": "Villa Díaz Vélez dio el primer paso hacia el título: las goleadoras palpitan la gran final ante Sportivo San Cayetano",
-      "score": 0.063,
+      "score": 0.409,
       "sources_count": 1,
       "first_seen": "2026-11-27T11:55:32+00:00",
       "image": "https://diarionq.com.ar/wp-content/uploads/2026/11/a447eb84-ad07-4ebe-99b9-f5b4b0bf2f0c.jpg",
@@ -633,231 +810,98 @@
           "Estefanía Besoin y Rocío González, autoras de los goles en el triunfo 2 a 0 del partido de ida, visitaron los estudios de Zoom El Deportivo y analizaron la primera final del fútbol femenino. Con una ventaja importante, pero conscientes de que todavía quedan 90 minutos, las jugadoras destacaron el apoyo de la gente y anticiparon un encuentro decisivo en San Cayetano.",
           "La definición del campeonato anual de fútbol femenino tendrá un capítulo decisivo el próximo sábado, cuando Villa Díaz Vélez visite a Sportivo San Cayetano para disputar la segunda final. El conjunto de Necochea llegará con una ventaja de dos goles, luego de imponerse por 2 a 0 en el encuentro de ida, con tantos de Estefanía Besoin y Rocío González."
         ],
-        "generated": "2026-11-27T13:50:02.113474+00:00"
-      },
-      "apariciones": 6,
-      "ultima_impresion": "2026-11-27T13:49:20.659263+00:00",
-      "penalizacion": 0.074
-    },
-    {
-      "key": "viernes 30 posibles tormentas necochea quequen",
-      "title": "Viernes de 30°C y posibles tormentas en Necochea y Quequén",
-      "score": 0.062,
-      "sources_count": 1,
-      "first_seen": "2026-11-27T11:42:00+00:00",
-      "image": "http://nden.com.ar/uploads/noticias/5/2026/11/20261127084304_899586664-10240997652111092-3930544776330840410-n.jpg",
-      "articles": [
-        {
-          "portal": "Noticias de Necochea",
-          "title": "Viernes de 30°C y posibles tormentas en Necochea y Quequén",
-          "url": "https://nden.com.ar/nota/38838/viernes-de-30-deg-c-y-posibles-tormentas-en-necochea-y-quequen",
-          "published_at": "2026-11-27T11:42:00+00:00",
-          "first_seen": "2026-11-27T12:00:01.311293+00:00",
-          "category": null,
-          "image": "http://nden.com.ar/uploads/noticias/5/2026/11/20261127084304_899586664-10240997652111092-3930544776330840410-n.jpg"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "Transporte público Tras el paro, los colectivos vuelven este viernes a Necochea y Quequén desde el primer servicio"
-        ],
-        "generated": "2026-11-27T13:50:04.622800+00:00"
-      },
-      "apariciones": 6,
-      "ultima_impresion": "2026-11-27T13:49:20.659263+00:00",
-      "penalizacion": 0.074
-    },
-    {
-      "key": "concejales aprobaron asistencia consumidores sobreendeudados omic",
-      "title": "Concejales aprobaron la asistencia para consumidores sobreendeudados en la OMIC",
-      "score": 0.039,
-      "sources_count": 1,
-      "first_seen": "2026-11-27T11:00:45+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/29-SO.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Concejales aprobaron la asistencia para consumidores sobreendeudados en la OMIC",
-          "url": "https://tsnnecochea.com.ar/locales/concejales-aprobaron-la-asistencia-para-consumidores-sobreendeudados-en-la-omic-243365/",
-          "published_at": "2026-11-27T11:00:45+00:00",
-          "first_seen": "2026-11-27T11:30:00.379033+00:00",
-          "category": "concejo",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/29-SO.webp"
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Locales | concejo | Sesión Concejales aprobaron la asistencia para consumidores sobreendeudados en la OMIC En la 14ª sesión ordinaria del período 2026, el cuerpo sancionó por unanimidad tres expedientes sobre mantenimiento vial, avaló por mayoría el programa de orientación en la OMIC y autorizó compras para el Hospital Ferreyra.",
-          "Además, pasaron a comisión las iniciativas de La Libertad Avanza sobre vehículos en la arena y erosión costera en Quequén."
-        ],
-        "generated": "2026-11-27T13:49:52.388226+00:00"
+        "generated": "2026-11-27T22:40:25.782292+00:00"
       },
       "apariciones": 7,
-      "ultima_impresion": "2026-11-27T13:49:20.659263+00:00",
-      "penalizacion": 0.041
+      "ultima_impresion": "2026-11-27T22:39:12.654150+00:00",
+      "penalizacion": 1.0
     },
     {
-      "key": "fallece andy taylor guitarrista duran duran 65 anos",
-      "title": "Fallece Andy Taylor, guitarrista de Duran Duran, a los 65 años",
-      "score": 0.009,
+      "key": "levantan retencion tareas manana vuelven colectivos primer servicio",
+      "title": "Levantan la retención de tareas: mañana vuelven los colectivos desde el primer servicio",
+      "score": 0.134,
       "sources_count": 1,
-      "first_seen": "2026-11-27T10:17:41+00:00",
+      "first_seen": "2026-11-26T22:33:45+00:00",
       "image": null,
       "articles": [
         {
-          "portal": "Necochea News",
-          "title": "Fallece Andy Taylor, guitarrista de Duran Duran, a los 65 años",
-          "url": "https://necocheanews.com.ar/fallece-andy-taylor-guitarrista-de-duran-duran-a-los-65-anos/",
-          "published_at": "2026-11-27T10:17:41+00:00",
-          "first_seen": "2026-11-27T10:30:01.289846+00:00",
-          "category": "ESPECTACULOS",
+          "portal": "Diario NQ",
+          "title": "Levantan la retención de tareas: mañana vuelven los colectivos desde el primer servicio",
+          "url": "https://diarionq.com.ar/levantan-la-retencion-de-tareas-manana-vuelven-los-colectivos-desde-el-primer-servicio/",
+          "published_at": "2026-11-26T22:33:45+00:00",
+          "first_seen": "2026-11-27T22:39:12.654150+00:00",
+          "category": "Destacadas",
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "El músico británico Andy Taylor murió el lunes 23 de noviembre en su casa, rodeado de su familia, tras una larga batalla contra un cáncer de próstata metastásico. Nacido el 16 de febrero de 1961 en Tynemouth, al noreste de Inglaterra, y criado en el pueblo pesquero de Cullercoats, Taylor se incorporó a Duran Duran en 1980 después de responder a un anuncio del grupo en busca de un “guitarrista enérgico”. Su llegada aportó el filo de rock que distinguió a la banda dentro del movimiento New Romantic, participando en los álbumes “Duran Duran” (1981), “Rio” (1982) y “Seven and the Ragged Tiger” (1983).",
-          "Fue coautor de éxitos como “Rio”, “The Reflex”, “Girls on Film” y “The Wild Heart”. En 1986 abandonó Duran Duran y cofundó el supergrupo The Power Station junto a John Taylor, Tony Thompson y Robert Palmer. Posteriormente colaboró con artistas como Rod Stewart y Belinda Carlisle."
+          "La retención de tareas que afectaba al servicio de colectivos quedó levantada y este viernes las unidades volverán a circular desde el primer servicio de la jornada. La decisión se tomó luego de confirmarse que a primera hora de mañana será depositado en las cuentas de los trabajadores el dinero que se encontraba pendiente. A partir de esa confirmación, los choferes resolvieron retomar sus tareas y los coches volverán a salir a cumplir con sus recorridos habituales desde el inicio de la jornada.",
+          "La medida había generado complicaciones para los usuarios del transporte público durante las últimas horas, ante la falta de circulación de las unidades. Con el depósito previsto para primera hora y el levantamiento de la retención, se espera que este viernes el servicio vuelva a funcionar con normalidad desde el primer recorrido."
         ],
-        "generated": "2026-11-27T13:50:05.762376+00:00"
+        "generated": "2026-11-27T22:40:28.782126+00:00"
       },
-      "apariciones": 9,
-      "ultima_impresion": "2026-11-27T13:49:20.659263+00:00",
-      "penalizacion": 0.012
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-27T22:39:12.654150+00:00"
     },
     {
-      "key": "river plate prepara choque instituto cordoba espera recuperacion acuna beltran",
-      "title": "River Plate se prepara para el choque contra Instituto en Córdoba y espera la recuperación de Acuña y Beltrán",
-      "score": 0.009,
+      "key": "senado aprobo suspension paso 2027 proyecto pasa diputados",
+      "title": "El Senado aprobó la suspensión de las PASO para 2027 y el proyecto pasa a Diputados",
+      "score": 0.131,
       "sources_count": 1,
-      "first_seen": "2026-11-27T10:16:30+00:00",
+      "first_seen": "2026-11-26T22:14:24+00:00",
       "image": null,
       "articles": [
         {
-          "portal": "Necochea News",
-          "title": "River Plate se prepara para el choque contra Instituto en Córdoba y espera la recuperación de Acuña y Beltrán",
-          "url": "https://necocheanews.com.ar/river-plate-se-prepara-para-el-choque-contra-instituto-en-cordoba-y-espera-la-recuperacion-de-acuna-y-beltran/",
-          "published_at": "2026-11-27T10:16:30+00:00",
-          "first_seen": "2026-11-27T10:30:01.289846+00:00",
-          "category": "DEPORTES",
+          "portal": "Diario NQ",
+          "title": "El Senado aprobó la suspensión de las PASO para 2027 y el proyecto pasa a Diputados",
+          "url": "https://diarionq.com.ar/el-senado-aprobo-la-suspension-de-las-paso-para-2027-y-el-proyecto-pasa-a-diputados/",
+          "published_at": "2026-11-26T22:14:24+00:00",
+          "first_seen": "2026-11-27T22:39:12.654150+00:00",
+          "category": "Destacadas",
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "El conjunto dirigido por Leonardo Ponzio afinó los últimos detalles para el partido de cuartos de final del Torneo Clausura, que se disputará este sábado en la Ciudad de Córdoba, mientras mantiene la duda sobre la disponibilidad de dos de sus titulares. Cambio de logística y entrenamiento El club había planificado viajar a Córdoba el viernes por la noche y alojarse en un hotel local para que los jugadores descansaran antes del encuentro.",
-          "La alta ocupación hotelera generada por varios eventos del fin de semana obligó a modificar el plan; por ello, el plantel permanecerá concentrado en el Monumental y partirá el sábado mismo hacia la Docta. El viernes se realizará el último entrenamiento bajo la supervisión de Ponzio, con el objetivo de definir la alineación definitiva."
+          "El Senado de la Nación dio media sanción este jueves al proyecto de reforma electoral que contempla la suspensión de las Primarias Abiertas, Simultáneas y Obligatorias (PASO) para las elecciones nacionales de 2027. La iniciativa fue aprobada por 43 votos afirmativos y 29 negativos y deberá ser tratada ahora por la Cámara de Diputados para convertirse en ley. Uno de los puntos centrales del proyecto establece que las PASO no se realizarán durante el proceso electoral de 2027.",
+          "El mecanismo continuará vigente en la legislación, pero su aplicación quedará suspendida para los próximos comicios nacionales. En ese escenario, los partidos políticos deberán definir sus candidaturas mediante elecciones internas u otros mecanismos previstos en sus respectivas cartas orgánicas, mientras que las alianzas deberán regirse por sus propios reglamentos. La reforma también incorpora el denominado régimen de Ficha Limpia."
         ],
-        "generated": "2026-11-27T13:50:06.600565+00:00"
+        "generated": "2026-11-27T22:40:31.982347+00:00"
       },
-      "apariciones": 9,
-      "ultima_impresion": "2026-11-27T13:49:20.659263+00:00",
-      "penalizacion": 0.012
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-27T22:39:12.654150+00:00"
     },
     {
-      "key": "tevez quiere formar tridente historico riquelme palermo partido despedida 20 diciembre",
-      "title": "Tevez quiere formar un tridente histórico con Riquelme y Palermo en su partido de despedida el 20 de diciembre",
-      "score": 0.009,
+      "key": "cardinal sur reunio 300 vehiculos nueva travesia medano blanco",
+      "title": "Cardinal Sur reunió más de 300 vehículos en una nueva travesía al Médano Blanco",
+      "score": 0.07,
       "sources_count": 1,
-      "first_seen": "2026-11-27T10:14:17+00:00",
+      "first_seen": "2026-11-26T14:44:13+00:00",
       "image": null,
       "articles": [
         {
-          "portal": "Necochea News",
-          "title": "Tevez quiere formar un tridente histórico con Riquelme y Palermo en su partido de despedida el 20 de diciembre",
-          "url": "https://necocheanews.com.ar/tevez-quiere-formar-un-tridente-historico-con-riquelme-y-palermo-en-su-partido-de-despedida-el-20-de-diciembre/",
-          "published_at": "2026-11-27T10:14:17+00:00",
-          "first_seen": "2026-11-27T10:30:01.289846+00:00",
-          "category": "DEPORTES",
+          "portal": "Diario NQ",
+          "title": "Cardinal Sur reunió más de 300 vehículos en una nueva travesía al Médano Blanco",
+          "url": "https://diarionq.com.ar/cardinal-sur-reunio-mas-de-300-vehiculos-en-una-nueva-travesia-al-medano-blanco/",
+          "published_at": "2026-11-26T14:44:13+00:00",
+          "first_seen": "2026-11-27T22:39:12.654150+00:00",
+          "category": "Eventos",
           "image": null
         }
       ],
       "summary": {
         "paragraphs": [
-          "El exdelantero del Boca Juniors imaginó compartir el ataque de la Bombonera con Juan Román Riquelme y Martín Palermo, y espera la participación del presidente del club en la jornada de despedida. Carlos Tevez confirmó que su último partido con la camiseta azul y oro se jugará el 20 de diciembre en la Bombonera. En una entrevista con TyC Sports, el “Apache” expresó su deseo de ver a Riquelme y Palermo alineados junto a él: “Me encantaría que juegue. Yo me imagino a Román, a Martín y a mí arriba.",
-          "Sería un sueño, imaginate cómo va a estar la Bombonera”. Hasta el momento, la presencia de Riquelme en el campo no está confirmada. El futbolista también agradeció al presidente del club por su disposición desde el primer contacto, y señaló que el dirigente podrá decidir cómo participar."
+          "La Asociación Civil Cardinal Sur volvió a organizar una de sus tradicionales travesías por la costa necochense, con una convocatoria que rondó los 310 vehículos. La actividad reunió a participantes de Necochea y de diferentes ciudades, combinó aventura, solidaridad y turismo, y tuvo además una jornada previa en Costa Bonita. Charlando con Fede Cañadas en “Esta Mañana”, por NEC Radio 98.3 del Multimedio NQ, Nacho Otero, presidente de la Asociación Civil Cardinal Sur, y Juan Gader, vicepresidente , realizaron un balance de la última travesía al Médano Blanco, una propuesta que volvió a reunir a cientos de vehículos y visitantes de diferentes puntos del país.",
+          "Según explicaron, alrededor de 310 vehículos participaron de la jornada principal, con presencia de vecinos de Necochea y visitantes llegados desde Buenos Aires, La Plata, Olavarría, Claromecó, Orense y Mar del Plata. También hubo muchos necochenses que participaron por primera vez."
         ],
-        "generated": "2026-11-27T13:50:07.626239+00:00"
+        "generated": "2026-11-27T22:40:34.041372+00:00"
       },
-      "apariciones": 9,
-      "ultima_impresion": "2026-11-27T13:49:20.659263+00:00",
-      "penalizacion": 0.012
-    },
-    {
-      "key": "camara diputados aprueba reforma carta organica banco central",
-      "title": "Cámara de Diputados aprueba la reforma de la Carta Orgánica del Banco Central",
-      "score": 0.005,
-      "sources_count": 1,
-      "first_seen": "2026-11-27T09:43:51+00:00",
-      "image": null,
-      "articles": [
-        {
-          "portal": "Necochea News",
-          "title": "Cámara de Diputados aprueba la reforma de la Carta Orgánica del Banco Central",
-          "url": "https://necocheanews.com.ar/camara-de-diputados-aprueba-la-reforma-de-la-carta-organica-del-banco-central/",
-          "published_at": "2026-11-27T09:43:51+00:00",
-          "first_seen": "2026-11-27T10:00:00.350145+00:00",
-          "category": "NACIONALES",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "La iniciativa, que ya había sido aprobada en el Senado, se convirtió en ley con 141 votos a favor y 99 abstenciones, introduciendo seis cambios clave en la estructura y funciones del BCRA. La Cámara de Diputados dio el paso definitivo el jueves, convirtiendo en ley la reforma de la Carta Orgánica del Banco Central de la República Argentina. Los legisladores votaron a favor en 141 casos y se abstuvieron 99, una decisión de la oposición que evitó el rechazo y permitió la sanción del texto.",
-          "El Senado había respaldado la medida un mes antes, con 46 votos a favor y 22 en contra, y había introducido una modificación al artículo 3, que regula la designación y remoción de los directivos del banco. Los principales puntos de la nueva normativa son: 1. El Gobierno nombrará a los directores del BCRA, quienes ejercerán un mandato de seis años con posibilidad de una reelección."
-        ],
-        "generated": "2026-11-27T13:50:08.416952+00:00"
-      },
-      "apariciones": 10,
-      "ultima_impresion": "2026-11-27T13:49:20.659263+00:00",
-      "penalizacion": 0.007
-    },
-    {
-      "key": "viernes habra jornada especial vacunacion dengue covid",
-      "title": "Jornada especial de vacunación contra el dengue y el Covid",
-      "score": 0.0,
-      "sources_count": 3,
-      "first_seen": "2026-11-27T04:34:29+00:00",
-      "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/Vacunacion.webp",
-      "articles": [
-        {
-          "portal": "TSN Necochea",
-          "title": "Jornada especial de vacunación contra el dengue y el Covid",
-          "url": "https://tsnnecochea.com.ar/generales/jornada-especial-de-vacunacion-contra-el-dengue-y-el-covid-243375/",
-          "published_at": "2026-11-27T04:34:29+00:00",
-          "first_seen": "2026-11-27T05:00:01.083719+00:00",
-          "category": "Covid",
-          "image": "https://tsnnecochea.com.ar/wp-content/uploads/2026/11/Vacunacion.webp"
-        },
-        {
-          "portal": "Necochea Digital",
-          "title": "Este viernes habrá una jornada especial de vacunación contra el dengue y el Covid",
-          "url": "https://necocheadigital.com/nota/120297/este-viernes-habra-una-jornada-especial-de-vacunacion-contra-el-dengue-y-el-covid/",
-          "published_at": null,
-          "first_seen": "2026-11-27T12:00:01.311293+00:00",
-          "category": null,
-          "image": null
-        },
-        {
-          "portal": "Necochea News",
-          "title": "Jornada de vacunación contra dengue y Covid se realizará este viernes en el CAPS Carlos Fucile de Necochea",
-          "url": "https://necocheanews.com.ar/jornada-de-vacunacion-contra-dengue-y-covid-se-realizara-este-viernes-en-el-caps-carlos-fucile-de-necochea/",
-          "published_at": "2026-11-27T10:30:40+00:00",
-          "first_seen": "2026-11-27T11:00:00.782333+00:00",
-          "category": "LOCALES",
-          "image": null
-        }
-      ],
-      "summary": {
-        "paragraphs": [
-          "TSN Necochea | ‹ VOLVER | Generales | Covid | Prevención Jornada especial de vacunación contra el dengue y el Covid Será de 8 a 14 en el Centro de Atención primaria de la Salud \"Fucile\" de la Villa balnearia. Por Redacción TSN 27/11/2026 · 01:34 AM Agregar TSN Necochea en A través de la Dirección de Atención Primaria y la Secretaría de Salud, que este viernes 27 de noviembre se realizará una jornada especial de vacunación contra el dengue y el Covid en el Centro de Atención Primaria de la Salud (CAPS) «Carlos Fucile».",
-          "El operativo tendrá lugar de 8 a 14, en el establecimiento ubicado en calle 71 N° 276, entre 4 y 6 , de la Villa balnearia. En relación con la vacuna contra el dengue, la directora de Atención Primaria, Carina Mazeris, informó esta semana que ya no es necesario contar con antecedentes de la enfermedad ni cumplir con un requisito epidemiológico para acceder a la dosis."
-        ],
-        "generated": "2026-11-27T13:49:38.567602+00:00"
-      },
-      "apariciones": 21,
-      "ultima_impresion": "2026-11-27T13:49:20.659263+00:00",
-      "penalizacion": 0.0
+      "penalizacion": 1.0,
+      "apariciones": 1,
+      "ultima_impresion": "2026-11-27T22:39:12.654150+00:00"
     }
   ]
 }
